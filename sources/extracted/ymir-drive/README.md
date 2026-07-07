@@ -72,20 +72,16 @@ carries a lot of embedded setting lore (gods, races, planes, summoned entities).
 | `Gen-Situazioni-Bifolche.txt` | 1,100 | Random **peasant-situation** generator (Italian Mad-Libs table). |
 | `Gen-Incontri.txt` | 380 | Random **hostile-encounter** generator (Italian). |
 
-### `_uncertain-forgiven-lands/` — ⚠️ quarantined, probably NOT Ymir
-A separate **AD&D 2e "Forgiven Lands"** campaign (own map & continuity; villain *Duca di
-Nimard*, *Archduke Dairyon*). Captured for your decision — fold in, keep separate, or drop.
-| File | ~words | Holds |
-|---|---:|---|
-| `_uncertain-forgiven-lands/Plot.txt` | 140 | Campaign plot outline (Italian). |
-| `_uncertain-forgiven-lands/House-Rules.txt` | 430 | House rules (generic D&D/OSR classes). |
-| `_uncertain-forgiven-lands/Locations.txt` | 130 | Location gazetteer (Casa di Midian la Strega, Famiglia Gutter, l'Obelisco…). |
+### Excluded — Forgiven Lands (AD&D2), not Ymir
+A separate **AD&D 2e "Forgiven Lands"** campaign was found in Drive (own map & continuity;
+villain *Duca di Nimard*). **Excluded per Alessandro** — not part of Ymir. It remains
+catalogued (link-only) in `../../raw/ymir-drive/DRIVE-MANIFEST.md`.
 
 ## Not extractable (see manifest)
 - The **large map PSDs** (`Ymir_50x75_300dpi` 130 MB print world map, `Letia Hexr` 130 MB hex
-  map, `The Forgiven Lands` 375 MB) exceed the Drive connector's **10 MB** download cap. The
-  world map is here at raster res (`../../raw/ymir-drive/maps/YMIR.jpg`, `ymirexplored.png`,
-  `YMIR.png`); the **Letia hex map has no raster alternative**. To recover: re-export them
-  to <10 MB in Drive.
+  map) exceed the Drive connector's **10 MB** download cap. The world map is here at raster
+  res (`../../raw/ymir-drive/maps/YMIR.jpg`, `ymirexplored.png`, `YMIR.png`); the **Letia hex
+  map has no raster alternative**. **Alessandro will supply these maps separately** — not to be
+  re-attempted via the connector.
 - The `Allspells/` folder was **generic d20 SRD (OGL)** spells, not Ymir — excluded.
 - **Character sheets** and generic AD&D2/Rolemaster netbooks — skipped (catalogued in manifest).

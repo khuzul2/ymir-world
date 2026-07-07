@@ -110,12 +110,12 @@ Ymir/                                  (root folder 0B51K1jhM2wrFcDZlbTc3ZEctbjQ
 - ⏭️ ~70 **stock fantasy wallpaper JPGs** (Warhammer/MTG/generic art) used as VTT status icons + `comune_cap_pr_regione.xls` (Italian postal data). Not Ymir lore.
 
 ## AD&D2/Campagna Estate 2014/ — ⚠️ separate non-Ymir campaign · folder `0B51K1jhM2wrFSWtFTDVPS2R5V3M`
-"The Forgiven Lands" — an **AD&D 2e** campaign, **not the Ymir setting** (own map & continuity; villain "Duca di Nimard"). Captured for review under `sources/extracted/ymir-drive/_uncertain-forgiven-lands/`:
+"The Forgiven Lands" — an **AD&D 2e** campaign, **not the Ymir setting** (own map & continuity; villain "Duca di Nimard"). **Excluded per Alessandro (2026-07-07)** — catalogued here link-only, not carried in `sources/`:
 | File | id | Status |
 |---|---|---|
-| Plot.docx | 0B51K1jhM2wrFUHpTalJ6bzNSRVU | ✅ 📦 (quarantined) |
-| House Rules.docx | 0B51K1jhM2wrFQk9VWHB1cG8ySFk | ✅ 📦 (quarantined) |
-| Locations.rtf | 0B51K1jhM2wrFa2lqZ2MyazNxU2s | ✅ 📦 (quarantined) |
+| Plot.docx | 0B51K1jhM2wrFUHpTalJ6bzNSRVU | ⏭️ excluded |
+| House Rules.docx | 0B51K1jhM2wrFQk9VWHB1cG8ySFk | ⏭️ excluded |
+| Locations.rtf | 0B51K1jhM2wrFa2lqZ2MyazNxU2s | ⏭️ excluded |
 | The Forgiven Lands.jpg (12 MB) | 0B51K1jhM2wrFQ0U3bnJiS2lNNXc | 🚫 over 10 MB cap |
 | The Forgiven Lands.psd (375 MB) | 0B51K1jhM2wrFNHVqcFRzYWN6SVU | 🚫 over 10 MB cap |
 | Session xlsx (Tomb of Archduke Dairyon, Dungeon Escape), netbook pdfs | — | ⏭️ |

@@ -81,12 +81,11 @@ folder tree into `sources/raw/ymir-drive/` (originals) and
 - 🧰 **GM tools.** Two Italian random generators (peasant-situation & hostile-encounter
   Mad-Libs tables) — usable as GM colour appendices.
 
-## ⚠️ Quarantined / possibly-not-Ymir
-- ⚠️ **"Campagna Estate 2014" = a separate AD&D2 "Forgiven Lands" campaign, not Ymir.**
-  Its map is titled *The Forgiven Lands*; plot names a **Duca di Nimard**. The 3 small text
-  docs (Plot, House Rules, Locations) were captured into
-  `sources/extracted/ymir-drive/_uncertain-forgiven-lands/` **for your call** — fold into
-  Ymir, keep as a separate setting, or drop? (Netbooks & session spreadsheets were skipped.)
+## ✅ Excluded (resolved, per Alessandro 2026-07-07)
+- ✅ **"Campagna Estate 2014" = a separate AD&D2 "Forgiven Lands" campaign — NOT Ymir; excluded.**
+  (Map titled *The Forgiven Lands*; villain *Duca di Nimard*.) Per Alessandro, ignored: the
+  captured docs were **removed from `sources/`**. Still catalogued (link-only) in
+  `sources/raw/ymir-drive/DRIVE-MANIFEST.md` if ever wanted.
 
 ## 🚧 Extraction limitations (Drive corpus)
 - 🚧 **10 MB download cap.** The Drive connector refuses binary downloads >10 MB, so three
@@ -96,7 +95,8 @@ folder tree into `sources/raw/ymir-drive/` (originals) and
   (`maps/YMIR.jpg` from the 4.6 MB PSD, plus `ymirexplored.png`/`YMIR.png`). To get the big
   ones we'd need them **re-exported to <10 MB (flattened JPG/PNG) in Drive**, or fetched via
   the raw Google Drive API (not exposed through the current tool). **The Letia hex map has no
-  raster alternative — currently unrecoverable via these tools.**
+  raster alternative — currently unrecoverable via these tools.** → **Alessandro will supply
+  these maps separately later** (don't re-attempt via the connector).
 - 🚧 **Char sheets deliberately skipped** (per Alessandro) — the many `.xlsx/.pdf` YMIR
   character sheets and generic AD&D2/Rolemaster netbooks are catalogued in the manifest but
   not extracted.
