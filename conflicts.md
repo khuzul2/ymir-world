@@ -368,5 +368,194 @@ _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 
 ---
 
-## Re-audit additions
-_(populated from the five domain audits — appended below once merged)_
+## Re-audit additions (5 domain audits)
+> Compact entries: **ID** `sev` — what clashes → **Rec.** Full options expanded during the
+> walkthrough. Line-refs were vs. pre-102-batch canon; a final pass reconciles these against
+> the new batch. Several refine a migrated entry (noted).
+
+### Cosmology / religion / the secret
+- **COS-10** `high` — "Mithra/Ahriman = Adepti" over-extends the heresy; the taxonomy puts them
+  in a higher **Superni** (pure-Essence) class, only the **six Elementali** are the Adepti-suspects.
+  → **Rec:** only the six (+Topramesk) are Adepti; Mithra/Ahriman are real Essence-principles the
+  Adepti co-opted (names/cults). Refines COS-4.
+- **COS-11** `high` — What the Maelstrom *seals*, and demon ingress: scar-of-Ragash vs deliberate
+  seal; Inferno/Abisso prison vs Piano del Caos vs the "campana di isolamento." → **Rec:** unify —
+  Maelstrom is both the scar and an isolation-field over the submerged Inferno; cracking it lets
+  the prison rise.
+- **COS-12** `high` — Two periodizations of the present: escalating **Era della Marea** vs
+  **Nuova Era del Caos (3026–3260) → Nuovo Equilibrio (3260–~3500)** which *calms down*.
+  → **Rec:** make Caos/Equilibrio sub-phases of the Marea (an ominous lull); fix the false "latest
+  attested = 3027." Ties to HIS-1.
+- **COS-13** `med` — Blood Moon **appears** (portent, ~3026) vs **disappears** (3260); identity
+  Tuulhak-Xanar vs Xhulhu; spelling Sguardo-sul/Nel-Nulla. → **Rec:** one wandering red body (the
+  Observer = Tuulhak-Xanar) that appears then withdraws; lock spelling. Refines COS-6/COS-9.
+- **COS-14** `med` — Which Adepts became which gods? 7 Ragash Adepts vs 6 Twins + pantheon.
+  → **Rec:** the six companions = the six Elemental Gods; Topramesk = the 7th, withdrawn to the Dreamlands.
+- **COS-15** `med` — Aether/Nether listed as *planes* vs "no plane, = combination of elements";
+  Nether (eternal pole) vs Corrupted Essence (Catastrophe-born). → **Rec:** not planes; keep
+  Nether ≠ Corrupted Essence.
+- **COS-16** `med` — Spirit World/Ethereal vs the Dreamlands: separate or same? → **Rec:** nest —
+  Dreamlands are a region of the Spirit World (Spirits' realm), which the Outer Gods rule.
+- **COS-17** `med` — Elves **engineered on Tchyo** vs elves = the **native pre-Adepti "Antichi"**
+  of Tchyo who *invited* the Adepti. → **Rec:** elves native (not engineered); Niethel = lost Tchyo.
+- **COS-18** `med` — Dragons have 3 origins (primordial Grandi Vermi / elemental "Draghi" rank /
+  20 Adepti-engineered Veri Draghi). → **Rec:** 3 distinct kinds sharing a name. Refines MAG-1.
+- **COS-19** `med` — The "beyond" overloaded: Void / Spazio Esterno / Inferno-Abisso / Piano del
+  Caos / Dreamlands. → **Rec:** one Outer Space (Ancient Gods) = the myth's "Void"; Inferno = an
+  engineered prison-pocket (= Piano del Caos); Dreamlands adjacent.
+- **COS-20** `med` — The 4-class taxonomy (Esterni/Superni/Elementali/Minori) doesn't place the
+  ~10 principal gods (Ishtar, Kur, Thurms…); Inclusivism can't classify neutral gods. → **Rec:**
+  file them Dèi Minori *cosmologically* (major in cult); neutrals drive the Inclusivist/Popolare schism.
+- **COS-21** `med` — Xebechani duplicates: two "Observers" (Heichpyel & Tuulhak-Xanar); Xhulhu vs
+  Tuulhak-Xanar as Sguardo; incomplete mirror-map. → **Rec:** one Observer worn as masks;
+  Omotecuthli = Dingir; accept partial mapping.
+- **COS-22** `low` — **d.M.** = *dopo il Maelstrom* (canon) vs *dopo Mithra* (wiki inference).
+  → **Rec:** dopo il Maelstrom; strike the wiki reading.
+- **COS-23** `med` blind — Humans (& "the Tanoth") have **no** origin in the engineered-races
+  catalogue. → **Rec:** Humans = the Tanoth, native to Ymir, *not* engineered (the one unmade people).
+- **COS-24** `low` blind — Ech's place in the secret is never addressed. → **Rec:** Ech = the
+  mythologized **L'Essenza** (real substrate the Adepti tapped, didn't create).
+- **COS-25** `low` blind — Xebechani nature & why they alone keep the true worship / triggered
+  "il Disastro." → **Rec:** they're the Adepti's portal-caste/inheritors; their botched Outer-God
+  evocation *is* the Catastrophe (unifies two Catastrophe accounts).
+
+### History / timeline
+- **HIS-6** `high` — The **EM = d.M. − 3025** offset makes EM 0 (=3025) predate its own 3026
+  trigger. → **Rec:** pin EM 0 to the seal-break year; drop the −3025 offset. Core of HIS-1.
+- **HIS-7** `high` — EM 2 (~2 yrs) is **too shallow** to hold its consequences (new continent,
+  dwarf mutation, Alfheim resettled) — the real driver of 3027/3260/3500. → **Rec:** either date
+  the present later (toward 3260) or pare "now" to immediate aftershocks. Ties to HIS-1.
+- **HIS-8** `high` — Armora shows two mutually-exclusive states both tagged "present" (Leonius war
+  / Vespertina peace). → **Rec:** Leonius = now; Vespertina = next beat. Refines HIS-2.
+- **HIS-9** `med` — Era-opening double-attributed: relic-users (Steamclad Sky) vs the Ulan-Tang
+  party (Gate to Unknown). → **Rec:** two distinct triggers — 3026 Ulan-Tang draws Sguardo; EM-0
+  rune-unseal looses the Marea. Refines HIS-5.
+- **HIS-10** `med` — Demon census "17 living" vs "only 3 reach Ymir." → **Rec:** 17 = pre-Tide;
+  publish a post-Tide census (3 free + N trapped + dead). Refines MAG-2.
+- **HIS-11** `med` — Helgedad: human Letio-province (cap. Nortislong) vs dwarf kingdom (cap. Aule
+  Dorate); two fall-dates. → **Rec:** annexed dwarf kingdom, one decline arc (3015→3021-24→post-Tide).
+- **HIS-12** `med` — The three regional wars (Waves 3018-23, Wolves 3021-24, Machines 3025-) are
+  **consecutive, not simultaneous**. → **Rec:** present as a cascade; only the Great War is live "now."
+- **HIS-13** `low` — The axe **Oblivion** is mis-attributed to Kramer; it's **Tofango's**. → **Rec:** fix.
+- **HIS-14** `low` — Portal provenance: "Adepti portals" vs Xebechani "first Vere Vie ~1400-1500."
+  → **Rec:** Xebechani revived/extended the Adepti network (Vere Vie = revived Ways).
+- **HIS-15** `low` — Ragash pulverised (→Maelstrom) vs a reachable "città dormiente"/Dream-Ragash.
+  → **Rec:** physical Ragash gone; the reachable one is its Dream-World mirror (Topramesk lingers).
+- **HIS-16** `low` — Name near-collisions/variants (Marzio/Marzius; Uglush/Uglaark/Ugrumuulsh;
+  Tarek/Terek; Solanthya/Solantia; Vemeer). → **Rec:** one canonical spelling + role each.
+
+### Geography
+- **GEO-5** `high` — Sadhir tiebreaker: the world-map label **Al-Sidah** + wiki agree on **human**
+  cities against the gazetteer's Sarradhi. → **Rec:** layered — human city-states pre-Catastrofe,
+  Sarradhi sultanate over the ruins post-drying. Refines GEO-1.
+- **GEO-6** `high` — Qi-Long: the **wiki's own uploaded map has Tianqi**, backing the empire its
+  prose denies; 6 provinces ≠ 6 kingdoms 1:1. → **Rec:** empire model; map the 6 Dei-Drago to the
+  6 provinces explicitly. Refines GEO-2.
+- **GEO-7** `high` blind — No global anchor: most major prose regions have **no** world-map label,
+  so layout can't be read off the map. → **Rec:** assign cardinal anchors to the floating regions
+  (Qi-Long/Xebech/Alfheim/Sadhir/Cartosa) + commission a clean map. Refines GEO-3/GEO-4.
+- **GEO-8** `high` — **Solanthya**: Letia's capital-city or a separate world-map realm? → **Rec:**
+  Letia's theocratic seat; its map label = greater Letia (since "Letia" isn't on the map).
+- **GEO-9** `med` — **Meridian**: rival island-republic (map/sourcebook) vs inland city (wiki).
+  → **Rec:** island-republic; drop "inland city."
+- **GEO-10** `med` — Three undisambiguated deserts (Sadhir / central Grande Erg+Khorish / southern
+  desert-continent). → **Rec:** separate the central Erg from the far-southern desert-continent.
+- **GEO-11** `med` — La Catastrofe: one event or several? (Gaerwath/Isole split vs Sadhir drying).
+  → **Rec:** one ~2400 d.M. upheaval causing both (sea-raise NW, sea-withdraw S); log the date.
+- **GEO-12** `med` blind — **Alfheim** has no location anywhere. → **Rec:** anchor it in the SE
+  elf-lands cluster near Gaerwath/Isole d'Argento.
+- **GEO-13** `med` — World shape: globe-with-hemispheres (wiki "southern hemisphere") vs
+  disc/basin around the central Maelstrom. → **Rec:** globe with one dominant Central Ocean;
+  standardize the demon landmass as a "continent."
+- **GEO-14** `low` — Qi-Long ~900M vs "war-devastated." → **Rec:** keep 900M; wars are attritional
+  stalemates among huge populations.
+
+### Peoples / races
+- **RAC-4** `high` — The elf orthogonality fix is **cosmetic**: `peoples.md` body still says
+  "Grey = moderates," races-index still conflates. → **Rec:** rewrite the elf body + index rows.
+  Executes RAC-3.
+- **RAC-5** `med` — "Grey Elves" vs "sea elves/marini": source says **Grey = Sea**; canon invents a
+  spurious 4th "marini." → **Rec:** collapse Grey=Sea, delete "marini."
+- **RAC-6** `high` — Playable roster is **three** incompatible sets (PG 7 / wiki 8 / Qi-Long's
+  goblin-halforc list). → **Rec:** core-seven global default + Qi-Long as a local override. Refines RAC-2.
+- **RAC-7** `med` — races-index PC-flags inconsistent (Sohleugir "~" yet "full write-up";
+  Ur-Tanoth under-rated). → **Rec:** one tiering (standard/exotic/GM-only).
+- **RAC-8** `med` — "**Tanoth proper**" is a phantom third branch (source has only Ur- & Tal-).
+  → **Rec:** drop it (or keep "Tanoth" as umbrella only).
+- **RAC-9** `med` — Xebechani religion: **open** Outer-God worship (wiki) vs "**secretly** venerate"
+  (peoples); orphaned Quetzalcoatl. → **Rec:** two explicit layers — public Quetzalcoatl cult +
+  secret Outer-God truth.
+- **RAC-10** `med` — Xebechani "most advanced" yet can't repair the **Pozze** (→ extinction).
+  → **Rec:** the Pozze are ancestral/Adepti tech; "gli Antichi" ≈ the engineers (the myth/truth hinge).
+- **RAC-11** `med` — Degenerate/Hybrid origins don't sit under the engineered-truth: orcs in two
+  frames (engineered *and* demon-servant); Centauri, Vulfen, Gratar originless. → **Rec:** map each
+  race to one origin frame.
+- **RAC-12** `med` — Human taxonomy: "**Misti = majority**" contradicts the source (**Comuni** =
+  majority; Misti = PC minority); Vorskgen mis-filed (they're Primigeni). → **Rec:** restructure to
+  Primigeni vs Uomini with correct sub-groups; fix the majority claim.
+- **RAC-13** `low` — Primigeni "very few survive" vs whole Primeval nations (Ophiur, Vorskgen);
+  Ophiur mis-shelved under "degenerate." → **Rec:** "rare except in isolates"; move Ophiur under Umani.
+- **RAC-14** `low` — Sohleugir "undersea kingdom of Ssas'Kher" vs coastal multi-level cities.
+  → **Rec:** coastal-and-submarine cities; keep Ssas'Kher as capital.
+- **RAC-15** `low` — Arawak: mountains vs Cartosan jungle; "stone/bone never metal" unsourced in wiki.
+  → **Rec:** pick a homeland, source the trait.
+- **RAC-16** `low` blind — Vulfen/Gratar/Coboldi/Troll named but undescribed (yet are half-race
+  parents); Durkaam/"the Ancestors" myths asserted but unattributed. → **Rec:** stub the races;
+  define Durkaam; assign "the Ancestors" (likely Xebechani "gli Antichi").
+
+### Magic / creatures / meta
+- **MAG-4** `high` — The **six Elementi** don't cover the element-types actually used (Storm,
+  Nether, Spectral, Dark/Umbra, Void/Mana). → **Rec:** 6 prime elements + a named closed list of
+  hybrid/negative derivations, mapped to dragon types & corruption axes.
+- **MAG-5** `high` — "**Usufruitori Corrotti**" is presented as a 4th realm but behaves as an
+  orthogonal **corruption axis** (Dark Flow, Dark Essence). → **Rec:** 3 realms + a corruption axis;
+  Arcano/Elementalism = spheres within Essence. Refines MAG-3.
+- **MAG-6** `med` — "**mana**" means both the generic substance and Topramesk's specific Mana/Void
+  element. → **Rec:** rename his domain **Void**; reserve "mana" for the substance.
+- **MAG-7** `high` — Maelstrom **suppresses** magic (Deflusso/Offuscamento) vs the **portals
+  reopening** across the ocean at the present. → **Rec:** portals are fixed-gate tech exempt from
+  teleport-warping; the warping persists, only the *seal* broke.
+- **MAG-8** `med` — Three "Corrupted Essence" concepts (demon-origin / the realm / the CEO
+  mechanic). → **Rec:** unify as one substance (Ahriman-corrupted Essence); CEO = its in-play measure.
+- **MAG-9** `med` — Multiple portal/seal macguffin sets (six **Reliquie** vs the **Door of
+  Despair**'s stones+Chiave+Sangue Elementale; two "sixes"). → **Rec:** map them; separate the
+  already-triggered EM unseal from the still-dormant Door of Despair.
+- **MAG-10** `med` — Named disasters may be the same event (Cataclisma / "magic collapse" /
+  Maelstrom / Guerra Demoniaca). → **Rec:** one fixed event-ladder with canonical names.
+- **MAG-11** `med` — The six **Dragon-Gods'** elements (Fire/Water/Earth/Ice/**Spectral**/Light) ≠
+  the six **Elemental Lords** (Air missing). → **Rec:** decide if they mirror the elements; if yes,
+  swap Spectral→Air.
+- **MAG-12** `med` — **Ouroboros** is "king of the six loyal" but is himself #1 (Alfheim), = 7
+  loyal; and destroys his own home. → **Rec:** place Ouroboros above the loyal/rogue split; recount.
+- **MAG-13** `med` — "**Leviathan**": Ouroboros's element-type vs a listed 21st dragon (breaks "20").
+  → **Rec:** fix the bestiary wording (it's his type, not a separate dragon).
+- **MAG-14** `med` — Dei-Drago "appeared **1900–1920**" vs engineered by the ancient vanished Adepti.
+  → **Rec:** they *awoke/manifested* after long dormancy.
+- **MAG-15** `med` — **Gwalgamaur** is in **both** dragon-origin accounts at once (dawn Great Worm
+  *and* engineered #8), defeating "myth-vs-truth." → **Rec:** treat "Verme/Worm" as an honorific for
+  True Dragons. Refines MAG-1/COS-18.
+- **MAG-16** `med` — Demon classification has 4+ axes (Sovereigns / 6 Circles / "Type VI" /
+  greater-lesser / Valrin); "Type VI" is likely a D&D artifact. → **Rec:** one hierarchy; retire
+  "Types" into Circles. Refines MAG-2.
+- **MAG-17** `med` blind — Proliferating creature-origin frameworks (engineered / Maelstrom-mutated
+  / Chaos-mutated / necromantic / extraplanar); is **Chaos = the Maelstrom**? most fauna have no
+  origin. → **Rec:** resolve Chaos/Maelstrom identity; give mundane fauna a default (native) bucket.
+- **MAG-18** `low` — "Cannot manifest unless summoned" vs demons reaching Ymir when the prison
+  cracks. → **Rec:** the prison-crack is a mass involuntary manifestation (a stated exception).
+- **META-6** `high` — **Source authority already produces dueling [CANON] tags** (the demon roster
+  carries two). → **Rec:** publish a precedence rule (see META-3): map/regional-doc art > original
+  PDFs > Italian wiki > English compiled gazetteer > 4e files, overridable case-by-case. Executes META-3.
+- **META-7** `med` — "System-agnostic" goal vs **Rolemaster-dominant** content; the D&D-4e material
+  is invisible/unlabelled (and causes the Type-VI-vs-Circles clash). → **Rec:** tag mechanics by
+  system of origin so the strip-to-flavour pass is auditable. Refines META-4.
+- **META-8** `med` — Tag vocabulary inconsistent: **[INVENTED] never used**; digests use
+  [DEEPENING]/[NEW] (not in the set); **[CANON] applied to garbled/OCR'd sources**. → **Rec:** one
+  published tag glossary; distinguish attested-clean from reconstructed.
+- **META-9** `med` — The "**latest attested date = 3027**" claim is false (3260/3500 are attested);
+  no calendar substrate (months/moons/festivals). → **Rec:** reword the claim; author a minimal
+  calendar. Ties COS-6/COS-12/HIS-1.
+- **META-10** `low` — Ymir/Yimir: resolved in principle but not enforced. → **Rec:** one global
+  grep-and-normalize pass. Executes META-1.
+
+_(Status-board rows for COS-10…25, HIS-6…16, GEO-5…14, RAC-4…16, MAG-4…18, META-6…10 to be added
+in the final reconciliation after the 102-file batch is processed.)_
