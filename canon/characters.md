@@ -1,13 +1,16 @@
 # Notable Characters
 
 > Named figures gathered from the sources so far. Sources: **Player Guide**
-> (chronology/glossary), **Cartosa Guida** (dynasty & officials), **Storia Letio**.
-> Living/dead and dates are given where the sources state them.
+> (chronology/glossary), **Cartosa Guida** (dynasty & officials), **Storia Letio**, and
+> the **World of Ymir wiki** — its roster of player characters (*PG di Ymir*) and its
+> campaign chronicles. Living/dead and dates are given where the sources state them.
 
 ## Legendary & historical figures `[CANON]`
 - **Topramesk** — "the Yellow" (Player Guide glossary) / "the Mad" (chronology); the
   great archmage of the last **Adepti** who worked the ritual at Ragash that became
-  **La Catastrofe** and birthed the Maelstrom. → `history.md`, `cosmology.md`
+  **La Catastrofe** and birthed the Maelstrom. Walks the Dreamlands in *Gate to Unknown*
+  and appears again in *2011 – Back to war!* — see Figures from the campaign chronicles.
+  → `history.md`, `cosmology.md`
 - **Marco Cartaurelius** — Letian captain who landed at Punta del Toro (1320) and
   founded the colony that became **Cartosa**; first governor of Provincia Cartoris
   (d. 1339). → `geography.md`
@@ -17,14 +20,18 @@
   from **Helgedad** (3015–3020). → `history.md`, `geography.md`
 - **Athmokethepek I** — king who united tribes of the **Grande Erg** and founded
   **Khorish** (2160–2180).
-- **Morannagul** — the young leader who unified the **Gaerwath** (2550). → `peoples.md`
+- **Morannagul** — the young leader who unified the **Gaerwath** (2550); the player
+  character **Callidus** now spies for an elven house hostile to him. → `peoples.md`
 - **Uglush the Supreme** — warlord of the Great Orc Horde that carved out the
   **Belligerent States** (2015–2030); **Ugrumuulsh One-Eye** is the **Grande Khan**
   of the orcs in 3026. → `factions.md`
-- **Gwalgamaur** — ancient dragon whose dark armies form the third side of the Great
-  War in the Young Kingdoms (3025–). → `bestiary.md`
+- **Gwalgamaur** — ancient dragon ("il Dorato") whose dark armies form the third side
+  of the Great War in the Young Kingdoms (3025–); *A Steamclad Sky* dramatizes his war
+  on the **Wald**. → `bestiary.md`
 - **Kramer** — former Mithran inquisitor turned mad lich-cultist; activated the
-  Ulan-Tang portal, drawing **Sguardo-sul-Nulla** into Ymir (3026). → `history.md`
+  Ulan-Tang portal, drawing **Sguardo-sul-Nulla** into Ymir (3026). Began as a player
+  character (**Heinrich Kramer**, below) and returns as the lich **M'Raker** in
+  *2011 – Back to war!*. → `history.md`
 - **The two unnamed adventurers** — who used the six Divine Relics to break the seals
   and open the **Era della Marea** (Year 0). Their identities are an open canon hook.
 
