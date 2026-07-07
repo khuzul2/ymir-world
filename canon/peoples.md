@@ -26,9 +26,10 @@ Worship their own pantheon (chief god **Quetzalcoatl**). → `pantheon.md`
 ### Tanoth
 A people in several branches:
 - **Tanoth** (proper) — of the semi-arid inland plains.
-- **Tal-Tanoth** — small folk who live cheerfully off humans in the cities;
-  "a plague to some, a nuisance to most"; the only ones able to deal with the shy
-  Ur-Tanoth.
+- **Tal-Tanoth** — small **feline humanoids** (cat-folk) who live cheerfully off
+  humans in the cities; "a plague to some, a nuisance to most"; the only ones able to
+  deal with the shy Ur-Tanoth. `[CANON — Qi-Long.docx]` Ymir has **no Halflings**;
+  the Tal-Tanoth fill that niche.
 - **Ur-Tanoth** — nomad hunter communities who shun humans and civilisation; peerless
   woodworkers and gatherers of natural materials (healing herbs, furs, rarities).
 
@@ -46,11 +47,15 @@ Powder). *(Player Guide: "identical to those in R&C.")* Branches/related peoples
 - **Barbarian dwarf tribes** of the interior highlands — very territorial, hostile.
 
 ### Umani (Humans)
-Found in every climate and region. Divided into:
-- **Primigeni (Primeval)** — `[CANON, detail pending]` an older human stock (the
-  excerpt links them to Xebechani mysticism; full text not yet mined).
+Found in every climate and region. Broad stocks:
+- **Primigeni (Primeval)** — an older human stock, linked to Xebechani mysticism.
 - **Uomini Misti (Mixed Men)** — the common, cosmopolitan majority (e.g. most of
   Cartosa).
+- Regional "kinds of Men" named in Helgedad `[CANON — Helgedad.doc]`: **Uomini Alti**
+  (High Men), **Uomini Comuni** (Common Men), **Uomini dei Boschi** (Woodmen),
+  **Uomini delle Colline** (Hillmen); the **Norsi** (indigenous Helgedad folk of the
+  Winter Forest, totem-spirit tradition) and the **Vorskgen** (Nortmaar hill-clans,
+  ancestor-worshipping berserkers).
 
 ### Sohleugir (Lizardmen)
 True lords of the southern seas; an undersea kingdom millennia old, capital
@@ -69,16 +74,28 @@ seat of the world **Council of Peoples** (the Seggio di Cristallo). → `faction
 `[CANON]` The elves are **not native** to Ymir: they came from another world (the
 divine **Niethel**, → `pantheon.md`) through dimensional portals during the Demon
 Wars, siding with Ymir's peoples. About **800 years after the Maelstrom**
-(the *Anni della Discordia*) they split into **three factions**:
-1. **First faction** `[CANON, name pending fuller read]` — wished to be led back
-   to their homeland.
-2. **Elfi Oscuri (Dark Elves)** — sought conquest of the Kingdom. → detail below.
-3. **Elfi Grigi (Grey Elves)** — the moderates, who withdrew.
+(the *Anni della Discordia*, ~2200 years before the present) they split into **three
+factions** over a point of prophecy `[CANON — Gaerwath.doc]`:
+1. **Elfi Chiari (Light Elves)** — held that the elves' destiny was to withdraw into
+   the newly-formed **Sacred Realm** (present **Alfheim**) and await the **Ultimo
+   Messaggero** (the Last Messenger) who would lead them home to Niethel.
+2. **Elfi Oscuri (Dark Elves)** — held that all **Ymir** is the Sacred Realm of
+   prophecy, that all other races exist to serve elves, and preached a holy crusade
+   to conquer it. → detail below.
+3. **Elfi Grigi (Grey Elves)** — the moderates; withdrew from the fight to live among
+   the other races in contemplation, believing the Sacred Realm lies **within each
+   elf**.
 
-Also named: **Elfi Alti (High Elves)** and **Elfi Silvani (Sylvan Elves)** — the
-"light elves" of **Alfheim** (capital **Ost-en-Galad**, "the Shining City"), ruled
-by a queen and consort with a Council. *(Player Guide Glossary.)* The Player Guide
-warns that R&C's elves match the **sea elves**, not the Grey Elves.
+Light and Dark went to war. The Light Elves, led by the legendary queen **Inanna the
+Splendent**, drove the Dark Elves out of Alfheim and into exile on the **Gaerwath**
+archipelago; the Dark-Elf princes swore eternal vengeance, branding their kin
+**Shallak** (Betrayers of Brothers) and **Nemyel** (Non-Elves). There is **no physical
+difference** between Light and Dark elves — the split is political/religious, not
+genetic (most Dark Elves have black hair and grey, violet, or green eyes).
+
+The **Light Elves** are **Elfi Alti (High)** + **Elfi Silvani (Sylvan)**, of **Alfheim**
+(capital **Ost-en-Galad**, "the Shining City"). There are also **sea elves** (the
+Player Guide notes R&C's elves match these, not the Grey Elves).
 
 #### Elfi Oscuri (Dark Elves) — detail `[CANON: elfi oscuri.doc + Gaerwath.doc]`
 Homeland the **Gaerwath**. They sort all beings into three categories:
@@ -93,6 +110,20 @@ failing makes a Nemyel — often with terrible bodily/mental cost. Especially af
 the Dark Elves specialised in summoning and binding extraplanar entities called
 **Valrin** ("Forces" — mostly demons), used even as currency. They prize **Arvo**,
 pulverised magical **Essence**, gathered by their demon-servants or by forced Nemyel.
+
+Dark-Elf society `[CANON — Gaerwath.doc]` is rigidly racist (Elar rule, Nemyel serve
+with no rights). Elves belong to **Lyar** ("Names" — extended-family clans), sorted
+into three castes (**Nath**): the **Galadlyan** ("Shining Name," the imperial family
+alone, topped by the Emperor), the **Celeblyar** (high aristocracy), and the
+**Mallyar** (lesser families) — with some mobility between the lower two via arranged
+marriage. Patriarchal; lifelong arranged marriages with up to five concubines each
+(any race/sex). Each family guards a **Gash** ("Spirit") — a hereditary craft-secret
+(golems, medicine, a trade) — which drives fierce inter-family feuds. Their myth:
+the elves came from **Niethel** ("the Source"), a paradise where they were immortal
+until a grave sin (per Dark-Elf theology, an ancestor of Queen Inanna led a revolt
+against the gods) exiled them; a prophecy of the Sacred Realm and the Messenger
+follows from it. Chief Dark-Elf gods: **Valrin** (warrior god of the holy war) and
+**Myethel** (goddess of magic and oracles). → `pantheon.md`
 
 ## Maelstrom-touched & "impure" peoples `[CANON]`
 
@@ -111,6 +142,19 @@ pulverised magical **Essence**, gathered by their demon-servants or by forced Ne
   deck themselves in trinkets made from human goods. Cunning ambushers, *not* stupid.
 - Orcs, half-orcs, and goblins also crew the worst pirate ships; they war constantly
   with the inland dwarves.
+
+## Peoples of the Sadhir `[CANON — Sadhir gazetteer]`
+- **Sarradhi** — a **matriarchal lizardfolk** people, "Those Who Walk the Cycle";
+  natural mystics and elemental mages who rule the desert Sultanate by the creed of
+  the eternal **Wheel of Life**. (Distinct from the aquatic Sohleugir.) → `factions.md`
+- **Hermit-crab people** — crustacean folk who lived in the ancient inland sea before
+  it dried; long-time Sultanate subjects serving as scouts, excavators, artisans, and
+  guides able to reach places others cannot.
+
+## Peoples of the Qi-Long `[CANON — Qi-Long.docx]`
+Humans dominate; **Goblins, Half-orcs, Half-elves** are common; Elves less so;
+Dwarves and Gnomes rare. Society is organised around martial **sects** rather than
+race. → `factions.md`, `races-index.md`
 
 ---
 ### Open questions

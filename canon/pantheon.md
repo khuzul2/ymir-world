@@ -89,6 +89,25 @@ gods mirror the common ones, others are wholly distinct.
   possibly linked to the outer god **Sguardo-sul-Nulla** ("Gaze-upon-the-Void")
   in the Cartosa timeline. → `history.md`, open question.
 
+## Regional & lesser deities `[CANON — regional docs]`
+- **Thal'Khal** — a goddess worshipped in Helgedad's **Seamark** alongside **Hudemia**
+  and **Diis** as a triad of feminine/maternal aspects (the **Torre Splendente**
+  temple). *(Helgedad.doc.)*
+- **Valrin** — the Dark Elves' **warrior god who leads the holy war**. *(Gaerwath.doc;*
+  *note "Valrin" is also the Dark-Elf word for bound extraplanar "Forces" — a god and
+  a class of demon-servant share the name.* `[CONFLICT?]` *→ NOTES.)*
+- **Myethel** — the Dark Elves' **goddess of magic and oracles**. *(Gaerwath.doc; not
+  to be confused with **Niethel**, the elves' divine place of origin.)*
+- **The Wheel of Life (il Ciclo)** — the Sarradhi lizardfolk creed of the Sadhir;
+  eternal reincarnation, blending spiritual and temporal rule. *(Sadhir gazetteer.)*
+- The **Nkishi** *Orisha*/*Mayombe* forest-spirits and **M'Bantha** shamanism →
+  `peoples.md`.
+
+## Church politics `[CANON]`
+The **Church of Mithra** is fracturing: Armora's Granduke declared **Solanthya's Alto
+Teocrate** corrupt and founded the schismatic **Chiesa Armorita di Mithra**, accusing
+the Letio Church of secretly worshipping **Ahriman**. A live religious war. → `factions.md`, `history.md`
+
 ## The Sovereign Demons
 
 See `cosmology.md` (their nature, "Beyond the Circles") and the full ranked roster

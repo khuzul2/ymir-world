@@ -32,8 +32,9 @@ All 13 source files extracted successfully (~46,000 words total).
 | **elfi oscuri.doc** | DOC | 318 | **Dark Elves** — caste system, demon-binding, Arvo. Read in full. |
 
 ## Extraction status legend
-- **Read in full / mined into canon:** Player Guide (cosmology, pantheon, chronology,
-  glossary, races), Storia Letio, elfi oscuri, Cartosa Guida (pp.1–15).
-- **Partly mined:** Cartosa Guida (pp.16–31 pending), Cartosa.doc, Gaerwath.doc.
-- **Not yet mined:** LIBRO ROSSO, Maraviglie, Edizione Straordinaria, Qi-Long,
-  Sadhir, Armora, Helgedad. → tracked in `../../NOTES.md`.
+- **Mined into canon:** Player Guide, Storia Letio, elfi oscuri, Cartosa Guida
+  (pp.1–15), **Helgedad, Gaerwath, Armora, Edizione Straordinaria, Qi-Long, Sadhir,
+  Maraviglie, LIBRO ROSSO** (framing + four realms). **Maps extracted** → `../maps/`.
+- **Partly mined / to revisit:** Cartosa Guida (pp.16–31: equipment, combat styles),
+  Cartosa.doc (overlaps the PDF), LIBRO ROSSO (deep spell/tactics detail per realm).
+- Tracked in `../../NOTES.md`.

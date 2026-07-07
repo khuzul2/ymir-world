@@ -42,7 +42,9 @@ month of each group; grouping is the natural reading).
 years are numbered **d.M.** = *dopo il Maelstrom* ("after the Maelstrom"). Year 0
 is **La Grande Paura** (the Great Fear). A later reckoning, the **Era della Marea**
 (Age of the Tide), restarts at its own Year 0 with the waking of Sguardo-sul-Nulla
-and the shattering of the Maelstrom's isolation. → `history.md`.
+and the shattering of the Maelstrom's isolation. The latest attested date in any
+source is **Era della Marea 2 = 3027 d.M.** (the *Libro Rosso*'s imprint) — so the two
+reckonings run in parallel, with **EM = d.M. − 3025**. → `history.md`.
 
 `[CONFLICT]` The Cartosa gazetteer once spells the world "**Yimir**" and elsewhere
 "**Ymir**"; the Player Guide also has one "Yimir". Treating **Ymir** as canonical

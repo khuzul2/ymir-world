@@ -54,6 +54,23 @@ Azazel…) — a deliberate familiar-but-reordered infernal hierarchy.
 - **Mayombe** — the oldest, fiercest ancestral/forest spirits the Nkishi Bokkor
   shamans summon. → `peoples.md`, `pantheon.md`
 
+## Creatures of the Sadhir `[CANON — Sadhir gazetteer]`
+- **Yarhim** — colossal blue-crystal-shell crabs (also on Cartosa's coasts); their
+  shells make legendary armour. `[CANON, cross-source consistency]`
+- **Glass-Stalkers** — nearly invisible crystal scorpions.
+- **Mirajids** — illusion-born elemental beings of the heat haze.
+- **Cindervine Serpents** — burrowing serpents that emerge during storms.
+- **Tzil Beetles** — alchemical salt beetles, harvested by desert folk.
+- **Shrikes of the White Choir** — eerie undead carrion spirits.
+
+## Creatures of Helgedad `[CANON — Helgedad.doc]`
+- **Troll** — infest the wild lands; **Grandi Aquile** (Great Eagles) nest on the Monti
+  di Bruma; goblins, kobolds, and worse things haunt the Landa Gelida's ruins.
+
+## Constructs `[CANON — Maraviglie]`
+- **Automata / Golem** — Armora's magitech constructs (powered by Leyden jars) and the
+  Dark Elves' bound-spirit golems. → `magic.md`, `peoples.md`
+
 ## Extraplanar & mutant beings (pointers)
 - **Ibridi (Hybrids)** and **Marchiati (the Marked)** — Maelstrom-mutated life. → `peoples.md`, `cosmology.md`
 - **Spiriti Furiosi (Raging Spirits)**, **Elementals**, **Djinn**, **Angels**, and

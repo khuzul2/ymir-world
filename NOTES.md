@@ -29,23 +29,26 @@ Working memory of the project. Items move out of here into `canon/` once settled
 - ✅ **Contributors** — treat the project as **independent** of how many people/
   campaigns fed it. (We still tag which *document* a fact came from, for traceability.)
 
+## ✅ Resolved (from Alessandro, 2026-07-07, round 2)
+- ✅ **Campaign present / "now".** The latest attested date in any source is **Era
+  della Marea 2 = 3027 d.M.** (the *Libro Rosso* imprint). So the manual's present is
+  **~EM 2 / 3027 d.M.**: the Maelstrom's seal has shattered, the Adepts' portals are
+  open, the **Marea Stregata** is loose, the Young Kingdoms' Great War (from 3025)
+  has merged with the Armora–Letia religious war, and Sguardo-sul-Nulla stirs. The
+  world bible is written from this frontier looking back. (**EM = d.M. − 3025**.)
+- ✅ **Playable scope input delivered** — full race list compiled in
+  `canon/races-index.md`; awaiting your pick of the playable set.
+- ✅ **Manual language = English.** Canon and manual in English; proper nouns kept
+  in their original form.
+- ⏳ **Playable scope** — deferred until I deliver a **complete list of races** from
+  the documentation for you to choose from. (Producing `canon/races-index.md`.)
+
 ## Design directives (for the manual)
 - Single **layered world bible**: player-facing text + boxed **GM-only** sections.
 - **Regional flavour is a feature** — lean into the tonal contrast between regions
   rather than smoothing it into one generic register.
 - Keep the **canon/invented ledger** honest (`[CANON]`/`[INFERRED]`/`[INVENTED]`/
   `[CONFLICT]` tags throughout).
-
-## ❓ Foundational questions still open
-- ❓ **Campaign present / "now".** Two candidates: the **~3025 d.M.** "Great War in
-  the Young Kingdoms" (where the Player Guide ends) or the **post-seal Era della
-  Marea** frontier (where the Cartosa book ends, with portals reopening and the
-  Bewitched Tide). Which is the manual's default present? (Big framing choice.)
-- ❓ **Manual language.** Sources are in **Italian**; you write to me in English.
-  Should the finished manual be **Italian, English, or bilingual**? (Proper nouns
-  stay as-is either way.)
-- ❓ **Playable scope.** Which races/regions are meant to be *playable* vs. purely
-  setting colour? (Affects how `peoples.md`/`geography.md` become manual chapters.)
 
 ## ⚔️ Contradictions logged
 - ⚔️ **World spelling:** "Ymir" vs "Yimir" across docs → standardising on **Ymir**.
@@ -57,13 +60,24 @@ Working memory of the project. Items move out of here into `canon/` once settled
   **Era della Marea** is a distinct later event. Need to confirm the Dark Elves'
   "Marea" = the Bewitched Tide (Era della Marea) or a separate regional usage.
 
-## 🕳️ Gaps / next extraction pass (docs not yet fully mined)
-- 🕳️ **Maps.** No world map extracted yet; several PDFs/docs embed maps (Cartosa's
-  "Mappa del Principato", Player Guide's 462 images, Cartosa Guida's 17). **Priority.**
-- 🕳️ **LIBRO ROSSO DEL CONTROLLO MAGICO** (52 pp.) — the real magic system. → `magic.md`
-- 🕳️ **Helgedad.doc, Gaerwath.doc, Armora — città.doc, Qi-Long.docx,
-  Sadhir_Compiled_Gazetteer.docx, Cartosa.doc, Maraviglie.pdf, Edizione
-  Straordinaria.pdf** — regional/wonders detail only skimmed so far.
-- 🕳️ **Player Guide** — talents, character-creation, and the full race write-ups
-  (only cosmology/pantheon/chronology/glossary read in full).
+## 🕳️ Gaps / remaining extraction (after the maps + regional + LIBRO ROSSO pass)
+- ✅ **Maps.** Three extracted → `sources/maps/` (world, Cartosa, Qi-Long).
+- ✅ **Regional docs + LIBRO ROSSO** — mined into canon (framing + four magic realms).
+- 🕳️ **World-map ↔ prose reconciliation.** The hand-drawn world map's labels don't all
+  match the doc names (e.g. Helgedad's Talwar/Kelhar sit SE though Helgedad reads as
+  "far north"); several map regions have no prose (Xuthal, Itza, U-aj-tanis, Sathe,
+  Luveburk, Hibernia, Ljone del Saos, Al-Sidah…). Need placement + invent/ask.
+- 🕳️ **Maps inside `.doc` files** (Helgedad, Armora) — `antiword` skips images; a
+  `.doc`-image pass (LibreOffice/olefile) may recover regional maps.
+- 🕳️ **Deep magic detail** — LIBRO ROSSO's per-realm spell/tactics chapters, and
+  Cartosa Guida pp.16–31 (equipment, combat styles) not yet transcribed into canon.
+- 🕳️ **Cartosa.doc** vs **Cartosa Guida.pdf** — reconcile the two Cartosa texts.
 - 🕳️ **Famous player characters** who became canon — collect from you and friends.
+
+## ❓ New open questions surfaced by the material
+- ❓ **Valrin** is both a Dark-Elf **god** (of holy war) and their word for bound demon
+  "**Forces**." Same being, or a naming overlap? → `pantheon.md`/`peoples.md`.
+- ❓ **Xhulhu / Sguardo-sul-Nulla** — is the "outer god" an axis outside the Ech duality?
+- ❓ The **Sadhir** gazetteer is written in **English** (others are Italian) and reads
+  as already-compiled — was it drafted separately (perhaps with AI help)? Affects how
+  we treat it as a source.

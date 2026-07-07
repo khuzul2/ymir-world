@@ -160,6 +160,15 @@
   in — **shatters.** All the Adepts' portals reactivate at once. From the Maelstrom
   a chaotic magical storm sweeps over Ymir, later called the **Marea Stregata**
   (the Bewitched Tide). *(Cartosa — the campaign-present frontier of canon.)*
+- **Era della Marea 2 (= 3027 d.M.)** — the **latest attested date** in any source
+  (the *Libro Rosso del Controllo Magico* is published in Armora this year). This is
+  the **manual's "present."** By now the world is convulsing: the Adepts' portals are
+  open, the Bewitched Tide is loose, and the old orders are turning on each other.
+- **Armora vs. Letia (ongoing, ~EM 2)** — **Granduke Leonius VonGriffen** breaks with
+  the Letio Church, declaring **Solanthya's Alto Teocrate** corrupt, founding the
+  schismatic **Chiesa Armorita di Mithra**, and going to war with the Empire (which he
+  accuses of worshipping Ahriman). The Young Kingdoms' Great War (from 3025) bleeds
+  into this religious war. → `factions.md`, `pantheon.md`
 
 ---
 ### Open questions & notes

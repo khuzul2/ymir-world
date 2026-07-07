@@ -54,6 +54,46 @@
 **Stuba** (disgraced by a coup plot) · **Vidal** (Navy) · **Gibraleon** (dark past —
 rumoured necromancy and demon-summoning).
 
+## Powers of Armora & the Young Kingdoms `[CANON — Armora, Maraviglie, LIBRO ROSSO]`
+- **The Granducato (Grand Duchy) of Armora** — ruled by **Granduke Leonius VonGriffen**
+  (*il Tecnocrate*); a technocratic, magic-regulating state.
+- **Sezione di Controllo Magico (S.C.M.)** — the army's anti-magic corps (→ `magic.md`).
+- **Collegio del Settimo Circolo** — Armora's college of magic (Arcimaga **Sir
+  Drusilde** directs it); allied to the S.C.M.
+- **Gilda degli Artefici (Guild of Artificers)** and the **Gilda di Studi Elementali /
+  Accademia di Studi Elementali** — the magitech and elemental-magic institutions.
+- **Chiesa Armorita di Mithra** — the **breakaway** Mithran church the Granduke founded
+  after declaring Solanthya's Alto Teocrate corrupt; now the only licensed clergy in
+  Armora, in open schism (and war) with the Letio Church. → `pantheon.md`, `history.md`
+
+## Powers of the Qi-Long — the Grandi Sette Imperiali `[CANON — Qi-Long.docx]`
+The six **Great Imperial Sects**, each governing one province under the **Dragon-God**
+emperor at Tianqi:
+- **Scuola della Via Celeste** (Celestial Way) — mages & sorcerers *(Pianura del Sud)*.
+- **Setta dell'Acqua Pura** (Pure Water) — alchemists & druids *(Onde dell'Ovest)*.
+- **Via della Fiamma Imperitura** (Undying Flame) — monks & fighters *(Regno Centrale)*.
+- **Clan della Montagna Inviolata** (Inviolate Mountain) — barbarians & rangers *(Barriera dell'Est)*.
+- **Tempio del Picco Gelato** (Frozen Peak) — clerics & paladins *(Nuvole del Nord)*.
+- **Scuola del Padiglione Dorato** (Golden Pavilion) — officially bards; the empire's
+  greatest thieves' guild *(Provincia Imperiale)*.
+Countless minor sects (e.g. the **Scuola del Cancello Tonante**, School of the
+Thundering Gate) operate beneath them; the **Raduno degli Eroi** (Gathering of Heroes),
+held every seven years at the capital, wins its victors a place in a Great Sect.
+
+## Powers of the Sadhir — the Great Sultanate `[CANON — Sadhir gazetteer]`
+The **matriarchal Sultanate of the Sarradhi**, ranked: **Sultana-Mazarit** (supreme
+matron-ruler) · **Zaharat-al-Ruh** (high viziers/elemental advisors) · **Sa'idari**
+(governors) · **Narazeen** (warrior-mystics) · **Rakhama'i** (scholars/priests) ·
+**Zalim'un** (coral-stewards) · **Safrat** (commoners). The martial **Order of the
+Burning Wheel** holds the fortress of Kalzharan. → `geography.md`, `peoples.md`
+
+## Powers of Helgedad `[CANON — Helgedad.doc]`
+The **six Marcher houses** — **Rudstar** (Kelmark), **Talvain** (Tallvar), **Geidmund**
+(Nortislong), **Tannermar** (Grudgemark), **Ulding** (Nortmaar clans), **Ognir**
+(Seamark) — plus the knightly **Ordine della Montagna Bianca** (White Mountain Order of
+Thurms), Tallvar's Merchant/Warriors'/Thieves' guilds, and the dwarven holds of the
+**Aule Dorate** and **Stonebridge**. → `geography.md`
+
 ## Hostile powers `[CANON]`
 
 - **The Sovereign Demons** and their cults — e.g. the **Culto dell'Ostrica Blu**
