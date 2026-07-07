@@ -1,0 +1,65 @@
+
+                            LA CADUTA DELLA TORRE
+
+MISSIONE DRUSILDE: deve rubare (o copiare) la mappa della città  che  indica
+le difese magiche innalzate dall’Accademia
+
+Subito dopo il salvataggio: i PG e i  loro  compagni  devono  fuggire  dalle
+pattuglie degli orchetti. Poi, a un tratto, si odono degli squilli di  corno
+provenire dall’accampamento e le pattuglie si ritirano; le porte  si  aprono
+e una lunga colonna di nemici ne esce, diretta verso la Torre!
+
+Qualunque cosa intendano fare i PG, Ulwor e i ranger vorranno  correre  alla
+Torre per assistere i compagni e avvisarli  del  pericolo  imminente.  Sulla
+strada finiscono in un’imboscata tesa da un gruppo di goblin…
+
+Se  i  PG  provano  direttamente  a  fuggire  dalla  foresta  trovano  molta
+resistenza (le forze orchesche si sono praticamente impadronite di tutto  il
+bosco)  e  probabilmente  finiscono  nuovamente  prigionieri  (portati  alla
+Torre).
+
+LA TORRE: Maegor era un traditore, stanco della mancanza  di  riconoscimenti
+da parte del governo e avido di potere, era in combutta con degli agenti  di
+Lord Vorak (a sua volta dipendente da Gwalgamaur), che gli  ha  promesso  il
+dominio  della  maggior  parte  della  foresta  come  vero  e  proprio  lord
+indipendente, oltre che una considerevole somma di denaro.
+Per questo, Maegor teneva  prigionieri  con  menzogne  i  nani  diplomatici.
+Aveva tentato di fare lo stesso coi PG, ma poi ha pensato  di  sbarazzarsene
+mandandoli direttamente al campo orchesco.
+
+La torre è ora occupata da orchetti e  da  ranger  rinnegati.  Nella  piazza
+sono state allestite delle forche, dalle quali  pendono  Tyrion  (fedele  al
+Duca), il fabbro Drolam, Galdor e alcuni ranger. La capanna  di  Ehldruss  è
+stata data alle fiamme. I nani sono stati impalati in piazza,  accanto  alle
+forche, e dei loro corpi è stato fatto scempio (Yonker, può però notare  per
+terra un anello dorato a cui nessuno ha fatto caso, si  tratta  del  sigillo
+di Dwalor).
+
+Comunque entrino nella torre, i PG non potranno non notare  la  presenza  di
+Lord Vorak un uomo alto, imponente, bardato con un’armatura del  colore  del
+sangue rappreso (Conoscenza Metalli -40 permette  di  riconoscere  l’Acciaio
+Demoniaco), con una  lunga  barba  rossa  e  lo  sguardo  selvaggio.  Maegor
+davanti a lui si comporta in maniera evidentemente sottomessa (è chiaro  che
+lo teme).
+Qualora i PG fossero stati fatti prigionieri, Lord Vorak consegna  loro  dei
+cavalli e li libera, dicendo loro: “Andate! Andate e avvisate Armora che  il
+Wald è caduto,  che  la  Torre  di  Caccia  è  perduta,  e  che  ora  questo
+territorio è Nostro!”
+
+
+
+-----------------------
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Goblin          |3°  |M   |50 |13(25s)   |70Spear/60SSword            |+8  |
+|cavalcalupi     |    |    |   |          |                            |    |
+|Lupo            |3°  |M   |110|3(30)     |65MBi                       |+4  |
+|Orchetto        |4°  |M   |75 |15(25s)   |90Sw/90LBw                  |+4  |
+|Orchetto Elite  |6°  |M   |100|15(40s)   |120Sw/100LBw                |+8  |
+|Troll di        |10° |La@ |240|16(40s)   |120Bax/100LBa/100ro         |+0  |
+|Montagna        |    |    |   |          |                            |    |
+|Comandante      |9°  |M   |120|17(30s)   |145Spear/140Mace            |+8  |
+|Orchesco        |    |    |   |          |                            |    |
+|Lord Vorak      |20° |II# |400|19(75)    |175GSw/160LBo/150MSt        |+12 |
+|Warcat          |15° |La  |280|4(50)     |95LBi/120HCl(x2)            |+16 |
+
+

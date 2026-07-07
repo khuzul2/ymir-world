@@ -1,0 +1,44 @@
+
+LOGARTH (LOSSARMAUG L'ASTUTO)
+Dragone dell'Aria Antico (in forma umana), lvl:30°
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Lossarmaug (Drago)
+30°
+SL
+400
+20(50)
+120HBi/120HCl/120Hba/90Hho/120Force
++8
+Lossarmaug (Umano)
+30°
+SL
+400
+20(70)
+180Sw/160LBow/130Bolt/Spells
++12
+Liste (rnk:30/bns:50 tutte):
+Spirit Mastery
+Spell Reins
+Dispelling Ways
+Essence's Perceptions
+Elemental Summons
+Elemental Counters
+Elemental Defenses
+Air Control
+Wind Law
+Wind Mastery
+PM: (300) 1200
+Oggetti:
+Anello del Mascheramento: il drago portatore è trasformato in una razza umanoide a sua scelta, mantenendo tutte le sue caratteristiche fisiche (TA, BD, PF, sensi e critici). Il drago apparirà di quella razza anche a indagini magiche.
+Anello del Potere Draconico: Moltiplicatore PMx4, Extension III, Ranging III, Increased Radius III ognuno 2 volte al giorno.
+Mantello della Notte: +30 a Nascondersi, può lanciare Fly II, Shadow e Displacement II ognuno 2 volte al giorno.
+Stivali di Logarth: +30 a Muoversi Silenziosamente, possono lanciare Fast Sprint e Haste V ognuno 2 volte al giorno.
+Cintura Difensiva: +20BD, può lanciare Protection II, Deflections I e Bladeturn I ognuno 3 volte al giorno.
+Elethar, il Cacciatore: Un arco magico reperito in Helgedad. Arco Lungo Magico +20, Doppia Gittata, Utilizza solo il 40% del round per ricaricare.
+Vento del Destino: Lama Elementale dell'Aria Maggiore. Spada +30 in Eog Bianco, Colpi Critici Addizionali da Sbilanciamento, Sterminatrice di Non Morti, -2 alla possibilità di Fallimento Critico, Indistruttibile, Danni da Sanguinamento inflitti x3.

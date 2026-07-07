@@ -1,0 +1,20 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 19 fonts total
+
+AUTHOR: Petri Alessandro
+### creation date: 3 October 2011 16:20 
+### revision date: 3 October 2011 16:27 
+### last printed: 
+### comments: StarWriter
+
+-----------------
+ALFHEIM
+
+        
+Si dice che recentemente il regno degli elfi sia assediato da un nemico inarrestabile, contro il quale persino la magia della loro regina � impotente.
+        
+Pare che gli elfi dell'Alfheim siano in grado di parlare con gli alberi del loro reame, e che li usino per ottenere informazioni su tutto ci� che accade entro i loro confini in tempo reale.
+        
+Alcuni affermano che la maggior parte degli abitanti dell'Alfheim sia persa in una sorta di trance collettiva, che serve a proiettare le energie incantate che rendono il reame inaccessibile.
+        
+Chi � passato vicino ai confini dell'Alfheim parla con orrore delle driadi, esseri dall'aspetto incantevole, che trascinano i meno avveduti verso una morte orribile.

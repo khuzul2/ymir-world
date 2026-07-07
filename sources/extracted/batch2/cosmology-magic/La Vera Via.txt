@@ -1,0 +1,103 @@
+
+LA VERA VIA
+Sfera di Vera Luce --> Leonard
+Pacchetto con:
+Mantello di “Displacement I” (1xgg)
+1 dose Aljira
+Pozione di Waterlungs (x2)
+Pozione di Invisibilità (x1)
+VERSO I MONTI DEGLI SPIRITI
+Aereonave: “Folgore”
+Capitano Eric Legrasse (Mezz'orco, ex criminale di guerra, aiutato da Setorn con un'operazione “estetica” a cambiare volto) Guerriero 10°
+12 uomini di equipaggio (per lo più gente losca)
+Armamenti: 3 Cannoni a vapore (uno a poppa e due a prua, danni come Hxbow x50, colpi critici da Krush...), 4 torrette “Idra” (sputadardi multicanna, sparano 4 dardi al round, danni come Hxbow x3) --> BO di 90 con ognuno di esse (da parte dei macchinisti, diverso se usate da un PG!) 
+PF: può subire 300 danni prima di avere un totale collasso
+Velocità: 30Km/h di crociera, 60Km/h max
+Distanza Armora – Destinazione: 3000Km, raggiunti a velocità di crociera in 4 giorni.
+1° Giorno: quasi tutto il giorno occupato a sorvolare territori armoriti, alla sera ci si avvicina al Wald 
+2° Giorno: di mattina presto attacco da un gruppo di Viverne d'Acciaio Vallaniche (Cosa ci fanno qui?!), 8 in tutto ognuna con cavaliere --> ricacciarle è un obiettivo Very Hard
+3° Giorno: Inseguimento con altra aereonave --> rallentarla per agevolare la fuga ... Hard
+4° Giorno: Arrivo alle Montagne degli Spiriti, prima una tempesta fa ballare pericolosamente l'aereonave, che riesce però a trovare un luogo dove atterrare. All'atterraggio però il terreno viene coperto da una fitta nebbia e la nave si danneggia.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Viverna d'Acciaio
+10°
+La#
+300
+20(70)
+80LCl(x2)/80HXbow+poison
++16
+Cavaliere
+10°
+M
+130
+19(25)
+130La/Spells
++8
+GLI SPIRITI DEI MONTI
+Si tratta in realtà di Firbolg, una genia corrotta di fate, esiliate lungo tempo fa su questi monti.
+Il loro re è Cedwyn-Naag un potente mago... 
+
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Fuoco Fatuo (IV)
+13°
+II#
+135
+1(40)
+Spells/5CoxRnd
++8
+Stregone Firbolg
+10°
+M
+75
+9(50)
+70weapon/80Direct/Spells
++16
+Serpente El. Acq. (II)
+10°
+La#
+100
+3(20)
+70MBa[A Impact]
++8
+Gigante Terra (III)
+15°
+SL#
+200
+8(0)
+120HBa/60HCr[Impact C]
++4
+Cedwyn-Naag
+20°
+La#
+200
+1(70)
+175we/Spells
++16
+LA VERA VIA
+Se ogni cosa fallisce, Cedwyn-Naag cercherà di evocare un incubo molto potente per scacciare gli intrusi...
+Nome
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Spajlen-Tier
+20°
+SL#
+300
+20(40)
+95Hbi[Cold]/100HCl[Cold]/75IceBr/Spell
++8

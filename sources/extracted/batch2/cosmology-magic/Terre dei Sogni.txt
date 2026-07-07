@@ -1,0 +1,118 @@
+
+TERRE DEI SOGNI
+INCUBI
+Gli Incubi si trovano in innumerevoli forme e colori, ogni Incubo è diverso, ma tutti hanno un aspetto sgradevole od orrorifico. Indifferentemente dal tipo si divertono a terrorizzare le proprie vittime, più che a ucciderle. Una vittima uccisa nel mondo dei sogni da un Incubo deve fare un TR contro la Paura o perdere 1d5 punti Sanità, più uno per punto per tipo dell'Incubo.
+Ogni Incubo è in grado di percepire la più grande paura di un mortale, e di utilizzarla a proprio vantaggio, facendogli fare un TR contro la Paura (una volta al giorno per Tipo).
+Alcuni di loro sono in grado di utilizzare liste di incantesimi (di solito una per tipo), fino al loro livello. Le più comuni sono quelle del Mentalismo Malvagio o quelle Base dei Mistici. Hanno 6PM per livello.
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Incubo Tipo I
+5°
+M
+125
+4(40)
+80Melee
++12
+Incubo Tipo II
+10°
+La
+190
+4(30)
+150Melee
++12
+Incubo Tipo III
+20°
+La
+300
+4(40)
+150Meele(x2)
++8
+Incubo Tipo IV
+30°
+SL
+500
+4(30)
+170Melee(2D)
++8
+Incubo Tipo V
+40°
+SL
+700
+4(40)
+200Melee(x2)
++12
+Incubo Tipo VI
+50°
+SL
+900
+4(70)
+220Melee(3D)
++16
+I SOGNI
+Per entrare nei sogni di qualcuno bisogna avere un forte legame con lui... i PG potrebbero entrare nei sogni di
+Tecnocrate (tramite i resti della sua nave)
+Belengard (tramite l'aggeggio fatto da lui)
+Sigurd (tramite Isidoro!)
+...
+Ognuno di loro si svolgerà in maniera diversa...
+ESTERNI EVOCABILI
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Divoracervelli I
+5°
+M
+70
+3(30)
+50SCl/Special
++8
+Byakhee II
+9°
+I
+100
+3(30)
+80LBi/90LSt+Poison
++12
+Nof-Keh III
+12°
+La@
+300
+20(10)
+100LBa/110LGr/Spells
++0
+Tresh IV
+20°
+La
+300
+12(50)
+120LGr/80HPi/Special
++8
+Moglath V
+25°
+La
+250
+11(60)
+100LCL(x2)/Spells
++12
+Shoggoth
+30°
+SL@
+350
+3(100)
+150HGr(1-5)/Spec
++8
+Divoracervelli: Mind Death, Mind Erosion e Mind Destruction fino al loro livello, uno a round senza PM né manovre. Grandi capacità di mimetismo (+80 Muov Sil/ Nasc)
+Byakhee: Immuni al Gelo, al Nether e al Void. Volano.
+Nof-Keh: Simili a grosse colonne organiche, con tentacoli alla base, si alzano in levitazione quando attivi, tuttavia si muovono con estrema lentezza, per questo di solito sono usati come guardiani. Conoscono le liste base del Mentalista fino al loro livello, senza spesa di PM.
+Tresh: Simili a piovre volanti con 5 tentacoli. Liste del Mentalista e Mentalismo Malvagio fino al loro livello, senza PM. Immuni agli attacchi mentali, metà danni dall'Essenza.
+Moglath: Creature umanoidi con ali membranose, hanno 10PM per livello e conoscono tutte le liste del Flusso Malavagio. Sono immuni al Mentalismo e dimezzano i danni da Essenza.
+Shoggoth: Blob amorfi e corrosivi, aggiunge un “C” da Acido ad ogni attacco, sono immuni al Mentalismo, dimezzano l'Essenza. Subiscono doppi danni e critici normali (non enormi) dagli attacchi di Luce. 

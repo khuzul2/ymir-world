@@ -1,0 +1,70 @@
+
+UNA NUOVA SPERANZA?
+Corridoio:
+Il corridoio è protetto da una serie di glifi anti-magia: è impossibile teleportarsi e ogni altro incantesimo deve superare un TR contro il 30° per avere effetto.
+5 trappole-lama: attacchi +100 da Spada a Due Mani, Medie da disattivare, Molto Difficili da evitare.
+Prima Sala:
+Muro Illusorio: Lord Shura crea un muro di terra illusorio, tipo quelli di Yonker, per rallentare il party.
+È una sala abbastanza grande (8x8), decorata con finte colonne sporgenti dal muro e preziosi bassorilievi.
+Al centro della stanza c'è quello che pare un sarcofago di pietra che, in realtà, è l'accesso ad un livello inferiore. Il coperchio del sarcofago è protetto da un simbolo di Stun Cloud XX (crea una nube di 6 metri di diametro). 
+A seconda di quanto ci mettono i PG possono arrivare che Shura sta aprendo il coperchio e la nube inizia a formarsi oppure che S è già passato e la nube si è formata.
+Scale:
+Breve scala a chiocciola di pietra con sopra castato uno Earthen Spikes permanente: ovunque spuntano punte e lame di pura roccia affilatissime. Tutti devono fare 5 manovre “Estremamente Difficili”(se camminano piano) per arrivare in fondo, ogni manovra fallita subiscono un “A” da Punta (che LS ignora). Il soffitto è antimagico, per cui chi prova a volare subisce un attacco da caduta +20 e 1-3 critici “C” da punta.
+Se i PG sono troppo vicini LS userà delle illusioni per complicargli la vita.
+Secondo Corridoio:
+Un corridoio simile al primo, con però due stretti camminatoi ai lati e quella che pare una passerella di legno in mezzo. Passare sui camminatoi è una manovra “Media” di Equilibrismo, la passerella copre una voragine di 15m irta di spuntoni (attacco +45 da Caduta e 1-10 colpi critici “D” da Punta).
+Anche qui, LS può provare a intralciare i PG con illusioni.
+La Sala di Hurin:
+Ecco infine la sospirata sala di Hurin: lo scheletro del re si trova qui, con tutte le sue ricchezze. Chi riuscirà ad ottenere il corno?
+Oltre al corno, ci sono molte altre cose: circa 5000mo in denaro e gioielli, un'armatura nanica completa (TA20, +15, ingombra come TA 17); il Martello del Mondo Sotterraneo (Adamantio +50, danno triplo, colpi critici da Impatto e Sbilanciamento addizionale) e lo Scudo di Hurin (Scudo a Torre +25, +20 ai TR). Ovviamente sottrarre qualcosa al tesoro di Hurin non è una cosa molto bella e non sarà apprezzata dai nani.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Lord Shura Ferito
+20°
+La#
+80
+18(75)
+90Staff/Spells/120FBolt (-20)
++16
+Guardia Scheletrica
+10°
+La#
+150
+17(50)
+100Thsw[Heat]/Drain (3/rnd)
++10
+Hothrog (I)
+2°
+I
+60
+11(15)
+50MCl(x2)+100MBi
++0
+“Inferno”, la Staffa delle Fiamme: 89 cariche, con una carica lancia Fire Bolt, con 2 cariche lancia Fire Ball e con 3 Fire Storm, colpo critico addizionale da Calore.
+Medaglione del Potere: moltiplicatore x3 di PM (solo Essenza e Flusso), Extension II una volta al giorno.
+Anello della Difesa Arcana: Bladeturn 2 volte al giorno, +10 ai TR contro la magia.
+Liste:
+Necromancy (rnk:20/bns:45)
+Shield Mastery (rnk:15/bns:40)
+Liste Illusionista (rnk 20/bns:45)
+Erosione Fisica (rnk 20/bns:45)
+Evocazione di Entità (rnk20/bns45)
+Contatti Oscuri (rnk20/bns45)
+Oscurità (rnk20/bns45)
+Distruzione Materia (rnk20/bns45)
+Studi di Invisibilità (rnk15/bns45)
+Lofty Bridges (rnk:9/bns34)
+Ricompensa dei nani:
+Surya: Armatura riforgiata in Acciaio Nanico, protegge come TA18 ma ingombra come TA17 e un Arco Lungo Magico +10.
+Yonker: Corpetto del Fabbro: un corpetto nero (con due martelli disegnati in oro sul petto) di cuoio rigido (TA9) +5, protegge dal calore della forgia (Heatarmor costante: +20 BD e TR contro il Calore), +10 a Conoscenza Metalli e a Lavorare Metalli.
+Isidoro: 1 dose di Aljira e un Amuleto degli Antichi
+Han: Bracciale della Possanza: in genere usato da alcuni sacerdoti nanici, un bracciale d'oro a forma di serpente che si morde la coda. +2 al bonus di Co; 1 volta al giorno permette di colpire a mani nude sulla tabella della Mazza.
+E un Arco Corto Magico +10.
+Baudolino: Cotta di Maglia Nanica (TA 16, ingombra come TA13) e 5 Frecce Sanguinarie.
+Amuleto degli Antichi: misterioso manufatto probabilmente risalente agli Adepti, a forma di ottaedro, in un metallo simile al platino (una manovra “Folle” di Conoscenza Metalli rivela che si tratta di Numidium, una rarissima lega composta di Mithril, Adamantio e alcuni metalli extraplanari). Quando è inattivo emana una tenue aurea Arcana, se attivato l'aura diventa molto forte.
+

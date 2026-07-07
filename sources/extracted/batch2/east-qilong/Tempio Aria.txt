@@ -1,0 +1,140 @@
+
+IL TEMPIO DELL'ARIA
+SCONTRO ALLE ROVINE
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Guerriero del Caos
+7°
+I#
+135
+18(50)
+130we/120we
++8
+Manticora Meccanica
+12°
+La#
+240
+20(50)
+100LCl/60Fbolt
++16
+Ghoul Meccanico
+10°
+II#
+110
+18(60)
+90Sw/70Mbi+special
++12
+Leonard
+15°
+La#
+129
+1(63)
+155BrSw[Heat]/83MBi+Spec
++11
+Rufia
+10°
+M
+90
+9(30)
+115LXBow/80SSw
++10
+Aghrast
+15°
+M
+140
+10(61s)
+144MS/87ìSBa/Spells
++10
+Lucius
+15°
+M
+170
+18(40)
+135BSwr/120Sp
++8
+Sanghar
+15°
+M
+150
+10(30)
+100Qstf/Spells/90MCl
++12
+Rogar
+15°
+M
+200
+17(40)
+160HSp/150TSp
++16
+Leonard e Aghrast, supportati da Rufia, cercheranno di raggiungere l'entrata del tempio, coperti dai loro uomini.
+Ci sono:
+2 Guerrieri del Caos di Abigor, che servono da supporto pesante
+1 Manticora costrutto, come truppa di sfondamento
+2 Ghoul Meccanici, come truppe leggere 
+Rufia, che cecchina le guardie all'entrata del tempio
+Gli altri che combattono per entrare nel tempio
+Gli alleati dei PG sono
+Lucius Valor, conosce tutte le liste del Paladino fino al suo livello
+Sanghar, liste di guarigione più di supporto da Animista
+Rogar, guerriero puro Ur-Tanoth armato di lancia pesante di Mithril
+Mhyr e Lorkan, due prodi guerrieri Ur-Tanoth che faranno la guardia all'entrata del Tempio
+Se i PG non se ne accorgono da soli, quando Leonard e Co raggiungono l'entrata se ne accorge qualcun altro e li avvisa, ordinandogli di fermarli...
+Sopravvivere a questo scontro è un Minor Extremely Hard Goal. Impedire a Leonard e Aghrast di arrivare all'entrata richiede una buona dose di preveggenza e fortuna, dato che i due possono usare leaving e simili: è un Absurd Minor Goal.
+Ogni nemico ucciso da un PG conta come un Hard Minor Goal per quel PG.
+FINAL SHOWDOWN
+A seconda di quanto tempo ci mettono a raggiungerli, Leonard e il suo gruppo saranno più o meno avanzati all'interno delle rovine.
+In ogni caso Leonard si è stufato di essere inseguito e ha deciso di farla finita, questa sarà la sua ultima battaglia. 
+Gli avversari sono:
+Leonard: questa volta il vampiro cercherà in ogni modo di sbarazzarsi dei PG
+I Vampiri sono vulnerabili solo alle armi magiche, ai colpi critici da Impalamento alle magie di Forza o Elementali (Acqua e Elettricità).
+Morso risucchia 1-5 punti Co e 1d10+20 pf...
+PP: 92
+Liste: Tutte quelle del Mentalismo Malvagio fino al 15° livello (gratis e senza manovre)
+Più vedi scheda.
+Oggetti di Nota: 
+Anello del Potere: Addizionatore +3 per l'Essenza
+Cintura Protettiva: +10 BD
+Spada: “Cerberus”, lama di Mithril +25 che infligge un critico extra da Calore dello stesso livello del primo. 
+100 mo
+Vedi anche la scheda...
+Rufia: Una servitrice del tecnocrate mandata a spalleggiare Leonard (Magent/Cecchina).
+Ha con sé:
+-	Lente Monoculare Migliorata: Riduce di un quarto le penalità per la distanza con le armi da tiro. In più la lente è incantata con Darkvision costante.
+-	Sputadardi Leggera: Magica +20
+-	Armatura Camaleontica: TA9, +25 a Stalking/Hiding
+-	Stivali del Passaggio: Limbwalking e Traceless Passing costanti
+-	25 mo
+Aghrast: Per le liste vedi la scheda, 109PM
+- Morning Star +25 magico
+- Armatura di Cuoio: +10 magica
+- Elmo della Possanza: +20 PF
+- Scudo di Arn: +10 BD e TR
+- 17 mo
+Il combattimento è un Sheer Folly Minor Goal.
+Uccidere Leonard è un Sheer Folly Major Goal.
+FLASHBACK
+Prima di morire Aghrast rivelerà ai PG il folle piano dei Cultisti di Abigor: sfruttando la mega guerra fra i Regni vogliono aprire un portale per il regno di Abigor, dal quale i suoi servitori potranno invadere Ymir... detto questo estrarrà una grossa sfera nera, che esploderà causando un effetto Absolution tutto intorno a lui.
+Questa rivelazione conta come un Light Minor Goal.
+I PG si risveglieranno come da un sogno: si trovano in un luogo familiare ad alcuni di loro, si tratta dell'interno dell'Accademia di Studi Elementali, solo che in realtà stanno assistendo ad una sorta di visione sul passato, al tempo del Complotto dei Cinque.
+Intorno a loro è il caos, nella stanza in cui si trovano ci sono alcuni cadaveri di quelli che sembrano maghi. Prima che riescano a raccapezzarsi un uomo dall'aspetto familiare si rivolge a loro con fare autoritario (si tratta di Belengard, solo molto più giovane), imponendogli di seguirlo (anche se i PG hanno un parziale controllo sulle loro azioni, non possono fare a meno di seguirlo).
+Saliranno fino in cima alla torre dell'Accademia, mentre Belengard si fa strada a colpi di Aether...
+In cima, nello studio del maestro della gilda, trovano Sirius Edergarth che ha appena ucciso Ecthelius. Sirius cerca di calmare Belengard, più o meno così
+B: Sirius! Cosa hai fatto?! Folle!
+S: Belengard! Non capisci, dobbiamo fermare questa pazzia!
+B: Cosa stai dicendo!? Pensi di poter ingannare anche me? Non sono uno dei tuoi leccapiedi!
+S: Sei tu che ti inganni, Belengard! Non capisci che queste macchine saranno la nostra rovina?
+B: Basta Sirius! Ti sei coperto dei crimini più gravi uccidendo il nostro maestro e attentando alla stabilità del Ducato!
+S: Io sarei un criminale? Come credi sia morto Iulius? Non vedi che quell'essere vi sta usando tutti?
+B: Basta così! Sei un folle Sirius e io ti fermerò!
+A questo punto i PG vedono che uno dei feriti a terra alle spalle di S riesce ad alzarsi: è il giovane Leonard! Approfittando della distrazione di S lo pugnala alla schiena proprio mentre B sta lanciando il suo attacco, impedendogli di schermarsi... 
+L'esperienza conta come un Medium Minor Goal
+I PG si risvegliano nella stanza dove hanno combattuto contro i tre, ma assieme a loro c'è un uomo, vestito con strani abiti dal look antiquato.
+Dirà di trovarsi lì per scortarli fino al Diadema...
+NATHARIEN, IL DIADEMA CELESTE
+POTERI: Moltiplicatore x4 per l'Arcano, il portatore può Volare a volontà, il Diadema devia ogni colpo diretto verso il portatore creando istantanei scudi di forza (in pratica conferisce un bonus di +25 al BD costante, che diventa +50 contro gli attacchi da Aria), il portatore può usare i primi 25 livelli di “Shifting Law” come se li conoscesse, e può lanciare “Aether Bolt” fino a 3 volte al giorno, Natharien può invocare “L'Esplosione Celeste” (Aehter Ball II, doppi danni) una volta al giorno. Estremamente intelligente, comunica attraverso Telepatia.
+Ottenere il Diadema è un Hard Major Goal

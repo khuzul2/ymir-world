@@ -1,0 +1,92 @@
+
+LA FESTA DANZANTE
+La sera del 3 Grifone dell'Anno 3026 una grande festa è stata organizzata al Padiglione delle Scienze di Armora, mirata a risollevare gli animi dei cittadini dalla guerra e dar sollievo ai nobili armoriti.
+Fuori dal padiglione è stata allestita una grande fiera colorata per i cittadini comuni, mentre l'ingresso al padiglione stesso è riservato solo agli invitati.
+Fra le varie personalità compaiono i maggiori rappresentanti delle gilde, nobili vari e perfino il Granduca... la sicurezza è ovviamente in stato di massima allerta.
+I PG hanno ricevuto un invito alla festa, non hanno accesso ai posti d'onore ma ciononostante possono entrare nel padiglione.
+In questo modo possono non solo parlare fra di loro, ma avere anche l'occasione di parlare con qualche altro partecipante, raccogliere informazioni, ecc...
+Notizie dal fronte: Verso Bosco di Rhems, le forze orchesche sono un po' retrocesse ma l'esercito armorita sta ancora combattendo per recuperare il territorio (l'ambiente non è favorevole), sui monti la situazione è invece invariata, gli uomini non riescono ad avanzare oltre Forragelida.
+Nord-Ovest è il punto in cui la situazione è più caotica: gli eserciti di Armora, Tydriell e degli orchi si scontrano insieme, tutti contro tutti, e la landa è devastata dalla guerra.
+Sul fronte Est, sulla costa, Armora è protetta sia dalla propria flotta che da quella della Zaalesha che riportano una vittoria dietro l'altra.
+Sull'altro fronte le forze di Vallanya e Caeldir si oppongono ad Armora e la situazione è in stallo.
+IL MESSAGGERO
+PG chiamati via dalla festa, è arrivato con una nave volante un soldato messaggero dal fronte (Iulius). 
+Il messaggero viene da parte del generale Loren Artois, un giovane promettente di nobili origini impegnato nei pressi del confine nord-occidentale.
+Durante un'incursione sul confine, un gruppo di perlustratori si sono imbattuti in una piccola forza arroccata in una strana fortificazione nascosta. 
+Artois ha dunque guidato un attacco alla costruzione, credendo di avere a che fare con un plotone di Caeldirita e deciso a scoprire le loro trame.
+Arrivati sul posto hanno messo in fuga il nemico senza troppi problemi, ma hanno scoperto che la fortificazione è in realtà delle rovine di un'antica torre.
+Mentre assicuravano il luogo, la notte sono stati attaccati dai Caeldirita, che avevano ricevuto rinforzi...
+Si sono ritirati ma hanno mantenuto posizione nelle vicinanze, certi che si tratti di qualcosa di importante. Hanno fatto rapporto anche perché fra gli assalitori notturni comparivano strane creature che vorrebbero far analizzare (ghoul meccanici)
+--> PG tirati in causa x precedenti esperienze
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Ghoul Meccanico
+10°
+II#
+110
+1(100)
+90Sw/70Mbi+special
++12
+Scena del laboratorio, poi i PG sono mandati a Leon Artois ad accertarsi della cosa.
+LA TORRE
+La torre è ciò che resta di un'antica rovina xebechana, segni intorno mostrano che è stata scavata fuori di recente.
+Nathan --> messo
+Leon Artois (giovane generale: Armsmaster 10°) 
+Renoir (consigliere di Leon, mago livello 8°, ferito)
+300 soldati
+6 carri da guerra
+5 costrutti d'assalto
+1 aereonave
+Forze “Caeldirite”
+Leonard
+200 soldati
+vari costrutti
+Ghoul meccanici (10, ora sono 9)
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Ghoul Meccanico
+10°
+II#
+110
+1(100)
+90Sw/70Mbi+special
++12
+Leonard (V)
+15°
+La#
+120
+2(90)
+130Sw[Cold]/90MBi+special/Spells
++12
+Costrutto Leggero
+8°
+II#
+150
+20(35)
+90Xbow/80Sword(x2)
++8
+Costrutto d'Assalto
+11°
+La#
+300
+20(50)
+100Mstar(x2)
++6
+Soldato Medio
+6°
+M
+100
+17(20)
+120Spe
++8
+Scopo: infiltrarsi nella torre e scoprire che c'è...

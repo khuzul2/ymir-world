@@ -1,0 +1,90 @@
+
+IL SANTUARIO DELLE BRACI
+Entrata
+Il muro con la scritta in xebechano nasconde un passaggio segreto per l'entrata del tempio. La scritta recita:
+Rifugio Alto Santuario delle Braci. Area sigillata, Vietato l'Accesso.
+Il meccanismo che aziona il passaggio è “Estremamente Difficile” [-30] da trovare (il muro è incantato in modo da Cancellare gli incantesimi atti ad attraversarlo.
+Oltre il muro si trova una stanza contenente un profondo pozzo (che porta al piano inferiore) e due Sentinelle.
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Sentinella
+10°
+La#
+300
+20(0)
+speciale
++16
+Attacchi Sentinella: 1) Confusion (Incapace di intraprendere azioni per 1 rnd/5 fail) 2) Fear (1 min/10 fail) 3) Mind Break (riduce ad un idiota farfugliante) su fino a 10 persone x volta, finché ci sono entrambe le Sentinelle i primi due attacchi danno una penalità di -20 ai TR.
+Le Sentinelle non possono muoversi e utilizzeranno i tre attacchi (uno a round, nell'ordine) con un raggio di 6 metri circa su chiunque entri nella stanza.
+Il pozzo è profondo 20m ed è completamente liscio.
+Attraversare l'entrata e superare il pozzo è un Minor Goal Very Hard.
+Stanza Bassorilievi 
+E' la sala direttamente sotto il pozzo, ha una sola uscita.
+Le pareti di questa sala sono coperte di bassorilievi, per la maggior parte talmente rovinati da essere quasi del tutto cancellati. Al centro della stanza c’è ciò che resta di un piccolo obelisco di pietra fosforescente, crollato al suolo in frantumi. Una manovra di Conoscenza Cultura Xebechani fa riconoscere la stanza come una Sala di Meditazione e Purificazione, comune in molti complessi templari xebechani. Una manovra “Molto Difficile” [-20] di Osservazione permette di scoprire, nascosto sopra uno dei bassorilievi in una piccola nicchia un Pendente di Cristallo (Funziona come un Moltiplicatore x1,5 per tutti i reami e conferisce un bonus di +10 a Meditazione e a vari Trance). Il PG che trova il Pendente completa una Minor Goal Light.
+Laboratorio
+Stanza attrezzata a laboratorio, con schermi (non funzionanti), tavoli e strani apparecchi. Analizzandoli un apparecchio può ancora venire azionato e riporta quelli paiono i risultati di alcune analisi:
+Analisi del Popolo Invasore:
+Razza: Non Identificata
+Provenienza: Meridione, si ignorano le cause della migrazione.
+Caratteristiche Fisiche: Altezza Media 150cm, Peso Medio 70kg, ossatura robusta e pesante, muscolatura sviluppata, retina altamente fotosensibile, resistenti alle temperature estreme.
+Altre Caratteristiche: poco portati alla manipolazione dell'Essenza.
+Livello Tecnologico: Primitivo.
+Attitudine: Combattivi.
+Giudizio Finale: Probabilmente adatti alla colonizzazione del territorio, iniziare procedura F per testare le reazioni della razza. 
+Nella stanza si trova anche un respiratore (Gaslung costante, ogni volta che si usa 10% di esaurirsi), “Hard” da riconoscere.
+Stanze Random
+Mensa, alcove dormitorio, stanza vuote...
+Corridoio con trappola
+Se scatta la trappola chi passa subisce 1-10 attacchi da Balestra Leggera +65. Manovra di Allerta “Folle” [-50] per accorgersene (“Estr. Difficile[-30] con la termovisione), “Estr. Difficile” da Disattivare. Minor Goal Very Hard.
+SECONDO LIVELLO
+Questo livello pare ricavato da grotte vulcaniche naturali, una grande caverna piena di pozze sulfuree ribollenti.
+L'aria è rovente: senza protezioni si subisce un colpo critico A da Calore al round. Inoltre è piena di vapori venefici: ogni round un TR contro il Veleno Respiratorio di 15° livello (può essere ridotto o cancellato creando areazione). Sul soffitto si trovano degli aspiratori (Very Hard da vedere) che, se azionati, rendono respirabile l'aria.
+Al centro della caverna una costruzione con una porta di metallo sigillata, l'accesso al vero e proprio Santuario. “Folle” [-50] da scassinare (può essere aperta col talismano da Ierofante).
+Minor Goal Very Hard entrare nel Santuario.
+IL SANTUARIO
+Posto di Guardia
+Come entrano nel santuario il locale si illumina, le luci si spengono di colpo e se ne riaccendono la metà. Una voce in Xebechano annuncia “Alimentazione Ausiliaria Attivata... Prego Identificarsi”. Da una parete sporge una piccola sfera di cristallo luminescente (con un foro sopra), se ci si infila la Chiave le porte della stanza si aprono e la voce dice “Benvenuti al Santuario delle Braci”. Altrimenti ripete il primo annuncio e delle torrette nascoste iniziano a sparare con un BO di +80 (Pag 29 del Balster Law, critici Laser) un colpo al round (il laser non può essere deflesso, ma gli incantesimi contro la magia offrono protezione).
+Stanze di Animazione Sospesa
+Stanze piene di macchinari simili a quelli del tempio dell'Inverno, vuoti e inutilizzabili.
+Stanza di Monitoraggio
+Stanza con macchinari per il controllo dell'atmosfera esterna, contengono meccanismi per azionare le ventole nella caverna (Minor Goal Medium attivarli)
+Stanza del Teurgo
+Alto Teurgo --> Nanauatl (uguale a quello del santuario dell'Inverno).
+Da il benvenuto allo Ierofante, avvisa che il resto del Santuario è sigillato:
+Spiega che durante l'ultimo test alcuni pericolosi soggetti di studio si sono liberati, attaccando gli abitanti del Santuario.
+La verità è che il software di Nanauatl è impazzito, ovviamente nessuno è più nel Santuario da secoli... Per errore l'IA che controlla il Teurgo (e quindi il tempio) ha iniziato a diffondere un gas allucinogeno nel complesso, che gli xebe usavano come metodo di difesa, in quantità massiccia e senza controllo... è convinto che sia in corso un test e che lo ierofante stia portando le cavie per esso.
+Cartina qui sotto per l'area dell'esperimento.
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Creatura
+10°
+La
+200
+4(100)
+100LCl
++16
+Superare l'area d'esperimento è come minimo un Minor Goal Very Hard
+Area 7
+Contiene un terminal ancora funzionate: è in stato di allarme per il risveglio del Custode del Quadrante 74: Gwalgamaur (motivi del risveglio: sconosciuti).
+Area 9
+Contiene l'accesso al livello successivo, ma è sigillata (Ext. Hard [-30] da scassinare) e la porta è occultata nel muro (Hard [-10] da individuare). Inoltre, la zona dopo la porta è protetta da una trappola, che si attiva se qualcuno entra senza aprire la porta in maniera convenzionale (Ext. Hard [-30] da disattivare, Folle [-50] da individuare). 
+La Trappola attiva una sfera di Void intorno agli intrusi: dentro la sfera ognuno perde 1d10 di PM al round (se ha 0 PM perde 1d10 PF). Oltrepassare la sfera richiede un TR contro la Paura (di 25° se si intende farlo normalmente, di 20° se si usa la magia per teleportarsi) e infligge un critico da Void (“E” per contatto diretto; “C” per teleport). Ogni incantesimo lanciato dentro la sfera deve fare un TR contro l'Arcano di 20° per non venir Cancellato.
+Minor Goal Ext Hard passare oltre quest'area.
+TERZO LIVELLO
+It is Hot, Down Here
+Il Terzo livello è incandescente: per incidenti passati il sistema di isolamento è andato in corto e ora le pareti e il pavimento emanano calore bianco (toccarli risulta in un “E” da calore).
+Ogni round passato senza protezione risulta in un “A” da calore. La Termovisione è inutilizzabile e gli xebechani senza protezioni hanno un -75 alle azioni per colpa del calore accecante.
+Sala di Ignus
+Simile a quella del Santuario dell'Inverno: l'altare dello scettro è avvolto da una sfera di calore insopportabile (-100 termovisione, critico “D” da calore toccarlo).
+IGNUS, LO SCETTRO DELLE BRACI
+POTERI: Moltiplicatore x4 per l'Essenza, il portatore può “immolarsi” a volontà (infliggendo un colpo critico “A” nel raggio di 3 metri e un “B” a chi lo tocca), è immune alle fiamme non magiche e guadagna un bonus di +50 al BD e ai TR contro quelle magiche, può usare i primi 30 livelli di “Fire Law” come se li conoscesse (coi propri PM), la staffa può lanciare una volta al giorno la Fiamma Purpurea (un Firebolt III a quadruplo danno), usando il suo BO (90) o quello del portatore. Estremamente intelligente, comunica attraverso Telepatia. 

@@ -1,0 +1,271 @@
+
+                                     IV
+                               RITORNO A YMIR
+
+
+
+
+
+CHIAVE N°0: LA FONTE DI OGNI ORDINE
+
+La Fonte di Ogni Ordine è il reame di Hudemia,  dea  dell’Obbedienza,  della
+Legge e dell’Acqua. Si trova su Mechanus, ma non è molto  conosciuto,  anche
+se trovare una via che vi ci  porti  gli  avventurieri  non  è  estremamente
+difficile.
+L’aspetto del reame ricorda vagamente quello di un tempio greco,  con  molte
+colonne e capitelli ben ordinati. L’intero reame è coperto  d’acqua  limpida
+ed immota, profonda qualche metro. Sospese sopra di essa passano  strade  di
+materiale infrangibile, simile a vetro trasparente, che portano  alle  varie
+torri candide che spuntano a intervalli regolari dalle acque. Le torri  sono
+abitate  dai  supplicanti  di  Hudemia:  i  Cloni,  esseri  dall’aspetto  di
+fanciulle identiche e dal volto materno (vedi sotto).
+L’intero reame è pervaso da  un  silenzio  ed  una  calma  opprimenti.  Ogni
+rumore, anche quelli più forti, risulta smorzato benché sempre  percepibile.
+I PG dovrebbero girare un po’ a vuoto per il reame, incontrando  solo  Cloni
+silenziose che svolgono le loro misteriose mansioni senza profferir  parola.
+
+Dopo qualche tempo speso a girovagare i PG si imbattono in una Clone  ferita
+gravemente, stesa per terra. Essa li supplicherà  di  portare  un  messaggio
+alla Madre della Torre 9 e di avvisarla che il portale g42 è  sottoposto  ad
+un attacco da parte di forze ostili.
+Ora, i PG non sanno qual è la Torre 9 ma possono chiaramente vedere dove  si
+trova la torre più vicina, è anche facile capire da che  parte  provenga  la
+Clone, dato che giace riversa su una via precisa e le sue macchie di  sangue
+bluastro risaltano abbastanza chiaramente sul terreno trasparente.
+Il portale è stato preso d’assalto da  un  gruppo  di  Distruttori,  con  il
+supporto di un piccolo contingente  di  mercenari  male  assortiti  (qualche
+troll, alcuni Reave e Slaad). Ora  i  Distruttori  stanno  adoperandosi  per
+pompare via l’acqua dal reame  ,  per  utilizzarla  per  un  qualche  ignoto
+scopo.
+Attaccare il portale è un’operazione assai difficile e rischiosa,  dato  che
+il solo numero dei nemici probabilmente sopraffarebbe i PG. Se,  invece,  si
+recano alla torre più vicina saranno attaccati da pattuglie di  inseguitori,
+mandati per catturare la fuggiasca.
+Una volta giunti alla torre e riferita la notizia partirà un contingente  di
+Cloni  per  sistemare  gli  intrusi  (possono  andare  anche  i  PG,  se  lo
+desiderano).
+Come  ricompensa  i  PG  potranno  ottenere  la  Chiave  (se  la   chiedono,
+ovviamente!).
+LA CHIAVE: La Chiave dell’Acqua è fredda al tatto e non  reca  inciso  alcun
+numero. Conferisce il potere di respirare  sott’acqua  al  portatore  e  può
+fermare una ferita da sanguinamento al giorno.
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Reave           |6°  |I   |80 |19(30)    |90we(2x)                    |+8  |
+|Troll           |12° |La# |175|11(25)    |110LCl/90We                 |+8  |
+|Slaad Rosso     |10° |La@ |180|4(30)     |90Cl(2x)/100Lbi/spec        |+8  |
+|Guerriero       |12° |M   |150|15(65s)   |140brsw/120bow              |+7  |
+|Distruttore     |    |    |   |          |                            |    |
+|Comandante      |16° |M   |165|20(45s)   |160brsw/140bow              |+12 |
+|Distruttore     |    |    |   |          |                            |    |
+|Mago Distruttore|15° |M   |90 |2(50*)    |100bolt/60brsw              |+15 |
+
+
+Note:
+ – I Reave sono fieri umanoidi con 4 braccia, portano e attaccano con 2
+   armi a due mani oppure 2 armi ad una mano e due scudi. Hanno l’abilità di
+   Sparire nel piano Astrale: per farlo impiegano il 10% dell’azione per due
+   round, poi spariscono e ricompaiono in 1-6 round entro 30 metri.
+ – Gli Slaad Rossi possono emettere un gracidio che stordisce tutti quelli
+   che falliscono il TR entro 6 metri, rigenerano 4 PF al round e hanno un
+   Bonus di +30 al BD e ai TR contro gli incantesimi. Possono evocare 1-2
+   Slaad Rossi al giorno in loro aiuto. Chi subisce un colpo critico da uno
+   Slaad Rosso deve fare un TR contro le Malattie con un –30 o avere un uovo
+   di Slaad impiantato nel corpo (l’uovo si schiude dopo 24 h uccidendo
+   l’ospite).
+
+
+CHIAVE N°1: IL PALAZZO INCOSTANTE
+
+Il Palazzo Incostante è il reame di Heis, dio  del  Vento  e  del  Caso.  Ha
+l’aspetto di un grande palazzo o castello (l’aspetto esatto  è  in  continuo
+mutamento) che vaga all’interno del Limbo.
+Riuscire a trovarlo e raggiungerlo è un’impresa in sé stessa, il metodo  più
+sicuro  è  trovare  un  condotto  che,  dalla  città-portale   Axso,   porti
+direttamente lì.
+A Sigil c’è uno Slaad Ribelle (ovvero uno Slaad che ha  leggermente  deviato
+dalla sua natura caotica ed è un po’ più “civilizzato”  degli  altri  Slaad)
+di nome Lamagraal  che  conosce  uno  di  questi  portali  e  può  rivelarne
+l’ubicazione per 500 pezzi d’oro  (minimo),  oppure  in  cambio  di  qualche
+mefite.
+
+Tanto per sicurezza, ecco un esempio di ciò che accade a chi  si  tuffa  nel
+Caos del Limbo senza precauzioni:
+Esporsi alla materia caotica  senza  protezioni  ha  degli  effetti  casuali
+finché il PG non riesce in un  tiro  di  Inx3,  in  seguito  la  Materia  si
+stabilizza fino a che il personaggio rimane concentrato  entro  un  quadrato
+col lato pari alla propria In  metri.
+Effetti Materia Caotica:
+   1. Fuoco: un colpo critico al round: tira per l’intensità: 1:A; 2:B; 3:C;
+      4:D; 5:E; 6:E+C.
+   2. Acqua: pericolo di soffocamento.
+   3. Terra: seppellito vivo, pericolo soffocamento e tira 1d10, con 9 o  10
+      si subisce un colpo critico “E” da impatto.
+   4. Aria: si galleggia a mezz’aria
+   5. Fulmine: un colpo critico al round, come Fuoco.
+   6. Gelo: come sopra.
+   7.  Elemento  misto:  2  elementi  a  caso  fra  quelli  sopra,   effetti
+      cumulativi.
+   8. Caos Puro: un colpo critico da Distruzione al round, tira:1 o 2: A;  3
+      o 4: B, 5 o 6: C.
+   9. Elemento Caotico: Caos più un elemento a caso.
+  10. Pseudonatura: un ambiente naturale non dannoso, dura un round.
+
+A parte questo, l’interno del Palazzo è  composto  da  varie  stanze,  tutte
+diverse tra loro, in continuo mutamento. Una volta uscito da  un  stanza  ed
+entrato in un’altra non è possibile rientrare  in  quella  precedente,  dato
+che sarà completamente cambiata (sempre che  ci  sia  ancora  una  porta  da
+poter oltrepassare). Nelle stanze si galleggia a mezz’aria, sorretti da  una
+sorta di vento continuo. Ci si sposta con  la  forza  del  pensiero,  oppure
+volando con un mezzo proprio.  Finché  non  ci  si  abitua  all’ambiente  si
+soffre di una penalità di –50 alle azioni (riducibile  a  –20  dopo  qualche
+minuto di esercitazioni). La popolazione del palazzo  è  pressoché  limitata
+agli Slaad e a qualche altra creatura del Caos.
+
+I PG sono talmente “fortunati” da essere capitati durante uno dei giorni  di
+festa del Palazzo. In questa giornata tutti gli  abitanti  sono  invitati  a
+partecipare a dei giochi, alla fine dei quali qualcuno vince  pure  qualcosa
+(non si capisce bene chi, però).
+Mentre vagano per le sale del palazzo i PG si imbatteranno  in  ogni  genere
+di competizione stramba.
+COMPETIZIONI
+ – Percorso ad ostacoli: vince  chi  arriva  prima  in  fondo  ad  un  lungo
+   corridoio pieno di trappole tanto letali quanto  strane.  Ci  sono  dieci
+   trappole in tutto [disposte in quest’ordine  di  difficoltà  di  scovare:
+   Banale(+20), Facile(+10), Normale, Difficile(-10), Difficile(-10),  Molto
+   Difficile(-20), Molto Difficile(-20), Estremamente Difficile(-30), Folle(-
+   50), Assurda(-70)], ogni trappola è  diversa  ma  tutte  infliggono  3d10
+   danni e 1d10 critici “C”.
+ – Poesia: vince il partecipante che compone  la  poesia  più  bella  (Nota:
+   ascoltare le poesie composte dagli Slaad è estremamente conturbante e può
+   richiedere un Tiro Sanità), non basta fare un tiro su Poesia per vincere,
+   bisogna comporne una propria.
+ – Sollevamento Pesi: vince chi solleva la creatura più pesante  all’interno
+   della stanza (che è molto simile ad uno zoo planare,  piena  di  creature
+   feroci e non molto contente di essere sollevate dal primo che passa).
+ –
+
+
+
+
+CHIAVE N° 2: IL GIARDINO DELLE FIAMME
+
+Il reame di Diis, dea delle Passioni, è un luogo  assai  poco  conosciuto  e
+difficile da raggiungere. Non esistono portali conosciuti da Sigil per  esso
+(anche se con qualche mese di ricerca  potrebbe  essere  possibile  trovarne
+uno), la via più facile per trovarlo consiste nel recarsi  direttamente  nel
+Piano Elementale del Fuoco, della  Città  di  Bronzo,  capitale  dell’impero
+degli Efreet, e  chiedere  lì.  Anche  trovando  una  guida  qui,  tuttavia,
+restano  sempre  giorni  di  viaggio  nel  Piano  prima  di  raggiungere  il
+giardino, con i soliti pericoli connessi ad esso.
+NOTA: Varie disavventure alla corte  degli  Efreet,  oltre  che  incontri  e
+combattimenti con vecchie conoscenze sono accadute nel Piano del Fuoco.
+IL GIARDINO: tenendo fede al suo nome, il reame  assomiglia  a  un  giardino
+pensile, con la sola eccezione che le piante  sono  composte  esclusivamente
+da fuoco. Ogni sentimento è in qualche modo amplificato in questo reame.
+Gli elementali che abitano  qui  prendono  fattezze  femminili  ma,  per  il
+resto, sono identiche agli altri elementali.
+RICERCATI: La notizia  che  alcuni  seguaci  del  Male  stiano  cercando  di
+rompere i sigilli che tengono chiuso un portale nel regno della  dea  Ishtar
+sembra essersi sparsa per i  piani.  Alcuni  seguaci  del  bene  sono  stati
+mandati per investigare e, casomai, fermare i PG.
+Si tratta di un Campione Alato (conosce tutte le liste  dei  Paladini),  due
+Oran (esseri umanoidi dalla testa di equino) e una Fenice (conosce la  lista
+Piromanzia fino al 20°).
+LA CHIAVE: La Chiave delle Fiamme è attaccata ad una  targhetta  con  inciso
+il n° 2. il suo portatore ha un bonus di +10 ai TR/BD contro il Fuoco e  può
+creare un Muro di Fuoco una volta al giorno.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Efreet          |10° |La@ |110|1(70)     |125we/spec                  |+8  |
+|Elementale,     |10° |La# |80 |1(40)     |40Mba(2x)/70MGr[Bheat]      |+8  |
+|debole          |    |    |   |          |                            |    |
+|Elementale,     |20° |SL# |120|1(30)     |50Lba(2x)/90MGr[Dheat]      |+12 |
+|forte           |    |    |   |          |                            |    |
+|Signore         |30° |SL# |200|1(60)     |Spells/spec/90Lba[Heat]     |+12 |
+|elementale      |    |    |   |          |                            |    |
+|Mastino del     |6°  |M   |90 |4(30)     |70Mbi/50FBr                 |+8  |
+|Fuoco           |    |    |   |          |                            |    |
+|Bestia di Fiamme|6°  |La  |115|1(25)     |105MCl[Heat]/110Mbi[heat]   |+8  |
+|Salamandra      |10° |La  |250|12(40)    |60Lbi/70LCl/50Hba/50FBall   |+8  |
+|Campione Alato  |20° |La  |220|14(80)    |200we(2D)/spells            |+12 |
+|Oran            |8°  |La  |200|1(15)     |180we(4D)                   |+4  |
+|Fenice          |14° |La  |250|4(40)     |100HCl(2x)/70MPi            |+16 |
+
+
+
+CHIAVE N° 4: IL GROVIGLIO SELVAGGIO
+
+Il Groviglio Selvaggio è il reame di Therios, dio della Terra, della  Caccia
+e delle Selve. Si trova nelle Terre Esterne,  anzi,  per  la  precisione  si
+trova su Yggdrasil. Il reame  ha  l’aspetto  di  grossi  blocchi  di  roccia
+sospesi  fra  i  rami  dell’Albero,  su  cui   cresce   una   lussureggiante
+vegetazione. Spesso questi blocchi di roccia sono cavi e collegati fra  loro
+da numerosi e intricati cunicoli.
+Gli abitanti del Groviglio sono numerosi  e  diversificati  quante  sono  le
+belve che popolano i piani, è possibile incontrarvi orsi,  tigri,  warcat  o
+roc, oltre che molti erbivori.
+Dei quattro reami delle divinità gemelle, questo è il più facile da  trovare
+e raggiungere. In effetti, si tratta di un luogo abbastanza  conosciuto  fra
+gli amanti della caccia grossa e fra i mercanti  di  pellicce.  È  possibile
+raggiungerlo dalla via più usata: passando attraverso il Reame  delle  Norne
+e salendo su Yggdrasil.
+Nel reame gli incantesimi palesemente contro natura (come quelli che  creano
+non  morti  o  resuscitano)  non  funzionano  per  nulla.  Anche  i  normali
+incantesimi di guarigione sono diminuiti (-1 al livello del lanciatore,  max
+incantesimi di 5°) e, come compenso, lo sono anche quelli che causano  danni
+diretti.
+IN CERCA DELLA CHIAVE: i PG arrivano qui in cerca della Chiave della  Terra,
+con tutta probabilità faranno presto conoscenza  con  qualche  predatore  in
+cerca di un pasto (virtualmente qualsiasi animale vive qui,  qua  sotto  c’è
+qualche esempio). Comunque, dopo non molto, verranno anche a far  conoscenza
+con gli abitanti “civilizzati” del luogo, in  particolar  modo  con  Koresh,
+intermediario del dio Therios. Koresh sta cercando la  causa  di  corruzione
+che percepisce essersi radicata da qualche giorno nel reame, ha scambiato  i
+PG per la causa di tale corruzione e li vede come una  peste  da  eliminare.
+Si tratta di un guerriero temibile, reso ancora più letale dal suo stato  di
+Leone Mannaro e dai poteri conferitigli dal dio Therios  (conosce  le  liste
+dell’Animista e del Ranger fino al suo livello). Solitamente caccia da  solo
+ma in quest’occasione ha portato con sé 4 sottoposti.
+I PG hanno tuttavia delle chances di convincerlo che non sono loro la  causa
+della corruzione, anche se Koresh è un uomo molto sospettoso. Egli  dovrebbe
+tuttavia garantire ai PG la possibilità di dimostrare la  propria  innocenza
+in un tempo ragionevole  (3  giorni),  se  entro  quel  periodo  ci  saranno
+riusciti bene, altrimenti sarà meglio per loro aver già lasciato il reame.
+IL DRACOLISCO: è causata da un dracolisco. L’infida creatura si è  stabilita
+i uno dei cunicoli sotterranei del regno, avvelenando  l’aria  e  le  radici
+degli alberi. L’aria all’interno del tunnel è resa velenosa dal suo  respiro
+(TR contro un Veleno  Respiratorio  di  8°  livello  ogni  5  minuti)  e  il
+pavimento è cosparso dei  resti  pietrificati  delle  sue  vittime.  Il  suo
+sguardo pietrifica chi ha la sfortuna di guardarlo  (TR  per  evitarlo),  la
+sua pelle emette un veleno Nervino di 12° livello  che  colpisce  tutto  ciò
+che esso tocca e si propaga col suo sangue (colpendo chi  lo  ferisce).  Può
+soffiare un cono di veleno (Respiratorio di  12°)  contro  i  suo  nemici  e
+conosce le liste dello  Stregone  fino  al  suo  livello  (può  lanciare  un
+incantesimo al round). Se viene ferito si mette a sibilare,  causando  Paura
+nel raggio di 15 metri.
+VITTORIA: portando le prove della loro innocenza i PG hanno  libero  accesso
+al reame, inoltre, se aiutano Koresh a sconfiggere il  Dracolisco  o  se  lo
+sconfiggono da soli, vengono ricompensati  con  la  Chiave  e,  magari,  con
+qualcosa in più a seconda di come si sono comportati
+LA CHIAVE: La Chiave della Terra ha inciso sopra il numero 4. Conferisce  un
+bonus di +10 ai TR contro Veleni, Malattie e Magia a  chi  la  porta,  oltre
+che donargli 10 PF temporanei.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Ursikor         |25° |SL@ |400|12(40)    |150Hba/150HCl/140HGr+HCr/150|+4  |
+|                |    |    |   |          |HBi                         |    |
+|Tirannosauro    |8°  |SL  |500|11(30)    |200HBi                      |+8  |
+|Roc             |10° |LA  |400|4(60)     |140HCl/120HPi               |+8  |
+|Koresh          |35° |LA@ |425|4(80)     |160LCL(2x)/150Lbi/spells    |+16 |
+|Leone Mannaro   |8°  |I   |140|4(40)     |95LCl/130LBi                |+8  |
+|Dracolisco      |25° |LA# |350|12(50)    |120LPi+poison/100LCl+poison/|+12 |
+|                |    |    |   |          |spec                        |    |
+
+
+
+
+
+
+

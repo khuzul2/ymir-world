@@ -1,0 +1,116 @@
+
+THE MOURNING PALACE
+
+
+IL MONASTERO ABBANDONATO
+Le fogne sbucano all’interno del chiostro  di  quello  che  pare  essere  un
+vecchio  monastero  di  Mithra  in  rovina.  Intorno  è  tutto  silente,  ma
+dall’esterno si sente provenire qualcosa di simile a un lamento  continuo  o
+un lento cantilenare, il cielo è rosso sangue…
+
+Un gruppo di 4 individui incappucciati, vestiti come  preti  di  Mithra,  si
+avvicina lentamente, col capo chino. Quando sono vicini è  possibile  notare
+che non sono umani, ma hanno lineamenti demoniaci. Sono venuti per  scoprire
+cosa disturba il pozzo.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Corruttore I    |5°  |M   |150|4(10)     |55Mace/Spells              |+8  |
+
+I Corruttori hanno 40PM e conoscono fino al  loro  livello  gli  incantesimi
+degli Stregoni e del Flusso Oscuro.
+
+BALTHIER
+Balthier è un vecchio sacerdote  di  Mithra,  è  sopravvissuto  rifugiandosi
+all’interno di una piccola  cappella,  l’ultimo  posto  ancora  sacro  della
+città (il luogo repelle i demoni e infligge ai servi di Ahriman  un  critico
+“A” sacro).
+Racconta ai PG la  storia di Altur: 3 anni fa, una grande  pietra  infuocata
+cadde dal cielo nei boschi vicino ad Altur. Eodred, che allora era  il  capo
+delle guardie, fu mandato a investigare assieme a un gruppo di uomini.
+Meno della metà di loro tornarono indietro, sporchi  di  sangue.  Assieme  a
+loro, trasportata su un palanchino, venne Zellara la strega, una  donna  dai
+capelli argentati e lo sguardo  malvagio.  Eodred  annunciò  al  popolo  che
+Zellara era ora  la  signora  di  Alturia  e  ordinò  a  tutti  di  giurarle
+obbedienza.
+Magnus, il governatore, si fece  avanti  con  un  manipolo  di  guardie  per
+fermarlo, ma ad un gesto della strega le guardie gli si  rivoltarono  contro
+e lo uccisero.
+Allora Padre Adam, l’alto abate di Mithra, pronunciò  un  potente  esorcismo
+per scacciare la strega e spezzare i suoi incantesimi, ma Zellara  gli  rise
+in faccia e con un semplice schiocco delle  dita  gli  strappò  l’anima  dal
+corpo e la divorò.
+Nessuno osò più opporsi a lei, tranne  le  tribù  barbare  dei  boschi,  che
+vennero sterminate. Zellara si  ritirò  a  palazzo  e  mandò  gli  uomini  a
+prendere il grande masso  caduto  dal  cielo,  perché  lo  portassero  nella
+piazza cittadina. Era una  grande  pietra  rossa  baluginante,  dall’aspetto
+malvagio.
+Fece poi radunare tutti gli abitanti della città intorno ad essa,  ordinando
+loro di adorarla come una reliquia sacra… allora  con  una  risata  satanica
+pronunciò una formula blasfema  e  la  Pietra  brillò  più  forte  che  mai,
+tramutando tutti gli abitanti in esseri demoniaci.
+Da  allora  Zellara  se  ne  sta  nel   castello,   ha   risparmiato   dalla
+trasformazione solo Edored e i suoi uomini, perché pattuglino  i  confini  e
+uccidano chiunque  voglia  penetrare…  o  conducano  in  città  i  guerrieri
+migliori perché vengano trasformati in demoni come gli altri.
+
+LA CITTA’ CORROTTA
+La città ha un aspetto  oscuro  e  contorto,  i  suoi  abitanti  sono  stati
+trasformati in demoni minori, a seconda di come  si  muovono  i  PG  possono
+attirare la loro attenzione.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Guerriero       |10° |#   |140|18(50)    |130We                      |+8  |
+|Demoniaco       |    |    |   |          |                           |    |
+|Demone Alato    |8°  |@   |90 |4(50)     |90Mcl(x2)                  |+12 |
+|Bruto Demoniaco |18° |La# |250|8(50)     |150HBa+200HCr              |+4  |
+
+LA PIETRA DEMONIACA
+Una grande pietra rossa, simile a un gigantesco rubino, che  brilla  di  una
+luce malvagia, è circondata da uno strano campo di forza. Sei  demoni  maghi
+cantilenano tutto il tempo intorno ad essa.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Demone Mago     |10° |#   |180|4(50)     |80Staff/90Bolt/Spells      |+10 |
+
+Incantesimi: Maghi e Essenza Oscura.
+
+IL PALAZZO
+Dove risiede Zellara la strega (in realtà un Terrorite: corpo  da  serpente,
+busto di donna, ali da pipistrello).  Assieme  alle  sua  guardie  personali
+(Legion, Equimanthorn e Quorthon)
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Zellara         |32° |SL# |250|12(60)    |200Fal[2D]+130Sw[2D]/90LGr/|+16 |
+|                |    |    |   |          |100Mbi/...                 |    |
+|Legion          |20° |La# |300|12(90)    |200Swrd(2D)                |+20 |
+|Equimanthorn    |20° |La# |400|19(75)    |180HBa[3D]/200HGr+200HCr   |+8  |
+|Quorthon        |20° |La  |150|15(50)    |50MCl/Spells               |+12 |
+
+Zellara:
+    • Doppio Attacco: attacca con 2 armi incantate (+25).
+    • Strangolamento: avvolge con la coda (grapple)  che  inietta  un  siero
+      velenoso (TR per non cadere addormentati).
+    • Morso: usato immediatamente contro chi viene avvolto dalla coda, oltre
+      al normale danno risucchia 1d10+20PF.
+    • Incantesimi: tutti quelli  dello  Stregone;  Evasions,  Lofty  Bridge.
+      256PM
+    • Evocazioni: Dark Summons fino al proprio livello senza spendere  PM  e
+      in metà del tempo
+    • Immunità: al Gelo e al Fuoco
+
+Legion:
+Appare come un umanoide alto e magro, vestito con un’armatura  di  bronzo  e
+un mantello. Indossa una maschera dorata, ha la pelle bianca e  impugna  una
+spada d’oro. Conosce tutte le manovre esistenti.
+
+Equimanthorn:
+Appare come un gigante di 4 metri e mezzo coperto  completamente  di  catene
+nere, da cui spuntano solo gli occhi bianchi. Combatte con i  suoi  tremendi
+pugni, che possono frantumare la roccia. Se qualcuno lo fa infuriare usa  su
+di lui il suo attacco speciale (“Catene di Mefistofele”), ovvero il  secondo
+attacco.
+
+Quorthon:
+Ha l’aspetto di un vecchietto rinsecchito dalla pelle scura, imbacuccato  in
+un mantello rosso sangue. Conosce le liste del Mistico fino al  suo  livello
+e può lanciare un incantesimo al round da esse.

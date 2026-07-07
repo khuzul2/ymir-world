@@ -1,0 +1,138 @@
+
+GRANDE ERG
+IL DOTTORE
+Il dottore ha rapito la “Folgore”, convincendo il comandante Eric Legrasse a condurlo sulle tracce dei PG. In volo ha convertito il comandante in un non morto e ha fatto lo stesso con gran parte dell'equipaggio. 
+Yonker è stato rapito dal doc per studiare il suo simbionte e si risveglierà nudo (i suoi vestiti sono a terra) su un tavolo nella stiva della nave.
+Lanciafiamme: Spara un getto di fiamme lungo 6 metri: può essere usato direttamente, attaccando come un Firebolt +30 (-5 al BO ogni metro di distanza), oppure spazzando, creando un semicerchio di circa 3 metri di raggio, tutti quelli nell'area prendono una Fireball +0.
+Nomi di Soldati (vivi) random: Cathon; Gregorio; Jehan; Andrea; Victor; Zan 
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Soldato Cadaverico
+5°
+M#
+50
+1(10)
+65MBa+Disease
+-4
+Xudra Vampirico
+10°
+La#
+130
+11(80)
+100LaCl/75LaBi/Spec
++12
+Il Dottore
+20°
+La#
+260
+1(40)
+100MCl(x3)[Cold]/Spells
++10
+Soldato Medio
+5°
+M
+100
+13(25s)
+100We/90we2
++8
+Soldato Cadaverico: Rigenerano 8pf (tranne che se bruciati), ignorano tutti i critici non da Calore o Sterminatori. Sopravvivere a un gruppo di Soldati Cadaverici è un Minor Goal Medium (Hard se da soli)
+Xudra Vampirico: Il tocco risucchia 1-5 punti Co; se mordono cominciano a succhiare sangue al ritmo di 1d10+10 x rnd. Sopravvivere ai 2 Xudra Vampirici è un Minor Goal Extremely Hard (Sheer Folly da soli)
+Il Dottore: Trasformato in un'orribile abominio non-morto, riesce a farsi spuntare artigli e a mutare forma. Il tocco risucchia 2 punti di Co, conosce tutte le sue liste fino al suo livello. Non combatterà fino alla morte, ma scapperà dopo un po'. Sconfiggere/Costringere alla fuga Doc è un Minor Goal Very Hard (Extremely Hard da soli)
+Scoprire dove si trova Yonker (non per Yonker, ovviamente) è un Minor Goal Medium
+Scoprire dove si trova tutto il proprio equip prima di fuggire x Yonker è un Minor Goal Light
+Salvare la maggior parte dei soldati è un Minor Goal Medium
+Salvare Yonker/Salvarsi per Yonker è un Minor Goal Hard
+Salvare la nave e impossessarsene è un Minor Goal Medium
+Convincere i restanti soldati a seguire i PG è un Minor Goal Light
+TERRE DEI SOGNI
+Faazi-Ghaib (o chi per lui) può mandare i PG nel mondo dei sogni da Mubafer con un apposito rituale/pozione... un solo avvertimento prima di spedirveli
+“State attenti... state per entrare nelle Terre dei Sogni: lì poche cose sono come sembrano e spesso i ricordi e i sentimenti contano più della possanza o della magia...”
+Mubafer è imprigionato in una sorta di bolla all'interno delle Terre dei Sogni. La prigione ha l'aspetto di un palazzo lussuoso, dalle cui finestre si scorgono meravigliosi panorami.
+Mubafer è un Wizard di 50° livello, ha avuto secoli per studiare nel mondo dei sogni e, inoltre, prima di arrivarci ha vagato per i piani di esistenza con la propria amante: Azhaara.
+Ha commesso un solo errore: una volta ha tradito Azhaara con una creatura incontrata in un piano esterno, un essere di nome Mindelume... La maga si è infuriata e lo ha segregato in questa prigione: solo quando dimenticherà ogni sentimento sia per lei che per l'altra sarà libero.
+Sarà lieto di avere ospiti, perché non parla mai con nessuno, ma è molto sospettoso e non molto tollerante. 
+In ogni caso non avrà troppi problemi a rivelare l'ubicazione (si trova 10 giorni di cammello da Ulan-Tang) e altri dettagli sulla tomba di Nemelatekh, dato che, come dirà ai PG, nessuno può lasciare la sua prigione una volta che ci è entrato. Mubafer avviserà inoltre i PG che la tomba è divisa in due sezioni: quella di destra contiene un finto sepolcro del padre, ed è qui che si trova il Martello. A sinistra si trova il vero sepolcro, dove c'è il cadavere di Nemelatekh con tutto il resto dei suoi tesori. Questa parte è però protetta da un potente guardiano forgiato dal padre stesso con il potere del martello. Venire a conoscenza di tutto ciò è un Minor Goal Light.
+Drusilde, parlando con Mubafer può venire a conoscenza di svariate cose: inoltre il mago può insegnarli qualche segreto, e possiede alcuni cristalli contenenti sapere Arcano. Ognuno di questi cristalli conferisce un rango in una delle seguenti liste: Arcane Forces; Arcane Visions o Bladerunes. Ottenere uno di questi cristalli è un Minor Goal Medium per Drusilde.
+Samael può imparare qualcosa a proposito delle tecniche di longevità da Mubafer, che ha vissuto centinaia di anni. Apprende che esistono rituali per prolungare la propria vita, che visitando particolari piani di esistenza è possibile sospendere l'invecchiamento, che le fate usano metodi simili per creare zone a metà tra i sogni e il mondo reale e per questo vivono moltissimo. Inoltre, apprende dell'esistenza del Rituale del Crepuscolo: un rito proibito utilizzato da alcuni stregoni per ottenere una sorta di vita eterna. Queste info valgono come un Minor Goal Hard per Samael. 
+Liberare Mubafer (e di conseguenza tornare indietro) è un Minor Goal Extremely Hard.
+ERG
+Viaggiando nel deserto è possibile fare un incontro ogni 8 ore di viaggio, vedi la tabella sotto (parentesi=macchina) 
+Risultato
+Incontro
+1-4 (1-6)
+Zaar'Qrak: i PG incappano in uno dei più temibili abitanti del deserto
+5-8 (7-12)
+Draghi e affini: 1-2 Serpenti delle Sabbie (1-60) oppure 1 Basilisco (71-00)
+9-12 (13-18)
+Predatori: 1-2 Gatti del deserto (1-50) oppure 1-10 Sciacalli (51-00)
+13-16 (19-24)
+Artropodi: 1-2 Scorpioni giganti (1-50) oppure 1-5 Scarabei Schienagiada (51-00)
+17-20 (25-30)
+Persone: un gruppo di Nomadi (1-35) o un Carovana (36-70) o un gruppo di Predoni (71-00)
+21-24 (31-34)
+Ambiente: Oasi (1-10); Animale(11-40); Tempesta Sabbia(41-60); Tempesta (61-90); Rovina (91-00)
+25+ (35+)
+Niente
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Serpente delle Sabbie
+8°
+La
+150
+4(25)
+100HBi/70HCl/90HBa
++8
+Gatto del Deserto
+3°
+M
+100
+3(35)
+80MBi/50MCl
++12
+Sciacallo
+3°
+M
+110
+3(30)
+70MBi
++8
+Zaar'Qrak
+20°
+La@
+250
+12(40)
+100HCl(4x)/ 160LBi
++16
+Basilisco
+6°
+II
+110
+12(30)
+60LPi/50LCl/Spells/Special
++4
+Scorpione Gigante
+4°
+I
+85
+12(40)
+60LPi(2x)/80LSt+poison
++12
+Scarabeo Schienagiada
+2°
+II
+65
+20(10)
+70MPi+poison
++4
+Zaar'Qrak: Gli Zaar'Qrak (in linguaggio dell'Erg il loro nome significa qualcosa di simile a “Morte Squartatrice”) sono i più temuti predatori del deserto. Bestie vagamente umanoidi, alte più di tre metri e mezzo, coperte di ispido pelo nero e durissime placche ossee, questi orrori si muovono prevalentemente di notte (vedono perfettamente in ogni tipo di oscurità). Queste belve fameliche sono dotate di sei arti: due più robusti che usano solo come gambe, e altri quattro che possono utilizzare sia per muoversi che come braccia. Tutti e sei gli arti terminano in zampe con dita piuttosto abili (come quelle delle scimmie) e artigli lunghi come pugnali e altrettanto affilati. In combattimento usano soprattuto gli arti superiori, riuscendo ad attaccare anche 4 bersagli diversi nello stesso round, ma se affamati o messi alle strette possono anche usare le loro lunghe zanne. 
+Gli Zaar'Qrak sono cacciatori abili ed astuti: non temono l'uomo ma conoscono le armi (anche se non le usano mai) e preferiscono rapidi agguati ad assalti frontali. Nel loro ambiente naturale hanno l'equivalente di un +100 di skill a Stalking e Hiding. I loro possenti muscoli gli consentono di compiere balzi incredibili (come per l'incantesimo Leap) e di solito usano queste abilità combinate per atterrare in mezzo alle carovane, maciullare qualche persona e fuggire nuovamente portandosi dietro qualche vittima come spuntino. Come se non bastasse, se pressati diventano straordinariamente feroci e i loro movimenti si fanno veramente fulminei (Come se avessero 120 di skill Adrenal Speed). Tutte queste caratteristiche combinate fanno sì che la maggior parte degli abitanti dell'Erg sbianchi anche al solo sentirli nominare... fortunatamente si tratta di creature solitarie, a meno di non essere tanto sfortunati da incappare in una madre coi cuccioli!

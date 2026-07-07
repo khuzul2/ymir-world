@@ -1,0 +1,43 @@
+
+START
+
+I PG fanno le loro cose quando la zona viene  attaccata  da  un  contingente
+demoniaco.
+
+Nomi Armoriti vari:
+    - Daellar
+    - Saverio
+    - Attanasius
+    - Lucretia
+    - Hesserman
+    - Alfredo
+    - VonZimmer
+    - Riccardo
+    - VanErtus
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Soldato Normale |5°  |M   |80 |17(30)    |100We                       |+8  |
+|Guerriero       |10° |#   |140|18(50)    |130We                       |+8  |
+|Demoniaco       |    |    |   |          |                            |    |
+|Amalgama        |15° |La@ |160|12(40)    |140LCl(x3)/Poison/Special   |+8  |
+|Demoniaca       |    |    |   |          |                            |    |
+|Shurgol         |20° |SL  |350|4(40)     |160LCl(x2)                  |+4  |
+|Draghetto       |10° |La  |400|12(65)    |120HBi/140HCl/120HBa/100FBr |+12 |
+|Demoniaco       |    |    |   |          |                            |    |
+|Flagello        |30° |La# |250|20(90)    |200Halberd(3D)/Spells       |+8  |
+|Demoniaco       |    |    |   |          |                            |    |
+
+
+Shurgol: Demone grasso e vorace
+Drago: cavalcatura di Valark
+Flagello  Demoniaco:  Valark,  il  comandante  dell’assalto.  Con:  Armatura
+Abissale (+20TR, 5% cancellare ogni incantesimo  contro  di  lui),  Alabarda
+Abissale (+20, Mithril, CC extra da Taglio)
+
+
+
+Contendenti:
+    - Eodred IV il mercenario
+    - Zellara VanDarek
+    -

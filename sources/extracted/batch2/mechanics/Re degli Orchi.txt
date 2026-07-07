@@ -1,0 +1,60 @@
+
+LA TOMBA SIGILLATA
+
+Vorg ammonisce i PG prima che entrino nella stanza: sente uno strano  potere
+provenire da essa.
+
+La stanza è circolare e piuttosto  grande.  Tutt’intorno  si  vedono  statue
+raffiguranti orchi in assetto da  guerra.  Al  centro  della  stanza,  sopra
+quello che pare un piedistallo rotondo di bronzo, c’è una specie  di  grossa
+armatura orchesca, vuota, collegata al soffitto tramite degli strani tubi.
+Sulle pareti ci sono scritte in una lingua simile all’orchesco (in realtà  è
+Black Speech), unite ad altre incomprensibili  (in  Ragashano).  Le  scritte
+sono molto antiche ma è  possibile  dedurne  due  concetti:  ci  sono  varie
+parole di divieto seguite da una che si pronuncia “Oorg”.
+
+Vedendole, Vorg avrà un  sussulto.  Un  semplice  conoscenza  cultura  orchi
+permette di sapere che Oorg è il leggendario padre di tutti gli orchi.
+Con un risultato  particolarmente  buono  si  può  sapere  che  le  leggende
+narrano che Oorg non è mai morto, ma che è stato rinchiuso da qualche  parte
+per essersi ribellato agli dei.
+
+Questo Vorg non lo dice, ma narra che i miti dicono  che  gli  orchi  furono
+creati dagli dei per combattere, non si sa contro cosa, e che  Oorg  era  il
+loro re  ancestrale,  il  più  possente  fra  tutti.  Si  dice  che  la  sua
+leggendaria arma, la Schiantatrice, potesse  distruggere  qualsiasi  nemico,
+che la sua armatura ed il suo scudo fossero impenetrabili e che  avesse  una
+collana  di  occhi  di  drago  che  lo  rendevano   impervio   a   qualsiasi
+incantesimo. Un giorno, però,  Oorg  si  ribellò  agli  dei  stessi  che  lo
+sconfissero e ne  seppellirono  per  sempre  il  corpo  in  qualche  regione
+remota. Per punire Oorg del suo gesto,  inoltre,  costrinsero  gli  orchi  a
+vivere per sempre sotto terra, rendendo loro odiosa la luce del sole.
+
+
+CONSEGUENZE: Gork arriva dicendo che l’esercito si è accampato  in  città  e
+che stanno a turni scavando per liberare la via d’accesso ostruita.
+
+Vorg spingerà perché la tomba venga aperta, cerca di rendere avidi  i  PG  e
+di farli pensare ai tesori di Oorg.
+D’altra parte a Gurthak viene in mente che Oorg potrebbe essere ancora  vivo
+e anche un po’ incazzato…
+
+Aprire la tomba comunque non è  cosa  facile:  l’armatura  è  in  realtà  un
+complesso sigillo, occorrerebbe un enorme potere distruttivo per spezzarlo…
+
+Anche aprendo quel sigillo la stanza si apre  solamente  su  un’altra  sala,
+contenente  un  ultimo  sigillo  d’emergenza.  A  guardia  di   quest’ultima
+protezione ci sono due Campioni.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Campione        |20° |La  |200|20(95)    |200BSwd[2d]/Spells         |+20 |
+
+Spells: Paladin Base
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Oorg            |40° |SL@ |525|20(80)    |265we[3D](x2)/250HTr/Spells|+12 |
+|                |    |    |   |          |/Spec                      |    |
+
+    • Paura: RR contro la Paura
+    • Spells: Essenza Malvagia + aperte e chiuse Essenza

@@ -1,0 +1,200 @@
+
+EVIL NEVER DIES
+I PG sono naufragati su un misterioso pianeta…
+
+|Xatos           |20° |La# |150|20(80+shie|120Blaster/180Halberd       |+12 |
+|                |    |    |   |ld)       |                            |    |
+
+TECONOLOGIA  XATOS
+Gli oggetti creati dagli Xatos sono molto costosi  perché  nessuno  sa  come
+produrli (a parte gli Xatos, ovviamente), inoltre  se  si  rompono  non  c’è
+modo di ripararli  senza  l’aiuto  (alquanto  improbabile)  da  parte  degli
+Xatos.
+
+Scudi Ultra-Tech       Bonus
+Scudo di Energia       +30  (300mo)
+Barriera di Energia         +70  (900mo)
+Nota: occupano un braccio proprio  come  scudi  normali,  ma  proteggono  da
+tutti gli attacchi.
+
+Armi Ultra-Tech
+Abilità: l’abilità Armi ad Energia, per semplicità, rientra nella  categoria
+Armi d’Assedio.
+Plasma: il Plasma si attacca al bersaglio, se un PG subisce  un  critico  da
+Plasma segna il risultato e ogni round seguente subisce  un  critico  uguale
+ma di un livello inferiore. Arrivati al critico “A” togli  20  al  risultato
+del critico ogni round fino all’annullamento.
+Colpo Singolo: 30-60% attività, attacco normale.
+Doppio Colpo: 50-90% attività, due colpi il secondo con -15.
+Raffica: 30-60%  attività,  consuma  5  colpi,  +30  ma  solo  metà  del  BO
+utilizzabile, -1 al  livello  del  critico.  Ogni  persona  nell’area  della
+raffica (45°) viene bersagliata, max una persona per colpo.
+Fuoco Continuo: 50-90%  attività,  consuma  10  colpi,  attacco  a  -10  che
+infligge triplo danno.
+
+Armi Usate:
+Blaster Pistol (Pag55) ( 10 colpi x caricatore 350mo (20mo)
+Blaster Rifle (Pag57) ( 30 colpi x caricatore 800mo (30mo)
+Plasma Pistol (Pag63) ( 10 colpi x caricatore 500mo (20mo)
+Plasma Rifle (Pag65) ( 30 colpi x caricatore 1000mo (30mo)
+
+Armature Ultra-Tech
+Tratta tutte le armature ultra tecnologiche come  normali  armature  pesanti
+(TA 17-20) molto leggere (60% o meno  del  peso)  o  con  bonus  al  BD.  La
+protezione viene affidata più ai campi di forza e agli scudi  personali  che
+alle armature.
+
+NORMALE TECNOLOGIA
+Automata e Costrutti sono molto  comuni,  alcuni  oggetti  (per  altri  vedi
+Construct Companion):
+
+
+|Prodotto        |Costo |Descrizione                                        |
+|Pistola a Dardi |5mo   |Caricatore con 6 dardi, colpisce come Balestra     |
+|                |      |Leggera, Malf:01-03, Ricar:200%                    |
+|Fucile a Dardi  |10mo  |Caricatore con 6 dardi, colpisce come Balestra     |
+|                |      |Pesante, Malf:01-05, Ricar:200%                    |
+|Fucile a Dardi  |20mo  |Come Fucile a Dardi, doppi danni, Malf:01-06       |
+|Pesante         |      |                                                   |
+|Mitra a Dardi   |25mo  |Come Fucile a Dardi, spara tre dardi al round,     |
+|                |      |Malf:01-08                                         |
+|Lanciafiamme    |25mo  |Getto di fiamme lungo 3m, largo 60cm = colpo       |
+|                |      |critico “A” da calore                              |
+|Granata Runica  |5mo   |Esplode a contatto, causa un colpo critico “A” dal |
+|                |      |calore in 3 metri di raggio, x1d5 round            |
+
+
+
+
+MONDO
+Antico impero Valesiano ( invaso da razza aliena Xatos con tecnologia  molto
+superiore  e  semidistrutto.  Sopravvivono  città  stato  in   luoghi   poco
+accessibili e buone difese naturali.  I  nativi  combattono  gli  Xatos  con
+tecniche di guerriglia ma stanno perdendo.
+Magia ( l’alchimia viene usata quotidianamente per costruzione  di  Automata
+e Costrutti ma non viene vista come magia, anche se è risaputo  che  occorre
+avere una certa “predisposizione psichica” per  costruire  tali  oggetti.  I
+Valinar hanno il monopolio della costruzione degli Automata, gli  Umani  dei
+Costrutti.  Sono  conosciuti  quelli  che   vengono   chiamati   “ESPer”   o
+“Psionici”, che sono  gli  usufruitori  del  Mentalismo  ma  sono  temuti  e
+cacciati, perché li si crede connessi agli Xatos,  che  dimostrano  notevoli
+poteri del genere.
+L’altra magia è vista come un mito  dalla  gente  comune  e  viene  chiamata
+“l’Antica Arte”, veniva praticata nei tempi precedenti l’invasione ma ora  è
+apparentemente rara. In realtà gli Usufruitori di Magia  sono  cacciati  sia
+dagli Xatos che dagli Inquisitori dei nativi.
+Razze:
+Valinar ( rettili, specializzati nella costruzione di Automata.
+Falanar ( leonini, guerrieri d’assalto
+Tulgar ( lupini, nobili. Gli Inquisitori sono quasi esclusivamente Tulgar
+Umani ( anche detti “George”, studiosi e creatori di Costrutti
+Giornata: il pianeta ha tre soli, quando uno tramonta, ne  sorge  un  altro,
+un giorno dura quando tutti si sono succeduti, per un totale di 75 ore.
+
+Ranghnak: città in cui arrivano all’inizio.
+
+9su, 16 giù
+
+5+ Uffici
+Armeria, esercito 4
+Trasporti 3
+Cambio 2
+Residence 1
+Taverne -1
+Biblioteca -2
+
+VIAGGIO VERSO VALEZAK
+I PG si imbarcano con alcuni mercenari verso la città di Valezak, che  dista
+7 giorni (pari a circa 21 di tempo normale).
+Valezak si trova nascosta in una giungla tossica  oltre  le  lande  rocciose
+che circondano Ranghnak.
+Durante il viaggio affronteranno predoni delle lande rocciose  e  i  vampiri
+della giungla tossica.
+Valezak è una città dal perimetro circolare, con  alte  mura  di  metallo  e
+piena di militari. È uno degli avamposti nella guerra contro gli Xatos.  Qui
+i PG  potranno  racimolare  ulteriori  informazioni  sul  mondo  e  la  loro
+situazione.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Predone         |15° |M   |130|17(30)    |140weapon                   |+8  |
+|Vampiro         |20° |SL# |140|1(80)     |120MBi(+d10+20/round)       |+16 |
+
+Predoni: attaccano soprattutto a distanza.
+Vampiri: feriti solo  da  magie  d’elettricità  e  acqua,  armi  a  punta  e
+magiche.
+
+Vicks Wedge Lurdaf
+
+
+NELLA GIUNGLA TOSSICA
+La giungla tossica è una creazione  di  Karagrorn,  detto  “il  Caduto”.  Un
+tempo un grande Druido Tulgar, con la venuta degli  Xatos  fu  corrotto  dal
+potere della magia nel suo tentativo di difendere  al  foresta.  Ora  appare
+come un gigantesco umanoide (alto 3,5 metri) dal  muso  lupino,  coperto  di
+corteccia, muschio e funghi. Completamente impazzito, ha trasformato con  la
+magia la giungla in un luogo tossico e vede come nemico da  sterminare  ogni
+intruso.  I  PG  potranno  incontrarlo  mentre  viaggia  per   la   giungla,
+accompagnato da dei Corruttori Arborei (Ent corrotti),  che  lo  trasportano
+su una sorta di palanchino.
+Tesoro Karagrorn:un tomo di Corrosion Mastery; una bacchetta  di  Acid  Bolt
+con 12 cariche; 3 dosi di Winclamut (cura 3-300PF per dose) e  gioielli  per
+un valore di 900mo.
+La traversata della giungla richiede molti giorni ed  è  molto  impegnativa,
+in quanto si trovano numerosi ostacoli (non solo creature) e farsi strada  è
+molto difficile.
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Molboro*        |30° |SL@ |360|15(30)    |200Hbi/Spec                 |+8  |
+|Fungalidi*      |18° |La  |250|1(60)     |160HCl[Acid]+Poison         |+12 |
+|Octazyx*        |25° |SL@ |350|8(40)     |150HGr(6x)                  |+4  |
+|Corruttore      |20° |SL@ |350|12(50)    |120HBa(4x)/100Lgr+100HCr(2D)|+0  |
+|Arboreo         |    |    |   |          |                            |    |
+|Karagrorn il    |40° |SL@ |420|20(78)    |180HBa(2x)/130Ds/Spells     |+14 |
+|Caduto          |    |    |   |          |                            |    |
+
+
+*: le abilità di questi mostri sono descritte altrove.
+Liste Karagrorn:  Nature’s  Movemente/Senses;  Nature’s  Protections;  Plant
+Mastery; Wounding; Disease, Corrosion Mastery; Tree Mastery; Death Mastery.
+Può inoltre colpire il terreno causando un Terremoto contro i suoi nemici.
+
+I PG trovano anche il maligno nano  Fylmor,  ex  prigioniero  di  Karagrorn.
+Dice ai PG che la fortezza del signore degli Xatos è circondata da  un  muro
+di forza che nessuno è in grado di spezzare, inoltre, contiene  migliaia  di
+guerrieri Xatos, non c’è speranza in un  assalto  frontale.  Ovviamente  lui
+conosce  un’entrata  segreta,  attraverso  un  complesso  di  caverne  nelle
+vicinanze di Tolarin conosciute come “Le  Caverne  del  Labirinto  Infernale
+della Morte”, dalle  quali  nessuno  è  mai  tornato  (probabilmente  perché
+nessuno ci è mai andato).
+
+LE CAVERNE DEL LABIRINTO INFERNALE DELLA MORTE
+Sono solo un gruppo di caverne sotterranee  tutt’altro  che  labirintico  ma
+popolato da bestie  tanto   poco  amichevoli  quanto  insensatamente  forti.
+Un’altra stranezza è che le varie caverne che compongono il “labirinto”  non
+sembrano aver niente a che fare una con l’altra, anche se sono adiacenti.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Phlegetauro (VI)|25° |La@ |300|12(60)    |120LCl/120Lbi(x3)/60FBr(x3) |+8  |
+|Magres          |35° |SL# |504|9(35)     |221HTr/215HBi               |+4  |
+
+
+
+LA FORTEZZA DEGLI XATOS
+L’enorme fortezza è simile  ad  una  città  futuristica  ed  è  popolata  da
+migliaia di Xatos.  Alo  centro  sorge  un’orribile  torre  nera  abbastanza
+pacchiana. Basilarmente i PG devono muoversi senza attirare su di sé  stormi
+di insettoni incazzati e raggiungere sta torre.
+
+|Xatos           |20° |La# |150|20(80+)   |120Blaster/180Halberd       |+12 |
+
+IL SIGNORE DEL CREPUSCOLO
+Arrivati alla sala del trono x il confronto finale, si scopre  che  il  boss
+di fine livello è Ilidan, trasformato grazie alla corona in un essere  molto
+potente. Intende farla pagare ai PG per essere stato ucciso.
+Nota: ci sono due Ombre e un Ilidan Vero. In combattimento l’ombra N°1  cura
+gli altri (con concussions ways fino al suo livello), l’ombra  N°2  combatte
+in corpo a corpo difendendo il vero Ilidan che casta e combatte.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Ombra di Ilidan |20° |La# |150|1(85)     |165SL(2x)/Spells            |+10 |
+|Ilidan          |30° |SL# |300|12(105)   |180SL(2x)/108Ds/Spells      |+10 |
+

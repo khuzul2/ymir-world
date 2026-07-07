@@ -1,0 +1,122 @@
+
+WEB OF GOBLINS
+
+L’avventura  si  svolge  come  Web  of  Kobolds,  con  alcune   fondamentali
+variazioni:
+     1. I PG si trovano alla locanda del Paiolo  Volante  (fai  riferimento
+        alla locanda descritta in Flying Toadstool), che si trova  a  circa
+        un giorno di cavallo a nord di Keswig, oltre la zona  paludosa,  al
+        limitare del Bosco di Rhems.  La  padrona,  Jarni,  è  un’amica  di
+        Telesius ed è una guaritrice abbastanza  abile  (è  iscritta  negli
+        albi della Gilda degli Speziali),  tanto  che  alcune  persone  dei
+        paesi vicini vengono qui a farsi guarire, così il Paiolo Volante  è
+        una sorta  di  via  di  mezzo  fra  una  locanda,  che  accoglie  i
+        viaggiatori che passano sulla strada che collega il Wald ad Armora,
+        e una piccola Casa di Guarigione.
+     2. Grazie alle cure di Jarni, i PG hanno  recuperato  dalle  ferite  e
+        stanno decidendo il da farsi nella sala  comune  (o  dove  vogliono
+        loro) – nota che Jarni cercherà di impedire che  i  PG  lascino  il
+        Paiolo prima che le loro ferite siano guarite, anche se  ovviamente
+        non potrà obbligarli -. Mentre in PG parlano si sentirà un  po’  di
+        trambusto e un paio di persone portano all’interno  della  sala  un
+        nano gravemente ferito. ( Si tratta di Thulfren,  con  un  filo  di
+        voce racconta di far parte di una carovana che è stata assalita  da
+        dei predoni goblin qualche km più avanti nella foresta. La carovana
+        stava trasportando verso  Armora  delle  icone  sacre  di  Hokhmah,
+        perché vengano benedette al tempio  principale  come  succede  ogni
+        cinque anni per  tradizione. Thulfren  prega  che  qualcuno  faccia
+        qualcosa, alcuni suoi compagni sono stati rapiti dai  goblin  e  le
+        reliquie sono state trafugate…
+     3. A questo punto uno degli uomini che ha  portato  il  nano,  Jarron,
+        dice di essere lo sceriffo preposto alla sorveglianza della zona  e
+        che ha intenzione di guidare una spedizione  contro  i  goblin  per
+        salvare i prigionieri e le reliquie. Nessuno  dei  presenti  sembra
+        molto intenzionato a seguirlo tanto che, se i PG  non  intervengono
+        prima, Jarron si mette anche a promettere una  ricompensa  per  chi
+        l’aiuta (lui offre 10mo più quanto è disposto ad offrire il  Tempio
+        per la  restituzione  delle  icone).  Se  i  PG  non  si  rifiutano
+        categoricamente di aiutarlo perdono un Punto Fato…  invece,  quelli
+        che si offrono subito volontari  senza  bisogno  di  ricompensa  ne
+        guadagnano uno.
+     4. A chi parte Jarni offre una fiala contenente una  Pozione  di  Cura
+        (3d10 PF) e una dose di erba Tamuna  (ferma  5  sang  in  5  round)
+        ciascuno.
+
+Per il resto l’avventura all’interno delle caverne  è  più  o  meno  uguale,
+eccetto che per le seguenti cose:
+         - I Ragni sono più grossi ma sono 5
+         - I coboldi sono sostituiti con Goblin
+         - Magnar è un orchetto, chierico di Varshnak, e assieme a lui  c’è
+           Lushgurth, un altro orchetto chierico  elementale  di  Varshnak,
+           parzialmente corrotto dal Ghiaccio (ha 30 PC,  i  capelli  e  la
+           pelle bianchissima ed è circondato da un’aura di nebbia gelida).
+         - I Bracciali del Tesoro sono dei moltiplicatori x2
+         - Con la Seta di Ragno è possibile  confezionare  una  tunica  che
+           conferisce un +5 al BD
+
+I goblin sono intenti in quello che sembra un rituale, attorno  alla  statua
+che rappresenta una sorta di orso con la testa di lupo e le corna  da  cervo
+(manovra  di  religione  permette  di  riconoscerla  come  una   statua   di
+Varshank).
+
+La cosa più importante riguarda le icone di Hokhmah: si tratta  di  3  icone
+di creta raffiguranti le dea in posa classica (con  una  testa  con  quattro
+facce –una x lato- e reggente una torcia e uno scudo), ben fatte e  decorate
+con lamine d’argento. Si tratta di oggetti  di  valore  relativamente  basso
+(10ma l’una circa). Una manovra di Osservazione “Folle”  [-50],  rivela  che
+una delle tre è leggermente più pesante delle altre: infatti  essa  contiene
+un artefatto della chiesa di Hokhmah: L’Occhio di Luce.
+
+STORIA DELL’OCCHIO DI LUCE
+
+Occhio di Luce: Pendaglio e  amuleto d’oro  con  incastonata  una  gemma  di
+cristallo.
+
+La carovana viene dal vicino paese di Caldera, che si trova all’interno  del
+Bosco di Rhems ed è la sede di un tempio di Hokhmah abbastanza famoso  nella
+regione  perché  fondato  secoli  fa  da  un  famoso  veggente  (  Norin  il
+Venerabile). I monaci di Caldera (fra cui Nusgam  e  Thulfren),  di  recente
+preoccupati per la mancanza  di  notizie  dal  Wald  e  per  alcune  recenti
+stranezze nel bosco (tracce  di  goblin,  sparizioni  di  boscaioli,  strani
+versi  notturni,…)  decisero  di  consultare   la   loro   dea   per   avere
+delucidazioni usando il sacro artefatto  lasciato  loro  dal  fondatore  del
+tempio: l’Occhio di Luce.
+Sulfren, il capo del monastero, dopo tre giorni  di  purificazione  rituale,
+si ritirò con due fedeli discepoli  nel  sancta  sanctorum  del  tempio  per
+consultare l’oracolo.
+La dea rispose,  ma  in  modo  del  tutto  inaspettato:  l’Occhio  diede  un
+bagliore e poi si ruppe, lasciando il cristallo crepato in modo bizzarro.
+Preoccupati per l’oscuro presagio i monaci decisero  di  recarsi  al  tempio
+principale di Hokhmah  per  sottoporlo  a  Colui-che-cammina-nella-Luce.  Si
+avviarono nascondendo il manufatto in una statuetta  e  mescolandosi  a  dei
+mercanti in una carovana per non destare sospetti…
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Ragni           |5°  |M   |80 |4(30)     |50MPincer/60MStinger+poison |+8  |
+|Goblin          |4°  |M   |75 |13(20s)   |70SSw/70Sbow                |+8  |
+|Magnar          |8°  |M   |55 |9(20)     |75Sw/Spells                 |+10 |
+|Lushgurth       |8°  |M   |90 |9(20)     |75Sw/Spells/Special         |+10 |
+|Jarron          |3°  |M   |80 |9(30)     |70LSword                    |+8  |
+
+Veleno dei Ragni: TR Corpo 90
+
+      - Magnar (Chierico di  Varshank):  Concussion’s  Way  (8r/12s);  Dark
+        Channels (8r/12s); Blood Law  (8r/12s);  Wounding  (8r/12s).  Spada
+        Corta +10, Amuleto addizionatore +2 (per Flusso).
+      - Lushgurth: chiunque si avvicina entro 1,5 metri  deve  fare  un  TR
+        Spirito difficoltà 90 ogni round o rimanere stordito per un  round.
+        Liste: Elemental Channels  (10r/15s);  Elemental  C.  E.  (8r/13s);
+        Elemental Healing (8r/13s). Altre skill importanti:  Spell  Mastery
+        (El Ch.): 82.  Subisce danni doppi dal fuoco.
+      - Jarron (Guerriero Umano): basilarmente è una pippa… ma  può  essere
+        d’aiuto ai PG nell’avventura o nel seguito…
+      - Nusgam: come nell’originale è un nano (chierico di Hokhmah)…
+
+
+Erbe che Jarni può vendere:
+
+|Tamuna         |5mo   |5 rnd |Ferma fino a 5pf/round da una ferita         |
+|Arfandas       |2ma   |*     |Raddoppia guarigione fratture                |
+|Grerig         |1mo   |3rnd  |Cura 3d10pf (1d10 a round)                   |
+

@@ -1,0 +1,81 @@
+
+KYRIA
+NESSA
+Raggiungere Nessa in aereonave conta come un Light Minor Goal.
+All'aeroporto incontro con una grossa nave di Armora: la “Roc”, che trasporta due ambasciatori.
+Uno è Balthazaar Solinvicti, ambasciatore armorita, l'altro è Vessh’Ke, della Zaalesha.
+Balthazaar può essere utile ai PG in diversi modi: innanzitutto può renderli partecipi del fatto che Armora si sta preparando per una grande offensiva finale, secondariamente può aiutarli a reperire uomini e viveri, oltre che ad ottenere il favore della regina Estalia.
+Guadagnare l'aiuto di Bathazaar è un Medium Minor Goal.
+KYRIA
+Per raggiungere la Kyria servono appena 3 giorni di volo, partendo con una ciurma normale.
+Il terzo giorno viene avvistata un'altra aereonave davanti alla loro: si tratta di quella di Leonard e Co.
+Inizia un furioso inseguimento e si arriva in vista di un fittissimo banco di nebbia, ogni marchingegno magico nella nebbia si disattiva e la nave comincerà a perdere quota.
+Non c'è niente che i PG possono fare per evitarlo, la nave dovrà fare un atterraggio di fortuna in mezzo alla nebbia...
+Arrivare a Kyria è un Hard Major Goal.
+BENVENUTO
+Nota che Kyria è parzialmente nel Mondo dei Sogni, le invocazioni di demoni richiamano Incubi.
+Sull'isola quando i PG atterrano è già in corso un combattimento: la ciurma di Leonard è stata assalita da un gruppo di Ur-Tanoth armati di lance e fiancheggiati da giganti.
+La nave dei pg viene subito avvolta dai viticci avvolgenti di alcuni Ucorni, mentre un distaccamento di abitanti dell'isola attacca anche loro.
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Ucorno
+10°
+La@
+250
+11(40)
+80LBa(x3)/70LGr+80LCr
++4
+Gigante delle Nuvole
+12°
+SL
+400
+16(70s)
+140Sw(4D)/90ro/Spells
++8
+Guerriero Ur-Tanoth
+8°
+M
+160
+4(40)
+120Sp/100LBo
++12
+
+Gigante Nuvole, liste: Liquid Alteration, Essence Hand, Lofty Bridges, Wind Law
+Dopo 3 round (o se le cose si mettono male): contro i PG interviene anche un gruppo di animisti Ur-Tanoth: ogni round castano da 1 a 3 True Hold contro il loro gruppo (ogni pg deve fare un TR contro il Flusso o essere ridotto al 25% delle azioni).
+Lo scontro finisce se i PG si arrendono.
+Sopravvivere allo scontro è un Extremely Hard Minor Goal, uccidere o mandare KO almeno un Gigante conta come un extra Very Hard Minor Goal.
+THONIS
+I PG vengono dunque scortati fino a Thonis, l'unica città esistente su Kyria: il gruppo che li scorta è guidato da un anziano Tanoth bianco, chiamato Sanghar.
+Qui i PG verranno a sapere che sono prigionieri di un gruppo governato dal drago Gildiss, una sorta di ordine segreto che si autodefinisce la “Legione Sognante” (anche semplicemente “la Legione”).
+Raggiungere Thonis è un Medium Minor Goal.
+A Thonis i PG possono imparare molte cose...
+L'Isola di Kyria è stata occultata parzialmente all'interno del Mondo dei Sogni molti secoli fa, per nasconderla alla vista dei Demoni Sovrani
+La Legione Sognante è un gruppo che si addestra da secoli per combattere nell'ultima battaglia contro i Demoni Sovrani: è stata fondata da Gildiss e comprende uomini, tanoth, giganti e altre creature.
+Gli abitanti dell'isola paiono ignorare gli effetti del tempo (nel mondo dei sogni il tempi passa in modo diverso), ciò potrebbe interessare a Samael: per lui scoprire informazioni più dettagliate conta come un Medium Minor Goal.
+Valhetchka, un evocatrice, ex-demonologa, sottolineerà il ruolo della Legione nella lotta all'Essenza Corrotta: illustrerà i pericoli della corruzione e rivelerà che è possibile evocare entità non collegate con essa... ottenere conoscenze in questo campo per Drusilde è un Hard Minor Goal
+Da diverse persone è possibile imparare che Gildiss è in grado di rimuovere l'ombra dell'Essenza Corrotta (Medium Minor Goal). Intraprendere questa via potrebbe contare come un altro Goal e anche come un cambio di vita...
+Da Gildiss vengono a conoscenza della location della Reliquia: una rovina xebechana abbandonata sulle montagne. 
+PNG DI THONIS
+Sanghar: Saggio Animista Tanoth 
+Lucius Valor: Paladino di famiglia Letia, inizialmente sarà l'incaricato alla sorveglianza dei PG 
+Valhetchka: Evocatrice Xattva
+Gildiss: Drago dei Sogni seguace di Topramesk
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Gildiss
+60°
+SL
+570
+20(60)
+170HBi/140HCl/150HBa/200SBr/Spells
++8

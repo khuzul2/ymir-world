@@ -1,0 +1,40 @@
+
+I TRE LIBRI
+
+Tre libri scritti in un alfabeto misterioso che contengono  ognuno  il  Vero
+Nome di uno dei tre veri Signori dei Demoni (Asmodeus, Xardas  e  Masak).  I
+libri sono protetti da qualche sorta di potente incantesimo (i  maestri  dei
+PG sono morti tentando di leggerli).
+I nomi erano custoditi da Alastor il Sapiente: un mago mortale che li  aveva
+appresi e che, per questo motivo era  stato  imprigionato  in  una  prigione
+planare.
+
+La Cabala Purpurea
+
+Era il nome che si erano dati come gruppo i maestri: lavoravano insieme  per
+estorcere i Nomi. Attraverso varie peripezie erano  riusciti  a  trovare  un
+portale per la Prigione di Alastor (il che li aveva portati  a  T’nyss),  le
+chiavi necessarie ad aprirla, sconfiggere i guardiani che la  custodivano  e
+trovare Alastor  stesso.  Qui  avevano  scoperto  che  il  mago  non  poteva
+rivelare il proprio segreto: i Signori gli avevano  strappato  la  lingua  e
+cucito la bocca, oltre a renderlo completamente folle, prima di ucciderlo.
+Ciononostante, la Cabala era riuscita a trovare un  modo  per  impossessarsi
+dei Nomi, grazie all’aiuto di un libraio…
+
+Morgalad il libraio
+
+Morgalad è un libraio particolare: trascrive i sogni. E lo fa senza  che  la
+gente glieli racconti, ha sviluppato un particolare rituale per  cui  riesce
+a trasferire sulla carta i sogni che la gente gli porta. Per  questo  motivo
+fu utilizzato dalla Cabala per scrivere i Tre Libri: ognuno  di  essi  è  un
+brandello dei sogni di Alastor.
+Ma questo Morgalad non lo sa: sa solo che un  gruppo  di  individui  gli  ha
+portato dei sogni perché  venissero  trascritti.  Lui  ha  compiuto  il  suo
+lavoro imprimendo i sogni nei libri e poi apponendo il  proprio  marchio  su
+ognuno di essi. Questo è il primo indizio che porta a lui: una runa “M”   in
+costa ad ogni libro, non ci  vuole  molto  a  scoprire  che  si  tratta  del
+marchio di chi ha stampato il libro e, da qui, arrivare a Morgalad.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Morgalad        |4°  |M   |50 |1(40)     |50Dag                      |+8  |
+

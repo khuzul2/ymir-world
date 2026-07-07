@@ -1,0 +1,249 @@
+
+PARTE V: DI NUOVO IN CITTA’
+
+VIAGGIO VERSO CARTOSA
+Il viaggio in nave verso Cartosa, calcolando una velocità media di  7  nodi,
+occuperà 20 giorni circa  di  navigazione.  Acquistare  le  razioni  per  20
+giorni per tutto l’equipaggio (inclusi 5  Reptoidi)  costa  circa  50ma  (in
+teoria dovrebbe essere il capitano a sobbarcarsi la spesa).
+Ogni giorno tira sulla tabella per stabilire lo stato del mare e  del  vento
+(vedi Cose Utili).
+ Alcuni eventi per il viaggio:
+    - Giorno 2: la nave deve passare vicino a Nevarrez, viene avvistata  una
+      nave della marina, che però non disturba i PG. Se invece  i  giocatori
+      vogliono passare al largo di Nevarrez  perdono  un  giorno  intero  di
+      navigazione per la deviazione.
+
+CARTOSA (2)
+    - Kesh, Basts e Talhup: 3 Ur-Tanoth provenienti dal Khorish e diretti in
+      Ophiur. Avvisano di stare attenti ai Tal  e  mettono  in  guardia  dai
+      Tanoth corrotti.
+    - Derreck: contatto di OdM saltato. Bisogna scoprire chi è Lord Andreas,
+      probabilmente un nobile locale. La cosa migliore da fare  per  trovare
+      un appoggio in alto è garantirsi una base nella malavita  schierandosi
+      con una delle gilde dei ladri in lotta.
+    - Maria: niente nuove no dinero. Per  lord  Andreas  suggerisce  Andreas
+      deEscolar.
+
+6 giorni dopo l’arrivo: azione degli Incappucciati vs Società ( incendio  di
+un deposito di merce.
+Per i PNG in città vedi NPG.
+
+PARTY:  tornando  verso  la  locanda   vengono   assaliti   da   gruppi   di
+Incappucciati, avvisati dai fuggitivi di prima. Ogni gruppo è composto da  4
+guerrieri e 1 mago (vedi sotto). Gli attacchi dovrebbero costringere i PG  a
+ritirarsi (quindi ne arrivano finché i PG non scappano).  La  strategia  del
+gruppo è: un guerriero  rimane  a  proteggere  il  mago,  mentre  gli  altri
+attaccano i  PG,  cercando  di  mettere  fuori  combattimento  per  primi  i
+lanciatori avversari.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Incappucciato G |5°  |M   |110|9(30)     |110We/90we                  |+8  |
+|1               |    |    |   |          |                            |    |
+|Incappucciato G |5°  |M   |110|9(30)     |110We/90we                  |+8  |
+|2               |    |    |   |          |                            |    |
+|Incappucciato G |5°  |M   |110|9(30)     |110We/90we                  |+8  |
+|3               |    |    |   |          |                            |    |
+|Incappucciato G |5°  |M   |110|9(30)     |110We/90we                  |+8  |
+|4               |    |    |   |          |                            |    |
+|Incappucciato   |5°  |M   |55 |2(10)     |35Dag/20Bolt/Spells         |+8  |
+|Mago            |    |    |   |          |                            |    |
+
+Liste del Mago (tutte fino al 9° livello):  Wind  Law;  Fire  Law;  Physical
+Erosion; Rapid Ways; Shield Mastery; Spirit Mastery; Dispelling Ways.
+
+Quando i PG sono messi male in loro aiuto  viene  un  gruppo  della  Società
+delle Ombre, comandato da un uomo di nome Antonio Cyrano (vedi dati). Se  se
+la giocano bene i PG possono vincersi la simpatia di Antonio (la Società  ha
+bisogno di tutto  l’aiuto  che  può  ricevere,  al  momento)  il  quale  gli
+consiglia di recarsi alla locanda  del  “Reptoide  Scornato”  che  si  trova
+nella zona della città vecchia controllata dalla  Società.  L’oste,  Felipe,
+farà un buon prezzo ai PG se  dicono  che  sono  amici  di  Antonio  e,  nel
+frattempo  essi  potranno  aspettare  l’indomani   sera,   quando   potranno
+incontrarsi nuovamente per parlare.
+
+INCONTRO A VILLA ESCOLAR: la sera dopo il party è contattatola Antonio,  che
+riferisce che una  persona  importante  desidera  incontrarli:  don  Andreas
+deEscolar.  I  PG  devono  presentarsi  la  sera  stessa  a  Villa  Escolar,
+dall’ingresso secondario e un servitore li farà entrare.
+Cosa accade durante l’incontro dipende da quello che fanno i  PG,  deEscolar
+è del tutto intenzionato a porre fine  agli  Incappucciati,  che  gli  hanno
+fatto perdere un sacco di soldi, e ascolterà ogni proposta  in  merito,  può
+fornire delle informazioni o una mano, ma non  farà  nulla  gratis  e  i  PG
+potrebbero trovarsi pesantemente indebitati nei suoi confronti.
+
+RINTRACCIARE LORD ANDREAS: un buon  posto  per  trovare  informazioni  sulla
+nobiltà locale è il Gran Registro del Censo  Principesco.  Per  accedervi  è
+necessaria una lunga trafila burocratica ma con l’aiuto  di  qualche  nobile
+(tipo deEscolar) è possibile ottenere in breve tempo il permesso.
+Dopo  un  bel  po’  di  tempo  speso  in  ricerche  (con  qualche  tiro   di
+Osservazione) si trova una notizia interessante fra i vari  nobili  di  nome
+Andreas nel principato (73 nella sola provincia di Cartosa) ce n’è  uno  che
+attira l’attenzione dei PG. Nel 2981 d.M. (36 anni fa) è  segnata  sull’Albo
+la nascita di Alberto Carrillo di Cartosa V, l’attuale  erede  al  trono  di
+Cartosa. Vicino al suo nome ne è  segnato  un  altro:  Andreas  Carrillo  di
+Cartosa. La seconda parte del nome è cancellata malamente e  sostituita  con
+“de Nostra Madre”  (cognome  dato  ai  trovatelli  affidati  alle  cure  dei
+conventi di Hudemia). Ciò dovrebbe essere abbastanza da  spingere  i  PG  ad
+indagare presso il convento locale di  Hudemia  (il  convento  della  “Sacra
+Pietà”).
+Qui potranno contattare Sorella Celesta, che oggi si occupa  dell’istruzione
+dei trovatelli affidati al tempio. Ella però non  sa  niente  di  Andreas  e
+suggerisce di consultare l’anziana Sorella Giustina, che al  tempo  svolgeva
+il suo stesso incarico. Sorella Giustina si ricorda bene di Andreas, sa  che
+era di discendenza nobile ma non sa se era veramente  figlia  del  Principe.
+In ogni caso pensa che fosse stata lasciata al  tempio  per  via  della  sua
+natura “particolare” (è una Marchiata).  La  bambina  mostrava  grandi  doti
+arcane (senza alcuna particolare predisposizione per il chiericato)  e  così
+le sorelle si decisero ad affidarla alla tutela dei Manti Azzurri, sotto  la
+guida di una rinomata maestra grande amica dell’allora  priora  del  tempio:
+Millennia Devantes (che allora era ancora sana di mente, ovviamente).
+
+LA STORIA DI MILLENNIA & ANDREAS: a soli 5 anni, Andreas  fu  portata  dalle
+Sorelle di Hudemia alla sede  dei  Manti  Azzurri.  Non  è  inusuale  che  i
+bambini vengano  affidati  all’ordine  fin  da  giovani,  perché  lo  studio
+dell’Arte  richiede  molti  anni,  tuttavia  la  bimba  mostrava  segni   di
+un’intelligenza straordinaria,  sicuramente  derivata  dal  Marchio.  Quando
+arrivò  sapeva  già  leggere  e  scrivere,  parlava  fluentemente  3  lingue
+(Cartosano, Meridico e Antico Letio) e mostrava le capacità logiche  di  una
+persona adulta. Fu affidata alla tutela di Millennia, che le fece seguire  i
+corsi regolari. Ben presto, però, fu evidente l’assoluta  superiorità  della
+bambina sui suoi  compagni  e  così  fu  trasferita  a  lezioni  sempre  più
+avanzate finché non fu stabilito  che  dovesse  essere  Millennia  stessa  a
+darle lezioni. A quel tempo Millennia stava studiando insieme a  Tobias  gli
+antichi segreti degli Adepti, per indagare sul motivo della loro caduta.
+Millennia si rese conto che  Andreas,  ormai  diventata  una  ragazzina  era
+completamente affascinata dalle teorie degli  Adepti  e  spesso  la  sentiva
+fantasticare sulla possibilità di riportare al mondo la  Grande  Pace  e  la
+prosperità del loro regno. Tobias pareva soggiogato dalla personalità  della
+strana  ragazzina  e  ne  condivideva  l’entusiasmo.  Fu  per   questo   che
+Millennia,  forse  anche  lei  soggetta  al  malefico  influsso   dei   tomi
+maledetti, venne colta da gelosia e decise di escludere  Andreas  dalle  sue
+lezioni.
+Ma la ragazza non si arrese, una sera  convinse  Tobias  a  sottrarle  degli
+antichi tomi proibiti e portò di nascosto a  compimento  un  arcano  rituale
+attraverso il  quale  evocò  un’oscura  entità  dall’Altrove.  Cosa  accadde
+durante il rituale solo tre persone lo sanno: Andreas, Tobias e  un  giovane
+Tal-Tanoth che avevano  assoldato  per  sgraffignare  i  libri  e  che  morì
+durante l’esecuzione del rituale. Fatto sta che successe un  gran  casino  e
+Andreas fuggì con gli antichi libri , mentre  Tobias  rimase  per  un  lungo
+periodo sotto shock e in seguito riferì sempre di non ricordare nulla  o  di
+essere stato sotto l’influsso mentale di qualcuno.  Millennia,  accusata  di
+aver fornito lei i libri, fuggì dall’Accademia e andò in cerca di Andreas.
+Quando la ritrovò, anni dopo, era molto cambiata. Diceva  di  aver  scoperto
+le proprie origini principesche e che aveva intenzione di reclamare ciò  che
+gli spettava di diritto. Intendeva salire al trono per  dare  inizio  da  un
+nuovo regno di pace come  quello  degli  Adepti  e  chiese  a  Millennia  di
+aiutarla. Lei ovviamente si rifiutò e cercò di fermarla ma, mentre  lei  era
+diventata vecchia e le sue energie non erano aumentate,  Andreas  in  quegli
+anni aveva fatto dei progressi incredibili e la sconfisse senza  difficoltà,
+lasciandola tuttavia in vita.
+Millennia non sa che cosa stia facendo ora Andreas ma sa che  abita  in  una
+villa poco distante da Cartosa: Villa Corona.
+----------------------------------------------------------------------------
+--------------------------------------------
+RAPHAEL: Raff si era lasciato alle spalle  gli  inseguitori,  ma  era  stato
+nuovamente assalito dal nemico che usa le ombra, che  lo  ha  fatto  perdere
+nei vicoli della CV. Così è tornato alla locanda,l dove ha visto i tizi  del
+governo (una donna rossa di capelli e due  uomini)  che  hanno  portato  via
+Vale. La donna sembra infuriata con  gli  altri  due  per  qualche  cosa.  A
+questo punto R viene raggiunto dal solito venditore di oggetti  magici,  che
+gli dice di far silenzio e di non farsi vedere da quella gente.  Gli  spiega
+chi sono e gli dice che avevano catturato Vale ma che questi  è  riuscito  a
+scappare.  Il  venditore  è  stato  dal  “vecchio  Tlan”  il  quale  gli  ha
+raccontato un po’ di cose interessanti…
+R se ne torna alla nave quando vede che  i  suoi  amici  non  arrivano.  Qui
+scopre che uomini sono stati là e hanno fatto un sacco  di  domande.  Quando
+esce viene circondato dalle guardie e fatto prigioniero. Riesce  tuttavia  a
+scappare e a trovare rifugio nelle fogne, anche se deve fuggire anche da  lì
+per evitare di essere fatto a  pezzi  dagli  Incappucciati.  Esce  di  nuovo
+nella CV, dove incontra nuovamente  Oloban,  il  quale  lo  riconosce  e  lo
+conduce dai suoi amici da Millennia…
+
+VILLA CORONA: Derreck paga 1000mo per l’informazione sulla  Villa  e  rivela
+ai PG il suo piano finale per sgominare l’Alba  Nera:  mentre  lui  farà  in
+modo di avvisare le autorità e di radunare un contingente per  attaccare  le
+basi cittadine  dell’Alba,  in  modo  da  spostare  l’attenzione,  i  PG  si
+infiltreranno  nella  villa,  attenderanno  l’apice  del  rituale  e  allora
+salteranno fuori distruggendo il sigillo del costrutto, mandando così  tutto
+a puttane. Se faranno così, Derreck gli promette 10.000  mo,  oltre  che  la
+revoca  di  tutte  le  accuse  criminose  che  gli  sono  state  attribuite.
+Ovviamente per questo lavoro pretende l’esclusiva, per garantirsi che  i  PG
+lo portino a termine alza la ricompensa anche a livelli assurdi  (tanto  non
+ha intenzione di pagare), arriva anche ad usare  la  magia  per  essere  più
+sicuro. Se viene sgamato si trasforma e combatte con  tutte  le  sue  forze,
+anche se prima di morire si  trasforma  in  nebbia  a  scappa,  fingendo  di
+essere stato ucciso.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Derreck         |12° |M   |140|3(50)     |100Rap/Spells/Special       |+8  |
+|(Dagralack)     |    |    |   |          |                            |    |
+|Grumoz (I)      |2°  |M   |110|3(10)     |90LBa                       |+8  |
+
+Può cambiare forma (qualsiasi forma umanoide) con un round di  preparazione,
+oppure diventare nebbia a volontà. Conosce  le  liste  base  dei  Mentalisti
+Malvagi fino al 30° livello e ha 156PM. Agisce come in Haste.  Se  si  trova
+in  difficoltà  evoca  due  Grumoz  (demoni  dall’aspetto  scimmiesco)  come
+guardie del corpo.
+Il Fioretto di Dagralack è fatto di Brootakeen, un  metallo  proveniente  da
+una dimensione demoniaca. I mortali non riescono a  utilizzarlo  al  massimo
+della potenzialità ma lui sì (tratta ogni TA  come  1).  Nelle  mani  di  un
+mortale è  un’arma  +10  con  le  caratteristiche  tipiche  del  metallo  in
+questione.
+
+I PG a questo punto dovrebbero avere urgenza di recarsi alla Villa,  se  non
+è così meglio  mettergli  fretta:  la  lotta  fra  Incappucciati  e  Società
+raggiunge un apice di violenza. Se i  PG  girano  troppo  incontrano  gruppi
+come quelli sopra che si scontrano.
+Per mettergli ancora più fretta di  lasciare  la  città  è  anche  possibile
+tirare in ballo il gruppo del governo, che li sta ancora braccando.
+
+Per la villa: usa il modulo Orgillion Horror (pag 7-9)  per  la  descrizione
+della casa, con un pizzico di adattamento. Andreas ha fatto in modo di  dare
+un aspetto spettrale al posto, per evitare i curiosi. Condisci il tutto  con
+qualche trappola se i PG sembrano troppo disattenti. Dopo un po’ che  girano
+trovano un passaggio segreto  per  un  sotterraneo  (che  può  essere  o  no
+sorvegliato da due mastini infernali). Seguendolo  arrivano  in  una  stanza
+segreta, dove trovano Andreas che  li  attende  accompagnata  da  2  mastini
+infernali (in realtà la donna è nascosta e i PG vedono un’illusione).
+Il discorso di Andreas è + o – così:
+“Ero curiosa di conoscervi… so che avete sconfitto voi Tobias  e  che  avete
+più volte tentato di ostacolarmi, ma non vi  serbo  rancore.  So  che  siete
+guidati  da  persone  malvagie,  sono  loro  i  responsabili  delle   vostre
+malefatte e a tempo debito pagheranno. Inutile  dire  che  Dagralack  vi  ha
+ingannato, era un demone sfuggito al controllo e, come tale, la  sua  stessa
+natura lo spingeva a tradirmi. Ascoltate  la  mia  proposta,  riconosco  che
+avete del potenziale e che  non  siete  degli  sciocchi,  se  deciderete  di
+riconoscermi come legittima erede al  trono  e  di  aiutarmi  a  portare  un
+impero di pace su Ymir dimenticherò ciò che avete fatto in passato.”
+Nega di avere conoscenza del male  compiuto  dai  suoi  sottoposti  e  porta
+questi argomenti come supporto al fatto che ella abbia  bisogno  di  persone
+di alti principi come loro per tenere sotto controllo gli altri.
+Se i PG accettano gli chiederà di aprire le loro menti  e  di  accettare  di
+condividere con lei i loro pensieri come prova della loro lealtà.  Se  fanno
+così la campagna prende una piega  piuttosto  cupa,  dato  che  ora  saranno
+schiavi dell’Alba Nera…
+Se si rifiutano Andreas li maledirà, dicendo che in ogni caso  non  potranno
+fermare l’inevitabile, dato che  presto  il  sacrificio  finale  avrà  luogo
+sotto i loro occhi… anche se loro sono troppo stupidi per accorgersene!
+A questo punto traccia un Muro di  Fuoco  e  si  ritira,  mentre  i  Mastini
+saltano in avanti, uno o due round dopo dal muro esce  un  demone  infuocato
+(un Narauk), pronto a combatterli.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Mastino         |6°  |M   |90 |4(30)     |70MBi/50FBreath             |+8  |
+|Infernale (II)  |    |    |   |          |                            |    |
+|Narauk (IV)     |12° |La  |190|12(50)    |115LCl(2x)[Heat]/35Fbolt/Spe|+4  |
+|                |    |    |   |          |cial                        |    |
+
+Fine del combat: la casa sta andando a fuoco almeno un po’… i PG trovano  il
+passaggio segreto da cui è scappata Andreas, una stanza  di  pietra  con  un
+grande scudo  di  ferro  lucido  appeso  alla  parete  (Scudo  di  Arn:  +5,
+conferisce anche un bonus di +5 ai TR). Oltre la stanza un  lungo  corridoio
+sfocia  distante  dalla  casa,  in  un  foresta  acquitrinosa  infestata  da
+Scoiattoli Volanti Carnivori…
+
+Fine parte V
+
+
+

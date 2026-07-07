@@ -1,0 +1,554 @@
+
+                                      I
+                              L’OCCHIO DI KZORR
+
+    “Dopo secoli di prosperità e gloria, il mondo cadde in un’era oscura.
+                      Un’epoca senza Legge, né Ordine…”
+
+                   Cronache dell’Estremo Nord, vol. XVIII
+
+
+CAPITOLO I: Karak-Tor
+
+Dopo esser fuggiti dai tunnel  i  PG  arrivano  in  una  piccola  roccaforte
+nanesca: Karak-Tor. Qui potranno incontrare anche gli altri.
+
+Gli abitanti di Karak-Tor sono  circa  un  centinaio,  non  ricevono  spesso
+visite da parte di stranieri ma a volte si recano  nei  vicini  paesi  umani
+per commerciare.
+Nella rocca  c’è  una  locanda  (frequentata  per  lo  più  dai  residenti),
+chiamata “il Boccale d’Oro”, i  cui prezzi sono standard.
+Per lo più gli abitanti di Karak-Tor  sono  fabbri,  minatori  e  artigiani.
+Costruiscono anche oggetti di fattura molto buona (+10) ma non magici  o  di
+materiali speciali. I prezzi degli  oggetti  migliori  sono  ovviamente  più
+alti di quelli normali.
+PNG DI RILIEVO:
+    • Dwahrin: è il capitano delle guardie di Karak-Tor, un guerriero di 10°
+      livello che combatte con una piccozza da guerra.
+    • Dror: il capo dei nani di questa comunità, è molto anziano  ma  ancora
+      molto deciso (alcuni direbbero caparbio) e energetico.
+    • Balthor: il mastro  fabbro,  capace  di  forgiare  qualsiasi  cosa  ma
+      specializzato nelle armi “tipiche” dei nani.
+    • Olthar: governa l’Osteria e vende generi di prima necessità,  è  anche
+      uno dei nani più cordiali con gli stranieri.
+
+QUESTS:
+Probabilmente i PG vorranno inseguire Vorgath per impossessarsi  dell’Occhio
+di Kzorr. La cosa più logica da fare sarebbe raggiungere  il  paese  da  cui
+sono  partiti  con  lo  stregone  (Hordenheim).  Il  paese  dista  circa  70
+chilometri da Karak-Tor. Purtroppo, però, una furiosa tempesta  di  neve  ha
+reso difficoltosa la via più diretta per il villaggio.  Esistono  altre  due
+vie: una  più  lunga,  sempre  all’esterno,  passando  da  un  sentiero  più
+riparato dalla tempesta; e una via sotterranea utilizzata un tempo dai  nani
+ma ora abbandonata perché divenuta  pericolosa.   Ovviamente  possono  anche
+aspettare che si plachi la tempesta (che durerà un’intera giornata minimo).
+Nel frattempo potrebbero venir ingaggiati dai nani per  qualche  lavoro.  Ad
+esempio, Dwahrin potrebbe pagare un  compenso  per  ogni  mostro  che  i  PG
+uccidono nel passaggio sotterraneo.
+
+|Nome               |Lvl   |Tag|TA(BD)    |PF    |BO                  |Iniz.|
+|Guardia nano       |3°    |M  |16(35s)   |50    |60Mel/30Mis         |+0   |
+|Mastino dei Ghiacci|6°    |M  |4(30)     |90    |70Mbi/50IcBr/30CBr  |+8   |
+|Serpente Peloso    |4°    |M  |8(20)     |85    |50Mbi+poison        |+8   |
+|Gig.               |      |   |          |      |                    |     |
+|Grande Ragno       |3°    |M  |3(30)     |30    |20Spi/40SSt+poison  |+8   |
+|Scheletro Congelato|3°    |I# |1(35)     |50    |45Mba+Cold+Spec     |+4   |
+
+Affrontare la tempesta, ovviamente, può causare danni  da  congelamento.  Un
+tiro su Conoscenza Monti di Bruma o su  Sopravvivenza  Montagna  (o  simili)
+può rivelare che la tempesta è stranamente  violenta  e  prolungata  per  la
+stagione. Un successo particolarmente  alto  lascerà  capire  che  l’inverno
+arriverà in anticipo e che sarà particolarmente duro.
+
+
+
+
+CAPITOLO II: Hordenheim
+Hordenheim è tale e quale i PG l’avevano lasciato, un  tranquillo  paese  di
+campagna. La casa dove abitava Vorgath risalta un po’ sulle altre  perché  è
+più grande di quelle del paese ed è separata da una sorta  di  palizzata  di
+legno. Comunque il mago  è  già  partito  in  tutta  fretta  alla  volta  di
+Tallvar, lasciando la casa vuota a parte che per qualche servitore.  Non  ci
+vuole molto a scoprire che se ne è andato ma per sapere con certezza la  sua
+destinazione bisogna interrogare uno dei suoi servi o frugare  la  sua  casa
+in cerca di indizi.
+I servi non sanno molto, solo che il loro padrone  è  partito  in  fretta  e
+furia diretto verso ovest. È possibile cercare di seguire le sue  tracce  ma
+si tratta di una manovra “Assurda” (-70) perché le  tracce  sono  vecchie  e
+confuse.
+Vorgath ha però lasciato dietro di sé alcuni dei suoi effetti  personali  in
+una panca chiusa con un lucchetto “Difficile” (-10) da scassinare. La  panca
+è anche protetta da una trappola, che scatta se il lucchetto viene  rotto  o
+forzato troppo rozzamente (es. con un  successo  parziale)  rilasciando  una
+piccola nube velenosa (colpisce  la  persona  direttamente  di  fronte  alla
+panca). Si tratta di un veleno di 5° livello che  acceca  temporaneamente  e
+infligge 1d10 PF.
+All’interno della panca ci sono una saccoccia con 20 MA, una  scatoletta  di
+legno contente 5 dosi dell’erba Fek (ferma il sanguinamento in  1d10  round,
+non  bisogna  muoversi),  qualche  foglio  di  pergamena,  l’occorrente  per
+scrivere e una lettera con un sigillo rosso spezzato:
+Vorgath,
+Sono venuto a conoscenza del tuo successo  in  ciò  che  sappiamo.  Ho  dato
+ordini affinché una  nave  ti  aspetti  al  porto  di  Tallvar.  Chiedi  del
+capitano Garulf e mostragli il sigillo,  lui  capirà.  La  nave  è  la  Luna
+Veloce, non tardare,
+S.
+
+Vorgath è partito a cavallo, contando che ha almeno un giorno  di  vantaggio
+sui PG (di più se essi si sono attardati), arriverà a Tallvar  in 16  giorni
+dall’arrivo dei PG a Hordenheim (un giorno in meno per ogni giorno in cui  i
+PG si sono attardati).
+Se i PG vanno a piedi impiegano 24 giorni a raggiungere Tallvar  (procedendo
+normalmente), 17 se vanno a cavallo. Ovviamente  impiegano  meno  tempo  con
+marce forzate o al galoppo ma incorrono in altri rischi.
+Le pianure innevate del Kelmark non sono  prive  di  pericoli,  è  possibile
+fare dei brutti incontri lungo la strada.
+INCONTRO I: i PG arrivano ad  un  punto  in  cui  la  strada  attraversa  un
+piccolo boschetto. Dentro al bosco alcuni banditi tendono un agguato.  Hanno
+messo un carro rovesciato in mezzo alla strada subito dopo  una  svolta  per
+bloccare i passanti e assalirli.
+In tutto sono in 6(8), due (3) si  nascondono  all’interno  del  carro,  due
+sono nascosti fra il fogliame e attaccheranno con l’arco, e i  restanti  due
+(3) usciranno da dietro.
+Il capo dei briganti è uno dei due nascosti nel carro, se viene sconfitto  i
+briganti fanno un tiro sulla morale.
+Non molto distante dal punto  dell’agguato  si  trova  il  nascondiglio  dei
+briganti, sorvegliato da altri due (3) membri della banda.
+TESORO DEI BANDITI: 90ma, 20 frecce +5 non magiche, cibo e bevande  bastanti
+per 15 razioni e qualche arma e armatura.
+
+INCONTRO II: un branco composto da 6 (8)  lupi  attacca  il  campo  dei  PG,
+attirato dall’odore dei cavalli. I lupi attaccano in gruppi  di  3-4  (4-5),
+mentre 2 rimangono a guardare, alternandosi. Se 3 o più lupi  muoiono  o  se
+la maggior parte di loro viene ferita gravemente, si ritirano.
+
+|Nome               |Lvl   |Tag|TA(BD)    |PF    |BO                  |Iniz.|
+|Briganti           |2°    |M  |9(30s)    |50    |50BrSw/LoBw         |+4   |
+|Capo Brigante      |5°    |M  |17(18)    |120   |105ThSw             |+6   |
+|Lupo               |3°    |M  |3(30)     |110   |65Mbi               |+8   |
+
+
+CAPITOLO III: Tallvar
+Tallvar è una città molto vasta, seconda solo a Kelmar  in  tutto  Helgedad.
+Il centro urbano è cinto da  alte  mura  di  pietra,  sorvegliate  giorno  e
+notte. Altre mura, meno imponenti ma comunque robuste, circondano  la  città
+alta, dove si trova il castello  della  famiglia  Geidmund.  La  città  basa
+molti dei propri introiti sulle attività marinare e commerciali, esiste  una
+zona vicino al porto che è  adibita  a  mercato  semi  permanente,  dove  si
+vendono merci di ogni genere ma soprattutto i frutti della pesca.
+La Gilda Mercantile è molto importante all’interno della città  e  controlla
+praticamente ogni attività commerciale e numerose sotto gilde artigiane.
+La “polizia” della città è gestita dalla famiglia  Geidmund  attraverso  una
+Gilda dei Guerrieri. Essa si occupa del reclutamento  della  milizia,  della
+gestione delle prigioni e di pagare le ricompense  stabilite  ai  cacciatori
+di taglie per lo svolgimento di alcune missioni. Ogni persona  che,  al  suo
+ingresso nella città, sia  trovata  in  possesso  di  armi  pericolose  (non
+vengono considerati tali pugnali, bastoni  o  simili),  deve  registrare  il
+proprio nome nell’albo della Gilda e dichiarare i motivi che lo  spingono  a
+visitare la città.
+Un’altra Gilda opera a Tallvar, si tratta della famigerata Gilda dei  Ladri,
+attraverso la quale i Geidmund tentano di controllare in  una  certa  misura
+le attività illecite nella loro città.
+Per il resto Tallvar  è  una  normale  città  portuale,  si  può  grossomodo
+dividere in tre zone, anche se non  esiste  una  vera  e  propria  linea  di
+separazione fra una zona e l’altra. La Zona del Porto, o Città Bassa, che  è
+la parte dove si svolge la maggior parte delle transazioni  della  città  ma
+che è anche la parte più  malfamata,  soprattutto  di  notte;  la  Zona  del
+Mercato, o Città di Mezzo, dove la  maggior  parte  dei  residenti  di  ceto
+medio basso abita e vive; e la Zona del Castello, o  Città  Alta,  riservata
+alla nobiltà.
+
+[A Tallvar è possibile  acquistare  una  sorta  di  cestus  (+10  alle  Arti
+Marziali) per 25 ma.]
+
+Per trovare informazioni a proposito della Luna Veloce (e per una  nave  con
+cui seguirla) i PG dovranno ovviamente visitare il  porto.  Scopriranno  che
+Vorgath è partito alla volta di Nortislong (se sono  riusciti  a  recuperare
+tempo è partito solo da poche ore, altrimenti già da qualche giorno).
+Infine dovrebbero trovare il capitano Korum, un contrabbandiere che sta  per
+partire con la sua nave “Tempesta” (una sorta  di  grosso  drakkar  con  una
+ciurma di 11 uomini). Egli chiede 10 ma a persona per il viaggio.
+
+CAPITOLO III: LO STRETTO DI NORNS
+Il viaggio in nave verso  Nortislong  dovrebbe  durare  circa  un  mese.  Il
+periodo non è dei migliori per andare al  nord  perché  i  venti  in  questa
+stagione sono contrari, tuttavia Korum ha necessità  di  arrivare  il  prima
+possibile e i suoi uomini  sono  dei  buoni  rematori.  Tuttavia  i  PG  non
+sembreranno guadagnare tempo su Vorgath.
+Il  viaggio  passerà  tranquillo  fino  a  circa  tre/quattro  giorni  prima
+dell’arrivo.  A  quel  punto  un  fitto  banco  di   nebbia   si   profilerà
+all’orizzonte, avanzando ad una velocità innaturale.
+Quando il banco sarà abbastanza vicino sarà possibile  scorgere,  celata  al
+suo interno,  una  flotta  di  navi  da  guerra  (un  tiro  di  Osservazione
+permetterà di scorgere su ogni nave lo stemma del Leone  Rampante,  un  tiro
+su Araldica rivelerà che si tratta dello stemma dei Geidmund, la casa  reale
+di Nortislong).
+La “Tempesta” sarà costretta a fare un veloce virata per evitare  di  essere
+avvistata, per fuggire ad alcune  navi  verrà  catturata  da  una  corrente,
+proprio quando crederanno di esser riusciti a  sfuggire  alla  corrente  dei
+grossi  tentacoli  usciranno  dall’acqua  e  si  abbatteranno  sulla   nave,
+trascinandola con se negli abissi.
+I PG si ritroveranno così in una  grotta  marina  di  cui  dovranno  trovare
+l’uscita.
+
+
+CAPITOLO IV: LA TANA DEL MOSTRO MARINO
+Il punto segnato con una X sulla mappa indica dove si risvegliano i PG.  Uno
+stretto ponte naturale collega il loro scoglio con la terra ferma. Quando  i
+PG lo attraversano dall’acqua escono dei tentacoli (1 per  PG)  che  tentano
+di trascinarli in acqua. Il ponte è troppo stretto per utilizzare la  Difesa
+Adrenalinica o stili che necessitino di molta mobilità.
+   1. Le pareti di questa  stanza  sono  ricoperte  di  uno  strano  lichene
+      luminescente. Osservare questa pianta provoca  uno  stato  catatonico.
+      Per evitare di cadere in trance  bisogna  superare  un  TR  contro  il
+      Mentalismo di 4° livello.
+   2. il pavimento melmoso di questa stanza è molto scivoloso, chi  fallisce
+      una Manovra in Movimento  Media  perde  l’equilibrio  e  subisce  1d10
+      danni.
+   3.  la  grotta  è  occupata  da  una  bassa  pozza  di  acqua  salmastra,
+      all’interno della quale nuotano 3 Mascelle  Rosse  che  attaccano  chi
+      entra in acqua (la luce emanata da una loro ghiandola da un  –25  alle
+      azioni entro tre metri).
+   4. più o meno al centro di questa grotta si trova lo scheletro di un uomo
+      riverso per terra sopra ad uno scrigno ricoperto di incrostazioni.  Lo
+      scrigno contiene 100 ma, un medaglione in gradi di lanciare Luce I tre
+      volte al giorno e un anello moltiplicatore x1,5 di PM per il Flusso.
+   5. la luce del giorno filtra da un’apertura del soffitto di questa grotta
+      dalle  pareti  coperte  da  rampicanti  e  radici.  Arrampicarsi  fino
+      all’uscita è una manovra “Difficile”, inoltre le piante  secernono  un
+      veleno Riduttivo di 4° livello.
+   6. quest’ampia grotta è la tana di un orso nero, che non  gradisce  molto
+      le intrusioni. È tuttavia probabile  che,  dato  che  è  giorno,  stia
+      dormendo. Se i PG riescono in una manovra “Molto Difficile”  (-20)  di
+      muoversi silenziosamente l’orso non si sveglierà. Comunque è difficile
+      che li insegua per molto fuori dalla tana.
+
+
+|Nome               |Lvl  |Tag|TA(BD)    |PF   |BO                    |Iniz.|
+|Tentacolo          |5°   |M# |7(10)     |130  |80LGr                 |+8   |
+|Mascelle Rosse     |3°   |M  |4(30)     |80   |70MBi                 |+12  |
+|Orso Nero          |5°   |I  |8         |20   |65LGr/60LCl/40Mbi/70LB|+4   |
+|                   |     |   |          |     |a                     |     |
+
+CAPITOLO V: FAME MORBOSA
+Il fato porterà i PG, sul far della sera, dopo una dura giornata di  cammino
+attraverso le terre selvagge, ad un villaggio decadente, tanto  da  sembrare
+quasi abbandonato.
+All’entrata del centro abitato si può notare un palo  su  cui  probabilmente
+un tempo era appeso un cartello col nome  del  villaggio  (Sljornburg),  ora
+sparito. Le stradine e la piazza del villaggio  sono  deserte  ma  i  PG  si
+accorgeranno presto di essere osservati dalle  scure  finestre  delle  rozze
+abitazioni.
+Nella piazza del villaggio si trova una locanda fatiscente, anch’essa  senza
+nome. Si scorge anche un tempietto coperto di edera in mezzo a un  cimitero,
+poco fuori dal villaggio.
+
+LOCANDA: i personaggi entrano in una grande sala polverosa occupata  da  tre
+o quattro uomini dallo sguardo spento che osservano con poca  convinzione  i
+loro boccali di birra.
+L’oste, un uomo la cui altezza viene un po’ sminuita dalla sua  posa  gobba,
+viene loro incontro e chiede con una strana voce se desiderano  restare  per
+la notte, dicendo che per una sola moneta di rame avranno vitto e  alloggio.
+Gli uomini seduti ai tavoli non sembrano in vena  di  molte  chiacchiere  ma
+possono  essere  convinti  a  parlare  se  gli  vengono  poste  domande  con
+insistenza.  D’altra  parte  l’oste  sembra  un  po’  più  loquace.   Alcune
+domande/risposte:
+    • Come si chiama il villaggio/ la locanda? > ci pensano un po’ su e poi
+      rispondono Sljornburg (“al Cinghiale”).
+    • Dove sono gli altri abitanti? > a lavorare.
+    • Quanto dista Nortislong? > gli uomini rispondono che  non  lo  sanno,
+      l’oste dice che si trova a circa 10 giorni di marcia verso  nord  (in
+      realtà ne dista solo 3).
+Le bevande servite alla locanda sono insipide e il cibo consta in una  zuppa
+di carne e funghi dal gusto abbastanza strano.
+I PG vengono alloggiati in camere separate, sporche e polverose.
+
+ABITAZIONI: ogni casa ha la porta sbarrata dall’interno ed è “Difficile”  da
+aprire. Molte di esse sono  vuote  e  hanno  un  aspetto  fatiscente.  Anche
+quelle abitate sono  polverose  e  piene  di  ragnatele.  Gli  abitanti  del
+villaggio sono tutti pallidi e dallo  sguardo  vacuo.  Nelle  case  non  c’è
+niente di valore.
+
+CIMITERO: persino il cimitero pare andare in rovina.  Comunque  è  custodito
+da un vecchio dalla barba incolta che si proclama  il  prete  del  villaggio
+(si chiama Nod) e che cercherà di allontanare i PG da esso.
+
+Gli abitanti del villaggio sono tutti Ghoul Viventi. Nod è il  loro  capo  e
+conosce le liste del Flusso Malvagio fino al proprio livello.
+Il piano dell’Oste è quello di  prenderli  mentre  dormono  e  portarli  nel
+sotterraneo del tempio per sacrificarli alla dea Thal’Khal e poi  divorarli.
+
+Gli  abitanti  del  villaggio  sono  troppi  per  essere  affrontati  tutti.
+Fortunatamente per i PG un ex abitante del villaggio, che si è rifiutato  di
+diventare un ghoul, ha lasciato un messaggio scritto su  un  foglio  in  una
+stanza della locanda:
+Sono tutti impazziti, Nod gli ha convinti ha seguire  il  suo  folle  piano.
+Dice che mangiando i morti sacrificati a  Thal’Khal  diventeremo  immortali.
+Quelli che non  lo  volevano  ascoltare  sono  stati  presi  dagli  altri  e
+sacrificati. Io sono l’unico rimasto. Mi sono nascosto qui e  ho  chiuso  la
+porta. Questa notte cercherò di scappare dal  vecchio  passaggio  usato  dai
+contrabbandieri che sta in cantina. Prego Thurms di farcela.
+
+|Nome               |Lvl   |Tag|TA(BD)    |PF    |BO                  |Iniz.|
+|Ghoul Vivente      |5°    |M  |1(10)     |70    |50MCl/40SBi         |+0   |
+|Nod                |7°    |M  |9(10)     |80    |60MCl/50Sbi/Spells  |+4   |
+
+CAPITOLO VI: LA BESTIA DI NORTISLONG
+Nortislong è assai più piccola di Tallvar e appare più che altro  un  grosso
+borgo che una città, in confronto ad essa. Si tratta  comunque  di  uno  dei
+maggiori  centri  abitati  di  Helgedad,  nonché  capitale  della  marca  di
+Nortislong. La città in sé si trova ai piedi di un’altura impervia sopra  la
+quale sorge il castello  della  famiglia  Geidmund.  È  circondata  da  mura
+merlate con quattro porte, una ad ogni lato, le abitazioni sono in  legno  e
+pietra, con caratteristici tetti a punta.
+In città fervono i  preparativi  militari  per  la  guerra  appena  iniziata
+contro la marca di Tallvar e le mura sono ben sorvegliate.  Le  persone  che
+entrano armate sono viste con sospetto e viene  loro  chiesto  se  intendono
+unirsi all’esercito  di  sua  maestà  o  se  sono  mercenari.  Una  risposta
+negativa ad entrambe le domande porta a sospetti ancora maggiori.
+I  fabbri  della  città  sono  impegnati  nella  costruzione  di  armi   per
+l’esercito ma  possono  vendere  alcune  delle  loro  produzioni  ai  PG.  I
+fabbricatori  di  archi  di   Nortislong   sono   particolarmente   rinomati
+(producono archi +10 che vendono  a  3mo).  Un  altro  prodotto  commerciale
+tipico che attira l’attenzione dei PG sono i talismani contro la sventura  /
+spiriti maligni, la città è piena di bancarelle e ambulanti che li  vendono.
+Se un abitante viene interrogato a proposito di essi  si  mostra  abbastanza
+reticente,  soprattutto  se  ci  sono   militari   intorno.   Insistendo   a
+sufficienza si viene avvertiti di non uscire di casa la notte  e  si  scopre
+che ci sono state alcune sparizioni ad opera, a quanto si dice,  di  spiriti
+maligni.
+Gli abitanti in generale  sembrano  taciturni  e  impauriti,  anche  se  non
+dimostreranno il loro malcontento di fronte  alle  guardie.  Molti  di  loro
+credono che il male si sia insediato in città.
+La tensione è quasi palpabile girando per la città, poche persone  camminano
+nelle strade pattugliate dalle  guardie,  in  ogni  piazza  sono  esposti  i
+cadaveri dei sospettati di tradimento.
+Le taverne sono piene di gente che beve e parla in compagnia  ma  l’allegria
+pare forzata e in ognuna di esse si trova almeno una guardia (e più  di  una
+spia in borghese). In più sono molto pochi quelli che si  trattengono  oltre
+il far della notte, trovando le scuse più  banali  per  tornarsene  a  casa.
+Aguzzando le orecchie si possono udire  discorsi  fatti  a  bassa  voce  che
+parlano di sparizioni  notturne  e  strane  ombre  nelle  tenebre,  discorsi
+interrotti immediatamente dall’avvicinarsi delle guardie.
+VORGATH: la prima cosa a cui probabilmente i PG penseranno  appena  arrivati
+in città sarà Vorgath, o meglio, Lord Vorgath.  Perché  egli  è  infatti  un
+rispettato  membro  della  nobiltà  di  Nortislong.  Possiede  una   magione
+all’interno della città  stessa  (la  cui  ubicazione  è  nota  pressoché  a
+tutti). C’è tuttavia da dire che domande dirette  su  di  lui  rischiano  di
+attirare sospetti sui PG.
+
+LA  NOTTE: al crepuscolo, mentre tutti i PG  sono  all’esterno  per  qualche
+motivo,  calerà  un  nebbia  fittissima.  Vagando  persi  nella   nebbia   i
+personaggi avvisteranno un vecchio cieco che fa cenno di seguirlo.
+Che lo seguano o no, sparita la nebbia, si troveranno  in  piena  notte,  in
+una foresta dalla quale, senza preavviso, spunteranno dei lupi famelici  che
+attaccheranno i PG (sono tanti quanti i PG -1).
+
+|Nome               |Lvl   |Tag|TA(BD)    |PF    |BO                  |Iniz.|
+|Lupo Famelico      |7°    |I  |4(50)     |170   |85Lbi               |+12  |
+
+Una volta uccisi, i corpi dei lupi svaniranno  senza  lasciare  traccia.  La
+temperatura è estremamente bassa e i  PG  capiscono  in  fretta  che  devono
+trovare un riparo per la notte. Non resta altro che vagare  per  la  foresta
+e, dopo un po’ troveranno una grotta dove  ripararsi.  Per  tutta  la  notte
+riecheggeranno nella foresta gli ululati dei lupi, ma non ci  saranno  altri
+attacchi.
+DOVE  SIAMO?:  il  giorno  successivo,  dopo  una  scarpinata   nel   bosco,
+arriveranno ad un grosso villaggio in mezzo alla foresta, circondato da  una
+palizzata di legno. Le case del paese sono tutte di legno e, al  centro,  un
+po’ rialzato rispetto al resto, ne sorge una più grande  e  imponente  delle
+altre. Verranno fermati da un paio di uomini vestiti di pelli  e  armati  di
+archi da caccia che fungono da guardie all’entrata. Scopriranno così che  il
+paese si chiama Nortislong (!) e che il suo sovrano  è  Zarak,  che  governa
+con pugno di ferro. La gente ha paura di Zarak ma non lo  dice  apertamente.
+Parlerà invece della  Bestia,  che  infesta  la  contrada  di  notte  e  che
+controlla le orde di lupi che pattugliano i boschi.
+Nessuno sa bene chi o cosa sia la Bestia, si sa solo che a volte, la  notte,
+delle persone spariscono e  non  ricompaiono  più  e  che  i  lupi  sbranano
+chiunque cerchi di abbandonare la contrada.
+Se i PG chiedono di un vecchio cieco dicono di non saperne nulla ma  che,  a
+pochi chilometri dal villaggio abita una vecchia considerata matta dai  più,
+una sorta di fattucchiera, chiamata da tutti Zia Istrid,  che  è  l’abitante
+più vecchio del posto e conosce molte storie.  Lei  sembra  la  persona  più
+indicata per chiedere queste informazioni, anche se non è molto  consigliato
+averci a che fare.
+In nessun modo i PG potranno entrare nella costruzione più grande o avere  a
+che fare con Zarak, almeno per il momento.
+ZIA ISTRID: abita nella foresta, in una lurida catapecchia circondata da  un
+roveto che funge da palizzata. Una sorta di  grosso  maiale  peloso  grufola
+scorrazzando qua e la nel terreno fangoso davanti  alla  casa,  dalla  quale
+esce un odore insopportabile di erbe, sporco, spezie e chissà cos’altro.
+Nella casa attende  Zia  Istrid,  una  vecchia  megera  vestita  di  stracci
+intenta a cucinare qualcosa in una calderone. Appollaiati  sulle  travi  del
+tetto due grossi corvi neri (Hugin e Mugin) osservano torvi chi entra.
+Zia Istrid accoglierà i PG con fare quasi affabile (anche  se  i  suoi  modi
+sono molto strani) e ascolterà la loro storia. Racconterà poi  loro  che  la
+terra in cui si trovano, un tempo normale,  è  vittima  di  una  maledizione
+operata da un potente mago a  causa  delle  malefatte  del  loro  sire.  Ora
+questo mago è morto e Zarak gli ha fatto strappare gli occhi, per cui  forse
+i PG hanno visto il suo fantasma. Il corpo del mago è sepolto nei  tumuli  a
+est del villaggio.
+Nel frattempo Zia Istrid avrà condotto all’aperto i PG e, finito di  parlare
+svanirà ridacchiando, urlando che in cambio delle sue informazioni  prenderà
+le vite dei PG.
+Per il primo round attaccheranno il  cinghiale  e  i  corvi,  mentre  Istrid
+evoca un demonietto. Comparso il demone attacca anche Istrid.
+
+|Nome               |Lvl   |Tag|TA(BD)    |PF    |BO                  |Iniz.|
+|Cinghiale          |3°    |M  |4(30)     |120   |50Mho/50MBa         |+4   |
+|Corvo Famiglio     |5°    |M  |3(60)     |30    |50SCl+poison        |+12  |
+|Demone Furioso     |5°    |M  |12(30)    |100   |90MCl               |+8   |
+|Zia Istrid         |8°    |@  |8(30)     |110   |70Qst/spells        |+8   |
+
+Gli artigli dei corvi secernono un veleno circolatorio di  5°  livello.  Zia
+Istrid usa le liste dello stregone  fino  al  suo  livello,  una  magia  per
+round, senza PM.
+La casa contiene un tomo che permette di imparare  Blood  Law,  un  paio  di
+volumi dall’aspetto malvagio (effetti a scelta del master), qualche  erba  e
+veleno e un ciondolo che permette di lanciare Herb Lore  e  Enhancement  una
+volta al giorno.
+I TUMULI: si trovano a qualche ora di cammino dal villaggio. Di  giorno  non
+sembrano altro che montagnole coperte di neve dalle  quali  spuntano  strane
+pietre. Sono disposti in maniera circolare in una radura abbastanza  grande.
+Non contengono nulla di interessante (a parte  qualche  rozza  trappola  per
+eliminare i visitatori sgraditi), almeno di  giorno.  Di  notte  la  zona  è
+infestata da fuochi fatui che danzano nell’aria cercando di  attirare  verso
+di loro i viventi (qualche tomba è anche infestata da fantasmi). Se i PG  li
+seguono arrivano in una radura dove si trova una tumulo  non  sormontato  da
+una pietra e su cui non cresce erba (e qui i  fuochi  li  attaccano,  ce  ne
+sono 2 o 3).
+
+|Nome               |Lvl   |Tag|TA(BD)    |PF    |BO                  |Iniz.|
+|Fuoco Fatuo        |6°    |La#|1(100)    |80    |60Coldball (corpo)  |+4   |
+
+Quando li sconfiggono vedono la figura evanescente del vecchio  sull’entrata
+del tumulo che fa loro cenno di entrare. Dentro troveranno un  sarcofago  e,
+dentro il sarcofago,  un  cadavere  decomposto  che  stringe  un  medaglione
+uguale all’Occhio di Kzorr. Quando qualcuno afferra il medaglione  i  PG  si
+svegliano.
+
+NB! Girando la notte nel reame di Nortislong si  incappa  quasi  sicuramente
+nei branchi di lupi famelici  che  pattugliano  la  zona  (uguali  a  quelli
+dell’incontro iniziale).
+
+LA MATTINA: e si svegliano ancora alla locanda di  Brennan  che  narra  loro
+che sono stati trovati collassati nelle vie della città alla mattina  presto
+da  una  pattuglia,  che  li  ha  portati   qui   dove   hanno   farneticato
+febbricitanti per un giorno intero. (I PG però portano ancora qualche  segno
+del posto che hanno visitato e quello che ha preso  il  medaglione,  che  si
+era tagliato con esso, ha ancora un taglio alla mano).
+
+Il secondo Occhio si trova, quindi,  nella  zona  dei  tumuli  a  est  della
+città, come mostrato dallo spettro, sta ai PG capirlo.
+Se indagano in questo senso scoprono che ci sono delle tombe  molto  antiche
+dietro al castello. Si tratta di una zona normalmente ritenuta  infestata  e
+evitata da tutti. E, infatti, appare come un luogo  malvagio,  costantemente
+in ombra e circondato da una sottile nebbiolina dall’aria malsana.
+Fra i tumuli e le tombe dimenticate, i PG riconosceranno  il  tumulo  brullo
+dove avevano visto lo spettro, circondato da alberi secchi e nodosi.  Quando
+i PG si avvicinano gli alberi si muovono e cercano di  afferrarli  coi  loro
+rami (sono uno o due).
+
+|Nome               |Lvl   |Tag |TA(BD)    |PF    |BO                  |Iniz.|
+|Albero Guardiano   |10°   |LA@ |11(40)    |250   |80Lba(2x)+70LGr+80LC|+0   |
+|                   |      |    |          |      |r                   |     |
+
+Dentro un albero è nascosta la mappa di un tesoro.
+
+LA CRIPTA DI KZORR:
+   1. passaggio segreto aperto da due meccanismi sulle tombe A.
+   2. Passaggio Segreto “Molto Difficile” (-20) da notare.
+   3. Trappola “Estremamente Difficile” (-30) da scoprire posta davanti alla
+      finta tomba, partono dei dardi (1d6 di attacchi  da  Balestra  Leggera
+      con un BO di +60).
+   4. la tomba contiene un essere mummificato che sorge per  proteggerne  il
+      tesoro. Dopo averlo sconfitto i PG possono prendere l’Occhio di  Kzorr
+      (il secondo).
+
+|Nome               |Lvl   |Tag|TA(BD)    |PF    |BO                  |Iniz.|
+|Mummia             |8°    |La#|8(30)     |120   |90Lba+120LGr        |+8   |
+
+L’Occhio appare in tutto e per tutto identico a quell’altro, tranne  per  il
+fatto che questo sembra “spento” o esaurito e non  pare  aver  alcun  potere
+magico.
+
+ANCORA NEBBIA: una volta usciti dalla cripta i PG si ritroveranno  di  nuovo
+in mezzo alla foresta del reame  di  Nortislong,  circondati  dalla  nebbia.
+Sono al di fuori del  tumulo  del  cieco,  poco  distanti  da  dove  avevano
+lasciato il regno l’altra volta. Tutto è tranquillo, ora, non si  vedono  ne
+spettri ne fuochi fatui e la nebbia avvolge ogni cosa in una cappa silente.
+I PG si dovrebbero quindi incamminare nella nebbia diretti  verso  il  paese
+(ricordando che non è salutare rimanere fuori durante le ore  notturne).  La
+strada  per  il  paese  si  rivela  più  difficile  del   previsto.   I   PG
+continueranno  a  camminare  per  ore,  apparentemente  in  cerchio,  mentre
+sentono su di loro lo sguardo  di  una  potenza  malevola.  Poco  prima  che
+scenda la  notte,  però,  incontrano  alcune  guardie  del  paese  venute  a
+cercarli per ordine reale che li scortano a destinazione.
+Una volta arrivati in paese saranno  “inviati”  a  cena  da  re  Zarak,  che
+sembra molto ansioso di vederli.
+A palazzo troveranno un sontuoso banchetto ad aspettarli,  al  quale  il  re
+non parteciperà.  Zarak infatti si presenterà solo verso la fine del  pasto,
+si mostra gentile  nei  confronti  dei  PG  e  li  “invita”  a  rimanere  al
+castello.
+
+|Nome               |Lvl   |Tag|TA(BD)    |PF    |BO                   |Iniz.|
+|Zarak (forma umana)|22°   |La#|1(80)     |230   |130BrSw[cold]/120Mbi+|+12  |
+|                   |      |   |          |      |sp                   |     |
+
+
+NB: Zarak è immune alle armi normali a parte  quelle  simili  a  paletti,  è
+vulnerabile a armi magiche o d’argento. Solo le magie di Forza,  Elettricità
+e Acqua possono scalfirlo.
+
+PRIGIONIERI DELLA BESTIA: i PG saranno liberi di  andare  dove  vuole  Zarak
+all’interno del castello e non  potranno  lasciarlo.  Nel  frattempo  il  re
+tenta di ottenere da loro l’Occhio di Kzorr (gli deve essere consegnato).
+Durante il  secondo  giorno  di  prigionia  il  PG  che  ha  l’Occhio  viene
+convocato da solo da Zarak, che gli dirà che gli serve l’Occhio per  rompere
+la maledizione che grava su  questa  terra,  frutto  del  malvagio  fantasma
+cieco.
+Nel frattempo, gli altri  PG,  seguendo  degli  strani  rumori  dietro  alla
+pareti, scoprono un passaggio segreto che li porta nelle antiche prigioni.
+Qui trovano il fantasma che racconta loro la storia della maledizione e  che
+l’unico modo per fuggire  e  rinchiudere  per  sempre  Zarak  è  distruggere
+l’Occhio.
+[IMPROVISATION RULEZ!!!!]
+
+in questa parte molto improvvisata i PG girano per il castello  in  versione
+incubo mentre Zarak ha l’Occhio e inizia il rituale  per  andare  nel  mondo
+reale.
+
+|Nome               |Lvl   |Tag|TA(BD)    |PF    |BO                  |Iniz.|
+|La Bestia          |22°   |La#|3(90)     |230   |170LCl/135Lbi+spec  |+12  |
+
+
+****************************************************************************
+****
+CASA VORGATH: lo stregone abita, come già detto, in un palazzo in città.  Si
+tratta di una casa di due piani con una piccola torre annessa.  La  casa  ha
+un aspetto poco curato e sembra quasi essere disabitata.  Vorgath  ha  pochi
+servitori e ha  la  fama  di  essere  un  tipo  molto  riservato,  che  esce
+raramente di casa e non riceve volentieri visite.
+I tentativi di entrare in casa  sua  il  giorno  saranno  quasi  sicuramente
+vani. Alla porta risponderà un servitore che si  rifiuterà  di  far  entrare
+chiunque. Le guardie cittadine non si  mostreranno  benevole  verso  chi  da
+fastidio alla nobiltà locale.
+Vorgath sta praticamente tutto il tempo nel suo laboratorio sotterraneo,  da
+cui si accede attraverso un passaggio segreto nella libreria della casa.
+Il laboratorio è custodito da dei gargoyle guardiani.
+
+|Nome               |Lvl   |Tag|TA(BD)    |PF    |BO                  |Iniz.|
+|Vorgath            |10°   |M  |1(12)     |70    |105ds               |+10  |
+|Gargoyle           |5°    |@  |16(35)    |80    |60Cl                |+8   |
+
+LISTE  VORGATH:  Criomanzia  (30),  Idromanzia   (20),   Aereomanzia   (20),
+Geomanzia (10), Ponte Arcano (10), Rapid Ways (10), Shield Mastery (15)…
+
+TESORO: Pergamena di  Criomanzia  (Liv  10);  Pozione  di  Invisibilità,  un
+Anello della Medicina (+25 a  pronto  soccorso  e  simili);  una  Gemma  che
+lancia Stun Removal I due volte al giorno; 2  Pozioni  di  Guarigione  (3d10
+PF); il  tomo  “De  Daemonolatria”  che  da  un  bonus  di  +25  all’abilità
+Conoscenza Demoni.
+
+
+

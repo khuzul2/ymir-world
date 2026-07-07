@@ -1,0 +1,128 @@
+
+OMICIDIO
+
+Compenso: 15mo subito altre 20 alla fine (a testa)
+
+I  PG vengono indirizzati da  Gotrek,  il  capo  della  milizia  nanica  del
+ghetto, che può fornire loro le chiavi del laboratorio di Nairin.
+
+Il cadavere è stato trovato da Fori, il suo apprendista, nel laboratorio  la
+mattina. Fori la sera prima era stato congedato dal maestro ed era andato  a
+bere assieme ai suoi amici alla taverna  “Il  Boccale  di  Pietra”  per  poi
+andare a dormire a casa (che si trova dietro il laboratorio). Per  tutta  la
+serata non ha visto né sentito il maestro. Interrogando l’oste  del  Boccale
+(un nano di nome Oin) o qualcuno degli avventori, si conferma che Fori è  un
+frequentatore assiduo.
+
+Nairin è morto per un unico colpo di arma da taglio, prob  un  pugnale,  che
+lo ha trafitto in pieno petto. Quando è stato trovato  indossava  gli  abiti
+da lavoro. Un tiro su Diagnostica, oppure una manovra Molto Difficile  (-20)
+di Osservazione rende evidente che il nano  è  stato  colpito  dal  davanti,
+senza poter opporre resistenza.
+
+INFO:
+      - Nairin serviva direttamente nel suo negozio sia umani che nani, ciò
+        non era visto di buon occhio da alcuni dei nani più integralisti
+      - Nairin era specializzato in motori e apparati  di  medie  e  grandi
+        dimensioni
+      - Ultimamente guadagnava più del solito
+      - Di recente usciva abbastanza spesso dal ghetto
+      - Alcuni dicono di averlo visto passare un bel  po’  di  tempo  nella
+        biblioteca della Gilda degli Artefici
+
+Visita al laboratorio:  la porta del laboratorio è chiusa  a  chiave:  Molto
+Difficile (-20) da  scassinare.  Le  finestre  sono  chiuse  con  gli  scuri
+(Manovra Media per scassinarli).
+La macchia di sangue indica il punto dove è morto Nairin. La  pergamena  sul
+tavolo è un registro degli affari della  giornata,  scritto  in  nanico,  ci
+sono scritti dei nomi e delle somme di denaro.
+      - Nuin ( 30 Rune Ort
+      - Boggard ( 25 Rune Ort e 4 Tal
+      - Threlin ( 20 Rune Ort
+      - Dror ( 15  Rune Ort
+Sugli scaffali ci sono 2 pistole a dardi e 1 motore Watt.
+Fucina: contiene gli utensili di Nairin e alcuni  marchingegni  non  finiti,
+per lo più parti di motori e di automata macchine. Un attenta analisi  della
+stanza (prova di Osservazione “Assurda” [-70] o di Seguire Tracce “Folle” [-
+50]) fa notare delle tracce nelle vicinanze della porta  blindata  (un’altra
+manovra “Molto Difficile” [-20] di Seguire Tracce, oppure una  “Estremamente
+Difficile” [-30] di Osservazione consente di capire che si tratta di  tracce
+troppo grandi per un nano, probabilmente umane).
+Una manovra di  Osservazione  “Molto  Difficile”  [-20]  porta  invece  alla
+scoperta di uno scomparto segreto su una scrivania. Lo scomparto è  protetto
+da una trappola (“Difficile” [-10] da individuare) che rilascia una  piccola
+scarica elettrica (Shock Bolt con BO+20). La trappola  è  “Difficile”  [-10]
+da disattivare. Lo scomparto contiene un libro muffito:
+      - Anime Inquiete (+10 Con Non Morti)
+Analizzando il libro (x leggerlo tutto si impiegano  minimo  2/3  giorni)  e
+riuscendo in una manovra di Osservazione “Media”, si nota che  alcune  parti
+sulla conservazione dei cadaveri sono più usurate delle altre.  Una  manovra
+“Estremamente  Difficile”  [-30]  di   Osservazione,   porta   invece   alla
+conclusione  che,  dallo  stato   di   conservazione   il   libro   proviene
+probabilmente da un luogo sotterraneo, come una cantina o una cripta.
+
+Stanza  Blindata:  Porta  “Folle”  [-50]  da  scassinare,  protetta  da  una
+trappola (“Folle” da individuare e “Molto Difficile” [-20]  da  disattivare)
+che colpisce con un dardo (Colpo Critico “C” da Punta). Fori ha  una  chiave
+della stanza, e una dovrebbe essere nelle tasche di Nairin, ma non c’è  (500
+PX a chi ci fa caso).
+La stanza contiene i registri dei progetti di Nairin, è  facile  vedere  uno
+dei libri della libreria a terra, mettendolo a  posto  si  nota  che  alcune
+pagine sono state strappate, se Fori viene interrogato a proposito dice  che
+probabilmente si tratta di  un  progetto  al  quale  il  suo  maestro  stava
+lavorando recentemente. Ne sa di più ma deve essere un po’ torchiato  perché
+lo riveli: il progetto in questione era stato  commissionato  da  un  umano,
+che il suo maestro vedeva ogni tanto al di  fuori  del  ghetto,  da  qualche
+parte nelle vicinanze del quartiere delle prostitute.
+
+Visita alla biblioteca: l’accesso  è  riservato  ai  membri,  oppure  a  chi
+accompagnato  da  essi.  Il  bibliotecario  è  un  elfo  di  nome   Elendiel
+(Alchimista livello 6°). Elendiel  non  è  favorevole  a  mostrare  i  libri
+consultati di recente da Nairin ma può essere convinto se i  PG  gli  dicono
+che stanno indagando ufficialmente  sulla  sua  morte  e  gli  mostrano  dei
+documenti che lo attestano. I libri consultati sono:
+
+      - Inventare l’Impossibile (Lista Automata)
+      - Motori a Vapore (+10 Ingegneria col vapore)
+      - Apparati Leggendari (+15 Con Artefatti)
+      - Le Macchine degli Adepti (+15 Con Artefatti, Lista Automata)
+      - Manuale di Meta Taumaturgia Meccanica: Corso Avanzato (+15
+        Meccanica e Alchimia)
+      - Anatomia Umana: Nozioni di Base (+5 Diagnostica)
+
+Quartieri  Bassi:  individuare  informazioni  sugli  affari  di  Nairin  nei
+quartieri malfamati è più difficile. Con una Manovra  “Difficile”  [-10]  di
+Contattare/ Conoscenza Ghetto, oppure una “Media” di Conoscenza  Malavita  è
+possibile entrare in contatto con Rast, un Tal Tanoth che aiuta  i  nani  ad
+uscire dal ghetto la sera con dei permessi falsi. Per  un  piccolo  compenso
+(5ma) indica ai PG la taverna “I 4 Ubriaconi”, dove ultimamente il  nano  si
+recava.
+
+I 4 Ubriaconi: il gestore della taverna è Wacho, un  vecchio  barbuto  e  un
+po’ scorbutico; in più c’è la cameriera  Odessa.  Uno  dei  due  può  essere
+convinto a parlare e può rivelare le stesse  informazioni:  Nairin  è  stato
+visto parlare spesso con un  individuo  piuttosto  losco,  il  capo  di  una
+piccola gang di contrabbandieri, un certo Sharky.
+
+
+Sharky:  Trovare  Sharky  richiede  un  altro  po’  di  investigazioni   che
+conducono i PG ad una baracca ai moli,  che  il  contrabbandiere  e  la  sua
+banda usano la sera.
+Fuori dalla porta della baracca ci sono due guardie,  due  loschi  individui
+armati di spada e pistola a dardi (usano i  dati  dei  Bravi).  La  porta  è
+chiusa e uno di loro ha la chiave.
+Dentro la baracca ci sono delle persone e un costrutto, intenti  a  caricare
+delle casse su una barca ormeggiata al  molo.  Sulla  barca  si  vede  anche
+Telesius, che sta parlando con un uomo calvo vestito di nero (Sharky).
+Ci sono 3 Bravi, più il costrutto e Sharky. Telesius ordina al  costrutto  e
+agli uomini di attaccare i PG e si accinge a  partire  in  fretta  e  furia.
+Sharky spara dei dardi dalla barca e protegge Telesius da eventuale corpo  a
+corpo ma poi scappa sulla barca assieme a lui.
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Bravi           |4°  |M   |70 |9(20)     |80Sword/80Dart              |+8  |
+|Costrutto       |10° |La# |300|20(10)    |120Mor(x2)                  |+0  |
+|Sharky          |8°  |M   |120|13(20)    |110Man/110DartS             |+6  |
+|Doppleganger    |6°  |M@  |80 |4(40)     |100Dag/70DartP              |+12 |
+

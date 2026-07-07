@@ -1,0 +1,264 @@
+
+ATTO II
+
+
+NAVI: nano Nim ⋄ un uomo di nome Keveth lavora al porto, un giorno  sparisce
+dalla circolazione di solito sborone la notte prima di sparire  parla  poco,
+ma si lascia sfuggire di aver fatto un affare che lo sistema  per  la  vita.
+Pochi giorni dopo, l’incidente con Vallanya.
+Ulteriori indagini su Keveth possono essere fatte anche ad  Armora  con  una
+manovra Conoscenza Malavita/ Contattare  Molto  Difficile  [-20],  si  hanno
+notizie di un uomo proveniente da Calis con lo stesso nome,  che  pagava  in
+sonante oro nanico. Pare abbia abbandonato  la  città  per  dirigersi  verso
+Nordovest (insediamento di Lidya).
+
+AGGUATO NINJA
+
+
+
+BELENGARD/BIBLIO
+Permesso  di  consultare  biblioteca,  per  tomi  particolari   chiedere   a
+Valentine. Può rilasciare permessi magici di livello B dietro richiesta.
+Al momento Belengard è impegnato in  numerose  questioni,  come  l’invio  di
+maghi di supporto al nord,  trattative  diplomatiche  e  prendere  parte  ai
+consigli del Duca.
+Non sembra convinto del fatto che l’ombra possa essere Sigurd,  dice  che  è
+stato ricercato a lungo anche dalla Fratellanza senza alcun successo.  Certo
+è vissuto abbastanza per dare vita a  Isidoro  ma  Belengard  dice  di  aver
+motivo di credere che Sigurd non sia sopravvissuto in tutto questo tempo.
+Se gli parlano della  staffa  dice  che  il  motivo  è  proprio  quella:  si
+trattava di un oggetto che consumava il suo possessore,  che  è  felice  sia
+andato perduto… Sigurd non può essere sopravvissuto così a lungo con  quella
+staffa e le prove portate dai PG gli paiono un po’ inconsistenti.  Consiglia
+di  raccogliere  altre  informazioni  prima  di  fare  ipotesi   affrettate.
+Potrebbe  anche  rivelare  ai  membri  dell’Accademia   il   contenuto   del
+sottosuolo, che però è top secret.
+
+LIBRO STREGONI NERI
+
+Tiro di Osservazione (Ricerca) per accorgersi di:
+
+      Annotazione strana:
+      Litanie: pag 26: 5,13,9
+      A.I.: pag 134: 1,32,7
+
+Analizzando i testi in  questione  (Litanie  x  il  Grande  Agothu  e  Anime
+Inquiete), i riferimenti sono  le  parole  corrispondenti  al  numero  nelle
+pagine indicate (da leggere alternate), ovvero:
+
+Antica Necropoli Dentro Tomba Conte Veyrr
+
+2000px a chi risolve…
+
+Procurarsi gli Litanie x il Grande Agothu, però non  è  impresa  facile:  si
+tratta di un libro bandito e dalla fama sinistra. Una copia è  tenuta  nella
+Biblioteca di Armora, ma ci  vogliono  dei  permessi  speciali  per  poterla
+visionare (difficile convincere Belengard a  darli).  Altrimenti,  un  altro
+modo per entrarne in possesso è il  mercato  nero  dei  libri.  Per  trovare
+qualcuno in possesso del libro (e desideroso di venderlo) serve una  manovra
+Estremamente  Difficile  [-30]  di  Contattare,  oppure   una   Estremamente
+Difficile di Commerciare, o di Conoscenza Malavita.
+Korak Garth,  un  necromante  scampato  alla  recente  persecuzione  sarebbe
+disposto a vendere tale libro (soprattutto per  sbarazzarsene)  alla  modica
+cifra di 50mo (non meno di 20mo, comunque). Fisserà un  appuntamento  in  un
+luogo drammatico, tipo il cimitero a mezzanotte  (anche  per  poter  evocare
+aiuto).
+Korak ha una Staffa di Wounding III  (con 35 cariche); un Amuleto  di  Ferro
+(Addizionatore +2), 35ma (rubate ai morti) e una  pergamena  di  Oscurità  X
+(Essenza Malvagia). Oltre agli inni ha altr 3  libri  che  è  interessato  a
+vendere:
+      - Offuscare la Luce (lista “Darkness” Essenza Malvagia) 50mo
+      - Tomo della Stolidità Vermiglia (-1d5 San) 25mo
+      - Storie di Ardente Passione (Lancia “Analyze Individual” dalla lista
+        delle Houri una volta al giorno) 30mo
+      - Litanie per il Grande Agothu (+10 Conoscenza Demoni, +5  per  Patti
+        Demoniaci) 50mo
+
+
+Prima dell’appuntamento si è già  castato  “Enchanted  Robes”  per  cui  può
+ancora lanciarsi “Blur” e “Shield” quando arrivano i PG, portando il suo  BD
+ad un massimo di 55 (senza contare Deflections).
+In ogni caso arriva scortato da 2 Guardie del  corpo  dall’aspetto  cencioso
+ma pericoloso. Se le cose si mettono  male  cerca  di  evocare  uno  Spettro
+Minore.
+
+      - Spettro: la vista procura Orrore (TR 110), il  tocco  risucchia  10
+        punti Co (TR130)
+      - Korak, Liste: Necromancy (24rnk; 35bns) ; Undead Summoning  (15rnk;
+        26bns); Undeath Law (20rnk; 31bns); Death Mastery  (15rnk;  26bns);
+        Shield Mastery(10rnk; 21bns). TR: Mente:60 , Corpo:22 , Spirito:80
+
+ROVINE
+Le entrate  conosciute  alle  rovine  sono  ben  sorvegliate:  ogni  entrata
+diretta o dalle fogne al primo livello delle rovine è stata murata  e  sopra
+è stato inciso un simbolo di Paura (livello 20°), TR:  130.  Se  il  simbolo
+viene cancellato o sorpassato  scatta  un  allarme  sonoro.  I  livelli  più
+interni sono sempre più sorvegliati, da costrutti, Sentinelle e  custodi  in
+carne ed ossa.
+
+
+Attacchi Sentinella:  1) Confusion 2)  Fear  3)  Mind  Break  (Mind  Control
+mentalista) su fino a 10 persone x volta.
+
+TR (entrambi): Corpo 85/ Mente 140/ Spirito 85
+
+FOGNE
+Le Fogne sono il rifugio di numerose creature deformi, oltre che il covo  di
+alcuni malintenzionati e accattoni. Uno dei maggiori pericoli  delle  fogne,
+però, sono le malattie…
+Inoltre, anche le entrate dalle fogne alle rovine sono state  sigillate.  Se
+si interrogano i “locali” si può venire a sapere che di  recente  c’è  stato
+un piccolo periodo in cui c’è stato un gran via vai di guardie (subito  dopo
+la scoperta delle rovine), che poi se ne sono andate.
+
+
+TR
+      - Ratto: Corpo 40/ Mente 30/ Spirito 30
+      - Zanzara: Corpo 35/ Mente 20/ Spirito 30
+      - Malvivente: Corpo 75/ Mente 50/ Spirito 50
+
+
+GALLARD & CO
+L’ex locandiere Gallard è rimasto gravemente ferito dall’esplosione, ma  non
+è  morto.  Si  è  fatto  trasformare  in  un  amalgama  vivente  per   poter
+vendicarsi. Ha anche radunato  attorno  a  sé  un  gruppo  di  malviventi  e
+assassini prezzolati con i quali ha costituito una  banda  pronta  a  tutto…
+tutto per vendicarsi dei due nani!
+
+
+TR:
+      - Gallard: Corpo 85/ Mente 75/ Spirito 75
+      - Assassino: Corpo 75/ Mente 50/ Spirito 50
+
+NECROPOLI
+La Necropoli è situata  proprio  dietro  il  Tempio  di  Mithra,  dentro  il
+camposanto. Il cimitero è  circondato  da  mura  alte  5m  e  alla  sera  il
+cancello viene chiuso a chiave (-20). La zona in cui si trova  è  abbastanza
+buona quindi è relativamente  facile  incappare  in  una  ronda  di  guardia
+(anche di notte). Di giorno l’accesso alla necropoli è precluso  a  chi  non
+ha parenti al suo interno (per evitare tombaroli, maniaci e necromanti).
+Come ultima misura di sicurezza ci sono  i  Gargoyle:  sono  in  due,  posti
+sopra l’entrata della Necropoli. Sono  dotati  di  ottimi  sensi  e  possono
+vedere l’invisibile, la loro priorità è quella di emettere un urlo  acuto  e
+stridulo, per dare l’allarme,  poi  partono  all’attacco  degli  intrusi  se
+questi non si allontanano in fretta.
+Se si controllano i registri del tempio  si  vede  che  effettivamente  essa
+contiene una tomba intestata ad  un  Conte  Veyrr  (ignoto),  che  fu  fatta
+costruire circa 40anni  fa  da  un  anonimo  benefattore  (probabilmente  si
+tratta di un caduto della Guerra dei Principi, ora la necropoli non  si  usa
+più se non per la tomba Ducale).
+
+
+TR:
+      - Gargoyle:  Corpo 90/ Mente 75/ Spirito 75
+      - Guardie: Corpo 75/ Mente 50/ Spirito 50
+
+
+
+TOMBA DI VEYRR
+Se dunque i PG riescono ad infilarsi nella necropoli  dopo  qualche  ricerca
+nelle cupe sale della necropoli arrivano di fronte alla Tomba di Veyrr.
+Si tratta di una grossa lastra di metallo (bronzo?), incassata nella  parete
+con incise solo due scritte: Conte Veyrr, in grosse lettere  dorate.  Sotto,
+più piccolo c’è scritto: “La Luce ti guidi innanzi, oltre  l’ultima  porta”.
+Se viene lanciato un incantesimo diretto della luce sulla lastra  si  aziona
+un  meccanismo  che  fa  aprire  una  piccola  porta  segreta,  che  conduce
+all’interno della tomba.
+
+L’Ifrit all’interno attacca chiunque non è accompagnato da Sigurd (o  da  un
+suo soulclone), se no scompare, ha finito il suo compito.
+
+Dentro:
+      - 100mo
+      - Documenti sulla scoperta della Runa del Potere e sulla  Guerra  dei
+        Principi
+      - Guanti Colorati
+      - Mantello Nero
+
+
+GUANTI DEL BUON AUGURIO DI GWYNDER: un paio di guanti di una  strana  stoffa
+dorata, con dei quadrifogli ricamati sul dorso della mano.
+POTERI: permette di ritirare tutti i tiri verso  l’alto  con  un  numero  in
+meno, riducono di 1 tutti i fumble delle armi impugnate (minimo  di  1),  5%
+di ignorare colpi critici alle mani.
+
+MANTONERO: non si tratta di un vero e proprio mantello, bensì di  un  essere
+vivente simbiotico semi intelligente  che  protegge  istintivamente  il  suo
+portatore. Emana un lieve tepore al tocco.
+POTERI: +10 al BD e un +10 addizionale ai TR contro il Freddo.
+
+
+
+Ombra degli Stregoni Neri:
+Un Wraith creato dagli Stregoni Neri  e  da  loro  controllato  a  distanza.
+Appare come una forma d’ombra, avvolta in un mantello  nero,  che  regge  un
+bastone d’ebano.
+      • Lo Sguardo dell’Ombra, fisso su una persona, Paralizza il bersaglio
+        se esso fallisce un TR Spirito a difficoltà 115.
+      • Con la sola presenza, l’Ombra può incutere Paura in un raggio di 9m
+        a chi fallisce un TR Spirito 115.
+      • A volontà, l’Ombra può attivare un’Aurea di Gelo, che  infligge  un
+        colpo critico “B” al round da Gelo.
+      • A sua scelta il tocco del suo bastone  d’ombra  può  infliggere  un
+        colpo critico addizionale da Freddo o sottrarre 20 punti Co  a  chi
+        fallisce un TR Corpo (120).
+      • Una volta al giorno può chiamare in suo aiuto 3 Orrori Notturni.
+
+Liste (150PM):
+      - Dark Mastery (rnk15;bns35)
+      - Light Mastery (rnk15; bns35)
+      - Light Law (rnk15; bns35)
+      - Darkness (rnk15; bns35)
+      - Shield Mastery (rnk15rnk; bns35)
+      - Spirit Mastery (rnk15; bns35)
+
+
+ORIENTAL
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Tatsu           |7°  |#   |135|17(30)    |130Flail                   |+8  |
+|Oyu             |7°  |M   |135|9(35)     |100Sword(2x)/60StBr        |+12 |
+
+
+
+
+-----------------------
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Kagemaru, Ninja |10° |M   |168|1(104)    |100ma/10shu                 |+16 |
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Guardia del     |5°  |M   |90 |9(20)     |90Swrd                      |+8  |
+|Corpo           |    |    |   |          |                            |    |
+|Korak Garth     |8°  |M   |60 |2(20*)    |30Qtsff/Spells              |+10 |
+|Spettro Minore  |10° |La# |200|1(75)     |50LBolt                     |+12 |
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Sentinella      |10° |La# |300|20(0)     |speciale                    |+16 |
+|Costrutto       |10° |La# |300|20(10)    |120Mor(x2)                  |+0  |
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Ratto Mutante   |3°  |M   |45 |3(40)     |50SBi                       |+8  |
+|Zanzara Gigante |1°  |M   |8  |1(50)     |10TiSt + drain 1d10hp       |+12 |
+|Malvivente      |5°  |M   |90 |9(20)     |90Swrd                      |+8  |
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Gallard,        |10° |M#  |125|9(30)     |90SBa/135Xbow               |+8  |
+|ex-locandiere   |    |    |   |          |                            |    |
+|Assassino       |5°  |M   |90 |9(20)     |120Swrd                     |+8  |
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Gargoyle di     |5°  |M#  |80 |16(35)    |60LCl                       |+12 |
+|Pietra          |    |    |   |          |                            |    |
+|Guardie         |6°  |M   |100|17(20)    |120Spe                      |+8  |
+|Cittadine       |    |    |   |          |                            |    |
+|Capitano delle  |8°  |M   |130|17(30)    |140We                       |+8  |
+|Guardie         |    |    |   |          |                            |    |
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Ifrit           |15° |I   |150|4(60)     |130MA                       |+16 |
+|Ombra degli     |15° |La# |165|1(50)     |100Staff[Cold]/Spells/70LBol|+12 |
+|Stregoni        |    |    |   |          |t                           |    |
+|Orrore Notturno |6°  |M   |100|3(30)     |80MCl/70MStin+poison        |+8  |
+
+

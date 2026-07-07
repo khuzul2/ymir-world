@@ -1,0 +1,823 @@
+
+                                     II
+                               VENTI DI GUERRA
+
+
+
+Capitolo I: Nortislong
+
+Dopo  la  distruzione  dell’Occhio  a  Nortislong  si  respira  un’aria  più
+tranquilla. Nonostante ci  sia  sempre  un  po’  di  preoccupazione  per  la
+guerra, gli animi sembrano più sollevati e la città meno cupa.
+
+FRAMMENTO DELL’OCCHIO: il  Frammento  dell’Occhio  di  Kzorr  conferisce  un
+bonus di +10 a tutte le abilità nella categoria Autodisciplina.
+
+SPIE: la morte di Vorgath è stata imputata a spie  provenienti  dal  sud.  I
+Geidmund useranno questo fatto  per  il  proprio  tornaconto  e  Brennan  si
+dichiarerà davanti alla popolazione Legittimo Re del nord. I  PG  dovrebbero
+essere in grado di giocare a loro favore  queste  credenze  e  rientrare  in
+città senza problemi. Tuttavia, se dovesse andar male, è possibile che i  PG
+stessi siano accusati di spionaggio.
+
+LUOGHI  DI  INTERESSE:  restando  in  città  i  luoghi   che   probabilmente
+susciteranno più l’interesse dei PG sono:
+    • Caserma: qui  dormono  i  soldati  e  si  trovano  le  fucine  per  la
+      produzione di armi. Il generale dell’esercito è Gaddvar, un  guerriero
+      veterano dall’aria dura.
+      I Ranghi dell’esercito sono:
+      Generale
+      Luogotenente
+      Maggiore
+      Colonnello
+      Capitano
+      Sergente Maggiore
+      Sergente
+      Veterano
+      Soldato Semplice
+      È ovviamente possibile essere promossi di rango con azioni  meritevoli
+      o  andare  incontro  a  retrocessioni.  Il  Generale  deve  rispondere
+      praticamente solo al capo dello stato.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Soldato medio   |2°  |M   |60 |13(30s)   |60Sp/40BrSw                 |+4  |
+|Capitano        |5°  |M   |90 |13(35s)   |110Sp/90BrSw                |+6  |
+|Gaddvar         |10° |M   |114|14(45s)   |146BrSw/110LBw              |+10 |
+
+    • Holund l’Ospitaliere: è la persona a cui rivolgersi nel caso in cui  i
+      PG abbiano bisogno di cure immediate. Dispone di un vasto erbario ed è
+      un medico abbastanza abile. Oltre alle normali erbe del  manuale  base
+      dispone delle seguenti:
+          Menelar      Cone/brew                 35  gp             Level  7
+                                                 antidote  for   Circulatory
+                                                 Poisons.
+      Mook  Berry/ingest    15 gp       Level  3  antidote  for  Respiratory
+                                                 Poisons.
+      Quilmufur  Root/brew  25 gp            Level 8 antidote for Conversion
+                                                 Poisons.
+      Shen  Leaf/ingest     12 gp             Level  4  antidote  for  Nerve
+                                                 Poisons.
+      Arkasu     Sap/apply  12 gp      Doubles rate  of  healing  for  major
+                                                 wounds. Heals 2-12 hits.
+      E' anche disposto a vendere sottobanco qualche veleno (vedi  manuale).
+
+      Per ferite molto gravi o mali di origine magica, però, dirà  di  poter
+fare ben poco e invierà
+      I PG al tempio.
+    • Tempio: si trova nel centro cittadino, è un  tempio  abbastanza  ampio
+      dedicato all'intero pantheon. I suoi adepti sono chierici  generici  e
+      guaritori. Solitamente i loro servigi sono aperti a chiunque  e  hanno
+      un prezzo contenuto (sotto forma di donazione agli dei).
+      Prezzo suggerito per incantesimo lanciato: 1mo per livello
+    • Taverne e Locande: Anche  se  la  locanda  di  Bran  e  Tod  è  andata
+      distrutta in città ne rimangono  molte  altre  (nomi  di  locanda:  La
+      Lancia e la Ruota;  Al  Vecchio  Pugnale;  Al  Lupo  Felice;  L’Ospite
+      Volenteroso). I prezzi delle  locande  sono  standard  ma  quelle  più
+      malfamate (con trattamento peggiore) costano la metà (5%  di  malattia
+      minimo).
+    • Biblioteca: in città c’è anche una  biblioteca  di  medie  dimensioni,
+      alla quale è consentito  l’accesso  per  la  consultazione  di  alcuni
+      volumi (occorrono permessi speciali per prendere visione di quelli più
+      preziosi).
+
+AGGUATO: alla prima sera possibile  Amaru  viene  avvicinato  da  una  donna
+molto bella che prova a sedurlo per poi aggredirlo mentre è  impreparato  in
+camera da letto. La stessa sera o qualche giorno dopo, uno  dei  commilitoni
+di Ilidan cerca di assassinarlo.  Entrambe  gli  assassini  sono  armati  di
+pugnali di fattura elfica (del Gaerwath).
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Assassino       |3°  |M   |50 |1(20)     |70Dag                       |+6  |
+
+
+NB: se riescono a prendere di sorpresa la vittima hanno 4 ranghi di Ambush.
+
+RESTARE  NELL’ESERCITO:  se  i  PG  decidono  di  rimanere   a   far   parte
+dell’esercito e non scappano, dopo circa una settimana o dopo  che  si  sono
+ristabiliti (il periodo  minore),  la  loro  truppa  viene  scelta  per  una
+missione di ricognizione ai confini della Foresta  d’Inverno,  in  un  paese
+chiamato Invermore. Qui era stanziata una  piccola  forza  militare  con  lo
+scopo di pattugliare i confini, dalla quale non  si  hanno  più  notizie  da
+tempo. Lo scopo della missione è scoprire cosa è successo a  questi  uomini.
+La ricompensa è di 5ma a settimana.
+
+LA MAPPA: la mappa  che  hanno  trovato  segna  la  locazione  di  un  luogo
+chiamato Rocca di Kellar. Kellar era un nano,  un  fabbro  e  alchimista  di
+grande abilità, molto famoso per le  sue  creazioni  e  per  la  sua  grande
+ricchezza. Egli era però anche molto avaro, tanto che, prima di  morire,  si
+costruì una fortezza in una locazione sconosciuta,  dove  nascose  tutte  le
+sue ricchezze.  Per  accedere  a  queste  informazioni  basta  un  tiro  ben
+riuscito su Conoscenza Cultura dei Nani o su Storia (Monti Aestyr). È  anche
+possibile trovare queste informazioni in biblioteca.
+
+RECUPERARE L’OCCHIO: L’Occhio di Kzorr, ora libero  dalla   sua  maledizione
+che lo legava al piano/ prigione di Zarak, è ancora in possesso  di  Sarina.
+La nobildonna lo usa per costruire le  proprie  strategie  nella  guerra  in
+corso e anticipare  le  mosse  dei  suoi  avversari.  Si  tiene  in  stretto
+contatto con gli agenti di Morannagul, suo  alleato  in  questa  guerra.  In
+realtà l’occhio, con la maledizione ha perso  anche  tutti  i  suoi  poteri,
+Sarina è infatti stata ingannata da Morannagul.
+Per impadronirsi  dell’Occhio  occorrerebbe  intrufolarsi  nel  castello  di
+Nortislong fino alle camere riservate di Sarina. Purtroppo per i  PG  queste
+camere sono  ben  sorvegliate  ,  anche  con  la  magia  ed  è  estremamente
+difficile riuscire ad avvicinarcisi senza un permesso speciale.
+In compenso i PG possono venire in possesso  di  informazioni  interessanti.
+Prima di tutto si accorgeranno presto che nel castello  girano  molti  maghi
+dell’Accademia dei Criomanti, poi, se fanno le domande giuste  alle  persone
+giuste, che la stessa Sarina ha  studiato  all’Accademia  per  cinque  anni.
+Infine  dovrebbero  venire  a  sapere  (questo  è  abbastanza  facile)   che
+l’accesso alle camere di Sarina è concesso solo ai suoi agenti più fidati  e
+ai più alti gradi dell’esercito.
+Sarina ha una Dragonette (del Gelo) di nome Taelerys come famiglio,  i  suoi
+sensi iper sviluppati rendono la bestiola incredibilmente  adatta  al  ruolo
+di guardia delle sue stanze.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Criomante       |5°  |M   |45 |1(15*)    |75Ds/30Dag/spells           |+10 |
+|(medio)         |    |    |   |          |                            |    |
+|Taelerys        |5°  |M   |80 |12(60)    |50Sbi/40SCl/30Ibr/spells    |+12 |
+|Servitore       |1°  |M   |30 |1(10)     |15Melee                     |+4  |
+
+Per i dati delle guardie del castello vedi quelli dei soldati.
+
+NOMI CASUALI:
+Maschili: Thorod, Elrod, Vitrid, Hrongeir, Olmungg, Hagmaer, Geidrid,  Sven,
+Hafgrid…
+Femminli: Snora, Arni, Sylja, Thaena, Edrid…
+
+
+Capitolo II: In Viaggio
+
+Sia che i PG si dirigano con l’esercito verso Invermore che  procedano  alla
+volta della Rocca di Kellar o che seguano la pista che li  porta  a  Harbor,
+dovranno prima oltrepassare il territorio che separa  la  Foresta  d’Inverno
+dalla  città  di  Nortislong.  Si  tratta  di  un  terreno   in   prevalenza
+pianeggiante ma interrotto spesso da zone collinari o da piccoli  boschetti.
+Seguendo la strada maestra è probabile incappare  in  villaggi  e  paesi  di
+modeste dimensioni o in stazioni di posta dove  i  viandanti  si  fermano  a
+riposare. Attraversando queste terre selvagge non è difficile fare  incontri
+con belve o altri esseri. Esiste anche la possibilità di  incappare  in  una
+tormenta durante il viaggio che può rallentare il cammino  o  causare  danni
+da gelo a chi insiste a procedere.
+
+EVENTI:
+    • Incontro con i troll: dopo qualche giorno di viaggio, una sera,  i  PG
+      avvistano la luce di un fuoco da campo in mezzo a un gruppo di alberi.
+      Se sono nell’esercito verranno mandati in ricognizione, altrimenti  il
+      fuoco è molto vicino alla zona scelta da loro  come  accampamento.  Il
+      fuoco appartiene a un gruppo di 3 troll che  stanno  arrostendo  della
+      carne. Accanto a loro sono visibili due grossi sacchi pieni. (Se i  PG
+      non badano al fuoco e  si  accampano  senza  controllare  i  troll  li
+      avvistano e scendono dalla loro postazione per  divorarli).  I  sacchi
+      contengono 300 MB, 120 MA e 18 MO, oltre ai soldi dentro c’è una spada
+      (Tessionde, una lama elementale minore dell’acqua, è una spada  magica
+      +15,  infligge  colpi  critici  “Sacri”  ai  non  morti),   5   Frecce
+      Sanguinarie (+10, se colpiscono il bersaglio deve fare un TR contro il
+      20°  livello  o  perdere  5pf/rnd)   e   un   Bracciale   del   Fedele
+      (moltiplicatore x2 PM del Flusso).
+    • La Bestia di Gelo: un’altra sera l’accampamento dei PG (sia che  siano
+      con l’esercito o da soli) viene attaccato da una Bestia  di  Gelo  che
+      usa il proprio colore per mimetizzarsi nella  neve  (tiro  di  Allerta
+      “Molto Difficile” (-20) per non essere sorpresi.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Serpente Peloso |4°  |M   |85 |8(20)     |50Mbi(poison)               |+8  |
+|G.              |    |    |   |          |                            |    |
+|Darkhunter      |7°  |M   |150|3(30)     |125LPi                      |+8  |
+|Cinghiale       |5°  |I   |180|4(20)     |80Lho+70La                  |+8  |
+|Gigante         |    |    |   |          |                            |    |
+|Troll di Pietra |7°  |La  |150|11(15)    |80Lba/65LCl/60ro            |+0  |
+|Bestia di Gelo  |8°  |La@ |120|1(80)     |80Lbi[Cold]/ 90LCl[Cold]    |+8  |
+
+Note: I Darkhunter   agiscono  in  gruppi  di  1d10  individui  e,  se  sono
+affamati, attaccano anche gruppi molto numerosi. Il Serpente, il Chatmoig  e
+il Cinghiale agiscono da soli e raramente attaccano folti gruppi  di  uomini
+armati. La Bestia di Gelo subisce il doppio dei danni da attacchi da  fuoco,
+agisce solo di notte e spesso attacca anche accampamenti di gruppi  numerosi
+e ben armati perché ha ben poco da temere.
+
+
+Capitolo III: Verso la Rocca di Kellar
+
+Dopo giorni di viaggio attraverso la marca di Nortislong i PG giungono  alle
+pendici dei Monti Aestyr, al villaggio di Fireforge. Qui  possono  riposarsi
+e fare gli ultimi preparativi per  la  scalata.  Per  giungere  alla  Rocca,
+infatti,  è  necessario   attraversare   il   Passo   Skutnik,   considerato
+praticamente invalicabile d’inverno dagli  abitanti  del  villaggio.  Quella
+zona dei monti, avviseranno, è popolata da pericolose creature.
+Il Passo è a tre giorni di cammino dal villaggio, la strada è troppo  ripida
+per salire a cavallo ma è possibile salire conducendo le bestie a mano.
+GIORNO  I:  per  la  prima  giornata  i  PG  non  incontreranno  particolari
+difficoltà, a parte quella di trovare un rifugio per la notte. I Monti  sono
+infestati  dalle  belve  selvatiche  ed  è  probabile  che  il  campo  venga
+attaccato dai Chatmoig, i leoni di montagna dai denti a sciabola.
+GIORNO II: durante il secondo giorno si scatenerà una violenta  tempesta  di
+neve che renderà difficile l’avanzata e costringerà tutti i  PG  a  un  test
+contro il congelamento. Inoltre, se i PG non trovano un rifugio e  insistono
+nel procedere devono fare una manovra di Orientamento “Molto  Difficile”  (-
+20) altrimenti rischiano di perdersi o peggio, di cadere  in  un  crepaccio.
+Durante la tempesta, fra l’altro, i PG incapperanno in un  gruppo  di  troll
+del gelo, scesi a caccia. Il gruppo incontrato consta  di  3  individui,  ma
+essi fanno parte di un clan formato da 7 troll adulti, 2 piccoli e un  capo.
+Il gruppo iniziale scapperà  se  perde  2/3  del  totale  ma  il  superstite
+tornerà con  rinforzi  durante  la  notte.  Alternativamente  i  PG  possono
+inseguire i troll fino alla loro  tana  e  lì  ingaggiare  un  combattimento
+all’ultimo individuo.
+Nella tana i troll custodiscono un tesoro di 500 MB, 300 MA e  100MO,  hanno
+anche molte provviste di carne  congelata,  un  paio  di  scudi,  e  qualche
+armatura normale. Il capo combatte con un’ascia magica +10  delle  Malefiche
+Evocazioni, fra le altre cose si trova  un  Mantello  Elfico  (probabilmente
+appartenuto a qualche vittima), +20 a muoversi silenziosamente/  nascondersi
+e Displacement I costante e  una  bacchetta  di  Major  Fracture  Repair  (8
+cariche).
+GIORNO III E IV: durante questi giorni i PG dovrebbero  arrivare  al  passo.
+L’ultima parte prima di giungere al passo è una ripida parete ghiacciata  di
+circa 15  metri,  dato  che  la  strada  è  resa  inagibile  dalla  neve.  È
+necessaria   una   manovra   di   Arrampicarsi   “Estremamente    Difficile”
+(“Difficile” se si ha il giusto equipaggiamento  per  raggiungere  il  Passo
+Skutnik.
+Lo troveranno bloccato da un gigante che si diverte a lanciare  rocce  nella
+valle  sottostante,dovranno  convincerlo  ad  andarsene  o   ucciderlo   per
+passare.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Chatmoig        |5°  |M   |140|4(30)     |75LCl/100Lbi                |+12 |
+|Gigante         |12° |LA  |250|8(20)     |80Cl(3D)/70LGr+100HCr/70ro  |+4  |
+|Troll del gelo  |13° |LA  |200|11(30)    |105HCl/80Hba/80ro           |+0  |
+|Giovane Troll   |7°  |LA  |128|11(20)    |75LCl/50Lba                 |+4  |
+|Troll capo      |16° |La@ |250|11(30)    |120HCl/95Hba/95ro/100Bax    |+0  |
+
+
+
+Capitolo IV: la Valle Sulfurea
+
+Oltre al passo si intravede uno stretto sentiero che  scende  in  una  valle
+coperta da nubi di vapore. Man mano che scendono i PG  avvertono  il  calore
+sempre crescente fino a che,  giunti  sul  fondo  della  valle,  si  ha  una
+temperatura intorno ai 35° costante. Questo calore è  dovuto  alle  sorgenti
+sulfuree calde che scorrono sotto terra e sboccano qua e la dando  luogo  ad
+alcuni geyser e laghi bollenti.
+PRIMITIVI: la valle è abitata da una tribù di nani degenerati e barbarici.
+SALAMANDRA: a guardia dell’entrata della Rocca, in un lago  di  zolfo,  vive
+una salamandra.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Nano primitivo  |3°  |M   |50 |8(35s)    |60melee/30Thrown            |+0  |
+|Salamandra      |15° |LA  |325|12(40)    |85Lbi/95LCl/75Lba/50Fball*  |+12 |
+
+
+
+Capitolo V: la Rocca di Kellar
+
+TRAPPOLE:
+   1. Botola: un attacco +20 da Caduta più 1d4 colpi critici “B” da punta.
+   2. Pietre rotolanti: 1d6 di attacchi +60 da Crush.
+   3. Botola con palo: 1 attacco da Lancia +80.
+   4. Dardi: 1d10 attacchi +50 da Balestra Leggera.
+BIBLIOTECA: Libri con Geomanzia fino al 10° livello, un libro  “Encyclopedia
+Arcanorum: Golem”;  Libro/ scatola con chiave per  la  forgia  (protetto  da
+una runa di Dimenticanza); molti libri e trattati sull’alchimia,  una  copia
+de “Tesi sulla Natura dei Piani Inferiori”.
+FORGIA: chiunque entri senza chiave attiva  un  cubo  di  fiamme  al  centro
+della stanza che infligge un colpo  critico  “C”  da  calore  al  round.  La
+forgia è considerato un oggetto magico “+20” per la creazione di oggetti  se
+viene utilizzata da un nano (altrimenti  è  +10).  Contiene  dei  guanti  di
+pelle di drago (+20 a “Forgiare”, proteggono dal calore  della  forgia,  +20
+ai TR contro il calore).
+LABORATORIO: è possibile accedervi solo infilando  una  mano  con  i  guanti
+della forgia nella fessura della porta. Solo da qui è possibile accedere  al
+corridoio per l’armeria. Questa stanza è occupata  da  alambicchi  e  strani
+utensili. C’è una gabbia appesa alla parete che  contiene  le  ossa  di  uno
+strano animale. Su un tavolo c’è una  piccola  sfera  coperta  di  rune  (se
+lanciata esplode causando cecità momentanea a chi fallisce un TR  contro  il
+5° livello). Ci sono molte  bottiglie  che  contengono  animaletti  o  parti
+anatomiche (alcune funzionanti). Due fiale viola  (due  pozioni  che  curano
+3d10 PF) e una bacchetta di Delving (12 cariche).
+ARMERIA: sulla prima porta è scritto: “Di certo non vi manca,  se  troverete
+la chiave per  entrare  nella  stanza”.  La  risposta  è  “Intelligenza”  (o
+simili), se l’indovinello è risolto la porta si apre per lasciar  passare  e
+poi si richiude.
+La seconda porta può attivare una trappola, se la maniglia  viene  girata  o
+se si cerca di scassinarla la trappola si attiva. Il pavimento  gira  su  un
+perno e si rovescia scaraventando i PG in una fossa e  richiudendosi.  È  un
+attacco +60 da caduta (“Large”), la  fossa  è  profonda  20  metri,  le  sue
+pareti sono lisce e il soffitto è “Folle” da  riaprire.  Inoltre,  la  fossa
+contiene un paio di golem messi lì per finire chi ci cade dentro.
+L’armeria, fra le altre cose, contiene 100000 MO in lingotti d’oro e:
+SCETTRO DEI SOSPIRI: un bastone di ferro  nero,  sormontato  da  un  teschio
+incoronato,  ricoperto  di  metallo  e  fuso  insieme  al  bastone  dal  suo
+creatore. Il teschio ha la bocca aperta in un silenzioso  (e  interminabile)
+grido di agonia. Un’aura di disperazione attornia  chiunque  impugni  questo
+scettro nefasto.
+POTERI: lo scettro può essere utilizzato come un bastone +15  magico,  è  un
+moltiplicatore x3 di PM per gli usufruitori del  Flusso  Malvagi  o  Caotici
+(x4 per quelli Caotici Malvagi). Tutti gli incantesimi  che  influenzano  la
+mente lanciati dal portatore danno una penalità di –10 addizionale ai TR.  A
+volontà, il portatore può sviluppare un’Aura di Disperazione (I nemici di  5
+o meno livelli in meno del portatore devono fare  un  TR  a  –20  contro  il
+Flusso o fuggire in preda al panico, -10 a tutte le azioni dei nemici  entro
+il raggio dell’Aura) con un raggio di 3m.
+MORGENSTERN: questo  morning  star  fu  costruito  dal  nano  Kellar,  abile
+armaiolo e noto alchimista. Molti dicono che si  tratta  di  una  delle  sue
+opere meglio riuscite ed egli ne era  molto  orgoglioso.  Kellar,  tuttavia,
+oltre che per la sua bravura era noto anche per la sua avidità ed  avarizia,
+per cui pare che sull’arma gravi un’ombra di oscura  malizia.  Ha  l’aspetto
+di un morning star di mithril finemente lavorato, col  proprio  nome  inciso
+in rune nanesche sul manico.
+POTERI: Morning Star +20 in  Mithril,  “Uccisore”  di  Ladri.  Chi  prova  a
+rubarlo subisce un colpo critico  “E”  da  elettricità  (nota  che  prendere
+l’oggetto da un corpo morto NON è visto come rubare).  Per  qualche  motivo,
+sembra  che  una  parte  dello  spirito  del  suo   creatore   sia   rimasta
+nell’oggetto, chi lo utilizza diventa avido di ricchezze e geloso  dei  suoi
+averi (si tratta di un cambiamento progressivo).
+BRACCIALI DEL PREDATORE: questi bracciali di metallo scuro  hanno  l’aspetto
+di due ragni dagli occhi di rubino. Una volta indossati si  stringono  o  si
+allargano intorno al polso del portatore, finché non diventano della  giusta
+taglia (il portatore può essere piccolo come un  hobbit  o  grande  come  un
+troll).
+POTERI: i bracciali hanno diversi  poteri.  In  primo  luogo  consentono  di
+camminare su pareti e muri come un ragno.  Il  portatore  può  modificare  i
+critici che ottiene attaccando alle spalle come se avesse un  rango  in  più
+nell’abilità Ambush. I bracciali sono in grado di  produrre,  una  volta  al
+giorno, una dose di veleno (livello uguale  al  portatore)  direttamente  su
+un’arma  o  in   un   contenitore.   Sono   anche   capaci   di   trasferire
+istantaneamente,  dietro  comando,  una  dose  di  veleno  in  possesso  del
+portatore sulla sua arma.
+FORGIA SPECULARE: questo strano oggetto magico appare come  una  scatola  di
+ferro cubica di 50cm di angolo. Uno delle facce del cubo ha un  buco,  largo
+a sufficienza  per  far  passare  una  mano,  nel  quale  regna  un’oscurità
+impenetrabile. Nessuna luce o vista permette di vedere dentro il buco  e  se
+la scatola viene rotta ( cosa alquanto difficile) si rivela vuota e perde  i
+suoi poteri.
+POTERI: se qualcuno infila la mano nel buco ne estrae un’arma  del  tipo  in
+cui ha il maggior numero di ranghi. L’arma è magica e ha un bonus di +2  per
+livello del portatore (è  un’arma  evoluzionaria,  quindi  il  bonus  cambia
+quando il portatore cambia di livello). Una volta estratta  l’arma  mantiene
+la propria forma anche se cambia possessore, può però venire  rimessa  nella
+Forgia ed estratta nuovamente, cambiando tipo.  Solitamente  una  Forgia  di
+questo tipo può produrre una sola arma ma ci sono rare eccezioni.
+MORNLOSSE: Mornlosse (elfico = Neraneve) è una spada di squisita  fattura  e
+perfetto bilanciamento.  L’elsa  d’oro  è  impreziosita  da  lapislazzuli  e
+zaffiri ed ornata da motivi floreali. La lama di mithril pare, tuttavia,  in
+qualche modo strana e, infatti, ha dei riflessi scuri. Un  tempo  una  delle
+lame elementali, Mornlosse è stata contaminata dal male e il  suo  potere  è
+stato in parte corrotto.
+POTERI: spada lunga +20 di mithril, infligge un  colpo  critico  addizionale
+da Gelo della stessa gravità del  primo.  Infligge  colpi  critici  Uccisori
+contro esseri legati al fuoco e garantisce  un  bonus  di  +10  contro  tale
+elemento. È tuttavia inefficace contro esseri di gelo e impone una  penalità
+di –10 ai TR e al BD contro attacchi da gelo. In più, la  lama  permette  di
+rianimare qualsiasi umanoide ucciso da lei come  uno  Scheletro  Gelido,  le
+possibilità di controllare lo scheletro sono pari al 40% più il livello  del
+portatore meno il livello  della  vittima  (prima  di  morire),  fino  a  un
+massimo del 90%.
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Golem           |10° |La# |170|16(20)    |100Lba/60LGr + 150LCr       |+0  |
+|Minotauro       |10° |La@ |140|20(30)    |100Bax/80Mho/80ShBlt        |+8  |
+|costrutto       |    |    |   |          |                            |    |
+|Golem di Ferro  |15° |SL# |200|20(30)    |120Lba/70LGr+170LCr         |+0  |
+
+
+
+
+Capitolo VI: Costruire un esercito
+VILLAGGIO: il villaggio non è ben difeso (ci sono circa 100 abitanti) e  non
+è difficile sottometterne gli abitanti. NB: le armature e  le  armi  trovate
+nella Rocca bastano per 100 nani. Per averne di più  occorre  trovare  altro
+metallo e costruire una forgia più grande, quella della rocca basta per  una
+o due persone al massimo.
+
+GIGANTI: c’è  un  clan  di  Giganti  del  Gelo  nelle  vicinanze  (sono  una
+cinquantina) governati da un re chiamato Hildarf. Solitamente  prima  tirano
+le rocce su chi si avvicina al loro territorio e poi  domandano  chi   è  ma
+possono essere avvicinati, anche se con cautela.  Sono  interessati  all’oro
+ma anche al cibo. Cercheranno di sfruttare i PG in modo da ottenere da  loro
+il maggior numero di vantaggi possibili.  Fra  le  altre  cose,  per  unirsi
+all’esercito, chiederanno che i PG “sistemino” un drago che  causa  loro  di
+problemi (Gormungand).
+
+TROLL:  molti  troll  vivono  su  queste  montagne,  soprattutto  Troll  dei
+Ghiacci, delle Caverne e delle  Montagne.  Non  sono  facili  da  convincere
+perché la maggior parte di loro ragiona con lo stomaco.
+
+MEZZO VELOCE: sui monti nelle vicinanze sono presenti Bestie Alate,  Viverne
+e Grifoni, tutti ottimi mezzi SE addomesticati. Purtroppo addomesticare  una
+di queste bestie non è affatto semplice. Prima di tutto  occorre  catturarne
+una, poi servono numerosi tiri abilità o  l’aiuto  della  magia  per  averne
+ragione. È comunque un  processo  che  impiega  molto  tempo  (settimane  o,
+probabilmente, mesi) se non si ricorre a qualche incantesimo.
+
+TUNNEL: il tunnel è estremamente profondo e precede di molto le civiltà  che
+attualmente dominano Ymir. È popolato da varie creature  del  sottosuolo  ma
+la razza più interessante sono gli Omungus.
+OMUNGUS: Razza  di  umanoidi  dalle  fattezze  di  vermi.  Hanno  due  corti
+tentacoli al posto delle braccia, non hanno gambe,  sono  ricoperti  da  una
+pelle dura come cuoio, hanno una grande bocca bavosa  e  un  paio  di  occhi
+sfaccettati neri. Presumibilmente provengono  dal  Piano  Astrale  o  da  un
+altro Piano Materiale. Sono estremamente intelligenti e conoscono  tutte  le
+liste del Mentalismo fino al loro livello. Hanno 10 PM per livello.  Adorano
+un’entità conosciuta come il Grande Verme. Si nutrono di energia psichica  e
+magica. Concentrandosi possono sottrarre i PM ad un bersaglio  al  ritmo  di
+1d10+10 per round, oppure possono  consumare  una  “carica”  di  un  oggetto
+magico  giornaliero,  di  una  bacchetta  OPPURE  un  punto  di  Memoria   e
+Ragionamento temporanei. Non  sono  propriamente  belligeranti  ma  la  loro
+particolare dieta li rende pericolosi per le altre razze senzienti.  Passano
+la maggior parte del loro  tempo  in  speculazioni  filosofiche  o  ricerche
+magiche.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Troll Potenziato|15° |La# |300|20(50s)   |130Bx(2D)                   |+5  |
+|Gigante del Gelo|6°  |La  |350|11(40s)   |100Bx(3D)/60ro/spells       |+0  |
+|Gormungand      |30° |SL  |400|16(50)    |100Hbi/120HCl/100Hba/70Hho/9|+8  |
+|                |    |    |   |          |0FBr/Sp                     |    |
+|Bestia Alata    |12° |La  |240|11(40)    |80HCl/60Lba/90LBi           |+12 |
+|Viverna         |10° |La  |160|12(65)    |50LCl(2x)/90HSt+poison      |+12 |
+|Grifone         |8°  |La  |160|4(35)     |90LCl/60LCl+100MPi          |+12 |
+|Omungus         |8°  |M   |100|4(30)     |80Lbi/Spells                |+16 |
+|Troll dei       |13° |La  |200|11(30)    |105HCl/80Hba/80ro           |+0  |
+|Ghiacci         |    |    |   |          |                            |    |
+|Troll delle     |12° |La  |220|11(25)    |100HCl/80ro                 |+0  |
+|Caverne         |    |    |   |          |                            |    |
+|Troll delle     |10° |La@ |240|16(25)    |110We/100Lba/100ro          |+0  |
+|Montagne        |    |    |   |          |                            |    |
+|Wurm Caverne    |10° |LA  |160|12(20)    |90HGr/110Hho/120Lbi+H       |+6  |
+
+CAPITOLO VII: L’orda di Moga Khan
+Ai PG giunge notizia di un gruppo di 300 orchetti  tenuti  d’assedio  in  un
+paese vicino da una truppa di 500 uomini di Nortislong. Sanno anche che  gli
+orchetti sono un gruppo d’avanguardia di un’orda  proveniente  dal  nord  di
+circa 2000 orchetti. L’orda, tuttavia,  non  può  arrivare  in  tempo  e  il
+gruppo di orchi è  destinato  a  essere  sconfitto  a  meno  che  i  PG  non
+intervengano in loro aiuto.
+Può essere una buona  opportunità  per  farsi  nuovi  alleati  e  indebolire
+Nortislong. Hanno tempo un giorno per decidersi, poi sarà troppo tardi.
+Dopo aver sconfitto il contingente umano incontreranno Garduf, il  capo  del
+gruppo di orchetti, che proporrà loro  di  incontrare  Moga  Khan,  il  capo
+supremo dell’Orda, e farà loro da interprete.
+L’ORDA: l’Orda è composta da circa 2000 combattenti fra orchetti,  goblin  e
+qualche troll. È stata condotta a sud dalle Lande Gelate da Moga  Khan,  che
+ha radunato sotto di sé diverse tribù grazie al  potere  conferitogli  dalla
+sua ascia magica (The Breaker). Ogni tribù, tuttavia,  mantiene  il  proprio
+capo e per questo a volte ci sono delle discordanze.
+In particolare un orco di nome Lugduz si opporrà alle  proposte  dei  PG  di
+unire l’Orda al loro esercito.
+Insisterà perché affrontino una prova: la caccia al Ursikor.
+URSIKOR: l’Ursikor è un raro carnivoro che abita le gelide lande  del  nord.
+Appare  come  un  orso  colossale  con  spine  da  istrice   di   dimensioni
+proporzionate sulla schiena. Ha una pelliccia di colore  bluastro  e  grandi
+occhi dall’aspetto vetroso che gli permettono di vedere molto  distante  sia
+di giorno che di notte.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Soldato medio   |2°  |M   |60 |13(30s)   |60Sp/40BrSw                 |+4  |
+|Capitano        |5°  |M   |90 |13(35s)   |110Sp/90BrSw                |+6  |
+|Orchetto medio  |2°  |M   |50 |8(30s)    |50Fa/50LBw                  |+4  |
+|Garduf          |6°  |M   |90 |13(30s)   |90Fa/80LBw                  |+6  |
+|Lugduz          |10° |M   |140|15(30s)   |120Fa/100LBw                |+8  |
+|Moga Khan       |15° |M   |180|20(15)    |160Bx(spec)                 |+2  |
+|Ursikor         |25° |SL@ |400|12(40)    |150Hba/150HCl/140HGr+HCr/150|+4  |
+|                |    |    |   |          |HBi                         |    |
+
+CAPITOLO VIII: Squadra d’assalto
+Una squadra specializzata di assassini viene mandata dagli elfi  oscuri  per
+uccidere Ilidan e Amaru.
+MOREDHEL: appare come una bellissima  elfa  oscura,  veste  di  cuoio  ed  è
+armata di katar. È un’Incantatrice, specializzata nel controllo di  belve  e
+dei prototipi creati dagli  alchimisti  elfici  (un  ruolo  conosciuto  come
+“Domatore” fra gli elfi oscuri).  In  realtà  Moredhel  è  un  fantoccio  di
+Xardas, il Burattinaio, uno degli innumerevoli occhi del  signore  demoniaco
+che pianifica la sua vendetta.
+NOTORIOUS: un mezz’elfo oscuro addestrato all’assassinio e da sempre  rivale
+di Amaru. Armato di una kusari  kama  magica  forgiata  nel  Gaerwath  pensa
+principalmente a sconfiggere il suo eterno rivale.
+CELEMOR: quest’elfo oscuro ha gli occhi di un profondo colore viola,  dovuto
+alla sua dedizione alla pianta del Loto Nero, usato per ampliare le  proprie
+facoltà magiche. È un veggente incredibilmente abile, che aiuta il gruppo  a
+rintracciare le loro prede.
+WAKATTA: Wakatta è un corpo senz’anima. Appare come un uomo molto pallido  e
+dallo  sguardo  spento.  Possiede  una  crudeltà  indicibile  e  una   forza
+derivatagli dalla totale mancanza di inibizioni. Shiranai si  sente  turbato
+dalla sua presenza e prova un desiderio misto di possedere   distruggere  il
+corpo.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Moredhel        |15° |La# |180|3(50)     |120kat(2x)                  |+12 |
+|Troll Potenziato|15° |La# |300|20(50s)   |130Bx(2D)                   |+5  |
+|Notorious       |15° |M   |130|9(33)     |120Kkam                     |+8  |
+|Celemor         |15° |M@  |81 |13(105)   |100sab                      |+25 |
+|Wakatta         |22° |La# |200|1(55)     |150Lba/150LGr               |+8  |
+
+
+
+CAPITOLO IX: La Strada dei Re
+Il percorso per giungere  alla  tana  di  Gormungand  attraversa  un  antico
+sentiero conosciuto come Strada dei Re,  costruito  dai  nani  per  giungere
+alle Sale Silenti, necropoli dei loro re prima che giungesse il drago.
+Il sentiero è intricato e infestato  dai  fantasmi  di  coloro  che  avevano
+giurato di custodire il sentiero ed è sorvegliato da Custodi di pietra.
+Inoltre, a causa dell’influenza maligna che regna sul  luogo,  sul  sentiero
+fanno capolino dalla neve dei fiori bianchi dall’aspetto  delicato  e  dalla
+fragranza inebriante. Si tratta di una particolare varietà  di  Spirium,  un
+fiore che sparge nell’aria il suo polline velenoso  che  provoca  sonnolenza
+(TR contro il veleno di 10°: fallimento di 1-25 da un –25 alle attività; 26-
+50 addormenta per 1-2 ore; 51-100 per 1-4 ore e  per  più  di  100  per  4-8
+ore). Inutile dire che chi si addormenta in mezzo ai fiori  rischia  di  non
+svegliarsi più.
+Più avanti il sentiero si fa meno delineato e si entra in un  canyon  gelato
+scuro e profondo che emana un fetore di morte.
+Il canyon è la tana di un gruppo di Ragni Gelidi,  alla  cui  testa  sta  la
+grande  Ragno  femmina  Gothrur,  astuta  e  malvagia   conosce   la   lista
+dell’Essenza  Spirit  Mastery  fino  al  suo  livello  e  può  lanciare   un
+incantesimo per round senza spendere punti magia.
+Tesoro  Ragni:  Elmo  dell’Imponenza  (+10  BD,  +20  Leadership);   Sciarpa
+Fortunata di Gwynder (abbassa di 1 i risultati per i tiri  aperti  in  alto,
+una volta al mese da un bonus di +10 a un tiro); un tomo di  “Organ  Law”  e
+“Bone Law”; 5 Frecce Penetranti (+10, trattano ogni armatura  come  TA1),  1
+pozione dell’Eroismo (dura 1d3+1 round durante i quali si  ha  il  150%  dei
+normali PF, +10 al BD e al BO e si ignora lo stordimento).
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Custode del     |15° |La# |200|16(25)    |120Bx/100LBa                |+8  |
+|Sentiero        |    |    |   |          |                            |    |
+|Fantasma        |15° |La# |165|1(50)     |110Bx/5 Co x round in 3m    |+12 |
+|                |    |    |   |          |(TR-10)                     |    |
+|Ragno gelido    |7°  |M   |140|4(35)     |80Mbi+poison(5°)            |+8  |
+|Gothrur         |20° |La@ |350|12(60)    |120Hpi/90H0+poison(10°)/spel|+12 |
+|                |    |    |   |          |ls                          |    |
+
+CAPITOLO X: Le Profondità Gelate
+Usciti dal canyon, infine, i PG arriveranno in vista della  lunga  scalinata
+che, costeggiando la parete della montagna,  porta  all’entrata  delle  Sale
+Silenti. Ci sono delle trappole, se verranno fatte  scattare  si  stacca  un
+pezzo di parete che crolla su di loro facendoli precipitare.
+Si risvegliano  mezzi  sepolti  nella  neve   in  una  grotta  di  ghiaccio,
+apparentemente creata dalla valanga. Seguendo  un  tunnel  che  parte  dalla
+grotta si ritrovano in un complesso di tunnel e stanze scavate nella  roccia
+e nel  ghiaccio  apparentemente  opera  di  una  qualche  forma  di  civiltà
+dimenticata.
+                                              1. Grotta in cui si  svegliano
+                                                 i PG.
+                                              2. La stanza appare  come  una
+                                                 sorta di laboratorio  o  di
+                                                 camera  delle  torture,  in
+                                                 centro  c’è  un  tavolo  di
+                                                 ghiaccio e appoggiati  alle
+                                                 pareti  si   vedono   degli
+                                                 scaffali  contenti   strani
+                                                 attrezzi          metallici
+                                                 dall’utilizzo  sconosciuto.
+                                                 Un   umanoide   pallido   e
+                                                 rinsecchito,  vestito  solo
+                                                 di una  tunica  lacera  sta
+                                                 trafficando al tavolo (è un
+                                                 Vampiro          congelato)
+                                                 attaccherà i PG non  appena
+                                                 li vedrà.  Addosso  ha  uno
+                                                 strano  oggetto   metallico
+                                                 piatto e triangolare.
+                                              3. Addossati alle pareti della
+                                                 stanza ci sono dei  feretri
+                                                 di ghiaccio contenenti  dei
+                                                 corpi  simili  al   Vampiro
+                                                 della    stanza    1,    in
+                                                 ibernazione. Uno dei  corpi
+                                                 ha appeso al collo un altro
+                                                 oggetto           metallico
+                                                 triangolare.   Toccare    i
+                                                 feretri a mani nude provoca
+                                                 un  colpo  critico  “A”  da
+                                                 freddo.  Ogni  feretro  può
+                                                 sopportare 1000 danni prima
+                                                 di  rompersi,   una   volta
+                                                 aperto   il    corpo    che
+                                                 contiene si anima.
+                                              4.  Questa  stanza   è   molto
+                                                 fredda, in mezzo si vede un
+                                                 piccolo           triangolo
+                                                 metallico.  In  realtà   il
+                                                 triangolo  è  inglobato  da
+                                                 una Gelatina Gelida (simile
+                                                 all’Ameba Camaleontica).
+                                              5. Qui ci sono 3  vampiri  che
+                                                 stanno discutendo,  uno  di
+                                                 loro ha l’ultima chiave.
+                                              6. Le  porte  si  aprono  solo
+                                                 dopo aver inserito tutte  e
+                                                 4 le  chiavi.  Quest’enorme
+                                                 sala è sede  di  un’orrenda
+                                                 entità     planare      che
+                                                 controlla  gli  esseri  nel
+                                                 resto  del  sotterraneo   e
+                                                 viene da essi adorata  come
+                                                 divinità. Ha  l’aspetto  di
+                                                 una colonna gelatinosa alta
+                                                 circa  6  metri  di  colore
+                                                 indefinibile,  dalla  quale
+                                                 si   protendono    svariati
+                                                 tentacoli e peduncoli.  Una
+                                                 volta ucciso  si  liquefarà
+                                                 aprendo  una  via  d’uscita
+                                                 sul soffitto della sala.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Vampiro         |10° |La@ |110|4(80)     |70Mbi(d10+20pfxrnd/2-4Co)   |+12 |
+|congelato       |    |    |   |          |                            |    |
+|Gelatina Gelida |8°  |La# |170|4(20)     |80LGr[Cold]+100HGr[Cold]    |+4  |
+|Abominio Planare|20° |SL  |300|11(40)    |120HGr[Heat]                |+8  |
+
+CAPITOLO XI: Le Sale Silenti
+Gormungand conosce le seguenti liste:  Fire  Law;  Invisibile  Ways;  Spirit
+Mastery; Spell Reins; Dispelling Ways; Essence’s  Perceptions,  Spell  Wall;
+Gate Mastery; Lofty Bridge, Concussion Ways e Rapid Ways.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Gormungand      |32° |SL  |400|16(50)    |100Hbi/120HCl/100Hba/70Hho/9|+8  |
+|                |    |    |   |          |0FBr/Sp                     |    |
+
+Tesoro: circa 250000 mo in monete, lingotti e gioielli.
+THE CRUSHER: risalente alle Guerre Demoniache, quest’arma deriva la  propria
+forza da un demone intrappolato al suo interno dal  suo  creatore.  Si  dice
+appartenesse ad uno dei  tre  luogotenenti  della  forze  demoniache  e  che
+faccia parte di una triade di armi gemelle (The Cleaver,  The  Crusher,  The
+Breaker), ognuna delle quali era impugnata da un differente luogotenente.
+POTERI: Mazzafrusto  +35  in  Acciaio  Demoniaco  (colpisce  come  Mithril),
+infligge un colpo critico da Sbilanciamento addizionale (stesso livello  del
+primo), “Uccisore” di esseri di pietra o metallo e nani, -3  all’iniziativa,
+non può parare. Una  volta  al  giorno  è  possibile  effettuare  un  “Colpo
+Devastante”: danni doppi, ignora l’armatura del nemico  (TA=1),  il  secondo
+colpo diventa  “Slaying”.  Effettuare  questo  colpo  è  molto  faticoso,  a
+partire dal round seguente impone  una  penalità  di  –100  alle  azioni   e
+velocità dimezzata. Riposando le penalità spariscono al ritmo di  un  2%  al
+round.
+
+PUGNI DI HEXOR: Guanti di piastre di Mithril, un tempo  parte  dell’armatura
+di un paladino, prima di morire egli li donò come pegno alla  sua  compagna,
+una donna  Vorskgen,  perché  la  proteggessero   in  battaglia.  Quando  il
+paladino morì in battaglia la donna  lo  pianse  così  tanto  che  i  guanti
+assorbirono parte del suo dolore, da allora proteggono chiunque li  indossi,
+per impedire ad altro dolore di spargersi nel mondo.
+POTERI:+20 agli attacchi di arti marziali, non occorre utilizzare  l’abilità
+Robustezza Adrenalinica per colpire superfici  dure,  25%  di  negare  colpi
+critici alle braccia.
+
+MIETICORPI: Spada lunga di Ebony,  un  metallo  nero  estremamente  raro.  È
+stata temprata nel sangue del suo stesso forgiatore, è così affilata che  si
+dice possa tagliare una foglia che li si posi sopra. Si tratta di una  spada
+crudele e assetata di sangue, che pulsa di bramosia di battaglia.
+POTERI:  Spada Lunga +30, colpisce come Mithril,  doppi  danni,  solo  colpi
+critici da taglio, +5 ai colpi critici inflitti, +5 ai fallimenti critici.
+
+ELETHAR, IL CACCIATORE: Un  arco  di  legno  argentato,  di  chiara  fattura
+elfica, la corda è fatta di capelli  di  elfo  e  non  si  romperà  mai.  Fu
+commissionata da un re umano a un artigiano elfico abilissimo. Si narra  che
+il re, vedendo il lavoro dell’elfo, affermò che non poteva  pagare  un  tale
+oggetto, perché in tutto il suo regno non  esisteva  sufficiente  ricchezza.
+L’elfo allora chiese solo di  poter  piantare  un  albero  per  ripagare  la
+natura di ciò che gli aveva tolto. Il re rispose che poteva piantarne  anche
+cento e così nacque la foresta di Caelebawn.
+POTERI: Arco Lungo Magico +20, Doppia Gittata,  Utilizza  solo  il  40%  del
+round per ricaricare.
+CORONA DEL SAPERE PROIBITO: questa corona apparteneva a Balthor, un re  nano
+folle ricordato  per  la  sua  crudeltà.  È  fatta  d’oro  con  un  diamante
+incastonato nel mezzo ma il metallo sembra annerito  e  il  diamante  ha  un
+cuore oscuro che assorbe la luce invece di rifrangerla. Si  racconta  che  i
+nani che la hanno indossata dopo Balthor siano diventati pazzi  e  che  essa
+attenda paziente il successore di Balthor perché la utilizzi  per  costruire
+un regno nanico di dolore e follia.
+POTERI: se viene indossata da un nano non  Caotico  Neutrale  porta  il  suo
+allineamento a Caotico Neutrale e il portatore subisce  gli  effetti  di  un
+Random Trait Subversion I, se a indossarla non è  un  nano  lancia  sul  suo
+portatore un incantesimo casuale dalla lista Mind Disease ogni minuto.
+Un nano Caotico Neutrale può utilizzare i  suoi  poteri:  può  “storare”  un
+incantesimo nel diamante per poi lanciarlo a comando, ha un +15  al  BD,  un
++20 all’Influenza con altri nani e ha un +5 a tutte  le  manovre  di  lancio
+incantesimi.
+
+CORAZZA  DELL’IMMORTALE:  una  corazza  a  piastre  finemente  lavorata,  le
+spalliere sembrano artigli e il pettorale raffigura la testa di un drago.
+POTERI:  TA20  (+5)  permette  di  ignorare  un  critico  subito  una  volta
+all’anno.
+
+BORSA DELLE OSSA: questa borsa  di  tessuto  nero  sdrucito  contiene  molte
+piccole ossa al suo interno.
+POTERI: quando le  ossa  contenute  nella  borsa  sono  sparse  sul  terreno
+(occorre un round) da esse nasceranno 100 scheletri minori, agli  ordini  di
+chi li ha evocati. Gli scheletri torneranno ad essere  semplici  ossa  nella
+borsa a comando, se uno scheletro  muore  non  viene  rimpiazzato  e,  negli
+utilizzi seguenti della borsa, comparirà uno scheletro in meno.
+
+CINTURA DELLA FORZA DEL GIGANTE: sembra una comune cintura di cuoio.
+POTERI: +10 al Bonus di Forza.
+
+CAPITOLO XII: Gli ultimi preparativi
+                                               - Giunge voce ai PG che Turim
+                                                 7°, il re  dei  nani  delle
+                                                 Aule Dorate  vuole  parlare
+                                                 con   coloro   che    hanno
+                                                 sconfitto Gormungand. Il re
+                                                 offrirà loro un contingente
+                                                 di  1500  nani  in   cambio
+                                                 della restituzione di  metà
+                                                 dell’oro trovato nelle Sale
+                                                 Silenti (se si  offrono  di
+                                                 restituirlo tutto darà loro
+                                                 4000 nani ma dovranno farlo
+                                                 spontaneamente).
+                                               -   I   PG   possono   ancora
+                                                 incrementare    il     loro
+                                                 esercito   assoldando   dei
+                                                 mercenari   (un   tiro   su
+                                                 Tattica:  Assedio  rivelerà
+                                                 che  è  auspicabile  essere
+                                                 almeno      il       doppio
+                                                 dell’assediato).  Le  unità
+                                                 di mercenari possono essere
+                                                 assoldate  a  Grudgeburg  o
+                                                 Harbor. Il prezzo varia  da
+                                                 1 ma a 1  mo  a  uomo  alla
+                                                 settimana.
+                                               - Questo è  l’ultimo  momento
+                                                 che   hanno   i   PG    per
+                                                 prepararsi      all’attacco
+                                                 finale
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Mercenario medio|2°  |M   |60 |13(30s)   |60Sp/40BrSw                 |+4  |
+
+CAPITOLO XIII: Venti di Guerra
+È infine  giunto  il  momento  dello  scontro  finale  contro  la  città  di
+Nortislong. Dopo aver condotto il loro esercito attraverso  la  marca  senza
+troppi problemi a  parte  qualche  piccola  scaramuccia,  i  PG  arrivano  a
+cingere d’assedio la città.
+La situazione cittadina è questa: il grosso dell’esercito è impegnato  nella
+guerra contro Tallvar e il Caelebawn, a sud. In città rimangono  circa  5000
+uomini a combattere. Inoltre, l’arrivo dei PG coglie la città impreparata  e
+di sorpresa:  non  si  aspettavano  alcun  attacco  da  un  esercito  troppo
+massiccio al cuore del regno dato che  i  confini  sono  sorvegliati  e  dal
+Grudgemark non ci sono segni di ostilità. I PG  possono  contare  su  questo
+fatto ma ci vogliono almeno 6000 uomini (come minimo assoluto)  o  un  piano
+geniale per poter sperare di sfondare le difese della città.
+D’altra parte, se invece  l’esercito  si  fa  notare  incontrerà  gente  più
+pronta ad affrontarlo e  probabilmente  verrà  mandato  contro  di  esso  un
+contingente (1000 uomini o giù di lì) nella speranza di fermarlo.
+L’esito della battaglia verrà deciso poi in sessione.
+
+CAPITOLO XIV: Fare Irruzione
+Esiste un modo relativamente facile e veloce per assicurarsi la  vittoria  e
+(quel che più conta) arrivare a Sarina. Permettere ad un  gruppo  scelto  (i
+PG) di intrufolarsi in città in modo che possano arrivare fino  al  castello
+e alla regina.
+Le metodologie per ottenerlo sono basilarmente due:
+                                               - provocare una breccia nelle
+                                                 mura e tentare  un  assalto
+                                                 frontale  confidando  nella
+                                                 fortuna   e    nell’effetto
+                                                 sorpresa.
+                                               -  Creare  un  diversivo  che
+                                                 permetta ai PG  di  entrare
+                                                 indisturbati.
+In ogni caso in questa battaglia ogni PG incontrerà nemici  di  ogni  sorta,
+compresi membri della squadra d’assalto del Gaerwath.
+GLADIEL: un costrutto dalle sembianze d’elfo, maneggia le spade con  inumana
+precisione.
+VALANG: paladino di Thurms accorso alla guardia di Nortislong.
+EURONYMOUS: Monaco Vorskgen maestro  dello  stile  della  “Zanna  del  Drago
+Celeste” venuto per sfidare a duello Varg.
+NOTORIOUS: prima di morire Notorious avvisa il suo eterno rivale  con  delle
+parole enigmatiche:”Attento, per lui  siamo  solo  delle  pedine…”.  La  sua
+Kusari Kama ha un bonus di +20 ed è fatta di Mithril (il  bonus  si  applica
+anche al Disarmare).
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Moredhel        |15° |La# |180|3(50)     |120kat(2x)                  |+12 |
+|Gladiel         |20° |La# |220|12(90)    |210Fa(2D)(2x)               |+16 |
+|Notorious       |20° |M   |150|9(33)     |130Kkam                     |+8  |
+|Celemor         |20° |M@  |100|13(105)   |120sab                      |+25 |
+|Wakatta         |22° |La# |200|1(55)     |150Lba/150LGr               |+8  |
+|Euronymous      |20° |M   |150|1(140)    |145Ma(St+Spear)             |+14 |
+|Valang          |20° |M   |185|20(30)    |220ThSw/spells              |+0  |
+|Guardia Reale   |10° |M   |150|20(30s)   |132Brsw                     |+8  |
+|Mago Reale      |10° |M   |65 |1(12)     |102ds                       |+8  |
+
+CAPITOLO XV: Una Fine e un Nuovo Inizio
+I PG sono allo scontro finale con Sarina. Lei si trova nella sala del  trono
+che sovrintende la battaglia. Con lei si trovano 2 maghi,  2  guardie  e  il
+suo pseudodrago. Sarina agirà tenendosi  arretrata  e  facendosi  scudo  dei
+suoi servitori, conosce tutte le liste base dei  Maghi  a  parte  Piromanzia
+più: Essence’s Hand, Spell Wall, Gate Mastery, Invisibile Ways, Rapid  Ways,
+Shield Mastery e Spell Enhancement; tutte fino al proprio  livello  a  parte
+le base che conosce per intero.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Taelerys        |5°  |M   |80 |12(60)    |50Sbi/40SCl/30Ibr/spells    |+12 |
+|Guardia Reale   |10° |M   |150|20(30s)   |132Brsw                     |+8  |
+|Mago Reale      |10° |M   |65 |1(12)     |102ds                       |+8  |
+|Sarina          |25° |M   |130|1(50)     |150ds                       |+10 |
+
+Sconfitta, Sarina si arrenderà e pregherà di essere  risparmiata  in  cambio
+di informazioni e altro…
+
+
+

@@ -1,0 +1,57 @@
+
+CAPITOLO X
+
+FORBIDDEN ZONE
+ROCCIA DEL TESCHIO
+Grossa roccia la cui forma ricorda quella di un  teschio,  per  notarla  dal
+lago occorre una  manovra  di  Osservazione,  perché  è  semi  nascosta  dal
+fogliame.  Vicino  ad  essa  c’è  un  approdo  ma  per  avvicinarsi  bisogna
+oltrepassare un gorgo non segnato sulla carta, formato dall’incrociarsi  dei
+due fiumi. Superare il  gorgo  è  una  manovra  “Folle”  (-50)  di  Pilotare
+Barche, ma basta un Successo Parziale per arrivare tutti sani e salvi  sulla
+riva (anche se la nave in questo caso affonda).
+
+PERICOLI  GIUNGLA
+Procedere attraverso la zona paludosa è  abbastanza  difficile,  normalmente
+richiederebbe una manovra di Sopravvivenza Giungla “Difficile” (-10), ma  le
+indicazioni sulla mappa la rendono una manovra “Media”.
+Sabbie Mobili: Manovra “Media” di Nuotare x uscirne  oppure  bisogna  essere
+tirati fuori.
+Di notte l’aria si riempie delle  luci  dei  Fuochi  Fatui  che  cercano  di
+attirare esseri viventi nei pantani.
+Inoltre, la palude è infestata da  grosse  vespe  velenose  che  rompono  le
+balle.
+In alcuni punti può essere necessaria una manovra di  equilibrismo  per  non
+cadere nelle sabbie mobili.
+
+LE DUE COLONNE
+
+N’KISHI!
+Finalmente i PG arrivano in  vista  delle  colline.  Ma  arrivano  anche  al
+territorio di caccia degli Nkishi, sono attaccati da un  gruppo  di  questi,
+comandati da uno più grosso (Makni’wa) armato  di  due  Makreesha  di  Shald
+(trattale come Falchion +25 di Mithril che infliggono CC da T/R).
+Nkishi continuano ad arrivare, inseguono PG che fuggono  fino  ad  un  certo
+punto, dove la giungla si apre e il gruppo si ritrova in un luogo strano…
+
+LA ZONA PROIBITA
+Zona con resti di una civiltà molto antica ed evoluta/SF.
+Per la questa zona usa la mappina allegata, i PG iniziano dove c’è la X.  La
+torre sulla mappa di Rodrigo  è  quella  grande  nella  città  (tutta  fatta
+d’oro).
+I PG possono esplorare le rovine, ogni volta che entrano in un edificio  c’è
+il 20% di possibilità che crolli:  manovra  “Estremamente  Difficile”  (-30)
+per scampare senza danni.
+C’è un ultimo  ostacolo  prima  di  poter  accedere  alla  torre  d’oro:  un
+costrutto antico in forma di bestia artigliata.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Vespe Velenose  |2°  |M   |10 |2(35)     |30SSt+20°lvl poison         |+10 |
+|Fuoco Fatuo     |10° |II# |135|1(40)     |Spell/special               |-   |
+|Nkishi*         |7°  |M   |135|1(30)     |130Fa(Tearing/Ripping)      |+8  |
+|Makni’wa        |15° |M@  |170|1(30)     |150Fa(Tearing/Ripping) (2x) |+8  |
+|Custode         |15° |La# |240|20(50)    |100LCl/100HXb               |+8  |
+|Meccanico       |    |    |   |          |                            |    |
+
+Fuoco Fatuo: TR per non essere attirati in acqua, risucchia  5  punti  Co  a
+round se non si riesce in un TR -10.

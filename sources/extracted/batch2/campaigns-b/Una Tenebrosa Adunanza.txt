@@ -1,0 +1,129 @@
+
+UNA TENEBROSA ADUNANZA
+QUERCETO
+Querceto è un piccolo villaggio, che deve il suo nome al boschetto di querce che lo circonda. Le case hanno un aspetto antico e l'abitato è circondato da un alto muro di cinta in pietra, pare che l'avanzare della tecnica non sia arrivato in quest'angolo dei Regni Giovani. Un poco sopraelevato rispetto al paese, sempre entro la cinta delle mura, c'è un piccolo castello decrepito dall'aspetto gotico, probabilmente un tempo è stata la residenza estiva di qualche nobile.
+> PG arrivano, vengono inviati al castello, dove li accoglie Keveth (trattato come un servitore)
+> Incontrano Galamorn, che li crede adepti di Abigor e rivela loro parte del piano
+> (Keveth chiede aiuto)
+> La sera arriva una carrozza (con Natalya) ma non fanno in tempo a vedere chi è perché sono convocati da Markus
+> Riunione finale con tutti, PG sgamati, battaglia.
+CATTIVI
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Galamorn
+10°
+M
+120
+17(20)
+120ms/Spells
++10
+Leonard (V)
+15°
+La#
+120
+2(90)
+130Sw[Cold]/90MBi+special/Spells
++12
+Marcus (IV)
+10°
+II#
+110
+17(55)
+90Sw[Cold]/70Mbi+special/Spells
++12
+Natalya
+15°
+M
+80
+2(20)
+120CBolt/110IBolt
++10
+Segugio Gelido
+6°
+M
+90
+4(30)
+70MBi/50IBreath
++8
+Cultista
+4°
+M
+70
+9(20)
+80Sword/80Dart
++8
+
+Nota: Il morso di un vampiro non causa alcun critico ma paralizza (chi fallisce un TR Essenza) e causa la perdita di 11-20pf e di 1-3 punti Co.
+Tutti i Vampiri hanno un bonus di +100 a Muoversi Silenziosamente.
+I Vampiri sono vulnerabili solo alle armi magiche, ai colpi critici da Impalamento alle magie di Forza o Elementali (Acqua e Elettricità)
+> Galamorn (Paladino di Abigor livello 10°)
+Liste: 
+Holy Arms (rnk:10, bns: 30)
+Holy Shields (rnk:10, bns: 30)
+Inspiring Ways (rnk: 5, bns: 30)
+Wounding (rnk:10, bns: 30)
+Oggetti: Morning Star magico +15
+> Marcus (Vampiro Inferiore livello 10°)
+PP:100
+Liste: 
+Tutte quelle del Mentalismo Malvagio (rnk:10; bns:30)
+> Leonard Rinato (Vampiro livello 15°)
+Dopo esser stato sconfitto e distrutto dai PG, Leonard è stato riportato allo stato di non-vita usando la Macchina della Resurrezione.
+PP: 150
+Liste: Tutte quelle del Mentalismo Malvagio (rnk:15; bns:35)
+Darkness (rnk: 10; bns:20)
+Lofty Bridge (rnk:10; bns:20)
+> Natalya Vararthim (Elementalista Ghiaccio 15°)
+Liste:
+Elementalista Gelo (rnk: 20; bns:42)
+Lofty Bridge (rnk: 16; bns: 38)
+Shield Mastery (rnk: 15; bns: 39)
+Spirit Mastery (rnk: 20; bns: 42)
+Dispelling Ways (rnk: 15, bns: 39)
+BUONI
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Raghind
+4°
+M
+90
+10(15)
+85SSw/Spells
++8
+Keveth
+7°
+M
+110
+13(30)
+110Sw/110DtGun
++12
+Valentine
+10°
+M
+110
+10(30)
+105whip
++10
+Raghnid (Nana Vendicatrice Adamantina livello 4°)
+Liste: Paladino Livello 4° (Tutte)
+Oggetti: Spada Magica +15
+Keveth (Bandito Umano livello 7°)
+Oggetti: Spada Magica +10
+Valentine, Segretaria di Belengard (Campione Elementale Gelo livello 10°)
+Frusta Magica +10, 10% di trattare tutte le TA come TA1
+Armatura di Cuoio, +20 TR e BD contro il Fuoco
+Liste: Combat Links (rnk:10/bns:20); Elemental Armor (rnk10/bns:20); Elemental Companions (rnk12/bns22); Elemental Weapons (rnk11/bns21); Lesser Elemental Changes (rnk11/bns21); Lesser Elemental Protections (rnk7/bns17)
+COMPARSE
+Ibarella, amica di Isidoro (Umana, Elementalista Fuoco livello 8°)
+Corinne, amica di Isidoro (Umana, Elementalista Acqua livello 7°)
+Hormus, amico di Isidoro (Umli, Elementalista Terra livello 7°)

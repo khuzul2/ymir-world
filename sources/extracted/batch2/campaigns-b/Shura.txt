@@ -1,0 +1,142 @@
+
+LE ARMATE DI LORD SHURA
+IN SALVO
+I PG sono tratti in salvo da Logarth, Edain e Vincar. Questi ultimi però sono qui x arrestare Isidoro.
+Attraverso passaggi sotterranei sono condotti alla fortezza di Tor Varn.
+Re di Tor Varn: Fundin
+Alto Sacerdote di Durkaam: Telor
+Picozza da Guerra in Acciaio Nanico (+15 colpisce come Mithril)
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Nano Guerriero
+3°
+M
+80
+18(40s)
+70Melee/50DartGun
++0
+Nano Guerriero Elite
+7°
+M
+105
+20(40s)
+100Melee/90DG
++4
+Lupo Meccanico
+9°
+II@
+150
+20(15)
+90LBi/60MCl
++12
+Logarth rivela l'identità del nemico invasore: si tratta del drago Gwalgamaur il dorato, che pare voler instaurare un proprio dominio sui Regni Giovani. 
+I nani sono assediati dalle armate di Lord Shura, dopo essere stati colti di sorpresa hanno resistio a lungo, ma l'assedio li sta logorando. Se riuscissero in qualche modo a sconfiggere quest'armata di invasori, potrebbero andare a dare manforte a Tor Lossar, spezzando la supremazia nemica sul Wald e mettendo in crisi l'avanzata delle truppe nemiche.
+Il problema è che Lord Shura è un potente stregone e sta usando le sue arti necromantiche per risvegliare i morti dell'antica necropoli nanica di Kelak-Varn, ingrossando sempre di più le fila del proprio esercito.
+Telor: l'alto sacerdote, dopo aver consultato Durkaam tramite oracoli, propone una soluzione al problema: nella necropoli di Kelak-Varn è celata l'antica tomba di Hurin, re-guerriero fondatore di Tor Varn. Con lui è sepolto un mistico artefatto dei tempi antichi: il Corno di Hurin. Secondo le leggende chi suona il Corno richiamerà a sé gli antichi guerrieri nani morti per difendere la loro patria. 
+Telor dice che il potere del Corno sarebbe in grado di rovesciare i poteri di Lord Shura e rivoltare contro di lui le sue stesse armi.
+C'è solo qualche problema: 
+La necropoli è ovviamente il centro dal quale fluiscono i guerrieri morti di Lord Shura, c'è da aspettarsi che sia un posto poco piacevole.
+La tomba di Hurin fu sigillata magicamente dai sui due figli, coloro che diventeranno i progenitori della Stirpe di Fundin e della Stirpe di Dwalor. Solo gli anelli regali di queste due stirpi sono in grado di aprire la tomba, nient'altro.
+KELAK-VARN
+Prima della missione Logarth consegna ai PG 10 frecce magiche +10.
+Arrivare a Kelak-Varn non è facile, un tunnel sotterraneo porta dalla fortezza dei nani fino alle vicinanze della necropoli, ma una volta fuori i PG devono ricordarsi che sono in territorio nemico, se fanno troppo rumore attirano su di loro una pattuglia 
+(Tira 1d100: 1-60=2-6 Urthak; 61-90=2-6 Urthak +1-2 Hothrog; 91-100= 2-6 Urthak +1-2 Troll). 
+L'entrata della necropoli è sorvegliata da 4 Urthak: non sono un nemico impossibile ma dovrebbe essere chiaro che un combattimento potrebbe attirare nella zona altri guerrieri, rovinando la missione dei PG.
+ENTRATA: la sala d'accesso della necropoli, le antiche decorazioni naniche sono state sfregiate. Una statua di re Hurin è stata abbattuta e, al suo posto, c'è una blasfema statua di metalli brunito, raffigurante un drago (la statua è in realtà un allarme magico, ha avvisato Lord Shura dell'ingresso di estranei. Serve una manovra di percezione Assurda per accorgersi che c'è qualcosa che non va nella statua e una manovra di Attunement Folle per scoprirne i poteri). 
+TOMBE VARIE: oltre a seguire il path indicato, i PG possono esplorare le varie tombe (magari attirati dal luccicare dell'oro).
+Ogni tomba contiene una cosa come 3d10 di mo e qualche arma/armatura, per lo più cose magiche +15/+20 per lo più martelli, asce e mazze. 
+Le tombe sono però solitamente protette da trappole e/o Dreugh.
+TOMBA DI LORIN: Teca di materiale simile al cristallo (Laen), contiene o scheletro di un nano con un arco corto di legno dorato. Sulla tomba una targa con inciso: “Qui giace Lorin, figlio di Eldin. Innumerevoli nemici caddero sotto i suoi strali. Cadde difendendo la sua gente nella battaglia di Ellar.”
+La teca non è chiusa, ma è protetta da una trappola (“Molto Difficile” da individuare e da disinnescare) che spara un piccolo nugolo di dardi al profanatore: 3 attacchi +50 sulla balestra leggera.
+Arco di Lorin: Arco magico +10, tutte le frecce lanciate sono considerate magiche. Una volta al giorno fa danni x3 con un attacco.
+SCALE: portano al piano inferiore della necropoli, alcuni gradini sono protetti da trappole. Ogni personaggio ha il 50% di attivare una trappola: una piccola botola che intrappola il piede. La botola contiene uno spuntone così, se ci si affretta troppo a ritirare il piede si riceve un “A” da punta.
+SALA DI HURIN
+Oltre al corno, ci sono molte altre cose: circa 5000mo in denaro e gioielli, un'armatura nanica completa (TA20, +15, ingombra come TA 17); il Martello del Mondo Sotterraneo, e lo Scudo di Hurin (Scudo a Torre +25, +20 ai TR). Ovviamente sottrarre qualcosa al tesoro di Hurin non è una cosa molto bella e non sarà apprezzata dai nani.
+LORD SHURA
+Ha seguito i PG attraverso i sotterranei x impossessarsi del corno.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Lord Shura
+20°
+La#
+150
+18(75)
+90Staff/Spells/120FBolt
++16
+Guardia Scheletrica
+10°
+La#
+150
+17(50)
+100Thsw[Heat]/Drain (3/rnd)
++10
+“Inferno”, la Staffa delle Fiamme: 100 cariche, con una carica lancia Fire Bolt, con 2 cariche lancia Fire Ball e con 3 Fire Storm, colpo critico addizionale da Calore.
+Medaglione del Potere: moltiplicatore x3 di PM (solo Essenza e Flusso), Extension II una volta al giorno.
+Anello della Difesa Arcana: Bladeturn 2 volte al giorno, +10 ai TR contro la magia.
+Liste:
+Necromancy (rnk:20/bns:45)
+Shield Mastery (rnk:15/bns:40)
+Liste Illusionista (rnk 20/bns:45)
+Erosione Fisica (rnk 20/bns:45)
+Evocazione di Entità (rnk20/bns45)
+Contatti Oscuri (rnk20/bns45)
+Oscurità (rnk20/bns45)
+Distruzione Materia (rnk20/bns45)
+Studi di Invisibilità (rnk15/bns45)
+Lofty Bridges (rnk:9/bns34)
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Dreugh
+8°
+I#
+140
+15(30s)
+110WH/Special
++0
+Urtak
+7°
+I#
+135
+18(50)
+130We
++8
+Hothrog (I)
+2°
+I
+60
+11(15)
+50MCl(x2)+100MBi
++0
+Stregoni
+8°
+M
+90
+8(20s)
+80We/70FBolt/spells
++8
+Troll dei Ghiacci
+13°
+La@
+200
+11(30)
+105HCl/80HBa/80ro
++6
+Dreugh: nani non morti, risucchiano 3 punti Co/rnd a chi fallisce un TR Vigore, i loro occhi fiammeggianti sono lievemente ipnotici: TR Mentalismo 4° livello (8° per un nano) per non venir paralizzati (ci si sveglia se si è colpiti, una volta risvegliati o colpiti non funziona più), i nani uccisi risorgono come Dreugh.
+Urtak: una delle principali forze d'assalto dell'esercito di Lord Shura: un tempo comuni guerrieri orchi, sono stati sottoposti ad un rituale di massa che li ha trasformati in temibili guerrieri quasi-non morti.
+Hothrog: demoni umanoidi dalla testa di sciacallo convocati da Lord Shura e dai suoi sottoposti, perlustrano il territorio in branchi di 20-30 individui. Non usano armi ma, se da soli, possono andare in berserk: +30BO, -20BD.
+Stregoni: stregoni orcheschi sottoposti di Lord Shura. Conoscono le liste Lesser Illusions, Entity Summons, Darkness e Fire Law fino al loro livello(con un bonus al lancio di +18 e 48PM).

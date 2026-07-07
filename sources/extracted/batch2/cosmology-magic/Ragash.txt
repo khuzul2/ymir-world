@@ -1,0 +1,125 @@
+
+RAGASH
+INCUBI
+Gli Incubi si trovano in innumerevoli forme e colori, ogni Incubo è diverso, ma tutti hanno un aspetto sgradevole od orrorifico. Indifferentemente dal tipo si divertono a terrorizzare le proprie vittime, più che a ucciderle. Una vittima uccisa nel mondo dei sogni da un Incubo deve fare un TR contro la Paura o perdere 1d5 punti Sanità, più uno per punto per tipo dell'Incubo.
+Ogni Incubo è in grado di percepire la più grande paura di un mortale, e di utilizzarla a proprio vantaggio, facendogli fare un TR contro la Paura (una volta al giorno per Tipo).
+Alcuni di loro sono in grado di utilizzare liste di incantesimi (di solito una per tipo), fino al loro livello. Le più comuni sono quelle del Mentalismo Malvagio o quelle Base dei Mistici. Hanno 6PM per livello.
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Incubo Tipo I
+5°
+M
+125
+4(40)
+80Melee
++12
+Incubo Tipo II
+10°
+La
+190
+4(30)
+150Melee
++12
+Incubo Tipo III
+20°
+La
+300
+4(40)
+150Meele(x2)
++8
+Incubo Tipo IV
+30°
+SL
+500
+4(30)
+170Melee(2D)
++8
+Incubo Tipo V
+40°
+SL
+700
+4(40)
+200Melee(x2)
++12
+Incubo Tipo VI
+50°
+SL
+900
+4(70)
+220Melee(3D)
++16
+ARHAT
+Gli Arhat sono un tipo di non morto molto particolare, peculiare del Mondo dei Sogni. Si tratta degli spiriti di coloro che, tramite un complesso rituale chiamato “Rito dell'Eternità Argentea”, si sono ritirati nel Mondo dei Sogni subito prima della morte. Solitamente appaiono come umanoidi emaciati (l'aspetto varia a seconda della razza a cui appartenevano in vita), dalla pelle lievemente dorata e dal volto imperturbabile. Le razze che diventano più comunemente Arhat sono quelle collegate al mondo dei sogni, come i Folletti, ma potenzialmente chiunque sia in grado di sognare può raggiungere lo stato di Arhat.
+Gli incantesimi di controllo non morti non funzionano su di loro ma, se incontrati nel mondo normale, possono essere normalmente scacciati o costretti a ritornare nel Mondo dei Sogni (non è possibile scacciarli se vi si trovano).
+Sono costantemente circondati da un'Aurea di Imponenza di 3m di raggio: tutti coloro che si trovano in quest'area e falliscono un TR contro la Paura subiscono una penalità di -20 a tutte le azioni, se lo falliscono di più di 30 punti non possono intraprendere azioni offensive nei confronti dell'Arhat. 
+Gli Arhat conoscono solitamente tutte le liste base del Mentalista, Brilliance, Spell Resistance, e Sense Mastery fino al proprio livello, più la lista Enlightening Ways dell'Oriental Companion.
+Gli Arhat hanno 10PM per livello.
+Finchè si trovano nel Mondo dei Sogni tutti gli incantesimi in Enlightening Ways hanno un raggio di 10m (invece che Tocco), godono di un +20 a tutti i TR e tutti i TR fatti contro gli incantesimi lanciati da loro hanno una penalità di -10.
+Gli Arhat ricorrono raramente alla violenza, ma se necessario sanno difendersi molto bene con le loro armi incantate (Sacre +30, possibili qualità addizionali), oppure a mani nude (Degree 4 di qualsiasi Arte Marziale), in ogni caso infliggono colpi critici Sacri addizionali a tutti gli esseri non illuminati.
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Arhat VI
+25°
+La#
+250
+2(75)
+180Melee[Holy]/Spells
++12
+SURYA
+Logarth lo spedisce nel MdS con 3 speciali monete d'argento, dicendogli di cercare Lo-Feng, il traghettatore, che lo guiderà dai suoi amici.
+Lo-Feng ha l'aspetto di una kitsune (in realtà è un sogno).
+ALTRI
+Incontro col Notturno (incubo)
+Bottega di Beniamino Gentile Fonda: Sognatore di Invenzioni, Riparatore di Lenti, Si forniscono Indicazioni. Lavora sulla rifrazione della luce e delle immagini, dice che uno stregone una volta gli ha detto che alcune creature riescono a fare lo stesso con la propria mente e la propria essenza... Ha delle informazioni sulla Biblioteca, dirige i PG verso il Sanatorio.
+Sanatorio: luogo piuttosto tetro e infausto, avvistamento di un'Entità Occhio -> spia di Setorn. Incontro con Guidolino Sani: esploratore matto, ha cercato la Biblioteca ma non l'ha trovata. Spiega che qui ci sono i sogni/incubi di un grande dottore (Setorn)... nel giardino del Sanatorio possono trovare una persona che è stata nella Biblioteca.
+Vespertina VonGryffen: al centro del giardino, sembra una donna meccanica. Dice di essere prigioniera di un sogno di ingranaggi e vapore, dal quale non riesce a svegliarsi. Vorrebbe destarsi perché sente che qualcosa di terribile sta accadendo, ma qualcuno o qualcosa glielo impedisce. Una lacrima cristallina le riga il viso e si solidifica in un cristallo baluginante, che consegna a Drusilde (permette di accedere alla lista Chiusa “Chaotic Senses” e regala il primo rango).
+Ricomparsa dell'Entità Occhio, possibile scontro
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Entità Occhio
+15°
+SL#
+400
+1(10)
+Spells/100LBolt
++8
+Incantesimi: Liste Look of Terror e Doom's Law fino al suo livello.
+Vicoli baluginanti di Ragash:incontro con Dante Gabriel Rossetti, uno strano personaggio un po' dandy e narcisista, con cui possono arrivare alla biblioteca
+BIBLIOTECA
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Campione Onirico
+20°
+La@
+200
+14(80)
+200BSw(2D)/Spells
++12
+Lammasu
+10°
+La
+150
+4(30)
+140LCl(2x)/160MBI/Spells
++12
+Incantesimi: Campione -> Paladino / Lammasu -> Animista

@@ -1,0 +1,121 @@
+
+XEBECH
+Attivare la Vera Via (manovra “Estremamente Difficile” di Attunement) --> Obiettivo Minore Very Hard.
+L'ISOLA DELLA MORTE
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Cadavere Putrescente
+5°
+I#
+50
+1(10)
+70MCl/Disease
++4
+Magro Notturno
+9°
+I#
+120
+4(35)
+80Mba/70MCl+90MBi/Fear
++12
+Verme Putrido
+10°
+La
+160
+12(20)
+100HBi (Disease)
++4
+Vile
+10°
+La@
+200
+4(60)
+200HCl/180LBi
++16
+Cadavere Putrescente: rigenera 8 pf/rnd. Ignora i colpi critici non da fuoco/slaying.
+XUTHAL
+Capolavoro dell'Ingegneria Xebechana, un'enorme città volante, retta da un'enorme deposito di Ixliss, una pietra che ha facoltà antigravitazionali se caricata appropriatamente.
+L'enorme capitale Xebechana è splendida ma non priva di rischi: molti quartieri sotterranei sono stati abbandonati per il calo demografico e ora strane ombre vi si aggirano...
+Primo incontro
+Omoteuchtli: Xidhe che da il “benvenuto” ai PG, Mentalista di 15° livello, diplomatico della città.
+Gli Alti Illuminati
+Nominalmente Xuthal è retta da un gran concilio di Xattva, detto degli “Alti Illuminati”, che si occupa delle questioni più gravi e importanti (in pratica, lo stato delle Pozze e la minaccia dell'Isola, ma ultimamente anche le condizioni della città).
+Il concilio si può dividere in tre fazioni, con orientamenti contrapposti, i cui maggiori esponenti sono:
+Xochiyaoyotl (Arcanista 40°): fazione non-interventista e pacifista per eccellenza, rispecchia le posizioni quasi fataliste di molti Xattva.
+Cuauhxicalli (Wizard 40°): fazione moderata. Non estrema come il primo partito, propone dei piccoli interventi di arginamento nell'Isola e, di tanto in tanto, approva dei piccoli esperimenti alle Pozze (fazione più forte).
+Tlazocamati (Elementalista Arcano 40°): fazione interventista, vorrebbe un pesante attacco contro l'Isola e grandi cambiamenti alle Fosse. È il più debole dei partiti.
+In realtà il potere è in mano del potente Culto delle Stelle, la chiesa gestita dagli Xion (i cui 6 capi sono qui sotto), dato che gli Xattva poco si preoccupano delle problematiche “mondane”.
+Cerchia del Culto delle Stelle
+Alti Teofani (tutti Xion Priest di 20°):
+Tezcatlipoca
+Mictlantechuli
+Tamoanchan
+Tlaxcala
+Xinihuini
+Naxmatoatl
+Nomi Xudra: Xotl, Yuthl, Octlas, Tuchl, Seketh...
+Biblioteca: gestita dagli Xion (capo bibliotecario: Xlutalla) e da alcuni scribi Xidhe
+Altri Stranieri:
+Elor Lethyliss (Elfo Mentalista), elfo illuminato in cerca di conoscenza, frequenta soprattutto il quartiere dei templi degli antichi dei xebechani
+Vincenzo Alvarez (Cartosano Ladro), studioso di cartografia
+Barulf (Nano Priest) nano dei Monti Bianchi
+Le Sale Dimenticate
+Xuthal è piena di antiche camere e passaggi, alcuni abbandonati da lunghi secoli... intere sezioni della città sono state sigillate perché ritenute “pericolanti”.
+Ufficialmente le sezioni abbandonate sono sorvegliate, ma in realtà le zone da controllare sono troppe e le forze disponibili troppo poche. Gli Xudra, gli unici che hanno quotidianamente a che fare con esse, semplicemente le evitano.
+La verità è che un male antico si annida nelle più profonde viscere della città, un male che gli Xebechani hanno dimenticato.
+Si tratta di Mologorth, un possente demone, luogotenente dei Demoni Sovrani, che lentamente sta cercando di impossessarsi della città (anche se non è tanto folle da attaccare direttamente i potenti Xattva, almeno per ora...).
+Mologorth è un Terrorite: appare come un uomo nero, con una lunga cosa di serpente e grandi ali da pipistrello. Il suo morso risucchia 1d0+20pf, emana un'aurea di Paura nel raggio di 30m, è immune al calore e al freddo e conosce svariate liste di incantesimi.
+Ha numerosi servi a propria disposizione, oltre ad una serie di Xebechani rianimati.
+Il suo scopo è quello di corrompere l'intera città, per espandere l'Isola della Morte
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Mologorth (VI)
+32°
+SL#
+250
+12(60)
+200BAx(2D)+130GSc(2D)/100MBi/Spec
++16
+Shade Demon (IV)
+14°
+LA
+220
+1(80)
+110MCL(2x)/Spells
++12
+Demone III
+8°
+II
+120
+4(50)
+60MCl(2x)
++8
+Non Morto IV
+9°
+II#
+135
+1(40)
+95we
++4
+DEI XEBE
+sguardo-sul-nulla - Questo Dio-Concetto rappresenta il pensiero di coloro che guardano ma non comprendono. Che tale incomprensione sia data dalla stoltezza dell'osservatore o dall'inconcepibilità dell'oggetto scrutato, poco importa. Tutto ciò che vi è di oscuro, incompreso, alieno è rappresentato da sguardo-sul-nulla. Per gli adoratori che comprendono meno la natura degli Dèi Concettuali sguardo-sul-nulla è una divinità della Saggezza, dell'Occulto, della Follia.
+ 
+tricotomia-di-atti-e-pensieri - Questo Dio rappresenta la divisione delle azioni e di tutto ciò che è. Vi sono tre Vie, il Bene, il Male ed il Nulla, secondo le quali ogni Atto è compiuto in accordo con il concetto della Tricotomia dell'Agire. Questa divinità è adorata dai meno comprensivi della religione degli Esterni sia come Dio del Bene, che del Male, che dell'Equilibrio, della Quiete o dell'Azione. Tra gli Dèi Esterni è il meno compreso ed il più adorato.
+ 
+parola-che-tace - Rappresenta il Silenzio Cosmico che crea la Musica e la Parola. Adorato come divinità delle Arti, della Magia, dell'Oblio, della Distruzione.
+ 
+essenza-di-tutto-ciò-che-era-è-e-fu - Il concetto di Essenza Essenziale è rappresentato da questo essere cosmico secondo il principio di un'Essenza dell'Essenza, ovvero di un'Essenza Primordiale. Adorato dagli Arcanisti. 
+ 
+connubio-in-uno - Il tutto che si fonde nell'uno che rappresenta il tutto. Adorato come dio della Creazione, della Vita, della Morte, dell'Unione, degli Spiriti, della Natura.
+ 
+fiume-di-essere - Il Tempo. Rappresenta il passato, il presente ed il futuro, lo scorrere del tempo e la trasformazione di tutto ciò che è in ciò che sarà, e di ciò che era in ciò che è. Adorato come dio del Tempo, della Morte, della Decadenza, della Nascita, della Distruzione.

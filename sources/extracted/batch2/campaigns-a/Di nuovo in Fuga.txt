@@ -1,0 +1,74 @@
+
+DI NUOVO IN FUGA
+Dopo essere sfuggiti dalla tana di Gwalgamaur i PG sono comunque in una situazione poco piacevole: il drago è infuriato e ha sguinzagliato i suoi scagnozzi per trovarli, devono fuggire alla svelta in un luogo sicuro o sarà la fine! Sì, ma dove andare?
+Ecco alcune opzioni:
+Tornare a Tor-Varn: in generale una cattiva idea: fra loro e il forte ci sono 200km di montagne che pullulano di nemici. Teletrasportarsi indietro potrebbe sembrare una buona idea ma Logarth la osteggerà: Gwal sta controllando la zona e di certo non gli sfuggirebbe un simile incantesimo, userebbe i suoi poteri per dirottarlo e catturare i fuggiaschi.
+Andare a Waldenheim: a qualche pg potrebbe venire in mente che forse la capitale nanica non è molto distante (un tiro su Conoscenza Wald rivela che è vero). Tuttavia recarsi lì non pare una buona idea: significherebbe andarsi a chiudere in un assedio, ammesso che i nani facciano entrare i PG. Logarth lo sconsiglierà.
+Lasciare il Wald: questo è ciò che suggerirà Logarth. Per la precisione il suo piano sarebbe quello di allontanarsi scendendo lungo i canaloni verso sud-ovest, raggiungere il fiume Kmer, che scorre di là ed è abbastanza grande da essere navigabile con una piccola imbarcazione. Poi seguire il fiume fino a Ennin-Lar (il Cancello Occidentale), l'ultimo grande centro nanico in quella regione. Là decidere il da farsi ma principalmente optare per lasciare il Wald in direzione sud-ovest.
+I primi giorni di viaggio sono i più duri: i pg devono togliersi di dosso gli inseguitori. Per fortuna con loro c'è Logarth che li guida attraverso i canaloni. In ogni caso, almeno per i primi due giorni Logarth vieta loro di castare qualsiasi cosa: il drago sta cercando la loro presenza e qualsiasi incantesimo potrebbe svelarla.
+A rallentarli, fra l'altro, c'è Surya che è praticamente in coma.
+Alcuni inseguitori (il pericolo maggiore, ovviamente, è che facciano rapporto sulla loro posizione!)
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Bestia Alata
+12°
+La
+240
+11(40)
+80HCl/60LBa/90LBi
++12
+Mastino del Fuoco
+6°
+M
+90
+4(30)
+70MBi/50FBr
++10
+Orchetto
+4°
+M
+75
+15(25s)
+90Sw/90LBw
++4
+TEMPESTA DI NEVE
+Si scatena una terribile tempesta, e i PG sono costretti a trovarsi un rifugio per non morire congelati.
+L'ATTACCO DELLA BESTIA DI VORAK
+
+Fortezanna, la cavalcatura di Vorak ha inseguito i PG seguendo l'odore della spada, con l'intenzione di vendicare il suo padrone. Assale i PG preferibilmente di notte. Preferirà tuttavia ritirarsi, piuttosto che combattere fino alla morte.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Warcat
+15°
+La
+280
+4(50)
+95LBi/120HCl(2x)
++12
+IL FIUME
+raggiunto il fiume Kmer, Logarth ha intenzione di costruire una zattera per navigarlo. I pg lo possono aiutare o approfittare della sosta (dura almeno una giornata) per fare altro.
+UN AVAMPOSTO INASPETTATO
+Sulle rive del fiume una torre nanica è stata catturata dagli orchetti, passandoci vicino i PG rischiano un'imboscata...
+ENNIN LAR
+la città fortificata di Ennin-Lar è l'ultima all'interno del Wald prima del confine occidentale. Questo lato del Wald è ancora in mano ai nani e i PG potranno finalmente sentirsi di nuovo al sicuro.
+Molti nani troppo vecchi o troppo giovani per combattere si sono rifugiati qui, sulle rive del lago Elegorst, contribuendo a dare alla città un aspetto troppo affollato.
+Prima ancora di giungere al lago i PG saranno sicuramente avvistati e avvicinati da una pattuglia di nani, capitanata da Gidor, uno dei 5 luogotenenti della città.
+Re della Città: Re Barulf
+Luogotenenti: Gidor, Balki, Hasulf, Thorbrand e Thorir (sono tutti Guerrieri di 15°).
+Altre personalità: Grilda (sacerdotessa di Damkianna e capo-guaritrice della città); Halvaliss (regina); Raghnid (principessa di Ennin Lar, figlia di Barulf); Svennar (Mago di corte, elementalista Terra)
+MISSIONE DIPLOMATICA
+Dopo alcuni giorni, quando i pg si sono ripresi, re Barulf li convoca in sua presenza. Nonostante le recenti piccole vittorie, il Wald è ancora in grave pericolo, soprattutto perché nessuno dei regni vicini pare essere intenzionato a venire in soccorso. Il re chiede ai PG se sono disposti a fare da scorta a sua figlia Raghnid, che intende mandare in missione diplomatica nel Regno di Nessa. Il re ha a disposizione pochi uomini d'arme, di cui non può disfarsi. Se i PG accettano fornirà loro cavalcature adeguate, attrezzatura, denaro e riconoscimenti. Tutto ciò che devono fare è scortare sua figlia prima alla cittadina di Torralta, per chiedere aiuto ai cavalieri della Fiamma Bianca, che lì hanno una grossa roccaforte (governata da Lord Damian), poi a Nessa dalla regina Estalia. 
+TORRALTA
+Al momento, Torralta sembra avere non pochi problemi...
+Lord Damian e i suoi sono impegnati a dare la caccia a un gruppo di banditi che sta mettendo a dura prova l'efficenza dei suoi cavalieri.
+Recentemente, strane bestie sono state avvistate e hanno causato danni a persone e oggetti (Toyman)

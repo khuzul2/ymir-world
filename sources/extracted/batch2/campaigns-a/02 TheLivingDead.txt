@@ -1,0 +1,55 @@
+
+CAPITOLO II
+THE LIVING DEAD
+Info per i PG: Cittadina, vive principalmente di pesca e commercio.
+Di recente occupata dalle  forze  di  Meridian.  (  Esercito  comandato  dal
+Generale Romero DelNorte. La squadra comandata da DelNorte,  gli  “Sciacalli
+Purpurei”  (dal  colore  delle  armature  degli  uomini),   è   famosa   per
+l’efferatezza ed è temuta da tutti. I controlli al porto sono  molto  rigidi
+e ci sono diverse pattuglie di guardie che girano per la città. Santiago  ha
+la reputazione di un uomo crudele e spietato, che si diverte a  torturare  i
+prigionieri. Di fatto, ha preso possesso del palazzo del  governatore  e  lo
+ha trasformato in una prigione, dove rinchiude  tutti  quelli  che  si  sono
+inizialmente opposti all’avanzata  delle  sue  truppe  e  tutti  quelli  che
+reputa rivoluzionari. Come se non bastasse la  città  è  stata  recentemente
+colpita da una strana pestilenza che sta  iniziando  a  dilagare.  I  medici
+della città sono stati presi subito al servizio  dai  militari  così  chi  è
+malato deve per forza rivolgersi agli uomini di DelNorte per ricevere  delle
+cure, i quali portano i malati all’interno  del  palazzo.  Nessuno  sa  cosa
+capita lì dentro perché nessun malato ne è ancora  uscito.  Non  sono  molti
+quelli che ci sono andati perché  le  persone  hanno  paura  di  DelNorte  e
+preferiscono cercare di guarire da sole.
+
+Quello che i PG non sanno e che gli abitanti cercano loro stessi  di  tenere
+nascosto (per paura delle guardie e di DelNorte) è le persone colpite  dalla
+“pestilenza” in realtà spariscono e ricompaiono  qualche  giorno  dopo  come
+zombie  (  sono  creazioni  di  DelNorte  che  sta  utilizzando   Cay   come
+laboratorio per vedere come si comporta un certo reagente alchemico  di  sua
+invenzione perché vuole preparare un’armata  di  zombie  per  Meridian.  Non
+sono quindi veri e propri zombie non morti.
+
+Trovano posto ad una locanda alla “Testa del Morto” che viene indicata  come
+la migliore e a più buon prezzo della città (una  stanza  singola,  completa
+di pasti e beveraggi costa 5 mr  per  giorno).  Qui  possono  incontrare  la
+nuova recluta e cazzeggiare un po’.
+
+ I modi in cui i PG possono essere coinvolti sono diversi:
+- DelNorte è sulla lista di miscredenti di Gloria, con  in  nome  di  Dottor
+Romero DelNorte. È accusato di pratiche alchemiche  contro  natura  e  altre
+cose poco piacevoli.
+- Uno o più PG potrebbero venire infettati
+- E’ difficile lasciare la città, DelNorte non vuole  che  il  suo  progetto
+venga spifferato in giro e  fa  di  tutto  per  tenerla  isolata.  Se  i  PG
+vogliono andarsene dovranno fuggire di nascosto o sconfiggere il generale.
+
+Generale Romero delNorte: in realtà è un  Grey  Noble  ma  nasconde  la  sua
+natura dietro una maschera (è  pratica  comune  fra  i  nobili  di  Meridian
+portare maschere che simboleggiano la loro casata), sempre vestito di  nero,
+con guanti neri e un ampio mantello  rosso.  Ha  un  Scimitarra  Magica  +10
+chiamata “Forgiavedove”.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Romero delNorte |12° |La# |150|9(60)     |110Scimitar                 |+8  |
+|Soldato         |4°  |M   |65 |9(15)     |60Sp/60Rap                  |+6  |
+|Morto Vivente   |2°  |I#  |45 |1(15)     |30MBa                       |+4  |
+

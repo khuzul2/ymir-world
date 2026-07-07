@@ -1,0 +1,57 @@
+
+NANI
+
+Se Yonker parla con Gotrek  degli  eventi  alla  Torre  e/o  gli  fa  vedere
+l’anello di Dwalor:
+Gotrek gli parla del motivo della presenza dei nani ad Armora: sono qui  per
+monitorare le azioni degli umani, per controllare che  non  assumano  troppo
+potere  a  discapito  della  razza  nanica.  Invita  lui  (e  Baudolino)   a
+partecipare al Grande Raduno che si terrà segretamente  quella  sera  stessa
+nella Sala  dei  Nani  al  cimitero.  Lì,  dice  Gotrek,  verranno  discusse
+importanti questioni per  i  nani  di  Armora  e  saranno  prese  importanti
+decisioni, davanti alla tomba di Senir il  Venerabile,  grande  antenato  di
+tutti i nani di Armora.
+
+La riunione che si tiene alla sera è  tenuta  da  un’organizzazione  segreta
+nanica: i Custodi della Forgia.
+I Custodi della Forgia:
+      - Durkaam, il Grande Fabbro, è il padre della razza dei nani, tutti i
+        nani (anche se alcuni  lo  fanno  inconsapevolmente)  lavorano  per
+        conto suo.
+      - Lo scopo finale è quello di costituire un Grande Regno Nanico,  che
+        riunisca tutti quelli esistenti e imponga la sovranità della  razza
+        nanica sulle altre.
+Durante la riunione si discuteranno argomenti sul Wald e i nani  di  Armora.
+Verrà proposto a i due di agire come agenti interni alla società  umana  per
+conto dei Custodi.
+
+
+
+Gallard, ex locandiere era stato dato per morto da Bandolino  e  Yonker…  in
+realtà  è  sopravvissuto  e  ora  vuole  vendicarsi!  Un   medicastro   l’ha
+trasformato in un Amalgama vivente. Ha radunato alcuni scagnozzi e  cercherà
+di tendere un’imboscata ai due…
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Gallard,        |10° |M#  |125|9(30)     |90SBa/135Xbow               |+8  |
+|ex-locandiere   |    |    |   |          |                            |    |
+|Assassino       |5°  |M   |90 |9(20)     |120Swrd                     |+8  |
+
+
+                                     ISI
+
+
+Prova per diventare Iniziato:
+   1. Interrogazione sui principi dell’elementalismo e della magia
+   2. Prova di Lettura Rune e di Uso Oggetti Magici
+   3. Prova di Controllo Elementali (Scarabeo Elettrico Gigante)
+   4. Prova di Gruppo
+   5. Prova Finale
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Scarabeo        |1°  |S   |20 |1(80)     |5SSt[+A El]/20ShBolt        |+12 |
+|Eltettrico      |    |    |   |          |                            |    |
+|Golem           |10° |La# |170|16(20)    |100LBa                      |+0  |
+
+
+Calis ( Arsenale

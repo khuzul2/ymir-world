@@ -1,0 +1,31 @@
+
+HELLOST
+
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Lord Vorak      |20° |La@ |350|19(40)    |175THS/100Fbr/150MaS       |+8  |
+|Lord Maara      |20° |La@ |220|14(40)    |200La/Spells               |+16 |
+|Lord Durga      |20° |La @|400|20(60)    |140Wh(2D)                  |+4  |
+|Warcat          |15° |La  |280|4(50)     |95LBi/120HCl(2x)           |+12 |
+|DreadWing       |10° |La  |150|4(20)     |100MCl/105MBi              |+12 |
+|Goblin          |3°  |M   |50 |13(25s)   |70Spear/60SSword           |+8  |
+|cavalcalupi     |    |    |   |          |                           |    |
+|Lupo            |3°  |M   |110|3(30)     |65MBi                      |+4  |
+|Orchetto        |4°  |M   |75 |15(25s)   |90Sw/90LBw                 |+4  |
+|Orchetto Elite  |6°  |M   |100|15(40s)   |120Sw/100LBw               |+8  |
+|Troll di        |10° |La@ |240|16(40s)   |120Bax/100LBa/100ro        |+0  |
+|Montagna        |    |    |   |          |                           |    |
+|Comandante      |9°  |M   |120|17(30s)   |145Spear/140Mace           |+8  |
+|Orchesco        |    |    |   |          |                           |    |
+|Urtak           |7°  |I#  |135|18(50)    |130We                      |+8  |
+|Stregoni        |8°  |M   |90 |8(20s)    |80We/70FBolt/spells        |+8  |
+|Troll dei       |13° |La@ |200|11(30)    |105HCl/80HBa/80ro          |+6  |
+|Ghiacci         |    |    |   |          |                           |    |
+
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Gwalgamaur      |66° |SL  |600|20(75)    |125HBi/150HCl/130HBa/90HHo/|+8  |
+|                |    |    |   |          |120Fbr                     |    |
+

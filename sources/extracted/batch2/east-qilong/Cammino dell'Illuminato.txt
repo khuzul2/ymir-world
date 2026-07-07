@@ -1,0 +1,98 @@
+
+IL CAMMINO DELL'ILLUMINATO
+SCRITTE SU UN MURO
+Sul primo muro disponibile i PG (anche quelli che non sanno leggere) vedono questa scritta.
+Superate le folli Tenebre dell'Incubo e abbattuto il Dubbio dell'Illusione, non resta che lacerare l'ultimo Velo perché il Cammino dell'Illuminato risplenda. Il Velo è di fronte a voi, chiunque cerchi una strada non troverà altro che una strada.
+Per procedere nella loro ricerca devono dissolvere l'Armora illusoria che li circonda, frutto dei loro sogni. Come riuscirci sta a loro ^_^ 
+Aprire la strada è un Minor Goal
+IL GIUDICE
+Dissolta l'illusione i PG si trovano su una larga piattaforma, in apparenza sospesa nel vuoto. Al centro dello spiazzo si trova una grande statua: raffigura un uomo seduto su uno scranno, in posa pensosa. Ha una lunga barba ma la sua faccia è stata cancellata. Ai suoi piedi giace una bilancia spezzata. Sulla base della statua si trova un scritta:
+Guidati dal Fato e dalla brama di Saggezza in questo luogo sarete giudicati con ingiusto giudizio.
+Non c'è nessun Goal in questa scena
+L'ASCESA
+Un cammino in salita si presenta davanti ai PG, la strada si snoda verso l'alto, avvolta dalle nubi. A distanza regolare si intravedono delle costruzioni, simili a grandi capitelli. La fine della salita è però occultata alla vista da una coltre di nuvole, a guardare dal basso pare non finire mai.
+Le costruzioni sono 6 santuari: uno per divinità elementale. Seguendo il percorso si arriva a visitarli tutti, ma superato l'ultimo si ritorna al primo, in un circolo senza fine.
+Acqua, Hudemia: Quattro colonne di marmo azzurro sorreggono un tetto dello stesso colore. In mezzo si trova un altare, che sorregge un lastra, anch'essa azzurra. Su di essa è scritto
+Sacrificandoci sul nostro stesso altare
+Piegammo le leggi del Cosmo al nostro volere
+Vento, Heis: Simile al primo, ma composto di una pietra argentea. Qui la scritta è
+Con Furia ci avventammo
+Rivendicando come nostro il Fato
+Terra, Therios: Questo è composto di un materiale simile all'Ossidiana.
+La vita stessa asservimmo
+ed essa si inchinò ai nostri piedi
+Ghiaccio, Varshnak: Questo sembra fatto di marmo bianco.
+Attraverso le mura del Mondo
+il nostro urlo zittì la furia degli elementi
+Luce, Dingir: Questo è d'oro massiccio.
+I Tre Reami assieme al più Antico
+splendono della nostra Saggezza
+Fuoco, Diis: Questo è costruito con una pietra simile al rubino
+Attingendo al fuoco Astrale
+nella nostra Forgia ricreammo l'Essenza
+Girando intorno agli altari si nota che il retro è liscio come uno specchio, un tiro di Osservazione svela un meccanismo che serve a far ruotare gli altari.
+Una delle arcate degli altari mostra un'illusione: un tempio simile, traslucido e cangiante. Tuttavia, uscendo dagli altari l'illusione sparisce.
+Ruotando tutti gli altari verso l'illusione si apre un portale che vi conduce... 
+Raggiungere il settimo santuario è un altro Minor Goal
+IL SETTIMO SANTUARIO
+I PG si trovano nuovamente in città, in una larga piazza. Al centro della piazza, proprio davanti a loro, si trova il santuario che hanno visto dagli altri. Oltre il santuario si vede l'accesso a un grande edificio: la Biblioteca...
+Se i PG analizzano il Santuario noteranno che anche questo reca un'incisione
+Spezzammo ogni Legge 
+Atteggiandoci a Legislatori
+Liberandoci dai vincoli del Fato
+Incatenammo il mondo a un tristo Destino
+Creammo vuoti simulacri
+Fingendo che fossero vivi
+Sfaldando le mura del Mondo
+Dagli elementi fummo posseduti
+Più antica della nostra follia
+La magia riluce del proprio incanto
+Nella nostra immane Arroganza
+Lordammo la perfezione dell'Essenza
+Se procedono verso la biblioteca arriveranno davanti alla sua entrata: qui la statua di un grande angelo, circondato da due enormi leoni alati, pare custodire la porta dell'edificio.
+Una voce possente riecheggerà nelle menti dei PG:
+Mortali! Lasciate questo luogo! La Verità non fa per voi! Meglio vivere nelle tenebre dell'ignoranza, che perire nella fiamma di un sapere terribile!
+Se non se ne vanno le statue diventano vere, attaccandoli...
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Campione Onirico
+20°
+La@
+200
+14(80)
+200BSw(2D)/Spells
++12
+Lammasu
+10°
+La
+150
+4(30)
+140LCl(2x)/160MBI/Spells
++12
+Incantesimi: Campione -> Paladino / Lammasu -> Animista
+Superare la battaglia è un Minor Goal
+LA GRANDE BIBLIOTECA
+Non appena entrano i PG si ritrovano trasportati in mezzo ad una battaglia infernale.
+Non riescono a capire dove si trovano, sembra una fortezza o una grande città... tuttavia non hanno molto tempo per guardarsi intorno: dal cielo piovono fiamme e un'orda di creature demoniache sta assaltando la città. Loro si trovano proprio in mezzo alla battaglia. Vicino a loro un generale in armatura scintillante falcia demoni urlando “Resistete! Resistete! Dobbiamo dargli abbastanza tempo per completare il rituale!”
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Demone IV
+13°
+La
+200
+4(60)
+90we/60wp(2D)/spells
++8
+Dopo qualche round di combattimento i PG si trovano fianco a fianco col generale... proprio allora un colossale ragno di fuoco sfonda le mura e con un colpo solo lo polverizza...
+I PG si trovano in una larga sala vuota, un grande pendolo oscilla in mezzo alla stanza.
+“Non siete i primi a giungere fin qui... e suppongo non sarete gli ultimi. Tuttavia immagino voi abbiate delle domande. Siete pronti ad affrontare le conseguenze delle risposte?”

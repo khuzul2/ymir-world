@@ -1,0 +1,91 @@
+
+LA TOMBA DI NEMELATEKH
+UNA VECCHIA CONOSCENZA
+Leonard si trova con degli alleati nella tomba, cercherà di convincere i PG ad unirsi alle forze del Tecnocrate... dato che probabilmente non ci riuscirà dovrebbe essere giunto il tempo della tanto attesa resa dei conti.
+Gli avversari sono:
+Leonard: questa volta il vampiro cercherà in ogni modo di sbarazzarsi dei PG
+I Vampiri sono vulnerabili solo alle armi magiche, ai colpi critici da Impalamento alle magie di Forza o Elementali (Acqua e Elettricità).
+Morso risucchia 1-5 punti Co e 1d10+20 pf...
+PP: 92
+Liste: Tutte quelle del Mentalismo Malvagio fino al 15° livello (gratis e senza manovre)
+Più vedi scheda.
+Oggetti di Nota: 
+Anello del Potere: Addizionatore +3 per l'Essenza
+Cintura Protettiva: +10 BD
+Spada: “Cerberus” forgiata dal Tecnocrate per rimpiazzare la perduta Hydra, somiglia a un incrocio fra una spada e una motosega. In mithril, +25, se azionata fa colpi critici Tearing Ripping.
+100 mo
+Vedi anche la scheda...
+Uccisore Meccanico: Uno dei costrutti del Tecnocrate, una scolopendra meccanica gigante... decisamente poco simpatico.
+Ghoul Meccanico: Uno o due a seconda del numero di PG presenti
+Rufia: Una servitrice del tecnocrate mandata a spalleggiare Leonard (Magent/Cecchina).
+Ha con sé:
+-	Lente Monoculare Migliorata: Riduce di un quarto le penalità per la distanza con le armi da tiro. In più la lente è incantata con Darkvision costante.
+-	Sputadardi Leggera: Magica +20
+-	Armatura Camaleontica: TA9, +25 a Stalking/Hiding
+-	Anello Giornaliero: Stun Relief 1 al giorno
+-	25 mo
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Leonard
+15°
+La#
+129
+1(63)
+155BrSw[Tearing]/83MBi+Spec
++11
+Ghoul Meccanico
+10°
+II#
+110
+1(70)
+90Dag/70Mbi+special
++12
+Uccisore Meccanico
+14°
+La#
+300
+20(70)
+130LPi+Poison/130LBa
++21
+Rufia
+10°
+M
+90
+9(30)
+115LXBow/80SSw
++10
+LA SALA DEL MARTELLO
+Trappola: Subito dopo la svolta c'è un classico trabocchetto (camuffato in modo da essere “Estremamente Difficile” [-30] da notare) , il pavimento cede aprendo una botola profonda 9 metri, su un pavimento coperto di spuntoni (oltre all'attacco da caduta viene colpito da 1d5 spuntoni, attacco da Pugnale col BO della caduta +10 ogni spuntone oltre il primo). La trappola è incantata in modo da richiudersi dopo un'ora
+Armatura: Costruita in modo da sembrare un minaccioso costrutto, in realtà è un oggetto magico semi intelligente. Se percepisce “Presenze” entro sei metri in fronte a sé attiva un cono di potente forza telecinetica: chi fallisce un TR contro l'Essenza di 25° livello viene respinto indietro di mezzo metro per 10 di fallimento. Chi ha oggetti metallici riceve una penalità compresa fra -10 e -50 al TR, a seconda della quantità di metallo che ha con sé.
+La stanza: è Wardata contro ogni tipo di Teleport.
+OEDRING, IL MARTELLO DEL MONDO SOTTERRANEO
+POTERI: Martello da Guerra +30 (colpisce come Mithril), Indistruttibile, Doppio Danno, colpo critico addizionale da Krush, crea una sfera di magnetismo intorno al portatore che gli conferisce un bonus di +20 al BD contro le armi di ferro, permette di creare oggetti in giorni invece che in settimane, ogni oggetto forgiato col suo ausilio guadagna 2d10 di PC (Terra). Estremamente intelligente, comunica attraverso Telepatia.
+LA VERA TOMBA DI NEMELATEKH
+Il Guardiano: 
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Black Reaver
+50°
+SL#
+600
+20(60)
+250BAx(3D)(x2)/200HBa(2D)
++15
+Sconfiggere il Guardiano è un Minor Goal Absurd
+Il Tesoro: 
+1000mo
+Cintura della Focalizzazione: +2 al bonus di SD; +10 a Rimuovere Stordimento; ogni round rimuove automaticamente un round di stordimento (anche senza parare), fino ad un massimo pari al bonus di SD del personaggio ogni giorno.
+Pozione della Forma di Drago: chi la beve sviluppa grandi ali membranose, dure scaglie (TA12) e può sputare fuoco (Fire Bolt) una volta ogni 3 round, per 6 ore.
+Tunica dell'Arcimago: TA2, +10 al BD, il portatore conta come se fosse di 1 livello più alto quando lancia incantesimi (sia per TR che per le manovre di lancio)
+Bastone della Disgregazione: 50 cariche, 1 carica causa Cracks Call, 5 cariche causano Shatter e 15 cariche causano Disintegration.
+Sfera della Veggenza: una sfera di vetro, può lanciare Divination una volta al giorno. La sfera ha anche altre capacità, a seconda della volontà dell'utilizzatore, ma se usata in questo modo è incredibilmente spossante e può anche causare danni a chi la usa. 

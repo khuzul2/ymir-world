@@ -1,0 +1,86 @@
+
+DOWN DOWN TO GOBLIN TOWN
+
+I PG si sono insediati nell’antica via nanica di Karak-Fel.
+
+Luogotenenti PG: Gork e Ugruk.
+
+Mentre sono impegnati, vengono raggiunti da un goblin messaggero: la base  è
+sotto attacco!!
+
+L’attacco è portato dagli squadroni di Lord Durga: un nano rinnegato che  ha
+giurato fedeltà al Drago. Ora che il Drago non è più attivo come prima  Lord
+Durga si è insediato in  una  fortezza  abbandonata  nelle  vicinanze  (Tor-
+Kragdin) e spadroneggia nella zona.
+
+Quando i PG arrivano l’attacco è già quasi finito, rimangono  solo  un  paio
+di squadre di Ogre in assetto da battaglia (vedi sotto), guidati da un  Capo
+Ogre. I PG scoprono che gli assalitori hanno ucciso o rapito molti dei  loro
+e rubato gran parte del loro metallo/ricchezze.
+
+I  sopravvissuti  dicono  che  gli  attaccanti  sono  arrivati  dal   basso,
+all’improvviso. Probabilmente le truppe di Lord Durga sono  passate  per  le
+vie scavate dai Profondi.
+
+
+I Profondi: sono dei clan  di  orchi,  goblin  e  simili  che  vivono  nelle
+profondità della terra e non vogliono avere a che fare  col  mondo  esterno.
+Di solito non si alleano né con gli orchi  selvaggi  (dei  PG),  ne  con  le
+truppe di Lord Durga, ma preferiscono mantenere la neutralità…  Riuscendo  a
+convincere in qualche modo i loro  capi  si  potrebbe  sperare  in  un  loro
+aiuto…
+Zarbag: Il più importante capo-orco del sottosuolo, comanda un  bel  po’  di
+orchetti e goblin
+Bralg: Un folle Hobgoblin che comanda una grossa banda di  feroci  guerrieri
+animaleschi da cui la maggior parte degli altri si tiene alla larga
+Vorg:  Uno  sciamano  cieco  orco,  molti  temono  la  sua  magia  e  alcuni
+sussurrano che sia un non morto… anche lui comanda  una  banda  di  orchi  e
+goblin
+Hurog: Grande capo Ogre, comanda un centinaio di suoi simili
+
+URBORG: città degli orchi
+
+
+VARI
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Goblin          |3°  |M   |50 |13(25s)   |70Spear/60SSword           |+8  |
+|cavalcalupi     |    |    |   |          |                           |    |
+|Lupo            |3°  |M   |110|3(30)     |65MBi                      |+4  |
+|Orchetto        |4°  |M   |75 |15(25s)   |90Sw/90LBw                 |+4  |
+|Orchetto Elite  |6°  |M   |100|15(40s)   |120Sw/100LBw               |+8  |
+|Troll di        |10° |La@ |240|16(40s)   |120Bax/100LBa/100ro        |+0  |
+|Montagna        |    |    |   |          |                           |    |
+|Troll dei       |13° |La@ |200|11(30)    |105HCl/80HBa/80ro          |+6  |
+|Ghiacci         |    |    |   |          |                           |    |
+|Comandante      |9°  |M   |120|17(30s)   |145Spear/140Mace           |+8  |
+|Orchesco        |    |    |   |          |                           |    |
+
+PROFONDI
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Zarbag          |17° |M   |177|14(70)    |160Scmt/120Whip/145XBow    |+12 |
+|Bralg           |16° |M   |170|19(60)    |160Fal/125Spr              |+12 |
+|Vorg            |15° |M#  |150|9(50)     |90Mace/Spells              |+12 |
+|Hurog           |18° |La  |250|19(40)    |170Flail/150LBa            |+12 |
+
+
+
+AVVERSARI
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Lord Durga      |20° |La @|400|20(80)    |180Wh(2D)                  |+4  |
+|DreadWing       |10° |La  |150|4(20)     |100MCl/105MBi              |+12 |
+|Ogre da Guerra  |8°  |La  |160|15(10)    |70We/100LBa                |+8  |
+|Capo Ogre       |12° |La  |200|17(20)    |150we[2D]/120LBa           |+8  |
+|Dreugh          |8°  |I#  |140|15(30)    |110WH/Special              |+0  |
+|Gigante di      |10° |SL  |350|12(60)    |120We[4D]/90ro/Spells      |+8  |
+|Montagna        |    |    |   |          |                           |    |
+
+
+Dreugh: nani non morti, risucchiano 3 punti Co/rnd  a  chi  fallisce  un  TR
+Vigore, i loro occhi fiammeggianti sono lievemente ipnotici:  TR  Mentalismo
+4° livello (8° per un nano) per non venir paralizzati (ci si sveglia  se  si
+è colpiti, una volta risvegliati o colpiti non funziona più), i nani  uccisi
+risorgono come Dreugh.
+

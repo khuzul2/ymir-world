@@ -1,0 +1,101 @@
+
+CAPITOLO VI
+
+AFTER DARK
+GUAPORE’: provinciale, mood degli abitanti ostili  e  xenofobi,  parlano  in
+dialetto stretto.
+Occupato dalla guarnigione dei Falchi Dorati. ( Comandante Juan Miranda
+Locanda delle Speranze Perdute.
+CERCARE IL NANO
+Per il nano rimandati al monastero di San Felipe, 20/25  km  distante  dalla
+cittadina. Nessuno vuole accompagnare i PG fino al  monastero,  ma  indicano
+il sentiero che vi ci porta.
+Aggressione da parte di un branco di cani Selvaggi durante il tragitto.
+SAN FELIPE
+I PG arrivano nel paesino di San Felipe. Il paese è  in  parte  abbandonato,
+la gente vive nella paura  e  non  da  confidenza  agli  estranei.  C’è  una
+locanda (senza nome)  in  cui  i  PG  possono  alloggiare  (oste:  Fernando,
+Cameriera  (moglie):Amanda)  ricevono  indicazioni  su  come   arrivare   al
+monastero ma nient’altro. Nessuno ha mai visto il nano.
+NOTTE
+Quando dormono un PG si sveglia (poss. bardo)  per  un  rumore  e  vede  una
+donna bellissima, vestita di bianco, nel corridoio della locanda.
+Il suo nome è Clarissa, consiglia i PG di non andare al  monastero,  dicendo
+che l’abate che lo sovrintende, Zenon, è un essere malvagio  molto  potente.
+Se le viene nominato il nano dice che effettivamente potrebbe essere  tenuto
+prigioniero insieme a molte altre persone all’interno del  monastero.  Fissa
+un incontro per il tramonto del giorno dopo in piazza del villaggio. (il  PG
+si sveglia molto stanco, con pf in meno)
+IL MONASTERO
+Il giorno dopo, mentre i PG decidono il da farsi, un  monaco  del  monastero
+arriva da loro e si offre di guidarli dall’abate. Il monastero è dedicato  a
+Hokhmah, la dea della conoscenza volta al bene. Appare  un  po’  in  rovina,
+cosa che il monaco motiva con lo scarso numero di confratelli  (di  fatto  i
+PG ne vedono pochi)
+Zenon li riceve in una stanza buia,  illuminata  da  candele,  apparecchiata
+per il pranzo. ASPETTO: uomo di età indefinibile, pelato, con barba  nera  e
+orecchie leggermente a punta, appare pallido, vestito di nero.
+Si scusa per l’accoglienza ma si giustifica  dicendo  di  stare  poco  bene,
+sente cosa dicono i PG e dice che non si ricorda di un nano  che  è  passato
+di la ma che può consultare i registri del monastero per vedere se  è  vero.
+Nel frattempo i PG sono ospiti del monastero, si mostra  molto  curioso  sul
+motivo che spinge i PG.
+I PG che si guardano intorno (Osservazione) possono notare alcune cose:  una
+carenza di simboli della dea e una strana profusione  di  raffigurazioni  di
+cani  o  sciacalli  (una  manovra  di  Religione  “Molto  Difficile”  o   di
+Conoscenza  Demoni  “Molto  Difficile”  rivela  che  sono  il   simbolo   di
+Netunshiel, il Signore delle Cripte).
+Zenon potrebbe parlare di una maledizione che grava  su  queste  terre,  una
+vampira che si aggira di notte seminando il terrore.
+NOTTE 2
+Se il PG non va da Clarissa, va lei da lui, magari un po’  dopo  mostrandosi
+preoccupata. Dice che Zenon era un grande alchimista ma ora  è  un  malvagio
+vampiro che ha imprigionato il nano  perché  sa  qualcosa  che  vuole  farsi
+rivelare. Zenon trae il suo potere da una  coppa  incantata  che  custodisce
+nella sua cripta, se i  PG  riusciranno  a  sottrargliela  e  a  portarla  a
+Clarissa, che è una sacerdotessa, lei potrà benedirla e  liberare  il  mondo
+dalla minaccia di Zenon.
+In  realtà  vuole  impossessarsene  per  diventare  più  potente  di  lui  e
+ucciderlo…
+COSE DA FAR TROVARE IN GIRO
+Nello studio/cripta di Zenon:
+ELISIR DELLA SERVITU’ OSCURA: Un liquido nero  come  la  notte,  solitamente
+contenuto in contenitori di ossidiana.
+POTERI: Chi beve questo nefasto elisir deve fare un TR contro il Flusso  del
+50° livello (-20) o subire i seguenti effetti:  d’ora  in  avanti  vedrà  al
+buio come gli orchetti ma sarà infastidito dalla luce  del  sole  (-25  alle
+attività); acquisirà 8 ranghi in tutte le lingue  malvagie  (solo  parlato);
+dovrà fare un TR contro il Flusso del proprio livello  per  poter  attaccare
+qualsiasi creatura malvagia e  obbedirà  (nessun  TR)  a  tutti  gli  ordini
+impartiti da creature malvagie di almeno 10 livelli superiori al suo.
+AMULETO DELLA VOLONTA’ FERREA: +15 ai TR contro gli incantesimi mentali.
+POZIONE DEL RAGNO: +100 ad Arrampicarsi per 10 minuti.
+POZIONE DI CURA: 5d10 pf.
+PERGAMENA DI FIREBALL
+Su Zenon:
+PENDENTE DEL MAESTRO DELLA MENTE: x2 per il Mentalismo, +5 alle  manovre  di
+lancio incantesimi.
+COPPA DEL NOSFERATU: incrementa i poteri dei Vampiri che  devono  sangue  al
+suo interno ma è inutilizzabile dai mortali, x cui…
+Su Clarissa:
+ANELLO DI ADAMANTIO: x1.5 per il Flusso
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Cane Selvaggio  |3°  |M   |110|3(30)     |65MBi                       |+8  |
+|Clarissa (V)    |17° |La# |140|2(90)     |80SCl/90MBi+special/Spells  |+12 |
+|Zenon (V)       |20° |La# |140|2(80)     |90SCl/100MBi+special/Spells |+12 |
+|Fantasma (III)  |7°  |La# |100|1(30)     |60MBa+special               |+8  |
+
+Nota: i Vampiri rigenerano 3pf/rnd. Il morso di un vampiro non  causa  alcun
+critico ma paralizza (chi fallisce un TR contro il Mentalismo)  e  causa  la
+perdita di 11-30pf e di 1-3 punti Co.
+Tutti i Vampiri hanno un bonus di +100 a Muoversi Silenziosamente.
+Tutti i Vampiri possono “charmare” una vittima, per fare  ciò  deve  esserci
+un contatto d’occhi e la vittima ha diritto a un TR contro il Mentalismo  (-
+10).
+
+I Fantasmi risucchiano 4 punti Costituzione a round in 3 metri di  raggio  a
+chi fallisce un TR contro
+
+Al-Assur
+

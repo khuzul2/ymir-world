@@ -1,0 +1,90 @@
+
+Oltre il Portale
+
+Fa freddo e c’è una strana luce grigia, crepuscolare, che  sembra  provenire
+da tutto intorno (una manovra Conoscenza Piani Folle permette di capire  che
+ci si trova nel Primo Pale). Sembra di essere  all’interno  di  una  qualche
+costruzione. Le pareti sono  di  metallo  bluastro  ma  il  pavimento  è  di
+terriccio, simile a gesso.
+
+Primo Pale, Regole Generali:
+    • I  fuochi  non  magici  non  si  accendono,  luci  create  magicamente
+      illuminano solo fiocamente.
+    • Gli unici esseri che possono essere  evocati  qui  sono  creature  del
+      Primo Pale, che però possono fare un TR per evitare il controllo.
+    • Si fatica ad intessere incantesimi usando l’Essenza  normalmente  (gli
+      usufruitori del Flusso non hanno problemi): ogni incantesimo costa 1PP
+      in più ogni 5. Inoltre, gli incantesimi durano in generale 1/5 in meno
+      del normale.
+    • Ogni 10 minuti circa passati in questo posto si perde 1  PP,  fino  ad
+      arrivare a 0.
+
+
+Nota: la Prigione di Alastor ha un  pianta  grossomodo  esagonale,  con  una
+stanza per lato, più una al centro, dove si trova il trono.
+
+INCONTRO: RESTI DI BATTAGLIA
+
+In una delle stanze si  trovano  i  resti  di  uno  scontro  particolarmente
+violento, ossa spezzate sparse per il pavimento, segni di  bruciature,  cose
+spiaccicate (ex ragni giganti) e pezzi di demone morto.
+Tutte le cose organiche sono ingrigite e come  cristallizzate,  fragili,  si
+polverizzeranno al tocco.
+Fra le altre cose ci sono anche numerosi resti metallici,  probabilmente  di
+meccanismi o costrutti.
+
+
+Il “trono” di Alastor
+
+Infine, i PG arriveranno ad una stanza,  pare  una  sorta  di  cella  ma  al
+centro si trova una specie di trono di metallo,  posto  su  un  piedistallo.
+Legato al trono con delle catene nere c’è quello che resta di  un  uomo,  la
+bocca cucita, evidentemente morto da  tempo.  Sul  piedistallo  sta  scritto
+“Alastor il Sapiente”.
+
+Davanti a lui qualcuno ha disegnato 4 piccoli circoli (Circe Lore rivela
+che si tratta di circoli molto elaborati, per un uso altamente specifico e
+personalizzato. Servono a risucchiare qualcosa dal cadavere: le sue
+memorie).
+3 circoli sono vuoti, uno contiene una fiala-gemma dei sogni, piena e
+baluginante di luce azzurrina.
+
+
+INCONTRO I: QUEL CHE RESTA DI ALASTOR
+
+Alastor
+
+
+
+INCONTRI FUORI DAL PRIMO PALE
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Guardia         |5°  |M   |110|20(50)    |120Weap/Spells             |+12 |
+
+
+Il Primo Confine
+
+Se scappano nella fessura, ai PG spetta una lunga fuga attraverso vicoli
+scuri e contorti, fino ad arrivare in superficie, nella bianca e innaturale
+savana del Primo Confine.
+
+
+INCONTRI RANDOM PRIMO CONFINE
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Tlaque          |3°  |I   |80 |4(30)     |80MCl(x2)/75MBi/Special    |+12 |
+|Demone Primo    |1°  |I   |35 |1(20)     |40MCl(x2)                  |+8  |
+|Pale            |    |    |   |          |                           |    |
+
+
+Tlaque: strani demoni alati biancastri con la testa bovina. Possono
+gridare, causando un attacco da Paura nel raggio di 3m, che stordisce per
+1rnd/10 di fallimento.
+
+INCONTRO FISSO I: LA SPIRALE DEL DESTINO
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Tentacolo       |12° |M#  |80 |12(30)    |110LGr                     |+8  |
+
+
+

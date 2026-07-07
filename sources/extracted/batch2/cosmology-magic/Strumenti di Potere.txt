@@ -1,0 +1,137 @@
+
+STRUMENTI DI POTERE
+Per contrastare l'assalto dei Demoni Sovrani gli Adepti crearono le possenti Rune Magiche, strumenti di immane potere. Negli ultimi giorni delle Guerre Demoniache, tuttavia, la grande città-fortezza che le ospitava subì un assalto così feroce da parte delle loro orde che le Rune stesse rischiarono di venire corrotte dal potere oscuro. 
+Per questo motivo gli Adepti le sigillarono utilizzando 6 oggetti, le sei Reliquie del Potere: Ignus, lo Scettro delle Braci; Saralis, l'Anello dell'Inverno; Meletskar, la Lama di Luce e Ombra; Tassalung, il Gioiello degli Abissi; Natharien, il Diadema Celeste ed Oedring, il Martello del Mondo Sotterraneo.
+Solo il possessore di tutti e sei le Reliquie sarà in grado di attivare completamente le Rune Magiche e disporre del loro smisurato potere...
+IL TEMPIO DEI CUSTODI
+4° Piano: entrata
+3° Piano: dove sono i PG, Manovra Routine [+30] di Architettura o Media di Con. Cultura per accorgersi di essere in un tempio Xebechano. 
+Seguendo le tracce dei loro predecessori i PG procedono nel tempio, verso i piani inferiori. 
+Da dove sono arrivano all'ingresso di una scala: ci sono 4 scale (una per corridoio), ognuna di esse è protetta da una statua sull'entrata, che emana un'aura di Paura di 25° livello. Quella da dove sono passati gli altri è stata distrutta e giace per terra in pezzi.
+2° Piano: Le pareti del tempio sono coperte di incisioni e bassorilevi, in gran parte rovinati dal tempo: mostrano xebechani e altri umanoidi combattere contro esseri mostruosi (Storia Media per accorgersi che rappresentano le Guerre Demoniache). 
+Si tratta di un piano decisamente più ampio degli altri, pieno di corridoi “a spirale” intersecati fra di loro. Se i PG arrivano seguendo gli altri possono provare a seguire le loro tracce con una manovra Folle, oppure attraverso l'utilizzo di appropriati incantesimi (sono passati 10 ore fa circa). --> Obiettivo Minore: Folle (Ext Hard con incantesimi).
+Fuori dal giusto percorso ci sono delle porte, dall'aspetto bizzarro, coperte da intricati bassorilievi. Chi le osserva (per esempio avvicinandosi per aprirle) ne rimane affascinato se fallisce un TR contro il Mentalismo di 15° (--> salvare un compagno da esse è un Obiettivo Minore: Light). Può essere necessario un Dispel Mentalism per annullarne gli effetti.
+Giunti al centro del piano ci si trova in una grande sala a cupola, dal soffitto dorato, illuminata da una tenue luce perenne che si riflette sul soffitto. Al centro della stanza si trova una sorta di cilindro di pietra con una porta: si tratta di un'ascensore, Manovra Media di Ingegneria per capire di cosa si tratta e Molto Difficile per azionarlo (--> Obiettivo Minore Medio). Nella stanza ci sono chiari segni di lotta: due cadaveri umani (uguali a guerrieri sopra) e un ghoul meccanico fatto a pezzi, più rottami di strani costrutti xebechani bianchi intorno.
+3° Piano: diviso in sette sezioni concentriche, le prime sei dedicate sono dedicate ognuna ad uno degli Antichi Dei. L'intero piano è illuminato da una soffusa luce azzurrina. Ogni sezione è in pratica un grande anello ed una sola porta conduce a quella successiva (sono alternate in locazione). 
+Le pareti, il soffitto e il pavimento del primo cerchio sono coperte di bassorilievi raffiguranti creature cthulhoidi intrecciate fra loro, fatte talmente bene da sembrare vere. I PG udiranno un gemito e vedranno un uomo barcollare i mezzo alla stanza, agitando le braccia e farfugliando insensatamente. Un altro uomo è rannicchiato poco distante dall'entrata. Quando i PG entrano si accorgono che le creature sono effettivamente vere e che proiettano i loro tentacoli eterei fin dentro la stanza. Evitare un tentacolo è una manovra Estremamente Difficile di Ag, chi è colpito deve fare un TR contro il 25° del Mentalismo o subire un Colpo Critico da Shock di livello sempre maggiore. Le creature prevedono i mov dei PG, quindi muovendosi a caso, fingendo, etc diventano Routine da evitare. 4-5 manovre e si sorpassa la stanza.
+Il secondo è occupato da strani macchinari simili a bare dorate: sono capsule di guarigione: sono in grado di curare qualsiasi ferita a parte quelle al cervello (tempo dipende ferita)
+Terzo: Le pareti sono coperte da degli oscuri Muri di Nether (colpo critico “C” a chi li tocca), una forza costante attira le persone verso di essi: occorrono delle prove di Forza Very Hard per oltrepassare illesi la stanza
+Quarto: In questa stanza “crescono” bizzarri esseri a colonna, tentacolosi, alti circa 4 metri (Noh-Kef). Sul terreno si vedono i resti mezzi corrosi di qualche uomo e di un ghoul meccanico. I Noh-Kef dormono, ma basta poco per svegliarli. Bisogna attraversare la stanza in assoluto silenzio: manovra Hard di muov. Silenziosamente.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Noh-Kef
+12°
+La
+300
+20(10)
+110LGr/100Lba/Spells
++8
+Abilità special: afferrano e ingoiano (critico “E” da acido a round, poi 30° nervino), liste malvagie Mentalismo e 120 PM.
+
+Quinto: Il pavimento è coperto da una fitta rete di simboli luminescenti che formano un enorme circolo protettivo, una manovra Very Hard di Con Circoli permetterà di trovare la via per passarlo.
+Sesto: Ornato di grandi bassorilievi e statue di pietra marmorea verde, raffiguranti sia creature mostruose che xebechani. Ad intervalli regolari si trovano delle steli scritta in xebechano molto aulico: narrano della città-fortezza di Xanadu, che a lungo resistette all'assalto dei Demoni Sovrani grazie al potere delle Rune Magiche che la proteggevano. Parla anche di come esse siano state sigillate utilizzando le Sei Reliquie. Una pesante porta di metallo conduce al settimo cerchio. Era sigillata ma è stata sfondata.
+Settimo: più freddo qui, la stanza era protetta da un muro di forza che però è stato rimosso (si vedono i simboli sulla parete). Al centro un ascensore come quello prima porta al Santuario di Saralis.
+OBIETTIVI
+Obiettivo Minore: Folle (Ext Hard con incantesimi): seguire i tizi
+salvare un compagno da esse è un Obiettivo Minore: Light
+Obiettivo Minore Medio: azionare ascensore
+Ogni “anello” con un ostacolo è un Obiettivo Minore Hard (combattere contro i Noh-Kef può essere più arduo)
+Attivare l'ultimo ascensore è un Obiettivo Minore Light
+IL SANTUARIO DI SARALIS
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Ghoul Meccanico
+10°
+II#
+110
+1(100)
+90Sw/70Mbi+special
++12
+Leonard (V)
+15°
+La#
+120
+2(90)
+130Sw[Cold]/90MBi+special/Spells
++12
+Calavark
+20°
+M@
+200
+20(90)
+200Sword[2D]/100Bolts/Spells
++16
+Aghrast
+15°
+M
+110
+9(40)
+90ms/Spells
++10
+Calavark è un pupillo del Tecnocrate: un tempo era umano ma ora è completamente dominato dall'armatura meccanica che porta, che gli conferisce eccezionali poteri:
++40 ai TR contro gli attacchi mentali (essendo già dominato)
+Immune al dolore (penalità x ferite) e allo stordimento
+Dimezza lo stordimento
+Forza straordinaria (doppio danno)
+Darkvision permanente
+Non intralcia il lancio di incantesimi malvagi
+Liste (60PP)
+Unholy Arms (20°)
+Unholy Shields (20°)
+Wounding (20°)
+The Steel Rain (20°)
+Altri Oggetti: Spada (+30 Adamantio, “Utterdark” a volontà, 2x giorno Dark Blinding a chi colpisce); Stivali (Leaping e Landing 3x giorno), cintura (Returning 1x giorno).
+Aghrast: Cultista di Ahriman e Abigor
+PM: 60 (120)
+SARNAK, L'ANELLO DELL'INVERNO
+POTERI: Moltiplicatore x4 del Flusso, il portatore è immune agli effetti di “Absolution” (e incantesimi simili) e al risucchio di costituzione dei non-morti, è inoltre immune al Gelo non magico e guadagna un bonus di +50 al BD e ai TR contro quello magico, una volta al giorno Sarnak può riflettere un incantesimo verso il lanciatore (la magia deve fare un TR contro il Flusso del 50° per non essere riflessa), il portatore infligge un colpo critico addizionale da “Gelo” addizionale quando colpisce con un attacco corpo a corpo (anche con un arma), inoltre diventa in grado di risucchiare l'energia vitale di chi tocca (TR Vigore -20 per evitare l'effetto, altrimenti si perdono 5 punti di Co e il portatore recupera 1d10 di pf). Estremamente intelligente, comunica attraverso Telepatia.
+OLTRE IL SANTUARIO
+Sparito l'anello la stanza inizia a diventare più caldo, mentre la luminescenza azzurrina diventa più tenue.
+Da una delle pareti cade un'incrostazione di ghiaccio, rivelando un porta, se viene aperta ne escono due costrutti in Xathral.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Costrutto Xebechano
+30°
+La#
+600
+20(90)
+160we(x2)/140Blaster
++16
+Non attaccano ma si fanno da parte --> chiave del tempio di Ignus
+Cappella Interna: 
+Alto Teurgo del tempio --> Nanauatl, Xion (in realtà è un ologramma).
+Info date:
+Si trovano nell'antico Santuario dell'Inverno, nella città di Tzolkin.
+Sono in possesso della chiave del custode del Santuario delle Braci, che consente loro anche limitato accesso alle funzioni degli altri santuari.
+Il Santuario delle Braci si trova nella città di Yaotl (ora perduta) che dovrebbe essere dove hanno preso la chiave.
+Le Rune Magiche sono un tentativo degli Adepti di ricacciare i Demoni Sovrani, con i giusti mezzi possono essere sfruttate come fonti di potere da chiunque, ma solo sbloccandole con tutti e sei i sigilli si può accedere alle loro vere potenzialità.
+Le Rune Magiche sono 4
+La località degli altri Santuari è sconosciuta a Nanauatl, ma può essere reperita tramite delle ricerche alla grande biblioteca di Xuthal.
+La chiave d'accesso è anche un piccolo tentativo di riproduzione di un RM. Diventa più potente se viene sintonizzata con una di esse. È in grado di produrre piccole alterazioni temporali.
+DEI XEBE
+sguardo-sul-nulla - Questo Dio-Concetto rappresenta il pensiero di coloro che guardano ma non comprendono. Che tale incomprensione sia data dalla stoltezza dell'osservatore o dall'inconcepibilità dell'oggetto scrutato, poco importa. Tutto ciò che vi è di oscuro, incompreso, alieno è rappresentato da sguardo-sul-nulla. Per gli adoratori che comprendono meno la natura degli Dèi Concettuali sguardo-sul-nulla è una divinità della Saggezza, dell'Occulto, della Follia.
+ 
+tricotomia-di-atti-e-pensieri - Questo Dio rappresenta la divisione delle azioni e di tutto ciò che è. Vi sono tre Vie, il Bene, il Male ed il Nulla, secondo le quali ogni Atto è compiuto in accordo con il concetto della Tricotomia dell'Agire. Questa divinità è adorata dai meno comprensivi della religione degli Esterni sia come Dio del Bene, che del Male, che dell'Equilibrio, della Quiete o dell'Azione. Tra gli Dèi Esterni è il meno compreso ed il più adorato.
+ 
+parola-che-tace - Rappresenta il Silenzio Cosmico che crea la Musica e la Parola. Adorato come divinità delle Arti, della Magia, dell'Oblio, della Distruzione. (integrare)
+ 
+essenza-di-tutto-ciò-che-era-è-e-fu - Il concetto di Essenza Essenziale è rappresentato da questo essere cosmico secondo il principio di un'Essenza dell'Essenza, ovvero di un'Essenza Primordiale. Adorato dagli Arcanisti. (integrare)
+ 
+connubio-in-uno - Il tutto che si fonde nell'uno che rappresenta il tutto. Adorato come dio della Creazione, della Vita, della Morte, dell'Unione, degli Spiriti, della Natura. (integrare)
+ 
+fiume-di-essere - Il Tempo. Rappresenta il passato, il presente ed il futuro, lo scorrere del tempo e la trasformazione di tutto ciò che è in ciò che sarà, e di ciò che era in ciò che è. Adorato come dio del Tempo, della Morte, della Decadenza, della Nascita, della Distruzione. (integrare)

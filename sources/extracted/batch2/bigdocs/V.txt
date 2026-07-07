@@ -1,0 +1,809 @@
+
+V
+                           NO REST FOR THE WICKED
+
+
+
+
+
+                               RITORNO A CASA
+
+Il portale trasporterà infine i PG sui monti  Aestyr,  poco  distante  dalla
+loro vecchia roccaforte. Giungeranno nei  pressi  di  una  casetta,  abitata
+dalle prossime new entry del gruppo.
+
+COSA E’ SUCCESSO NEL FRATTEMPO: Dopo la caduta di Nortislong, in quello  che
+la storia ricorderà come l’Assedio di Un Giorno,  le  varie  componenti  dei
+Lupi del Ragnarok, privati improvvisamente dei suoi generali,  finirono  per
+contendersi l’un l’altro il bottino di guerra, per  essere  infine  dispersi
+dall’esercito  di  Nortislong  di  ritorno   dalla   guerra.   I   rimasugli
+dell’esercito, composti per lo più da  bande  di  orchetti,  si  diedero  al
+brigantaggio, rifugiandosi nella Foresta d’Inverno  e  diventando  una  vera
+piaga per il commercio. Almeno fino a  quando  Berthrant  Vaelaer,  capitano
+dei Ranger del Grudgemark non iniziò  la  sua  personale  campagna  volta  a
+ripulire non solo la Foresta ma, a detta sua, tutta Helgedad  dal  male  che
+vi si era insidiato. Egli riuscì a sbaragliare i  briganti  e  a  ricacciare
+sulle montagne le creature malefiche che si erano insediate a valle;  e  ora
+si è impegnato a portare battaglia fin sui monti Aestyr.
+Allo stessi tempo, il noto brigante Ofthak,  detto  “lo  Sfregiato”,  giunse
+con la sua banda alla Rocca di Kellar e se  ne  impossessò,  rendendola  sua
+base…
+
+LA RICONQUISTA DELLA ROCCA:  i  PG  dovranno  nuovamente  inerpicarsi  sulle
+vette dei monti Aestyr fino a giungere al  passo  Skutnik,  che  porta  alla
+Valle Sulfurea dove si trova la Rocca di Kellar. Purtroppo per loro, ora  il
+passo è diventato il nido delle Bestie Alate che avevano addestrato,  e  che
+si sono nuovamente inselvatichite, per cui non sarà semplice passarlo  senza
+attirare la loro attenzione.
+I nani che abitano la valle ora si nascondono nelle caverne, per tenersi  al
+riparo da Ofthak e dai suoi scagnozzi, che consistono  in  banditi  umani  e
+orchi cavalcalupi. Ofthak se ne sta al riparo nella fortezza,  in  una  sala
+che ha convertito in una specie di sala del trono, la sua guardia  personale
+è composta da 2-4 Troll Berserker. Se i PG irrompono nella sua sala starà  a
+guardare le sorti dell’incontro per poi fuggire usando  la  sua  abilità  di
+teletrasportarsi.
+Fra le altre cose i PG troveranno una nuova stanza collegata  a  quella  del
+trono, contenente uno strano manufatto.  Un  tiro  su  Conoscenza  Artefatti
+rivelerà  che  si  tratta  di  una  Vera  Via,  uno  degli  antichi  portali
+Xebechani.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Bestia Alata    |12° |La  |240|11(40)    |80HCl/60Lba/90LBi           |+12 |
+|Nano primitivo  |3°  |M   |50 |8(35s)    |60melee/30Thrown            |+0  |
+|Orchetto        |6°  |M   |90 |13(30s)   |90Fa/80LBw                  |+6  |
+|Warg            |8°  |I   |180|4(60)     |75LBi                       |+8  |
+|Troll Berserker |13° |La@ |300|11(30)    |135Bax(2D)                  |+0  |
+
+
+                                RICOMINCIARE
+
+RICOSTRUIRE UN ESERCITO: Se  i  PG  vogliono  nuovamente  radunare  un  loro
+esercito personale dovranno come prima cosa trovare e riunire i vari  gruppi
+di orchetti dispersi sulle montagne…
+
+LA  MINACCIA  DI  BERTHRANT:  Le  mire  del  capo  dei   ranger   potrebbero
+infastidire non poco i PG, soprattutto se hanno  intenzione  di  ricostruire
+il loro esercito.  Si  partirebbe  con  piccole  incursioni  di  Ranger  del
+Grudgemark, seguite da alcune scaramucce  per  arrivare,  infine  a  scontri
+più diretti.
+RITORNO DAL MAESTRO: Varg  dovrebbe  tornare  dal  suo  maestro  (o  esserne
+convocato) per mostrare i suoi progressi…
+
+ALTRE FAZIONI: I PG possono provare ad influenzare i vari clan  di  orchetti
+sparsi per le montagne o radunare i branchi di mannari dei ghiacci.
+
+
+                     LA LEGGENDA DELLE CITTA’ SCOMPARSE
+
+             Quando i lupi dell’Inferno cammineranno sulla terra
+               Cerca le antiche città perdute e mai rimpiante,
+                       Huitliya, dove regnano i morti;
+                    Qalaktchla, che riluce nelle tenebre;
+                      e R’lyxqan, che silente attende.
+        Quando un re incoronato siederà sul trono degli abissi gelati
+                 Le città tremeranno e caleranno le Tenebre.
+
+Milioni di anni fa, quando il  supremo  dio  Ech,  creatore  del  cosmo,  si
+scisse in due distinte  divinità  (Quetzacoatl  e  Azatzotech),  vi  fu  una
+terrificante guerra che  sconvolse  il  mondo.  Benché  molti  Xebechani  si
+schierarono dalla parte del dio della  Vita,  altri  furono  attratti  dalle
+promesse di potere degli dei oscuri e si schierarono con  Azatzotech  e  gli
+dei del Male.
+Fra le altre, tre città xebechane si distinsero per la loro dedizione ad  un
+particolare dio malvagio: Qalaktchla,  costruita  in  onore  del  dio  Yogh;
+Huitliya, dedicata  ad  Azatzotech  stesso;  e  R’lyxqan,  dedicata  al  dio
+Xlucthulhu.
+Alla fine della guerra tutte e tre le città caddero di fronte alle orde  del
+bene, inghiottite dai cataclismi provocati dalla guerra  e  scomparendo  per
+sempre  dalla  faccia  di  Ymir.  Nonostante  ciò,  le  città  non  andarono
+distrutte, ma solo perdute ed i  loro  favolosi  tesori  aspettano  solo  di
+essere ritrovati da coloro che saranno abbastanza  temerari  da  sfidare  le
+tenebre che li circondano.
+
+KELLAR E IL RITROVAMENTO DI HUITLIYA: Il nano  Kellar  non  costruì  la  sua
+rocca in un luogo scelto a caso, la scoperta  della  Valle  Sulfurea  risale
+alla giovinezza del nano ed è dovuta ad una cerca personale del nano.  Egli,
+venuto a conoscenza della leggenda  delle  tre  città  xebechane  scomparse,
+iniziò a compiere delle proprie ricerche e,  dopo  molti  anni  di  studi  e
+mille peripezie, riuscì  a  mettere  le  mani  su  una  mappa  che  indicava
+l’esatta posizione della città di Huitliya. Il problema  era  che,  a  causa
+delle mutazioni geomorfiche, la città si trovava ora sepolta sotto  i  monti
+Aestyr. Fu così che il nano iniziò a scavare nel fianco della montagna  alla
+ricerca della città perduta, premunendosi di  nascondere  a  tutti  il  vero
+scopo dei suoi scavi, facendo in modo che paresse intenzionato  a  costruire
+una rocca.
+LA VERA VIA: Il portale trovato dai PG (e da Ofthak prima di  loro)  conduce
+nelle vicinanza di Qalaktchla  (vedi).  Tuttavia,  nella  stessa  stanza  si
+trova un passaggio segreto che conduce nelle profondità della  terra,  verso
+Huitliya. Sull’arco del portale è scritto, in antico xebechano: “Per  me  si
+entra nella sacra città di Yogh, Qalaktchla. Sia  il  suo  nome  per  sempre
+benedetto dalle Tenebre”. E sotto, in caratteri  più  piccoli:  “Eretto  col
+potere di Azatzotech, che il Condor voli in eterno nei cieli di Huitliya”.
+CIO’ CHE CERCAVA OFTHAK: Se i PG ispezionano la biblioteca  della  rocca  la
+troveranno in un gran disordine. Molti libri  giacciono  aperti  qua  e  la,
+mentre altri sono ammonticchiati per terra. Per la maggior parte  si  tratta
+di  libri  a  proposito  di  antiche  leggende,  dai  quali  i  PG  potranno
+apprendere qualcosa delle tre città. Il tomo più interessante è  quello  che
+pare il diario di Kellar stesso. è in nanesco,  per  cui  solo  chi  conosce
+questa lingua può leggerlo. Esso parla della cerca del nano e di come  abbia
+costruito la rocca per ingannare i suoi  simili.  Favoleggia  degli  immensi
+tesori contenuti nelle  città  ma  soprattutto  degli  artefatti  di  enorme
+potere che vi possono essere custoditi. Termina con il proposito  di  Kellar
+di partire alla scoperta di Huitlyia attraverso il passaggio scoperto.
+RAGGIUNGERE LE  CITTA’:  Per  raggiungere  Qalaktchla  occorre  attivare  il
+portale (Sintonizzazione  Magica  –20)  e  attraversarlo,  così  facendo  si
+arriva ad una caverna che altro non è che la tana di un’Idra  e  per  questo
+evitata dagli abitanti  del  sottosuolo  (vedi  sotto  per  dati  dell’Idra,
+ignora regole speciali per le teste). TESORO IDRA:  150mo  e  una  borraccia
+che  può,  a  comando,  riprodurre  qualsiasi  liquido  non   magico   abbia
+contenuto. Ammazzando l’Idra si può procedere verso uno dei ponti  collegati
+alla città.
+Per arrivare ad Huitlyia vedi più avanti.
+
+               QALAKTCHLA, LA CITTA’ CHE RILUCE NELLE TENEBRE
+
+Qalaktchla è un’antica  città  Xebechana,  andata  perduta  millenni,  forse
+milioni di anni fa,  quando,  in  seguito  ad  un  terribile  terremoto,  fu
+inghiottita dal terreno e scomparve nelle tenebre.
+ABITANTI: la città è  un  punto  di  incontro  per  le  svariate  razze  che
+popolano il sottosuolo ed è abitata da membri di razze  e  culture  diverse.
+La città è governata dai discendenti degli Xebechani che  non  riuscirono  a
+fuggire dalla città quando essa affondò e che si  sono  adattati  alla  vita
+sotterranea. Essi appaiono come umanoidi pallidi e  smunti,  con  i  capelli
+bianchi o argentati e grandi occhi completamente neri;  le  loro  dita  sono
+molto lunghe ed affusolate,  tanto  da  ricordare  le  zampe  di  un  ragno.
+Chiamano se stessi Figli di Yogh ed adorano il temibile Dio Ragno come  loro
+salvatore. Sebbene  costituiscano  la  classe  dominante  della  città  sono
+estremamente pochi, ed il loro numero pare in continua diminuzione.
+Il grosso della popolazione è costituito  da  orchetti,  goblin,  coboldi  e
+altri  goblinoidi.   Assieme  a  loro,  un  numero  più  esiguo   di   razze
+sotterranee come nani malvagi, gnomi deformi o draconiani  costituiscono  la
+classe media della popolazione. Più in basso nella  scala  sociale  ci  sono
+trogloditi, troll e uomini degenerati, che  vengono  utilizzati  come  forza
+lavoro per i lavori più pesanti.
+Come se tutto ciò non bastasse, la città è spesso visitata dalle  razze  che
+vivono nei dintorni, che  vengono  qui  per  comprare  o  vendere  prodotti,
+schiavi o per altri affari.
+STRUTTURA DELLA CITTA’: la  città  poggia  su  un’isola  di  roccia  lavica,
+circondata da un fumante abisso sul cui fondo è possibile scorgere il  tenue
+bagliore della lava fusa. Non è però completamente isolata,  quattro  grandi
+ponti di roccia naturali (uno per lato, non sono  segnati  sulla  mappa)  la
+collegano alla terraferma e alle caverne adiacenti. Oltre  a  questi  grandi
+ponti ne esistono di più piccoli (spesso soggetti a  crolli  o  “ricrescite”
+per  l’attività  naturale  della  caverna)  che  si  collegano  direttamente
+all’isola oppure ad uno dei ponti più grandi.  L’intera  città  è  costruita
+con una strana pietra nera  che  emette  una  tenue  luminescenza  rossastra
+nell’oscurità.
+La struttura cittadina più  evidente  è  il  Tempio,  un’enorme  piramide  a
+gradoni posta su una  sorta  di  collina  al  centro  della  città.  Esso  è
+evidentemente dedicato  a  Yogh,  divinità  principale  della  città,  ed  è
+solitamente gremito da un andirivieni di persone, dato che i Figli  di  Yogh
+non vi  tengono  solo  cerimonie  religiose  ma  ne  hanno  fatto  anche  un
+importante centro politico.  Chiunque  abbia  bisogno  di  un’autorizzazione
+ufficiale di qualche tipo è costretto a recarsi al tempio e a consultare  il
+clericato di Yogh. Allo stesso modo, i criminali vengono portati  al  tempio
+per essere utilizzati come vittime sacrificali o  per  gli  esperimenti  dei
+Figli di Yogh.
+La zona più estesa della città è la Città Bassa,  chiamata  così  perché  è,
+effettivamente, anche la zona più bassa della città dopo il  Giardino.  Essa
+ospita le abitazioni dei normali cittadini, assieme ai loro  negozi  e  alle
+loro imprese. Si tratta di un intricato dedalo di viuzze contorte  e  scure,
+nelle quali è facile perdersi se non si conosce la strada.  In  particolare,
+la  Città  Bassa  ospita  l’Arena,  dove  la  gente  va  ad   assistere   ai
+combattimenti per svagarsi.
+Subito ad Est del Tempio si trova il Quartiere Religioso, dove  è  possibile
+trovare un gran numero di tempietti e santuari dedicati  agli  altri  oscuri
+dei adorati dagli abitanti della città. È il  luogo  dove  molti  vengono  a
+pregare oppure in cerca di qualcuno  in  grado  di  lanciare  incantesimi  o
+vendere erbe e pozioni dietro compenso.
+Il Giardino è la zona più bassa della città; a dire il  vero  è  un  vero  e
+proprio fosso, all’interno del  quale  crescono  funghi  giganti,  piante  e
+licheni. È sottoposto  ad  una  pioggia  ininterrotta,  causata  da  qualche
+sorgente che lo sovrasta. La pioggia si raccoglie  tutta  sul  fondo,  dando
+vita ad un lago limaccioso e puzzolente. Il  Giardino  è  abitato  da  Ragni
+Giganti e altre bestie pericolose, ma è anche  una  delle  principali  fonti
+d’acqua e cibo della città.
+L’Enclave è il  quartiere  abitato  dai  più  poveri  e  dai  criminali  che
+riescono a sfuggire alle pattuglie cittadine.
+L’Ala Ovest è riservata per lo più ai visitatori, contiene locande,  taverne
+e negozi, anche se la maggior  attrazione  resta  sempre  il  Mercato  degli
+Schiavi.
+La Cittadella rimane inaccessibile  alla  normale  popolazione,  essendo  la
+residenza delle famiglie nobiliari e dei potenti della città.
+GUARDIA CITTADINA: La Guardia Cittadina è composta da membri di  ogni  razza
+(prevalentemente goblinoidi)  appartenenti  al  ceto  medio.  Una  pattuglia
+media è composta da 5-10 individui in cotta di  maglia,  armati  con  lance,
+spade corte e scudi. Ogni pattuglia ha un  capo,  che  si  riconosce  perché
+indossa un’armatura a piastre e un mantello nero. In caso di gravi  problemi
+vengono utilizzate delle pattuglie speciali dotate di  2-5  troll  (a  volte
+armati di tutto punto).
+Le guardie alle mura sono solitamente dotate di arco in aggiunta al  normale
+equipaggiamento e possono contare sui vari  sistemi  di  difesa  delle  mura
+stesse (olio bollente, massi e simili).
+La guardia  d’elite  sono  i  Cavalcaragni,  orchetti  a  cavallo  di  ragni
+giganti, dotati di armatura pesante e armi avvelenate di ottima qualità.
+I Figli di  Yogh  scendono  raramente  in  campo  e  quando  lo  fanno  sono
+accompagnati da numerosi ragni giganti, oltre che  da  truppe  ausiliarie  e
+possono contare sui loro grandi poteri magici.
+RISORSE: Per entrare in città gli stranieri devono  pagare  un  pedaggio  di
+2ma a testa. Qui sotto sono elencati i prodotti tipici con i costi.
+
+
+|Prodotto        |Costo |Descrizione                                        |
+|Armi e Armature |vario |Armi e armature standard, vedi manuale x i costi   |
+|Armi in Alto    |x3    |Bonus di +10 al BO (colpiscono come Magiche)       |
+|Acciaio         |      |                                                   |
+|Logrokul        |25mo  |Pasta scura da applicare alle ferite, ferma        |
+|                |      |immediatamente fino a 5pf/round ma lascia una      |
+|                |      |cicatrice (-1 Aspetto ai non elfi se su zona in    |
+|                |      |vista)                                             |
+|Liquore Orchesco|30ma  |Ripristina 3d10 di Punti Fatica, rallenta il       |
+|                |      |congelamento (+10 TR vsCold per 1h)                |
+|Ukrum           |15ma  |Pagnotte di funghi essiccati, una nutre x un giorno|
+|                |      |(bastano x 15 giorni)                              |
+|Gefnul          |90mo  |Lichene, cura 100 PF nel corso di 5 round (20 PF a |
+|                |      |round)                                             |
+|Zulsendura      |75mo  |Fungo, Velocizza x 3 round (poi 3 round a 50% di   |
+|                |      |attività), provoca dipendenza                      |
+|Zur             |10mo  |Fungo, +50 all’udito per 1 ora                     |
+|Schiavo, goblin |8 mo  |La categoria comprende anche gnomi, gremlin,       |
+|                |      |coboldi e simili                                   |
+|Schiavo,        |25 mo |La categoria comprende anche orchetti, uomini, nani|
+|troglodita      |      |e simili                                           |
+|Schiavo, troll  |100mo |La categoria comprende anche i mezzitroll, gli ogre|
+|                |      |e i giganti minori                                 |
+|Incantesimo     |vario |Il costo è pari a 20x(Livello Lanciatore + Livello |
+|                |      |Incantesimo) mo, occorre trovare qualcuno disposto |
+|                |      |a lanciarlo, ovviamente.                           |
+|Reptoide        |65ma  |Grosso rettile simile ad un varano ma delle        |
+|Crestato        |      |dimensioni di un cavallo, usato come bestia da     |
+|                |      |soma, solitamente docile ma può anche essere usato |
+|                |      |x combattere.                                      |
+|Veleni          |Vario |I veleni sono molto comuni e ne vengono venduti di |
+|                |      |tutti i tipi                                       |
+|Altro           |Vario |Vedi manuale per l’equipaggiamento standard        |
+|Biglietto per   |2mr   |Un biglietto per uno spettacolo nei posti standard |
+|l’Arena         |      |                                                   |
+|Biglietto di    |5mo   |Un biglietto per le tribune d’onore                |
+|Lusso           |      |                                                   |
+|Vergine di Ferro|150mo |+20 ad Intimidire se usata x la Tortura            |
+|Utensili x      |50mo  |Girapollici, Frusta, Ferri roventi e altri         |
+|Tortura         |      |ammennicoli, +10 ad Intimidire                     |
+|Trappole        |specia|Piccole trappole costruite su oggetti personali    |
+|Antifurto       |le    |(impugnatura arma, armatura, zaino e simili) per   |
+|                |      |evitare il furto, costano il 50% dell’oggetto.     |
+
+LISTE DEI CHIERICI DI YOGH: Dark Channels,  Insect  Mastery,  Voodoo  Magic,
+Vengeance, Arachnemancy, Dark Lore, Wounding, Poison Mastery, +2.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Orchetto medio  |3°  |M   |50 |16(25)    |60Sp/50other                |+4  |
+|Orchetto forte  |6°  |M   |85 |18(15)    |90Sp/85other                |+6  |
+|Orchetto elite  |10° |M   |130|16(30)    |130Sp/110other              |+8  |
+|Troll           |12° |La  |160|11(30)    |160LCl/100ro                |+4  |
+|Ragno Gigante   |8°  |I   |160|4(40)     |70Lpi/75LSt+poison          |+8  |
+|Figlio di Yogh  |15° |M   |145|9(50*)    |150MoSt/spells              |+12 |
+|Idra            |20° |SL  |380|19(40)    |150HBa/90Lbi(9x)            |+8  |
+
+
+
+
+                           LA STRADA PER HUITLIYA
+
+
+La Città Morta  è  meno  semplice  da  raggiungere  rispetto  a  Qalaktchla.
+Innanzitutto occorre  trovare  il  passaggio  segreto  nascosto  all’interno
+della camera del portale, che è Estremamente  Difficile  (-30)  da  trovare.
+Attraverso  questo  passaggio  si  giunge  ad  una  caverna  che  da  su  un
+precipizio, con uno stretto sentiero che scende nell’oscurità. Occorre  fare
+attenzione a non scivolare (Manovra  Media)  oppure  si  rischia  di  cadere
+(subendo un attacco da caduta Enorme +100). In fondo al precipizio si  trova
+un grande tempio a gradoni, chiaramente dedicato ad Azatzotech.
+Il tempio è in realtà un enorme labirinto che serve ad occultare  la  strada
+per la città di Huitlyia. È popolato da numerosi non morti, le  anime  perse
+di coloro che hanno trovato la morte nella loro ricerca della città  perduta
+o degli xebechani malvagi che un tempo abitavano queste terre.
+STANZE PRONTE:
+LIVELLO I
+Stanza 1: Nello spazio contrassegnato con la “S” si trova una  targa  incisa
+con scritto (in xebechano) “Rendi evidente ciò che  è  nascosto”.  La  targa
+occulta un passaggio segreto per la stanza successiva.
+
+LIVELLO  II
+
+I corridoi di questo livello sono infestati da  una  Massa  Non  Morta,  gli
+artigli di quest’orrore hanno il 50% di  infettare  chi  colpiscono  con  un
+orribile morbo letale, inoltre essa conosce le  liste  “Mind  Death”,  “Mind
+Domination” e “Diseases” fino al suo livello. Risucchia 2 PF al round.
+Una volta uccisa si dissolve lasciando al suo posto un Teschio Cornuto.
+TESCHIO CORNUTO: Un piccolo teschio  (grande  come  quello  di  un  goblin),
+ricoperto da rune malvagie, con  corna  ricurve  e  un  incavo  nella  parte
+inferiore che gli consente di essere affisso sopra bastoni, aste o simili.
+POTERI: consente al portatore di creare un’aura di Paura  nel  raggio  di  6
+metri 3 volte al giorno per 1 round per livello. Inoltre, se  viene  fissato
+sopra un bastone/staffa/asta, tutte le magie dardo  lanciate  dal  portatore
+hanno un bonus di +15 al BO contro le creature buone
+
+LIVELLO III
+
+Stanza dei Sacrifici: Al centro di questa  stanza  si  trova  un  altare  di
+pietra, chiazzato di sangue rappreso. Sopra di esso è appoggiata un  piccola
+scatoletta d’osso. Il pavimento della  stanza  è  coperto  d’ossa.   Attorno
+all’altare appaiono 3 figure evanescenti, incappucciate. Si  tratta  di  tre
+Wight. Possono causare Paura una volta a  round,  il  loro  tocco  Paralizza
+chiunque fallisca un TR.
+La scatoletta contiene il Pugnale del Rituale Blasfemo
+PUGNALE DEL RITUALE BLASFEMO: Si tratta  di  un  pugnale  d’oro,  di  ottima
+fattura, finemente intarsiato e con un grosso  rubino  sull’impugnatura.  Si
+trova all’interno  di  una  scatola  d’osso,  sopra  la  quale  sono  incise
+dettagliatamente varie scene  raffiguranti  oscuri  sacerdoti  nell’atto  di
+compiere sacrifici umani.
+POTERI: Pugnale d’oro –20. Qualsiasi umanoide ucciso attraverso  il  rituale
+sacrificale descritto sulla scatola che lo contiene viene trasformato in  un
+non morto di Classe II agli ordini del possessore  del  pugnale,  mentre  la
+sua anima viene consumata dal rubino (come  per  “Dark  Absolution”,  nessun
+TR). Nota che la vittima deve essere necessariamente sacrificata, non  basta
+semplicemente ucciderla. Se il pugnale  viene  trasportato  oltre  50  metri
+dalla sua scatola si teletrasporta automaticamente al suo interno.
+
+Sala delle Torture: questa stanza dalle pareti imbrattate di sangue è  piena
+di catene e utensili per la tortura arrugginiti. Appesi ai vari utensili  ci
+sono 5 corpi come imbalsamati. Intenta  a  torturarli  c’è  una  Bloodbeast,
+armata di una frusta metallica affilata (vedi dopo).
+I corpi si animeranno come Mummie controllati  dalla  Bloodbeast  (tutto  il
+sanguinamento vicino al non morto è raddoppiato ed  esso  viene  guarito  di
+altrettanto. Conosce la lista Wounding fino al suo livello).
+LA DOMINATRICE: Una  lunga  frusta  di  metallo  dotata  di  aculei  e  lame
+taglienti su ogni anello della catena che  la  compone,  con  un’impugnatura
+rivestita di pelle umana.
+POTERI: Frusta Metallica Magica +20,  infligge  colpi  critici  “Grapple”  e
+“Tearing/Ripping” al posto di quelli normali. Con un fallimento critico  (1-
+9) si rivolta contro chi la usa, infliggendogli un  colpo  critico  “C”  per
+ognuno  dei  due  tipi  sopra  citati.  Quando  colpisce  qualcuno  il   suo
+possessore può utilizzare il potere speciale di quest’arma, costringendo  il
+nemico a fare un TR contro l’Essenza di  10°  livello.  Se  il  TR  fallisce
+l’arma  lascia  nella  carne  dello  sventurato  un  frammento  di   metallo
+(rimuovibile solo con un “Scaccia Maledizioni”). Da quel momento in poi,  se
+la vittima disobbedisce ad un ordine del possessore della  frusta  essa  gli
+causerà orribili sofferenze, facendogli perdere il 10% dei suoi PF totali  e
+stordendolo (senza parare) per 1 round. Le sofferenze continueranno  fino  a
+che la vittima non ubbidisce, muore per  il  dolore  o  il  frammento  viene
+tolto.
+ORECCHINI DEL  MASOCHISMO:  Appaiono  come  normali  orecchini  da  piercing
+disadorni, leggermente macchiati di sangue.
+POTERI: Se vengono applicati scavano  nelle  carne  del  portatore  in  modo
+molto doloroso, diventando impossibili da rimuovere senza l’uso della  magia
+o  senza  chirurgia  e  riducendo  i  PF  totali  del  portatore   del   10%
+permanentemente nel processo. In compenso il  portatore  non  subirà  alcuna
+penalità se scende al 10% o meno dei  suoi  PF,  ridurrà  di  1  round  ogni
+stordimento e avrà un bonus di +10 a tutte le prove necessarie  a  resistere
+il dolore.
+
+Tomba dell’appestato: questa sala ospita un solo sarcofago, all’interno  del
+quale c’è un corpo avvolto in un sudario.
+SUDARIO DELLA  PESTILENZA:  Un  mantello  sdrucito,  formato  da  un  antico
+sudario  macchiato  di  sangue  rappreso,  munito  di  una   fibbia   dorata
+raffigurante un teschio.
+POTERI: Chi indossa questo mantello diventa portatore sano di  un  terribile
+morbo, tutti coloro che lo toccano o che vengono colpiti da lui in  corpo  a
+corpo  devono  resistere  contro  le  Malattie  (25°  livello)  o  ammalarsi
+gravemente (-5 alle attività cumulativo ogni giorno, quando  arriva  a  –100
+muore). Nota che la malattia è contagiosa e chiunque tocchi  un  personaggio
+che ne  è  affetto  deve  fare  un  TR  contro  il  15°  livello  o  esserne
+contagiato. In più, il portatore del mantello può lanciare  “Plague”  (dalle
+liste del Flusso Malvagio) una volta al giorno.
+
+Il Santuario: questa stanza è evidentemente un  santuario  dedicato  al  dio
+Azatzotech. È abitata da un Wraith, un  antico  chierico  del  dio  di  nome
+Loquitochi. Non attaccherà immediatamente i PG, soprattutto se  si  palesano
+come agenti del male, potrebbe anzi collaborare con  loro.  È  condannato  a
+non lasciare ma la stanza ma conosce  molte  cose.  In  particolare  parlerà
+loro della Corona della Stregoneria, un antico manufatto che concede  poteri
+immensi a chi lo indossa. Un tempo, dice,  era  conservato  nella  città  di
+Huitliya, ma in seguito fu portato a R’lyxqan.
+Se i PG si comportano bene potrebbero anche  ricevere  un  regalo.  Inoltre,
+Loquitochi promette i suoi servigi ai PG se essi distruggeranno  il  Teschio
+di Cristallo che lo tiene prigioniero della stanza.
+ELISIR DELLA SERVITU’ OSCURA: Un liquido nero  come  la  notte,  solitamente
+contenuto in contenitori di ossidiana.
+POTERI: Chi beve questo nefasto elisir deve fare un TR contro il Flusso  del
+50° livello (-20) o subire i seguenti effetti:  d’ora  in  avanti  vedrà  al
+buio come gli orchetti ma sarà infastidito dalla luce  del  sole  (-25  alle
+attività); acquisirà 8 ranghi in tutte le lingue  malvagie  (solo  parlato);
+dovrà fare un TR contro il Flusso del proprio livello  per  poter  attaccare
+qualsiasi creatura malvagia e  obbedirà  (nessun  TR)  a  tutti  gli  ordini
+impartiti da creature malvagie di almeno 10 livelli superiori al suo.
+
+Camera delle Ossa: il pavimento di questa camera è  letteralmente  ricoperto
+d’ossa, al suo centro è piantato un grottesco  stendardo  rosso.  Quando  un
+essere vivente entra nella stanza la porta  si  chiude  di  scatto  e  viene
+coperta (all’interno) da un Muro d’Ombra (infligge un  colpo  critico  A  da
+Nether a chi lo oltrepassa). Contemporaneamente la camera viene  avvolta  da
+una pallida luminescenza, chi si trova  al  suo  interno  deve  fare  un  TR
+contro il Flusso del 10° livello al round oppure invecchiare di  1d10  anni.
+La porta è aperta e può essere riaperta normalmente.
+STENDARDO GROTTESCO: Questo stendardo, sorretto da ossa umane e intinto  nel
+sangue  di  elfo,  viene  utilizzato  dalle  oscure  legioni  del  Male  per
+sostenere il morale delle proprie truppe, e gettare lo sconforto nei  propri
+avversari.
+POTERI: tutte le creature malvagie nel raggio di 15 metri hanno un bonus  di
++10 alle azioni e possono ripetere due volte tutti i TR contro la Paura  che
+sono chiamate a fare. I non morti guadagnano un bonus addizionale di  +10  a
+tutti i TR, mentre tutti gli incantesimi  che  li  scacciano  hanno  potenza
+dimezzata finché operano all’interno dell’area dello Stendardo. Le  creature
+del Bene (Paladini, chierici di divinità buone, unicorni  e  simili)  devono
+fare un TR  contro  il  Flusso  di  15°  livello  quando  entrano  nell’area
+d’azione dello Stendardo o subire una penalità di –10 a tutte le azioni,  al
+BD e ai TR.
+
+La Sala degli Scritti: le pareti della stanza sono occupate  da  scaffali  e
+scansie per pergamene, riempite di tomi polverosi e  pagine  ingiallite.  La
+maggior parte degli scritti si sbriciola non viene aperta o toccata,  tranne
+un pesante tomo nero, con la copertina incatenata. Il lucchetto  è  protetto
+da una trappola magica, “Folle” (-50) da individuare senza magia.  Se  viene
+aperto senza disattivarla viene lanciato un Netherbolt (Bonus x  sorpresa  e
+vicinanza: +65, no BD) su chi lo apre.
+TOMO DELLE ALI DELLA NOTTE: Questo oscuro tomo  dalla  copertina  incatenata
+permette di evocare una volta al mese 10d10 di Nightwing (P.  111),  che  si
+lanceranno contro i nemici dell’invocatore finché non sono  tutte  sconfitte
+o i nemici sono morti. Ad ogni invocazione c’è  il  5%  di  possibilità  che
+esse si rivoltino contro l’invocatore.
+
+Le Sale del Cieco: non si tratta di una sola  stanza  ma  di  una  serie  di
+almeno 4 stanze collegate sulla cui entrata è scritto:
+
+                   Io vedo ciò che al tuo occhio svanisce,
+
+                    Chiare visioni poi la vista marcisce.
+                 E ciò che poi vede, la mente non comprende,
+                  Un’ombra si muove dove la luce risplende.
+                    Quando ti volti se ne saranno andati,
+                      Sussurrando i loro canti celati.
+                Fuori di mente, nell’Oscurità sarai gettato,
+           E per sempre, nelle Sale del Cieco sarai imprigionato.
+Le sale sono protette da un potente incantesimo che si attiva  quando  entra
+qualcuno, creando l’illusione di un labirinto senza  uscita.  Le  Sale  sono
+abitate da Unseen,  che  attaccano  chiunque  entri.  Gli  Unseen  sono  gli
+spiriti di persone morte che hanno passato la loro vita nascondendo la  loro
+vera identità.  In  morte  sono  condannati  a  rimanere  in  questo  mondo,
+nascondendo  il  loro  aspetto  deforme.   Gli   Unseen   sono   normalmente
+invisibili, mostrando  il  loro  aspetto  (quello  di  umanoidi  flaccidi  e
+deformi dalla pelle grigia) solo quando attaccano e tornando  invisibili  il
+round seguente.
+OGGETTI NELLE SALE: 300 mo, Anello dell’Anima (x2  PP,  Lifekeeping  II  sul
+proprietario in caso di morte).
+AMULETO OTTICO: Una pietra sferica,  delle  dimensioni  di  un  occhio,  dai
+colori cangianti, attaccata ad una collanina d’oro. Osservandola  meglio  si
+nota che è facile staccarla dalla collana, come  se  fosse  pensata  per  un
+altro uso.
+POTERI: il portatore ha un bonus di +25 ai TR contro tutti gli attacchi  che
+coinvolgono la vista (accecamento, sguardo pietrificante,…) e +10  ai  TR/BD
+contro l’elettricità. Se la pietra viene rimossa e inserita  in  una  cavità
+oculare vuota permette al portatore di vedere come un vero occhio,  consente
+di  vedere  al  buio  come  un  elfo  e  di  lanciare   “Invisiblesight”   e
+“Illusionsight” una volta al giorno ciascuna.
+
+La Sala  Lamentosa:  un  complesso  scultoreo,  raffigurante  un  gruppo  di
+persone in lacrime che reggono un  calice,  orna  questa  stanza.  L’aria  è
+piena  di  gemiti  e  singhiozzi,  come  se  qualcuno  stesse  piangendo  e,
+analizzando le statue, si nota  che  esse  piangono  davvero.  La  stanza  è
+infestata da un gruppo di fantasmi di persone che, in vita,  non  hanno  mai
+pianto la morte di nessuno, negando  alla  morte  il  suo  dovuto  pegno  di
+dolore. In morte sono condannati a piangere una lacrima per  ogni  vita  che
+si spezza. Il calice che  reggono  è  riempito  dalle  loro  lacrime:  berne
+significa assaggiare parte della  loro  disperazione  ma  anche  della  loro
+saggezza. Il PG che vuota il calice perde 5 punti  di  Sanità  Potenziale  e
+inizia a soffrire di Depressione (dimezzati  i  Punti  Fatica),  in  cambio,
+tuttavia, guadagna il 25% dei PX necessari a passare di livello.
+
+La Sala Incisa: le pareti e le  colonne  di  questa  sala  sono  coperte  da
+incisioni che parlano delle usanze e delle tradizioni del popolo  xebechano,
+della  storia  della  guerra  fra  Azatzotech  e  Quetzacoatl  e  altro.  Le
+incisioni sono in antico Tenocha, ma pare  che  qualcuno  si  sia  preso  la
+briga  di  tradurle  in  Xebechano.  Chi  le  legge  guadagna  2  ranghi  in
+Conoscenza Cultura Xebechana.
+
+LIVELLO IV
+
+Sala del Teschio di Cristallo: in mezzo alla  stanza  si  trova  una  statua
+grottesca, raffigurante un qualche tipo di demone che tiene fra le  mani  un
+teschio  di  cristallo  (di  dimensioni  umane)  che  brilla  di  una   luce
+azzurrastra. Si tratta di un oggetto magico molto intelligente in  grado  di
+comunicare tramite telepatia. Offrirà i  propri  servigi  ai  PG  se  questi
+uccideranno per lui lo spettro del sacerdote  Loquitochi,  se  invece  i  PG
+vogliono distruggerlo li attaccherà animando la statua dove  si  trova  come
+un golem, usando  la  propria  intelligenza  per  consentirgli  di  lanciare
+incantesimi dell’Essenza malvagia fino al 20° livello.
+TESCHIO DI CRISTALLO:  Moltiplicatore  x  3  per  gli  Usufruitori  Malvagi,
+Lancia Netherbolt 1 volta al giorno, +10 a tutte le Direct Spells.
+Invece, se preferiscono aiutare Loquitochi e  distruggono  il  teschio  egli
+potrà essere evocato tre volte per esaudire i loro voleri.
+
+Guerra senza fine: Alcune sale ospitano gli  spettri  di  antichi  guerrieri
+xebechani, essi sono disturbati dalla presenza di alcuni demoni  che  vagano
+per le catacombe. Un tempo questi demoni erano stati evocati come  guardiani
+delle tombe ma, col passare dei secoli si sono liberati del loro  vincolo  e
+ora sono liberi di dissacrare ciò che un tempo custodivano. Gli spettri  non
+possono fermarli perché essi sono immuni  ai  loro  poteri  e,  allo  stesso
+modo, le armi fisiche dei demoni non  possono  colpire  i  fantasmi.  Questi
+assicureranno il passaggio attraverso il loro territorio ai PG  se  essi  si
+adopereranno per distruggere il sigillo che  mantiene  i  demoni  in  questo
+mondo. Inoltre, se i PG hanno  uno  stendardo  grottesco  si  offriranno  di
+seguirli in battaglia (sono 150) se li aiutano.
+ I demoni  hanno  l’aspetto  di  esseri  parte  felino  e  parte  lucertola,
+attaccano col morso o col loro soffio acido (Firebolt con colpi  critici  da
+Acido). La tana dei demoni si trova appena una stanza più in là di questa.
+
+La Sala del Pentacolo: In mezzo a questa stanza dalle  pareti  nere  c’è  un
+pentacolo  rosso.  Al  suo  interno  si  intravede  un  ammasso  di   nebbia
+grigiastra turbinante. Una voce dalla nebbia chiede ai PG di  cancellare  il
+pentacolo per essere liberato, in cambio promette potere e  oggetti  magici.
+Si tratta di un demone del vuoto, un Cresh’Urim, che  attaccherà  i  PG  non
+appena viene liberato. È armato con una Grande Spada in metallo nero +20.
+CRESH’URIM: demoni guerrieri, hanno un corpo da ragno con coda da  scorpione
+sormontato da un torso umanoide dotato di poderose braccia artigliate e  una
+testa vagamente lupesca. Il loro morso agisce come un “Major Pain”, la  loro
+coda inietta un potente veleno. Conoscono  tutte  le  liste  del  Mentalista
+Malvagio fino al loro livello. Godono di un +50 ai TR e un +75 al BD  contro
+incantesimi non Arcani. Può attaccare con ilo pungiglione e l’arma o con  il
+morso e il pungiglione nello stesso round.
+
+STANZA DI FERRO: il pavimento della stanza  è  fatto  di  ferro,  al  centro
+sorge un piccolo pilastro sopra il quale volteggia un globo  di  elettricità
+crepitante.  Ai  quattro  angoli  della  stanza  si  trovano  delle   statue
+raffiguranti uomini-condor che stringono fra le braccia delle lance  protese
+in avanti.
+Chi è tanto sciocco da toccare la sfera subisce  un  colpo  critico  “E”  da
+Elettricità, senza TR; passando davanti a una delle statue  si  fa  scattare
+una trappola magica che, dalla sfera,  lancia  un  fulmine  ad  ogni  angolo
+della stanza, verso le statue (attacco +65 a chi  si  trova  in  mezzo),  le
+quali scaricano  l’energia  a  terra,  causando  un  colpo  critico  “C”  da
+elettricità a tutti i presenti nella stanza. Osservando  le  statue  si  può
+notare (prova “Difficile” [-10])  che  le  lance  possono  essere  spostate,
+indirizzandole verso il soffitto. Così facendo si indebolisce il  flusso  di
+energia: la trappola non  verrà  più  attivata  passando  davanti  a  quella
+statua e, per ogni statua “disinnescata” il BO del fulmine scende  di  10  e
+il livello del critico subito dal pavimento scende di uno (da “C” a  B”,  da
+“B” ad “A” e da “A” a “A-20”). Se  tutte  le  statue  sono  disinnescate  la
+sfera di energia si spegnerà. Rivelando una piccola  piramide  di  vetro  al
+suo interno. Se la piramide viene rotta infligge un  colpo  critico  “C”  da
+elettricità a tutti nel raggio di 2 metri.
+
+STANZA DEL TESORO:  Le  porte  di  questa  stanza  sono  di  oro  massiccio,
+scassinarle necessita una prova “Estremamente Difficile” [-30], è  possibile
+anche forzarle ma resisteranno a 200 danni  di  armi  contundenti  prima  di
+spalancarsi. Ad ogni  modo,  ogni  tentativo  di  aprirle  fa  scattare  una
+trappola magica (“Assurda” [-70] da  individuare  senza  magia)  che  lancia
+“Wounding True” sul profanatore se fallisce un TR contro il  Flusso  di  50°
+(fa perdere tutti i propri PF più 50), oltre che creare un muro  di  energia
+magica nello spazio aperto della porta. Chiunque tenti  di  oltrepassare  il
+muro magico viene teletrasportato fuori dalla stanza, spalle alla porta.  Il
+muro può essere cancellato come una magia di 25° dell’Essenza.
+La stanza contiene svariati oggetti fra cui:
+ – 2 statue d’oro a forma di condor del valore di circa 400 mo l’una
+ – 3 scrigni contenti ciascuno 800 mo  in  antiche  monete  xebechane.  Ogni
+   scrigno è però protetto da una trappola (“Estremamente  Difficile”  [-30]
+   da individuare e “Difficile” [-10] da disattivare) che fa scattare  delle
+   lame fuori dallo scrigno, infliggendo un colpo critico “C” alle mani.
+ – 2 armature di scaglie (contano come armature di maglia) TA15,  pesano  il
+   10% in meno(50 mo l’una); con 2 scudi a torre (9 ma l’uno) e 2 lance  +10
+   non magiche (5ma l’una).
+ – Una corona d’oro, ornata di gemme, del valore di circa 600 mo .
+   MAZZA DI MALACHITE: Una mazza magica composta interamente  di  malachite,
+   molto leggera e maneggevole.
+   POTERI: può essere lanciata come un Martello da Guerra e riceve un  bonus
+   di +15 al BO se viene lanciata. Inoltre, una volta al giorno può lanciare
+   l’incantesimo Annulla Porta.
+   STAFFA DELLA  NECROMANZIA:  Una  staffa  di  ebano  e  oro,  con  intarsi
+   raffiguranti teschi, condor e demoni.  È  contenuta  all’interno  di  una
+   scatola di pietra, protetta da una trappola magica  (“Assurda”  [-70]  da
+   individuare senza la magia) che lancia 3 Coldbolt contro chi la apre (+65
+   BO).
+   POTERI: 20 cariche di “Crea Non Morti III”, qualsiasi  non  morto  creato
+   con la staffa obbedisce agli ordini del suo possessore, che può comandare
+   un numero di non morti pari al suo livello (se perde il  controllo  della
+   staffa perde anche il controllo dei non morti).
+   SARCOFAGO DI PIETRA: proprio al centro della  sala  si  trova  un  antico
+   sarcofago, coperto da incisioni, fra le quali  è  possibile  scorgere  il
+   nome (in xebechano) del  proprietario:  il  re  Tezcatlipochitl  III.  Il
+   sarcofago è protetto da un potente sigillo magico, chi lo apre è soggetto
+   alla Maledizione di Azatzotech (Black Channel I), se fallisce un TR a –25
+    contro il Flusso del 20° livello i  suoi  muscoli  si  atrofizzeranno  e
+   subirà una penalità permanente di –50 alle azioni.
+   Il Sarcofago contiene  i  seguenti  oggetti,  assieme  al  corpo  del  re
+   defunto.
+   SFERA DI CRISTALLO: Tutte le magie dalle liste base dei Veggenti lanciate
+   attraverso quest’oggetto hanno un bonus di +10 alla manovra di  lancio  e
+   hanno raggio raddoppiato.
+   COLLANA DI GIADA: Una collanina in oro, con ciondoli di giada scolpiti  a
+   forma di teschio.
+   POTERI: +10 a tutti i TR contro la magia, permette di  lanciare  Cancella
+   Essenza, Cancella Flusso e Cancella Mentalismo ognuno tre volte al giorno
+   (livello di lancio: 20°), brilla leggermente se avvicinato  ad  un  altro
+   oggetto magico.
+   SPADA DI TEZCATLIPOCHITL: Usata dal re  quando  era  ancor  in  vita,  si
+   tratta di una spada di ottima fattura.
+   POTERI: ora la spada è maledetta, chi la impugna subisce una penalità  di
+   –20 al BO ed è costretto ad attaccare come  in  berserk  la  persona  più
+   vicina finché non sviene, muore o la spada non  gli  viene  strappata  di
+   mano.
+
+
+   SCIAME NON MORTO: I PG vengono assaliti da uno sciame di ratti non morti:
+   lo sciame è immune agli incantesimi mentali e ai colpi  critici  che  non
+   sono inflitti da attacchi ad area. Gli  incantesimi  che  hanno  un  solo
+   bersaglio sono di solito inefficaci, dato che colpiscono  un  solo  ratto
+   (fanno al massimo 5 danni). In più,  tutti  quelli  in  contatto  con  lo
+   sciame perdono 2 PF al round, che  esso  recupera.  Contro  gli  attacchi
+   dello sciame contano solo i bonus al BD derivati dalla magia.
+
+
+MOSTRI ERRANTI: ogni stanza che non contenga un incontro programmato  ha  il
+20% di contenere un mostro errante di qualche tipo. Tira 1d10 per  stabilire
+il mostro:
+
+
+|Risultato     |Incontro              |N°    |
+|1             |Spettro Minore        |1-2   |
+|2             |Non Morto Classe IV   |1-5   |
+|3             |Mummia Maggiore       |1-2   |
+|4             |Non Morto Classe V    |1-2   |
+|5             |Non Morto Classe IV   |1-5   |
+|6             |Spettro Grande        |1-2   |
+|7             |Spettro dei Tumuli    |1     |
+|8             |Scheletro Maledetto   |1-2   |
+|9             |Netherwraith          |1     |
+|10            |Tira 2 volte (ignora i|-     |
+|              |10)                   |      |
+
+
+
+
+TRAPPOLE PRONTE:
+RUNE: Iscrizioni runiche sulle pareti, se vengono lette  (prova  di  Leggere
+Rune), scagliano un IceBolt +50 su chi le ha lette.
+ZONE OSCURE: Delle aree di oscurità magica che risucchia  la  forza  vitale,
+chi vi entra perde 2d10 di PF al round e fa un TR (Essenza 10°)  ogni  round
+per poterne uscire.
+LAME: Una grande lama esce da una parete e rientra  nell’altra  (ricaricando
+la trappola), trattato come un attacco da Broadsword +100 ai fianchi.
+SCRIGNO: Un falso scrigno fa  scattare  un  contrappeso  che  fa  cadere  un
+masso: Attacco Grande Fall/Crush +80.
+PORTA CHIUSA: Le porte chiuse necessitano una prova “Molto Difficile”  [-20]
+di Scassinare, alternativamente possono essere abbattute  se  subiscono  100
+danni da armi contundenti. Ogni round passato ad abbattere una porta  ha  il
+10% cumulativo di probabilità  di  attirare  qualche  mostro  a  scelta  del
+Master.
+   PORTA  CHIUSA  MAGICAMENTE:  queste  porte  possono  essere  aperte  solo
+   annullando l’incantesimo che  le  tiene  chiuse  (Essenza,  20°  livello)
+   oppure sfondandole, non è possibile scassinarle normalmente.  Ogni  round
+   passato ad abbattere una porta ha il 10%  cumulativo  di  probabilità  di
+   attirare qualche mostro a scelta del Master.
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Massa Non Morta |20° |La# |260|1(40)     |100MCl(3x)[Cold]/Special    |+0  |
+|Wight           |20° |SL# |170|19(30)    |150we[Cold]/Special         |+0  |
+|Mummia          |10° |La# |150|8(40)     |110Lba/Spec                 |+4  |
+|Bloodbeast      |15° |La# |170|1(40)     |115MtWh/Spec                |+12 |
+|Loquitochi      |25° |La# |200|1(85)     |120Qst[Cold]/Spells/Spec    |+12 |
+|Unseen          |10° |M#  |150|4(50)     |120LCl                      |+8  |
+|Golem del       |20° |SL# |170|16(20)    |120Lba/Spells               |+8  |
+|teschio         |    |    |   |          |                            |    |
+|Demone          |10° |M#  |138|4(40)     |110Mbi/90ABreath            |+4  |
+|dissacratore    |    |    |   |          |                            |    |
+|Cresh’urim      |25° |SL# |300|20(80)*   |130HSt+pois/220We/130Lbi/   |+12 |
+|Scheletro       |10° |M#  |130|15(70)    |100we/spec                  |+4  |
+|Maledetto       |    |    |   |          |                            |    |
+|Netherwraith    |15° |La# |165|1(50)     |80Nbolt(touch)/spec         |+12 |
+|Sciame Non Morto|25° |M#  |400|1(50)     |150Tiny                     |+8  |
+
+
+Scheletro Maledetto:  gli  Scheletri  Maledetti  sono  i  resti  di  antichi
+guerrieri, colpiti da una tremenda maledizione che li  lega  eternamente  ad
+un determinato luogo. Appaiono come scheletri umanoidi dalle ossa  annerite,
+come  se  fossero  state  bruciate.  Solitamente  indossano  l’armatura   ed
+impugnano le armi che avevano in vita. La terrificante magia  che  tiene  in
+vita  questi  esseri  fa  si  che  essi  rigenerino  quasi   istantaneamente
+qualsiasi ferita che non venga inflitta loro  con  fuoco,  acido  o  energia
+sacra (rigenerano 10 PF per round). Come se non bastasse, la  loro  presenza
+risucchia 2 PF al round nel raggio di 3 metri.
+
+Netherwraith: i Netherwraith sono spettri di  usufruitori  il  cui  corpo  è
+stato completamente consumato dalla magia. Sono figure d’ombra,  ancora  più
+oscuri delle tenebre che li circondano,  dai  contorni  vagamente  umanoidi.
+Attaccano con il loro terribile tocco,  che  ha  lo  stesso  effetto  di  un
+Netherbolt, oltre che risucchiare 5 PF a tutti gli esseri viventi.  In  più,
+conoscono la lista “Darkness” fino al loro livello  e  possono  lanciare  un
+incantesimo al round senza preoccuparsi dei Punti Magia.
+
+
+                          HUITLIYA, LA CITTA’ MORTA
+
+
+Infine i PG sono arrivati nella  grande  caverna  che  ospita  la  città  di
+Huitliya,  la  città  dedicata  ad  Azatzotech.  Circondata  da  alte   mura
+pattugliate da non morti e golem, la città è divisa in tre zone  principali:
+la torre Est, la torre Ovest e il Palazzo.
+TORRE EST > Xalaqui, il costruttore di Golem, può insegnare a  Kamhal  molte
+cose (+1 rango in tutte le liste di Golem e in Potenziare: Golem Mastery).
+TORRE OVEST > Kamozak, il negromante, in competizione  con  Xalaqui  per  la
+costruzione dei migliori  soldati  da  offrire  alla  regina.  Si  offre  di
+“migliorare” un guerriero del gruppo (Varg). Se Varg accetta guadagna  5  PC
+ma ora i suoi pugni  sono  considerati  armi  magiche.  Afferma  di  poterlo
+migliorare ancora ma ha bisogno del corpo di un demone  per  farlo  (se  gli
+viene portato Varg guadagna altri 15 PC e  i  suoi  pugni  fanno  lo  stesso
+danno di una mazza).
+PALAZZO: la strada per il  palazzo  è  custodita  da  Telopqa,  paladino  di
+Azatzotech . Afferma che per entrare a palazzo ci vuole l’autorizzazione  di
+due personalità della città. Telopqa può  insegnare  a  Kronen  qualcosa  in
+materia bellica se gli parla della guerra  che  stanno  mandando  avanti  (2
+ranghi in Organizzazione Militare, Tattica e Leadership) in  più,  gli  dice
+di passare da  Xalaqui  per  ritirare  una  pergamena  che  lo  può  aiutare
+nell’erigere la  sua  fortezza  (Pergamena  di  Bastion  of  Evil  True,  un
+incantesimo speciale).
+
+Axlampoteq > Mago di corte, è un nomenista, può insegnare qualche  trucco  a
+Ilidan in cambio di qualche lezione nelle lingue che egli conosce
+(dimezza le penalità per il lancio senza mani ma dimezza anche i  bonus  per
+entrambi le mani libere, raddoppia bonus e  penalità  dall’uso  della  voce;
+un rango in Leggere Rune e Sintonizzazione Magica).
+
+Tenochiletchla  >  regina  di  Huitliya,  appare  come  una  giovane   donna
+xebechana bellissima, si è mantenuta giovane grazie  a  blasfemi  rituali  e
+suggendo l’energia dal corpo mummificato del re suo marito. Può mostrare  ai
+PG il portale per R’lyxqan ma afferma che è custodito e che è necessario  il
+medaglione regale custodito a Qalaktchla per poterlo attraversare.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Xalaqui         |35° |SL# |450|16(100)   |200HCr/Spec/Spells          |+16 |
+|Kamozak         |35° |SL# |450|18(75)    |180Qst+200Hba/Spec/Spells   |+16 |
+|Telopqa         |35° |SL# |500|20(90)    |200GSw(4D)/Spec/Spells      |+12 |
+|Xinihuini       |35° |SL# |450|18(75)    |200Hba/Spec/Spells          |+12 |
+|Axlampoteq      |35° |SL# |450|18(75)    |200Hba/Spec/Spells          |+12 |
+|Tenochiletchla  |45° |SL# |600|1(250)    |180Fal/Spec/Spells          |+32 |
+|Custode della   |85° |SL# |999|20(100)   |375GSw(4D)(2x)/Spec         |+16 |
+|Via             |    |    |   |          |                            |    |
+
+
+                                   GUERRA!
+
+Ai PG non resta che tornare indietro per andare a recuperare  il  medaglione
+per aprire la via. Tuttavia, al loro ritorno alla fortezza troveranno  molte
+sorprese ad attenderli.
+I NANI: una colonna di 1500 nani è stata  interecettata  dalle  spie  goblin
+proprio il giorno prima. I nani sono diretti da  Berthrant  per  offrire  il
+loro  appoggio,  si  tratta  di  un’occasione   unica   per   tendere   loro
+un’imboscata e infliggere il  primo  vero  colpo  alle  forze  del  Bene,  è
+tuttavia richiesta la presenza dei PG, in  quanto  comandanti  dell’orda.  A
+seconda della loro partecipazione e dei loro piani lo scontro  andrà  più  o
+meno bene, con effetti diversi anche sul morale delle truppe  (una  vittoria
+schiacciante può attirare nuove reclute). Nota che i nani  possono  ricevere
+l’aiuto di alcune Grandi Aquile se lo scontro andasse per le lunghe.
+VARG: al ritorno Varg ha una visione  del  suo  maestro  e  sente  che  deve
+recarsi da lui perché sta succedendo  qualcosa  di  importante.  Tardare  un
+attimo potrebbe rivelarsi fatale.
+Giunto a Nortcastle egli scopre che il potente  clan  degli  Ulding  (stile:
+Lame della Vendetta di Ulding) intende supportare le truppe  in  arrivo  dal
+Kelmark che andranno ad unirsi a quelle di Berthrant. I capi  dei  clan  che
+non erano d’accordo (come quello dei Korg) sono stati  dichiarati  traditori
+ed imprigionati. Se Varg li libera guadagnerà dei validi alleati per la  sua
+guerra. Tuttavia, il monaco dovrà affrontare nuovamente il suo  maestro  per
+il confronto finale del suo allenamento e  dimostrare  di  essere  il  degno
+successore della sua scuola.
+I GIGANTI: al ritorno dalla battaglia i PG troveranno un  gigante  del  gelo
+ferito che spiega la situazione del suo clan: sono tenuti prigionieri  dalla
+tempesta creata da un loro  acerrimo  nemico,  un  gigante  delle  tempeste,
+uccidendolo i PG  possono  liberarli  e  avranno  nuovamente  dalla  loro  i
+Giganti del gelo. Il Gigante delle tempeste conosce  gli  incantesimi  delle
+liste: Ice Law, Water Law, Wind Law fino al suo livello.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Nano Elite      |15° |M   |250|20(50s)   |120war                      |+4  |
+|Grande Aquila   |15° |La  |280|4(50)     |120HCl/80Lba+95LPi          |+12 |
+|Gigante delle   |20° |SL  |450|16(70)    |180Wa(5D)/100ro/Spells      |+8  |
+|Tempeste        |    |    |   |          |                            |    |
+|Quorton         |30° |La# |200|1(100)    |130Sty[Slash]/Spec          |+16 |
+
+
+

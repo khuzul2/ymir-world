@@ -1,0 +1,293 @@
+
+===== [page 1] =====
+Demoni & Affini
+OGGETTI DEMONIACI SPECIALI
+NOTA: Gli oggetti demoniaci possono conferire Corruzione a 
+chi li indossa o impugna: 1 punto Corruzione ogni giorno se si 
+indossa un’armatura completa (TA 15,16,18,19,20); 1 punto 
+Corruzione ogni 2 giorni per altre armature (o parti di 
+armatura). Per le armi, si gudagna 1 punto Corruzione ogni 
+settimana di utilizzo.
+Armi e Armature di Vetro Abissale
+Resina magica molto resistente (+20), di colre grigio-bluastro, 
+proveniente da un altro piano d’esistenza. Viene utilizzata per 
+creare armi e armature da alcuni demoni e da altre creature 
+extradimensionali. Al contrario dell’Acciaio Demoniaco è 
+maneggievole anche per i comuni mortali. Le armature 
+foggiate con questo materiale sono impervie agli attacchi 
+elementali di ogni tipo.
+Esempi
+•
+Scudo Abissale: Scudo a Torre (BD+60 in totale), consente di parare gli incantesimi Dardo. 
+Ogni volta che il portatore viene colpito da un incantesimo, c’è il 5% di possibilità che esso 
+venga Cancellato.
+•
+Armatura Abissale: TA 17-20, +20 TR contro ogni incantesimo, 5% di possibilità di 
+Cancellare ogni incantesimo lanciato contro il portatore.
+•
+Alabarda Abissale: Grande alabarda incantata, +20 colpisce come Mithril, è affilatissima e 
+infligge un critico addizionale da Taglio
+Armi e Armature di Acciaio Demoniaco
+Metallo molto duro e pesante (circa il 250% dell’acciaio), color rosso sangue, forgiato direttamente 
+col fuoco infernale. Conferisce un bonus di +35 alle armi costruite con esso, più qualche altro 
+potere magico casuale (colpi critici addizionali, colpi critici Blasfemi, danni doppi,…). Le armi e le 
+armature dei Demoni sono solitamente costruite con questo materiale ma, sfortunatamente, sono 
+troppo pesanti per essere utilizzate agevolmente dai mortali.
+Esempi
+•
+Falce Infernale: Grossa falce (usa la tabella delle Armi Lunghe) di Acciaio Demoniaco, +35 
+colpisce come Mithril, infligge un colpo critico addizionale da Arma Blasfema, una volta 
+ogni tre giorni colui che la impugna può Reclamare un’Anima: deve portare un attacco (che 
+viene trattato come Slaying) contro un bersaglio vivente, se lo uccide con quest’attacco (per 
+risultato del critico o per eccesso di danni)  esso deve fare un TR contro il Flusso del 25° 
+livello opppure la sua anima viene assorbita dal portatore, che guadagna temporaneamente 
+10PM per livello del bersaglio. Il portatore può superare senza pericolo il suo limite 
+massimo di PM in questo modo, i punti così guadagnati si consumano normalmente e/o al 
+
+===== [page 2] =====
+ritmo di 5 ogni giorno che passa e non vengono recuperati col riposo. Tratta l’anima del 
+bersaglio come se fosse stata colpita da un Dark Absolution. Se usata da un mortale: -3 
+all’Iniziativa, non può parare.
+Fusione Demoniaca
+Spesso i demoni più potenti utilizzano la magia per fondere nelle proprie armi o nella propria 
+corazza (e, a volte, perfino alle loro stesse carni) demoni minori. Lo fanno non tanto perchè ciò 
+conferisca loro poteri particolari ma semplicemente perchè, essendo i demoni composti di Essenza 
+Oscura, possono servirsene come fonti di potere magico corrotto. In pratica, ogni demone può 
+fondere dentro di sé o nei suoi possedimenti qualsiasi demone di tipo inferiore al proprio, fino a un 
+numero di demoni totali pari al proprio tipo (per esempio, un demone del IV tipo può fondere fino a 
+4 demoni di tipo dal I al III. Possono essere tutti e 4 di un solo tipo o anche ognuno di tipo diverso, 
+ma non più di quattro e non di tipo maggiore del III). Ogni demone fuso conferisce a chi lo porta 
+10PP extra per tipo (per esempio, un demone del III tipo conferisce 30PP extra), che egli può 
+utilizzare come se fossero suoi. Questi PP non si rigenerano in alcun modo e, una volta finiti, il 
+demone sparisce in uno sbuffo di zolfo e torna al suo piano di origine. 
+Anche i mortali possono teoricamente fondere demoni dentro di sé (ma pochi sanno come fare), e 
+ne ottengono benefici ancora maggiori. Oltre ai PP extra, infatti, i mortali guadagnano l’accesso a 
+tutte le liste di incantesimi conosciute dal demone. 
+Un contatto così stretto con un demone, tuttavia, è altamente foriero di corruzione. Chi è tanto folle 
+da fondere un demone dentro sé stesso riceve subito 1d10 di punti Corruzione per tipo del demone, 
+più un PC per tipo del demone ogni giorno che passa. Inoltre, ogni 24h deve fare un TR contro il 
+Mentalismo (livello del demone) per evitare di venir posseduto dal suo “ospite”.
+Legare un demone ad un oggetto è invece meno rischioso per i mortali (conferisce gli stessi PC di 
+tutti gli oggetti demoniaci), ma non porta alcun PP extra. In compenso le armi con un demone fuso 
+dentro guadagnano un bonus pari a un decimo del miglior BO del demone, che si aggiunge a 
+qualsiasi altro bonus già posseggano (se non lo sono, diventano magiche). Le armature e gli oggetti 
+difensivi, invece, danno un bonus al BD pari a cinque volte il tipo del demone.
+
+===== [page 3] =====
+CREATURE DEMONIACHE
+Amalgama Demoniaca
+Poche cose sono più orripilanti di un’amalgama demoniaca: un costrutto magico composto da 
+diversi demoni fusi insieme a metallo e altre sostanze in un unico essere disgustoso, pieno di 
+tentacoli, braccia, zampe e aculei.
+Ogni Amalgama ha un aspetto diverso dalle altre, ma ognuna ha le seguenti abilità speciali: 
+•
+Orrore: chiunque si trovi entro 10m da un’Amalgama Demoniaca deve fare un TR contro 
+la Paura, se lo fallisce subisce un “C” da Shock
+•
+Amorfo: le Amalgame possono attaccare e difendersi su ogni lato senza penalità e gli 
+attaccanti non godono di bonus per attacchi sui fianchi o alle spalle
+•
+Veleno: gli artigli e gli aculei delle Amalgame iniettano un Veleno Circolatorio di 10° 
+livello
+•
+Sguardo del Nulla: concentrandosi per un round su un bersaglio (75% dell’azione) 
+un’Amalgama lo costringe a fare un TR contro l’Arcano. Se il bersaglio fallisce, subisce un 
+critico da Void di gravità conforme al fallimento (1-10: “A”; 11-20: “B”; 21-30: “C”; 31-
+40: “D”; 41+: “E”)
+•
+Costrutto: le Amagame Demoniache non sono demoni, ma sono costrutti a tutti gli effetti, 
+ciò nonostante, godono di un +20 ai TR contro tutti gli incantesimi/effetti di controllo che 
+agiscono sui normali costrutti.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Amalgama Demoniaca
+15°
+La@
+160
+12(40)
+140LCl(x3)/Poison/Special
++8
+Burattino
+I Burattini sono i fedeli servitori del Demone Sovrano Xardas, il Signore dei Complotti. Appaiono 
+come membri di bell’aspetto di una razza umanoide, ma in realtà sono golem di cera, abilmente 
+cammuffati con accurate illusioni e mossi da un’intelligenza demoniaca. I Burattini si infiltrano 
+nella società in cui vengono inviati dal loro padrone (solitamente il loro aspetto dipende dalla loro 
+missione), portando avanti i suoi oscuri ed intricati complotti. È estremamente difficile distinguere 
+un Burattino da un comune membro della razza che imita e solitamente essi prendono moltissime 
+precauzioni per non essere scoperti. Gli unici fattori che possono tradirli sono il fatto che, essendo 
+costrutti artificiali, sono privi delle normali funzioni organiche: non dormono, non sanguinano, non 
+mangiano né respirano. Sono tuttavia in grado ingerire una certa quantità di cibo per espellerla 
+intatta più tardi oltre a imitare  alla perfezione il movimento del petto di una persona che respira 
+normalmente.
+Tutti i Burattini hanno un bonus di +100 a Muoversi Silenziosamente e Nascondersi e accesso alle 
+seguenti liste fino al loro livello, dalle quali possono lanciare un incantesimo al round senza spesa 
+di PM: Misdirections (Magent Base); Gathering Secrets (Magent Base); Disguise Mastery (Magent 
+Base); Mind Control (Mentalist Base); Mind’s Door (Closed Mentalism).
+Se ucciso, un Burattino si scioglie in una pozza di cera puzzolente e sarà possibili avere una fugace 
+visione di una serie di fili (come quelli di una marionetta) che si staccano dal suo corpo e 
+svaniscono nell’aria.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Burattino
+15°
+M#
+130
+4(60)
+130We/120MaStr
++12
+Natharl’Nacna
+I Natharl’Nacna sono una particolare casta di demoni esiliati moltissimo tempo fa dal loro piano di 
+origine che si sono stabiliti nel Vuoto. Si dice che siano i più antichi fra i demoni e che da essi 
+
+===== [page 4] =====
+discendano i Demoni Sovrani. Nessuno conosce il motivo del loro esilio e i loro scopi sono 
+imperscrutabili, anche se indubbiamente maligni.
+I millenni li hanno cambiati e hanno modificato il loro aspetto e la loro struttura ma non la loro 
+malvagità. Reietti e temuti persino dagli altri demoni si sono organizzati in un gruppo più o meno 
+omogeneo e hanno formato una loro scala gerarchica simile a quella dei normali demoni.
+Chiunque veda un Natharl’Nacna deve fare un TR contro la Paura (chi fallisce di 100 o più muore 
+sul colpo, chi fallisce di 50 o più resta paralizzato per 1 round ogni 10 di fallimento, gli altri 
+fuggono in preda al panico). Tutti i Natharl’Nacna contano come demoni del VI tipo, anche se non 
+possono essere evocati tramite comuni incantesimi. Pare esista un tomo particolarmente nefasto, il 
+“Libro degli Estranei”, che insegna i rituali necessari alla loro evocazione.
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Carac’nin
+20H
+La
+250
+12(70)*
+120bs(2x)/130Hbi/100LGr+180Hbi/spec.
++8
+Cresh’urim
+25H
+SL#
+300
+20(80)*
+130HSt+pois/150LCl(2x)or200We/130Lbi/sp
++12
+Dark Rythsykh
+30H
+SL#
+350
+1(100)*
+150Lba[Slaying]/spells
++4
+Meleth’Scor (Small)
+20H
+La#
+250
+3(40)*
+100MGr(6x)[Distrupt]/spells
++8
+Meleth’Scor (Large)
+35H
+SL#
+500
+3(60)]
+100LGr(6x)[Distrupt]/spells
++8
+Pred Yrric
+40H
+SL@
+450
+3(110)*
+200HGr/spells/130Lbi+pois/All
++16
+CARAC’NIN: demoni assassini, appaiono come un’informe massa di tentacoli che circondano 
+delle fauci irte di zanne, sono dotati di zampe da insetto che gli permettono di camminare sulle 
+pareti e sui soffitti. Il loro morso agisce come un “Absolution”. Molto resistenti a tutti i tipi di 
+magia a parte quella Arcana (+50 a tutti i TR contro la magia e +80 al BD contro incantesimi di 
+reame diverso da Arcano).
+CRESH’URIM: demoni guerrieri, hanno un corpo da ragno con coda da scorpione sormontato da 
+un torso umanoide dotato di poderose braccia artigliate e una testa vagamente lupesca. Il loro morso 
+agisce come un “Major Pain”, la loro coda inietta un potente veleno. Conoscono tutte le liste del 
+Mentalista Malvagio fino al loro livello. Godono di un +50 ai TR e un +75 al BD contro incantesimi 
+non Arcani.
+DARK RYTHSYKH: pare che questi esseri non esistano realmente in questo multiverso ma siano 
+la proiezione di una qualche strana entità. Appaiono come vaghe ombre vermiformi grigie. 
+Rigenerano 10 PF al round e conoscono tutta la lista “Darkness”, le liste degli Stregoni e quelle 
+chiuse del Flusso.
+MELETH’SCOR: strane sfere grigie ricoperte di tentacoli che galleggiano a mezz’aria. Chiunque 
+venga intrappolato tra le loro spire viene portato verso il loro corpo acido e subisce un colpo critico 
+“C” da Aether. Sono immuni ai colpi critici da Aether e Nether, hanno un bonus di +45 ai TR e +70 
+al BD contro incantesimi non Arcani. Spesso conoscono svariate liste di incantesimi.
+PRED YRRIC: fra i demoni del Vuoto più potenti i Pred Yrric hanno un torso in qualche modo 
+umanoidi sotto i quali spuntano numerosi grossi tentacoli. Hanno una testa aracnoide con otto occhi 
+e orribili fauci bavose. Conoscono tutte le liste del reame Arcano e del Mentalismo. Il loro tocco 
+risucchia 10 PM (PF se la vittima non ha più PM) al round. Riflettono al mittente ogni incantesimo 
+mentale che viene lanciato loro contro, godono di un bonus di +100 ai TR e al BD contro gli 
+incantesimi non Arcani.
+Phlegetauro
+I Phlegetauri sono un raro tipo di demoni che abitano remoti piani infernali,  pieni di enormi laghi 
+di fuoco o di magma. Possono anche essere trovati sul nostro piano di esistenza, solitamente 
+preferendo ambienti sotterranei o vicino a dei vulcani. Sono figure umanoidi scure, come fatte di 
+carbone, alte più di tre metri e mezzo, ognuno con tre teste cornute poste su altrettanti colli 
+serpentini. Sono avvolti da fiamme imperiture che infliggono un colpo critico "C" da calore a 
+chiunque nel raggio di 2 metri e sono in grado di emettere coni di fuoco da ognuna delle loro 
+bocche. Conoscono la lista "Fire Law" fino al loro livello e possono lanciare un incantesimo al 
+
+===== [page 5] =====
+round senza spesa di PM. Possono attaccare sia con i loro tre soffi (ogni testa può soffiare una volta 
+ogni 6 round) che con i loro poderosi artigli o col morso. Inoltre, quando vengono uccisi, esplodono 
+in una Palla di Fuoco +60 centrata su di loro. Sono ovviamente immuni al fuoco e al calore ma 
+subiscono doppi danni dall'acqua e dal gelo (i colpi critici da questi attacchi sono considerati 
+"Slaying"). 
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Phlegetauro (V)
+25°
+La@
+300
+12(60)
+120LCl/120Lbi(x3)/60FBr(x3)
++8
+Tessiombra
+I Tessiombra sono grandi ragni demoniaci, figli del crudele dio Yogh, tessono tele d’ombra per 
+imprigionare le loro prede. La loro tela si estende come una cortina d’ombra sempre più fitta, divisa 
+in tre strati e con un raggio pari a 1m per livello del ragno. Dentro il primo strato di ragnatela le 
+persone che tentano di andarsene sono rallentate (50% azione) e devono fare un TR sul Mentalismo 
+per uscire (occorre fare un tiro Allerta per accorgersi della tela). Dentro il secondo strato si è 
+Rallentati e bisogna fare un TR contro il Mentalismo quando si tenta di uscire o essere rigirato di 
+180° (come per l’incantesimo “Spin”). La luce è dimezzata dentro questo strato. Al centro della rete 
+bisogna fare un TR contro il Mentalismo o essere Paralizzato, anche se ci si riesce si è Rallentati. Il 
+centro della ragnatela agisce come un Utterdark. Dentro l’oscurità il Tessiombra ha un bonus di +50 
+ai TR e al BD contro gli incantesimi e può usare le seguenti liste fino al 10° livello: Darkness, 
+Physical Erosion, Illusion Mastery, Guises e Spirit Mastery. Il Tessiombra è molto sensibile alla 
+luce, attacchi di luce gli infliggono colpi critici “Slaying”.
+I Tessiombra sono considerati demoni di III tipo e vengono spesso congiurati dagli stregoni ed 
+evocatori di Ulan-Tang.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Tessiombra (III)
+8°
+I
+160
+4(80)
+60MGr(6x)/spec
++12

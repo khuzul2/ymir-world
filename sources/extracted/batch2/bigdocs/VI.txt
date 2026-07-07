@@ -1,0 +1,377 @@
+
+
+                                     VI
+                           …AND SHADOWS SHALL FALL
+
+CAPITOLO I: GUERRA TOTALE
+Benvenuti nell’ultima parte della campagna “Caleranno le Tenebre”. I  PG  si
+sono eletti paladini della causa del Male, hanno radunato  un  considerevole
+esercito (in via di espansione), hanno conseguito qualche  vittoria  minore,
+si sono attirati l’odio di Berthrant e delle forze del Bene  e  sono  pronti
+per partire alla conquista del  maligno  artefatto  del  potere:  la  Corona
+della Stregoneria.
+CONSIGLIO DI GUERRA: i PG si trovano coi capi delle  varie  unità  del  loro
+esercito per formare un concilio di guerra: c’è Hildarf, il re dei  giganti;
+Turak, capo dei nani; Snotspill,  sciamano  goblin;  il  re  degli  Warg;  e
+Ugruk, capo della tribù orchesca degli Scudi Insanguinati.
+Per prima cosa, le buone notizie: la  sconfitta  dell’esercito  dei  nani  è
+stato un grave colpo inferto alle  forze  del  Bene,  ora  sono  consapevoli
+della minaccia costituita dalle forze dei PG. Inoltre, spinti dalle  notizie
+di vittoria, nuove tribù di orchetti si sono unite all’esercito (+500  fanti
+orchetti).
+Nonostante ciò, i PG rimangono schiacciati numericamente, ed  ora  i  ranger
+inizieranno la loro avanzata verso la Rocca,  consci  della  nuova  minaccia
+che li sovrasta. Inoltre, i cavalieri del Kelmark stanno galoppando verso  i
+Monti  Aestyr  e,  anche  se  i  barbari  aizzati  da  Varg  cercheranno  di
+rallentarli, non potranno fermarli in eterno. I Lupi del Ragnarok hanno  ora
+più che mai bisogno di nuove reclute o i PG potrebbero non  avere  il  tempo
+di trovare la Corona.
+Aspetta le proposte dei PG poi esponi quelle degli altri capi:
+    • Sabotaggio: compiere azioni di  disturbo  all’avanzata  dell’esercito
+      nemico,  provocare  frane,  incendi,  avvelenare  fonti   d’acqua   e
+      attaccare contingenti isolati.
+    • Troll: è comune opinione che i PG debbano trovare al  più  presto  un
+      modo per portare dalla loro i troll.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Ent             |25° |La  |400|20(10)    |80Hba(3x)                   |+4  |
+|Ranger          |10° |M   |105|9(30)     |135LBw/130Brsw              |+8  |
+
+CAPITOLO II: RITORNO A QALAKTCHLA
+Per oltrepassare il guardiano alla Vera Via per l’ultima delle tre città,  i
+PG hanno bisogno dell’amuleto reale  custodito  nel  tempio  di  Qalaktchla.
+Ovviamente, i Figli di Yogh non hanno intenzione di consegnarlo, sta  ai  PG
+trovare il modo di entrarne in possesso.
+INCONTRI A QALAKTCHLA:
+    • Mamma Glubraga, venditrice di erbe e pozioni, può addestrare  Lita  ai
+      segreti dell’alchimia (1 rango in Liquid/Gas Skill e 2  in  Alchimia),
+      oltre che insegnarle le ricette di tre pozioni:
+      RESURREZIONE: 1 diamante da almeno 100 mo, una dose di erba Degiik, un
+      forte liquore, Work Magic Liquid, prova “Folle” di Alchimia.
+      EROISMO: (+10 BO, BD, TR e Manovre, dimezza i round di stordimento per
+      1d4+1 round) cuore di un grosso predatore,  1  fungo  Zulsendra,  Work
+      Magic Liquid, prova “Estremamente Difficile” di Alchimia.
+      VERO DESTORDISCI: (toglie tutto lo  stordimento)  3  dosi  di  Fek,  1
+      Gefnul, un forte  liquore,  Work  Magic  Liquid,  prova  “Estremamente
+      Difficile” di Alchimia.
+    • Zaratech, Alto Sacerdote di Yogh, ultimo  ostacolo  che  i  PG  devono
+      affrontare x ottenere il medaglione. Inizialmente tenterà di ingannare
+      i PG  con  delle  illusioni,  poi  combatterà  con  loro.  Usa  alcuni
+      incantesimi  dalle  liste  malvagie   del   Flusso,   ma   soprattutto
+      Aracnomanzia, che usa per evocare ragni giganti al suo servizio.
+    • Zaratech, Mutato: Una volta  sconfitto,  Zaratech  invoca  Yogh  e  si
+      trasforma in un abominevole incrocio fra un ragno e  un  umanoide.  In
+      questo stato, Zaratech  non  para  mai,  attacca  con  la  sua  enorme
+      Alabarda (1 nemico), oppure  calpestando  tutti  i  PG.  Oltre  ad  un
+      attacco,  ogni  turno  può  sputare  una  ragnatela  (come   x   lista
+      incantesimi), oppure sputare una nube di gas velenoso (25° Conversion)
+      contro  una  vittima.   Se   qualche   personaggio   lo   infastidisce
+      particolarmente si sbizzarrisce con  Absolution  o  incantesimi  dalla
+      lista Holy Wrath.
+
+HELLHAMMER: Un morning star di Eog nero,  forgiato  direttamente  nel  fuoco
+dell’inferno, si dice  che  riappaia  ogniqualvolta  un  campione  del  Male
+compare in questo mondo. La testa di quest’arma è scolpita a forma di  testa
+di demone, con occhi rossi che brillano nelle tenebre.
+POTERI: Morningstar  di  Eog  +30,  doppi  danni,   infligge  colpi  critici
+“Blasfemi” contro le creature più grandi,  “Sterminatore”  di  creature  del
+Bene, il portatore riceve un  bonus  di  +1  all’iniziativa  ogni  10  Punti
+Corruzione Oscura che possiede. Una volta al giorno  può  essere  usato  per
+colpire il terreno e sprigionare una linea infuocata larga 30 cm e lunga  18
+metri, tutti quelli  colpiti  dalla  linea  subiscono  gli  effetti  di  una
+Fireball +10 (doppi danni).
+GIUDIZIO OSCURO: Arco di legno infernale, nero come la notte, creato
+appositamente per sterminare le creature del Bene.
+POTERI: Arco Lungo +30, doppia gittata, doppi danni, usa solo il 40% per
+caricare, le frecce scagliate sono considerate “Unholy” contro gli esseri
+più grandi, Sterminatrici contro le creature del Bene. Una volta al giorno
+può scagliare contro un nemico una freccia di energia oscura che colpisce
+come un Fulmine, con colpi critici Sacri.
+ARMATURA DEL DESTINO OSCURO: Armatura da campo fatta di un metallo  talmente
+nero da assorbire la luce, foggiata a forma di demone.
+POTERI: TA20 (ingombra come TA17), +20 al BD, riduce di un livello  tutti  i
+critici subiti, +25 ai TR e al BD contro la  Luce  e  l’Elettricità,  +10  a
+Sviluppo Corporeo.
+MONILE DELL’OCCHIO DI TENEBRA: Una collana  d’oro  con  una  pietra  nera  a
+forma di occhio come pendente.
+POTERI: Utilizzabile solo da un Usufruitore Puro  Malvagio  del  Mentalismo,
+10%  di  negare  i  critici  al  collo,  +10  al  BD,  consente  di  parlare
+mentalmente con le creature senzienti che  il  portatore  riesce  a  vedere,
+Lancia Nether Bolt I due volte al giorno.
+STAFFA DELL’AUTARCA: Pare  che  quest’elaborata  staffa  sia  appartenuta  a
+qualche grande mago del passato.
+POTERI: Staffa +20 Magica, Moltiplicatore x3  per  Usufruitori  Arcani,  può
+immagazzinare   un   incantesimo   da   lanciare    successivamente    senza
+preparazione, +10 alla categoria Incantesimi Diretti, +15 BD.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Orchetto medio  |3°  |M   |50 |16(25)    |60Sp/50other                |+4  |
+|Orchetto forte  |6°  |M   |85 |18(15)    |90Sp/85other                |+6  |
+|Orchetto elite  |10° |M   |130|16(30)    |130Sp/110other              |+8  |
+|Troll           |12° |La  |160|11(30)    |160LCl/100ro                |+4  |
+|Ragno Gigante   |8°  |I   |160|4(40)     |70Lpi/75LSt+poison          |+8  |
+|Figlio di Yogh  |15° |M   |125|9(50*)    |150MoSt/spells              |+12 |
+|Idra            |20° |SL  |380|19(40)    |150HBa/90Lbi(9x)            |+8  |
+|Zaratech        |20° |M   |140|4(40)     |120Qst/Spells               |+8  |
+|Zaratech, Mutato|40° |SL# |550|12(80)    |200PolAx(2D)/200HTram/Spells|+16 |
+
+CAPITOLO III: ASSEDIO ALLA ROCCA DEL MALE
+Durante la missione a Qalaktchla  la  situazione  del  mondo  esterno  si  è
+evoluta, le forze di Berthrant sono arrivate di fronte alla rocca e  l’hanno
+cinta d’assedio. Quando tornano, dunque, i PG la  troveranno  già  assediata
+(anche se quelli dentro lo sanno già).
+Fare dirigere qualche battaglia + scontri personali contro eroi del bene.
+Dopo i primi giorni di stallo la battaglia volgerà  in  favore  delle  forze
+del Bene con l’arrivo inaspettatamente precoce dei Paladini  della  Montagna
+Bianca,  aiutati  dalle  Grandi  Aquile  e  dai  Pegasi.  Berthrant  guiderà
+l’attacco finale a cavallo del Pegaso Reale.
+Il Pegaso Reale ha accesso alle liste: Holy Wrath, Channels, Life Mastery  e
+Concussion’s Ways.
+I Campioni Alati e i Paladini hanno accesso alle liste dei Paladini.
+Berthrant ha accesso alle liste dei Ranger e a quelle Aperte del Flusso.
+Il Veggente è uno scontro speciale x Lita, ha con sé  un  tomo  della  lista
+Brillanza.
+Alla fine, i PG dovrebbero  essere  costretti  ad  abbandonare  la  Rocca  e
+fuggire per salvarsi (Everything is lost…)
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Ent             |25° |La  |400|20(10)    |80Hba(3x)                   |+4  |
+|Ranger          |10° |M   |105|9(30)     |135LBw/130Brsw              |+8  |
+|Grande Aquila   |25° |SL  |350|4(60)     |180Hcl/120HBa+150HPi        |+12 |
+|Pegaso Reale    |30° |La  |280|4(40)     |120LBa/130LTs/100MBi/Spells |+12 |
+|Campione Alato  |20° |La  |220|14(80s)   |200Brsw(2D)/Spells          |+12 |
+|Nano Elite      |15° |M   |250|20(50s)   |120war                      |+4  |
+|Paladino del    |15° |M   |140|17(60)    |150brsw                     |+8  |
+|Bene            |    |    |   |          |                            |    |
+|Veggente del    |15° |M   |80 |15(40)    |60SBolt/Spells              |+12 |
+|Bene            |    |    |   |          |                            |    |
+|Berthrant       |35° |M   |325|12(80)    |260Fal/260LBow/Spells       |+12 |
+
+CAPITOLO IV: UCCIDERE I MORTI
+Ai PG non resta che riparare a Huitlya, per poter accedere alla Vera  Via  e
+sfuggire agli eserciti del Bene. Tuttavia, dopo un lungo viaggio  fino  alla
+città si troveranno di fronte ad uno spettacolo abbastanza strano: la  città
+è in rovina e, al suo interno stanno combattendo un battaglia  golem  e  non
+morti. Si tratta di una battaglia fra Xalaqui, il  costruttore  di  Golem  e
+Kamozak, il negromante, purtroppo, per  entrare  in  città,  i  PG  dovranno
+combattere.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Golem o Non     |20° |SL# |250|20(40)    |150LBa/70LGr+170LCr         |+4  |
+|Morto           |    |    |   |          |                            |    |
+
+I due maghi stanno conducendo questa battaglia come  una  sorta  di  gara  x
+provare le proprie capacità, vedi altro file x descrizione di  Huitlya.  Fra
+le rovine della  città  i  PG  potranno  anche  trovare  due  oggetti  molto
+interessanti:
+
+THE BREAKER: risalente alle Guerre Demoniache, quest’arma deriva la  propria
+forza da un demone intrappolato al suo interno dal  suo  creatore.  Si  dice
+appartenesse ad uno dei  tre  luogotenenti  della  forze  demoniache  e  che
+faccia parte di una triade di armi gemelle (The Cleaver,  The  Crusher,  The
+Breaker), ognuna delle quali era impugnata da un differente luogotenente.
+POTERI:  Ascia  da  Battaglia  +35  in  Acciaio  Demoniaco  (colpisce   come
+Mithril), i critici  inflitti  sono  considerati  di  un  livello  superiore
+contro esseri di dimensioni normali (A diventa B, B diventa C, C diventa  D,
+D diventa E ed E diventa E+20), “Uccisore”  di  Piante  Animate,  esseri  di
+legno ed elfi, -3 all’iniziativa, non può parare.  Una  volta  al  giorno  è
+possibile effettuare un “Colpo Devastante”: danni doppi,  ignora  l’armatura
+del nemico (TA=1),  infligge  un  secondo  colpo  critico  “Slaying”  (senza
+modifiche). Effettuare questo colpo è molto faticoso, a  partire  dal  round
+seguente impone una penalità di –100  alle  azioni   e  velocità  dimezzata.
+Riposando le penalità spariscono al ritmo di un 2% al round.
+
+ROVINA DELLA LUCE: Spada creata per difendere e aiutare gli stregoni oscuri
+nella guerra contro il bene.
+POTERI: Broadsword di Ebony incantato, +30 colpisce come Mithril,
+moltiplicatore x4 per Usufruitori Malvagi dell’Essenza, +2 al Caster Level
+del portatore. Danza per difendere il proprietario mentre questi prepara o
+lancia un incantesimo (TA20, BD70, PF:120, BO = metà di quello normale).
+
+
+
+Superati gli ultimi ostacoli i PG potranno finalmente attivare la  Vera  Via
+e attraversarla.
+
+CAPITOLO V: LE ROVINE GELIDE
+All’interno della torre i PG troveranno  lo  scheletro  di  un  uomo,  morto
+congelato molto tempo fa. Da un diario semi bruciato che  ha  con  sé  i  PG
+scoprono che si tratta di un certo Victius  Lazarus,  centurione  della  49°
+legione dell’impero Letio, inviata dall’imperatore Caesar  Tirius  IV  nella
+Landa  Gelida  allo  scopo  di  esplorare  le  antiche  rovine  ivi   celate
+(avvenimenti di circa 300 anni fa). Racconta di un tunnel sotterraneo  sotto
+la torre che porta ad una costruzione. Secondo il diario questa  costruzione
+sarebbe l’ingresso di una città perduta  ma  il  centurione  narra  di  aver
+perso tutta la legione nel viaggio e durante l’esplorazione delle  rovine  a
+causa degli orrori che contengono.
+BUTSUTEKAI: Golem Xebechani  costruiti  con  un  materiale  ignoto,  3  sono
+bianchi e 3 sono neri. Ogni arma che li colpisce ha  il  proprio  numero  di
+rottura aumentato di 5,  i  bianchi  subiscono  metà  danni  dagli  attacchi
+fisici e il doppio da quello magici; i neri  viceversa.  Ad  ogni  bianco  è
+associato un nero, entrambi devono essere sconfitti per morire.
+CANCELLO DEMONIACO: Rigenera 10 PF/round; immune alle armi non magiche.
+BUFFE TRAPPOLE MORTALI:
+Reticolo Laser: alcune zone dei corridoi sono occupate da  dei  reticoli  di
+piccoli fasci  di  luce  rossa,  “Molto  Difficili”  (-20)  da  individuare,
+passarci in mezzo consiste in 1d10 di colpi critici “E” da Calore.  I  fasci
+possono essere disattivati da  un  piccolo  pannello  vicino  alle  suddette
+zone, è un manovra “Media” individuarlo mentre disattivarlo  è  una  manovra
+“Assurda” (-70).
+Porte: una piastra  a  pressione  fa  scattare  due  porte  di  acciaio  che
+racchiudono i PG, subito dopo l’aria si riempie in  2  round  di  un  veleno
+Nervino di 25° livello. La  piastra  è  “Estremamente  Difficile”  (-30)  da
+notare e “Folle” (-50) da disattivare.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Butsutekai      |25° |La# |400|20(40)    |160BSw(2D)                  |+8  |
+|Cancello        |40° |SL# |100|20(60)    |200Lance(4x)/90Lbolt(2x)    |+12 |
+|Demoniaco       |    |    |0  |          |                            |    |
+
+CAPITOLO VI: R’LYXQAN, CHE SILENTE ATTENDE
+Oltre al Cancello sotterraneo si trovano le rovine di  R’lyxqan,  circondate
+da un tempesta di neve perenne. Muoversi all’interno della tempesta è  molto
+difficile, anche perché sono infestate da Elementali del Gelo.
+Oltre la tempesta si trova la prima  parte  delle  rovine,  abitate  da  una
+comunità di Ogre (condotti da uno  sciamano  chiamato  Orgak).  Questi  Ogre
+aspettano l’arrivo di coloro che li condurranno  fuori  dalla  tempesta.  La
+leggenda vuole che debbano arrivare dei condottieri guidati da una  profezia
+che  risveglieranno  l’esercito  congelato  all’interno  della  fortezza  di
+ghiaccio e lo guideranno alla conquista del mondo.
+La vera città, dicono gli ogre, si trova oltre un  crepaccio,  in  una  zona
+che è anche il territorio di caccia di un antico  drago  femmina  del  gelo:
+“Lassaruk”.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Elementale      |20° |SL# |160|1(40)     |120MGr[DCold]               |+8  |
+|Grande          |    |    |   |          |                            |    |
+|Ogre            |8°  |II  |160|4(10)     |70Cl(2D)/100LBa             |+4  |
+
+CAPITOLO VII: LASSARUK
+Lassaruk è l’ultimo guardiano posto  davanti  alle  rovine  della  città  di
+R’lyxqan, un drago femmina dei ghiacci che  attende  da  millenni  ecc  ecc,
+tanto non interessa a nessuno.
+Conosce tutte le liste dell’Elementalista del Ghiaccio fino al  50°  livello
+più Lofty Bridges, Concussion’s Ways e qualche altra lista improvvisata  dal
+master per renderla più cazzuta. Remember: 3 attacchi x round!
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Lassaruk        |50° |SL  |650|20(65)    |150HBi/130HCl/150HBa/90HHo/1|+8  |
+|                |    |    |   |          |00IBr                       |    |
+
+CAPITOLO VIII: NEGLI ABISSI GELATI
+Oltre la “zona Lassaruk” c’è un crepaccio, largo un  centinaio  di  metri  e
+più profondo di quanto l’occhio possa vedere; oltre il crepaccio  si  scorge
+un’enorme fortezza coperta di ghiaccio.  Il  crepaccio  è  protetto  da  una
+magia che impedisce  di  teletrasportarsi  oltre  o  di  volarci  sopra  ma,
+girandoci intorno è possibile vedere uno  strano  congegno  (simile  ad  una
+teleferica di metallo) che pare essere progettato per trasportare al di  là.
+Ovviamente a metà strada il congegno crolla e precipita  coi  PG  dentro  al
+crepaccio.
+Allâzebelpachâmiruš:  demone   guardiano   all’entrata   sotterranea   della
+fortezza, più che affrontarlo,  i  PG  dovrebbero  convincerlo  a  lasciarli
+passare.
+Oltre l’entrata sorvegliata si trovano una serie di  cunicoli  dalle  pareti
+di metallo, con diversi  occhi  volanti  al  loro  interno  che  fungono  da
+guardiani  (spiano  solo,  non  attaccano  se  non  provocati).  I  cunicoli
+convergono tutti ad una grande stanza rotonda che  è  in  realtà  un  grosso
+ascensore (una volta attivato inizia a  salire  fino  alla  piazza  centrale
+della città.
+Droide: appena entrati in città i PG sono attaccati da un grosso  droide  da
+guerra, che spara con  i  propri  blaster  a  ripetizione  (colpiscono  come
+Aether  bolt)  oppure  travolgendo  gli  avversari.   Sconfittolo   potranno
+continuare.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Allâzebelpachâmi|90° |SL# |127|20(110)   |346ThSw(4D)/Spells/Spec     |+56 |
+|ruš             |    |    |4  |          |                            |    |
+|Occhi di        |30° |La  |200|11(40)    |60MGr/Spells                |+8  |
+|Xlucthulhu      |    |    |   |          |                            |    |
+|Droide da Guerra|35° |SL# |600|20(60)    |90Aebolt(5x)/250HTr         |+12 |
+
+CAPITOLO IX: L’ORA DEL DESTINO
+Finalmente i PG potranno dirigersi verso  la  costruzione  principale  della
+città: una strana torre metallica. La torre è, in realtà,  un  arcano  mezzo
+di trasporto volante che trasporterà, dopo un po’ di suspence, i PG  in  una
+grande base nello spazio esterno. Qui succedono un sacco di  cose,  come  il
+ritrovamento dell’Esercito congelato (in realtà  un  esercito  di  guerrieri
+non morti/costrutto), del progetto per il Guerriero Perfetto,  della  Grande
+Biblioteca Arcana della città e altre cose buffe. Ma la cosa più  importante
+è che, infine…
+
+CAPITOLO FINALE: CALANO LE TENEBRE
+I PG raggiungono il luogo dove è  celata  la  Corona  della  Stregoneria!  È
+veramente in grado di dare il potere sui vivi e sui morti? Ed è  incustodita
+come sembra? Chi sarà  scelto  come  suo  portatore?  Chi  sopravvivrà  allo
+scontro finale? Il Male riuscirà veramente a trionfare?
+Lo scopriremo solo giocando!
+
+CORONA DELLA  STREGONERIA:  Creato  col  potere  di  tre  divinità  maligne,
+secondo la leggenda questo artefatto del Male è in  grado  di  conferire  il
+potere tanto sui vivi  quanto  sui  morti.  Si  dice  che  se  essa  dovesse
+riapparire in questo mondo, le  città  tremeranno  e  caleranno  le  tenebre
+perenni.
+POTERI: Moltiplicatore x9 per tutti i Reami, +50 PF, +45  al  BD,  +30  alle
+manovre di lancio degli incantesimi,  +25  ai  Tiri  Resistenza,  +100  alla
+categoria Influenza. Il portatore acquisisce  immediatamente  la  conoscenza
+di tutte le liste malvagie di qualsiasi Reame  fino  al  50°  livello  e  il
+potere di lanciarle come proprie liste  base.  Tutti  gli  esseri  senzienti
+entro 18 metri di raggio devono fare un TR contro l’Essenza di  25°  livello
+oppure essere Dominati dal portatore. Se egli si  concentra  attivamente  su
+di loro il livello dell’attacco sale a 50° e il TR soffre  una  penalità  di
+–25. Tutti i non morti di classe III o inferiore entro 10  metri  di  raggio
+dal portatore sono automaticamente controllati  da  esso  (come  per  Undead
+Mastery), i non morti di classe  superiore  devono  fare  un  TR  contro  il
+livello del portatore o essere soggetti a  un Control Undead True.
+La Corona della Stregoneria è un artefatto molto  potente,  di  intelligenza
+leggendaria, ha una Volontà di 345 ed è completamente votato alla causa  del
+Male,  il  suo  scopo  ultimo  è  quello  di  trascinare  il  mondo   intero
+nell’Abisso.
+
+                       CAST (in ordine di apparizione)
+Vorgath
+Capo Goblin
+Il Grande Ragno
+Nani di Karak-Tor
+Banditi
+Capitano Korum
+Mostro Marino
+Nod e i ghoul viventi
+Zia Istrid
+Zarak, il Senza Sangue
+Kzorr (spettro)
+Sarina
+Nani della Rocca di Kellar
+Hildarf, re dei giganti
+Omungus
+Moga Khan e la sua orda
+Ursikor
+Moredel, Notorius, Celemor e Wakatta
+Gothrur, il ragno gigante
+Gormungand
+Turim 7°, il re dei nani delle Aule Dorate
+Gladiel, Valang ed Euronymous
+Vadher
+Morannagul
+Yandor
+Thomen
+Deedlit
+Zaymon
+Globrimur, slaad
+Althax Darkfleece, direttrice del Sanatorio
+Faust
+Legion, Abigor ed Equimanthorn
+Balrog
+Lamagraal, slaad pipaio
+Rachkir
+Koresh, leone mannaro
+Cloni
+Il Re Morto, Radamantis e i risorti
+Ofthak lo sfregiato
+Berthrant
+Loquitochi
+Abitanti di Huitlya
+Quorton, maestro di Varg
+Zaratech, alto sacerdote di Yogh
+Lassaruk
+Allâzebelpachâmiruš
+

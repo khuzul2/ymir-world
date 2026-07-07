@@ -1,0 +1,178 @@
+
+THE SHADOWTHRONE
+Per raggiungere la Torre di Satyr:
+“Dal Valico di Forra Gelida procedi in direzione del Passo Haralstad. Oltre il passo scendi nella vallata dove sorgono le antiche rovine del forte nanico di Tor-Fostyr. Trova le scale che conducono nel freddo abisso e pronuncia le parole "I En Svart Kiste". In questo modo ti si spalancherà la via che conduce alle porte del Trono d'Ombra.”
+ESERICITI GWAL:
+Lord Vorak: Dal centro, bosco di Rhems.
+Lord Maara: Da “sinistra”, valico di Forra Gelida
+Lord Shura: Da “destra”, verso il regno di Tydriell
+BALMORA:
+Seconda città portuale x il Granducato, governata dalla Contessa Vivianne de laRoq, imparentata col Granduca. Posizione importante per il commercio e il controllo del Golfo dei Sussurri. Famosa per il suo enorme Faro. Secondo la tradizione, secoli fa, la leggendaria Santa-Principessa Rhea (sacerdotessa prediletta di Diis), sorpresa da una tempesta, fu guidata dalla luce di un fuoco apparso miracolosamente in salvo nel porto della città. Da allora la città è consacrata alla dea delle fiamme.
+Balmora è famosa anche per le sue grandi terme, le cui acque si dice possano guarire ogni male.
+Oltre alle normali guardie ducali, la contessa Vivianne ha istituito una sua guardia speciale formata da sole donne (sacerdotesse di Diis).
+L'ingresso alle Terme di Diis costa 2ma.
+Le Sacerdotesse di Diis indossano ampie tuniche bianche, munite di cappuccio, e una maschera rossa, modellata sul viso della dea. 
+Compagnie di ventura e avventurieri mercenari si stanno radunando per dirigersi verso il fronte in cerca di gloria e oro.
+Cap Elcadat
+Cap Rakchir
+Brannon: Guida Nanica
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Ratto Mutante
+3°
+M
+45
+3(40)
+50SBi
++8
+Zanzara Gigante
+1°
+M
+8
+1(50)
+10TiSt + drain 1d10hp
++12
+Malvivente
+5°
+M
+90
+9(20)
+90Swrd
++8
+Guardie Cittadine
+6°
+M
+100
+17(20)
+120Spe
++8
+Capitano delle Guardie
+8°
+M
+130
+17(30)
+140We
++8
+Guardie Speciali
+10°
+M
+112
+9(30)
+120We/Spells
++10
+
+TR
+Ratto: Corpo 40/ Mente 30/ Spirito 30
+Zanzara: Corpo 35/ Mente 20/ Spirito 30
+Malvivente: Corpo 75/ Mente 50/ Spirito 50
+Guardia: Corpo 75/ Mente 55/ Spirito 55
+Capo Guardie: Corpo 85/ Mente 65/ Spirito 65
+Guarda Spec: Corpo 90 Mente 85/ Spirito 85
+LA SCALA DI KALTHROST
+La Scala è un'antica via nanica, abbandonata da prima della guerra contro i goblin e ritenuta un luogo maledetto da molti. Si tratta di una lunga galleria, larga abbastanza da far passare un carro, con alcuni tratti di bassi e larghi gradini. Un tempo era collegata con un ponte di pietra alla fortezza di Tor-Throst, oggi in rovina.
+La galleria è diventata il nido di due vermi delle caverne, che hanno fatto di una vecchia forgia la loro tana:
+Tesoro tana Verme:
+Scudo di Arn: Scudo Medio +10BD (+35 in tutto) +10 a tutti i TR.
+Bracciale del Vigore: +10PF, “Stun Relief” una volta la giorno.
+Diadema della Robustezza: diadema in argento, riduce di 10 le penalità per le ferite subite.
+Ascia Nanica: +10 magica, +10 addizionale contro orchetti e goblin.
+Elmi Nanici: buona fattura, nessun potere magico.
+Collana: 35ma 
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Bestia Alata
+12°
+La
+240
+11(40)
+80HCl/60LBa/90LBi
++12
+Verme delle Caverne
+10°
+La
+160
+12(20)
+90HGr/110HHo/120LBi[Acid]
++0
+IL PASSO DI HARALSTAD
+TR Mente x Paura Gwalgamaur difficoltà 200.
+Il passo per la vallata di Tor-Fostyr è un punto di passaggio, sorvegliato da diverse pattuglie di orchi. Se i pg fanno troppo casino e vengono notati inizia un combattimento.
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Orchetto Elite
+6°
+M
+100
+15(40s)
+90Sw/90LBw
++8
+Comandante Orchesco
+9°
+M
+120
+17(30s)
+125Spear/120Mace
++8
+Troll dei Ghiacci
+13°
+La@
+240
+11(30)
+105HCl/80HBa/70Flail(2D)/80ro
++0
+Le rovine di Tor-Fostyr danno su un lago ghiacciato (il freddo abisso), trovare le scale che si immergono nel lago richiede una manovra di Osservazione “Difficile”. Pronunciate le parole magiche parte delle acque vengono risucchiate da un gorgo, rivelando una porta di metallo simile a rame (vd tomba conte Veyrr).
+LA PORTA DELLE OMBRE
+La porta conduce ad un passaggio sotterraneo, una grotta dall'aspetto antico che si inabissa nelle profondità della terra. Seguendo il passaggio si arriva, dopo qualche ora di viaggio, ad una caverna contenente un portale...
+NELLE ROFONDITA' PIU' OSCURE
+Nokorr: la città delle ombre...
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Orrore Notturno
+6°
+M
+100
+3(30)
+80MCl/70MStin+poison
++8
+Cacciatore Notturno
+10°
+M
+200
+11(20)
+120MCl/110LGr
++10
+Falco Echo
+2°
+M
+25
+1(60)
+40SPi/Special
++12
+Tigre delle Caverne
+10°
+M
+200
+8(30)
+110LCl/130LBi
++10
+			

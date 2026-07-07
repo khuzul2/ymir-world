@@ -1,0 +1,61 @@
+
+CAPITOLO BONUS
+
+BIGGER THAN THE DEVIL
+I PG  hanno  accidentalmente  risvegliato  Moghakh-Ghob,  signore  del  Kur,
+possente luogotenente delle armate del Caos.  Sigillato  dalle  forze  della
+legge  all’inizio  della  creazione,  la  sua  prigione  dimensionale  si  è
+indebolita col passare dei millenni e, a causa  di  una  strana  convergenza
+planare, l’energia caotica sprigionata dall’incantesimo di  Aiolos  è  stata
+sufficiente a liberarlo.
+
+SIGILLARE IL DEMONE
+Moghakh-Ghob è molto al di  là  delle  forze  dei  PG,  diventa  sempre  più
+potente. È tuttavia possibile risigillarlo, agendo in fretta.
+
+DAMAMARGATH IL VILE
+Anche detto  “il  Fetido”,  non  è  consigliabile  usare  nessuno  dei  suoi
+appellativi in sua presenza, meglio rivolgersi  a  lui  con  nomi  come  “il
+Magnifico” , o simili. Drago delle Paludi (elemento:  Aria),  molto  antico,
+conosciuto perché esperto di magia. Probabilmente c’era anche lui  quando  è
+stato sigillato il demone e conosce  il  modo  per  rifarlo.  Contattarlo  e
+convincerlo ad aiutarli è compito dei PG…
+Conosce le liste base dei Mistici,  degli  Elementalisti  dell’Aria,  Spirit
+Mastery, Spell Reins, Dispelling Ways e Essence Perceptions, tutte  fino  al
+50° livello.
+
+Alcune Tag divertenti da usare con lui:
+    • “La vostra ammirazione è di certo comprensibile”
+    • “Questo sapere rappresenta una ricchezza il cui valore sono certo  non
+      possa essere preso alla leggera”
+    • “Di certo sembri intrattenerti con  un  circolo  di  amici  inclini  a
+      pensieri audaci e propensi ad azioni avventate!”
+    • “Che io anche solo pensi di intraprendere me stesso questa  operazione
+      sarebbe un insulto al vostro coraggio e al vostro valore!”
+    • “Le vostre proteste, nonostante la loro superficiale plausibilità, non
+      verranno sottoposte ad ulteriori esaminazioni”
+    •  “Una  molteplicità  di  morti  risultanti  da  processi  contrastanti
+      potrebbe rientrare nei plausibili tormenti che vi saranno inflitte!”
+
+TOMBA DEL DEMONE
+Contiene il frammento della spada  di  cristallo  usata  x  sigillarlo,  per
+poter risigillarlo bisogna che qualcuno tagli con  essa  il  legame  che  lo
+tiene in questo mondo. Per farlo  qualcuno  deve  entrare  nella  dimensione
+demoniaca. Gli altri uccideranno il demone sigillato e meno potente.
+
+|Moghakh-Ghob    |40° |SL@ |450|3(110)*   |200HGr/spells/130Lbi+pois/All|+16|
+|Gurth           |6°  |La# |100|1(20)     |60Mba+Special                |+4 |
+|Fustigatore     |8°  |I   |100|3(30)     |80Whip(2x)[Shock]+Special    |+8 |
+|Mentale         |    |    |   |          |                             |   |
+|Demone Acido    |8°  |I   |125|3(20)     |80Mba[Acid](x2)              |+8 |
+|Moghakh-Ghob    |20° |La@ |225|3(55)*    |100HGr/70Lbi+poison/All      |+8 |
+|(sigil.)        |    |    |   |          |                             |   |
+|Damamargath il  |30° |SL  |400|20(60)    |120HBi/120HCl/120HBa/90HHo/90|+8 |
+|Vile            |    |    |   |          |AcBr                         |   |
+
+Gurth: Ammassi di carne, infliggono  colpi  critici  da  Alterazione  Fisica
+(100% alterazione la vittima è trasformata in un Gurth).
+Fustigatore Mentale: esseri con due gambe, al posto  del  tronco  hanno  due
+lunghi tentacoli a frusta. Se colpiscono risucchiano 1d10 PM. Al  posto  dei
+colpi critici normali infliggono colpi critici da Shock.
+Demone Acido: umanoidi grassi e untuosi, secernono acido.

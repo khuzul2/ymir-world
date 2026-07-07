@@ -11,6 +11,16 @@ for building the manual's cartography. Originals live in `../raw/`.
 | `regional-qilong-realms.png` | wiki upload (qilong-realms2.png) | **Qi-Long** — realms/political variant of the provinces map. |
 | `regional-qilong-placenames.png` | wiki upload (qilong-names.png) | **Qi-Long** — labelled settlements: capital **Tianqi**, plus Lijiang, Al'Fehim, Wei Lu, Daikyō, Heng Luo, Wushang, Tu Lung, Jianghu, and lesser sites (Beimen, Changshi, Huangli, Qing-Yun Shang, Haiguang, Zui Feng…). |
 
+## Batch 2 maps (parallel upload)
+| File | Shows |
+|------|-------|
+| `world-map-ymir-3518-geographical.jpg` | **Authoritative geographical world map**, dated **3518 d.m.**, compass (N up) + scale bar. Unlabelled landmasses — the true layout to reconcile prose against. Also strong evidence the "present" is ~3518. |
+| `regional-young-kingdoms-true.bmp` | The "true map" of the Regni Giovani (Young Kingdoms). |
+| `regional-gaerwath-3500.jpg` | The Gaerwath archipelago, dated ~3500 d.M. |
+| `regional-obnubia-isle.png` | The isle of Obnubia (the seer Obnubia's domain). |
+| `regional-armora-city.jpg` | The city of Armora. |
+| `regional-helgedad.jpg` | Helgedad. |
+
 ## Still to find
 - **Regional maps embedded in `.doc` files** (Helgedad, Armora reference "the map
   below"/"la mappa") — `antiword` can't extract images; a `.doc` image-extraction pass

@@ -1,0 +1,45 @@
+
+FUGA NELLA FORESTA
+
+Quando i PG escono dalle caverne dei goblin trovano qualcosa che non va:  un
+manipolo di goblin cavalcalupi li aspetta all’esterno!
+Si tratta di un  gruppo  di  ricognizione  in  assetto  da  guerra  leggero,
+guidati da un grosso capitano orchetto di nome Uglaark che monta  un  enorme
+lupo nero (un Barghest).
+È palese che questi goblin avevano a che fare con  quelli  delle  caverne  e
+non sono molto contenti di trovare qui  i  PG…  sono  15  (più  il  capo)  e
+cercheranno i catturare (o uccidere) i PG, l’unica opzione ragionevole è  la
+fuga (combatterli è certamente una scelta onorevole ma è un suicidio).
+
+Dovrebbe seguire dunque una rocambolesca fuga nella foresta  nella  quale  i
+PG  dovrebbero  cercare  di  seminare  gli   inseguitori   con   occasionali
+scaramucce...
+
+Che la fuga avvenga oppure no, dopo  un  giorno  si  scatena  una  terribile
+tempesta  di  neve  che  fa  perdere  l’orientamento  ai  PG.  Un  tiro   di
+Sopravvivenza  Foresta  “Medio”  permette  di  capire  che  la  tempesta  ha
+qualcosa di non del tutto naturale.
+Ogni ora passata nella tempesta infligge 1d10 di danni da freddo minimo  (di
+più per PG poco vestiti, bagnati o debolucci), i PG  devono  trovare  riparo
+alla svelta, se non vogliono morire congelati.
+
+
+A un certo punto, quando la situazione è giusta, i  goblin  vengono  fermati
+da una pioggia di frecce e i PG salvati dalle frecce  d’argento  e  scortati
+alla Torre di Caccia.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Goblin          |3°  |M   |50 |13(25s)   |60Spear/50SSword            |+8  |
+|cavalcalupi     |    |    |   |          |                            |    |
+|Lupo            |3°  |M   |110|3(30)     |65MBi                       |+4  |
+|Uglaark         |9°  |M   |120|17(30s)   |125Spear/120Mace            |+10 |
+|Barghest        |5°  |M   |120|4(30)     |75MBi+Fear/Howl             |+6  |
+
+Il Barghest ha due attacchi speciali: l’Ululato e il Morso
+      - Ululato: chiunque senta l’ululato di un Barghest deve  fare  un  TR
+        Mente (90+ niente; 70-89: -10 azioni; 40-69:  Fuga;  39-:  Paralisi
+        per 1d10rnd).
+      -  Morso:  il  Morso  del  Barghest  è  accompagnato  da  un   veleno
+        allucinogeno che amplifica la paura, TR Corpo (90+  niente;  70-89:
+        -10 azioni; 40-69: Fuga; 39-: Paralisi per 1d10rnd).
+

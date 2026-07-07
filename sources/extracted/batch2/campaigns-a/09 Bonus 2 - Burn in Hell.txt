@@ -1,0 +1,27 @@
+
+CAPITOLO BONUS II
+
+BURN IN HELL
+
+    - Afferrarsi ad una roccia per ridurre la caduta  (diminuisce  di  1  il
+      critico  ottenuto  dalla  caduta)  =  Manovra  “Difficile”  (-10)   di
+      Acrobatica.
+    - Lama Infernale: Scimitarra di Acciaio Demoniaco  (+35,  colpisce  come
+      Mithril), -3 all’Iniziativa,  non  può  parare.  Per  ogni  due  danni
+      inflitti, recuperi 1 PF.
+    - Stregone Abissale: Zahr il  Folle,  vive  in  una  torre  protetta  da
+      barriere magiche all’interno dell’Abisso. Sparsi per la torre ci  sono
+      numerosi volumi, alcuni dei quali a  pezzi.  Trattano  più  che  altro
+      magia e sapere arcano, ma sono per la maggior parte in lingue  ignote.
+      Zahr è sul punto di completare un’importante ricerca, ma per  riuscire
+      ha assoluto bisogno delle radici della pianta  Zapbirch,  anche  detta
+      Strangolatore Abissale
+
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Demone III      |8°  |La  |90 |4(50)     |60MCl(2x)/70LBa/90Ths       |+8  |
+|cerchia         |    |    |   |          |                            |    |
+|Demone Spinoso  |6°  |I   |100|4(20)     |80LBa[1-4 A Punture]        |+4  |
+|Cacodemone      |20° |SL  |300|16(40)    |150GrH+100FireWhip          |+4  |
+

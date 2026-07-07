@@ -1,0 +1,73 @@
+
+REUNION 2
+Vale & soci:
+Si lanciano all'inseguimento di Sharky, che sembra diretto verso Nord/ Nord Ovest. 
+Isi:
+A casa di Silken DeLurdan: la casa è apparentemente vuota, di Silken non c'è traccia. Tuttavia, dopo qualche indagine si trova un passaggio segreto verso un sotterraneo (protetto da una trappola meccanica) -> “Molto Difficile” [-20] da scoprire.
+Il sotterraneo si rivela essere una sorta di studio/laboratorio/camera torture. Legato a un letto di legno c'è un uomo di mezza età, ferito e sanguinante, prossimo alla morte. Uther riesce a curare le sue ferite e lo salva, l'uomo si presenta come Padre Stanor, l'abate di un monastero a qualche km da Armora (dedicato a S. Septimium, di Mithra). L'uomo dice di essere stato rapito da degli uomini malvagi che lo hanno portato qui (non sa dov'è) per torturalo e strappargli il segreto del suo monastero:
+	Il monastero di S. Septimum è stato costruito per custodire un oggetto malvagio, un medaglione oscuro proveniente dalle tenebre più profonde.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Sharky
+8°
+M
+120
+13(20)
+110Man/110DartS
++6
+Orrore Notturno
+6°
+M
+100
+3(30)
+80MCl/70MStin+poison
++8
+Cacciatore Notturno
+10°
+M
+200
+11(20)
+120MCl/110LGr
++10
+Silken
+8°
+M
+60
+2(20*)
+30Qtsff/Spells
++10
+Malvivente
+5°
+M
+90
+9(20)
+90Swrd
++8
+Ombra degli Stregoni
+15°
+La#
+165
+1(50)
+100Staff[Cold]/Spells/70LBolt
++12
+Dark Sharky
+15°
+La#
+150
+11(30)
+150LCl/120HHGr
++10
+Silken, Liste: Flesh Dest (24rnk; 35bns) ; Fluid Dest (15rnk; 26bns); Gas Dest (20rnk; 31bns); Mind Des (15rnk; 26bns); Shield Mastery(10rnk; 21bns). 
+TR: Mente:60 , Corpo:22 , Spirito:80
+Ombra degli Stregoni Neri: 
+Un Wraith creato dagli Stregoni Neri e da loro controllato a distanza. Appare come una forma d’ombra, avvolta in un mantello nero, che regge un bastone d’ebano. 
+Lo Sguardo dell’Ombra, fisso su una persona, Paralizza il bersaglio se esso fallisce un TR Spirito a difficoltà 115.
+Con la sola presenza, l’Ombra può incutere Paura in un raggio di 9m a chi fallisce un TR Spirito 115.
+A volontà, l’Ombra può attivare un’Aurea di Gelo, che infligge un colpo critico “B” al round da Gelo.
+A sua scelta il tocco del suo bastone d’ombra può infliggere un colpo critico addizionale da Freddo o sottrarre 20 punti Co a chi fallisce un TR Corpo (120).
+Una volta al giorno può chiamare in suo aiuto 3 Orrori Notturni.

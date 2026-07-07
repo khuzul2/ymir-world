@@ -1,0 +1,151 @@
+
+NELLE OMBRE
+1° Round: Buio Completo (-100 a tutti gli attacchi).Tiro Orientamento (Allerta+d100) per determinare azione. Fine round compaiono i Notturni.
+2° Round: Edain casta Light I, se non ci sono altre fonti di luce -20 agli attacchi (Nota: i Notturni, Sharky e Surya ci vedono normalmente).
+Il Combattimento procede normalmente, i target oltre le sbarre si considerano sotto copertura rigida parziale (+30BD vs missile; +15BD vs melee).
+CON L'OMBRA: 
+“Tyrael è stata una fortunata coincidenza trovarti qui! In questi giorni ho pensato spesso a te. Osserva...” -manipola la pietra con la staffa e la spada- “A lungo tempo mi sono scervellato per comprendere la ragione del mal funzionamento di questi oggetti... la ragione era così banalmente semplice da essermi quasi sfuggita! A quanto pare in questo mondo è necessario controbilanciare l'energia oscura del bastone con un'energia di polo opposto per creare un ponte di reazione soddisfacente! Ironico, non trovi?” -pare attendere una risposta- “Interessante... presto avremo raccolto informazioni sufficienti per creare esemplari in grado di amalgamarsi perfettamente fra gli indigeni... la vecchia torre di Satyr si è rivelata ottima come nido-base ma forse fra poco potremmo iniziare ad inviare i primi Affermatori all'esterno, gli indigeni si sono rivelati piuttosto malleabili...Ascolta Tyrael, ho bisogno del tuo aiuto, se agissimo insieme il Lavoro progredirebbe molto più velocemente... Ti aspetto, sai dove trovarmi...”
+SIMBIONTE DRATH: forma simile a quella di un piccolo fucile. Si innesta al braccio (processo doloroso ma nessun danno, TR Corpo 180, stordito x 1 round/10 fallimento), rigenera quasi immediatamente ogni danno subito al costo di 3PF dell'ospite. Concentrandosi può venir riassorbito quasi interamente nel braccio (rimangono comunque dei bozzi neri intorno al braccio), allo stesso modo può essere ri-estratto (ci si può allenare a farlo velocemente con l'abilità estrazione, altrimenti occupa il 30% dell'azione). È possibile inserirci dei dardi (ne contiene fino a 6, ricarica 100%), oppure è possibile crearne uno all'interno con 3PF. Usa la tabella della balestra pesante, conta come un'arma magica +15.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Uther
+9°
+M
+95
+17(30)
+120BsSw
++9
+Edain
+7°
+M
+85
+9(20)
+80BrSw(2x)
++8
+Ostisen
+7°
+M
+80
+13(30)
+90FucileDardi
++12
+Valentine
+10°
+M
+110
+10(30)
+105whip
++10
+Orrore Notturno
+6°
+M
+100
+3(30)
+80MCl/70MStin+poison
++8
+Cacciatore Notturno
+10°
+M
+200
+11(20)
+120MCl/110LGr
++10
+Silken
+8°
+M
+60
+2(20*)
+30Qtsff/Spells
++10
+Dark Sharky
+15°
+La
+175
+12(50)
+120HXb/120LCl
++16
+Ombra degli Stregoni
+15°
+La#
+165
+1(50)
+100Staff[Cold]/Spells/70LBolt
++12
+Silken, Liste: Flesh Dest (24rnk; 35bns) ; Fluid Dest (15rnk; 26bns); Gas Dest (20rnk; 31bns); Mind Des (15rnk; 26bns); Shield Mastery(10rnk; 21bns). 
+TR: Mente:60 , Corpo:22 , Spirito:80
+Dark Sharky: Corpo:105; Mente: 115; Spirito:105
+Ombra degli Stregoni Neri: 
+Un Wraith creato dagli Stregoni Neri e da loro controllato a distanza. Appare come una forma d’ombra, avvolta in un mantello nero, che regge un bastone d’ebano. 
+Lo Sguardo dell’Ombra, fisso su una persona, Paralizza il bersaglio se esso fallisce un TR Spirito a difficoltà 115.
+Con la sola presenza, l’Ombra può incutere Paura in un raggio di 9m a chi fallisce un TR Spirito 115.
+A volontà, l’Ombra può attivare un’Aurea di Gelo, che infligge un colpo critico “B” al round da Gelo.
+A sua scelta il tocco del suo bastone d’ombra può infliggere un colpo critico addizionale da Freddo o sottrarre 20 punti Co a chi fallisce un TR Corpo (120).
+Una volta al giorno può chiamare in suo aiuto 3 Orrori Notturni.
+TR: Corpo:105; Mente:105; Spirito:85
+
+Liste (150PM): 
+Dark Mastery (rnk15;bns35)
+Light Mastery (rnk15; bns35)
+Light Law (rnk15; bns35)
+Darkness (rnk15; bns35)
+Shield Mastery (rnk15rnk; bns35)
+Spirit Mastery (rnk15; bns35)
+VERSO SHADOWTHRONE?
+Il Trono dell'Ombra è raggiungibile attraverso il valico di ForraGelida, l'ultimo avamposto di Armora prima del Wald. La via più veloce x raggiungere la Torre di Satyr è attraverso il suddetto avamposto, che si trova a circa 1000km dal monastero di S Septimium, prendendo la strada più sicura (senza tagliare dal Bosco di Rhems).
+A Piedi: corrisponde a circa un mese di viaggio!
+A Cavallo: sono circa 20 giorni
+La soluzione più veloce e fattibile è probabilmente quella di tornare a Calis e prendere una nave fino a Kaldera (un tragitto che una buona nave può percorrere in 2-3 giorni al max) e poi, da lì procedere con altri mezzi fino a ForraGelida (400km, il che significa una decina di giorni a cavallo). -> Capitano Nave: Mathaius
+La soluzione più veloce in assoluto è via nave volante da Armora (in 2-3 giorni di viaggio ci si arriva), ma si tratta di un mezzo militare...
+Se si attraversa il Bosco di Rhems si risparmiano 200Km circa, ma la pericolosità del viaggio aumenta esponenzialmente...
+PROBLEMI VIAGGIO
+Armora è un paese in guerra. È facile imbattersi in colonne di truppe in movimento o in pattuglie armate, soprattutto muovendosi verso il Nord. A meno di non avere carte adeguate si rischia di essere reclutati a forza o essere presi per spie. I pericoli del viaggio sono diversi e difficilmente prevedibili.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Soldato
+4°
+M
+70
+15(30s)
+80Dart/70Sword
++6
+Soldato Elite
+6°
+M
+100
+17(30s)
+100Dart/80Sword
++6
+Capitano
+10°
+M
+130
+18(30s)
+130Dart/100Sword
++8
+Dotazione Standard Soldato Armorita: 
+1 cotta di maglia
+1 elmetto a calotta
+1 spada corta
+1 fucile a dardi
+1 porta dardi (con 3 caricatori da 6 dardi)
+1 scudo piccolo (+15 BD)
+1 zaino con:
+3 torce + acciarino
+mini kit medico
+eventuali razioni
+1 sacco a pelo
+Nomi Utili:
+M: Mikel, Rencil, Garvanon, Elcadat 
+F: Lada, Relliss
+FORRA GELIDA
+Il Colonnello Sethiran dirige il forte di Forra Gelida..

@@ -1,0 +1,249 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 7 fonts total
+
+AUTHOR: Alessio
+### creation date: 18 June 2008 16:26 
+
+AUTHOR: Jarn83 
+### revision date: 3 November 2011 16:41 
+### last printed: 
+### comments: StarWriter
+
+-----------------
+QI-LONG
+
+Il Qi-Long � diviso in 6 regni, da sempre in guerra fra loro per il predominio. Ogni regno � governato con pugno di ferro da un Dio-Drago. Nessuno sa bene chi o cosa siano gli Dei-Drago, � risaputo che usano sembianze umane ma che possono mutarle a piacimento, che sono immortali, guerrieri formidabili e maghi potentissimi, maestri di tutte le arti marziali. Alcuni affermano che, in realt�, essi non siano immortali ma che, quando uno di loro muore, il suo successore prende il suo nome, cos� da dare questillusione di immortalit�. Lunica cosa che si sa per certo � che controllano un potere inimmaginabile, chi osa sfidarli muore, schiacciato dalla loro immane potenza. Ognuno di loro brama il controllo dellintero territorio e si proclama il pi� forte dei sei. Da secoli, tuttavia, la guerra fra i regni � in stallo, senza che nessuno riesca a prevalere.
+Gli Dei-Drago sono:
+1.      
+Huolongnan (il Drago di Fuoco del Sud)
+2.      
+Seishima Tatsumoto (il Drago delle Isole Occidentali) 
+3.      
+Weichong-Shanxuan (il Possente Verme della Montagna Nera)
+4.      
+Kuangshuang Long (il Drago della Distesa Gelata)
+5.      
+Jiu-Yaofeng (lAquila Nera del Vento Maligno)
+6.      
+Qiulei-Senbei (il Piccolo Drago di Tuono delle Foreste del Nord)
+
+Normalmente, gli Dei-Drago appaiono come uomini, ma � risaputo che ognuno di loro pu� assumere forma di drago in qualunque momento (da qui il loro nome), sia per combattere che per incutere maggior rispetto o timore nei proprio uomini. 
+
+
+
+I SEI REGNI
+
+LA FORESTA MORTA
+
+Caratteristiche del Reame: vasta regione paludosa, in parte avvelenata dalla presenza di Jiu-Yaofeng.
+
+Dio-Drago: Jiu-Yaofeng 
+Razza: Drago dellAria (non morto) Livello: 80  Attitudine: Mellifluo Natura: Machiavellico
+
+Servitori Principali: Yurei gli spettri dei potenti guerrieri che hanno osato sfidarlo.
+
+AIRONI GRIGI
+Gli Aironi Grigi dimorano sparsi per i villaggi della Foresta Morta, e in pochi rifugi ben nascosti tra le mefitiche paludi e i boschi avvelenati del Dio Drago dell'Aria. La triade non segue una stretta organizzazione gerarchica- soprattutto per le difficolt� di comunicazione- e i raduni collettivi (conosciuti come nidiate) si svolgono ogni cinque anni circa e vedono sempre coinvolto un esiguo numero di membri. Raramente si gettano in attacchi diretti al proprio nemico: la politica della setta � di garantire la sopravvivenza degli abitanti del luogo e scongiurare energicamente solo i pericoli pi� immediati. A causa della mancanza di lavoro da sbrigare, molti aironi grigi si spostano in tutto il Qi-long e negli altri paesi di Ymir (quando ci� � possibile), impegnati a dare una mano qua e l� o in improbabili missioni. Il comportamento spensierato della maggior parte degli Aironi sembra essere una precisa direttiva dell'apprendistato dei giovani novizi. A causa della loro apparente disorganizzazione (cosa che, dicono alcuni, � ci� che i capi del movimento voglio far credere) e dei modi esuberanti, gli aironi grigi lavorano poco con le tigri celesti, male con le manguste bianche e sono trovati particolarmente insopportabili dagli austeri cani rossi. 
+Simbolo:  Un'ala di airone
+
+Ranghi: 
+1.      
+Novizio: Un giovane cui � stato assegnato da poco un maestro. Il noviziato degli aironi grigi � un susseguirsi di richieste paradossali da parte del maestro e compiti apparentemente estranei al mondo delle arti marziali (sbrigare le faccende di casa, contare le stelle in cielo, ecc.).Alcuni sostengono che attraverso il paradosso la mente dell'allievo diviene duttile e pronta ad agire; altri dicono che il maestro voglia solo approfittarsi il pi� possibile di quello che sar� probabilmente l'unico discepolo della sua vita. 
+2.      
+Iniziato: Un novizio cui sia stato rivelato almeno un segreto della setta diviene iniziato. L'iniziazione degli aironi grigi prevede di solito la trasmissione di una tecnica base di movimento, caratteristica dello stile dei venti divini, su cui il discepolo si deve allenare anche per diversi anni.
+3.      
+Adepto: Un adepto � un membro della setta a tutti gli effetti. Sebbene rimanga vincolato alle esigenze della triade, pu� allontanarsi dal proprio maestro e perfezionare in altri luoghi la tecnica. Molti aironi grigi compiono viaggi e si allontanano per molto tempo appena raggiungono questo livello, ma raramente cercano un secondo istruttore: il rapporto tra discepolo e maestro nella setta � molto intimo, e dura di solito tutta la vita.
+4.      
+Capostormo: Un Capostormo � il responsabile di un nucleo operativo, troppo giovane per essere chiamato maestro, ma comunque esperto pi� della maggior parte dei membri della setta. Gli � consentito avere degli allievi da iniziare ai segreti della setta, ma � richiesta l'approvazione di un membro anziano perch� questi diventino adepti a tutti gli effetti. Negli aironi il capostormo coordina le operazioni di piccole cellule di tre-quattro adepti, di solito impegnati in piccole missioni anche fuori dai confini della Pianura Morta. 
+5.      
+Araldo dei venti: Araldo dei venti � un titolo elitario della setta, paragonabile al membro di un corpo speciale. Gli araldi si muovono liberamente ovunque la loro missione li chiami, ed hanno diritto di imporre la propria volont� su tutti i gruppi Adepti e sui Capistormo della setta. Sono i messaggeri dei vertici dell'ordine, e rischiano la vita in pericolosi viaggi per tutti i 6 regni e per tutto Ymir.
+6.      
+Maestro dei venti: Il titolo di maestro dei venti viene assegnato ad ogni vero e proprio maestro degli aironi grigi. I maestri dei venti organizzano (apparentemente in modo incomprensibile) le attivit� della setta, e sono gli unici a poter rivelare tutti i segreti dello stile dei quattro venti divini, nonch� gli unici a poter legittimare la nascita di nuovi stili-cadetti. 
+
+Dicono degli altri
+Cani Rossi: Un cane ha continuato ad abbaiare tutta notte, cos� che � stato impossibile riposare. Che non si lamenti se alla mattina il padrone lo bastona.
+Falchi dorati: Una giusta parola al momento giusto pu� ferire pi� di un colpo di spada. Per fortuna l'ebrezza del vino mi ha reso un po' sordo.  
+Scorpioni Neri: Chi mentre cammina guarda il cielo e non presta attenzione ai propri passi � uno sciocco. Chi lo fa in una caverna ancora di pi�.
+Manguste Bianche:  Ho visto un bonzo/ girare in tondo/ pregava e pregava/ ma nessuno lo ascoltava. 
+Tigri Celesti: Sai cosa succede se lasci una spada immersa nell'acqua per troppo tempo? Si arrugginisce.
+
+
+
+PROVINCIA DI CENERE
+Caratteristiche del Reame: solfatare, miniere a cielo aperto, canyon, vulcani
+Dio-Drago: Huolongnan 
+Razza: Drago del Fuoco Livello: 80  Attitudine: Dispotico Natura: Iracondo
+
+Servitori Principali: Oni orchi incrociati magicamente con dei demoni e imbevuti nel fuoco elementale
+
+CANI ROSSI
+Zhou era il pi� giovane tra gli adepti del branco. Aveva ottenuto il riconoscimento poche settimane prima, con fierezza, dall'anziano capobranco in persona. Ora il vecchio giaceva morto, riverso a terra a pochi metri da lui, il ventre spappolato da un singolo potente colpo di mazza chiodata. Subito dopo l'assalto tutti i Cani suoi fratelli -persino lui, inesperto com'era!- si erano accorti di aver commesso un mortale errore. Il gruppo di Oni che avrebbero dovuto razziare di provviste e armi non era affatto quel che si aspettavano di trovare. A capeggiarli stava un insolito guerriero umano, dalla forza e dalla ferocia senza pari. Tre dei migliori del Branco si erano schiantati contro la sua arma prima ancora che la battaglia vera e propria infuriasse; poi era toccato al suo maestro, ucciso da un unico fendente ben piazzato. Nessuno di loro sarebbe sopravvissuto. Colto da un accesso di rabbioso orgoglio Zhou focalizz� nella mente il suo obiettivo e raccolse le ultime energie: sapeva quello che andava fatto, era stato addestrato bene. Sgusci� tra due nemici, troppo piccolo e veloce per essere notato, quindi si gett� dal fianco sul braccio che reggeva l'arma del misterioso guerriero. Lo avvolse e lo blocc� con tutta la maestria di cui era capace: questo avrebbe dato tempo ai suoi fratelli ingaggiati nella lotta di fuggire mettendo in salvo i cuccioli, l'unica speranza per il futuro della ribellione. Prima che un gigantesco pugno semi demoniaco gli fracassasse il cranio, Zhou fece in tempo a vedere alcuni dei suoi fratelli che approfittavano della sua azione intrepida per tentare un disperato ultimo attacco, e sorrise. 
+
+I Cani Rossi combattono una costante battaglia per la sopravvivenza del genere umano nella Provincia delle Ceneri. Si spostano di villaggio in villaggio come branchi di cani selvaggi, e il loro sforzo per sconfiggere le numerose e feroci orde di Oni al servizio del Dio drago del fuoco non conosce sosta. Quando si trovano in svantaggio numerico ripiegano veloci, in attesa dell'occasione adatta per una sanguinosa rappresaglia. Combattono sempre in gruppo, aiutando i propri fratelli a costo della vita, consci che da soli non potrebbero sopravvivere. Gli Oni sono probabilmente gli avversari pi� letali in battaglia tra i servitori degli Dei Drago: ovunque passino portano distruzione, morte e schiavit�. Combattendo contro di loro, circondati da vapori sulfurei e dalle lande infuocate della Provincia delle Ceneri, i Cani Rossi hanno sviluppato una naturale resistenza fisica e una determinazione fuori dal comune. La loro indole indomita e interventista li fa trovare spesso in contrasto con i raffinati falchi dorati e gli estrosi aironi grigi. 
+Simbolo:Fauci digrignanti
+Ranghi: 
+1.      
+Novizio. Un giovane che � stato da poco incluso in un branco. Il novizio � in tutto e per tutto trattato come un bambino (o un cucciolo): non gli viene chiesto n� insegnato nulla, ma ci si aspetta che segua il branco sotto la tutela dei membri pi� anziani senza fare domande n� richieste di alcun tipo. Tutti sono responsabili della salute dei novizi, cui sono rivolte in realt� molte attenzioni, ma l'atteggiamento nei loro confronti � freddo e distaccato, quasi fossero creature inutili. Per i Cani rossi il periodo di noviziato � determinante perch� durante di esso un giovane acquista molta esperienza, imparando dall'esempio degli adulti cosa significa vivere in un branco. 
+2.      
+Iniziato. L'iniziato � un novizio cui � stata insegnata una tecnica base di caccia. In pratica, gli � permesso seguire il branco in battaglia e prendere parte ai combattimenti come membro di supporto. E' una fase critica del percorso dei cani rossi, perch� in essa si decide se effettivamente l'iniziato sia degno di proseguire il cammino di apprendimento. Qualunque infrazione alle regole o agli ordini dei superiori viene punita duramente: un iniziato ha solo doveri e nessun diritto. Si nutre di avanzi, esegue ogni tipo di ordine e in nessun caso, pena l'immediata esclusione dal branco, deve rivolgere la parola ai novizi. 
+3.      
+Adepto. Un adepto � un membro di un branco a tutti gli effetti. Prende attivamente parte alle azioni di caccia e gli � concessa libert� d'espressione nei limiti consentiti dal suo capobranco. Pu� istruire giovani iniziati e ci si aspetta che il suo comportamento sia d'esempio per i novizi. La maggior parte dei membri della setta quando arriva allo stadio di adepto � un temibile guerriero, con una forte identit� di gruppo, leale, pragmatico e capace di sopravviver nelle pi� svariate situazioni. 
+4.      
+Capobranco. Il capobranco � il responsabile delle attivit� di un gruppo di Cani Rossi. Un branco pu� variare di numero, ma di solito non supera mai i venti elementi. Scelto per la sua forza o per l'esperienza in battaglia, un capobranco � un maestro a tutti gli effetti, e sua la parola � legge. E' lui che decide chi deve diventare iniziato; sua � la responsabilit� della sopravvivenza del gruppo. Il capobranco rimane in carica finch� non � troppo vecchio per combattere o finch� qualcuno tra gli adepti non si impone con la forza conquistando il favore del branco.
+5.      
+Furia Rossa. Per evitare che i branchi perdano di vista gli obiettivi comuni della setta, concentrati sulla sola sopravvivenza del proprio gruppo, la setta ha istituito la carica di Furia Rossa (o semplicemente Furia). Le Furie sono un manipolo di guerrieri di altissimo livello che si spostano nella pianura delle ceneri per coordinare l'attivit� dei singoli branchi. Raggiuntone uno, la Furia stipula con il suo capobranco un patto, attraverso cui le due parti si impegnano a riconoscere l'autorit� e i diritti/doveri dell'altro. I loro compiti sono prevalentemente tre: comunicare le priorit� della setta, chiedendo ad un branco, se strettamente necessario, di spostarsi dal proprio territorio; saggiare le competenze marziali dei membri della setta, insegnando all'occorrenza nuove tecniche di caccia. Dirimere le questioni interne (ad esempio la nomina di un nuovo capobranco) in qualit� di giudici imparziali. Una Furia rossa non pu� in nessun caso ricoprire la carica di Capobranco.
+6.      
+Mastino Scarlatto. Il Mastino Scarlatto � il capo della setta. Il titolo passa di successore in successore, e nel tempo � cresciuto un numero sorprendente di leggende intorno ad esso: che abbia ucciso cento Oni in un'unica battaglia, che guidi un branco di sole Furie Rosse al suo servizio, che giunga a salvare i branchi in difficolt� nel momento del massimo pericolo. Al di l� delle esagerazioni, il Mastino � una figura indispensabile per dare speranza e tenere unito il movimento di ribellione.
+        
+ 
+Dicono degli altri
+Aironi grigi: Se balletti e poesie servissero a combattere gli Dei Drago, gli aironi sarebbero i nostri comandanti. Poich� non � cos�, mi domando come questi quattro ubriaconi siano riusciti a sopravvivere tanto a lungo. E' evidente che le loro buffonate divertono tanto Jiu-Yaofeng da concedergli di vivere ancora un po'.
+Falchi dorati: Non dicono ci� che pensano. Non fanno ci� che dicono. Non rispettano ci� facciamo. Quando l'odore di zolfo salir� verso Nord, rimpiangeranno di non aver mai saputo cosa sia veramente la guerra.
+Scorpioni Neri: Forse sono abili in ci� che fanno, ma un vero guerriero non si nasconde come un ratto nel ventre della terra. Chi vive solo � destinato a morire solo, e ci� per noi non ha senso. 
+Manguste Bianche: La loro dedizione alla causa � ammirevole, ma la loro fede in quelle ridicole superstizioni sar� la loro rovina. E la nostra, dovessimo dargli retta.
+Tigri Celesti: Finalmente, qualcuno che pensa effettivamente a combattere i nostri nemici. 
+
+
+
+REGNO DEL NORD
+Caratteristiche del Reame: la maggior parte del regno � occupata da un'unica, immensa citt�, chiamata semplicemente la Capitale.
+Dio-Drago: Qiuelei-Senbei
+Razza: Drago della Luce (femmina) Livello: 80  Attitudine: Paranoica Natura: Schizofrenica
+
+Servitori Principali: Kitsune umanoidi simili a volpi, in grado di mutare il proprio aspetto
+
+FALCHI DORATI
+La piccola scatola portagioie era di legno laccato di un rosso intenso,con finiture in oro. La prima settimana non la tocc� neppure. Hwang l'aveva scoperta sul rustico tavolo al centro della stanza principale, tornando a casa dopo l'ennesima giornata di fatica. Si era spaventato ed aveva pensato di gettarla via, ma alla fine la curiosit� aveva prevalso. Solo pi� tardi l'avrebbe collegata ad uno strano incidente capitato mesi prima, in cui aveva nascosto nella sua bottega una giovane -e avvenente- donna inseguita da una coppia di guardie. La seconda settimana not� che gli intarsi, letti in un certo ordine, formavano una serie di caratteri ideogrammatici rudimentali. Questi gli portarono alla memoria, d'improvviso, un verso della classica ode amorosa del sommo Xiao-Wen: il vero significato dell'amore/ conoscerai nel vedere/ il bianco fumo delle mie ceneri/ sotto i raggi della luna piena. Il seguente plenilunio gli sembr� un'idea folle esporre la scatola alla luce della notte, fintanto che la lacca rossa non rivel� una nuova scritta, molto pi� leggibile. Come il nido dell'oca selvatica/ � il mio amore per il Signore della Camera Scarlatta. Gli occorsero diversi giorni per decifrare il messaggio: l'oca selvatica tradizionalmente si nasconde dietro i giunchi; dunque la poesia alludeva a qualcosa di nascosto. Non si stup� di trovare un affilato pugnale intriso di veleno in un doppiofondo della scatola. Il Signore della Camera Scarlatta era un riferimento ad un'antica maschera del teatro popolare, che rappresentava il padrone di casa ingiusto. Altro che amore! Qualcuno voleva che uccidesse il suo padrone. Il dubbio lo assal� per diversi giorni, ma tutto si risolse quando, rapito da un istinto profondo che gli suggeriva ci� che era giusto fare, accoltell� alle spalle il mastro di bottega, che assunse sotto ai suoi occhi le sembianze di un Kitsune, un servo del Dio Drago. Il mattino seguente, trov� sul tavolo di casa una nuova scatoletta di lacca rossa. 
+
+I Falchi Dorati sono uno dei gruppi meglio organizzati delle triadi di resistenza, e combattono per liberare il Regno del Nord dall'infausta presenza del Dio Drago di Luce e d' Ombra. Poich� la maggior parte del Regno � compreso nel perimetro della maestosa Capitale della Luce, i Falchi hanno imparato a muoversi e lottare con efficacia in ambiente urbano. Utilizzando le stesse tattiche del nemico, sono divenuti maestri del sotterfugio: il loro agire � improvviso e inaspettato; le loro strategie machiavelliche sono pianificate per mesi. I Falchi approfittano del clima di paranoia che si crea tra i ranghi della corte del Dio Drago per portare ancora pi� sospetto e scompiglio tra le sue fila. Consapevoli di essere ereditieri di una tradizione secolare (la Capitale della Luce si dice sia stata fondata dal Vero Dio Drago e fosse gi� capitale nel tempo del suo regno) i Falchi hanno spesso comportamenti nobili e altezzosi. Sono educati allo studio dei classici e della poesia, e nessuno pi� di loro incarna meglio l'archetipo del dotto maestro o del poeta guerriero.
+
+Simbolo: Un artiglio di rapace
+
+Ranghi: 
+1.      
+Novizio: il novizio � un membro cui � stata semplicemente rivelata l'identit� di un Falco Dorato. I maestri paragonano la scelta di un novizio all'attirare degli uccellini con il vischio: con indizi creati per l'occasione, i giovani sono spinti ad indagare su un evento; quelli che reagiscono alla prova dimostrando le migliori virt� (intuizione, capacit� di analisi, prontezza, pazienza e raffinatezza) sono quindi chiamati ad unirsi alla causa. Curiosamente nessun novizio sa di essere tale, mentre viene osservato costantemente, anche per mesi, da una stretta rete di sorveglianza che giudica ogni sua mossa. L'entrata nel noviziato non � sempre un atto volontario. Chi scopre per caso l'identit� di un Falco Dorato pu�  in alternativa ad una fine poco piacevole- essere chiamato a sottoporsi alla prova. 
+2.      
+Iniziato: L'iniziato � un membro cui � stata rivelata la natura della prova che ha dovuto superare. A questo livello il giovane Falco ha solo una vaga idea della struttura della setta, ma almeno ora sa di farne parte. L'iniziato ha solo un contatto con la setta nella persona del proprio mentore, un adepto anziano che lo sottopone a diverse missioni senza spiegargli il disegno generale. A parte il nome -probabilmente fittizio- del proprio mentore, un iniziato non sa nulla: se dovesse essere catturato dai servi del Dio Drago non costituirebbe un pericolo. 
+3.      
+Adepto: L'adepto � un membro della setta a tutti gli effetti. Viene inserito in una cellula d'azione, un piccolo gruppo formato da quattro o cinque Falchi di cui conosce l'identit� e che sa come contattare. Ogni cellula ha una visione parziale degli intenti della setta: � consapevole di avere un obiettivo a lungo termine per il quale si impegna in diverse missioni. Al di fuori della propria cellula, l'Adepto non conosce l'identit� di nessun altro Falco Dorato: in questo modo quando una cellula si disperde o cade nelle mani del nemico, le altre restano al sicuro. 
+4.      
+Mastro Cantore: Il Mastro Cantore si occupa della comunicazione tra le diverse cellule. E' la figura che rintraccia i gruppi di Falchi nascosti  che non saprebbero come comunicare tra loro- e informarli sulle decisioni della setta. Un mastro cantore si trasferisce ciclicamente da una zona all'altra del paese, alternando permanenze di sei mesi/un anno a periodi di allontanamento che durano anche diversi anni. Inoltre non conosce nulla delle cellule che deve contattare se non un temporaneo luogo d'incontro e un codice di riconoscimento, di solito tratto dai versi dei classici di poesia. Viene invece contattato ed istruito volta per volta da una carica superiore, l'unico suo referente fisso durante il periodo di permanenza. Con tali accorgimento i Falchi sanno che, anche se dovesse essere catturato, un Maestro cantore non saprebbe rivelare molto pi� che un brandello di informazioni sulle imminenti mosse di una cellula. 
+5.      
+Gran Falconiere: Il Gran Falconiere � l'incaricato dell'azione di tutte le cellule su un dato territorio. Non conosce n� contatta di persona i membri delle singole cellule, ma si serve per le comunicazioni di uno o pi� Mastri Cantori, che sono i suoi occhi e la sua voce. Il Gran falconiere � l'unico rango che si possa dire avere una visione completa dell'azione dei Falchi in un dato territorio. Per evitare che cada nelle mani del nemico sono prese molte precauzioni: i Falconieri non entrano mai in battaglia, ma dirigono i giochi nell'assoluta segretezza in virt� delle loro straordinarie capacit� tattiche. 
+6.      
+Fenice Rossa: la fenice rossa � il leggendario capo dei Falchi Dorati, l'unico che abbia una consapevolezza assoluta degli obiettivi - a lungo e breve termine- della setta. Nemmeno i Gran Falconieri, nominati da un gruppo di maestri anziani- conoscono la sua identit�, che � avvolta dal pi� totale mistero. C'� chi pensa che nel suo lavoro di organizzazione della setta la Fenice sia aiutata da un ristretto gruppo di consiglieri, ex maestri anziani, Falconieri o Cantori che hanno avuto il privilegio di vederlo in volto e restare vivi. Altri pensano invece che agisca da solo, destinato ad una solitudine eterna per custodire i segreti della setta. 
+
+Dicono degli altri
+Aironi grigi: Estrosi, a volte eleganti, anche se molti difettano nella mente di quell'equilibrio che � il vanto del loro stile. Con un po' di accortezza il loro entusiasmo pu� essere indirizzato verso i giusti scopi: se cos� �, diventano buoni alleati in battaglia. Nel trattare con loro ricorda sempre: non fidarti delle parole, ma scopri ci� che gli interessa davvero per usarlo a tuo favore. 
+Cani Rossi: Se dovessi paragonarli ad un pezzo degli scacchi, direi la torre o il pedone. I novizi tra loro si limitano ad eseguire ciecamente gli ordini senza volgere la mente altrove, mentre quelli pi� saggi procedono nel cammino che hanno scelto distruggendo tutto quello che si trova davanti. Sono guerrieri utili e temibili, ma confondono spesso i giochi di branco con l'arte della guerra. Nel trattare con loro ricorda sempre: non c'� niente di meglio che fargli credere che ci� che vuoi tu sia un'idea del loro capobranco.
+Scorpioni Neri: Inquietanti. Dopo anni di lotte comuni, non ho ancora capito se la loro strategia d'azione sia pianificata da una mente sopraffina oppure manchi del tutto. I loro attacchi solitari alle forze del Dio Drago sembrano inutili sprechi di energia, eppure l'ostinata perseveranza dice che non � tutto come sembra. L'addestramento austero e gli anni di solitudine li rendono difficili da manipolare. Nel trattare con loro ricorda sempre: se credi di aver capito cosa sta pensando lo scorpione, vuol dire che sei gi� caduto nelle sue tenaglie. 
+Manguste Bianche: Che siano veramente gli sciocchi che sembrano? Come possono credere che un'antica leggenda si rialzi dalla tomba per correre in loro soccorso? Eppure, le loro preghiere a volte sembrano avere un qualche effetto. Studiali con attenzioni, potrebbero essere ignari servi del nemico.
+Tigri Celesti: Un cos� grande ingegno, volto a creazioni tanto sciocche!
+ 
+
+
+ALTOPIANO DELLE NUVOLE
+Caratteristiche del Reame: Montagnoso-desertico. Il vero e proprio regno si trova sottoterra, perch� agli abitanti viene fatto credere che la superficie sia un ambiente ostile alla vita.
+Dio-Drago: Weichong-Shanxuan
+Razza: Drago della Terra Livello: 80  Attitudine: Dormiente Natura: Insondabile
+
+Servitori Principali: Tengu crudeli umanoidi-corvo
+
+SCORPIONI NERI
+S?j?b?, maggiore supervisore e vicario generale della settima schiera del possente Dio-Drago della Terra, si stava annoiando a morte. Non riusciva a comprendere perch� l'alto luogotenente Daiy? lo avesse inviato a controllare quel buco di paese sul confine orientale. E questo tunnel, Vostra Eminenza, come vedete conduce alle cisterne... biascic� la sua guida, un patetico umano vestito di stracci che pareva ricoprire una qualche carica locale, inchinandosi lievemente. S?j?b? annu�, grattandosi sotto il folto piumaggio del collo con l'artiglio. Quello stupido elmo era terribilmente pesante e gli irritava il collo, appena tornato a casa doveva farlo cambiare. L'armatura, poi, era ancora peggio. Dannatamente rigida e poco pratica gli impediva i movimenti, facendolo camminare in modo stupido, oltre che essere calda come un forno. ..Questa, invece, � la camera d'accesso al punto d'estrazione principale... S?j?b? tir� un sospiro di sollievo, questo voleva dire che era vicino alla fine del giro di ricognizione e che presto avrebbe potuto levarsi l'armatura e rilassarsi. Se Vostra Eminenza mi conceder� l'onore di attendere qui fuori, la preceder� per accendere le lanterne e preparare gli ultimi ritrovamenti per l'ispezione. Disse la guida, prostrandosi in modo esageratamente servile di fronte a lui. S?j?b? annui lievemente... stupidi villici, pens�, non avevano neanche preparato la camera principale per l'ispezione, ma dov'era capitato?
+Un tonfo sordo proven� dal tunnel in cui era appena scomparsa la guida. Quell'idiota dev'essere inciampato su un piccone, pens� S?j?b?. Fece comunque cenno alle sue guardie di andare a controllare ed i quattro tengu, armati fino ai denti, avanzarono all'unisono senza produrre il minimo rumore.
+S?j?b? si appoggi� colla schiena ad una parete. Perch� ci mettevano tanto? Gli parve di cogliere un movimento all'entrata del tunnel. Finalmente erano tornati. Si alz� con aria impettita, pronto a sgridare i propri uomini per il ritardo. Ma nessuno si fece avanti. S?j?b? ora cominciava ad avere paura. Che fine avevano fatto i suoi uomini? Dov'erano finiti? Un lieve rumore alle sue spalle, talmente ovattato da essere impercettibile ad orecchie umane, lo fece voltare di scatto. L'ultima cosa che vide fu la lama del pugnale che gli venne piantata nel collo, proprio sotto l'attaccatura dell'elmo.
+
+Gli Scorpioni Neri sono il gruppo di resistenza dell'altopiano delle Nuvole e combattono i Tengu e gli altri servitori del Dio-Drago della Terra. Dei sei gruppi di resistenza, gli scorpioni sono quelli che vivono in maggiore segretezza, nascosti alle stesse comunit� che lottano per difendere. Il seme della menzogna gettato secoli or sono dal Dio-Drago ha messo radici solide nei cuori degli uomini, che seppur schiavi di una vita dedita al lavoro e ai servizi religiosi � convinta di godere di un fato privilegiato, protetta dall'ambiente ostile della superficie solo grazie al potere del Drago. Gli Scorpioni hanno cercato invano di aprire gli occhi alla popolazione, che pronuncia ora il loro nome sospetto e ostilit�. La vita di uno Scorpione Nero � all'insegna della solitudine, nascosto tra le rocce dell'altopiano o nei cunicoli dei labirintici condotti e gallerie sotterranei. Unici detentori della verit�, per preservare loro stessi e le comunit� umane gli scorpioni si distaccano da tutti gli affetti mondani e combattono una costante battaglia per cui, molto probabilmente, non saranno mai ringraziati n� ricordati.
+
+Simbolo: una coda di scorpione
+Ranghi:
+1.      
+Novizio Il Noviziato corrisponde ad un periodo di adozione forzata da parte della setta, che raccoglie infanti o fanciulli per allontanarli dal mondo di bugie in cui sarebbero costretti a vivere e svelargli cos� la verit�. Pi� giovane � il novizio, meno tempo occorre per superare il trauma e adattarsi alla nuova vita da esule: questo il motivo per cui i maestri della setta raramente reclutano candidati in et� adolescenziale. Nella maggioranza dei casi i novizi sono orfani, bambini destinati alla morte per stenti o al sacrificio nelle pozze del Dio Drago, anche se non mancano casi di veri e propri rapimenti quando occorre rinfoltire le fila della setta. Durante il noviziato il futuro membro � accudito con cura nelle sparute e segrete comunit� nascoste: � questo probabilmente il periodo pi� felice della vita di uno scorpione nero. 
+2.      
+Iniziato. Trascorso il tempo necessario per superare lo shock della nuova vita (a discrezione dei maestri, possono bastare pochi mesi o volerci anni) il novizio viene espulso per sempre dalla comunit� nascosta in cui � stato cresciuto. Diversi adepti lo prendono in affidamento di volta in volta per insegnargli i tre cardini della setta: muoversi nellombra, sopravvivere ad ogni costo e uccidere in silenzio. Questo periodo � caratterizzato da un addestramento durissimo (meglio uno scorpione morto che uno incapace di agire), durante il quale liniziato viene spesso lasciato solo, anche se gli occhi severi ma vigili dei maestri anziani non smettono mai di sorvegliarlo.
+3.      
+Adepto. Al contrario di quanto accade di solito per le altre triadi un membro degli scorpioni neri che abbia raggiunto il rango di adepto � gi� considerato un maestro a tutti gli effetti: ha il diritto di trasmettere e utilizzare lo stile della cuspide vendicatrice, il dovere di occuparsi di iniziati e novizi, ed � una delle macchine di morte pi� letali del Qi-long.
+4.      
+Maestro dei Veleni. Coloro che tra gli adepti dimostrano particolare maestria nellassassinio e dedizione alla causa sono promossi al rango di Maestro dei Veleni. Si tratta di un corpo di elite cui vengono affidati gli incarichi pi� delicati e pericolosi, anche al di fuori dellaltopiano delle nuvole. Temuti e rispettati da ogni membro della setta, si occupano anche del perfezionamento dei maestri e della protezione dei rifugi.
+5.      
+Maestro dei Silenzi. In molti vorrebbero mettere le mani su un Maestro dei Silenzi per comprendere meglio la natura di quella che forse � la pi� enigmatica delle triadi. Questo corpo delite si occupa della comunicazione tra i vari membri della setta e prende ordine direttamente dalla Cuspide Nera. Abili come nessun altro a muoversi tra le ombre, viaggiano come invisibili tra i sentieri nascosti dellaltopiano, senza mai avere contatti tranne che con altri scorpioni. Si dice che ogni maestro dei silenzi assuma periodicamente un farmaco misterioso preparato dalla Cuspide Nera in persona: qualora ne mancasse anche solo una volta lassunzione, si ritroverebbe morto in poche ore, portando con s� nella tomba i segreti della setta
+6.      
+Cuspide Nera. Figura semi-leggendaria a capo della setta, la tradizione vuole che guidi gli scorpioni fin dalla loro nascita, facendone dunque una figura dai tratti immortali. Chi ha avuto la fortuna di essere ammesso in sua presenza lo ricorda come un vegliardo dagli occhi penetranti e vigili, vestito dombra e adornato solo da un prezioso pugnale ricurvo stretto in vita. Si tramanda che al suo incedere i suoni svaniscano, cos� come la paura e la menzogna negli occhi di chi gli sta dinnanzi. Maestro di ogni tecnica dassassinio come di ogni droga e veleno, la Cuspide Nera � considerato una delle figure pi� preziose - e al contempo pi� misteriose- nella lotta contro gli dei drago.
+
+Dicono degli altri
+Aironi grigi: Forniscono un ottimo diversivo.
+Cani Rossi: Can che abbaia... 
+Falchi dorati: Hmmm... altre bugie?
+Manguste Bianche: Tenaci, ma stolti.
+Tigri Celesti: Stai lontano dalla punta dei loro arnesi.
+
+
+
+MARE DEL NAUFRAGIO
+Caratteristiche del Reame: Isole di varia dimensione. Seishima Tatsumoto controlla attivamente tutto il mare intorno ad esse e le sue armate si recano in superficie solo saltuariamente, per qualche razzia o per affondare delle navi prive degli adeguati lasciapassare.
+Dio-Drago: Seishima Tatsumoto
+Razza: Drago dell'Acqua Livello: 80  Attitudine: Altezzoso Natura: Megalomane
+
+Servitori Principali: Kappa creature anfibie dotate di robustissime corazze naturali
+
+TIGRI CELESTI
+Le fiamme ardevano inesorabili tra le case del piccolo villaggio di pescatori razziato dalle orde del Dio-Drago Seishima Tastumoto. Un reggimento di schiavi-guerrieri guidato da spietati kappa era sbarcato allalba lungo le coste con lintenzione di radere al suolo linsediamento, ponte e copertura dellattivit� dei ribelli nella regione. Gli abitanti del villaggio si sarebbero consegnati pacificamente ai servitori del Drago ma questi avevano fatto intuire che non ci sarebbe stata clemenza per nessuno, trucidando fin da subito il capovillaggio e lo sciamano locale, e iniziando lopera sistematica di distruzione. I superstiti si erano dunque barricati dentro lunica costruzione fortificata del luogo, un modesto tempio alle pendici del boscoso colle che sovrastava linsediamento. Nascosti nella vegetazione dellaltura, due uomini darme osservavano la disperata difesa del bastione. Capitano Tajima, dobbiamo intervenire: presto faranno breccia! sussurr� con ansia il pi� giovane dei due. Liberiamo i tronchi dalbero adesso, e basteranno pochi di noi per finire i superstiti! Laltro rispose calmo, senza distogliere locchio che ancora gli rimaneva dal campo di battaglia. No, non adesso. Non ne vale la pena. Il giovane fece per replicare, ma quello alz� la mano per intimargli il silenzio. Pochi minuti dopo una mostruosa e gigantesca creatura, simile ad una testuggine, emerse dalla spiaggia e si fece strada guidata dai kappa attraverso gli edifici crollati, in direzione delle mura. 
+Ecco. Ora ne vale la pena. Dai il segnale Disse Tajima. Il giovane scocc� un dardo e fece scattare la trappola. Mentre i tronchi rotolavano sugli assalitori, le Tigri sciamavano sui nemici uscendo dai loro nascondigli. 
+Guida il grosso dei tuoi contro la tartaruga, prima che si riprenda concluse il capitano. Ci faremo un bel po di corazze, questa volta si disse, e con volto allegro si diresse spada in pugno verso il luogo dello scontro.
+
+Simbolo: l'artiglio di una tigre
+Ranghi: 
+1.      
+Novizio
+2.      
+Iniziato
+3.      
+Adepto
+4.      
+Zanna delle Acque
+5.      
+Artiglio Celeste
+6.      
+Grande Tigre
+
+Dicono degli altri
+Aironi grigi.
+Cani Rossi.
+Falchi dorati.
+Scorpioni Neri.
+Manguste Bianche.
+
+
+
+PIANURA GELATA
+Caratteristiche del Reame: deserto semi-polare e alte montagne
+Dio-Drago: Kuangshuang Long
+Razza: Drago del Ghiaccio (femmina) Livello: 80  Attitudine: Selvaggia Natura: Sadica
+
+Servitori Principali: Rakshasa Ur-Tanoth incrociati con i Troll dei Ghiacci assetati di sangue
+
+MANGUSTE BIANCHE
+Uno stretto ponte di ghiaccio separava laltare dallentrata della caverna. Tutto intorno era nuda roccia, fredda e inclemente, e ombre imperscrutabili a celare il fondo del baratro che sembrava sprofondare nellantico ventre della montagna. I due adepti erano gli unici rimasti della loro spedizione, i soli sopravvissuti alla disperata corsa per il ritrovamento di quel luogo sacro. Il pi� giovane dei due, ridotto allo stremo, si accasci� a terra e pianse lacrime di rabbia e impotenza. Perch� fratello? Cosa significa tutto ci�? Si interrogava osservando lo spoglio altare di ghiaccio Ci siamo allontanati dal nostro rifugio ed abbiamo perso ogni cosa lungo la strada. Abbiamo sopportato gli attacchi del gelo e della fame senza dire nulla, vagando per giorni senza una meta apparente. Gli artigli dei Rakshasa hanno straziato molti di noi fino alla soglia di questa grotta. Non senti anche tu lululato del vento al di l� del ponte? I servi del Drago ridono di noi, perch� quando siamo al loro cospetto non possiamo fare altro che piegare le nostre ossa sotto il colpo dei loro colpi. Siamo spezzati, � cos� dal principio del nostro viaggio. E tutto per che cosa? Fratello dimmi, se lo sai, per cosa? Laltro uomo accarezz� il viso bagnato dalle lacrime del compagno e replic� con fierezza E questa la prova pi� ardua che tutte le Manguste devono affrontare. E questo che ci rende ci� che siamo. Per me � stato molto tempo fa; per te lora del confronto � venuta oggi, sospinta come spesso accade da paura e disperazione. Noi serviamo un Dio-Drago che non � di questo mondo, non ancora. Ma nellattesa del suo ritorno dobbiamo proteggere il suo regno con larma pi� grande che ci ha lasciato: la nostra fede. Mentre laltro singhiozzava tremante e scuoteva la testa, i servitori del Nemico fecero irruzione sibilando come acciaio che fende il vento. Perch� tu possa capire, ecco la forza delle nostre armi. Detto questo avanz� risoluto verso lantico ponte e, invocando il cielo, con un solo possente colpo infranse il ghiaccio secolare, sprofondando per sempre con i propri nemici nelloscurit� della voragine.
+
+Simbolo: un loto bianco
+Ranghi: 
+1.      
+Novizio
+2.      
+Iniziato
+3.      
+Adepto
+4.      
+Colonna dei Ghiacci 
+5.      
+Kamaitachi
+6.      
+Maestro dei Ghiacci
+
+Dicono degli altri
+Aironi grigi.
+Cani Rossi.
+Falchi dorati.
+Scorpioni Neri.
+Tigri Celesti.

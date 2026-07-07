@@ -1,0 +1,256 @@
+
+PARTE IV: UN SAPERE PERICOLOSO
+
+ISOLA DEI RELITTI
+DALLA NAVE ALLA TERRA FERMA: bisogna attraversare un tratto di  acqua  bassa
+(100 metri circa). Le acque sono infestate da pesci carnivori,  che  possono
+attaccare i PG. Il terreno  sulla  riva  è  abbastanza  scivoloso  (Tiro  di
+Equilibrismo per non cadere, nessun danno).
+
+I RELITTI: sono infranti sugli scogli nei pressi dell’isola, 3 di essi  sono
+ancora relativamente integri. Ognuno di loro  è  distante  almeno  100+1d100
+metri dalla riva e occorre  nuotare  per  lo  meno  per  metà  di  essi  per
+raggiungerli.
+L’interno dei relitti  è  almeno  per  metà  sotto  il  pelo  dell’acqua  (e
+comunque la maggior parte della roba pesante è rotolata sul fondo).
+   1) Nave Mercantile, trasportava un carico di vino  pregiato.  La  maggior
+      parte delle casse  del  carico  sono  andate  distrutte  e  il  carico
+      disperso, tuttavia è possibile reperire ancora  2  casse  praticamente
+      integre (valgono 50mo l’una, se  si  riesce  a  rivenderle).  Inoltre,
+      cercando  bene,  è  possibile  raccattare  una  cassetta   di   monete
+      appartenuta al capitano della nave (40ma e 35mo). Per trovarla bisogna
+      riuscire in una manovra “Difficile” (-10) di Osservazione,  il  master
+      può concedere un nuovo tentativo ogni 3 minuti (18 round) di ricerche.
+   2) Nave Pirata. Al suo interno si trovano due casse  colme  di  monete  e
+      gioielli (500ma e 125 mo), un  medaglione  che  consente  di  lanciare
+      l’incantesimo “Opening” due volte al giorno e un  Falchion  magico  +5
+      (+3 materiale, +2 incantamento). La nave, tuttavia, è infestata  dagli
+      spettrali  resti  della  ciurma,   che   attaccano   chiunque   voglia
+      impossessarsi delle sue ricchezze.
+   3) Altra nave Mercantile, le merci che trasportava sono  andate  disperse
+      ma è possibile ritrovare  ancora  150mo  (in  gruppi  da  50mo  l’uno,
+      ricerche separate, vedi sopra).
+
+LA TERRA FERMA: Sulla riva rocciosa dell’isola  è  possibile  imbattersi  in
+qualche Yarhim.
+THOGNIR TESTAROSSA: I PG  saranno  attirati  dal  fumo  proveniente  da  una
+piccola capanna, si tratta dell’abitazione  di  Thognir,  un  nano  con  una
+gamba di legno  naufragato  sull’isola  mentre  navigava  alla  ricerca  del
+figlio di un suo amico (Raphael). Spiegherà di  essere  arrivato  sull’isola
+molti anni fa, riuscendo a sopravvivere  nascondendosi  dai  suoi  terribili
+abitanti. L’isola è infatti  abitata  da  crudeli  umanoidi  simili  a  rane
+(Gratar). Essi riescono a far naufragare le navi sull’isola  grazie  ad  uno
+strano  artefatto  maledetto  di  cui  sono  i  custodi.  In   questo   modo
+sacrificano gli equipaggi ad un essere assetato di sangue che  loro  adorano
+come un dio e chiamano Torakosh l’Antico.
+Finché sono in possesso dell’artefatto (una campana nera), i gratar  possono
+controllare le acque intorno all’isola per far  affondare  le  navi,  se  si
+vuole scappare bisogna sottrarlo oppure distruggerlo.
+
+INCONTRI SULL’ISOLA
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Squalo          |5°  |M   |250|4(20)     |100LBi(+30 se c’è sangue)   |+8  |
+|Mojerna         |2°  |M   |75 |3(0)      |100LBi                      |+8  |
+|Anemone Gigante |3°  |M   |60 |1(30)     |70MGr(3x)+poison            |+0  |
+|Scheletro (II)  |5°  |M#  |100|1(30)     |85we                        |+4  |
+|Yarhim (piccolo)|7°  |La  |115|12(40)    |110LPi                      |+8  |
+|Squalo Spinato  |5°  |I   |200|11(40)    |70LBa+120HCl(dorso)/70LBi   |+12 |
+
+Mojerna
+Pesce simile ad una murena, molto aggressivo, lungo circa un metro e  venti.
+Attacca in gruppi d due o tre  individui.  La  sua  carne  non  è  buona  da
+mangiare, anche se è commestibile.
+Anemone gigante
+I suoi tentacoli iniettano un veleno paralizzante di 5° livello.
+
+GRATAR E BOSS
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Gratar Gialli   |4°  |M   |70 |9(25)     |60Fal/50SBo                 |+4  |
+|Gratar Neri     |8°  |M   |100|10(35)    |100Fal/100SBo               |+8  |
+|Torakosh,       |10° |La  |250|8(20)     |120HGr(2x)/100HBi           |+8  |
+|l’Antico        |    |    |   |          |                            |    |
+
+
+TORAKROSH, L’ANTICO: probabilmente un  demone  acquatico  di  qualche  tipo,
+attacca con i suoi tentacoli (fino a 2 bersagli alla volta)  per  trascinare
+le prede alla bocca.
+
+CAMPANA NERA: se suonata, provoca  turbolenze  e  vortici  nelle  acque  nel
+raggio di qualche Km. È molto pesante e difficile da  trasportare,  tuttavia
+può essere rovesciata e resa inutilizzabile.
+
+IL MAESTRO
+La torre di Tlantimextli si trova fra le montagne  della  Sierra  Grande,  a
+qualche centinaio di metri d’altezza. Seguendo le  indicazioni  di  Alfonso,
+arrivano ad un piccolo porto di pietra, completamente vuoto  ma  ordinato  e
+ben tenuto. Un scalinata di marmo  parte  dal  porto  e  si  inerpica  sulle
+montagne, verso la Torre, che non è visibile dal  basso.  Il  tragitto  fino
+alla torre richiede circa un’ora  e  mezza  e,  nel  mentre,  i  PG  saranno
+costantemente sorvegliati da un grifone d’acciaio (Tiro Allerta  “Difficile”
+per rendersene conto).
+Infine, arrivano davanti all’entrata della Torre (in realtà,  si  tratta  di
+un piccolo castello), che è sorvegliata da due grossi golem di  pietra,  che
+servono anche ad aprire le pesanti porte.
+A dare il benvenuto al gruppo ci sarà Elanir, una giovane elfa,  apprendista
+di Tlantimextli. L’elfa contratta un po’ col  gruppo,  per  capire  le  loro
+intenzioni, ci vuole un po’ per convincerla a disturbare il suo maestro.
+Tlantimextli è piuttosto  scorbutico  e  sospettoso  (da  dopo  che  il  suo
+precedente apprendista, Damarlor,  ha  cercato  di  ucciderlo,  riuscendo  a
+paralizzargli le gambe). Acconsentirà di aiutare i PG  solo  se  questi  gli
+prenderanno il Disco Matrice, custodito in quelle che  lui  chiama  le  Sale
+della Macchina (sotto il suo palazzo) dallo stesso Damarlor.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Grifone         |16° |La# |500|20(65)    |100LCl/80LBa/100LPi         |+12 |
+|d’Acciaio       |    |    |   |          |                            |    |
+|Golem di Pietra |12° |La# |190|16(20)    |110LBa                      |+0  |
+
+LE SALE DELLA MACCHINA
+   1. La porta  segreta  è  individuabile  con  una  prova  di  Osservazione
+      “Difficile” (-10), per aprirla occorre una prova di Scassinare  “Molto
+      Difficile” (-20) oppure individuare il meccanismo che la apre  (“Molto
+      Difficile” anche questo). La stanza segreta contiene lo  scheletro  di
+      un uomo con addosso degli Attrezzi da Scasso +10 (non magici); 15  ma;
+      una spada corta e una Pozione d’Invisibilità (che però è rovinata  dal
+      tempo: chi la beve deve riuscire in un TR contro il  Veleno  di  8°  o
+      cadere addormentato). Nella stanza  si  trova  anche  uno  scrigno  di
+      metallo chiuso a chiave (prova di Scassinare “Estremamente  Difficile”
+      -30), che contiene 250ma e un Anello di Smeraldo  (Addizionatore  +2).
+      Lo scrigno, tuttavia, protetto da una trappola, se viene aperto  senza
+      chiave  la  porta  della  stanza  si  chiude  ermeticamente.   Aprirla
+      dall’interno è una  manovra  “Assurda”  (-70);  dall’esterno  si  apre
+      normalmente.
+   2. Queste camere sono vuote, a parte per degli schermi di  cristallo  sul
+      muro di fronte all’entrata. Gli schermi mostrano immagini e  diagrammi
+      incomprensibili che si muovono in maniera quasi ipnotica.
+   3. La porta segreta è “Molto Difficile” (-20) da individuare,  la  stanza
+      contiene una delle leve necessarie ad aprire la stanza 5.
+   4. Porta “Difficile” da individuare, altra leva. Contiene anche un  altro
+      scrigno, che non è chiuso ma è protetto da una trappola. La trappola è
+      “Estremamente Difficile” (-30) da individuare e disattivare e consiste
+      in 2 attacchi  +30  da  Pugnale  contro  il  personaggio.  Lo  scrigno
+      contiene  una  giacca  di   cuoio   scura   (TA5;   +10   a   Muoversi
+      Silenziosamente/Nascondersi).
+   5. La porta si apre solo azionando i meccanismi nelle stanze 3 e 4.
+
+IL CUORE DELLA MACCHINA
+    - Getto di Vapore: Steam Bolt +30
+    - Shald: per ottenerlo  bisogna  esporsi  ad  un  calor  elevato  (Colpo
+      Critico “B”)…
+
+LA MENTE DELLA MACCHINA
+Quando entrano in questo livello, i PG notano che i costrutti  vanno  avanti
+e indietro frenetici, mentre una sorta di sirena accompagnata  da  una  voce
+in xebechano (“Attenzione! Perdita di Energia al Settore 7!”)  evidenzia  lo
+stato di allarme generale.
+   1. parte della stanza è occupata da un grosso macchinario pieno di  tubi,
+      nel quale i costrutti versano la lava prelevata al piano superiore. La
+      stanza è molto calda, ogni round di permanenza all’interno infligge  5
+      danni per il calore. Toccare il macchinario infligge un colpo  critico
+      “B” da Calore.
+   2. i marchingegni di queste stanze servono x “ricaricare” i costrutti che
+      ci entrano. Qualunque essere vivente sia così pazzo da entrarvi subirà
+      un colpo critico “E” da Elettricità al round per 1-3 round.
+   3. questa stanza serve a riparare i costrutti che si rompono.  Un  minimo
+      di 4 costrutti riparatori sono sempre al lavoro sui  loro  compagni  o
+      rimettendo a posto la stanza. La stanza è piena di pezzi di  ricambio,
+      comprese Giare Leyden e motori funzionanti.  I  costrutti,  però  sono
+      programmati per attaccare chi  tenta  di  sottrarli,  prenderli  senza
+      farsi scoprire è una manovra “Difficile” (-10).
+   4. pare una sorta di magazzino. Una prova di Osservazione “Difficile”  (-
+      10) consente di localizzare degli ottimi attrezzi  da  lavoro  (+20  a
+      Ingegneria e a Progettare).
+   5. un deposito di  costrutti  disattivati,  ognuno  di  loro  può  essere
+      attivato  dagli  altri  costrutti  in  caso   di   emergenza,   oppure
+      dall’intelligenza centrale.
+   6. come il 5, però nella stanza è possibile recuperare un’arma magica  +5
+      dalle mani di un costrutto (di chi fa il tiro Osservazione più alto).
+   7. sulla porta una scritta in xebechano: “Attenzione! Non  entrare  senza
+      le apposite protezioni!”. La stanza occupa  un  enorme  generatore  di
+      energia, che ha attirato un gruppo di Mrem, demoni del  vuoto  che  si
+      cibano di essa. Ce ne sono 3, appaiono come grossi  occhi  fluttuanti,
+      con lunghi tentacoli evanescenti che appaiono quando si  attaccano  ad
+      una fonte di energia. Sono immuni  alle  armi  non  magiche,  il  loro
+      attacco consiste nel  risucchiare  d10+10  PF  al  round.  Se  vengono
+      sconfitti l’allarme termina e i PG possono proceder.
+   8.  in  questa  stanza  si  trova  Damarlor,  rinchiuso  da  Tlantimextli
+      all’interno di un golem di ferro  e  costretto  a  sorvegliare  questo
+      posto. Il golem consegnerà ai PG il Disco  Matrice,  ma  chiederà  che
+      essi restino con lui a fargli compagnia,  per  poi  attaccarli  se  si
+      rifiutano.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Costrutto       |8°  |La# |250|20(10)    |120Ma(2x)                   |+4  |
+|Mrem            |6°  |M   |95 |1(40)     |Spec                        |+8  |
+|Damarlor        |10° |SL# |200|20(10)    |100LBa/70LGr+130LCr         |+0  |
+
+
+
+
+
+FERITE E MALATTIE
+Elanir arriva portando soccorso ai personaggi feriti:
+    • ripristina le funzioni vitali di Syena (che avrà ancora  una  penalità
+      di -30 alle azioni, che svanisce in 3 giorni)
+    • sistema il braccio di Pablo,  steccandolo  e  applicando  alcune  erbe
+      (resta una penalità di -50 alle azioni con quel braccio,  che  impiega
+      una settimana a guarire).
+Fatto questo annuncia che il Maestro Tlantimextli  li  riceverà  non  appena
+saranno pronti e li conduce a delle  camere  dove  potranno  fare  un  bagno
+profumato, rifocillarsi e riposarsi.
+Poco dopo Ruben cade gravemente malato. La  colpa  è  della  muffa  di  Isla
+Ascondida. L’unica cura è un’erba  che  cresce  in  zone  remote  dei  monti
+(Attanar).  Anche  gli  altri  membri  dell’equipaggio   potrebbero   essere
+contaminati.
+Elanir: “La Sierra Grande è una zona strana e selvaggia,  popolata  da  ogni
+genere di creature. Vi consiglio di fare molta attenzione  nell’avventurarvi
+fra le montagne.”
+
+INCONTRI ED EVENTI SULLE MONTAGNE
+Cadavere: i PG rinvengono il cadavere di un grande  animale  piumato,  ormai
+irriconoscibile ad ogni esame.  Quando  se  ne  vanno  lasciando  il  corpo,
+sentono strani rumori, tornando  ad  investigare  trovano  che  il  corpo  è
+sparito.
+M’bantha: in numero doppio ai PG, metà in corpo a  corpo  e  metà  attaccano
+con archi corti. Sconfitti metà gli altri si ritirano.
+L’Ambulante: incontrano un uomo, che si trova in una  posizione  inconsueta:
+è abbracciato ai rami di un albero a testa in giù, come  se  stesse  cadendo
+verso l’alto. Chiede che uno dei PG gli tolga la cintura,  che  è  la  causa
+della sua spiacevole situazione. In cambio promette una ricompensa: un  paio
+di stivali magici (del Piede  Alato,  una  volta  al  giorno  permettono  di
+correre  al  doppio  del  movimento  base  per  due  ore  senza   stancarsi,
+l’incantesimo si rompe quando ci si ferma).  Poi  si  propone  di  scambiare
+alcuni oggetti incantati coi personaggi. A sua disposizione ha:
+    • Un sacchetto di Polvere dell’Impareggiabile Affilatezza: conferisce un
+      bonus di +3 magico (cumulabile con altri bonus) all’arma su cui  viene
+      sparsa.
+    • Una dose di Rud-Tekma (vedi Equip)
+    • Una Pergamena delle Cinque Parole di Potere   (può  essere  usata  una
+      volta mentre si lancia un incantesimo per  conferire  ad  esso  doppio
+      raggio, doppi danni e una penalità di -20 ai TR)
+    • Una Staffa della Pacificazione (Lancia “Animal Calming III” e “Calm I”
+      ciascuno una volta al giorno)
+Non venderà gli oggetti tranne che in casi eccezionali  (ed in ogni  caso  a
+prezzi esorbitanti), insiste a scambiarli con altri oggetti.
+La Rovina: i personaggi  si  imbattono  in  un’antica  e  misteriosa  rovina
+abbandonata.
+Gigante (Mos): custodisce l’Attanara, bisogna convincerlo o combatterlo.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|M’Bantha        |2°  |M   |60 |9(25)     |60SSw/60SBo                 |+8  |
+|Maggiori        |    |    |   |          |                            |    |
+|Gigante         |8°  |La  |220|4(20)     |70Club(2D)/90ro             |+4  |
+
+RIVELAZIONI
+Dopo aver curato il malato, i PG potranno  dedicarsi  nuovamente  alla  loro
+missione: Tlantimextli li accoglierà e rivelerà loro i contenuti  dei  libri
+e dei fogli:
+    • Sono i progetti per la realizzazione di  un  costrutto  di  dimensioni
+      colossali, che sarebbe  in  grado  di  devastare  facilmente  da  solo
+      qualsiasi fortificazione.
+    • Inoltre, dalle carte si intuisce che l’Alba ha intenzione di  animarlo
+      imprigionando al suo interno uno  dei  Demoni  Sovrani,  probabilmente
+      Asmodeus.
+

@@ -1,0 +1,139 @@
+
+GUERRA E INCANTI
+Tornano su:
+Calavark e Co se ne sono andati utilizzando un mezzo meccanico dalla foggia di drago (mimetizzato con un'illusione). Prima hanno però scagliato palle di gelo sul campo di battaglia e liberato dei costrutti scorpione con l'ordine di uccidere ogni umano in esso.
+Nel buco quindi ora c'è un gran casino, i mercenari di C stanno venendo sterminati ma anche gli uomini di Armora hanno qualche problema.
+Come se non bastasse dopo un po' arrivano due grossi Lurg di orchi (un centinaio ciascuno, con leader e troll appresso) ad unirsi alla festa... è tempo di ritirarsi!
+Zalg
+Ashdurburg
+Minaccia: la Legione Meccanica
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Costrutto Leggero
+3°
+I#
+150
+20(0)
+60Sword(x2)
++12
+Costrutto d'Assalto
+11°
+La#
+300
+20(50)
+100Mstar(x2)
++4
+Costrutto Scorpione
+8°
+II#
+150
+20(35)
+80LPi(x2)/90Lxbow
++8
+Soldato Medio
+6°
+M
+100
+17(20)
+120Spe/100Dart
++8
+Goblin cavalcalupi
+3°
+M
+50
+13(25s)
+70Spear/60SSword
++8
+Lupo
+3°
+M
+110
+3(30)
+65MBi
++4
+Orchetto
+4°
+M
+75
+15(25s)
+90Sw/90LBw
++4
+Troll di Montagna
+10°
+La@
+240
+16(40s)
+120Bax/100LBa/100ro
++0
+Urtak
+7°
+I#
+135
+18(50)
+130We
++8
+Comandante Orchesco
+9°
+M
+120
+17(30s)
+145Spear/140Mace
++8
+AD ARMORA
+Appena arrivati vengono bloccati da Taladhan, arcimaestro della Fratellanza e dai suoi uomini
+Intervento delle guardie cittadine, comandate dal generale Nicholas e affiancate da un gruppo di maghi dell'Accademia --> piccola disputa fra la Fratellanza e le guardie, i PG vengono portati via dalle guardie cittadine.
+I PG devono affrontare un processo: all'accusa c'è un giudice della Fratellanza, un uomo di nome Kristoph Brionne, che cercherà di convincere la corte (retta dal giudice Gregorius Martius), per la difesa dovranno arrangiarsi da soli, ma potranno avvalersi di consigli tecnici legali pagando un avvocato (il cui costo si aggira intorno alle 10ma a consulenza, nome: Lorenzo Mistrel). La condanna più lieve a cui possono aspirare (salvo orazioni eccezionali) è per aver evocato un'entità senza permesso in città, comportante una multa di 15mo + o -).
+NOTTE
+Isi: riceve visita da Willhelm (detto Will) VonGraven, lo avvisa della minaccia del Tecnocrate e del piano di Sigurd per impossessarsi delle Rune Magiche.
+Drusi: visita da parte di un uomo vestito di nero, incappucciato, molto fascinoso, si fa chiamare solo Marzio. Avvisa D che colui con cui ha parlato durante la morte richiede il suo pagamento: vuole che lei trovi le reliquie del potere, lascerà a lei le reliquie ma vuole che come prima cosa esegua un suo ordine. Rivela la locazione di una Vera Via, in una valle nei Monti degli Spiriti
+Yonk: un nano di sua conoscenza (Furag) lo avvisa che Kragdin Senirzon, il suo vecchio maestro (che lo aveva cacciato dal suo laboratorio in seguito ad una lite riguardo alla curvatura di un tubo di scarico del motore di un ornitottero, 30 anni prima), cosa piuttosto eccezionale dato che è da 30 anni che gli tiene il muso e non vuole parlargli. Il vecchio ascolta le sue storie e gli comunica le sue preoccupazioni: il Wald è in pericolo sia che il drago venga scacciato, sia che rimanga, perché tutti i regni umani bramano le sue ricchezze, compresa Armora... Può dargli anche suggerimenti riguardo al Tor Throsth Poi gli fa un regalo: un paio di braccia meccaniche (terminanti con arnesi da lavoro intercambiabili) da allacciarsi alla schiena con uno zaino/motore --> +10 a Meccanica e dimezzano il tempo impiegato (possono anche essere usate per fare un attacco con BO 80 Mace o Small Grapple).
+COSA?
+Cosa fanno ora? 
+Non hanno il permesso ufficiale di occuparsi delle reliquie e non sanno neanche dove si trovano esattamente... 
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Soldato Medio
+6°
+M
+100
+17(20)
+120Spe/100Dart
++8
+Costrutto Leggero
+3°
+I#
+150
+20(0)
+60Sword(x2)
++12
+Costrutto d'Assalto
+11°
+La#
+300
+20(50)
+100Mstar(x2)
++4
+Costrutto Scorpione
+8°
+II#
+150
+20(35)
+80LPi(x2)/90Lxbow
++8
+Viverna d'Acciaio
+10°
+La#
+300
+20(70)
+80LCl(x2)/80HXbow+poison
++16

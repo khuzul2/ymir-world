@@ -1,0 +1,85 @@
+
+CAPITOLO VIII
+
+SON OF EVIL
+LA VERA STORIA DI ROBERTO RODRIGO E DEL SADHIRITA
+Roberto Rodrigo non era un comune pirata, era  anche  un  mago,  un  warlock
+molto potente. Fu cacciato dalla sua patria perché accusato di  studiare  le
+arti oscure. Si rifugiò a Cartosa  dove,  grazie  ai  suoi  poteri,  divenne
+presto  un  capo  pirata  molto  temuto.  Come  molti  uomini  malvagi,  era
+ossessionato dal potere. Incontrò per caso Al Assur, uno stregone  Sadhirita
+anche lui in fuga dal  suo  paese.  I  due  formarono  un’alleanza  e  l’uno
+insegnò all’altro qualcosa delle proprie arti, anche se ognuno  dei  due  si
+guardò bene dal rivelare i suoi incantesimi più segreti. Al Assur  rivelò  a
+Roberto di non essere capitato a Cartosa per caso, ma di essere in cerca  di
+un antico tesoro, un artefatto molto potente, nascosto da qualche parte  nel
+profondo della giungla. Era un  oggetto  antecedente  il  Cataclisma,  forse
+addirittura più  antico  degli  Adepti.  Veniva  chiamato  con  molti  nomi:
+Vajira, Arca della Legge, la  Nave  degli  Dei,  l’Apparato  di  Q-Lahb,  il
+Vascello del Caos…. Una cosa sola era certa: chi lo possedeva  aveva  a  sua
+disposizione un potere indescrivibile, superiore a qualsiasi altro in  tutto
+Ymir.
+Roberto promise al Sadhirita che lo  avrebbe  aiutato  e  partirono  insieme
+alla volta del  tesoro.  Dopo  molte  peripezie  riuscirono  a  trovarlo  ed
+entrarono  insieme  nella  torre  dove   era   custodito.   Giunti   davanti
+all’artefatto, Roberto attaccò a tradimento Al Assur,  con  l’intenzione  di
+ucciderlo  per  impossessarsi  dell’oggetto.  Il   Sadhita,   tuttavia,   si
+aspettava  una  cosa  del  genere,  ed  era  pronto  a  difendersi.  I   due
+ingaggiarono una lotta furiosa e, alla fine, Roberto prevalse, lanciando  un
+incantesimo mortale contro  Al  Assur.  Ma  Al  Assur,  con  il  suo  ultimo
+respiro, lo derise, perché senza il suo aiuto non sarebbe stato in grado  di
+attivare l’artefatto, e lo maledisse.  Promise  che  lo  avrebbe  tormentato
+fino alla sua morte e che, un giorno, sarebbe tornato per prendersi ciò  che
+gli spettava…
+
+TROVARE INFORMAZIONI ALLA BIBLIOTECA
+L’ingresso alla Biblioteca di Meridian costa 1mo, ma solo la metà per  color
+che appartengono alla Gilda dei Cantori o ad una delle due gilde di magia.
+Un tiro di Biblioteconomia può rivelare alcune  informazioni  riportate  qui
+sopra, con un 100 naturale, oppure un Successo Assoluto, il PG  trova  tutte
+le info che cerca e qualche cosa in più.
+
+LA CERIMONIA
+Durante la cerimonia di proclamazione, avverrà  un  tentato  assassinio,  al
+culmine della cerimonia alcuni uomini travestiti da  nobili  cercheranno  di
+ammazzare i PG con dei dardi avvelenati scagliati da  dei  balestrino.  Tiro
+Allerta “Molto Difficile” (-20) per  percepire  l’imboscata.  I  dardi  sono
+avvelenati con un veleno Circolatorio di 10°  livello,  un  tiro  Conoscenza
+Veleni permette di riconoscerlo come un veleno molto  raro,  estratto  dalle
+ghiandole di una particolare lucertola del deserto.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Assassino       |8°  |M   |80 |9(20)     |105Bal                      |+8  |
+
+AGGUATO
+Un gruppo di Gratar inviati da Al Assur tentano di rubare  la  nave  dei  PG
+per trascinarli in un’imboscata nei terreni paludosi vicino a Meridian.
+Il combattimento si svolge nei bassi  acquitrini  accanto  a  Meridian,  per
+tutta la sua durata i PG hanno una penalità di -10 al  BO  e  possono  usare
+solo metà del BD derivato dai Riflessi.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Gratar Giallo   |4°  |M   |70 |9(25)     |60Spear/30MBi               |+4  |
+|Troll di Palude |7°  |La@ |150|11(15)    |70LCl/80LBi                 |+4  |
+
+Esistono alcune razze di  troll  uniche  su  Ymir,  mutate  dal  flusso  del
+Maelstrom. Una di queste è quella dei troll di palude, alti e  magri,  hanno
+la sgradevole capacità di rigenerare 5pf/round e un -5 di penalità  a  round
+da tutte le ferite non causate da fuoco o acido. Questa capacità è  talmente
+sviluppata che permette loro  di  rigenerare  anche  gli  arti  e  la  testa
+mozzati
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Al Assur, il    |15° |La# |165|1(50)     |100Staff[Cold]/60WtBolt/Spec|+12 |
+|Sadhirita       |    |    |   |          |ial                         |    |
+
+Al Assur, il Sadhirita: POTERI  DA  WRAITH:  Sguardo  fisso  su  un  PG  può
+funzionare come “True Hold” (ferma al 25% dell’attività); Paura  nel  raggio
+di 30 metri; Un colpo critico “B” da Gelo al round entro 1 metro e mezzo,  i
+suoi attacchi causano un colpo critico secondario da  Freddo  e  risucchiano
+20 punti Costituzione a chi fallisce un TR.
+ALTRI POTERI: conosce le liste base dello Stregone fino al suo  livello;  ha
+a disposizione 150PM.
+
+

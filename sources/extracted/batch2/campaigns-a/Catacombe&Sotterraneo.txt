@@ -1,0 +1,141 @@
+
+SOTTOTERRA
+
+Misteriose figure bestiali sono  state  avvistate  aggirarsi  di  notte  nei
+bassifondi, alcune persone ultimamente sono sparite e la fossa  comune  pare
+essere stata profanata. Le gilde dei maghi sono ritenute responsabili  dalla
+gente comune e la Commissione  per  l’Uso  della  Magia  ha  iniziato  delle
+indagini poco piacevoli x le gilde. I PG sono assunti  da  una  delle  parti
+per fare luce sul caso.
+
+Le Catacombe
+
+Stanza Altare: Contiene 4 bare inumate di fresco, sull’altare ci sono  delle
+offerte a Kur, la dea della morte, in tutto ammontano a 15mo, 26ma  e  34mb.
+Chi ruba anche solo una moneta, tuttavia, incorre nell’ira  di  Kur,  che  è
+piuttosto  suscettibile.  Il  ladro  avrà  il  proprio  raggio   di   fumble
+raddoppiato, e perderà un Punto Fato.
+Sala dei Nani: Contiene i resti  mortali  dei  grandi  padri  fondatori  del
+ghetto cittadino, in particolare quella di Senir  il  Venerabile,  il  primo
+fra tutti i nani a giungere ad Armora. Sopra la sua  tomba  è  posto  l’Elmo
+Argenteo (“Aura costante” [+15BD]; +10 alla  categoria  Influenza  e  +5  BO
+contro Orchetti e Troll) , un oggetto magico appartenuto a lui stesso.
+Se qualcuno ruba l’elmo o prova a forzare le tombe  compare  lo  spettro  di
+Senir, intenzionato a proteggere la Sala. Senir emana un’aura di  Paura  (TR
+Mente 115), il suo tocco risucchia 5 punti Co e Paralizza  chi  fallisce  un
+TR Volontà (120).
+Tomba Amanti: questa doppia  tomba  contiene  un  baule  (chiuso  a  chiave,
+“Molto Difficile” [-20] da scassinare). Il baule contiene  un  set   nuziale
+d’argenteria (valore 150ma).
+Tempietto con Fontana: Un tempietto antico, con  due  rozze  statue  che  si
+fronteggiano, una stringe una mazza e l’altra una spada (una manovra  “Molto
+Difficile” [-20] di Religione permette di riconoscere in una il dio Erams  e
+nell’altro  Jodem).  L’acqua  della  fontana  è   particolarmente   pura   e
+rinfrescante, cura 3d10PF (l’acqua perde ogni proprietà  curativa  se  viene
+imbottigliata ma rimane rinfrescante).
+Tomba  di  Famiglia:  Un  grande  sarcofago,  evidentemente  una  tomba   di
+famiglia. Se viene aperto rivela di contenere solo ossa e polvere.
+Tomba del Ladro: In centro alla stanza  c’è  un  sarcofago  e,  accanto,  il
+cadavere mezzo bruciato di un uomo. Si trattava di un ladro, che ha  provato
+ad aprire il sarcofago per impossessarsi dei tesori che contiene ma è  stato
+colpito da una trappola. Il sarcofago è infatti  protetto  da  una  trappola
+magica “Molto Difficile” [-20] da individuare, che  può  essere  disattivata
+solo con la magia e consta  in  una  runa  che  si  attiva  ogni  volta  che
+qualcuno prova a rimuovere il coperchio del sarcofago, colpendo  l’area  con
+una Palla di Fuoco (area effetto 15ft). Il cadavere ha con  sé  un  pugnale,
+15m di corda e un piede di porco, tutto il resto è troppo bruciato x  essere
+usato. Il sarcofago contiene lo scheletro di un uomo e 150ma).
+Tomba degli Scheletri: Una sala con 3 scheletri messi a guardia d Korak.
+Tomba del Necromante: Questa tomba è stata occupata da Korak Varn, un  folle
+necromante  che  ha  eletto  le  catacombe  come  propria  dimora.   Siccome
+probabilmente sente i PG arrivare perché dovranno combattere contro  i  suoi
+scheletri nella stanza accanto, si è già castato “Enchanted Robes”  per  cui
+può ancora lanciarsi “Blur” e “Shield” quando arrivano  i  PG,  portando  il
+suo BD ad un massimo di 55 (senza contare Deflections).
+Korak ha una Staffa di Wounding III  (con 35 cariche); un Amuleto  di  Ferro
+(Addizionatore +2) e 35ma (rubate ai morti). Inoltre,  sul  tavolo  c’è  una
+pergamena di Oscurità X (Essenza Malvagia). Il  baule  contiene  vestiti  ed
+effetti personali (candele, coperte, …). La libreria  contiene  3  libri  di
+interesse, più un diario con i deliri di Korak (verso l’ultima parte,  però,
+diventa interessante perché parla di strane ombre mostruose che si  aggirano
+nella zona sud della catacomba). I libri sono:
+      - Offuscare la Luce (lista “Darkness” Essenza Malvagia)
+      - Tomo della Stolidità Vermiglia (-1d5 San)
+      - Storie di Ardente Passione (Lancia “Analyze Individual” dalla lista
+        delle Houri una volta al giorno)
+Il Buco: un buco scavato di fresco nella stanza conduce alle rovine.
+
+Incontri
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Wight (Senir)   |15° |La# |120|16(30)    |110BAx[Cold]+Spec           |+12 |
+|Scheletro       |5°  |1#  |100|1(30)     |50Sword+drain               |+8  |
+|Korak Varn      |8°  |M   |60 |2(20*)    |30Qtsff/Spells              |+10 |
+
+      - Skel( Drain 1 Co xRnd dopo 3 round.
+      - Korak, Liste: Necromancy (24rnk; 35bns) ; Undead Summoning  (15rnk;
+        26bns); Undeath Law (20rnk; 31bns); Death Mastery  (15rnk;  26bns);
+        Shield Mastery(10rnk; 21bns). TR: Mente:60 , Corpo:22 , Spirito:80
+
+                                  Le Rovine
+Stanza Balestra: il pavimento  a  nord  è  crollato,  lasciando  un  piccolo
+abisso, largo solo 3 metri ma molto profondo (20 metri circa,  chi  ci  cade
+dentro subisce un attacco da Caduta +60). La stanza in  sé  è  desolatamente
+vuota, ad eccezione di una balestra, coperta di  polvere,  al  centro  della
+stanza. Vicino ad una parete c’è un dardo spuntato.
+Sala Statua: Statua di Tezcatlipoca, dio guerriero degli Xebechani  (manovra
+di Religione “Media”  x riconoscerlo), di bronzo, cava.  Ossa  sparse  x  la
+stanza.  Una  manovra  “Folle”  [-50]  di  Osservazione   (o   “Estremamente
+Difficile”  [-30]  di  Medicina)  determina  che  sono  ossa  di   xebechani
+(diminuisci di 2 la difficoltà x osservatori xebechani).
+Sul piedistallo della statua qualcuno ha inciso rozzamente qualche  cosa  in
+xebechano, una frase  ormai  quasi  illeggibile:  “Poss……ei  pr..eggerci…dai
+ser……..trefattore” occorre un manovra di Osservazione “Difficile” [-10]  per
+scorgere la frase.
+Stanza Bassorilievi: le pareti di questa sala sono coperte di  bassorilievi,
+per  la  maggior  parte  talmente  rovinati  da  essere  quasi   del   tutto
+cancellati. Al centro della stanza c’è ciò che resta di un piccolo  obelisco
+di pietra, crollato al suolo in frantumi. Una manovra “Difficile”  [-10]  di
+Conoscenza Cultura Xebechani fa riconoscere  la  stanza  come  una  Sala  di
+Meditazione, comune in  molti  complessi  templari  xebechani.  Una  manovra
+“Molto Difficile” [-20]  di  Osservazione  permette  di  scoprire,  nascosto
+sopra uno dei bassorilievi in una piccola nicchia un Pendente  di  Cristallo
+(Funziona come un Moltiplicatore  x1,5  e  conferisce  un  bonus  di  +10  a
+Meditazione a Trances).
+Sala Crepaccio: una sala molto ampia, attraversata da un  oscuro  crepaccio,
+di cui non si vede la fine.  Da  esso  provengono  a  tratti  folate  d’aria
+gelida che portano con sé un odore nauseante.
+Sala Statue: una doppia fila di  sei  statue  di  pietra  che  rappresentano
+guerrieri  xebechani,  vestiti  di  tunica  e  armati  di  lancia  e  scudo.
+Nonostante le statue siano in pessimo stato (4 su 6 sono  decapitate)  nella
+stanza si ha la sensazione di essere osservati.
+Stanza Guardie: Due  Orrori  Notturni  sorvegliano  questa  zona  e  saranno
+attirati da rumori sospetti nelle vicinanze.
+Sala Ossa: Stanza piena  di  ossa  e  resti  umanoidi  e  non,  compreso  il
+cadavere completo di un uomo. L’uomo indossa una corazza di cuoio  piuttosto
+rovinata (TA9, -10) ed ha con sé una spada  di  buona  fattura  (+5),  degli
+attrezzi da scasso superiori (+10), 1 sacchetto contenente una dose  di  Fek
+(ferma sangue in 1d10rnd) ed una boccetta di Acqua di  Fuoco.  Nel  borsello
+ha 35mb.
+Sala Esperimenti: La stanza è occupata da un tavolo di pietra e  quello  che
+pare un letto di tortura, munito di cinghie e manette. Sul tavolo di  pietra
+è sdraiato il cadavere di un uomo, col petto sezionato  con  precisione.  Un
+Cacciatore Notturno è intento ad analizzare il  cadavere  (ma  se  i  PG  si
+avvicinano senza far attenzione  sarà  allerta,  probabilmente  attendendoli
+sul soffitto).
+Prigione:  Una  stanza  occupata  da  gabbie  di  ferro,   con   le   sbarre
+arrugginite. Sono troppo recenti per poter  risalire  alla  costruzione  del
+sotterraneo. Come siano arrivate qui è un  mistero.  All’interno  di  gabbia
+c’è un pugnale (+10, non magico) ma per il resto sono vuote.
+Sala Riproduzione: Le vasche sono utilizzate dai  Notturni  per  la  propria
+riproduzione. Ogni vasca contiene un liquido viscoso nero/verdastro.
+Vera Via: Una Vera Via, i  Notturni  stanno  cercando  di  riattivarla.  Una
+manovra di Conoscenza Artefatti permette di riconoscerla.
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Orrore Notturno |6°  |M   |100|3(30)     |80MCl/70MStin+poison        |+8  |
+|Cacciatore      |10° |M   |200|11(20)    |120MCl/110LGr               |+10 |
+|Notturno        |    |    |   |          |                            |    |
+|Distruttore     |15° |La@ |250|16(20)    |145LBi/80FBre/135HGr        |+10 |
+|Notturno        |    |    |   |          |                            |    |
+

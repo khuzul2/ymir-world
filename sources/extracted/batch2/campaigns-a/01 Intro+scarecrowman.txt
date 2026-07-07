@@ -1,0 +1,146 @@
+
+INTRO
+
+IL TESORO DI ROBERTO RODRIGO L’ARMORITA
+Roberto Rodrigo detto l’Armorita (a  causa  della  sua  provenienza)  è  una
+leggenda fra i pirati di  Cartosa.  Abile  navigatore,  grande  esploratore,
+valente condottiero, si narra che durante la sua vita abbia  speso  più  oro
+di quanto ne sia  mai  entrato  nelle  casse  del  tesoro  del  principe  di
+Cartosa. Con la sua nave “Implacabile”  terrorizzò  a  lungo  le  coste  del
+principato, saccheggiando porti e ricche navi mercantili, almeno finché  non
+fu  catturato  dalla  Marina  e  rinchiuso  nelle  segrete  di  Forte  Leòn.
+L’Armorita attese fino all’ultimo che i suoi compagni si  presentassero  per
+salvarlo dal patibolo, rischiando le loro vite per lui come tante volte  lui
+la aveva rischiata per loro. Purtroppo la sua ciurma non riuscì ad  arrivare
+in tempo a causa di una  tempesta  e  si  narra  che,  in  punto  di  morte,
+l’Armorita pronunciò una terribile maledizione  su  di  loro.  Di  fatto  la
+ciurma scomparve, forse inghiottita dalla tempesta, e non se  ne  seppe  più
+nulla.
+Ma la parte più interessante della leggenda è  questa:  si  dice  che,  poco
+prima di essere catturato, Roberto Rodrigo avesse scoperto  l’ubicazione  di
+un tesoro  favoloso,  talmente  grande  da  far  impallidire  tutti  i  suoi
+precedenti guadagni. Sapendo di avere la Marina  alle  calcagna,  l’Armorita
+non caricò il tesoro sulla sua nave ma lo nascose in un luogo che  solo  lui
+conosceva e disegnò una mappa con descritto il  modo  per  raggiungerlo.  In
+molti sono andati in cerca del tesoro segreto dell’Armorita, il  più  grande
+di tutti i tesori, ma nessuno è mai riuscito a trovarlo… fino ad ora!
+
+
+SCOPO
+
+I PG sanno che la mappa per il tesoro dell’Armorita  si  trova  nella  cella
+che una volta lui occupava. Scopo dell’avventura è intrufolarsi  nel  forte,
+rubare la mappa e fuggire fino a La Roca, dove  potranno  attendere  che  le
+acque si calmino. Quest’Intro serve anche per far incontrare i PG e  formare
+il party.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Guradia         |4°  |M   |65 |9(15)     |60Sp/60Rap                  |+6  |
+
+Per la mappa di Forte Leòn  si  possono  usare  quelle  a  pag.  133-134  di
+Pirates.
+
+
+                                 CAPITOLO I
+
+
+SCARECROW MAN
+
+La  Roca  attualmente  in  una  sorta  di  zona  franca  fra  il  territorio
+controllato da Cartosa e quello reclamato da Meridian. In questo momento  la
+cittadina non è  reclamata  né  da  uno  schieramento  né  dall’altro  ed  è
+abbastanza tranquilla.
+Il governatore della cittadina, tale Don Armando de la Corona, è  felice  di
+questa situazione di autonomia, che gli permette di arricchirsi con i  soldi
+dei contrabbandieri che usano La Roca  come  porto  franco  e  di  mantenere
+tranquilla  la  città.  Anche  i  cittadini  sono  felici  di  non  rimanere
+coinvolti nella guerra fra il Principato e la Repubblica.
+Ma un’ombra si è ultimamente stesa su  La  Roca,  una  serie  di  misteriosi
+assassinii ha  gettato  il  seme  della  paura  nel  cuore  degli  abitanti.
+Riusciranno i PG a scoprire chi si nasconde dietro agli efferati  delitti  e
+a liberare la cittadina dal terrore?
+( I PG arrivano  in  città  di  sera,  devono  recarsi  alla  villa  di,  il
+governatore Don Armando de la Corona, che è il  loro  contatto  a  La  Roca.
+Questi dovrebbe fornire loro i documenti giusti per passare  senza  problemi
+il confine, e probabilmente aiutarli in altro modo.  Tuttavia,  quando  sono
+quasi arrivati alla villa, sentono delle urla di donna provenire  da  dentro
+la villa. Si tratta di Giustina, la giovane e bella figlia  di  Don  Armando
+Se i PG accorrono trovano la porta  aperta  e  la  donna  in  piedi  davanti
+all’entrata di una stanza. Dentro  c’è  il  governatore,  con  una  profonda
+ferita al petto, steso sul pavimento. Se i PG  si  sbrigano  possono  ancora
+evitare che muoia, altrimenti arriva un vecchio servitore a guarire  le  sue
+ferite.
+Se i PG aiutano il governatore a riprendersi questi  riuscirà  a  parlare  a
+stento, dicendo di essere stato aggredito da un individuo incappucciato,  ma
+resterà debole e confinato a letto per un po’.  Altrimenti,  il  governatore
+non morirà ma rimarrà incosciente.
+In ogni caso la figlia Giustina implorerà i PG di  rimanere  per  un  po’  a
+proteggere la casa e arriverà a promettere una ricompensa per chi  catturerà
+l’assalitore del padre.
+INDIZI: una manovra “Molto Difficile” (-20) di  Osservazione  permetterà  di
+notare che all’interno della stanza  dell’attentato,  vicino  alla  finestra
+rotta dalla quale l’assalitore è uscito, si trova qualche ciuffo di paglia.
+
+I PG, se decidono di indagare,scoprono  che  nell’ultimo  mese  La  Roca  ha
+conosciuto un incredibile numero di delitti  per  una  città  così  piccola.
+Prima del governatore altre 5 persone sono state assassinate:
+    • Fernando, un uomo che lavorava al porto (ucciso a pugnalate)
+    • Paraiba, amico di Fernando (ucciso come Fernando)
+    • Luis, altro amico di Fernando (trovato morto affogato)
+    • Miguel, figlio giovane e bello di un mercante locale  (Luigi  Manchez)
+      (ucciso a pugnalate)
+    • Francisco, amico d’infanzia di Giustina, studioso (ucciso a pugnalate)
+
+
+
+Dietro gli assassinii c’è Felipe Buscadero, il giardiniere del  governatore.
+Felipe è un giovane magro, abbastanza alto ma un po’  gobbo.  Ha  i  capelli
+color sabbia, gli occhi azzurri leggermente strabici e il  labbro  leporino,
+insomma, non è proprio un bell’uomo.  Da  sempre  Felipe  ama  Giustina,  la
+figlia del governatore, ma non ha mai  avuto  il  coraggio  di  dichiararsi,
+anche se le porta ogni mattina i fiori più belli del giardino. Vive  in  una
+cascina accanto alla villa, dove tiene centinaia  di  bambole  di  paglia  e
+stoffa fatte a somiglianza della sua amata. È conosciuto  come  un  tipo  un
+po’ strambo ma innocuo dagli abitanti de La Roca.  Siccome  è  uno  sfigato,
+veniva sempre preso in giro e tiranneggiato da Fernando e i suoi amici.
+Questo fino a quando Felipe non acquistò da un contrabbandiere di  passaggio
+uno strano libro oscuro,  intitolato  “Guida  alla  Vita  Artificiale”,  che
+descriveva blasfemi rituali con i quali animare le cose inanimate. A  questo
+punto nella sua mente si sviluppò un piano contorto di vendetta: costruì  un
+uomo di legno e paglia, simile ad uno spaventapasseri, e utilizzò i  rituali
+descritti  nel  libro  per  animarlo.  Poi  lo  scatenò   contro   Fernando.
+Inizialmente voleva solo  spaventarlo,  ma  il  golem  era  animato  da  una
+volontà maligna e  finì  con  ucciderlo.  Felipe  era  spaventato  e  voleva
+distruggere il golem, ma la sensazione di  potere  che  esso  gli  dava  era
+troppo grande e finì col prevalere. Usò il  golem  per  uccidere  Paraiba  e
+spaventare a morte Luis. La cosa sarebbe potuta  finire  lì  ma  Felipe  era
+ormai troppo dipendente dal Golem e un altro piano  prese  forma  nella  sua
+mente:  usare  il  golem  per  raggiungere  Giustina,  eliminando   i   suoi
+pretendenti. Cominciò dunque con Miguel che era il pretendente numero  1  di
+Giustina, per poi passare a Francisco.
+Il giorno prima dell’arrivo dei  PG,  il  padre  di  Giustina  (che  si  era
+accorto dell’interesse di Felipe per la figlia)  aveva  fatto  a  capire  al
+giardiniere che era meglio se  la  smetteva  di  insistere  con  la  figlia.
+Quindi Felipe decide di vendicarsi.
+
+Nota che gli abitanti di La Roca sono propensi  a  pensare  che  Fernando  e
+Paraiba siano stati uccisi  da  Luis  per  una  lite,  che  poi  si  sarebbe
+suicidato. I tre non  avevano  una  buona  reputazione  in  città  ed  erano
+conosciuti come dei violenti. Per Miguel si  pensava  a  dei  banditi  ma  i
+recenti fatti hanno fatto dubitare tutti di queste tesi…
+
+NPG:
+Don Armando de la Corona: governatore di La Roca
+Giustina de la Corona: bella figlia di don Armando
+Sandro: vecchio servitore dei de la Corona
+Felipe Buscadero: giardiniere dei de la Corona
+Pablo: oste della Taverna locale “All’Ancora Arenata”
+Carlos: fabbro locale
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Scarecrow man   |10° |La# |130|3(50)     |120Grapple/120Dagger        |+12 |
+|Felipe          |1°  |M   |30 |2(10)     |43Dagger                    |+4  |
+
+Le indagini e la risoluzione del caso sono lasciati ai PG…
+
+

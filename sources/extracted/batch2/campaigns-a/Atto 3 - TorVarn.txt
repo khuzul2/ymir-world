@@ -1,0 +1,71 @@
+
+TOR VARN
+ATTACCO DEI FALCHI
+Attacco da 3 Falchi Sanguinari a testa, se vengono feriti TR contro le Malattie (5° livello) o contraggono la Peste Rossa (-20 penalità al giorno, fino a -100 poi morte. Le ferite ci mettono il doppio a guarire, sanguinamento raddoppiato, ogni giorno possibilità del 30% che si apra una ferita 3 pf/rnd. Chi muore risorge come non morto)
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Falco Sanguinario
+3°
+M#
+50
+1(60)
+40SPi(+10/falco in più)+Malattia
++12
+VERSO TOR VARN
+Sud di Tor Varn: Torn Nifel (fortezza di Dwalor, in rovina)
+Nord: Tor Lossar
+I nani sono in una brutta situazione: le montagne sono praticamente in mano a Gwalgamaur, solo Waldenheim e qualche fortezza resistono. La zona vicino a Tor Varn è presidiata dalle truppe di Lord Shura, che combatte con la forza della magia.
+Incontrano Brolin, Brannon, Nìm e Glìm in una torre in rovina: Giuliano, Dìm e Tìm sono stati uccisi.
+“Tutto è cominciato poco dopo la morte di re Threlin, appena qualche mese fa. I capoclan erano tutti a Waldenheim x le esequie... e per contendersi la successione. I clan erano quasi sull'orlo di dichiararsi guerra quando Logarth il saggio si presentò a corte, esortandoci a riunirci al più presto in un unico esercito. L'attività degli orchetti stava aumentando e lui sosteneva di vedere un grande pericolo incombere su di noi. Solo il clan di Dwalor gli diede ascolto, tornando alla propria fortezza x armarsi, gli altri rimasero sordi alle sue parole. Finché non scoppiò l'inferno: orchi e altre creature sbucarono da tutte le parti, mettendo a ferro e fuoco ogni cosa, fummo presi impreparati e perdemmo molte roccaforti...”
+Signore di Tor Varn: Fundin 
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Dreugh
+8°
+I#
+140
+15(30s)
+110WH/Special
++0
+Urtak
+7°
+I#
+135
+18(50)
+130We
++8
+Hothrog (I)
+2°
+I
+60
+11(15)
+50MCl(x2)+100MBi
++0
+Stregoni
+8°
+M
+90
+8(20s)
+80We/70FBolt/spells
++8
+Troll dei Ghiacci
+13°
+La@
+200
+11(30)
+105HCl/80HBa/80ro
++6
+Dreugh: nani non morti, risucchiano 3 punti Co/rnd a chi fallisce un TR Vigore, i loro occhi fiammeggianti sono lievemente ipnotici: TR Mentalismo 4° livello (8° per un nano) per non venir paralizzati (ci si sveglia se si è colpiti, una volta risvegliati o colpiti non funziona più), i nani uccisi risorgono come Dreugh.
+Urtak: una delle principali forze d'assalto dell'esercito di Lord Shura: un tempo comuni guerrieri orchi, sono stati sottoposti ad un rituale di massa che li ha trasformati in temibili guerrieri quasi-non morti.
+Hothrog: demoni umanoidi dalla testa di sciacallo convocati da Lord Shura e dai suoi sottoposti, perlustrano il territorio in branchi di 20-30 individui. Non usano armi ma, se da soli, possono andare in berserk: +30BO, -20BD.
+Stregoni: stregoni orcheschi sottoposti di Lord Shura. Conoscono le liste Lesser Illusions, Entity Summons, Darkness e Fire Law fino al loro livello(con un bonus al lancio di +18 e 48PM).

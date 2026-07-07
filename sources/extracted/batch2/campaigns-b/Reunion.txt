@@ -1,0 +1,101 @@
+
+REUNION	
+BAUDOLINO
+Dotazione standard da soldato:
+1 cotta di maglia
+1 elmetto a calotta
+1 spada corta
+1 fucile a dardi
+1 porta dardi (con 3 caricatori da 6 dardi)
+1 scudo piccolo (+15 BD)
+1 zaino con:
+3 torce + acciarino
+mini kit medico
+eventuali razioni
+1 sacco a pelo
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Valentine
+10°
+M
+110
+10(30)
+105whip
++10
+SURYA + HAN
+Contatto di Han: ex Maggiore di marina Arcadio, consiglia di allontanarsi dal principato il prima possibile: 
+un suo amico è capitano di una nave e può dare un passaggio ai due per una cifra modica: 5mo a passeggero (trattabili fino a 3). Arcadio può trovare loro una chiatta di passaggio che li trasporti fino a Calis, lì prenderanno la nave x la Letia.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Sharky
+8°
+M
+120
+13(20)
+110Man/110DartS
++6
+Orrore Notturno
+6°
+M
+100
+3(30)
+80MCl/70MStin+poison
++8
+Cacciatore Notturno
+10°
+M
+200
+11(20)
+120MCl/110LGr
++10
+Doppleganger
+6°
+M@
+80
+4(40)
+100Dag/70DartP
++12
+TR: Corpo =90 ; Mente = 50 ; Spirito = 30 
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Ratto Mutante
+3°
+M
+45
+3(40)
+50SBi
++8
+Zanzara Gigante
+1°
+M
+8
+1(50)
+10TiSt + drain 1d10hp
++12
+Malvivente
+5°
+M
+90
+9(20)
+90Swrd
++8
+
+TR
+Ratto: Corpo 40/ Mente 30/ Spirito 30
+Zanzara: Corpo 35/ Mente 20/ Spirito 30
+Malvivente: Corpo 75/ Mente 50/ Spirito 50

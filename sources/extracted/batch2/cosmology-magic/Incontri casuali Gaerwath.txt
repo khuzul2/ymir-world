@@ -1,0 +1,45 @@
+
+===== [page 1] =====
+GAERWATH STUFF
+Tiro
+Incontri/Eventi
+1-5
+Accampamento di schiavisti elfi con segugi
+6-10
+Piantagione di Vigneti di Luna, coltivata da schiavi, sorvegliata da elfi armati.
+11-15
+1-3 Costrutti dei Mecanisti in pattuglia
+16-20
+Gruppo di Biomanti in cerca di esemplari o nel mezzo di un esperimento
+21-25
+Fortezza di una delle fazioni (1-3: Mecanisti, 4-6: Demonologi, 7-8: Biomanti, 9: Sognatori, 0: Necromanti)
+26-30
+Terreno di scontro fra due fazioni determinate a caso
+31-35
+Portale Dimensionale, 75% custodito da una fortificazione, 25% abbandonato in una rovina
+36-40
+Tana di un Unicorno Oscuro (1-8: all'interno della tana, 9: fuori a caccia, 0: gruppo di elfi cacciatori) 
+41-45
+Villa o torre, occupata da 1-7: un mago elfico solitario, 8-9: un vampiro, 0: un lich 
+46-50
+Nobile elfo con scorta (1d10x10 fra elfi e non) in viaggio attraverso il reame
+51-55
+Miniera di Arvo (Essenza solida), 1-7: attiva e sorvegliata, 8-9: esaurita, 0: vuota/abbandonata
+56-60
+Osservatorio astronomico (di solito dei Sognatori), costruito sopra una reliquia magica di qualche tipo
+61-65
+Demone (1-3: Tipo I, 4-5:  II, 6-7: III, 8: IV, 9: V, 0: VI), 50% in missione e 50% liberato 
+66-70
+Nebbia incantata 1-4: teletrasporta in un punto del Gaerwath a caso, 5-0: nasconde esseri/visioni bizzarre
+71-75
+Ziqqurath 1-5: tomba, 6-8: in rovina, 9: di un clan decaduto, 0: posseduta dai demoni
+76-80
+Verme Shai'Hulud a caccia, che insegue la sua preda
+81-85
+Gruppo di Cavalieri di Telishlagàrk (1-5), impegnati in una cerca, uno di loro reca la "benedizione" del drago 
+86-90
+Boschetto di Funghi del Sogno: TR per non esser trasportati nel mondo dei sogni
+91-95
+Schiavi fuggiaschi/ribelli, diretti a un nascondiglio segreto
+96-00
+Creature del profondo, impegnate in un immondo rituale

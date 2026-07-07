@@ -1,0 +1,102 @@
+
+L’ATTACCO DEL DRAGO
+
+Nella fortezza: 200mo; Piccone +25; Bacchetta  di  Cold-Ball  (13  cariche);
+Libro di Incantesimi
+
+SCETTRO DI LORD DURGA: scettro dorato, si  dice  che  conferisca  un  grande
+potere sui demoni minori.
+POTERI: Moltiplicatore x3 per  Usufruitori  Malvagi;  “Demon  Communication”
+continuo. Quando chi lo usa evoca un demone dal I al III  tipo  permette  di
+scegliere esattamente che “razza” di demone evocare. +30  alle  manovre  per
+Patti Demoniaci, ogni demone di III tipo o meno entro 6 metri deve  fare  un
+TR a -20 o essere “pacificato”.
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Gwalgamaur      |66° |SL  |600|20(75)    |125HBi/150HCl/130HBa/90HHo/|+8  |
+|                |    |    |   |          |120Fbr                     |    |
+|Gigante Elem.   |15° |SL# |200|1(45)     |90HGr[C Heat]              |+8  |
+|Fuoco           |    |    |   |          |                           |    |
+|Elementale      |20° |SL# |160|1(30)     |140MGr [D Heat]            |+10 |
+|Grande          |    |    |   |          |                           |    |
+
+
+Nota: Gwalgamaur conosce le seguenti liste:
+    - Spirit Mastery
+    - Spell Reins
+    - Dispelling Ways
+    - Essence Perception
+    - Elementalista Fuoco Base
+
+
+ROVINE SOTTERRANEE
+
+Si scoprono i muraglioni di quella che pare un’antica città sotterranea.
+
+Entrata: il pavimento della stanza è fatto di  ferro,  al  centro  sorge  un
+piccolo  pilastro  sopra  il  quale  volteggia  un  globo   di   elettricità
+crepitante.  Ai  quattro  angoli  della  stanza  si  trovano  delle   statue
+raffiguranti orchi in armatura che stringono  fra  le  braccia  delle  lance
+protese in avanti.
+Chi è tanto sciocco da toccare la sfera subisce  un  colpo  critico  “E”  da
+Elettricità, senza TR; passando davanti a una delle statue  si  fa  scattare
+una trappola magica che, dalla sfera,  lancia  un  fulmine  ad  ogni  angolo
+della stanza, verso le statue (attacco +65 a chi  si  trova  in  mezzo),  le
+quali scaricano  l’energia  a  terra,  causando  un  colpo  critico  “C”  da
+elettricità a tutti i presenti nella stanza. Osservando  le  statue  si  può
+notare che  le  lance  possono  essere  spostate,  indirizzandole  verso  il
+soffitto. Così facendo si indebolisce il flusso di energia: la trappola  non
+verrà più attivata passando davanti a  quella  statua  e,  per  ogni  statua
+“disinnescata” il BO del fulmine scende di  10  e  il  livello  del  critico
+subito dal pavimento scende di uno (da “A” a “A-20”).  Se  tutte  le  statue
+sono disinnescate la sfera di energia si  spegnerà.  Rivelando  una  piccola
+piramide di vetro al suo interno. Se la piramide  viene  rotta  infligge  un
+colpo critico “C” da elettricità a tutti nel raggio di 2 metri.
+
+Le Sale del Cieco: non si tratta di una sola  stanza  ma  di  una  serie  di
+almeno 4 stanze collegate sulla cui entrata è scritto:
+
+                   Io vedo ciò che al tuo occhio svanisce,
+
+                    Chiare visioni poi la vista marcisce.
+                 E ciò che poi vede, la mente non comprende,
+                  Un’ombra si muove dove la luce risplende.
+                    Quando ti volti se ne saranno andati,
+                      Sussurrando i loro canti celati.
+                Fuori di mente, nell’Oscurità sarai gettato,
+           E per sempre, nelle Sale del Cieco sarai imprigionato.
+
+Le sale sono protette da un potente incantesimo che si attiva  quando  entra
+qualcuno, creando l’illusione di un labirinto senza  uscita.  Le  Sale  sono
+abitate da Unseen,  che  attaccano  chiunque  entri.  Gli  Unseen  sono  gli
+spiriti di persone morte che hanno passato la loro vita nascondendo la  loro
+vera identità.  In  morte  sono  condannati  a  rimanere  in  questo  mondo,
+nascondendo  il  loro  aspetto  deforme.   Gli   Unseen   sono   normalmente
+invisibili, mostrando  il  loro  aspetto  (quello  di  umanoidi  flaccidi  e
+deformi dalla pelle grigia) solo quando attaccano e tornando  invisibili  il
+round seguente.
+OGGETTI NELLE SALE:
+AMULETO OTTICO: Una pietra sferica,  delle  dimensioni  di  un  occhio,  dai
+colori cangianti, attaccata ad una collanina d’oro. Osservandola  meglio  si
+nota che è facile staccarla dalla collana, come  se  fosse  pensata  per  un
+altro uso.
+POTERI: il portatore ha un bonus di +25 ai TR contro tutti gli attacchi  che
+coinvolgono la vista (accecamento, sguardo pietrificante,…) e +10  ai  TR/BD
+contro l’elettricità. Se la pietra viene rimossa e inserita  in  una  cavità
+oculare vuota permette al portatore di vedere come un vero occhio,  consente
+di  vedere  al  buio  come  un  elfo  e  di  lanciare   “Invisiblesight”   e
+“Illusionsight” una volta al giorno ciascuna.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Unseen          |10° |M#  |150|4(50)     |120LCl                     |+8  |
+|Scheletro III   |5°  |I#  |100|17(30)    |70we                       |+8  |
+|Scheletro       |9°  |La# |150|17(70)    |100we[Cold]/Spells         |+12 |
+|Supremo IV      |    |    |   |          |                           |    |
+|Wraith          |15° |La# |165|1(50)     |100we[Cold]/Spec           |+12 |
+
+Scheletro: 3Co a rnd dopo 3rnd
+Scheletro Supremo: Flusso Malvagio fino al suo livello, 3Co a rnd dopo 3rnd
+Wraith: Sguardo come True Hold, Paura in 30m, B da Gelo in 2m
+
+

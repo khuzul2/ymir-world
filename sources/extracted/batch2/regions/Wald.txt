@@ -1,0 +1,150 @@
+
+WALD
+I PG arrivano in una caverna, un tempo evidentemente era una fortezza nanica (ma ci sono segni anche di contatto con xebechani, a parte la Vera Via), ma pare abbandonata da secoli e quasi completamente in rovina.
+Capire dove si è arrivati: Conoscenza Regione (Wald) Molto Difficile (-10). Il luogo si trova a circa 70Km a Nord-Ovest da Tor-Varn (circa 10 giorni di cammino, forse 7 con la macchina) e a circa 40Km Nord di Tor-Throst (circa 5 giorni, forse 3 con la macchina). Sulla loro mappa il Santuario delle Braci è segnato accanto a Tor-Varn.
+GLI ADORATORI DEL CAOS
+I PG arrivano dentro Tor-Fel, una fortezza nanica. Ora tuttavia la fortezza è stata catturata da un gruppo di goblin e i nani messi in schiavitù
+Fungo Rosso (Yanwer): fungo sotterraneo le cui spore incitano comportamento violento e psicotico.
+Glob-Riba-Noz: è un Gratar Rosso, antico e folle, ha divorato quasi completamente il suo clan in onore del dio Heis. Ora ha radunato intorno a sé una piccola folla di seguaci di diverse razze: predica che il suo grande dio scaccerà i nani e il drago, lasciando l'intero Wald ai suoi prediletti. Ha con sé una Bacchetta del Caos
+Bish-Bosh: stregone goblin, odia Glob e ne è molto invidioso, crede che il potere del Gratar provenga unicamente dalla bacchetta.
+Umagaur: vecchio troll di montagna, fa la guardia ai nani prigionieri e ciondola in giro.
+La Mazza di Umagaur: Clava +15, 5% per gravità del critico inflitto di rompere un arto.
+Nìm: “capo” dei vecchi nani prigionieri
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Glob-Riba-Noz
+15°
+M
+200
+18(25)
+155Melee/70Mbi/Spells
++4
+Bish-Bosh
+8°
+M
+55
+9(20)
+65Mace/Spells
++8
+Umagaur
+20°
+SL@
+400
+20(40)
+160HCl/105Ro
++0
+Goblin
+3°
+M
+50
+13(25s)
+70Spear/60SSword
++8
+Guerriero del Caos
+7°
+I#
+135
+18(50)
+130We
++8
+Demone del Caos (III)
+8°
+La
+120
+3(40)
+80MCl(2x)/75MBi/Special
++8
+Demone del Caos (V)
+18°
+SL
+200
+4(60)
+150LBa/140we(4D)/Special
++12
+VIAGGIARE NEL WALD
+Tiro di Orientamento ogni 4 ore per non perdere la strada (sempre che la si conosca, altrimenti tiro ogni 4 ore per mantenere la direzione desiderata).
+Tira sulla tabella sotto per stabilire l'incontro ogni 4 ore. Se i PG usano la macchina di Yonker per muoversi usa i valori tra parentesi.
+Risultato
+Incontro
+1-4 (1-6)
+Contingente: 1 Comandante; 1-2 Troll; 5-10 Orchi; 5-10 Goblin
+5-8 (7-12)
+Bestie Alate: 1-10 Bestie Alate
+9-12 (13-18)
+Cavalcalupi: 2-20 Goblin più lupi
+13-16 (19-24)
+Truppa: 1-10 Orchi Elite; 1 Altro (50% Comandante; 50% Troll) 
+17-20 (25-30)
+Esploratori: 1-12 Orchi
+21-24 (31-34)
+Ambiente: 30% Animale Selvatico (non ostile); 30% Frana/simile; 30% Crepaccio; 10% Rovina
+25+ (35+)
+Niente
+Dati incontri:
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Goblin cavalcalupi
+3°
+M
+50
+13(25s)
+70Spear/60SSword
++8
+Lupo
+3°
+M
+110
+3(30)
+65MBi
++4
+Orchetto
+4°
+M
+75
+15(25s)
+90Sw/90LBw
++4
+Orchetto Elite
+6°
+M
+100
+15(40s)
+120Sw/100LBw
++8
+Comandante Orchesco
+9°
+M
+120
+17(30s)
+145Spear/140Mace
++8
+Troll di Montagna
+10°
+La@
+240
+16(40)
+110we/100LBa/100Ro
++0
+Bestia Alata
+12°
+La
+240
+11(40)
+80HCl/60LBa/90LBi
++12
+Note: 
+i Troll di montagna sono immuni a freddo e caldo naturali e dimezzano i danni da quelli magici.
+I Goblin hanno -75 alle azioni in piena luce solare
+Gli orchetti odiano la luce del sole ma non hanno penalità alle azioni derivanti da essa
+Le Frane possono essere evitate con una manovra in movimento “Molto Difficile” (Riflessi), chi rimane sotto subisce un “B” da Krush e un “C” da Sbilanciamento.
+Le Rovine sono di solito resti disabitati di torri di guardia naniche o altre costruzioni simili.

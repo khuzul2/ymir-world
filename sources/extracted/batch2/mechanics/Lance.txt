@@ -1,0 +1,164 @@
+
+ALLA RICERCA DELLA LANCIA CELESTE
+
+La Lancia Celeste è una reliquia appartenuta ad un grande sacerdote di  Heis
+del passato (San Iacinto Estoleo, detto “l’Impetuoso”), purtroppo  scomparve
+alla morte del suo possessore, circa 1500 anni or sono. Nel 2944,  tuttavia,
+un oracolo ricevette un vaticinio del dio che annunciava che  la  lancia  si
+trovava in un’isola conosciuta come Isla Ascondida, che deve il suo nome  al
+fatto di essere quasi del tutto sommersa dalle acque del mare per 12 ore  al
+giorno, durante l’alta marea. Da allora molti hanno  tentato  di  recuperare
+la lancia, ma hanno tutti fallito.
+L’isola era la sede di un tempio del Culto  dell’Ostrica  Blu,  dedicato  ad
+uno dei Signori Demoniaci e soffre della sua nefasta influenza.
+
+ARRIVARE A ISLA ASCONDIDA
+Una volta che si conosce il punto dove si  trova  l’isola  non  è  difficile
+trovarla se essa è emersa, ovvero  durante  la  notte;  durante  il  giorno,
+invece, occorre riuscire in una manovra di Osservazione  “Difficile”  (-10).
+Avvicinarsi all’isola di notte è una manovra “Difficile”, dato  che  è  buio
+ed il terreno è sconosciuto. L’isola ha  un  forma  irregolare  ed  è  quasi
+interamente ricoperta da  alghe  e  strane  piante  viscide.  Nonostante  il
+terreno sia piuttosto  irregolare,  è  possibile  scorgere  una  costruzione
+sorgere all’interno dell’isola se si riesce in una manovra di Osservazione.
+
+LE SABBIE
+
+L’isola è circondata da una vasta  zona  di  sabbia  limacciosa  (500  metri
+circa), che nasconde un pericolo  mortale:  sabbie  mobili.  Per  notare  il
+pericolo ci vuole una manovra di percezione “Estremamente Difficile”  (-30),
+oppure una manovra di Trovare Trappole “Media”. Una volta  individuate,  per
+aggirarle basta una Manovra in Movimento “Media”, altrimenti è  praticamente
+sicuro che almeno uno dei PG cadrà vittima della sabbie.
+Un personaggio immobile verrà  ingoiato  dalla  sabbie  mobili  in  circa  3
+minuti (18 round), se si muove il tempo può  scendere  considerevolmente,  a
+discrezione  del  master.  Una  volta   sotto,   applica   le   regole   per
+l’affogamento. I PG si possono salvare formando una catena o in  altri  modi
+(vedere in sede).
+
+UN INCONTRO
+Subito dopo aver  oltrepassato  le  Sabbie  ed  essere  giunti  nella  parte
+rocciosa dell’isola, il gruppo viene attaccato da un troll marino che ha  la
+sua tana in questo luogo. Il troll cercherà  di  attirare  i  PG  verso  una
+trappola [una buca profonda circa 4 metri, malamente  camuffata  (basta  una
+Manovra  Media  per  accorgersene)]  sia  chiamandoli,   sia   cercando   di
+spingerveli dentro. La tana dell’essere si trova in un  buco  poco  distante
+ma non contiene nulla se non ossa e lische di pesce.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Troll Marino    |9°  |La  |200|11(20)    |100LCl/75LBi                |+0  |
+
+LA SALITA
+I PG giungono quindi ad una parete rocciosa in cima alla  quale  è  visibile
+l’edificio dell’isola. La parete è alta circa 40m, ed è divisa  in  segmenti
+di diversa difficoltà da scalare:
+    • La prima parte è lunga circa 10 metri e sarebbe solo una rapida salita
+      facilmente scalabile (45°) se non fosse scivolosa. Occorre una manovra
+      “Media” per non scivolare giù.
+    • La seconda  parte  è  alta  quasi  15  metri  ed  è  quasi  verticale,
+      richiedendo una manovra “Difficile” (-10) per non perdere la presa.
+    • In seguito c’è una parte di soli 5 metri che però sporge a 120° gradi,
+      ed è “Estremamente Difficile” da scalare.
+    • Infine, gli ultimi 10 metri sono “Facili” (+10) da scalare.
+Nota che una Corda riduce di 2 livelli tutte le difficoltà, ma  deve  essere
+assicurata in cima in un qualche modo con una prova “Facile”  (+10)  di  Uso
+della Corda, se viene semplicemente legata ad un masso.
+
+IL TEMPIO
+In cima all’altura si trovano le rovine di un tempio  dell’Ostrica  Blu.  Si
+tratta di una  costruzione  grossomodo  circolare,  con  una  torre  (15  m)
+sormontata  dai  resti  di  una  riproduzione  in  pietra  bluastra  di  una
+conchiglia. L’edificio è circondato da una  muraglia  alta  7  metri,  molto
+rovinata e coperta di alghe e incrostazioni (come il  resto  dell’edificio).
+Il muro è crollato in più punti ed è possibile  oltrepassarlo  senza  troppi
+problemi.
+CORTILE
+Il pavimento fra il muro e l’edificio è parecchio sconnesso ed è  invaso  da
+quella che sembra una strana alga o muffa grigio  azzurrina,  che  emana  un
+odore  forte  ed  acre.  Osservando  con   attenzione   la   zona   (Manovra
+“Difficile”)  è  possibile  scovare  uno  scheletro  umanoide  completamente
+ricoperto dalla muffa, che porta ancora  con  sé  19ma  e  uno  Scudo  Medio
+Magico +5 (+25 a BD in totale).
+La  muffa  è  particolarmente  insidiosa,  perché  si  diffonde  rapidamente
+attraverso le vie respiratorie  degli  esseri  viventi,  utilizzandoli  come
+veicolo  e  divorandoli  dall’interno.  Viene  trattata  come  una  Malattia
+Polmonare di 6° livello per gli effetti vedi pag. 92 del GML.
+INTERNO
+Per accedere al tempio bisogna oltrepassare il  portone  d’ingresso,  che  è
+saldamente chiuso ed incastrato. Si apre con una manovra  “Difficile”  (-10)
+di Scassinare oppure dopo essere sfondato (15.000 danni, come esposto  nello
+Spell Law).
+Il portone da in una stanza molto larga ed alta, col pavimento  occupato  da
+un intricato mosaico azzurrino. Al centro della stanza si  trova  un  altare
+con sopra una sorta di gemma dall’aspetto malvagio, che pare  baluginare  di
+luce propria. Oltre l’altare  si  intravede  una  porta  che  da  sul  retro
+dell’edificio, mentre a sinistra si trova un’altra  porticina  in  direzione
+della torre.  Le  pareti  della  stanza  sono  coperte  di  strane  immagini
+(probabilmente a scopo  didascalico)  rovinate  dall’umidità,  corredate  da
+quelle che paiono scritte  esplicative.  Numerose  ossa  di  vario  tipo  si
+trovano sul pavimento.  L’intera  stanza  conferisce  uno  strano  senso  di
+malessere e spossamento, unito alla sensazione che in tutto  questo  ci  sia
+qualcosa di sbagliato (ogni minuto trascorso al suo interno fa perdere  1pf,
+ma è “Molto Difficile” rendersene conto).
+    ➢ Le immagini sono molto rovinate, ma alcune si conservano  ancora.  Una
+      mostra una figura incappucciata, vestita di blu, che sorge dal mare ed
+      è identificata come il “Profeta dell’Ostrica Blu”.  Un’altra  immagine
+      mostra lo stesso individuo incappucciato che distrugge i  suoi  nemici
+      con la magia ed è intitolata “L’Ira del  Signore  degli  Abissi”.  Una
+      manovra “Difficile” di Osservazione  su  quest’ultima  fa  notare  che
+      all’interno del disegno è contenuta una Runa magica di “Disruption  V”
+      (Essence, 56), che può essere asportata dal muro e  usata  normalmente
+      (l’incantesimo, tuttavia, è molto malvagio ed ha  il  10%  di  portare
+      1d10 Punti Corruzione Oscura quando viene usato).  Le  altre  immagini
+      sono troppo rovinate per essere lette.
+    ➢ La gemma, colore del sangue e grande come un  pugno  umano  chiuso  si
+      chiama Gemma  di  Gurklush  (dal  nome  del  demone  che  contiene)  e
+      contiene, appunto, un demone del IV  Confine  di  nome  Gurklush.  Può
+      identificare oggetti o fornire risposte (solo sì/no)  con  un  30%  di
+      possibilità  di  dare  la  risposta  giusta,  ad  ogni  domanda  posta
+      corrisponde un certo pericolo (Vo 48).
+    ➢ La Torre non contiene niente di interessante, le  scale  interne  sono
+      crollate e l’intera struttura è parecchio pericolante.
+    ➢  La  porta  che  da  sul  retro  è  chiusa  e  la  serratura  è  molto
+      arrugginita, il che la rende “Difficile” da scassinare.
+
+
+LA CAVERNA
+Oltre la porta si trova una rampa di scale verso il basso, che  però  rimane
+sospesa a metà sopra un profondo foro scuro nella  roccia.  Il  crepaccio  è
+profondo circa 15 metri ed è ripido e bagnato, il  che  rende  l’impresa  di
+scalarlo una  manovra  “Folle”  (-50).  Porta  all’interno  di  una  caverna
+parzialmente coperta dall’acqua.  Strane  alghe  luminescenti  pendono  alle
+pareti, illuminando debolmente la zona (una manovra di Erboristeria le  farà
+riconoscere come Gylvir, che rendono  possibile  respirare  solo  sott’acqua
+per 4 ore, valore  35mo).  La  caverna  è  anche  la  tana  di  una  viverna
+acquatica, poco incline a sopportare intrusioni nel suo territorio.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Viverna         |6°  |LA  |180|16(45)    |90LBa/60LCl/100HHo+poison   |+12 |
+|Acquatica       |    |    |   |          |                            |    |
+
+Grazie alle alghe, è possibile notare che sotto il  pelo  dell’acqua  esiste
+una sorta di corridoio naturale che conduce da qualche altra parte  (Manovra
+di Nuotare).
+In effetti, conduce  in  un’altra  camera  in  cui  sono  sparsi  dei  resti
+umanoidi con tesoro allegato: 90ma in monete  di  vario  tipo  e  conio;  un
+Bastone del Mare (con  13  cariche  di  Waterbolt,  lungo  circa  30cm);  un
+Falchion Magico della Difesa Impeccabile (+5, se usi almeno metà del BO  per
+parare puoi aggiungere un altro  +10  al  BD),  oltre  che,  ovviamente,  la
+Lancia Celeste (Lancia Magica +5, permette di comunicare con gli  elementali
+e una volta al giorno permette di lanciare “Charm Elemental I”).
+La cosa divertente è che, a questo punto, le acque cominciano  a  rialzarsi,
+costringendo tutti a tornare il più presto possibile alla nave.
+
+
+
+
+
+
+
+
+
+
+
+

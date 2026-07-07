@@ -1,0 +1,331 @@
+
+ULAN-TANG
+ARRIVARE
+Attivare la Vera Via danneggiata è una manovra “Ext Difficile” [-30] di Attunement. Se si ottiene un Successo non ci sono problemi, altrimenti i PG si troveranno a fare un piccolo viaggetto nel Vuoto prima di ritrovare l'uscita x il deserto.
+Il Vuoto è un posto poco simpatico: la pelle pare bruciare, la vista è annebbiata e respirare provoca dolore, tutte le azioni soffrono di una penalità di -10 per la vista poco chiara e di un ulteriore -10 per il dolore.
+Sotto ci sono un po' di possibili incontri nel Vuoto...
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Bestia Slog
+12°
+La
+190
+3(30)
+80MBi(x2)[Acid]+100LBi[Acid]
++8
+Divora Cervelli
+5°
+M
+70
+3(30)
+50SCl+special
++8
+Gurth
+6°
+La#
+100
+1(20)
+60Mba+Special
++4
+Fustigatore Mentale
+8°
+I
+100
+3(30)
+80Whip(2x)[Shock]+Special
++8
+Demone Acido
+8°
+I
+125
+3(20)
+80Mba[Acid](x2)
++8
+Narauk (IV)
+12°
+La
+190
+12(50)
+115LCl(2x)[Heat]/35Fbolt/Special
++4
+Hothrog (I)
+2°
+I
+60
+11(15)
+50MCl(x2)+100MBi
++0
+Gurth: Ammassi di carne, infliggono colpi critici da Alterazione Fisica (100% alterazione la vittima è trasformata in un Gurth).
+Fustigatore Mentale: esseri con due gambe, al posto del tronco hanno due lunghi tentacoli a frusta. Se colpiscono risucchiano 1d10 PM. Al posto dei colpi critici normali infliggono colpi critici da Shock.
+Demone Acido: umanoidi grassi e untuosi, secernono acido.
+Superare il Vuoto è un Minor Goal che va dal Hard in su
+NEL DESERTO
+I PG arrivano in mezzo a rovine semisepolte dalla sabbia. Legato a un palo nelle rovine c'è un uomo, che quando li vede urla per essere liberato.
+Si tratta di Hazif, un brigante di Ulan-Tang: è stato catturato da una banda di Ur-Tanoth nomadi mentre cercava di sottrarre loro merci preziose, ed è stato lasciato qui a morire.
+Se i PG lo liberano potrà fare loro da guida fino a Ulan-Tang, che dista un giorno di viaggio.
+Fare da soli non è facile: bisogna capire dove ci si trova e poi arrivare alla città (tiro di Orientamento ogni 4 ore di viaggio)
+Viaggiando nel deserto è possibile fare un incontro ogni 8 ore di viaggio, vedi la tabella sotto (parentesi=macchina) 
+Risultato
+Incontro
+1-4 (1-6)
+Razarac: i PG incappano in uno dei più temibili abitanti del deserto
+5-8 (7-12)
+Draghi e affini: 1-2 Serpenti delle Sabbie (1-60) oppure 1 Basilisco (71-00)
+9-12 (13-18)
+Predatori: 1-2 Gatti del deserto (1-50) oppure 1-10 Sciacalli (51-00)
+13-16 (19-24)
+Artropodi: 1-2 Scorpioni giganti (1-50) oppure 1-5 Scarabei Schienagiada (51-00)
+17-20 (25-30)
+Persone: un gruppo di Nomadi (1-35) o un Carovana (36-70) o un gruppo di Predoni (71-00)
+21-24 (31-34)
+Ambiente: Oasi (1-10); Animale(11-40); Tempesta Sabbia(41-60); Tempesta (61-90); Rovina (91-00)
+25+ (35+)
+Niente
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Serpente delle Sabbie
+8°
+La
+150
+4(25)
+100HBi/70HCl/90HBa
++8
+Gatto del Deserto
+3°
+M
+100
+3(35)
+80MBi/50MCl
++12
+Sciacallo
+3°
+M
+110
+3(30)
+70MBi
++8
+Razarac
+20°
+La
+250
+12(40)
+90HCl(2x)/120LBa
++16
+Basilisco
+6°
+II
+110
+12(30)
+60LPi/50LCl/Spells/Special
++4
+Scorpione Gigante
+4°
+I
+85
+12(40)
+60LPi(2x)/80LSt+poison
++12
+Scarabeo Schienagiada
+2°
+II
+65
+20(10)
+70MPi+poison
++4
+Superare il deserto e arrivare alla città è un Minor Goal Hard (Medium con la guida)
+LA CITTA'
+Un tempo una libera città commerciale dedicata a Ishtar, fu conquistata secoli or sono da stregoni adoratori di Yogh:ora è una città di incanti, assassinii e intrighi, ma anche piena di occasioni...
+Politica
+Il Gran Sacerdote di Yogh, Sazar-Gadash lo Stregone (il precedente Gran Sacerdote Azim-Mulath è stato da lui assassinato) è la massima autorità della città. Si dice che Sazar-Gadash sia figlio di un demone (c'è chi asserisce che sia figlio di Asmodeus in persona).
+Non ci sono guardie cittadine, ci si aspetta che ogni persona badi a sé stessa. Le maggiori famiglie della città fanno bene o male il cattivo tempo: hanno le loro guardie personali, i loro assassini, i loro guaritori, maghi, etc... 
+Alcune delle famiglie nobili più importanti:
+Ishra (capofamiglia: Bal-Ishra), famiglia di grandi maghi ed evocatori, decisamente temuta all'interno della città (quasi quanto la famiglia Gadash), usano Tuniche Rosse per distinguersi.
+Tyarreth (capofamiglia: Yugal-Tyarreth), famiglia famosa per i suoi preparati alchemici: i più grandi alchimisti e venditori di droghe di Ulan-Tang sono di questa famiglia, il loro tratto distintivo sono le Vesti Verde Oliva.
+Miraz (capofamiglia: Bozisha-Miraz), è risaputo che poco di ciò che accade in città sfugge agli occhi dei Miraz, famiglia di Veggenti e spie. Perfino il Gran Sacerdote si avvale dei loro consigli e si vocifera che l'assassinio del precedente Sacerdote sia avvenuto in seguito ad uno sgarbo di Azim-Mulath a un componente di questa famiglia. Vestono con ampi Mantelli Azzurri, dotati di cappucci.
+Gaib (capofamiglia: Baras-Gaib), famiglia nota per la sua abilità nel manipolare le ombre e creare illusioni, si dice che abbia stretti contatti con l'Azar-Kalish. I membri di questa famiglia vestono esclusivamente di Nero.
+e, ovviamente, i Gadash (capofamiglia: Sazar-Gadash), che ora sono in carica delle funzioni nel Tempio, sono contraddistinti da Tuniche Violacee.
+
+Altre famiglie di relativa importanza x l'avventura:
+Azhir (capofamiglia: Muhab-Azhir), famiglia di saggi e scribi, non particolarmente importante né influente, di questa famiglia faceva parte Alak-Azhir.
+Mulath (capofamiglia: Nemer-Mulath), famiglia di abili necromanti. Un tempo molto importante, caduta in disgrazia con l'ascesa di Sazar-Gadash. Indossano Tuniche Bianche e Oro.
+Mek (capofamiglia: Jerrek-Mek), famiglia di scribi rivale degli Azhir, sono stati loro a far uccidere Alak-Azhir mettendo in giro maldicenze sul suo conto.
+NOMI RANDOM:
+Maschi: Dàr, Garlan, Satark, Peshtin, Samaub, Nerret, Haskas, Mahal, Tartas, Jamak, Lesh, Mionìd, Asternak, Opar, 
+Femmine: Narfis, Tennìth, Krinda, Bethin, Marahil, Ardana, Rillia, Aranna, Jashìn, Namanna
+Commercio
+Tutto è in vendita a Ulan-Tang, ma la città è specializzata in alcuni settori: Magia, Alchimia e Piacere. Per le strade intricate della città si possono trovare bancarelle e negozi che vendono antichi tomi, pergamene, pozioni, erbe e strane creature, ma anche fumerie zeppe di drogati dallo sguardo spento e bordelli di alta (e infima) qualità.
+Oggetti magici
+Per calcolare il prezzo della pozione o pergamena in questione aggiungi il Prezzo Base a quello della tabella (che è espresso in ma). Incantesimi superiori al 10° livello non vengono venduti.
+Prezzi Base:
+Carta Runica: 2mo (per foglio)
+Pozione: 10mo
+Bacchetta (10 cariche max): 10mo
+PREZZO ADDIZIONALE
+Livello
+Tipo Oggetto
+1°
+2°
+3°
+4°
+5°
+6°
+7°
+8°
+9°
+10°
+Pergamena
+3
+10
+20
+30
+40
+60
+80
+100
+125
+150
+Pozione
+5
+15
+33
+45
+60
+90
+120
+150
+200
+225
+Bacchetta
+10
+30
+-
+-
+-
+-
+-
+-
+-
+-
+IL MERCATO NOTTURNO
+Oltre al normale mercato diurno a Ulan-Tang ne esiste anche uno che apre solo la notte. In esso si svolgono tutti quegli affari che sono reputati troppo osceni o blasfemi persino dagli abitanti di questa città corrotta per essere portati a termine di giorno. Fra le sue tende si aggirano silenziosi acquirenti mascherati che osservano con perverso interesse la stupefacente merce esposta. I negozianti sono freak, mezzi-demoni, succubi, vampiri e altre creature della Notte e la merce esposta riflette la loro natura...
+PNG
+Alnac-Creb (Magent livello 15°): capo di una società di briganti e ladri che agisce sia in città che nel deserto, in pratica è il superiore di Hazif
+Raafa as-Keeme (Bardo/Houri livello 10°): gestisce uno dei più noti bordelli della città (Il Giardino dei Piaceri).
+Jasshar-Ishra (Evocatore livello 10°): rampollo non riconosciuto della famiglia Ishra (pare sia mezzo demone e mezzo umano), gestisce una fumeria nella zona più malfamata della città (il Cuscino di Seta). Porta sempre con sé una pesante spada demoniaca... è assuefatto a numerose droghe.
+Demoni “da scambio”--> Shaddar (Daeruk, II tipo, appare come una silhouette d'ombra, Evil chan fino al suo liv), oppure Gorgathuel (Hothedel, III tipo, “elfo” nero con capelli argento)
+Ordùn-Suljath --> guaritore
+Muhab-Azhir (Mentalista livello 8°, capofamiglia degli Azhir) e Lahissia (Enchanter livello 4°, la sua giovane moglie): custodiscono ancora le memorie di Alak-Azhir (il fratello di Muhab). Sanno che furono i Mek i responsabili della morte di Alak e li vogliono veder soffrire. Racconteranno al gruppo tutto ciò che sanno ma vogliono che loro facciano qualcosa loro. Sanno che loro figlio Anìgh-Mek sta per sposare Elish, la giovane figlia (ha 13 anni) di un ramo secondario della famiglia Tyarreth. I Mek sono soliti inviare doni alla giovine per ingraziarsi i Tyarreth e comperarsi così le nozze con la casata prestigiosa. Ciò che i PG devono fare è sostituire il prossimo regalo con una scatola che gli danno gli Azhir (che li avvisano di non aprirla per nessun motivo, se la aprono vengono attaccati da ciò che contiene, ovvero una melma dimensionale di nome Sligguth)
+Califa la Strega (Succube): Si trova al Mercato Notturno, conosce un rituale per evocare e vincolare un Incubo. Si tratta di un rito perverso e foriero di corruzione, che necessita del corno di un unicorno e di una vergine. Nel rito la vergine deve essere sacrificata con il corno e il suo cuore offerto al demone. Il possessore del corno potrà quindi evocare una volta al giorno l'incubo e comandarlo a piacimento (chi compie un rituale tanto blasfemo guadagna 3d10PC). Califa possiede un corno di unicorno, ma non lo venderà per meno di 100mo o qualcosa di equivalente (per esempio una bella chiavata con il pirla che crederà di aver fatto un affare --> dopo poche settimane di gestazione darà alla luce un simpatico figlio demone, col 70% di possibilità di restarci,50% se è un castatore corrotto).
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Guardia Orchetto
+6°
+M
+100
+15(30s)
+90Sw/90LBw
++8
+Guardia Ur-Tanoth
+10°
+M
+150
+4(40)
+130GScim/90MCl
++12
+Grande Ragno
+3°
+M
+30
+3(30)
+20SPi/40SSt+poison
++8
+Ragno Gigante
+8°
+I
+160
+4(40)
+70LPi/75LSt+poison
++8
+Ragno Enorme
+20°
+La@
+350
+12(60)
+120HPi/90'LHo+poison/Spells
++8
+Sligguth
+12°
+La@
+130
+4(10)
+90LGr[Nether]
++4
+Califa IV
+12°
+M
+140
+3(50)
+100Dag+poison/Spells/Spec
++16
+Daerauk II
+4°
+I
+60
+11(15)
+60we/Spells
++12
+Hothedel III
+7°
+La
+90
+4(50)
+130we/120we
++12
+Locazione altre tre Reliquie
+Terra: Sepolto in una rovina xebechana, secoli fa fu ritrovato da un avventuriero, che lo vendette in seguito a Nemelatekh, un taumaturgo del regno di Korish che pare lo usò per forgiare numerosi oggetti di potere. In teoria, il martello è sepolto con lui, ma nessuno conosce l'esatta ubicazione della sua tomba, che è segreta ed è stata rivelata solo ai suoi discendenti. Pare però che la sua famiglia sia scomparsa con Mubafer, famoso arcimago scomparso misteriosamente. Pare che il veggente Faazhi-Gaib abbia fatto ricerche su di lui.
+Acqua: la reliquia dell'Acqua è ritenuta una delle più difficili da recuperare: secondo le indicazioni si troverebbe su un'isola nelle vicinanze del Principato di Cartosa ma, a quanto pare, l'isola in questione è affondata secoli fa...
+Luce: Anche l'artefatto della Luce fu ritrovato, molto tempo fa nell'Impero Letio. Purtroppo, pare che finì nelle mani di un ordine particolarmente integralista di preti di Mithra (S. Septimum), che non sopportavano la dualità dell'oggetto. Tramite un lungo rituale separarono l'essenza d'Ombra da quella di Luce, nascondendola. La lama luminosa fu in seguito perduta durante il disfacimento dell'Impero, le ultime notizie su di essa la collocano nel lontanto Qi-Long, mentre pare che il seme d'Ombra della spada sia conservato in un monastero non troppo distante da Armora.
+ULAN-TANG, PARTE 2
+Faazhi-Gaib (Veggente Malvagio livello 10°): un vecchio veggente della casata Gaib, possiede il cubo del sangue di Hudemia... sa dell'arrivo dei PG in città e vuole conoscerli. Il veggente sa dove si trova Mubafer, e lo rivelerà in cambio del sangue.
+Mubafer, figlio del taumaturgo Nemelatekh, è rinchiuso in una prigione dimensionale nelle Terre dei Sogni. A quanto pare fu Azhaara, la sua amante a rinchiudervelo.
+Trovare Faazhi e farsi rivelare le info: Minor Very Hard Goal per tutto il party.
+Raafa as-Keeme (Bardo/Houri livello 18°): gestisce uno dei più noti bordelli della città (Il Giardino dei Piaceri). In realtà è assoldata all'Azhar-Kalish, conosceva Sigurd e pensa di riconoscere lui in Isi. Se Isi si gioca bene le carte può spillargli qualche conoscenza su Sigurd, per esempio il fatto che da giovane ha studiato a Ulan-Tang e che aveva un qualche tipo di relazione con Raafa... la donna può anche portarlo da Adhal-Kibreeshi, che può dare indizi sulla natura delle Rune. In più può regalargli il Libro delle Ombre Riflesse (accesso a Lesser Illusions), lasciato a Ulan-Tang da Sigurd anni prima.
+Scoprire info sul passato di Sigurd: Minor Medium Goal
+Ottenere il libro: Minor Medium Goal
+Adhal-Kibreeshi (chiamata anche “la Signora Sussurrante” dagli affiliati all'Azhar-Kalish o dagli adoratori di Yogh, un altro epiteto è “la Morte Strisciante”). Conosce molte cose e potrebbe rivelare qualcosa di utile se adeguatamente motivata...
+Farsi Ricevere da Adhal: Minor Very Hard Goal
+Ottenere info dalla ragna: Minor dal Very Hard in su Goal
+Enorme ragno gigante, che si annida nella città di Ulan-Tang. Per molti è un avatar di Yogh. 
+Nome
+Lvl
+Tag
+PF
+TA (BD)
+BO
+Iniz
+Adhal-Kibreeshi
+35
+La@
+530
+12(60)
+195HPi/165LHo/Poison/Spells
++12
+Conosce le seguenti liste fino al 50°, con una skill di +50 per ognuna di esse:
+Essence's Perceptions, Detecting Ways, Spirit Mastery, Lesser Illusions, Arachnamancery, Dispelling Ways, Invisible Ways.
+PPs: 105
+GALADAN

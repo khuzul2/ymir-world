@@ -1,0 +1,76 @@
+
+ACCIAIO E OSCURITA’
+
+ATTACCO DI BRALG
+
+    - Prima Ondata: Stormi di Pipistrelli
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Stormo di       |15° |M#  |100|1(55)     |100Tiny                    |+12 |
+|Pipistrelli     |    |    |   |          |                           |    |
+
+Lo stormo è immune agli incantesimi mentali e ai colpi critici che non  sono
+inflitti da attacchi ad area. Gli incantesimi che hanno  un  solo  bersaglio
+sono di solito inefficaci,  dato  che  colpiscono  un  solo  un  pipistrello
+(fanno al massimo 5 danni). Contro gli attacchi dello sciame contano solo  i
+bonus al BD derivati dalla magia, armatura e metà dello scudo.
+
+    - Seconda Ondata: Cavalcalupi
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Goblin          |3°  |M   |50 |13(25s)   |70Spear/60SSword           |+8  |
+|cavalcalupi     |    |    |   |          |                           |    |
+|Lupo            |3°  |M   |110|3(30)     |65MBi                      |+4  |
+
+    - Terza Ondata: Hobgoblin
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Hobgoblin       |4°  |M   |75 |15(25s)   |90Sw/90LBw                 |+4  |
+|Arcieri         |5°  |M   |70 |10(30)    |100LBw/70Sw                |+6  |
+
+    - I capi-orda: Bralg e Zarg
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Bralg           |18° |M   |350|15(70s)   |160Sw+Shld/120Xbow         |+6  |
+|Zarg            |18° |M   |150|9(35)     |120Sw(2x)/100ThrwnBld/Spec |+10 |
+
+Bralg è un guerriero temibile, usa uno stile sword+shield  con  le  seguenti
+manovre:
+    - Blocco
+    - Attacco Letale
+    - Disarmare
+È anche in grado di usare Forza Adrenalinica (bonus: 95)
+
+Il suo scudo attacca come un Morningstar!
+
+Zarg è suo fratello, un assassino folle che combatte con 2 lame. Se fa  solo
+un attacco ha un +60 al BD.
+Ha un pugnale magico da lancio +20, che ritorna in mano al proprietario.
+
+
+Sconfiggendo tutti guadagnano 100 Hobgoblin e 100 goblin su lupi.
+
+
+
+
+
+
+
+ASSALTARE TOR-KRAGDIN
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Lord Durga      |20° |La @|400|20(80)    |180Wh(2D)                  |+4  |
+|DreadWing       |10° |La  |150|4(20)     |100MCl/105MBi              |+12 |
+|Ogre da Guerra  |8°  |La  |160|15(10)    |70We/100LBa                |+8  |
+|Capo Ogre       |12° |La  |200|17(20)    |150we[2D]/120LBa           |+8  |
+|Dreugh          |8°  |I#  |140|15(30)    |110WH/Special              |+0  |
+|Gigante di      |10° |SL  |350|12(60)    |120We[4D]/90ro/Spells      |+8  |
+|Montagna        |    |    |   |          |                           |    |
+|Gogonaur        |25° |SL  |300|20(50)    |180We(3D)[Cold]/Spells/Spec|+8  |
+
+Dreugh: nani non morti, risucchiano 3 punti Co/rnd  a  chi  fallisce  un  TR
+Vigore, i loro occhi fiammeggianti sono lievemente ipnotici:  TR  Mentalismo
+4° livello (8° per un nano) per non venir paralizzati (ci si sveglia  se  si
+è colpiti, una volta risvegliati o colpiti non funziona più), i nani  uccisi
+risorgono come Dreugh.
+

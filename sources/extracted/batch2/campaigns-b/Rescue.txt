@@ -1,0 +1,151 @@
+
+SALVARE TELESIUS
+
+
+I PG hanno tempo fino al 30 del Falco x scoprire dove si  trova  Telesius  e
+salvarlo.
+
+DOPO LA NOTTE:
+      - Baudolino e Yonker vengono  visitati  dal  capitano  Artonius,  che
+        porta loro dei documenti in nanico trovati al molo (sono  vostri?).
+        Si tratta dei piani per la costruzione della macchina di Nairin ( è
+        una macchina che sembra avere lo scopo di risucchiare il  sangue  e
+        le anime di una serie di persone ad un corpo morto messo al  centro
+        della macchina stessa.  Artonius accenna anche ad un amico che  era
+        assieme a Telesius nella notte  iniziale  (un  gentiluomo  di  nome
+        Leonard).
+      - Isidoro riceve la lettera e si incontra con Surya
+      - Drusilde si risveglia nelle fogne vicino al cimitero.
+
+EVENTO
+PG viene contattato dal Tal Tanoth  Rast,  che  gli  dice  che  se  vogliono
+incontrare Sharky devono andare quella sera  al  vecchio  tempio  di  Mithra
+abbandonato fuori dalle mura della città (si trova a circa un  quarto  d’ora
+di camminata nordest della città. Devono portare  con  loro  i  progetti  di
+Nairin.
+
+Vedi la mappa x l’incontro serale.
+Leonard chiede che gli vengano consegnati i progetti, appena  li  prende  si
+teleporta via.
+Wulfgar molla i lupi contro i PG e  resta  indietro  a  tirare  con  l’arco,
+appena il combattimento va male fugge.
+Sharky rimane e combatte fino al KO
+Gli assassini e i lupi combattono.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Leonard (V)     |15° |La# |120|2(90)     |130Sw[Cold]/90MBi+special/Sp|+12 |
+|                |    |    |   |          |ells                        |    |
+|Sharky          |8°  |M   |120|13(20)    |110Man/110DartS             |+6  |
+|Wulfgar         |10° |M   |105|13(25)    |130Sw(2x)/110LBow           |+5  |
+|Lupo            |3°  |M   |110|3(30)     |65MBi                       |+4  |
+|Assassino       |5°  |M   |90 |9(20)     |90Swrd                      |+8  |
+
+Ci sono  vari  modi  x  procedere  e  scoprire  dove  è  tenuto  prigioniero
+Telesius:
+      - I PG potrebbero riuscire ad ottenere quest’informazione da  Leonard
+        stesso, ma è molto difficile che egli riveli loro informazioni tali
+      - Interrogando qualche sopravissuto (come Sharky)
+      - Seguendo le tracce di Wulfgar (ma è una manovra “Folle” [-50])
+      - ???
+
+ Telesius è tenuto prigioniero vicino al villaggio  di  Keswig,  un  piccolo
+paese di pescatori a circa 100km da Armora, in una zona paludosa sulle  rive
+del Telendrium. Sharky e i suoi uomini arrivavano al paese  in  barca,  dove
+scaricavano le merci che Leonard, il loro capo, prendeva  e  portava  dentro
+la palude, verso alcune rovine.
+      - Una manovra di Conoscenza Regione Armora a difficoltà “Difficile” [-
+        10] rivela che in quella zona  dovrebbero  esserci  i  resti  della
+        Tomba di Samoth, dove fu sepolto Samoth, un potente necromante.
+      - Una manovra di Storia “Facile” [+20] rivela che Samoth, 35 anni fa,
+        prese parte al Complotto dei 5.
+
+Ci sono diversi modi  per  raggiungere  Keswig  (l’esatta  ubicazione  della
+tomba è sconosciuta e non è riportata su  nessun  libro).  I  più  probabili
+sono:
+      - Via Fiume: con una barca servono due giorni per risalire  il  fiume
+        fino al villaggio
+      - Via Terra: seguendo il corso del fiume ci  vogliono  tre  giorni  a
+        piedi e due giorni a cavallo.
+
+AMBUSH
+Wulfgar  tende  un’imboscata  x  liberare  Sharky  e  uccidere  i  PG,   lui
+inizialmente rimane nascosto e attacca con l’arco.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Wulfgar         |10° |M   |105|13(25)    |130Sw(2x)/110LBow           |+5  |
+|Lupo            |3°  |M   |110|3(30)     |65MBi                       |+4  |
+
+
+KESWIG
+I PG arrivano al villaggio e lo  trovano  deserto,  le  case  sono  vuote  e
+paiono abbandonate da almeno un paio di  settimane.  L’unico  uomo  presente
+nel villaggio è Marcus:  un  vecchio  folle  che  è  riuscito  a  fuggire  a
+Leonard.
+Il vecchio Marcus inizialmente osserva i PG da  lontano,  nascondendosi.  Se
+riescono a trovarlo e a parlargli farfuglierà la storia del villaggio:
+       - Gli abitanti del villaggio sono stati presi prigionieri da  Leonard
+         e portati a nord, dentro la palude, alla tomba di Samoth.
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Ghoul           |3°  |I#  |50 |4(20)     |50SCl+spec                  |+6  |
+
+Ghoul: TR Corpo difficoltà 90 oppure 1-5 danni  al  giorno  (no  guarigione)
+fino alla morte (ritorno come ghoul)
+
+TOMBA
+       - La porta di pietra  della  tomba  non  è  chiusa  a  chiave  ma  il
+         corridoio subito dopo è protetto da una  trappola  (Manovra  “Molto
+         Difficile” [-20] individuarla) un personaggio che  ci  cade  dentro
+         può fare una manovra “Estremamente Difficile” [-30]  di  Acrobatica
+         per evitarla, altrimenti cade e subisce un attacco  da  caduta  +60
+         (20m di caduta) e 1d5 di colpi critici “C” da Punta.
+       - La prima stanza è  invasa  dal  sottile  e  dolciastro  fumo  degli
+         incensieri, che è velenoso e può provocare i  seguenti  effetti  in
+         casi di fallimento TR:
+               ▪ 90+: nessun effetto
+               ▪ 75-89: giramento di testa: -10 azioni x 1d10 minuti
+               ▪ 30-74: allucinazioni visive
+               ▪ 0-29: come
+               ▪ -1 o meno: morte
+       - La seconda  stanza  ospita  un  singolo  sarcofago  di  pietra:  il
+         coperchio  è  aperto  e  gettato  a  terra,  con  una  manovra   di
+         Osservazione si nota  che  probabilmente  il  sarcofago  era  stato
+         sigillato, su un fianco della tomba c’è scritto un  nome:  Mekrull,
+         una manovra “Difficile”  [-10]  in  Storia  rivela  che  si  tratta
+         dell’apprendista di Samoth.
+       - I corridoi sono protetti da  due  trappole  ciascuno:  sono  “Molto
+         Difficili” [-20] da individuare e infliggono 1-5 attacchi da Lancia
+         con un BO di +50 a chi ci passa sopra attivandole (sono attivate da
+         una piastrella a  pressione  subito  prima,  “Difficile”  [-10]  da
+         disattivare).
+       - Nella terza stanza fanno la guardia Mekrull redivivo come scheletro
+         e 3 guerrieri scheletrici. Mekrull può contare  su  alcuni  oggetti
+         magici e poteri speciali, vedi sotto.
+       - In quest’ultima stanza è custodita la  tomba  di  Samoth.  Leo  sta
+         cercando di riportarlo alla non vita  restaurandone  il  corpo  col
+         macchinario, ma ha bisogno anche del potere magico di qualcuno come
+         Telesius x riuscirvi.
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Guerriero       |5°  |I#  |100|13(20)    |60Sw+drain                  |+8  |
+|Scheletro (III) |    |    |   |          |                            |    |
+|Mekrull (IV)    |10° |La# |142|1(45)     |105MS+drain/spell/40Fbolt/Sp|+8  |
+|                |    |    |   |          |ec                          |    |
+|Leonard (V)     |15° |La# |120|2(90)     |130Sw[Cold]/90MBi+special/Sp|+12 |
+|                |    |    |   |          |ells                        |    |
+
+Gli Scheletri risucchiano 3 punti Co al round dopo 3 round  a  chi  fallisce
+un TR Corpo con difficoltà 100 (Mekrull fa lo stesso a chi ne  fallisce  uno
+con difficoltà 120).
+Mekrull inizialmente attacca utilizzando  la  lista  Death  Mastery,  oppure
+Wounding (vedi sotto), oppure può sparare un dardo di fuoco col suo  anello.
+Poi usa il suo morning star magico:
+Il Martello di Mekrull  (magico  +15,  una  volta  al  giorno  può  lanciare
+“Disorientamento” su chi colpisce ( -25  a  Percezione  e  -5  Iniziativa  x
+1rnd/10 fallimento; difficoltà: Spirito 110).
+Il suo anello, l’Anello delle Fiamme, può lanciare un Firebolt al giorno.
+
+Per i poteri e l’equip di Leo vedi i NPC.
+

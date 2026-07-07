@@ -1,0 +1,138 @@
+
+CAPITOLO I: Sigil
+LA CADUTA DI GOG:  Cattive  notizie  per  i  seguaci  di  Gog:  il  dio  del
+Tradimento è stato sconfitto dopo che le sue trame per allearsi con gli  dei
+del caos contro la legge sono state scoperte. Il dio  dal  suo  reame  nella
+Gehenna è stato bandito in Cathrys,  la  seconda  cerchia  del  piano  delle
+Carceri. Ora occupa un reame chiamato “Prigione della  Malizia”già  occupato
+da  lui  in  passato.  Alcuni  affermano  che  il  dio   abbia   abbandonato
+volontariamente il suo reame per tornare a quello vecchio, tanto che i  suoi
+poteri non paiono sminuiti dalla sconfitta.
+Sfortunatamente per i suoi seguaci, i Baatezu, un tempo alleati delle  forze
+di Gog, non hanno preso bene questo  voltafaccia  e  ora  portano  un  certo
+risentimento nei confronti dei suoi seguaci. Girovagando  per  il  Quartiere
+Inferiore i PG potrebbero avere noie da qualche Abishai.
+
+QUARTIERE DELLA SIGNORA
+Luoghi di Maggiore Interesse: Tribunali, Prigioni,  l’Armeria,  le  Baracche
+Cittadine
+
+PALAZZO DEL GIULLARE: la più grande costruzione di tutta Sigil,  usato  come
+territorio neutrale d’incontro. Interno labirintico e misterioso.
+
+LA STRADA DEI TEMPLI: questa parte del Quartiere è nota per contenere  molti
+dei templi di Sigil, iniziando  col  Gran  Tempio  Abissale  fino  al  Sacro
+Tempio dei Reami Celesti. Se cerchi un  tempio,  probabilmente  lo  troverai
+qui. (Ralkir ( sac gog)
+
+QUARTIERE DEGLI IMPIEGATI
+Luoghi  di  Maggiore  Interesse:  Sala  dei  Discorsi,  Sala   delle   Feste
+Pubbliche, Sala dei Documenti
+
+QUARTIERE DELLE GILDE
+Luoghi di Maggiore Interesse: il Grande Ginnasio
+
+QUARTIERE DEL MERCATO
+Luoghi di Maggiore Interesse: il Gran Bazar
+
+LA FORGIA DELLE RUNE DI ILYMUTH: Ilymuth è un potente mago  Urloc  (umanoidi
+dalla pelle blu) che si presta a incidere delle Bladerunes dietro  compenso.
+Il costo è di 200+(liv inc x20) mo, indicativamente.
+
+QUARTIERE INFERIORE
+Luoghi di Maggiore Interesse: la Fonderia, il Tempio in Rovina
+
+IL RIPOSO DEL BERSERKER: il locale è dove è sempre stato e  il  proprietario
+è sempre Thomen.
+Il locale ha prezzi modici e Thomen può fornire qualche dritta ai PG.
+LA  TORRE  D’ASSEDIO:  Un’enorme   torre   d’assedio   di   metallo   si   è
+materializzata in mezzo al Quartiere Inferiore qualche tempo fa, nessuno  sa
+come e pare non vi sia modo per entrarvi o scoprire cosa contiene.
+BRINDISI DEL DEMONIO:
+
+ALVEARE
+Luoghi di Maggiore Interesse: il Mortorio, il Cancello
+
+LA TAVERNA  DEL  CADAVERE  ARDENTE:  è  probabilmente  la  migliore  taverna
+dell’Alveare, il suo gestore si chiama Gibb. Al centro della taverna c’è  un
+condotto permanente per il piano del Fuoco. Una volta conteneva un  uomo  ma
+ora sembra sparito.
+IL BEHEMOTH: è un enorme lucertolone che dorme in  un  angolo  dell’Alveare,
+niente pare in grado di svegliarlo o danneggiarlo. Molti  si  contendono  il
+terreno vicino ad esso, dato che fornisce riscaldamento gratuito.
+
+SOME FIENDS
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                           |Ini|
+|                |    |    |   |          |                             |z  |
+|Quinta Cerchia  |18° |La# |300|8(50)     |150HBa+200HCr/140We(2D)      |+8 |
+|(B)             |    |    |   |          |                             |   |
+|Gogonaur Nobile |17° |SL  |250|15(60)    |160We(3D)[Element]/Spells/Spe|+12|
+|(B)             |    |    |   |          |c                            |   |
+|Sword Demon (B) |20° |La# |300|12(90)    |210We(2D)(2x)                |+16|
+|Storm Demon (B) |25° |La  |275|1(80)     |150We(x2)/spells             |+16|
+|Succubus (T)    |12° |M   |140|3(50)     |100We/Special                |+8 |
+|Demon Scourge   |30° |La# |250|20(90)    |100We(3D)/Spec               |+16|
+|(T)             |    |    |   |          |                             |   |
+|Nightmare (-)   |7°  |La  |160|4(40)     |100MTr[Heat]                 |+8 |
+
+
+
+SOME CELESTIAL
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                           |Ini|
+|                |    |    |   |          |                             |z  |
+|Centaur Champion|15° |La# |190|17(70)    |170we(2D)/150LBa/Spells      |+12|
+|Winged Champion |20° |La  |220|14(80)    |200We(2D)/Spells/Spec        |+12|
+|Noble Champion  |30° |La# |260|17(90)    |250We(3D)/Spells/Spec        |+16|
+|High Champion   |40° |SL@ |350|17(100)   |200We(4D)/Spells/Spec        |+16|
+
+IL BAMBINO PRODIGIO
+Dove i PG scoprono sulla loro pelle a cosa porta fidarsi di  un  Tanar’ri  e
+che se qualcosa è proibito, probabilmente c’è  una ragione.
+
+In Arborea, 1° girone (Olimpo), in un luogo chiamato  Nascita  di  Afrodite,
+si dice sia nato un bambino (Sylvius) con un destino particolare: quello  di
+diventare uno dei più grandi “playboy” mai esistiti, in grado di muovere  il
+cuore persino di demoni e celestiali.
+La Grande Regina delle Succubi Lilith ha  in  mente  di  utilizzarlo  per  i
+suoi piani e  ricompenserà  abbondantemente  chi  delle  sue  figlie  glielo
+porterà.
+Eleshtar, una succube abbastanza influente, vuole guadagnarsi  ulteriormente
+i favori di Lilith e contatta i PG per usare  i  loro  servigi.  Offre  loro
+40000 mo perché loro si rechino ad Arborea (con dei travestimenti magici  da
+lei preparati) e rapiscano il bambino. Dovranno poi  portarlo  da  lei,  nel
+reame di Lilith (il Giardino dei Piaceri Proibiti)…
+GIARDINO DEI PIACERI PROIBITI:  il  reame  di  Lilith  ha  l’aspetto  di  un
+colossale palazzo d’oro (si estende a vista d’occhio).
+Regole Speciali: nessuno vestito (comprese  le  armature)  può  esistere  in
+questo Reame, quando ci si entra essi spariscono  (ricompaiono  all’uscita),
+quindi tutti hanno TA1. Inoltre, a causa  dei  feromoni  presenti  nell’aria
+tutti si sentono incredibilmente eccitati (TR necessari per non cader  preda
+della lussuria del reame). I TR contro Charme e simili sono fatti a -30.
+Abitanti: Succubus, Incubi e qualche  Marilith,  oltre  a  pochi  demoni  di
+passaggio e i mortali intrappolati dal reame.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                           |Ini|
+|                |    |    |   |          |                             |z  |
+|Succubus (T)    |12° |M   |140|3(50)     |100LBi/Special               |+8 |
+|Succubus        |20° |La@ |180|3(60)     |150LBI/Special               |+12|
+|Maggiore        |    |    |   |          |                             |   |
+|Grande Succubus |30° |La@ |250|3(90)     |200LBi/Special               |+16|
+|Marilith        |25° |SL@ |280|20(50)    |180we(6x)/200HGr/spec.       |+12|
+|Nightmare (-)   |7°  |La  |160|4(40)     |100MTr[Heat]                 |+8 |
+
+Nota: tutte le Succubus hanno accesso alle liste della Houri  fino  al  loro
+livello.
+MARILITH: le Marilith sono le strateghe Tanar’ri della Guerra di Sangue.  Si
+muovono strisciando su una grossa coda da serpente, sormontata da  un  busto
+di donna. A parte la coda  il  loro  aspetto  avrebbe  una  notevole  grazia
+femminea se non fosse per le sei  braccia  muscolose  di  cui  sono  dotate.
+Attaccano utilizzando un’arma per mano (solitamente ogni arma ha  almeno  un
+incantamento minore) e stritolando le proprie  vittime  con  la  loro  coda.
+Conoscono le liste del Flusso, del Mentalismo e dell’Essenza Malvagie.  Sono
+immuni agli incantesimi mentali, hanno un bonus di +70 ai  TR  e  al  BD  di
+incantesimi non Arcani.
+
+
+

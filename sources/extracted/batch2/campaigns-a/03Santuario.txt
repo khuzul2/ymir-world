@@ -1,0 +1,60 @@
+
+Santuario della Cabala
+
+La Cabala Purpurea conduceva le proprie riunioni poco fuori città, in  mezzo
+a un boschetto poco a nord di T’nyss. Non aveva scelto questo luogo a  caso:
+si tratta del posto dove si trova l’ingresso alla prigione  di  Alastor.  Il
+boschetto   nasconde   infatti   delle   piccole   rovine,    dall’apparenza
+insignificante, e le rovine nascondono un portale.
+La Cabala aveva preso particolari  precauzioni  per  nascondere  il  proprio
+Santurario, tuttavia, dopo aver  messo  le  mani  sui  nomi,  proteggere  il
+Santuario ha perso senso, per cui  al  momento  rimane  poco  delle  vecchie
+protezioni.
+
+Rimangono alcuni Ragni Giganti, messi dal Biomante a guardia  del  boschetto
+ed alcune trappole.
+
+TRAPPOLA 1: all’entrata delle rovine è posta una semplice trappola a  pozzo,
+nascosta nel terreno (manovra Media per scorgerla).  Chi  ci  finisce  sopra
+può fare una manovra Molto Difficile di Acrobazia per saltare via in  tempo,
+altrimenti cade per 6 metri.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                         |Iniz|
+|Ragno Minore    |3°  |M   |30 |3(30)     |40SPi/60ST+Poison          |+8  |
+|Ragno Maggiore  |8°  |I   |160|4(40)     |90LPi/100LSt+Poison        |+8  |
+
+Il veleno dei ragni incapacita, di solito i  ragni  cercano  di  assicurarsi
+qualche preda e la trascinano  nel  loro  nido,  non  combattono  fino  alla
+morte. Per questo i minori vanno di Offensive Strike  (+6  BO,  -6  a  BD  e
+Crit) per  cercare  di  ottenere  un  critico,  a  meno  che  non  siano  in
+difficoltà. Se sono disperati i minori usano  Sacrifice  Strike  (+18BO,  +6
+Crit, -21 DB, -6 Iniz).
+I ragni Maggiori, invece, tendono ad attaccare normalmente.
+
+Il nido contiene in tutto 8-12 ragni minori e 1-3 Maggiori  (qui  combattono
+fino alla morte), oltre che i resti di alcune  passate  vittime,  85ma,  una
+pozione  di  levitazione,  una  bacchetta  scarica  e  uno  strano   amuleto
+metallico rappresentante una faccia lunare.
+
+Dentro il Santuario
+
+Risulta evidente che le rovine  erano  frequentate.  In  particolare,  i  PG
+noteranno una pesante porta di legno e ferro, che  pare  essere  un’aggiunta
+piuttosto recente. La porta è fatta in modo da sembrare una faccia, con  una
+bocca e due occhi composti da una sorta di palle di ferro.
+
+TRAPPOLA 2: la porta è chiusa a chiave ma non si vede alcuna toppa.  Invece,
+si nota quello che sembra un meccanismo di chiusura  a  combinazione.  Serve
+una manovra di Scassinare/Operare Meccanismi  per  aprirlo.  Se  la  manovra
+fallisce o la porta viene aperta in altro modo, fa  scattare  una  trappola:
+gli “occhi” della porta esplodono, causando un  attacco  da  Fireball  (Fire
+tipo II BO 50) a tutti quelli nella stanza.
+
+Oltre di essa si trova la stanza contenente il portale: un  arco  di  pietra
+nera con incise rune simili a quelle dei libri, che brillano  debolmente  di
+luce bianco/argentea. Un alone di luce sempre grigio-bianca, largo circa  un
+metro, circonda il portale.
+La luce è innocua, anche se da una sensazione spiacevole, ed il  portale  si
+attiva semplicemente toccandolo.
+
+

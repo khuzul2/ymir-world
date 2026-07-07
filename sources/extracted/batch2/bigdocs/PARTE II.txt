@@ -1,0 +1,179 @@
+
+PARTE II: VIAGGIO CONTRO IL TEMPO
+Dopo una giornata alla deriva i  PG  approdano  su  un’isoletta  coperta  di
+palme.  Si  tratta  di  un’isola  veramente  molto  piccola   (è   possibile
+circumnavigarla a piedi in una giornata), non segnata  sulle  carte,  più  o
+meno all’altezza di Nevarrez. Le acque intorno all’isola sono  infestate  da
+piccoli  squaletti,  come  scoprirà  chiunque   sia   tanto   avventato   da
+bagnarcisi.
+Se non vogliono morire su quest’isola i PG  devono  impegnarsi  per  tornare
+sulla terra ferma. Riparare la  scialuppa  è  probabilmente  la  scelta  più
+sensata da fare, ma occorre legname  (facilmente  reperibile  sull’isola)  e
+qualche cosa con cui costruire le vele (buone idee = PX), oltre al cibo  per
+il viaggio.
+Un’altra  sfida  è  data  dai  Ragni  Giganti   che   popolano   l’isoletta.
+Normalmente si nutrono di uccelli e piccoli  mammiferi,  ma  una  variazione
+nella loro dieta è più che ben accetta. In  tutto  sono  tre  piccoli  e  un
+giovane adulto, abitano nel mezzo della foresta  di  palme.  Un  personaggio
+con conoscenze di erboristeria che cerca sull’isola  può  fare  una  manovra
+“Difficile”  se  ha  successo  trova  1-5  dosi   di   Anserke   (ferma   il
+sanguinamento in 3 rounds, non ci si può muovere).
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Piccolo Squalo  |2°  |M   |90 |4(40)     |60MBi                       |+12 |
+|Ragno Gigante   |3°  |M   |40 |3(30)     |40SSti+poison               |+8  |
+|Grande Ragno    |5°  |I   |130|4(40)     |55LPi/60LSt+poison          |+8  |
+
+
+
+INIGO LO SBARBATO
+Dopo qualche giorno sull’isola (oppure quando salpano con una zattera) i  PG
+vengono accolti a bordo dell’Indomabile, una  piccola  nave  capitanata  dal
+mezz’elfo Inigo detto lo Sbarbato.
+La ciurma dell’Indomabile si autodefinisce “un gruppo di  liberi  cacciatori
+di tesori che si batte per la libertà dei popoli di Cartosa”, in pratica  si
+tratta di un gruppo di pirati, ma non dei peggiori. Inigo e  i  suoi  uomini
+credono fermamente di lottare per  garantire  ai  cartosani  un  futuro  con
+leggi meno oppressive. In particolare odiano la Marina e ancor più  le  Vele
+Rosse, che vedono come simbolo dell’oppressione. Se assaltano  qualche  nave
+lo fanno solo con quelle della Compagnia Commerciale di Cartosa, sempre  per
+i loro motivi di ribellione. Ovviamente  fanno  tutti  parte  del  movimento
+della Resistenza.
+Accoglieranno i naufraghi a bordo dell’Indomabile, a meno che  non  facciano
+cose stupide, e si dirigeranno verso Ombra del Mar, un porto nascosto a  sud
+di Nevarrez conosciuto solo dai pirati e simili.  Durante  il  viaggio  (che
+dura 2-3 giorni) avranno tempo di conoscersi meglio.
+
+OMBRA DEL MAR
+Ombra del Mar è un  piccolo  insediamento  portuale,  situato  in  una  baia
+nascosta a sud di Nevarrez. È un porto franco  frequentato  per  lo  più  da
+ribelli, pirati, avventurieri e contrabbandieri. Nonostante sia  frequentata
+da gente di questa risma, Ombra del Mar è un  posto  abbastanza  tranquillo,
+dato che vi vige una sorta di accordo di non belligeranza.
+La cittadina è sovrastata da una  grande  torre  bianca,  la  residenza  del
+signore della città: Iago Ximen, un potente mago che ha  rinnegato  i  Manti
+Azzurri e si è dato alla macchia.  L’intera  città  è  posta  da  lui  sotto
+un’illusione perenne per cui venendo dal  mare  è  impossibile  distinguerla
+dal resto della costa.
+Ombra del Mar è piena di quelle cose che possono  cercare  i  lupi  di  mare
+sulla terra ferma: taverne e locande dove riposarsi e,  volendo,  procurarsi
+qualche nuovo ingaggio; un piccolo mercato dove scambiare le  proprie  merci
+con quelle degli altri (e dove nessuno fa domande  sulla  provenienza  delle
+merci stesse) e un  posto  sicuro  dove  rifugiarsi  quando  le  altre  zone
+civilizzate iniziano ad essere troppo “scomode”.
+RICERCATI: i PG scopriranno presto  che  ora  sulle  loro  teste  pende  una
+taglia di 20mo ciascuno, le accuse sono quelle di cospirazione ai danni  del
+Principato e pirateria. Ciò dovrebbe rendere difficoltoso un loro rientro  a
+Cartosa.
+INCONTRO: un giorno, mentre passeggiano per la città,  si  imbattono  in  un
+Incappucciato che  cerca  di  assoldare  dei  mercenari.  Se  indagano  bene
+scoprono che sta cercando gente per una spedizione verso un  luogo  chiamato
+“Cumbre de Oro”. Ha anche una mappa che indica la sua posizione, ecc…
+È abbastanza un cazzone, se viene beccato combatte un po’ ma poi si  arrende
+e canta che è un piacere (anche se in realtà sa  poco  o  niente,  solo  che
+deve radunare gente per scortare un Manto Azzurro “associato”  verso  questa
+Cumbre de Oro). CdO è  un  luogo  abbastanza  famoso,  è  una  mitica  città
+abbandonata che dovrebbe essere fatta d’oro, si trova in mezzo alla  giungla
+a sud est di Nevarrez. Etc etc.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Incappucciato   |4°  |M   |70 |9(30)     |64We1/45We2                 |+5  |
+
+IN VIAGGIO
+Inigo è interessato alla faccenda e si offre per accompagnare i PG.
+Vari incontri durante tragitto fino alla giungla:
+    - Gruppi di Mbantha assalitori.
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Mbantha         |2°  |M   |40 |8(30s)    |40Miss/30Me                 |+4  |
+|Viperhawk       |3°  |M   |25 |1(40)     |60Sbi+poison                |+8  |
+
+
+CUMBRE DE ORO
+Il vero nome di Cumbre de Oro è Taremorn, un tempo era  una  fiorente  città
+all’interno dell’impero degli adepti,  è  costruita  su  un  Earthnode  (3/4
+costo magie, doppio recupero) che però è stato corrotto (1/10  mana  tappato
+in Corruzione).
+ Taremorn era una città molto ricca ma la sua ricchezza fu ciò che la  portò
+alla rovina: durante le prime fasi della Guerra Demoniaca  i  suoi  abitanti
+caddero facilmente preda degli inganni di  Ismael,  un  Demone  Sovrano.  Il
+demone promise al signore della città, re Lorith, un’enorme  quantità  d’oro
+se egli avesse fatto passare le sue armate senza porre  resistenza.  Nessuno
+degli abitanti della città fece  nulla  per  fermare  il  re,  che  accettò.
+Ismael tenne fede alla sua promessa e ricoprì  praticamente  l’intera  città
+d’oro. Solo che, vista la sua provenienza infernale,  l’oro  recava  con  sé
+una terribile maledizione che rendeva insanamente  avido  ed  avaro  chi  lo
+possedeva. Fu così che Taremorn cadde nell’ombra e,  maledetta  per  il  suo
+tradimento, venne dimenticata.
+LA MALEDIZIONE: tutte le ricchezze all’interno della città  sono  maledette.
+Chiunque le raccolga viene lentamente posseduto da uno spirito di avidità  e
+avarizia, che lentamente lo consuma. Funziona come un tiro Volontà, con  una
+penalità cumulativa di -10 al giorno.
+ABITANTI: la città è abitata in prevalenza da Scheletri e Mani  Striscianti,
+adornati d’oro e gioielli, in più è infestata da Ombre Sussurranti,  spiriti
+che non possono attaccare fisicamente ma che provocano  Paura  (5°  livello)
+coi loro sussurri incessanti.
+Re Lorith si è trasformato in una presenza spettrale  e  infesta  la  città,
+ossessionato da tenere la sua ricchezza sotto  controllo.  La  sua  presenza
+induce Paura entro 18 metri e il suo tocco risucchia 5 punti se  non  si  fa
+un TR a -25. Può essere colpito solo da armi magiche.
+NEBBIA: un altro ostacolo  è  la  fitta  nebbia  che  avvolge  la  zona  che
+disorienta e impedisce di lasciare la città.
+L’ALBA NERA: come i PG sanno,  l’Alba  Nera  ha  inviato  un  manto  azzurro
+scortato da mercenari in questo luogo. Il manto azzurro in  questione  altri
+non è che il vecchio Tobias (vedi NPG per  dati)  inviato  qui  per  la  sua
+conoscenza  del  Ragashano  in  missione  per  recuperare  alcuni  tomi  ma,
+soprattutto un antico artefatto: lo Scettro di Lorith.
+
+
+SCETTRO DI LORITH: scettro  di  metallo  nero  un  tempo  appartenuto  a  Re
+Lorith, si dice che conferisca un grande potere sui demoni minori.
+POTERI: Moltiplicatore x3 per  Usufruitori  Malvagi;  “Demon  Communication”
+continuo. Quando chi lo usa evoca un demone dal I al III  tipo  permette  di
+scegliere esattamente che “razza” di demone evocare. +30  alle  manovre  per
+Patti Demoniaci, ogni demone di III tipo o meno entro 6 metri deve  fare  un
+TR a -20 o essere “pacificato”.
+
+I Tomi cercati da  Tobias,  invece,  sono  (tutti  in  Ragashano):  Note  di
+Damarkan di Stalis, Compendio di Circoli  e  Pentacoli  ,  Guida  alla  Vita
+Artificiale.
+
+I PG: lo scopo dei PG dovrebbe essere  quello  di  scoprirne  di  più  sulla
+città e su che cosa vuole l’Alba Nera,  magari  portando  a  casa  qualcosa,
+tutto mentre evitano l’ira di Re Lorith e dei suoi  servi  non  morti.  Nota
+che tutto l’oro e le ricchezza di Cumbre de Oro sono maledette, tuttavia,  è
+possibile trovare qualche tesoro non maledetto.
+- TOMI: la maggior parte dei tomi è contenuta nella  Grande  Biblioteca  nel
+centro della città (infestata da molti non morti e centro attenzione  Alba),
+per lo più sono inutilizzabili ma, oltre a quelli  trovati  da  Tobias  (che
+valgono  circa  150  mo  l’uno),  si  può  trovare  un  Compendio  Alchemico
+(Ragashano, 150 mo, +20 ad Alchimia).
+- SPADA: all’interno di un tempio in rovina privo di  ornamenti  (e  di  non
+morti), nascosto dietro ad un altare, si trova  una  Spada  Magica  +10  che
+brilla leggermente se ci sono demoni entro 10 metri. Su di essa è inciso  il
+suo nome, in Ragashano, traducibile con “Piccolo Artiglio”.
+ - BACCHETTA: sempre nel tempio c’è lo scheletro (non animato)  di  un  uomo
+senza oro addosso (era un fedele  che  combatté  fino  alla  fine  contro  i
+corrotti) ma con in mano una bacchetta di Shock Bolt, con 10 cariche.
+
+RICOMPENSE:
+Scoprire la natura della Maledizione: 300 PX
+Scoprire i piani di Tobias: 300 PX
+Impedire a Tobias di prendere un libro: 150 PX
+Impedire a Tobias di prendere lo Scettro: 3000 PX
+Intuire le intenzioni dell’Alba: 1500 PX
+Evitare Lorith: 1000 PX
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Scheletro (III) |5°  |I#  |100|1(30)     |70MBa/Special               |+4  |
+|Mano strisciante|5°  |I#  |60 |1(15)     |60MGr[Cold]+ C Cold x round |+4  |
+| Re Lorith (V)  |15° |La# |145|1(90)     |110Sw[Cold]/Special/Spells  |+4  |
+|Mercenari       |8°  |M   |110|9(30s)    |105Cutlass                  |+6  |
+|Tobias          |10° |M   |65 |2(12)     |102ds                       |+10 |
+
+Gli scheletri risucchiano 3 punti ogni round dopo 3 round a chi fallisce  un
+TR (-10) ed è entro 3 metri.
+
+
+

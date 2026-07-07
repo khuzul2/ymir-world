@@ -1,0 +1,70 @@
+
+CAPITOLO VII
+
+THE BOOGEYMAN
+PARTENZA
+I PG lasciano Guaporè alla volta di  Porteno,  il  Comandante  Juan  Miranda
+consegna loro le 800 mo della ricompensa. Racconta loro come  è  finito  lì(
+situazione pesante a Meridian, vogliono vincere la guerra a tutti  i  costi,
+hanno reclutato anche Gratar e altre creature simili. Inoltre le  gilde  dei
+maghi che si sono formate dopo la cacciata dei  Manti  Azzurri  (L’Accademia
+delle  Arti  Arcane  di  Meridian  e  L’Università  degli  Studi   Ermetici)
+competono fra loro x rendersi utili all’esercito in  ogni  modo.  Raccomanda
+in ogni caso di non nominare troppo Cartosa e di affidarsi magari a  qualche
+gilda, come quella dei Cantori o la Compagnia degli Scudi, per protezione.
+
+FALCE LUNARE: una  scimitarra  di  metallo  argentato,  somigliante  ad  uno
+spicchio di luna.
+POTERI: +20,  colpisce  come  Mithril.  Se  tenuta  alla  luce  della  luna,
+infligge un colpo critico addizionale da Freddo.
+
+UN VISITATORE NOTTURNO
+Una notte, mentre sono in viaggio  x  Porteno,  un  demonietto  inviato  dal
+Sadhirita tenta di introdursi sulla nave dei PG x  sottrarre  le  chiavi  di
+Roberto Rodrigo. Si tratta di Kvetch, se catturato si  rivela  una  preziosa
+fonte di informazioni. Rivela che:
+    - Al Assur, li attende a Meridian
+    - Vuole le chiavi per il tesoro e ha preparato una trappola
+    - Pensa che i PG sappiano che a Meridian si trova l’ultimo domicilio  di
+      Roberto prima dell’arresto
+    - Al Assur è un non morto
+
+A Porteno i PG non incappano in  nessun  particolare  intoppo.  La  città  è
+sorvegliata dalla squadra dei  Cinghiali  di  Ferro  (Comandante:  Chago  de
+Canar), con anche un piccolo contingente di Gratar di supporto.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Kvetch          |6°  |M@  |60 |4(50)     |70SSt+Poison/40FrBolt       |+12 |
+
+MERIDIAN
+Dopo giorni di lenta navigazione lungo il fiume, i PG arrivano  a  Meridian,
+la capitale della repubblica.
+Al momento il Senato della Repubblica è retto da Carlos Benicio  Valdantini,
+appartenente ad un’antica famiglia  nobile  di  Meridian,  che  è  anche  il
+generale della principale squadra dell’esercito: l’Idra d’Argento.
+
+GLORIA( Monaca Juanna Evena. Passato info riservate di  Cartosa  al  governo
+rivoluzionario di Meridian...
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Juanna          |10° |M   |115|9(25)     |130Fal                      |+8  |
+
+GIDUZIO: Falchion di metallo scuro (Keron), incredibilmente  resistente.  Ha
+uno zaffiro incastonata nell’elsa, che rappresenta una bilancia.
+POTERI: +20, colpisce come Mithril.  “Weapon  of  Justice”  (+15  e  “Sacra”
+contro il Caos). Intelligenza Media, Legale, Volontà: 15 (livello: 25°).
+
+STEFANO VAI:
+
+CHI HA PAURA DELL’UOMO NERO?
+Figure d’ombra mandate da Al Assur come trappola.
+Poteri:
+- Instill Fear: lo sguardo provoca Paura ( TR
+- Nightcrawling: +100 a Stealth
+- Daydreaming: possono creare illusioni minori
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Babau           |12° |La# |135|12(30)    |130LCl(2x)/Special          |+8  |
+
+
+

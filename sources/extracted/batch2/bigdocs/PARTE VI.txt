@@ -1,0 +1,21 @@
+
+PARTE VI: Un’Alba Color Sangue
+
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Guerriero       |5°  |M   |110|9(30)     |110we/90we                  |+8  |
+|Costrutto Demone|6°  |I#  |150|20(0)     |60Sw(2x)+spec.              |+4  |
+|Min.            |    |    |   |          |                            |    |
+|Costrutto Demone|16° |SL# |450|20(5)     |125MorStar(4x)              |+0  |
+|Magg.           |    |    |   |          |                            |    |
+
+Costrutto Demoniaco Maggiore: serve da supporto pesante e trasporto  truppe,
+viene  lanciato  o  teleportato  sopra  la  città  e  lasciato  cadere,  può
+contenere fino a 2 costrutti piccoli (essendo alto  circa  6  metri).  Ha  4
+gambe e 4 braccia rotanti simili a morning star (20% negare  knockdown)  che
+può ritirare come una tartaruga (triplicando il suo BD) e occhi su  tutti  i
+lati (no modifiche posizione). È sotto l’effetto di Landing continuo.  Tutte
+le armi che lo colpiscono hanno i numeri di rottura aumentati di 3.
+Costrutto Demoniaco Minore:  sono  la  maggior  parte.  I  critici  inflitti
+provocano 1 punto da sanguinamento in più.

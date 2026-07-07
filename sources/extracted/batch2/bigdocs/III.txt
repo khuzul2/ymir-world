@@ -1,0 +1,577 @@
+
+                                     III
+                            TIRANNIA E MUTAMENTO
+
+Prologo: Journey thorough the dark
+Dopo la sconfitta, Sarina rivela ai PG che dietro di lei c’è Morannagul,  il
+re degli elfi oscuri, che ha usato sia  lei  che  i  PG  per  i  suoi  piani
+ignoti. È stato lui a ideare il piano dell’Occhio di Kzorr e a  proporre  ai
+sovrani di Nortislong la loro guerra contro Tallvar, promettendo sostegno.
+La donna  infine  racconta  di  come  si  è  tenuta  in  contatto  con  lui,
+attraverso un sistema di portali magici  comunicanti  che  utilizzavano  per
+incontrarsi, discutere i piani e altro.
+Egli  dovrebbe  trovarsi  al  momento  nel   palazzo   reale   di   Tallvar,
+recentemente conquistata.  Sarina  sarà  lieta  di  aprire  il  portale  che
+conduce  direttamente  a  palazzo  per  i  PG,  anche  se  li  avviserà  che
+Morannagul è uno stregone molto potente.
+Attraversando il portale i PG si troveranno in una grande  stanza  sfarzosa,
+all’interno del palazzo reale di Tallvar, non c’è traccia di  Morannagul  ma
+ci sono alcune guardie (elfi oscuri) e un troll nella stanza.
+Dopo qualche round di combattimento comparirà sulla scena  Vadher,  scortato
+da un paio di guardie, che fermerà la lotta dicendo con un sorriso che i  PG
+sono attesi. Tempo un breve scambio di battute  col  mezz’elfo  e  le  porte
+della stanza si spalancheranno nuovamente, questa volta per far  passare  un
+piccolo corteo che annuncia l’entrata di Morannagul.
+Il re degli elfi  oscuri  ringrazierà  per  il  loro  aiuto  i  PG  e,  come
+ricompensa per i loro sforzi, li spedirà personalmente all’inferno…
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Guardia         |10° |M   |115|20(30)    |120Sp                       |+4  |
+|Troll Potenziato|15° |La# |300|20(50s)   |130Bx(2D)                   |+5  |
+
+Capitolo I: Burn in Hell!
+I PG si trovano così in Avernus, il primo livello  di  Baator.  Sono  in  un
+edificio in rovina, all’interno di una città decadente  di  nome  Darkspire.
+Dal cielo rosso sangue piovono palle di fuoco che si infrangono al  suolo  e
+avvolgono con le loro fiamme alcuni  edifici  dall’aspetto  fatiscente  che,
+tuttavia, non paiono consumarsi mai. Le  strade  sono  percorse  da  persone
+dall’aria spenta, che camminano in riga. Ognuno di  loro  porta  un  simbolo
+ben in vista: un triangolo con un cerchio al  suo  interno  (si  tratta  del
+simbolo di Bel, signore di  questo  cerchio).  Il  cielo  è  pattugliato  da
+squadroni di Abishai in cerca di intrusi privi del simbolo (come i PG).
+Presto o tardi i PG vengono avvistati e i Baatezu iniziano a  cacciarli  per
+le strade. Se si fermano a combattere attireranno sempre un  maggior  numero
+di demoni, comprese delle pattuglie di demoni del 5° Confine. Prima  o  poi,
+se non vogliono essere massacrati, i PG saranno costretti a  fuggire  per  i
+vicoli.
+La salvezza arriverà quando una mano comparirà da un muro afferrando uno  di
+loro e tirandolo dentro, facendo poi segno agli altri  di  seguirlo.  Dietro
+il  muro  (illusorio)  si  trova  una   stanza   ospitante   tre   individui
+incappucciati che si presentano come la Resistenza di  Darkspire,  decisa  a
+riportare nelle Terre Esterne la città. Parlando con  i  PG  riveleranno  la
+loro posizione e si dichiareranno disposti ad aiutarli ad uscire da Baator.
+I  PG  devono  raggiungere  il  Cancello  Maledetto  e   attraversarlo   per
+raggiungere Ribcage,  la  città/portale  fra  Baator  e  le  Terre  Esterne.
+Ovviamente è più facile a dirsi che  a  farsi:  i  membri  della  Resistenza
+possono portarli fuori da Darkspire ma poi i PG devono farsi strada fino  al
+cancello evitando i demoni e le palle di fuoco  che  cadono  incessantemente
+dal cielo (colpiscono con un bonus di +50, ogni ora c’è  il  10%  di  essere
+colpiti, maggiore se si resta a lungo fermi in un posto).
+Inoltre il Cancello è ben sorvegliato da pattuglie di  Abishai,  Demoni  del
+5° confine e Demoni Sentinella, oltre che  umani  e  tiefling.  Aprirsi  una
+strada combattendo attraverso tutta la fortezza è  praticamente  impossibile
+ma non è necessario, infatti anche se i demoni di questo piano sono  Legali,
+non sono propriamente esenti da corruzione.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                           |Ini|
+|                |    |    |   |          |                             |z  |
+|Abishai Verde   |7°  |I@  |90 |12(30)    |80MCl(2x)/80LSt+poison/All/Sp|+12|
+|                |    |    |   |          |ells                         |   |
+|Abishai Rosso   |9°  |La@ |110|12(30)    |100LCl(2x)/100LSt+poison/All/|+12|
+|                |    |    |   |          |Spells                       |   |
+|Demone 5°       |18° |La# |300|8(50)     |150Hba+200HCr/140we(2D)/spell|+8 |
+|Confine         |    |    |   |          |s                            |   |
+|Demone          |15° |La# |175|19(60)    |150sp/150xbow                |+12|
+|Sentinella      |    |    |   |          |                             |   |
+
+CAPITOLO II: Somewhere far beyond your reality…
+Attraversato il portale, i PG arrivano  nella  parte  alta  della  città  di
+Ribcage, e sarebbe meglio che abbiano una buona ragione per  essere  lì  (un
+lasciapassare comperato  ai  Baatezu  dovrebbe  andare  bene)  o  potrebbero
+essere spiacevolmente spediti indietro.  Devono  inoltre  pagare  una  tassa
+sull’entrata in città (10 MO circa). Da qui  verranno  fatti  passare  nella
+parte bassa della città, dove risiede la gente normale.
+Qui  incontrano  Yandor   (U/Ra10°/CB/Ind/150PF/130Fa/9TA/35BD),   attivista
+della Resistenza e  membro  della  Libera  Lega.  Li  porta  alle  Terme  di
+Shandrala, giusto fuori città, dove potranno parlare più  tranquillamente  e
+i PG potranno riprendersi dalle ferite. Yandor risponde alle domanda  che  i
+PG gli fanno sui Piani e dona loro  degli  anelli  che  permettono  loro  di
+comprendere e parlare il Comune Planare.  Dice  che  dovrebbero  raggiungere
+Sigil, dove  sarà  per  loro  più  semplice  trovare  un  modo  per  tornare
+indietro.
+Yandor si dice disposto a insegnare loro un portale per Sigil, a  patto  che
+loro consegnino un Mimir a un oste di nome Thomen, alla locanda  “Il  riposo
+del Berserker”. Riferisce  loro  anche  un  discorso  in  codice  per  farsi
+riconoscere dall’oste come  amici  (Ordinare  una  Grappa  Stigiana,  l’oste
+risponde che non ne ha, rispondere che degli amici  vi  avevano  consigliato
+di cercarla qui, lui risponde che si sono sbagliati e voi replicate che  non
+dubitate  dei  vostri  amici  perché  sono  sinceri,  poi  date  una  moneta
+d’argento all’oste con la mano sinistra). Se i PG accettano  Yandor  insegna
+loro il modo di aprire un portale dalle  Terme  al  Quartiere  Inferiore  di
+Sigil (la chiave è un pezzetto di zolfo).
+
+CAPITOLO III: Welcome to the Jungle
+I PG arrivano a Sigil  nel  Tardo  pomeriggio,  in  un  piccolo  cortile  ne
+Quartiere Inferiore. Gente di ogni tipo va avanti e indietro per  le  strade
+fumose, in lontananza sono visibili le mura della Grande Fonderia, sede  dei
+Deisti, mentre, procedendo dalla  parte  opposta  si  arriva  in  vista  del
+Tempio in Rovina, sede degli Atei, davanti  alla  quale  si  trova  un  gran
+numero di bancarelle e di carri.
+L’accesso alla Fonderia è riservato ai soli Deisti (ogni pivello che  cerchi
+di intrufolarsi viene cacciato in malo modo a meno che  non  dimostri  serie
+intenzioni di unirsi alla Fazione) ma  intorno  ad  essa  è  facile  trovare
+fabbri e mercanti.
+Ovviamente, con un tale via vai  non  possono  mancare  spennatori  di  ogni
+genere, ecco una lista di incontri casuali:
+   1. Ladro (tiro allerta per accorgersi dello scippo), se beccato fugge per
+      i vicoli cercando di seminare l’inseguitore.
+   2. Finta guida, conduce in un imboscata (1d6+1 banditi).
+   3. Un tizio tocco che si avvicina ai PG urlando e gesticolando, li  segue
+      finché non se lo tolgono di torno in qualche modo.
+   4. Un gruppetto di Tanar’ri in fuga dalla Guerra di Sangue (1d4+1  Demoni
+      del 4° Confine), rissosi e paranoici.
+   5. Una Succube in cerca del suo prossimo “pasto”.
+   6. Un ciarlatano che insiste nel vendere la propria mercanzia ai PG.
+
+Trovare la locanda non è troppo difficile ma richiede un po’ di tempo  e  di
+ricerche e la gente del Quartiere Inferiore  non  è  molto  socievole.  Dopo
+qualche tempo  passato  a  chiedere  informazioni  e  ad  aggirarsi  per  il
+quartiere i PG giungono di fronte all’insegna del Riposo del  Berserker.  Il
+locale è piccolino a mal illuminato anche se non è proprio un buco e  non  è
+buio  come  altri  locali  nel  Quartiere.  La  clientela  della  locanda  è
+solitamente composta da un paio di tiefling e githzerai, qualche Bariaur,  è
+anche possibile trovare qualche Tanar’ri (solitamente Cambion)  che  discute
+con avventurieri di qualche sorta  ma  Thomen,  il  proprietario,  cerca  di
+tener lontano i demoni  per  quanto  possibile.  Nella  taverna  ogni  tanto
+bazzica anche la mezz’elfa Deed, attivista della Lega Rivoluzionaria.
+Se i PG si fanno riconoscere e consegnano il Mimir Thomen  sparisce  per  un
+attimo dietro il bancone con l’oggetto, per poi uscire  per  chiamare  i  PG
+nel “retrobottega”, se presente, anche Deed viene chiamata. Qui  fa  qualche
+presentazione e propone ai PG un  affare:  se  aiutano  la  Resistenza  essa
+aiuterà loro a cercare un modo per tornare nel loro Piano (se  non  vogliono
+tornare offre loro dei soldi).
+La loro prima missione  è  a  Sigil,  devono  recarsi  nell’Agglomerato  per
+incontrare un Caoticista Githzerai amico della Resistenza  di  nome  Zaymon,
+che ha detto di avere un piano infallibile per  aiutare  la  ribellione.  Il
+problema è che sembra che gli Harmonium abbiano  subodorato  la  tresca  fra
+gli Anarchici e i Caoticisti e vogliano intervenire per fermarla.
+La parte semplice è arrivare all’Agglomerato, con la  guida  di  Deed  e  le
+indicazioni di Thomen non dovrebbe essere  un  problema  trovare  il  posto.
+Zaymon li aspetta in una casa dalle parti del Mortorio e apre solo dopo  una
+parola d’ordine. Nonostante  le  aspettative  di  problemi  da  parte  degli
+Harmonium, i PG arrivano alla casa  senza  troppi  problemi.  Zaymon  li  fa
+entrare e illustra loro il piano: si tratta di portare un  Seme  di  Caos  a
+Darkspire, in modo da aiutare la diffusione del principio  caotico  fra  gli
+abitanti. Zaymon dice di avere un contatto a Xaos in grado di  procurare  un
+Seme, uno Slaad chiamato Globrimur o qualcosa di simile.  L’unica  cosa  che
+devono fare i PG è recarsi a SaoX, prendere il Seme e  portarlo  a  Ribcage,
+dove si incontreranno con Yandor per ulteriori sviluppi. Zaymon  conosce  un
+portale per le vicinanze di  Osax,  arrivare  troppo  vicino  alla  città  è
+pericoloso data l’attenzione che la cosa sta  subendo  dagli  Harmonium.  Il
+portale conduce ad un piccolo villaggio fra le  montagne  intorno  al  Monte
+dei Nani, abitato in prevalenza  da  nani,  bariaur  e  umani,  per  lo  più
+mercanti, la chiave è un po’ di birra.
+Finita la “riunione” si sentirà bussare alla porta e  le  guardie  Harmonium
+ordineranno di aprire e poi irromperanno nella stanza,  Zaymon  indica  loro
+un’uscita secondaria prima di estrarre la spada e iniziare a combattere.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                           |Ini|
+|                |    |    |   |          |                             |z  |
+|Ladro           |5°  |M   |68 |9(24)     |54we                         |+10|
+|Bandito         |5°  |M   |90 |13(30)    |80we                         |+8 |
+|Demone 4°       |13° |La  |200|4(60)     |60wp(2D)/70Lba+130LCr/spec   |+8 |
+|confine         |    |    |   |          |                             |   |
+|Succube         |12° |M   |140|3(50)     |100we/spells/spec            |+8 |
+|Guerriero       |10° |M   |150|20(30)    |125we                        |+8 |
+|Harmonium       |    |    |   |          |                             |   |
+
+CAPITOLO IV: A ride on the wild side
+Il tempo impiegato a raggiungere Axos  dalla  cittadina  di  partenza  è  lo
+standard 3d6 di giorni. Il paesaggio è  abbastanza  selvaggio,  per  lo  più
+montagnoso e non c’è una strada vera e propria ma  piuttosto  una  sorta  di
+sentiero che sembra quasi scaturire dai  PG  stessi.  Durante  la  marcia  è
+probabile imbattersi nella fauna locale,  soprattutto  nelle  più  immediate
+vicinanze di Osax, dove cacciano gli Slashquark (girano  in  gruppi  di  2-3
+esemplari).
+A parte questi inconvenienti minori, il gruppo arriva alla città  (?)  senza
+altri problemi, è la città stessa  che  causa  i  problemi.  È  come  se  un
+centinaio di artisti folli avessero deciso di dar luogo ai  loro  sogni  più
+stravaganti  in  un  solo  luogo.  Inoltre,  lo  Slaad  con   cui   dovevano
+incontrarsi ha cambiato idea e non ha portato il Seme, anche  se  dirà  dove
+possono  trovarne  in  abbondanza:  nel  Giardino  di   Eostra,   un   reame
+all’interno dello stesso Limbo.
+Il problema, se i PG vogliono prendere il Seme, ora è lo  stesso  piano  del
+Limbo. Innanzitutto per raggiungere il reame c’è bisogno di  una  guida,  se
+chiedono a Globrimur, lo Slaad gli darà un  compasso  astrale,  settato  sul
+punto focale del reame, altrimenti dovranno trovarne uno loro o trovare  una
+persona che conosca un condotto per  quel  posto,  una  missione  per  nulla
+semplice  nella  caotica  Sxao.  Successivamente  serve  un  Anarchista  per
+mantenere stabile la Materia Caotica all’interno del  piano,  i  PG  possono
+venirne  a  conoscenza  con  una  manovra  di  Conoscenza  Piani  Esterni  o
+interrogando i PNG.
+Esporsi alla materia caotica  senza  protezioni  ha  degli  effetti  casuali
+finché il PG non riesce in un  tiro  di  Inx3,  in  seguito  la  Materia  si
+stabilizza fino a che il personaggio rimane concentrato  entro  un  quadrato
+col lato pari alla propria In  metri.
+Effetti Materia Caotica:
+   1. Fuoco: un colpo critico al round: tira per l’intensità: 1:A; 2:B; 3:C;
+      4:D; 5:E; 6:E+C.
+   2. Acqua: pericolo di soffocamento.
+   3. Terra: seppellito vivo, pericolo soffocamento e tira 1d10, con 9 o  10
+      si subisce un colpo critico “E” da impatto.
+   4. Aria: si galleggia a mezz’aria
+   5. Fulmine: un colpo critico al round, come Fuoco.
+   6. Gelo: come sopra.
+   7.  Elemento  misto:  2  elementi  a  caso  fra  quelli  sopra,   effetti
+      cumulativi.
+   8. Caos Puro: un colpo critico da Distruzione al round, tira:1 o 2: A;  3
+      o 4: B, 5 o 6: C.
+   9. Elemento Caotico: Caos più un elemento a caso.
+  10. Pseudonatura: un ambiente naturale non dannoso, dura un round.
+Il Viaggio nel  Limbo  del  gruppo  comincia  quindi  dirigendosi  verso  il
+giardino in un modo o nell’altro, a seconda del metodo usato è  più  o  meno
+probabile incappare in abitanti del piano,  siano  essi  Slaad,  Demoni  del
+Caos o altro.
+Questi incontri, tuttavia, non dovrebbero essere troppo pesanti  oppure  per
+nulla ostili, i PG dovrebbero mantenersi abbastanza freschi per il  prossimo
+incontro. Dopo qualche tempo (non è  facile  stabilire  quanto  nel  Limbo),
+infatti  verranno  attaccati  da  una  squadra  di  Slaad   (devono   essere
+abbastanza  per  metterli  in  difficoltà  oppure  ne  devono  arrivare   in
+continuazione), capitanati da uno Grigio. Proprio quando  sembrerà  loro  di
+essere spacciati, gli Slaad si ritireranno  inspiegabilmente.  Procedendo  i
+PG arrivano a Barnstable, un borgo halfing. Sono stati attirati  dai  poteri
+della neo anarchista Stale, e qui si allaccia l’avventura di cui si  sa,  il
+super boss è un Demone del Caos del V tipo. Dopo la sottoavventura, i PG  si
+rimettono in marcia verso il Giardino di Eostra e ci arrivano  dopo  qualche
+tempo.
+IL GIARDINO DI EOSTRA:  i  PG  arrivano  nel  punto  segnato.  Le  mura  del
+“dungeon” sono fatte di rampicanti fittissimi e spinosi  che  si  rigenerano
+continuamente.  Il  reame  è  illuminato  dall’alto  ma  non  c’è  cielo,  i
+rampicanti si incontrano formando una cupola insuperabile.
+Quando qualcuno oltrepassa uno dei  portali  numerati  tira  1d6,  ricompare
+oltre il portale che ha quel numero. Se invece si oltrepassa un portale  con
+una lettera si arriva oltre l’altro con la stessa lettera.
+OBELISCO: un alto obelisco di una  strana  pietra  che  sembra  fluire,  con
+incisioni incomprensibili sopra. Attorno  ad  esso  crescono  grandi  alberi
+contorti, le uniche piante di una certa dimensione del luogo. Sui loro  rami
+crescono strani frutti dai colori cangianti.
+ALBERO DEL CAOS: gli  alberi  vicino  all’obelisco  sono  Alberi  del  Caos,
+esseri unici del Limbo e molto  probabilmente  ritrovabili  solo  in  questo
+reame. I loro  frutti  contengono  i  Semi  del  Caos  ma  gli  Alberi  sono
+senzienti e assai poco inclini a lasciarli.
+Gli Alberi del Caos sono immuni a  Fuoco,  Gelo,  Acqua,  Elettricità,  agli
+attacchi mentali e agli attacchi da punta. Hanno un bonus di +50 ai TR e  al
+BD contro tutti gli incantesimi e rigenerano 5 PF al round.  Attaccano  solo
+colpendo coi propri grossi rami nodosi ma chi ne viene colpito deve fare  un
+TR per evitare di essere teletrasportato in un'altra zona  del  regno  (tira
+1d6 e ignora il 6), anche chi riesce nel TR viene comunque colpito dal  loro
+Tocco del Caos che respinge la vittima e  la  lascia  stordita  per  1d6  di
+round mentre essa recupera il controllo del suo corpo in preda  a  mutazioni
+caotiche.
+È dunque evidente che i Semi sono ben controllati e che  è  molto  difficile
+procurarsene uno utilizzando la forza bruta, chi  riesce  ad  escogitare  un
+modo per appropriarsi  di  un  frutto  guadagna  i  PX  per  aver  sconfitto
+l’albero.
+VILLAGGIO: il villaggio è abitato da satiri, halfing e  qualche  lepraucano,
+si tratta di supplicanti di Eostra che non  hanno  assunto  forma  vegetale,
+sono tutti CN.
+ALTRI  ABITANTI  DEL  REAME:  vari  supplicanti  sotto   forma   di   pianta
+(Sanguifogli e piante pericolose di vario tipo, vedi Bestiario).
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                           |Ini|
+|                |    |    |   |          |                             |z  |
+|Slashquark      |15° |LA  |150|11(40)    |150Hbi (speciale)            |+16|
+|Slaad Rosso     |10° |La@ |180|4(30)     |90Cl(2x)/100Lbi/spec         |+8 |
+|Slaad Blu       |12° |La@ |200|8(30)     |100LCl(4x)/120Lbi/spec       |+8 |
+|Slaad Verde     |15° |La# |220|12(30)    |120LCl(2x) or                |+12|
+|                |    |    |   |          |120we/150Lbi/spec            |   |
+|Slaad Grigio    |20° |SL# |250|15(40)    |150LCl(2x) or                |+16|
+|                |    |    |   |          |150we(2D)/150Hbi/spec        |   |
+|Demone del Caos |18° |SL  |200|4(60)     |140Bx(3D)/special            |+12|
+|Albero del Caos |40° |SL# |620|20(60)    |210Hba(5x)/spec              |+8 |
+|Sanguifoglio    |8°  |II@ |75 |1(25)     |100LXb(2-8)+bleeding(1xr)    |+8 |
+
+SLAAD ROSSO: Gli Slaad Rossi possono emettere un gracidio che stordisce
+tutti quelli che falliscono il TR entro 6 metri, rigenerano 4 PF al round e
+hanno un Bonus di +30 al BD e ai TR contro gli incantesimi. Possono evocare
+1-2 Slaad Rossi al giorno in loro aiuto. Chi subisce un colpo critico da
+uno Slaad Rosso deve fare un TR contro le Malattie con un –30 o avere un
+uovo di Slaad impiantato nel corpo (l’uovo si schiude dopo 24 uccidendo
+l’ospite).
+SLAAD BLU: gli Slaad Blu hanno dei rostri ossei sugli avambracci che usano
+per combattere assieme agli artigli. Il morso degli Slaad Blu infetta con
+una malattia mortale (TR permesso, incubazione 2 giorni) mentre chi viene
+colpito dagli artigli deve riuscire in un TR contro le Malattie o
+trasformarsi in uno Slaad entro due settimane. Conoscono la Lista dei
+Flussi Oscuri e del Ponte Arcano fino al loro livello e possono evocare 1-2
+Slaad Blu o uno Verde al giorno. Hanno un bonus di +40 ai TR e al BD contro
+gli incantesimi.
+SLAAD VERDE: Conoscono le liste dei Maghi Malvagi fino al loro livello e
+possono assumere l’aspetto del loro ospite originario. Hanno un bonus di
++50 ai TR e al BD contro gli incantesimi.
+SLAAD GRIGIO: Conoscono le liste del Flusso Malvagio e dei Maghi Malvagi,
+possono assumere l’aspetto del loro ospite originario. Hanno un bonus di
++60 ai TR e al BD contro gli incantesimi.
+
+Capitolo V: Black Out
+Dopo aver preso  il  seme  i  PG  dovrebbero  dirigersi  verso  Ribcage  per
+consegnarlo. Il viaggio inizia normalmente, anche se non  si  tratta  di  un
+viaggio facile.
+INCONTRO I: mentre attraversano il regno di Gzemnid i PG si imbattono in  un
+Beholder:
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Beholder        |30° |La@ |260|12 (40)   |120Lbi                      |+8  |
+
+Noto anche come "Occhio Tiranno" o "Sfera dai Molti Occhi" ha  l'aspetto  di
+una grossa sfera fluttuante coperta da una robusta  corazza  di  scaglie  di
+pelle. Nella parte  superiore  ci  sono  dieci  peduncoli,  con  altrettanti
+occhi. Ogni occhio ha un particolare potere magico.  Nella  parte  anteriore
+della sfera si apre un grosso occhio centrale e  sotto  l'occhio  una  bocca
+munita di denti aguzzi.
+Il beholder si sposta levitando lentamente, è molto intelligente e  crudele.
+L'occhio centrale proietta costantemente un  raggio  antimagia  che  annulla
+temporaneamente tutti gli effetti  magici  fino  a  18  metri  di  distanza.
+L'occhio centrale ha TA 1 e BD 70 e viene distrutto dopo aver subito 100  PF
+(contano nel totale del mostro). Ogni peduncolo ha TA 1  e  BD  40  e  viene
+distrutto dopo aver subito 50 PF (non  contano  nel  totale).  Ognuno  degli
+occhi  su  questi  peduncoli  ha  dei  poteri  magici  e  può  lanciare   un
+incantesimo per round senza spendere PM (solo un massimo di 4 occhi  possono
+osservare un bersaglio e non sotto il corpo). Le liste  di  incantesimi  che
+ogni peduncolo "conosce" sono:
+Occhio 1:   Spirit Mastery (Essenza Chiusa)
+Occhio 2:   Mind Control (Mentalista Base)
+Occhio 3:   Essence Hand (Essenza Aperta)
+Occhio 4:   Flesh Destruction (Stregone Base)
+Occhio 5:   Fluid Destrution (Stregone Base)
+Occhio 6:   Gas Destruction (Stregone Base)
+Occhio 7:   Mind Destruction (Stregone Base)
+Occhio 8:   Solid Destruction (Stregone Base)
+Occhio 9:   Soul Destruction (Stregone Base)
+Occhio 10:  Confusing Ways (Mistico Base)
+Tutte le liste sono conosciute al 30° livello.
+
+INCONTRO II: continuando il loro  viaggio  verso  Ribcage  il  gruppo  viene
+assalito da una banda di Tanar’ri  persi nelle Terre Esterne. Si  tratta  di
+cinque demoni Bastonatori e un  Goristroi,  guidati  da  un  Frzzzm.  Sia  i
+bastonatori che il Goristroi sono  praticamente  dementi  e  attaccano  come
+berserker, il Frzzzm riesce a controllarli e a dirigere in qualche  modo  la
+loro furia. Conosce le liste  “Soul  Destruction”,  “Diseases”,  “Curses”  e
+“Darkness” fino al suo livello e ha 81 PM, può assumere forma umanoide o  di
+mosca gigante, in quest’ultima forma  le  sue  ali  emettono  un  suono  che
+impedisce la concentrazione. Chi fallisce un TR contro  le  malattie  quando
+viene morso da un Frzzzm perde la parte colpita in 1-3 giorni.
+GORISTROI: Enormi bruti pelosi a malapena senzienti,  sono  utilizzati  come
+squadre d’assalto frontale  nella  Guerra  di  Sangue.  Conoscono  la  lista
+“Evasions” di monaci e possono lanciare un incantesimo  per  round.  Possono
+vedere l’invisibile e hanno un bonus di  +60  ai  TR  e  al  BD  contro  gli
+incantesimi non Arcani.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                           |Ini|
+|                |    |    |   |          |                             |z  |
+|Goristroi       |25° |SL# |400|17(30)    |220Hba(x2) or 220HGr+220HCr  |+4 |
+|Demone          |5°  |I#  |150|4(40)     |110Cb                        |+8 |
+|Bastonatore     |    |    |   |          |                             |   |
+|Frzzzm          |9°  |LA  |200|10(20)    |100Mbi/spec/spells/110Fa     |+12|
+
+Dopo quest’incontro i PG hanno una sorta di blackout  mentale  temporaneo  e
+si risvegliano tutti quanti in una stanza squallida  e  priva  di  finestre.
+Sono nel Manicomio, a Bedlam, un luogo  tenuto  dalla  chierica  Bariaur  di
+nome Althax Darkfleece. Essa racconterà loro che sono arrivati al  manicomio
+da qualche giorno, portati da un  viandante  compassionevole  che  li  aveva
+trovati che vagavano con lo sguardo spento per le Terre Esterne.  I  PG  non
+ricordano nulla di questi giorni ma fanno presto ad accorgersi che  è  stato
+sottratto loro il  Seme del Caos.
+Col passare del tempo, se si sforzano di  ricordare,  verrà  loro  in  mente
+l’immagine di tre figure ammantate di nero, dai contorni  vaghi  e  sfocati.
+Indagando in giro verranno a sapere che tre individui in nero  (uno  alto  e
+grosso, uno magro  e  curvo  su  sé  stesso  e  uno  basso  e  tozzo)  hanno
+oltrepassato il Portale per il Pandemonium poco tempo prima del loro  arrivo
+a Bedlam.
+
+CAPITOLO VI: Into the Pandemonium
+I PG hanno ora diverse opzioni, possono decidere se tentare di ritornare  in
+possesso del seme rubato o se  tornare  nel  Limbo  e  prenderne  un  altro,
+oppure se lasciar perdere  e  mandare  monte  tutto  ammettendo  la  propria
+sconfitta. Questo capitolo segue la prima opzione.
+Il Pandemonium non è un piano ospitale, soprattutto se non  si  ha  idea  di
+dove andare. Fortunatamente è  relativamente  facile  trovare  una  guida  o
+informazioni in Bedlam.
+Per quanto riguarda trovare  i  loro  assalitori  misteriosi  i  PG  vengono
+presto a sapere che il posto migliore a  cui  riferirsi  è  Somberlain,  una
+sorta i cittadella roccaforte all’interno di Pandesmos, il primo girone  del
+Pandemonium.  I  suoi  strani  abitanti  sembrano   essere   incredibilmente
+informati su chiunque entri nel Piano e su  dove  sia  diretto,  sono  anche
+disposti a condividere queste informazioni, ovviamente dietro compenso.
+Una volta stabilita la destinazione, i PG non hanno altro  da  fare  se  non
+prepararsi ed entrare nel Pandemonium.
+Il Piano è  completamente  buio,  nemmeno  le  razze  normalmente  in  grado
+nell’oscurità vedono nulla (i nani e quelli dotati di una vista simile  sono
+in grado di vedere entro  3  metri).  Inoltre,  un  vento  diabolico  soffia
+costantemente attraverso i tunnel e le caverne, inducendo alla follia.  Ogni
+mezza giornata trascorsa nel Pandemonium comporta un TR con  come  bonus  il
+triplo dell’AC (la difficoltà  resta  sempre  50).  Ogni  volta  che  un  PG
+fallisce uno di questi tiri procede nei punti qua sotto:
+   1. Frustrazione: il PG diventa irritabile e scontroso, ha una penalità di
+      –10 a tutte le attività mentali, è meno prono a pianificare  e  più  a
+      semplicemente agire.
+   2. Disperazione: il PG perde ogni speranza, diventa indifferente e  quasi
+      incapace di fare scelte da solo. Attacca per ultimo in combattimento e
+      non può parare ma ha un bonus di +10 al BO.
+   3. Isteria: il PG vuole solo andarsene al più presto,  inizia  a  correre
+      urlando in una direzione casuale fino a cadere  sfinito  in  ginocchio
+      coprendosi le orecchie con le mani e chiudendo gli  occhi.  Uscirà  da
+      questo stato non appena portato in un rifugio  ma  appena  fuori  deve
+      fare un altro TR e continuerà a farli ad un ritmo doppio degli altri.
+   4. Rassegnazione: a questo stadio il PG si rassegna al vento, procede con
+      apatia, apparentemente normale, ma sviluppa una follia temporanea.
+A parte questi problemi, resta quello di trovare una guida  per  Somberlain.
+Con una guida si  può  raggiungere  la  città  in  circa  una  settimana  di
+cammino, durante la quale i PG avranno il piacere di fare la conoscenza  con
+i rari  abitanti  del  Pandemonium,  come  i  demoni  del  4°  Confine  o  i
+Tessiombra.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                           |Ini|
+|                |    |    |   |          |                             |z  |
+|Demone (IV)     |13° |La  |200|4(60)     |60wp(tail)(2D)/70Lba+130LCr/s|+8 |
+|                |    |    |   |          |pells                        |   |
+|Tessiombra      |8°  |I   |160|4(80)     |60MGr(6x)/spec               |+12|
+
+TESSIOMBRA:  abitatori  dei  piani  inferiori,  tessono  tele  d’ombra   per
+imprigionare le loro prede. Dentro il primo strato di ragnatela  le  persone
+che tentano di andarsene sono rallentate (50% azione) e devono  fare  un  TR
+sul Mentalismo per uscire (occorre  fare  un  tiro  Allerta  per  accorgersi
+della tela). Dentro il secondo strato si è Rallentati e bisogna fare  un  TR
+contro il Mentalismo quando si tenta di uscire o  essere  rigirato  di  180°
+(come per l’incantesimo “Spin”). La luce è dimezzata dentro  questo  strato.
+Al centro della rete bisogna fare  un  TR  contro  il  Mentalismo  o  essere
+Paralizzato, anche se  ci  si  riesce  si  è  Rallentati.  Il  centro  della
+ragnatela agisce come un Utterdark. Dentro l’oscurità il  Tessiombra  ha  un
+bonus di +50 ai TR e al BD contro gli incantesimi e può  usare  le  seguenti
+liste fino al 10° livello: Darkness,  Physical  Erosion,  Illusion  Mastery,
+Guises e  Spirit  Mastery.  Il  Tessiombra  è  molto  sensibile  alla  luce,
+attacchi di luce gli infliggono colpi critici “Slaying”.
+
+Nella tana del Tessiombra i PG troveranno un  piccolo  tesoro:  200  MO,  un
+elmo +5 (no penalità alle percezioni) e una bacchetta  di  “Charm  Kind”  (4
+cariche).
+
+SOMBERLAIN: è una fortezza interamente  scavata  nella  roccia,  abitata  da
+circa un centinaio di persone, per lo più tiefling,  gnoll  o  orchetti.  Il
+signore della fortezza è Faust, un vampiro molto antico dall’aspetto  di  un
+vecchio e curvo  studioso.  I  PG  devono  parlare  con  lui  per  avere  le
+informazioni che cercano. Il prezzo delle informazioni è del sangue  fresco,
+altre informazioni che Faust trovi utili o moltissimo oro.
+L’identità dei misteriosi assalitori è dunque  svelata:  si  tratta  di  tre
+mercenari noti col nome di “Cacciatori” , sono diretti verso  un  reame  del
+terzo  girone  del  Pandemonium,  Phlegethon.  Si  tratta  delle   “Prigioni
+d’Oscurità”, il reame del dio Varshnak.
+DUNGEONS OF DARKNESS: i PG  possono  raggiungere  Phlegeton  e  le  Prigioni
+d’Oscurità facendosi trasportare sullo Stige da un Marraenoloth,  il  prezzo
+del viaggio è di 100 mo o un oggetto magico a persona. Nessuna  guida  segue
+i  PG  nel  reame  di  Varshank  ma  il  traghettatore  li  conduce  proprio
+all’entrata.
+Le  Prigioni  d’Oscurità  sono  un  contorto  e  umido  budello  di  grotte,
+intervallate  di  tanto  in  tanto  da  corridoi  e   stanze   evidentemente
+artificiali. Qui il vento porta con sé echi di  lamenti  e  di  sbattere  di
+catene, anche se non si vedono celle o prigionieri  in  alcun  luogo.  È  un
+luogo di completa oscurità, le luci normali non illuminano  e  anche  quelle
+magiche hanno solo ¼  della  loro  normale  efficacia  (anche  gli  attacchi
+magici da Luce o Elettricità infliggono ¼ dei danni o danno un bonus di  +25
+ai TR, durano ¼ del tempo e hanno ¼ di raggio e area d’azione). È  un  luogo
+gelido, che prosciuga il  calore  dal  corpo,  gli  sprovveduti  che  vi  si
+avventurano senza protezioni perdono il 10% dei loro PF totali all’ora.
+I TRE CACCIATORI: i tre cacciatori  sono  entità  demoniache  (probabilmente
+pseudo yugoloth) che agiscono come mercenari  per  missioni  di  assassinio,
+rapimento o recupero.
+LEGION: appare come un uomo alto e magro, vestito con un’armatura di  bronzo
+e un mantello. Indossa una maschera dorata, ha piume infilate fra i  capelli
+e impugna una lancia d’oro. Utilizza  la  sua  velocità  e  la  sua  abilità
+nell’arma per combattere i nemici, saltando qua e là per  evitare  i  colpi,
+può trasformarsi in un grande uccello  variopinto  (Garuda)  a  volontà.  In
+questa forma attacca con il becco (che  colpisce  come  una  lancia)  e  può
+utilizzare il  suo  attacco  speciale  (“Le  mille  piume  di  Garuda”)  che
+consiste nello scagliare una miriade di  piume  contro  i  suoi  nemici  (TR
+contro il Mentalismo a –20 per non rimanere Storditi per 1 round ogni 10  di
+fallimento)  teletrasportandosi  alle  loro  spalle  in   forma   nuovamente
+umanoide.
+ABYGOR: Abygor ha l’aspetto di un vecchietto rinsecchito dalla pelle  scura,
+imbacuccato in un mantello rosso sangue.  Dato  che  fisicamente  è  il  più
+debole dei tre preferisce evitare il contatto fisico.  In  compenso  conosce
+tutte le liste del Mistico fino al 20° livello e può  usarle  senza  PM.  Il
+suo  attacco  speciale  (“Acque  dello  Stige”)  consiste  nell’evocare  uno
+spruzzo di acqua del tristemente noto fiume per colpire i  suoi  nemici  (TR
+contro l’Essenza per non dimenticare).
+EQUIMANTHORN: è il più forte dei tre, appare come un gigante di  4  metri  e
+mezzo coperto completamente di catene nere, da cui spuntano solo  gli  occhi
+bianchi. Combatte con i suoi  tremendi  pugni,  che  possono  frantumare  la
+roccia. Se qualcuno lo fa infuriare usa su di lui il  suo  attacco  speciale
+(“Catene di Mefistofele”), ovvero il secondo attacco.
+
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                           |Ini|
+|                |    |    |   |          |                             |z  |
+|Legion          |20° |La# |250|19(75)    |175Sp/spec                   |+16|
+|Abygor          |15° |La# |150|15(50)    |100LCl(2x)/spells            |+12|
+|Equimanthorn    |35° |SL# |350|20(90)    |220Hba(3D) o                 |+8 |
+|                |    |    |   |          |200HGr+200HCr(2D)            |   |
+
+CAPITOLO VII: Intermezzo
+Dopo aver recuperato il Seme ed essere usciti dal Pandemonium i  PG  possono
+infine dirigersi verso Ribcage, dove si  incontreranno  con  Yandor  che  li
+ringrazierà e li rispedirà a Sigil, alla taverna di  Thomen.  Egli  darà  un
+compenso di 100MO ad ogni PG e le informazioni che cercano:
+Il piano di Ymir è stato recentemente  sottoposto  a  numerosi  attacchi  da
+parte di entità malvagie, per cui un’alleanza di divinità del Bene ha  posto
+un potente sigillo che impedisce alle entità planari di  entrare  facilmente
+nel piano. Si sa che esiste un  portale  che  conduce  su  Ymir  ma  la  sua
+locazione è segreta. C’è  solo  un  luogo  dove  si  potrebbero  trovare  le
+informazioni  necessarie  alla  sua  individuazione:  la  Torre  del  Sapere
+Proibito, situata nella Gehenna, nel regno del dio Gog, la Cittadella  delle
+Mille Spire.
+I PG possono prendersi una pausa e raccogliere  le  informazioni  necessarie
+per raggiungere la Cittadella (reperibili facilmente da Kronen al tempio  di
+Gog)  e  per  sopravvivere  nell’ambiente  ostile   della   Gehenna   (terra
+incandescente, vapori mefitici…).
+
+CAPITOLO VIII: Scorched Earth
+La Gehenna non è un posto ospitale e chi ci entra senza  protezioni  subisce
+un colpo critici “E” da Calore al round e deve fare un TR contro  il  Veleno
+(Respiratorio, 25°) ogni round per non morire soffocato.
+Nota che le magie Mentali sono diminuite nella Gehenna (-1  al  livello  del
+lanciatore, no magie di livello superiore al 5°), mentre  quelle  elementali
+sono aumentate (+1 al livelle del lanciatore).
+I PG dovrebbero arrivare poco distanti dalla Cittadella  delle  Mille  Spire
+(le cui  mura  sembrano  un  gigantesco  serpente),  fatti  pochi  passe  in
+direzione di essa saranno assaliti da un gruppo di  demoni  del  VI  confine
+(metà di loro più uno) e noteranno che, come attirati dalla  loro  presenza,
+un numero sempre maggiore di demoni viene nella loro direzione.
+Tuttavia, ad un certo punto,  i  demoni  si  ritirano,  come  spaventati  da
+qualcosa: è un Balrog, utilizzato come guardia  ad  una  delle  porte  della
+città.
+Se lo sconfiggono possono entrare nella cittadella e  dirigersi  alla  Torre
+del Sapere Proibito, una costruzione di pietra nera al centro della città.
+
+PORTALE X YMIR: si  trova  nel  Reame  di  Ishtar,  sul  piano  di  Elysium,
+tuttavia è chiuso e sigillato. Ci vogliono  4  chiavi  per  aprirlo,  ognuna
+delle quali è custodita nel reame  di  una  diversa  divinità  neutrale:  il
+Palazzo  Incostante  (Heis,  Limbo);  la  Fonte  di  Ogni  Ordine  (Hudemia,
+Mechanus); il Groviglio Selvaggio (Therios, Terre  Esterne)  e  il  Giardino
+delle Fiamme (Diis, Piano del Fuoco).
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                           |Ini|
+|                |    |    |   |          |                             |z  |
+|Demone VI       |27° |La# |250|12(60)    |180LCl(2x)/150LCr            |+8 |
+|Balrog          |40° |SL# |400|20(90)    |250HCl(2x) or                |+12|
+|                |    |    |   |          |275we(2x)(3D)/120ro/spec.    |   |
+
+BALROG: i possenti Balrog sono i più potenti fra i Tanar’ri e  comandano  le
+loro armate. Attaccano con i loro poderosi  artigli  oppure  usando  un’arma
+per mano (possono tenere armi a due mani in  una  mano  sola  data  la  loro
+taglia). A volte scagliano rocce o altro ai loro nemici.  Possono  immolarsi
+a volontà, avvolgendosi in un velo di fiamme che infligge un  colpo  critico
+“C” al round a tutti entro 3 metri dal  Balrog.  I  Balrog  sono  immuni  al
+fuoco (ma subiscono doppi danni dal gelo) e godono di un bonus di +70 ai  TR
+e al BD contro gli incantesimi non Arcani. Conoscono la  lista  “Piromanzia”
+fino al 50° livello. Chi ne vede uno deve  far  un  TR  contro  la  Paura  o
+fuggire terrorizzati per un numero  di  round  pari  al  proprio  fallimento
+(fallimento di più di 50 consiste in una paralisi per il terrore, di più  di
+100 in una subitanea morte).
+
+
+
+
+
+
+
+

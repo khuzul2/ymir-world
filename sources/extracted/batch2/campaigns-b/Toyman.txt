@@ -1,0 +1,134 @@
+
+TOYMAN
+Principessa Raghnid
+Hoarr --> capre di montagna
+TORRALTA
+Regina di Nessa: Estalia
+Signore della città (e della Provincia di Torralta): Ser Damian (Gran Cavaliere della Fiamma Bianca)
+Altri PNG:
+Sven: Oste della Corona d'Oro.
+Otto: Cerusico della città (con apprendista Lucilla).
+Parsuik, il Giocattolaio: famoso costruttore di automata e simili che abita vicino alla città.
+Ser Morvran (alto e snello, biondo e occhi azzurri, incarna un po' il cavaliere ideale di molte donzelle, la sua arma preferita è un fucile a dardi): Alto Cavaliere al servizio di Ser Damian
+Ser Wulf (massiccio, barba e baffoni, la sua arma preferita è un grosso martello elettrificato): Alto Cavaliere al servizio di Ser Damian
+Saedhun: Alto sac Thurms
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Imp
+5°
+I#
+60
+3(60)
+20SCl
++16
+Manticora
+5°
+I
+170
+7(40)
+80hcb(2x)+Poison/100LCl
++12
+Toro di Acciaio
+13°
+SL
+450
+20(55)
+130HBa
++4
+Ragno d'Adamantio
+11°
+SL
+480
+20(45)
+125Sp
++4
+Dragone d'Acciaio
+16°
+SL
+300
+20(60)
+150LBi/150LCl/70LCr/50FBolt
++16
+Sparadardi
+5°
+II
+150
+20(40)
+100Hcb
++8
+MANO DEL DESTINO
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Fralmon
+6°
+M
+157
+2(159/109)
+154ma
++18
+Alera
+9°
+I#
+165
+17(50)
+130LSw/120THS/120Lbow
++12
+Divek
+5°
+M
+124
+16(54)
+84Ma/111Shield
++18
+Arion
+6°
+M
+83
+2(30)
+44SSw/40FBolt/35SBolt/32WBolt
++10
+Gharmek
+4°
+M
+93
+6(24)
+105SSw/84HXbow/51TK
++8
+Scambiare le liste di Divek: Channels con Dark Channels; Light's Way con Wounding; Life Mastery con Necromancy; Detection Mastery con Dark Lore.
+Trasformare le mo che portano con se in ma.
+Markus --> Querceto
+I BANDITI
+I “banditi” sono collegati con la Mano del Destino, entrambe infatti sono seguaci di Abigor, il Demone Sovrano signore dei campi di battaglia.
+Intendono amplificare la guerra scoppiata nei Regni Giovani ed espanderla il più possibile. Molti di loro sono fanatici con manie di potenza, credono di poter costruire un loro regno utilizzando le strane armi che gli vengono date dai demoni.
+Nome 
+Lvl
+Tag 
+PF
+TA (BD)
+BO
+Iniz 
+Demone Spinoso (II)
+6°
+I
+100
+4(20)
+80LBa [1-4 A Puncture]/ 60xl(1-4)
++8
+Demone della V Cerchia
+18°
+La#
+300
+8(50)
+150HBa+200HCr/140we(2D)/Spells
++12
+Cultista

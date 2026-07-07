@@ -1,0 +1,131 @@
+
+Stile del Turbine (Surya)
+
+Focus:
+      - Group (Great Blades), Primary: No-Dachi [5pts]
+
+Universal Options:
+      - Bonus to Initiative (+1 In, +1 every 5 rnks) [2]
+      - Additional Attacks [2]
+      - Additional Foes [1]
+
+Specific Options:
+      - none
+
+Manuevers:
+      - Basic Swing [0]
+      - Disarm [1]
+      - Legsweep [1]
+      - Reverse Stroke [1]
+      - Killing Strike [1]
+
+Points 14 or cheaper version for 11 points with Single Weapon Focus (No-
+Dachi)
+
+Stile dell'Artiglio di Tuono (Surya)
+
+Focus:
+      - Natural Weapon Focus (Medium Claws) [3]
+
+Universal Options:
+      - Agile Defense [2]
+
+Specific Options:
+      - none
+
+Manuevers:
+      - Basic Swing
+      - Fast Strike [1]
+      - Disarm [1]
+      - Sacrifice Disarm [1]
+
+Points: 8
+
+
+Kyu-do (Surya)
+
+Focus:
+      - Single Weapon (Long Bow) [2]
+
+Universal Options:
+      - Required Skill: Meditation [1]
+
+Specific Options:
+      - Speed Loading Bows [3]
+
+Manuevers:
+      - Basic Shot [0]
+      - Killing Shot [1]
+      - Far Shot [1]
+
+Points 8
+
+Stile della Danza delle Foglie d'Autunno (Samael)
+
+Focus:
+      - Single Weapon (Broadsword) [2]
+
+Universal Options:
+      - Additional Attacks [2]
+      - Additional Foes [1]
+
+Specific Options:
+
+      - Additional Attack Weapon (Broadword) [3]
+
+Manuevers:
+      - Basic Swing [0]
+      - Offensive Strike [1]
+
+Points 9
+
+Tiro Nessese (Samael)
+
+Focus:
+      - Weapon Group (Crossbows) [5]
+
+Universal Options:
+      - none
+
+Specific Options:
+      - Reduced Range Penalties [2]
+
+Manuevers:
+      - Basic Shot [0]
+      - Brace [1]
+
+Points 8
+
+Stile di Lancio Base VonGraven (Isidoro)
+
+Focus:
+      - Directed Spell (Shock Bolt + Lightning Bolt + Fettered Bolt) [10]
+
+Universal Options:
+      - None
+
+Specific Options:
+      - none
+
+Manuevers:
+      - Basic Shot [0]
+
+Points: 10
+
+Calibramento Arcano (Drusilde)
+
+Focus:
+      - Directed Spell (Fire Bolt) [4]
+
+Universal Options:
+      - none
+
+Specific Options:
+      - Reduced Range Penalties [2]
+
+Manuevers:
+      - Basic Shot
+      - Brace [1]
+      - Offensive Shot [1]
+
+Points: 8

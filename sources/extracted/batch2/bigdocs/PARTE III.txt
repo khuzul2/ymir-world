@@ -1,0 +1,214 @@
+
+
+PARTE III: RESA DEI CONTI A EL PASO
+
+NOTE:
+Alfonso: il libro che hai preso a Tobias (Guida alla  Vita  Artificiale)  ti
+consente di imparare la lista “Construct Mastery”, oltre  che  conferire  un
+bonus di +10 a Conoscenza Costrutti.
+Raphael: senza una mano non puoi usare lo scudo e hai una penalità di -50  a
+tutte le azioni che richiedono due mani (alcune di esse  sono  impossibili).
+Se entrano in vigore le regole 2 sugli oggetti magici “Piccolo  Artiglio”  è
++7 invece che +10 (+3 per il materiale, +4 per l’incantamento).
+
+IN THE JUNGLE
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Nkishi*         |7°  |M   |135|1(30)     |130Fa(Tearing/Ripping)      |+8  |
+
+*1/2 stordimento
+
+I PG sono assaliti dagli Nkishi durante il viaggio  nella  giungla,  vittima
+dell’imboscata sono anche i nuovi PG. Gli Nkishi hanno con  sé  (oltre  alle
+loro spade e a qualche dose di Quadrando)  una  mezza  dozzina  di  smeraldi
+grandi come l’unghia di un pollice (almeno  1  x  PG,  valore  netto  120mo,
+difficile venderli a più della metà del loro valore).
+
+RITORNO A OMBRA DEL MAR
+Prima del loro ritorno a Ombra del Mar, i PG vegono contattati  via  uccello
+da Derreck, che li avvisa di aver sventato l’attentato all’Ammiraglio  e  di
+ritrovarsi a OdM alla “Perla Nera” per discutere la  loro  ricompensa  e  un
+nuovo ingaggio.
+Qui Derreck ascolterà quello che i PG hanno da dire e li  ricompenserà  come
+pattuito.
+Li avviserà che ora per loro è pericoloso tornare a  Cartosa,  dato  che  la
+loro taglia è stata aumentata a 50mo perché in qualche  modo  la  colpa  del
+tentato omicidio dell’Ammiraglio è stata fatta ricadere su di loro.
+Offrirà poi un nuovo lavoro da parte  del  suo  misterioso  padrone:  questa
+volta saranno ricompensati con 500mo (trattabili fino a  700)  per  scoprire
+cosa se ne fa l’Alba Nera di tutto il ferro che  recupera.  Derreck  sa  che
+esso viene estratto soprattutto da un  paese  a  4  giorni  di  reptoide  da
+Nevarrez (circa 600 Km) chiamato El Paso.
+Devono quindi trovare un modo per arrivare a  Nevarrez,  Inigo  non  li  può
+portare perché lì c’è una grossa base della Marina ed è  pericoloso  per  un
+pirata come lui farsi vedere, per lo stesso motivo  sarà  difficile  trovare
+qualche altra nave diretta lì.
+Via terra, Nevarrez dista circa 300km, ovvero un paio di  giorni  a  cavallo
+di reptoide, oppure 1 giorno e mezzo via mare, se si procurano una barca.
+
+NOTA: a Ombra del Mar i PG hanno acquistato la barca “Cortigiana dei Mari”.
+
+ALTRI INCONTRI:
+-     Mentre sono in città  a  raccogliere  provviste  uno  dei  PG  che  ha
+raccolto una Makreesha viene fermato  da  un  venditore  ambulante.  Accanto
+alla  sua  bancarella,  che   nessuno   aveva   notato   prima,   un’insegna
+dice:”Filtri, Pozioni, Curiosità e Oggetti Magici”.  L’ambulante  è  vestito
+con buffo cappello e degli abiti  abbastanza  appariscenti.  Si  offrirà  di
+scambiare qualche oggetto con la spada Nkishi. Può  offrire  uno  di  questi
+articoli, a scelta:
+    • Una pozione di Camminare sulle Acque (con 3 dosi)
+    • Due dosi di Rubra-Mira (vedi erbe equip)
+    • Un paio di Stivali di Atterraggio (lanciano  “Landing”  una  volta  al
+      giorno, diminuendo di 4 metri ogni caduta)
+    • Un sacchetto di Polvere della Rivelazione (rende  visibile  ogni  cosa
+      invisibile nel raggio di 6 metri, contiene 3 dosi)
+All’insaputa dei PG, il mercante è in realtà Iago Ximen,  il  signore  della
+città, che ogni tanto si diletta nel visitarla sotto mentite spoglie.
+      - La sera, alla locanda (oppure per strada), sentono delle  voci  che
+        parlano di un grosso contingente della Guardia Dorata sulla  strada
+        per Nevarrez. A quanto pare il contingente perlustra  la  zona  per
+        trovare alcuni ladri di ferro su ordine del governatore di Nevarrez
+        (Juan Barreo) e ferma per controlli ogni persona sospetta.
+      - Inoltre, la sera vengono avvicinati da Zumbuwhle,  che  li  avverte
+        che si è accorto che qualcuno  li  sta  seguendo  da  quando  hanno
+        lasciato la giungla…
+
+NEVARREZ
+Nevarrez è il centro più grande  delle  Coste  Gemelle,  si  tratta  di  una
+grossa città fortificata, a picco sul mare. È la  sede  della  Squadra  Nord
+della Marina (a Cartosa c’è la Squadra Est,  a  Gargona  quella  Ovest  e  a
+Puerto Escudo quella Sud),  che  è  capeggiata  dall’Ammiraglio  di  Squadra
+Ramirez deStuba (anche se al momento egli si trova a Cartosa).  La  città  è
+nominalmente  retta  del  governatore  Juan  Barreo,  ma  si  tratta  di  un
+fantoccio completamente dipendente da Ramirez (e quindi dell’Alba).
+
+La città è sorvegliatissima sia dalla Marina che dalla Guardia  Dorata,  per
+un ricercato, entrarci senza  essere  riconosciuto  sarebbe  difficilissimo.
+Per questo, il modo migliore per  raggiungere  El  Paso  sarebbe  quello  di
+arrivare fino al Rio Plata, che scorre vicino alla città, risalirlo  per  un
+po’ in barca e poi proseguire a piedi. Se i  PG  non  ci  arrivano  potrebbe
+suggerirlo un NPG.
+
+EVENTI
+      - Dopo circa una giornata di navigazione  (alla  mattina  del  giorno
+        successivo a quello in  cui  i  PG  partono)  l’imbarcazione  viene
+        attaccata da  un  Viverna  Acquatica.  Lo  scontro  con  la  bestia
+        dovrebbe danneggiare un po’ anche l’imbarcazione ma non gravemente,
+        solo danni di minor entità. In ogni caso dovrebbe essere abbastanza
+        duro.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Viverna         |6°  |LA  |180|16(45)    |90LBa/60LCl/100HHo+poison   |+12 |
+|Acquatica       |    |    |   |          |                            |    |
+
+      - Subito dopo l’incontro con il mostro, prima che possano raggiungere
+        la destinazione, il cielo si incupisce e si scatena una tempesta. I
+        PG possono fare un tiro Difficile (-10) su Pilotare  Barche,  anche
+        se in realtà non serve a niente, la tempesta  durerà  solo  qualche
+        ora, giusto il tempo  di  allontanarli  dalla  riva  e  dalla  loro
+        destinazione, disorientandoli. Con un tiro di  Osservare  Stelle  o
+        simile possono capire di aver aggiunto almeno un altro giorno  alla
+        loro navigazione, se non di più, dato che la barca è danneggiata  e
+        necessita riparazioni.
+      -  È a questo punto che faranno incontro con un gruppo  di  singolari
+        naufraghi. Si tratta di 6 uomini stretti su  ciò  che  resta  della
+        loro nave: poche tavole legate insieme. Intorno  a  loro  nuota  un
+        piccolo branco di squali famelici.  Diranno  che  la  loro  nave  è
+        affondata con la tempesta del giorno prima e che hanno perso alcuni
+        compagni e il loro capitano, il prode Libarez. Chiedono  di  essere
+        accolti in salvo e si propongono di servire i  PG  come  equipaggio
+        per sdebitarsi  (ciò  anche  se  i  PG  non  vogliono,  sono  molto
+        determinati!). Si presentano con i loro soprannomi (è  praticamente
+        impossibile riuscire a scoprire i loro veri nomi, loro usano sempre
+        questi e probabilmente quelli veri  se  li  sono  dimenticati):  il
+        Biondo (il belloccio e portavoce del  gruppo),  il  Muto  (che  non
+        parla mai), il Mago (uno grande, grosso e tonto), il Grosso (che  è
+        un mingherlino svelto e agile), il Talpa (la vedetta),  e,  infine,
+        il Manca (che,  effettivamente,  non  si  vede  da  nessuna  parte,
+        l’eterno imboscato del gruppo). Il gruppo si  metterà  allegramente
+        al lavoro e, d’ora in poi, non lascerà più i PG, per il bene e  per
+        il male…
+      - Dovrebbero dunque giungere senza altri  intoppi  al  Rio  Plata  ed
+        iniziare a risalirlo. Raggiunta un’ansa dove è possibile  occultare
+        la nave possono scendere lasciando di guardia gli altri e dirigersi
+        verso El Paso via terra. Durante il cammino, però, vengono assaliti
+        (preferibilmente di notte) da un gruppo di Zortos (sono una volta e
+        mezzo i PG). Gli strani umanoidi non hanno nulla  con  sé  a  parte
+        delle corte spade e un collare d’argento a  testa  (del  valore  di
+        10ma l’uno). Vedi la sezione dei mostri  per  le  abilità  speciali
+        degli Zortos.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Zortos          |5°  |M   |70 |3(30)     |60We/50MBi+Poison           |+8  |
+
+EL PASO
+El Paso è costruito sulle rocciose pareti della Sierra Plata, attorno ad  un
+grosso complesso minerario. Di fatto, è grazie alle miniere di ferro  se  il
+paese è riuscito a crescere e diventare relativamente prospero.
+È composto da case da uno o due piani  di  legno  o  pietra,  abitate  dalle
+famiglie dei minatori, più una grande  locanda  (Cantina  de  El  Paso)  che
+ospita  i  frequenti  stranieri,  un  cimitero,  un  santuario   abbandonato
+dedicato a Mithra, una sede della  Compagnia  Commerciale  di  Cartosa  (che
+gestisce il trasporto del ferro), una torre appartenente alla Guardia  D’oro
+e una grossa villa appartenente al governatore. Generalmente, la  locanda  o
+la grande piazza in mezzo alla  cittadina  sono  il  normale  ritrovo  della
+gente. A est del paese si trovano le miniere (raggiungibili  in  una  decina
+di minuti a piedi), a nord, invece, è possibile notare una  grossa  fonderia
+dotata di un’alta ciminiera che emette in continuazione un denso fumo  nero,
+apparentemente di recente costruzione.
+
+    • La situazione attuale: il paese è in  mano  all’Alba  Nera,  Tobias  è
+      stato recentemente nominato governatore. La guarnigione  locale  della
+      Guardia è assente, impegnata lontano in una qualche missione. Il paese
+      è presidiato da cacciatori di taglie e mercenari al soldo  di  Tobias,
+      con base nella Torre. Gli abitanti non sono felici della situazione ma
+      la repressione è molto dura e non hanno occasione di ribellarsi. Molti
+      di loro sono costretti a lavorare per l’Alba nella fonderia.  Inoltre,
+      ultimamente ci sono state alcune morti  strane  e,  di  notte,  strane
+      presenze paiono aggirarsi nei  dintorni  della  villa  (si  tratta  di
+      Lorith che cerca il suo scettro).
+
+CANTINA DE EL PASO: l’oste (Paraiba) si lamenterà del fatto che  ultimamente
+si vedono molti meno stranieri del solito, ma lo farà sottovoce per  evitare
+di esser sentito dai mercenari che frequentano ora la  locanda.  Può  essere
+convinto a rivelare qualche altro dettaglio  sul  paese.  Cameriere:  Ester,
+Nina, Azelia.
+CIMITERO: Rojero, il becchino, è felice perché ultimamente gli affari  vanno
+bene.
+SANTUARIO:  Il  santuario  sembra  abbandonato  da  parecchi   anni   ed   è
+completamente diroccato.
+COMPAGNIA COMMERCIALE: un piccolo ufficio un po’ sgangherato, non c’è  molto
+di interessante da scoprire qui.
+TORRE: nella torre di guardia ora si sono stabiliti  i  mercenari  dell’Alba
+Nera.
+MINIERE: l’ingresso alle miniere è vietato ai non lavoratori.
+FONDERIA:  viene  utilizzata  dall’alba  per  forgiare  armi  e   pezzi   di
+costrutti. Il fumo nero che ne fuoriesce ha annerito il terreno  circostante
+e  ha  fatto  ammalare  piante,  animali  e  uomini  nelle   vicinanze.   La
+costruzione  è  sempre  ben  sorvegliata  e,  all’interno,  potrebbe  essere
+possibile incontrare anche uno o due costrutti.
+VILLA: usa le mappe per la  descrizione  della  villa.  Questa  è  l’attuale
+residenza di Tobias, al suo interno ci sono lui, alcune guardie e almeno  un
+costrutto. È anche possibile incontrare o vedere Cervantes.
+
+|Nome            |Lvl |Tag |PF |TA (BD)   |BO                          |Iniz|
+|Cacciatore di   |6°  |M   |75 |9(10)     |60we                        |+6  |
+|Taglie          |    |    |   |          |                            |    |
+|Costrutto Demone|6°  |I#  |150|20(0)     |60Sw(2x)+spec.              |+4  |
+|Min.            |    |    |   |          |                            |    |
+
+Costrutto: Con un critico  da  “A”  a  “C”  infligge  1  danno  a  round  da
+sanguinamento  addizionale;  con  un  “D”  o  un  “E”  ne  infligge  2.   E’
+moderatamente intelligente.
+
+“Tesoro” di Tobias: nel covo di Tobias i PG potranno trovare alcuni  oggetti
+interessanti, probabilmente sparsi per la villa.
+100mo, Anello Moltiplicatore x1,5 per l’Essenza (su Tobias),  Una  Pergamena
+di ColdBall, 1 dose di Arpsusar (ripara muscoli in 1 giorno),  delle  bacche
+di Rud-Tekma (sufficienti per una dose, vedi Equip), una dose di Fek  (ferma
+sangue in 1d10 round), più alcuni  libri  in  Ragashano  (fra  cui  Note  di
+Damarkan di Stalis, Compendio di Circoli e Pentacoli) che  potranno  tornare
+utili ai PG più avanti.
+
+Sconfiggere Tobias: 1500px al party
+
