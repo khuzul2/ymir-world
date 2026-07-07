@@ -1,0 +1,473 @@
+SOURCE: Google Drive — YMIR 1.0.0 - Combat.docx (fileId 0B51K1jhM2wrFSFJXRV9hMU1UUm8)
+
+YmiR2 – Basic Rules
+
+YMIR
+
+Basic Rules
+
+
+
+# Table of Contents
+
+[Table of Contents ](#_Toc349829160)[2](#_Toc349829160)
+
+[The Pillars ](#_Toc349829161)[3](#_Toc349829161)
+
+[Levels ](#_Toc349829162)[4](#_Toc349829162)
+
+[Actions ](#_Toc349829163)[4](#_Toc349829163)
+
+[Characters ](#_Toc349829164)[5](#_Toc349829164)
+
+[Character Creation ](#_Toc349829165)[5](#_Toc349829165)
+
+[Stats ](#_Toc349829166)[7](#_Toc349829166)
+
+[Permanent Attributes ](#_Toc349829167)[8](#_Toc349829167)
+
+[Temporary Attributes ](#_Toc349829168)[15](#_Toc349829168)
+
+[Skills ](#_Toc349829169)[18](#_Toc349829169)
+
+[Talents ](#_Toc349829170)[26](#_Toc349829170)
+
+[Character Development ](#_Toc349829171)[28](#_Toc349829171)
+
+[Developing Skills ](#_Toc349829172)[28](#_Toc349829172)
+
+[Developing Stats ](#_Toc349829173)[28](#_Toc349829173)
+
+[Acquiring Talents ](#_Toc349829174)[29](#_Toc349829174)
+
+[Luck ](#_Toc349829175)[29](#_Toc349829175)
+
+[Combat ](#_Toc349829176)[30](#_Toc349829176)
+
+[Example of Combat ](#_Toc349829177)[31](#_Toc349829177)
+
+[Combat Actions ](#_Toc349829178)[33](#_Toc349829178)
+
+[Positioning ](#_Toc349829179)[38](#_Toc349829179)
+
+[Distance ](#_Toc349829180)[38](#_Toc349829180)
+
+[Generic Weapons and Attacks ](#_Toc349829181)[39](#_Toc349829181)
+
+[Wounds, Healing and Recovery ](#_Toc349829182)[40](#_Toc349829182)
+
+[Hit Points ](#_Toc349829183)[40](#_Toc349829183)
+
+[Penalties ](#_Toc349829184)[40](#_Toc349829184)
+
+[Soul Damage ](#_Toc349829185)[41](#_Toc349829185)
+
+[Stats Degradation ](#_Toc349829186)[41](#_Toc349829186)
+
+[Suffocation ](#_Toc349829187)[41](#_Toc349829187)
+
+[Adventuring ](#_Toc349829188)[42](#_Toc349829188)
+
+[Travelling ](#_Toc349829189)[42](#_Toc349829189)
+
+[Substances: Herbs, Drugs and Poison ](#_Toc349829190)[46](#_Toc349829190)
+
+[Alchemic Composites ](#_Toc349829191)[46](#_Toc349829191)
+
+[Poisons ](#_Toc349829192)[46](#_Toc349829192)
+
+
+
+# Combat
+
+Action Points determine the number of Actions that can be taken by each participant in one round of Combat.
+
+Each Action has a cost in Action Points. Each character can take a maximum of three actions every Combat Round, unless he has access to talents that grant him more actions per round.
+
+Each participant secretly writes down Actions for each round, and then Actions are revealed and take effect simultaneously and interact with each other as per description.
+
+Casting spells during combat requires Power Points in addition to Action Points.
+
+Action Points and Power Points can be gained during Combat by performing a Concentration Action.
+
+Action Points are re-set at the end of each combat round.
+
+Power Points and are re-set at the end of Combat.
+
+
+
+## Example of Combat
+
+After losing a beer drinking contest with Amoth, Groll decides it’s time to wash humiliation away with blood.
+
+Being the wild barbarian he is, Groll opens the combat in the most straightforward way: he runs to Amoth in a furious charge right away\!
+
+Groll has 8 Action Points and a Combat – Unarmed bonus of 100. Amoth has 10 Action Points and a Combat – Unarmed bonus of 70.
+
+Having opened the combat with a charge, Groll must take an Attack/Parry Action as his first round Action. His Attack will have a +25 bonus, so he decides to maximize the chance of inflicting serious damage by going for an All-Out Attack (3AP), followed by a more cautious Reposition in order to flank Amoth (2AP) and then go for a final Attack/Parry (3AP).
+
+Groll would like to attack faster by making his attacks snap, but he would have to skip an Action in order to pay double the APs for the snap option, so he goes more conservative.
+
+Groll Actions – Round 1
+
+Action 1: Attack/Parry (All-Out Attack) 3AP
+
+Action 2: Reposition (From front to flank) 2AP
+
+Action 3: Attack/Parry (80 Offense/20 Defense) 3AP
+
+At this point Amoth only knows that Groll’s first Action will be an Attack, as he opened the combat with a Charge. His strategy will focus on trying to leverage his mobility by avoiding Groll’s attacks at first and then rely on his magic skills in order to attack him with a decisive Spell that will hopefully end the Combat.
+
+Amoth Actions – Round 1
+
+Action 1: Dodge 3AP
+
+Action 2: Dodge 3AP
+
+Action 3: Dodge 3AP
+
+Let’s see how the first combat round resolves:
+
+Groll’s All-Out Attack against Amoth’s Dodge, Groll rolls 31 on the die and gets a total of 31 from the die, +100 for his Combat – Unarmed skill bonus, +25 for the All-Out Attack and +25 for the charge for a total of 181. Amoth rolls a 73 for his Dodge, plus 90 of his General – Acrobatics skill, but that’s not enough\! He gets caught and takes full damage from Groll’s fists\!
+
+Groll rolls 3 on one d10 for the damage from his fists, plus 18 for his 181 total. Amoth is wearing just thick clothes, so he subtracts 1 damage from Armor and gets 20 damage, which lead to an Exemplary critical hit.
+
+Groll rolls a 02 on the Exemplary critical hit table for Brawling, and Amoth is very lucky to take just 3 more damage from the critical hit.
+
+The second Action sees Groll going on flanking Amoth, while Amoth’s dodge is useless.
+
+In the last Action, Groll rolls his attack with the Attack – Offense bonus of 80 for a total of 112. Amoth dodges rolling a total General – Acrobatics of 119. This time Groll’s attack has no effect.
+
+Amoth starts growing concerned and tries everything he’s got in order to end the combat as quickly as possible before being knocked out or killed by Groll’s superiority in physical combat. He spends all his APs to cast an instant spell and have it being snap, to be sure his action will take effect first.
+
+Amoth Actions – Round 2
+
+Action 1: Cast a Spell (Mundane, instant, snap) 10AP, 2PP
+
+Action 2: none
+
+Action 3: none
+
+Groll suspects Amoth will try to go first, so he decides to go for a snap All-Out attack in order to win the combat with one big blow. He decides to Concentrate as his second Action in order to get 3 more Aps so he can Attack again in the last Action, in the case that Amoth is still standing by then.
+
+Groll Actions – Round 1
+
+Action 1: Attack/Parry (All-Out Attack, snap) 6AP
+
+Action 2: Concentrate (gain 3 AP) 1AP
+
+Action 3: Attack/Parry (All-Out Attack) 3AP
+
+The first Action resolves in an unexpected way for Groll: Amoth’s spell resolves before he can attack, as it’s been snapped twice while his attack has only been snapped once. Amoth casts a Dark Sleep spell, which is a Mundane force spell. The difficulty for casting Dark Sleep is 100. Amoth rolls a 37 plus his Magic – Spell Casting skill bonus of 72 for a total of 109. The spell is successfully cast. Groll performs is Resistance – Magical roll and gets a die roll of 21 plus his bonus of 30, for a total of 51 – 58 short of resisting the spell. Dark Sleep has its effect on Groll, who falls asleep before even being able to begin the second round.
+
+
+
+## Combat Actions
+
+Actions that can be taken are:
+
+List here
+
+List here
+
+### Attack/Defend
+
+Cost:
+
+3 AP for a normal Attack
+
+5 AP for an aimed Attack
+
+Divide your Combat skill bonus in an Attack - Offense amount and an Attack - Defense amount. You have the right to perform the Attack – Offense roll only if devolving at least 1 point to your Attack-Offense bonus.
+
+If not bearing a shield, the defense amount can be used only against Combat-Melee or Combat-Unarmed attacks.
+
+If using ranged weapons without a shield, such as bows or crossbows, the defense amount must be zero.
+
+If assigning all your bonus to Attack – Offense, you are doing an All-out Attack. You skip your Attack - Defense roll entirely and your Attack - Offense roll gets a +25 bonus.
+
+If assigning all your bonus to Attack – Defense, you are doing an All-out Defense. You skip your Attack - Offense roll entirely and Your defense roll gets a +50 bonus.
+
+#### Normal Attack
+
+Note
+ If using Rolemaster critical hit tables, the type of critical that is inflicted depends on how much damage was dealt, as follows:
+ From 20 to 29 Hit Points damage: A
+ From 30 to 39 Hit Points damage: B
+ From 40 to 49 Hit Points damage: C
+ From 50 to 59 Hit Points damage: D
+ Over 59 Hit Points damage: E
+
+Perform an Attack - Offense roll against foe’s Attack - Defense roll.
+
+Determine the inflicted Damage
+
+(Weapon Damage roll + Attacker’s Strength) + (Attacker’s Attack - Offense roll – Defender’s Attack – Defense roll) / 10 – Defender’s Armor
+
+Subtract the damage from target’s Hit Points
+
+If the attack inflicts 20 or more damage, perform a critical hit roll on the appropriate critical table, adding damage that exceeds 20 to the roll and subtracting eventual critical reduction of the target.
+
+#### Hold/Subdue
+
+Perform a Normal attack but roll eventual critical hits on the Hold/Subdue Critical Hit Table.
+
+#### Aimed Attack
+
+Decide which part of the target’s body you are aiming, between:
+
+Head/Neck (-75)
+
+Eyes (-100)
+
+Torso (-25)
+
+Groin (-75)
+
+Limb (-50)
+
+Determine the type of wound you want to inflict, according to the weapon you are using:
+
+Cut/Slash/Rip/Tear
+
+Pierce/Impale/Perforate/Penetrate
+
+Smash/Crush/Slam/Bash
+
+Hold/Lock/Immobilize/Subdue
+
+Then:
+
+Perform an Attack - Offense roll against foe’s Attack - Defense roll.
+
+Determine the inflicted Damage
+
+(Weapon Damage roll + Attacker’s Strength) + (Attacker’s Attack - Offense roll – Defender’s Attack – Defense roll) / 10 – Defender’s Armor
+
+Subtract the damage from target’s Hit Points
+
+If the attack inflicts 10 or more damage, perform a critical hit roll on the appropriate critical table, adding damage that exceeds 10 to the roll and subtracting eventual critical reduction of the target.
+
+
+
+### Feint
+
+Cost: 3AP
+
+Perform a General-Perception against General-Perception roll, if successful the opponent is at -20 for the next 5 Actions.
+
+Feint rolls can be cumulative.
+
+### Dodge
+
+Cost: 3AP
+
+Only works against incoming attack. Perform a General-Acrobatics roll versus the incoming attack roll.
+
+If the Acrobatics roll is equal or higher than the attack roll, the attack has no effect. Otherwise the attack has full effect.
+
+### Cast a Spell
+
+Cost: 3AP
+
+Each spell cast during combat also costs a number or Power Points based on its League
+
+Mundane spells cost 2 Power Points
+
+Heroic spells cost 5 Power Points
+
+Exemplary spells cost 7 Power Points
+
+Lordly spells cost 10 Power Points
+
+Epic spells cost 20 Power Points
+
+### Concentrate
+
+Cost: 1AP
+
+Concentrating is used to gain more Power Points or Action Points during Combat. A character gains points based on his own League
+
+Mundane characters gain 3 Power Points or Action Points
+
+Heroic characters gain 4 Power Points or Action Points
+
+Exemplary characters gain 5 Power Points or Action Points
+
+Lordly characters gain 7 Power Points or Action Points
+
+Epic characters gain 10 Power Points or Action Points
+
+### Calm Down
+
+Cost: 5AP
+
+A character can try to calm down when frightened or frenzied to regain full control.
+
+### Perform a Resistance – Mental roll against Mundane (100) difficulty plus 10 for each Action spent frenzied or frightened.
+
+### If the roll is successful the character exits the frightened or frenzied status.
+
+### Move
+
+Cost: 2AP
+
+Attacks made against somebody who is moving have full effect
+
+Choose one of the following:
+
+Facing \<-\>Flanking \<-\> Behind
+
+Below foe \<-\> Same Level \<-\> Elevated
+
+Supine/Prone \<-\> Crouching \<-\> Standing
+
+Moving and engaging in melee combat:
+
+\+1 Action Out of Melee \<-\> 1 Action Out of Melee \<-\> Short Range \<-\>Medium Range \<-\> Long Range
+
+### Assess
+
+Cost: 1 AP
+
+A character can use the Assess Action to study her opponents, look for an unprotected spot, plan her next move, and so on.
+Assess grant a +20 bonus to a character’s next Action. This bonus is not cumulative.
+If scripted against a successful Feint, Assess has no effect.
+
+### Reload
+
+Cost:
+
+Blowpipe: 1AP
+
+Sling: 2AP
+
+Short Bow: 3AP
+
+Light Crossbow: 4AP
+
+Long Bow: 5AP
+
+Heavy Crossbow: 6AP
+
+### Other Actions
+
+Cost for a Minor Action: 2 AP
+
+Cost for a Major Action: 4 AP
+
+Other Actions can be taken during Combat. A Minor Action consists in something quickly and easily performed, like drawing or folding a weapon or another small object, or using or manipulating a simple object, for example pulling a lever. Major Actions are more complex, like taking an object out of one’s own backpack, using or manipulating complex objects or performing actions involving a skill, such as pickpocketing somebody.
+
+## Positioning
+
+A Character may find itself or maneuver in order to gain an advantage in positioning.
+
+Being behind the target grants a +50 bonus to melee and ranged attacks.
+
+Flanking the target grants a +25 bonus to melee and ranged attacks.
+
+Being in an elevated position grants a +25 bonus to melee and ranged attacks.
+
+Attacking a prone or supine target grants a + 50 bonus to melee attacks and a -50 malus to ranged attacks.
+
+Attacking a crouching target grants a +25 bonus to melee attacks and a -25 malus to ranged attacks.
+
+## Distance
+
+Distance between characters involved in a Combat is measured by the number of Actions that it takes to get to Melee range.
+
+Melee Range is divided in three sub-ranges:
+
+Short Range
+
+Medium Range
+
+Long Range
+
+### Effects of Battle Fields
+
+Alcuni CdB potrebbero avere degli effetti speciali sullo svolgersi del combattimento. Per esempio, un CdB molto ristretto potrebbe imporre uno Svantaggio a tutti i combattenti che utilizzano armi ingrombranti. Oppure, un CdB avvolto da una cortina di gas velenoso potrebbe attaccare i suoi occupanti ogni round. O ancora, un CdB coperto da una fitta vegetazione potrebbe offrire riparo contro gli attacchi a distanza a chi lo occupa.
+
+
+
+Ogni pezzo di armatura indossato da un Personaggio aggiunge un certo valore alla sua TA naturale (che è 0, se non specificato diversamente). Un Personaggio non può indossare più di 6 pezzi di armatura diversi (2 bracciali, 2 gambali, un elmo e una corazza), più uno scudo e non può indossare più di un pezzo di armatura per coprire la stessa parte del suo corpo.
+
+Alcuni pezzi di armatura sono considerati Pesanti ed impongono uno Svantaggio in tutte le azioni in cui potrebbero risultare d'impiccio a chi le indossa (come arrampicarsi o saltare), oltre a rendere del tutto impossibile nuotare.
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Armatura | TA | Note |
+| Pelle: Corazza | 2 |  |
+| Pelle: Gambale/Bracciale/Elmo | 1 |  |
+| Pelle: Completa | 7 |  |
+| Cuoio: Corazza | 3 |  |
+| Cuoio: Gambale/Bracciale/Elmo | 1,5 | Arrotonda il totale per difetto |
+| Cuoio: Completa | 10 |  |
+| Cuoio Rinforzato: Corazza | 4 |  |
+| Cuoio Rinf.: Gambale/Bracciale/Elmo | 2 |  |
+| Cuoio Rinforzato: Completa | 14 |  |
+| Cotta di Maglia: Corazza | 6 | Pesante |
+| Cotta di Maglia: Gambale/Bracciale/Elmo | 3 | \* |
+| Cotta di Maglia: Completa | 21 | Pesante |
+| Scaglie/Lamellare: Corazza | 8 | Pesante |
+| Scaglie: Gambale/Bracciale/Elmo | 4 | \* |
+| Scaglie/Lamellare: Completa | 28 | Pesante |
+| Piastre: Corazza | 10 | Pesante |
+| Piastre: Gambale/Bracciale/Elmo | 5 | \* |
+| Piastre: Completa | 35 | Pesante |
+| Buckler/Arma da Parata | \+1 |  |
+| Scudo Piccolo | \+2 |  |
+| Scudo Medio | \+3 |  |
+| Scudo a Torre | \+4 | Pesante |
+| \* Se un Personaggio indossa più di due pezzi combinati di questi tipi di armatura, essi vengono considerati Pesanti. |  |  |
+
+## Generic Weapons and Attacks
+
+|  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: |
+| Arma | Esempi | Damage | Min ST | ST 1-Handed |
+| Medium Unarmed | Calcio, Pugno, Presa | 1d10 | \- | \- |
+| Small Weapon | Pugnale, Shuriken, Fionda, Arma Improvvisata | 2d10 | \- | 1 |
+| Light Weapon | Stocco, Sciabola, Spada Corta, Arco Corto | 3d10 | 1 | 2 |
+| Medium Weapon | Spada, Mazza, Arco Lungo, Balestra Leggera | 4d10 | 3 | 5 |
+| Large Weapon | Claymore, Morning Star, Balestra Pesante | 5d10 | 6 | 12 |
+| Heavy Weapon | Maglio, Spadone, Mazzafrusto, Ascia da Guerra | 6d10 | 8 | 16 |
+
+# Wounds, Healing and Recovery
+
+## Hit Points
+
+i Personaggi recuperano un numero di Punti Vigore pari al proprio punteggio di COS ogni ora di riposo. Ogni tre ore complete di sonno, invece, permettono al Personaggio di recuperare un numero di PV pari a metà del proprio bonus di Vigore.
+
+un Personaggio sviene quando subisce un numero di PV pari al proprio punteggio di Vigore. Muore per eccesso di ferite se subisce un numero di PV pari al proprio punteggio di Vigore + 50 + la somma dei propri punteggi di COS e VOL.
+
+## Penalties
+
+Molti critici impongono delle penalità alle azioni dei PG, che vanno applicate a qualsiasi Manovra essi effettuano. Se le penalità di un Personaggio raggiungono o superano i 100 punti, egli sarà considerato incapace di muoversi fino a che esse non raggiungeranno un valore inferiore a 100.
+
+Se un Personaggio rimane a riposo, in un ambiente sano, senza sforzare la parte ferita del suo corpo, egli vedrà diminuire le sue Penalità di un certo numero al giorno, a seconda del suo punteggio di COS, come mostrato dalla tabella sottostante.
+
+|  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| COS | 1-2 | 3-5 | 6-7 | 8-9 | 10-19 | 20+ |
+| Recupero | 1 | 2 | 3 | 4 | 5 | 8 |
+
+Nel caso in cui il Personaggio abbia accesso a cure adeguate, le sue ferite guariranno più velocemente: una manovra di Guarigione può ridurre notevolmente i tempi di convalescenza.
+
+La difficoltà della manovra necessaria a trattare una ferita è pari a 50 + la penalità espressa come numero assoluto (per esempio, curare una ferita che infligge una penalità di -25 richiede una manvora con CD 50 + 25 = 75). Aumenta di 20 punti la difficoltà se il Personaggio sta cercando di operare su sé stesso.
+Se la manovra ha successo, le penalità inflitte dalla ferita sono immediatamente dimezzate ed essa comincia a guarire secondo il normale ritmo di guarigione.
+Se essa fallisce, invece, le penalità aumentano ad una volta e mezza il loro valore originario (un -25, per esempio, si trasforma in un -37), ma la ferita comincia comunque a guarire al ritmo indicato dalla tabella.
+
+
+
+## Soul Damage
+
+Molti non morti, demoni ed alcuni effetti magici danneggiano l'anima di un personaggio, piuttosto che il suo corpo. I Danni all'Anima funzionano come normali danni e vengono sottratti al totale dei PV disponibili del Personaggio. Al contrario delle ferite comuni, tuttavia, essi possono essere curati solamente attraverso appositi incantesimi, composti alchemici, miracoli o erbe sacre.
+
+## Stats Degradation
+
+Alcuni incantesimi o effetti magici riducono temporaneamente o permanentemente le caratteristiche dei personaggi. Se una o più caratteristiche di un Personaggio scendono a zero punti o meno per un qualsiasi effetto, egli muore a meno che non venga specificato diversamente dall'effetto.
+
+## Suffocation
+
+in situazioni normali i personaggi possono trattenere il fiato per un numero di minuti pari al proprio punteggio di COS, più uno ogni 5 ranghi nell'Abilità Ateltica, dopodiché perdono i sensi e muoiono soffocati in 1d10 minuti. In situazioni di stress e intensa attività, (come il combattimento) al termine di ogni round in cui effettuano un attacco o subiscono dei danni devono eseguire una Manovra Media di Atletica come azione gratuita. Se la Manovra non ha successo, perdono i sensi e cominciano a morire soffocati.

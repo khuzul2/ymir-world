@@ -1,0 +1,1325 @@
+SOURCE: Google Drive — YMIR 1.0.0 - Rules.pdf (fileId 0B51K1jhM2wrFUEVEekZ4emJfUEE)
+
+YmiR2 – Basic Rules
+
+1
+
+YMIR
+
+BASIC RULES
+
+YmiR2 – Basic Rules
+
+2
+
+Table of Contents
+
+TABLE OF CONTENTS ............................................................................................................................................... 2 THE PILLARS ............................................................................................................................................................... 3 Levels ......................................................................................................................................................................................... 4 Actions ....................................................................................................................................................................................... 4 CHARACTERS .............................................................................................................................................................. 5 Character Creation ..................................................................................................................................................................... 5 Stats ........................................................................................................................................................................................... 7 Permanent Attributes................................................................................................................................................................. 8 Temporary Attributes ............................................................................................................................................................... 15 Skills ......................................................................................................................................................................................... 18 Talents ..................................................................................................................................................................................... 26 CHARACTER DEVELOPMENT ............................................................................................................................... 28 Developing Skills ...................................................................................................................................................................... 28 Developing Stats ...................................................................................................................................................................... 28 Acquiring Talents ...................................................................................................................................................................... 29 Luck .......................................................................................................................................................................................... 29 COMBAT ...................................................................................................................................................................... 30 Example of Combat .................................................................................................................................................................. 31 Combat Actions ........................................................................................................................................................................ 33 Positioning ............................................................................................................................................................................... 38 Distance ................................................................................................................................................................................... 38 Generic Weapons and Attacks .................................................................................................................................................. 39 WOUNDS, HEALING AND RECOVERY................................................................................................................. 40 Hit Points .................................................................................................................................................................................. 40 Penalties .................................................................................................................................................................................. 40 Soul Damage ............................................................................................................................................................................ 41 Stats Degradation ..................................................................................................................................................................... 41 Suffocation ............................................................................................................................................................................... 41 ADVENTURING ......................................................................................................................................................... 42 Travelling ................................................................................................................................................................................. 42 SUBSTANCES: HERBS, DRUGS AND POISON .................................................................................................... 46 Alchemic Composites ............................................................................................................................................................... 46 Poisons ..................................................................................................................................................................................... 46
+
+YmiR2 – Basic Rules
+
+3
+
+The Pillars
+
+The game of Ymir is based around two main pillars upon which the whole game lies. These are the Leagues, the and the Actions.
+
+These pillars contribute to create a system in which the players can make their characters act. Once the pillars are fully comprehended, everything else is very simple.
+
+YmiR2 – Basic Rules
+
+Levels
+
+The first pillar of Ymir is the concept of level, around which the whole game is based. Levels are a general measure of experience, power and difficulty.
+
+All of the things in Ymir have a level. Skills have a level based on the total skill bonus, spells have levels that determine their difficulty to cast and acquire. Even the characters themselves have, at any given time, a level.
+
+One level corresponds to:
+
+• A +10 bonus to a skill
+
+• A total of 100 skill tests taken by a character
+
+• 1 Additional Action Point
+
+• 1 Additional Power Point
+
+• Additional Hit Points and Resistances corresponding to appropriate character’s stats.
+
+Actions
+
+The other pillar of Ymir is constituted by the Actions. Actions are performed by character by using their skills to overcome challenges and difficulties. Choosing to performing the right actions in the right order, and doing so successfully will lead to positively accomplished quests, which will lead to rewards in form of talents, treasure and character growth.
+
+Time
+
+In game, time is divided in Rounds of three seconds each. Rounds are divided in Actions that last one second each. Normally, a character can use one skill each round. During combat, things speed up and the round is divided in three faster actions each.
+
+Versus Actions
+
+Sometimes a character will use a skill to contrast a foe’s skill directly, like for example using Subterfuge – Stealth against General – Perception to sneak behind a foe. In these situations, versus roll is required. The attacker wins if his skill roll is greater than the defender’s.
+
+4
+
+YmiR2 – Basic Rules
+
+5
+
+Characters
+
+Character Creation
+
+In order to play, the first thing you need is that each player creates her character by following the process hereby described.
+
+Determine Stats
+
+Distribute 30 Points among your Stats: each Stat can have a minimum of 0 points and a maximum of 10 points assigned in this phase
+
+Choose the Race
+
+• Choose Racial Stat bonuses Max bonus to a stat +10, Max malus -10, Total balance must be +10
+
+• Choose Racial Skill bonuses Distribute a total of 40 Racial Bonus points between Resistance Skills, Power Points and Hit Points
+
+Determine Attributes
+
+• You have 50 Luck points
+
+• You have Action Points equal to Dexterity Bonus plus 1 per Level.
+
+• You have Power Points equal to Logic Bonus plus 1 per Level.
+
+Determine General Training (Choose One)
+
+Choose one between:
+
+• One Skill Group for which all skills get a Special Bonus of +10
+
+• Two Skill Groups for which all skills get a Special Bonus of +5
+
+Choose Specific Training
+
+• Choose 2 different Skills which get a Special Bonus of +30 each
+
+• Choose 2 different Skills which get a Special Bonus of +20 each
+
+• Choose 2 different Skills which get a Special Bonus of +10 each
+
+Background (Choose 5, multiple choices allowed)
+
+• 2d10 Gold Pieces
+
+• One Spell Tome
+
+• Access to a Domain Teacher
+
+• One +10 Magical Item
+
+• Two +5 Magical Items
+
+• One +5 Spell Adder
+
+YmiR2 – Basic Rules
+
+Advance
+
+The Game Master will tell you at which Level your character starts. If you start at a character level above 0, you will have 100 Development Points to spend for each level to buy skills, talents and stats.
+
+Determine the Totals
+
+Determine the Total Bonus for each Stat, Skill and Attribute by summing all other Bonuses
+
+6
+
+YmiR2 – Basic Rules
+
+Stats
+
+Each Character is defined by six Stats. While Skills determine what a character learned during the span of her life, Stats indicate her innate capabilities.
+
+Stats influence Skills, Attributes and some in-game rolls, and are:
+
+• Strength is a measure of the Character’s physical power.
+
+• Dexterity measures the Character’s agility and quickness.
+
+• Constitution measures the Character’s health and general fitness.
+
+• Intuition measures the mental readiness and quickness of the Character.
+
+• Logic measures the reasoning capability and logical intelligence of the Character.
+
+• Self-Discipline measures the concentration and mental focus that the Character can Express.
+
+7
+
+YmiR2 – Basic Rules
+
+Permanent Attributes
+
+Attributes are secondary parameters that indicate some of the Character’s capabilities.
+
+Luck
+
+Each Character starts the game with 5 Luck, this value can never be exceeded. Luck can be used to avoid extreme adverse effects that may occur during the game and gained by performing certain actions.
+
+Some situations (such as gambling) may require a Character to perform a Luck roll.
+
+Spend one Luck to:
+
+• Re-roll a single die roll either performed by the Character or against it
+
+• Ignore a death causing effect, like a critical hit result, a deadly fall, a deadly poison
+
+• Stabilize a wound. It will then heal according to normal rules.
+
+Gain 1 Luck by:
+
+• Accomplishing a quest in your league or above grants you one Luck.
+
+• Accepting an incredibly unlucky result by avoiding to spend Luck to ignore its consequences
+
+Action Points
+
+Action Points represent the physical energy a character has to perform special actions in stressful situations, for example during Combat. Each of those actions costs a number or Action Power Points.
+
+Characters a number of Action Points equal to their Dexterity Base Bonus plus 5 for each League above Mundane.
+
+Power Points
+
+Power Points represent how much magical energy a character has to cast her spells in stressful situations, for example during Combat.
+
+Characters a number of Power Points equal to their Intuition Base Bonus plus 5 for each League above Mundane.
+
+8
+
+YmiR2 – Basic Rules
+
+Corruption
+
+An incautious Character might incur in one or more forms of Corruption, by facing powerful forces beyond their comprehension. Corruption can be of three types: Dark, Elemental or Mental. Corruption is measured by a value that gets from 0, no corruption, to 100, totally corrupted.
+
+Dark Corruption
+
+Dark Corruption represents the influence of Dark Essence on Characters, and can be gained by using Evil Spells and Artifacts, by making pacts with Demons and wandering through Evil Lands.
+
+Gain Dark Corruption by:
+
+• Casting from an Evil Spell List. If her Dark Corruption is less than the level of the spell, it immediately reaches that value.
+
+• Making Pacts with Demons. In the case a Demon asks for a part of one's Soul as a payment, the Character gains Dark Corruption accordingly.
+
+• Using Evil Artifacts makes gain 1 Dark Corruption each week. Single use objects give 1d10 Dark Corruption when used.
+
+• Being in Evil Lands grants 1 Dark Corruption each day unless a Resistance - Magical roll is made
+
+If you have 25 or more Dark Corruption, you have become evil and are treated as such for all game purposes.
+
+If you reach 100 Dark Corruption, you are damned.
+
+Every 10 Dark Corruption you acquire, a roll on the Dark Corruption Effects table must be made, to see how Evil Essence influences you.
+
+9
+
+YmiR2 – Basic Rules
+
+Dark Corruption Effects Table
+
+Roll Effect 01-05 Il personaggio si perde in una spirale di corruzione: riceve 1d10 di PC addizionali 06-10 Il personaggio diventa un mannaro del tipo scelto dal GM. Non è in grado di controllare in alcun
+
+modo le proprie trasformazioni 11-15 1-5 pallidi occhi ciechi compaiono in zone casuali del corpo del personaggio 16-20 Il personaggio è scosso da continui tremiti, che gli causano una penalità permanente di -10 alle
+
+azioni, a meno che non assuma un particolare tipo di droga o sostanza. 21-25 Il personaggio non può recuperare PP a meno che non consumi il sangue di qualche essere
+
+senziente ogni 24h 26-30 La lingua del personaggio diventa un lungo tentacolo vermiforme 31-35 La pelle del personaggio assume una tinta oscura ed innaturale 36-40 Gli occhi del personaggio assumono una colorazione o un'aspetto innaturale 41-45 I denti del personaggio diventano corte zanne affilate (utilizzabili per compiere attacchi Medi) 46-50 La lingua del personaggio diventa biforcuta 51-55 Il personaggio assume un aspetto cadaverico, estremamente difficile da occultare 56-60 Il personaggio è circondato da un'aura malevola, che mette a disagio infanti ed animali 61-65 Il personaggio riceve un marchio, che lo identifica come un seguace dell'Oscurità, in una locazione casuale del suo corpo. Il marchio può essere coperto, ma non cancellato o camuffato in altro modo 66-70 Il personaggio si attira l'inimicizia di una potente entità planare oscura, che comincia a vederlo
+
+come potenziale rivale o intralcio ai suoi piani 71-75 Un servitore di una divinità nemica ad Ahriman o di una simile società viene a conoscenza della
+
+corruzione del personaggio, ed inizia a dargli la caccia 76-80 Il personaggio tende ad attirare l'attenzione di cultisti e cercatori di sapere oscuro, che tentano di reclutarlo o estorcergli le sue conoscenze. Ogni sessione, c'è il 10% che incontri uno di questi individui 81-85 Il personaggio viene occasionalmente visitato da un demone, che cerca di strappargli favori (con
+
+inganni o minacce), o di proporgli patti di dubbia utilità 86-90 Il personaggio viene a conoscenza dell'ubicazione di una potente reliquia corrotta 91-95 La corruzione del personaggio viene ricompensata con una goccia di sapere proibito: il personaggio riceve un bonus di +10 alle manovre riguardanti una specifica conoscenza oscura (demoni, non morti, divinità maligne,...) 96-00 Gli dei oscuri sono compiaciuti della corruzione del personaggio. Nessun effetto.
+
+10
+
+YmiR2 – Basic Rules
+
+Elemental Corruption
+
+Elemental Corruption represents the influence of True Elements on Characters, and can be gained by various means.
+
+Gain Elemental Corruption by:
+
+• Being damaged by the True Element grants one point of Elemental Corruption for every 10 points of damage inflicted by the True Element.
+
+• Being targeted by a non-offensive Elemental Spell grants one point of Elemental Corruption if a Resistance – Magical roll is failed.
+
+• Failing to cast an elemental spell by more than 25 grants one point of Elemental Corruption to the caster.
+
+• Visiting Elemental planes grants 1 point of Elemental Corruption per full day spent on the plane.
+
+If you have 25 or more Elemental Corruption, you will be detected as an Elemental and will be immune to natural manifestations of the element, but you will suffer from double damage by the dominating element.
+
+At 50 or more Elemental Corruption, you will be immune to magical manifestation of the corrupting element, but will suffer triple damage from the dominating element. Attacks by the corrupting element are treated as natural solid attacks, that deal normal damage and impact critical hits.
+
+At 75 or more Elemental Corruption, you will receive half damage from physical attacks but receive four times the damage from the dominating element.
+
+If you reach 100 Elemental Corruption, you become a pure elemental entity and are subject to the rules for those entities.
+
+Every 10 Elemental Corruption you acquire, a roll on the Elemental Corruption Effects table must be made, to see how the True Element influences you.
+
+11
+
+YmiR2 – Basic Rules
+
+Elemental Corruption Effects Table
+
+Tiro del dado Effetto 01-05 Il personaggio ha una bassa resistenza all’elemento: guadagna 1d10 PC addizionali 06-10 Il personaggio acquisisce un tratto caratteriale tipicamente associato al proprio elemento,
+
+da trattare come una patologia o una sorta di alienazione mentale. 11-15 Mutazione del metabolismo: il personaggio deve ingerire ad ogni pasto almeno 2/3 del
+
+proprio elemento o subire gli effetti della malnutrizione 16-20 Simbiosi elementale: il personaggio è vittima di uno strano meccanismo simbiotico. Se non
+
+riposa avvolto (o immerso o circondato) dal proprio elemento, non recupera PV 21-25 Radiazione elementale: il personaggio è infetto e può trasmettere la corruzione elementale
+
+ad altri esseri viventi tramite il contatto diretto come se fosse un oggetto contaminato 26-30 La corruzione influenza direttamente una delle caratteristiche del personaggio (quella più
+
+aliena al proprio elemento) modificandola di -1 in modo permanente 31-35 Mutazione del corpo: un arto a caso prende la forma che avrebbe un elementale del tipo
+
+appropriato. 36-40 Bocca e gola del personaggio mutano e il personaggio riesce a esprimersi solo con suoni che
+
+ricordano il proprio elemento. 41-45 Il personaggio trasuda elemento: ogni giorno c’è il 10+ (totale PC)% di possibilità che si
+
+verifichino incontrollate manifestazioni di elemento (non Vero Elemento) 46-50 Tocco elementale: i palmi delle mani del personaggio causano al semplice tocco un critico A -50 del tipo appropriato. Se il personaggio supera i 50 PC totali, il critico diviene un A senza malus 51-55 Aura elementale: attorno al personaggio si crea un’aura di circa 30cm in cui ha luogo una manifestazione naturale dell’elemento che lo ha corrotto (calore intenso, brina, brezza, ecc…) 56-60 Sangue caustico: il sangue del personaggio diviene caustico e contaminante come quello di
+
+un drago giovane. 61-65 La pelle del personaggio assume i tratti caratteristici (colore, consistenza, temperatura)
+
+dell’elemento appropriato. 66-70 I capelli e gli occhi del personaggio assumono il colore dell’elemento appropriato. 71-75 Affinità Elementale: il personaggio guadagna un bonus alla Riflessi uguale ai suoi PC totali
+
+contro attacchi elementali diretti del tipo appropriato. 76-80 Il personaggio acquisisce la capacità di usare il proprio corpo, una volta al giorno, come un
+
+portale mistico verso il piano elementale appropriato. 81-85 Durante il sonno o la meditazione, se si trova in un luogo totalmente affine al proprio elemento, il personaggio ha l’1% ogni 10 PC di possibilità di ricevere una visione o entrare in contatto con una potente forza elementale. 86-90 La corruzione influenza direttamente una delle caratteristiche del personaggio (quella più
+
+legata al proprio elemento) modificandola di +1 in modo permanente 91-95 Arma a soffio: il personaggio guadagna un attacco a soffio giornaliero (1d10 danni
+
+dell’elemento appropriato, il bonus di attacco è pari ai PC totali). 96-00 Il personaggio riesce a sintonizzarsi con le fonti di Vero elemento (elementali, oggetti magici,
+
+minerali, portali…) che rileva automaticamente in un raggio di 1km ogni 10 PC
+
+12
+
+YmiR2 – Basic Rules
+
+Mental Corruption
+
+Gli eroi di Ymir (ed i maghi in particolare) sono abituati ad avere a che fare con esperienze che spingerebbero sull'orlo della pazzia una persona comune in pochi minuti. Esistono tuttavia forze in grado di incrinare persino la loro incredibile forza di volontà; creature che alterano la realtà con la loro stessa presenza e che si nutrono della stabilità mentale degli infelici che hanno la sfortuna di incontrarle; rituali talmente assurdi e blasfemi da avere effetti nefasti sulla mente di chi li officia.
+
+Mental Corruption Points
+
+Quando un Personaggio è esposto ad uno di questi elementi, acquisisce dei Punti Follia, che rappresentano l'erodersi delle sue capacità mentali. I Punti Follia vengono guadagnati solamente in situazioni molto particolari, come risultato di alcuni specifici incantesimi o attacchi speciali.
+
+Madness
+
+Man mano che un Personaggio vede aumentare i propri Punti Follia, attraversa diversi stadi di turbamento mentale, descritti nella tabella sottostante. Quando un Personaggio ha accumulato 100 o più Punti Follia, impazzisce completamente, diventa un PNG ed il suo controllo viene passato al GM fino a che non muore o non viene trovato un modo per curarlo.
+
+13
+
+YmiR2 – Basic Rules
+
+Mental Corruption Effects Table
+
+Punti Follia Effetto 10+ Turbato: la stabilità mentale del Personaggio è stata incrinata, ma tutto sommato è ancora integra. Di tanto in tanto il Personaggio manifesterà qualche sintomo del proprio turbamento (saltuari tic nervosi, balbettamenti o comportamenti lievemente anomali), ma si tratta di casi isolati e poco incidenti sulla sua vita quotidiana. 25+ Scosso: il Personaggio comincia a mostrare evidenti segni di squilibrio mentale. Parole o oggetti comuni lo fanno rabbrividire, il suo sguardo si fa vacuo per lunghi momenti, a volte si ritrova a parlare da solo o ad avere un attaccamento morboso a determinati oggetti. Subisce uno Svantaggio a tutte le sue interazioni sociali. Tranne che ad Intimidire, per cui invece guadagna un Vantaggio, visto che le persone sane tendono a trovarlo decisamente inquietante. 50+ Disturbato: il comportamento del Personaggio diventa selvaggio e incontrollabile, prono a repentini mutamenti d'umore o ad atti illogici. Oltre agli effetti di Scosso, il giocatore deve scegliere fra: Rabbia, Ilarità, Apatia, Depressione e Desiderio. Ogni volta che il suo Personaggio fallisce una Manovra o ottiene un Tocco del Fato, dovrà agire di conseguenza:
+
+• Rabbia: il Personaggio incolpa una persona a caso o un oggetto del suo fallimento, e lo attacca con tutte le sue forze finché non viene distrutto o per un'intera Scena.
+
+• Ilarità: il Personaggio trova il suo fallimento impossibilmente divertente e passerà un'intera Scena a riderne a crepapelle, raccontando nel dettaglio cosa gli è accaduto ad ogni persona che gli capita a tiro. Sarà incapace di fare altro per tutta la durata della Scena.
+
+• Apatia: il Personaggio cade in uno stato di profonda apatia, per un'intera Scena non eseguirà nessuna azione, nemmeno se forzato, e non si muoverà dal proprio posto a meno di non venir trascinato con la forza.
+
+• Depressione: il Personaggio incolpa sé stesso del suo fallimento e passa una Scena a punirsi corporalmente per esso. Al termine della Scena subisce 1d10 danni e un critico A del tipo appropriato.
+
+• Desiderio: il Personaggio prova un intenso e incontrollabile desiderio per un oggetto o una persona presenti a scelta del GM. Per una Scena non potrà far altro che tentare di entrarne in possesso in tutti i modi possibili. 75+ Al Limite: la mente del Personaggio è ormai al limite ed egli è un pericolo per sé e per le persone che lo circondano. Oltre agli effetti degli altri due stadi, una volta per sessione, in un qualsiasi momento a scelta del GM, il Personaggio agirà secondo la reazione che ha scelto per Disturbato (anche se non ha fallito o effettuato alcuna Manovra). 100+ Mwahahaha\!: il Personaggio è completamente andato, il suo controllo passa al GM fino
+
+a che il suo totale di Punti Follia non scende sotto il 100.
+
+14
+
+YmiR2 – Basic Rules
+
+Temporary Attributes
+
+Temporary Attributes are attributes that can be gained in game and last a limited amount of time.
+
+Addicted \[substance\]
+
+If a character takes more than one dose in a week of any substance that causes addiction, he will be addicted.
+
+An addicted character will be at -10 to everything. One dose of the substance will remove the penalty but will have none of the other substance effects. So, if the character wants to have the full effect, he will need to take another dose.
+
+Addiction is cumulative so, if a character assumes more than one dose a week of the substance, his addiction worsens: he is at another -10 to everything and will need another dose to avoid it.
+
+When penalty from a single addiction reaches -100, the character falls into a catatonic state and is unable to take any action.
+
+Any addicted character finds himself in a situation where he can buy and take the substance, or is offered a dose, he must make a Resistance – Mental roll against 100 or take the substance.
+
+Bleeding \[hits per round\]
+
+Bleeding characters lose a number of Hit Points at the end of each Round
+
+Crippled \[part/ penalty\]
+
+Crippled characters have a fixed negative modifier that applies to every roll involving the hit body part. A penalty of 100 means the part is amputated.
+
+Other modifiers are subject to GM’s discretion. For example, a character with an amputated tongue will be muted, one with an amputated head will be dead.
+
+Damned
+
+A damned character is no longer in control of her soul. She will mutate into a completely corrupted being and become a non-playing character in 1d10 days unless she loses some corruption.
+
+Dead
+
+A dead character has no action and can take no action, and her soul departs from her body in 1d10 rounds.
+
+Disembodied
+
+A disembodied character has it’s conscious soul trapped somewhere instead than in his own body. He can think and is conscious but can take no physical action. Mental actions suffer a -100 modifier.
+
+15
+
+YmiR2 – Basic Rules
+
+Dying \[time\]
+
+A dying character will be dead after the specified time has passed.
+
+Evil
+
+An evil character is recognized as such and is affected by all the spells and effects that affect evil creatures. Being evil should also be played in game by the player.
+
+Frenzied
+
+Frenzied characters have a +30 bonus to their Combat – Melee and Combat – Unarmed skills and their attacks deal double damage.
+
+They also ignore the stunned attribute and don’t get unconscious when Hit Points reach 0. They must enter melee combat against the nearest foe, if there are no foes they must enter melee combat against the nearest living being.
+
+While engaged in combat the only other action that can be normally taken is attack. If held he will try to escape the hold, if not standing he will reposition till he will be standing again.
+
+A frenzied character my try to exit frenzy by taking a special combat action that is Calm Down.
+
+Frenzy automatically ends where there is no living being standing in sight.
+
+When the frenzy ends, the character is stunned for one round.
+
+Frightened
+
+A frightened character can only stand and take no action, flee or try to calm down.
+
+Hasted
+
+Hasted characters have their action points doubled for one round.
+
+Held \[penalty\]
+
+An held character has a penalty.
+
+If the penalty is equal or above 100, the character is fully held and can take no action besides speaking or trying to free himself.
+
+If holding penalty is less than 100, the character is partially held and the negative modifier applies to every Action that is taken, besides trying to free himself.
+
+In order to escape the hold and free himself he must succeed in a Subterfuge-Stealth or Strength versus the Combat- Unarmed or Strength of who is holding him or versus a fixed difficulty set by the Game Master if he’s tied or held by other means.
+
+16
+
+YmiR2 – Basic Rules
+
+Helpless \[time\]
+
+Characters can take no active action while helpless. Helpless characters are still conscious and their senses work normally, so they can make General – Perception, Resistance and other passive rolls.
+
+Poisoned \[penalty\]
+
+The poisoned attribute describes a general, progressive adverse effect that is usually by being exposed to a toxic substance. A poisoned character suffers a penalty that affects the character and worsens over time. The penalty is applied after each full day the character spends in the poisoned status. The character dies if the penalty reaches a value of -100 or more.
+
+Sleeping
+
+Sleeping characters have no action and can take no action. When a character is waken from sleep in any way, she is stunned for one round.
+
+Slowed \[time\]
+
+Slowed characters have their action points halved for one round.
+
+Strengthened \[time\]
+
+Strengthened characters have a +10 bonus to their Combat – Melee and Combat – Unarmed skills and their attacks deal double damage.
+
+Stunned \[time\]
+
+Stunned characters are at -30 to all rolls and their Actions cost double Action Point. A stunned character can’t take any offensive action nor cast spells.
+
+Unconscious \[time\]
+
+Unconscious characters have no action and can take no action and can’t be waken unless cured. Unconsciousness lasts for the specified time unless action is taken to wake the character from the state. When a wakens from unconsciousness, she is stunned for one round.
+
+Weakened \[time\]
+
+Weakened characters have a -10 bonus to their Combat – Melee and Combat – Unarmed skills and their attacks deal half damage.
+
+17
+
+YmiR2 – Basic Rules
+
+Skills
+
+Skill range
+
+A skill can be in the Mundane, Heroic, Exemplary, Lord or Epic range
+
+• Mundane Total skill bonus of 99 or less
+
+• Heroic Total skill bonus of 100 to 149
+
+• Exemplary Total skill bonus of 150 to 199
+
+• Lord Total skill bonus of 200 to 249
+
+• Epic Total skill bonus of 250
+
+Using Skills
+
+Skill rolls can be fixed rolls or versus rolls
+
+• Fixed rolls are successful if total skill bonus plus roll is equal or above the given difficulty
+
+• Versus rolls are successful if total skill bonus plus roll is above the defending total skill bonus plus roll
+
+A natural 100 on the die roll is an automatic success.
+
+A natural 01 on the die roll is an automatic fumble.
+
+Open rolls: on a 01-04 reroll and subtract, on a 96-100 reroll and add.
+
+Chaos: Each natural 66 on a die roll that is performed outside combat leads to a random or bizarre result, at the Game Master’s discretion.
+
+The difficulty of a skill roll determines its level, and represents the number the Character has to beat with a d100 roll summed to his Total Skill Bonus.
+
+Difficulty is 10 per level of the required roll, such as, for example:
+
+• Level 10 Roll against 100
+
+• Level 14 Roll against 140
+
+18
+
+YmiR2 – Basic Rules
+
+Description of Skills
+
+Combat
+
+Melee
+
+Stats: ST/DE/ST
+
+Is the ability to use melee weapons such as swords, maces, knives, clubs, staves and so on.
+
+Ranged
+
+Stats: DE/ST/ DE
+
+Is the ability to use ranged and thrown weapons such as bows, crossbows, bolas, darts, and so on.
+
+Unarmed
+
+Stats: ST/DE/SD
+
+Is the ability to use one’s body as a weapon to attack and parry using sweeps, throws, strikes and so on.
+
+19
+
+YmiR2 – Basic Rules
+
+General
+
+Acrobatics
+
+Stats: DE/IN/SD
+
+It represents the ability to perform acrobatic maneuvers such as backflips, jumps, walking on ropes and so on. It is also used to avoid incoming attacks in combat situations.
+
+Adventuring
+
+Stats: LO/IN/ LO
+
+Represents the ability to recognize animals and plants, search for particular herbs, train and deal with animals and so on. It’s also the ability to find water, food and shelter in generally wild and hostile environments, as well as to orienteer in unknown places.
+
+Climbing
+
+Stats: DE/ST/SD
+
+It’s the ability to climb trees, walls, rocks and such.
+
+Crafting
+
+Stats: DE/IN/LO
+
+Is the ability to create and repair physical objects (e.g. golems, swords, chairs…)
+
+First Aid
+
+Stats: DE/IN/LO
+
+First Aid is the ability to perform basic healing maneuvers to stabilize one’s condition, like stopping bleeding, straightening a bone and so on.
+
+Lore
+
+Stats: LO/IN/LO
+
+Lore represents the general level of knowledge of the character. It is used to see if any information on interesting topics is known.
+
+Perception
+
+Stats: IN/LO/IN
+
+It’s the ability to perceive traps, ambushes, hidden objects and entities and in general to hear, smell and see things that normally go unnoticed or search for things.
+
+20
+
+YmiR2 – Basic Rules
+
+Swimming
+
+Stats: DE/CO/SD
+
+It’s the ability to swim in liquids and fluids, difficulty varies depending on the density of the liquid, the flows, the temperature and so on.
+
+21
+
+YmiR2 – Basic Rules
+
+Magic
+
+Alchemy
+
+Stats: LO/IN/LO
+
+This skill is used to identify alchemical compounds, to decipher recipes, to create new compounds and so on.
+
+Attunement
+
+Stats: IN/LO/IN
+
+Attunement is used to identify and use magical items, to understand magical symbols, read runic and magical languages, identify and use Scrolls and Tomes.
+
+Spell Casting
+
+Stats: LO/IN/SD
+
+It is the ability of understanding and casting spells according to known formulas. It also represents the attack bonus for using spells that must be directed against a target to physically harm him in some way, like elemental bolts and projectile spells. Additionally, it is the ability to direct the force of non-projectile attack spells like mental control and impairment, raw channeling, sleep and stun spells and so on.
+
+22
+
+YmiR2 – Basic Rules
+
+Social
+
+Streetwise
+
+Stats: LO/IN/LO
+
+It’s the ability to find what’s needed through contacts and society.
+
+Intimidate
+
+Stats: ST/LO/IN
+
+It’s the ability to impose one’s will on people by the means of fear.
+
+Influence
+
+Stats: IN/LO/IN
+
+It’s the ability to convince people by talking to them.
+
+23
+
+YmiR2 – Basic Rules
+
+Special
+
+Action Points
+
+Stats: DE
+
+Aaa
+
+Power Points
+
+Stats: LO
+
+Aaa
+
+Hit Points
+
+Stats: None
+
+Hit points represent the physical health of the character. When she gets injured or tired, she loses Hit Points. When hit points reach zero, the character falls unconscious. When hit points reach minus the value of Constitution, the character is dead.
+
+Resistance – Magical
+
+Stats: None
+
+Resistance – Magical is used whenever a character must resist an attack spell or other magical forces.
+
+Resistance – Mental
+
+Stats: None
+
+Resistance – Mental is used whenever a character must resist madness and fear provoking situations, for example when she makes contact with alien minds such as demons or other extra planar creatures, or when she sees very fearful and disturbing things like massacres, some undead and some other monstrous creatures.
+
+Resistance – Physical
+
+Stats: None
+
+Resistance – Magical is used whenever a character must resist to poison, disease and other health impairing attacks.
+
+24
+
+YmiR2 – Basic Rules
+
+Subterfuge
+
+Stealth
+
+Stats: IN/DE/SD
+
+Stealth is used to hide oneself from the sight, to stalk somebody, to hide objects and traps. It rolls against others Perception.
+
+Pickpocket
+
+Stats: DE/IN/DE
+
+Pickpocket is used to steal objects from the victim, and rolls against others Perception.
+
+Mechanisms
+
+Stats: LO/DE/IN
+
+Mechanisms skill is used to understand how mechanisms work, to activate and use them, to pick locks, to build or deactivate traps.
+
+25
+
+YmiR2 – Basic Rules
+
+Talents
+
+Talents are special attributes of characters that are acquired during the game. Talents define the characters and why they are unique or special.
+
+Each Talent is structured as follows
+
+• Level
+
+• DP Cost
+
+• Description
+
+Sex Appeal
+
+Level DP Cost Description 3 5 Get a +10 bonus to Influence maneuvers on opposite sex.
+
+Adrenal Speed
+
+Level DP Cost Description 5 10 Can perform a fourth Action during Combat, it takes place after the three usual Actions.
+
+Adrenal Strength
+
+Level DP Cost Description 3 5 New combat action. Cost: 1 AP to be strengthened for the next three Actions.
+
+Berserker
+
+Level DP Cost Description 5 7 New combat action. Cost: 5 AP to be frenzied from the next Action.
+
+Precision
+
+Level DP Cost Description 3 5 New combat action: Aimed Attack. 10 10 Add or subtract 0 to 5 to any critical hit roll.
+
+Sorcery (Domain)
+
+Level DP Cost Description 1 10 Learn a Domain
+
+Arcane Arts (Spell - Domain)
+
+Level DP Cost Description 1 5 Learn a Spell in a Domain. Prerequisite: at least one appropriate Domain.
+
+26
+
+YmiR2 – Basic Rules
+
+Golden Tongue
+
+Level DP Cost Description 5 5 Get a special +10 bonus to Social – Intimidate and Social – Influence maneuvers 15 10 Get another special +10 bonus to Social – Intimidate and Social – Influence maneuvers
+
+Specialist (Skill)
+
+Level DP Cost Description 15 15 Get a +25 special bonus to a single skill. 30 30 Get an additional +25 special bonus to a single skill where you are already a Specialist.
+
+Wipe Out
+
+Level DP Cost Description 10 5 Spend 3 additional APs while performing an Attack Action using Combat – Melee skill to hit a
+
+maximum of 2 enemies in melee range with the same Attack. 20 10 Spend 5 additional APs while performing an Attack Action using Combat – Melee skill to hit a
+
+maximum of 4 enemies in melee range with the same Attack. 30 20 Spend 10 additional APs while performing an Attack Action using Combat – Melee skill to hit up
+
+to every enemy in melee range with the same Attack.
+
+27
+
+YmiR2 – Basic Rules
+
+28
+
+Character Development
+
+Character develops by using skills. Each test on a skill must be noted on the character sheet.
+
+At the end of each game session, each test grants one Development Point, and tests are reset.
+
+Development Points can be spent to improve skills, acquire talents or better his stats.
+
+Every 100 Development Points the character has spent, he advances to the next Level.
+
+Developing Skills
+
+Development Points can be spent to advance skills, the development cost for a +1 skill bonus depends on the skill total bonus, and is as follows:
+
+Skill bonus Starting Bonus Advancement Bonus 0 to 99 Appropriate Stats 1 DP for +1 100 to 149 Appropriate Stats 2 DPs for +1 150 to 199 Appropriate Stats 3 DPs for +1 200 to 249 Appropriate Stats 4 DPs for +1 250 or more Appropriate Stats 5 DPs for +1
+
+The only exception to the development are Special Skills, that develop with levels:
+
+Special Skill Starting Bonus Advancement Bonus Action Points DE +1 per Level Power Points LO +LO per Level Hit Points 50 +CO per Level Resistance – Magical 50 + IN per Level Resistance – Physical 50 + SD per Level Resistance – Mental 50 +CO per Level
+
+Developing Stats
+
+Stats can be developed by spending DPs based on the stat total bonus as follows:
+
+Stat Bonus Advancement Cost 0 to 4 5 DPs for +1 5 to 9 10 DPs for +1 10 to 14 15 DPs for +1 15 to 19 20 DPs for +1 20 or more 50 DPs for +1
+
+YmiR2 – Basic Rules
+
+Acquiring Talents
+
+When the player finds a Talent he wants his character to gain, first of all he must check the Talent’s Level to be equal or below his character’s Level.
+
+The Game Master then decides whether the chosen Talent is suitable for the character, if it is, the character can spend the appropriate number of DPs to acquire the Talent.
+
+Luck
+
+Every time a character passes to the next level, his Luck becomes 50.
+
+29
+
+YmiR2 – Basic Rules
+
+30
+
+Combat
+
+Action Points determine the number of Actions that can be taken by each participant in one round of Combat.
+
+Each Action has a cost in Action Points. Each character can take a maximum of three actions every Combat Round, unless he has access to talents that grant him more actions per round.
+
+Each participant secretly writes down Actions for each round, and then Actions are revealed and take effect simultaneously and interact with each other as per description.
+
+Casting spells during combat requires Power Points in addition to Action Points.
+
+Action Points and Power Points can be gained during Combat by performing a Concentration Action.
+
+Action Points are re-set at the end of each combat round.
+
+Power Points and are re-set at the end of Combat.
+
+YmiR2 – Basic Rules
+
+Example of Combat
+
+After losing a beer drinking contest with Amoth, Groll decides it’s time to wash humiliation away with blood.
+
+Being the wild barbarian he is, Groll opens the combat in the most straightforward way: he runs to Amoth in a furious charge right away\!
+
+Groll has 8 Action Points and a Combat – Unarmed bonus of 100. Amoth has 10 Action Points and a Combat – Unarmed bonus of 70.
+
+Having opened the combat with a charge, Groll must take an Attack/Parry Action as his first round Action. His Attack will have a +25 bonus, so he decides to maximize the chance of inflicting serious damage by going for an All-Out Attack (3AP), followed by a more cautious Reposition in order to flank Amoth (2AP) and then go for a final Attack/Parry (3AP).
+
+Groll would like to attack faster by making his attacks snap, but he would have to skip an Action in order to pay double the APs for the snap option, so he goes more conservative.
+
+Groll Actions – Round 1
+
+• Action 1: Attack/Parry (All-Out Attack) 3AP
+
+• Action 2: Reposition (From front to flank) 2AP
+
+• Action 3: Attack/Parry (80 Offense/20 Defense) 3AP
+
+At this point Amoth only knows that Groll’s first Action will be an Attack, as he opened the combat with a Charge. His strategy will focus on trying to leverage his mobility by avoiding Groll’s attacks at first and then rely on his magic skills in order to attack him with a decisive Spell that will hopefully end the Combat.
+
+Amoth Actions – Round 1
+
+• Action 1: Dodge 3AP
+
+• Action 2: Dodge 3AP
+
+• Action 3: Dodge 3AP
+
+Let’s see how the first combat round resolves:
+
+Groll’s All-Out Attack against Amoth’s Dodge, Groll rolls 31 on the die and gets a total of 31 from the die, +100 for his Combat – Unarmed skill bonus, +25 for the All-Out Attack and +25 for the charge for a total of 181. Amoth rolls a 73 for his Dodge, plus 90 of his General – Acrobatics skill, but that’s not enough\! He gets caught and takes full damage from Groll’s fists\!
+
+Groll rolls 3 on one d10 for the damage from his fists, plus 18 for his 181 total. Amoth is wearing just thick clothes, so he subtracts 1 damage from Armor and gets 20 damage, which lead to an Exemplary critical hit.
+
+Groll rolls a 02 on the Exemplary critical hit table for Brawling, and Amoth is very lucky to take just 3 more damage from the critical hit.
+
+The second Action sees Groll going on flanking Amoth, while Amoth’s dodge is useless. 31
+
+YmiR2 – Basic Rules
+
+In the last Action, Groll rolls his attack with the Attack – Offense bonus of 80 for a total of 112. Amoth dodges rolling a total General – Acrobatics of 119. This time Groll’s attack has no effect.
+
+Amoth starts growing concerned and tries everything he’s got in order to end the combat as quickly as possible before being knocked out or killed by Groll’s superiority in physical combat. He spends all his APs to cast an instant spell and have it being snap, to be sure his action will take effect first.
+
+Amoth Actions – Round 2
+
+• Action 1: Cast a Spell (Mundane, instant, snap) 10AP, 2PP
+
+• Action 2: none
+
+• Action 3: none
+
+Groll suspects Amoth will try to go first, so he decides to go for a snap All-Out attack in order to win the combat with one big blow. He decides to Concentrate as his second Action in order to get 3 more Aps so he can Attack again in the last Action, in the case that Amoth is still standing by then.
+
+Groll Actions – Round 1
+
+• Action 1: Attack/Parry (All-Out Attack, snap) 6AP
+
+• Action 2: Concentrate (gain 3 AP) 1AP
+
+• Action 3: Attack/Parry (All-Out Attack) 3AP
+
+The first Action resolves in an unexpected way for Groll: Amoth’s spell resolves before he can attack, as it’s been snapped twice while his attack has only been snapped once. Amoth casts a Dark Sleep spell, which is a Mundane force spell. The difficulty for casting Dark Sleep is 100. Amoth rolls a 37 plus his Magic – Spell Casting skill bonus of 72 for a total of 109. The spell is successfully cast. Groll performs is Resistance – Magical roll and gets a die roll of 21 plus his bonus of 30, for a total of 51 – 58 short of resisting the spell. Dark Sleep has its effect on Groll, who falls asleep before even being able to begin the second round.
+
+32
+
+YmiR2 – Basic Rules
+
+Combat Actions
+
+Actions that can be taken are:
+
+• List here
+
+• List here
+
+Attack/Defend
+
+Cost:
+
+• 3 AP for a normal Attack
+
+• 5 AP for an aimed Attack
+
+Divide your Combat skill bonus in an Attack - Offense amount and an Attack - Defense amount. You have the right to perform the Attack – Offense roll only if devolving at least 1 point to your Attack-Offense bonus.
+
+If not bearing a shield, the defense amount can be used only against Combat-Melee or Combat-Unarmed attacks.
+
+If using ranged weapons without a shield, such as bows or crossbows, the defense amount must be zero.
+
+If assigning all your bonus to Attack – Offense, you are doing an All-out Attack. You skip your Attack - Defense roll entirely and your Attack - Offense roll gets a +25 bonus.
+
+If assigning all your bonus to Attack – Defense, you are doing an All-out Defense. You skip your Attack - Offense roll entirely and Your defense roll gets a +50 bonus.
+
+Normal Attack
+
+1\. Perform an Attack - Offense roll against foe’s
+
+Attack - Defense roll.
+
+Note
+
+2\. Determine the inflicted Damage
+
+If using Rolemaster critical hit tables, the type of (Weapon Damage roll + Attacker’s Strength) +
+
+critical that is inflicted depends on how much damage (Attacker’s Attack - Offense roll – Defender’s
+
+was dealt, as follows: Attack – Defense roll) / 10 – Defender’s Armor 3. Subtract the damage from target’s Hit Points
+
+• From 20 to 29 Hit Points damage: A
+
+• From 30 to 39 Hit Points damage: B If the attack inflicts 20 or more damage, perform a critical
+
+• From 40 to 49 Hit Points damage: C hit roll on the appropriate critical table, adding damage
+
+• From 50 to 59 Hit Points damage: D that exceeds 20 to the roll and subtracting eventual critical
+
+• Over 59 Hit Points damage: E reduction of the target.
+
+Hold/Subdue
+
+Perform a Normal attack but roll eventual critical hits on the Hold/Subdue Critical Hit Table.
+
+33
+
+YmiR2 – Basic Rules
+
+Aimed Attack
+
+Decide which part of the target’s body you are aiming, between:
+
+• Head/Neck (-75)
+
+• Eyes (-100)
+
+• Torso (-25)
+
+• Groin (-75)
+
+• Limb (-50)
+
+Determine the type of wound you want to inflict, according to the weapon you are using:
+
+• Cut/Slash/Rip/Tear
+
+• Pierce/Impale/Perforate/Penetrate
+
+• Smash/Crush/Slam/Bash
+
+• Hold/Lock/Immobilize/Subdue
+
+Then:
+
+1\. Perform an Attack - Offense roll against foe’s Attack - Defense roll. 2. Determine the inflicted Damage
+
+(Weapon Damage roll + Attacker’s Strength) + (Attacker’s Attack - Offense roll – Defender’s Attack – Defense roll) / 10 – Defender’s Armor 3. Subtract the damage from target’s Hit Points
+
+If the attack inflicts 10 or more damage, perform a critical hit roll on the appropriate critical table, adding damage that exceeds 10 to the roll and subtracting eventual critical reduction of the target.
+
+34
+
+YmiR2 – Basic Rules
+
+Feint
+
+Cost: 3AP
+
+Perform a General-Perception against General-Perception roll, if successful the opponent is at -20 for the next 5 Actions.
+
+Feint rolls can be cumulative.
+
+Dodge
+
+Cost: 3AP
+
+Only works against incoming attack. Perform a General-Acrobatics roll versus the incoming attack roll.
+
+If the Acrobatics roll is equal or higher than the attack roll, the attack has no effect. Otherwise the attack has full effect.
+
+Cast a Spell
+
+Cost: 3AP
+
+Each spell cast during combat also costs a number or Power Points based on its League
+
+• Mundane spells cost 2 Power Points
+
+• Heroic spells cost 5 Power Points
+
+• Exemplary spells cost 7 Power Points
+
+• Lordly spells cost 10 Power Points
+
+• Epic spells cost 20 Power Points
+
+Concentrate
+
+Cost: 1AP
+
+Concentrating is used to gain more Power Points or Action Points during Combat. A character gains points based on his own League
+
+• Mundane characters gain 3 Power Points or Action Points
+
+• Heroic characters gain 4 Power Points or Action Points
+
+• Exemplary characters gain 5 Power Points or Action Points
+
+• Lordly characters gain 7 Power Points or Action Points
+
+• Epic characters gain 10 Power Points or Action Points
+
+Calm Down
+
+Cost: 5AP
+
+A character can try to calm down when frightened or frenzied to regain full control.
+
+35
+
+YmiR2 – Basic Rules
+
+Perform a Resistance – Mental roll against Mundane (100) difficulty plus 10 for each Action spent frenzied or frightened.
+
+If the roll is successful the character exits the frightened or frenzied status.
+
+Move
+
+Cost: 2AP
+
+Attacks made against somebody who is moving have full effect
+
+Choose one of the following:
+
+• Facing \<-\>Flanking \<-\> Behind
+
+• Below foe \<-\> Same Level \<-\> Elevated
+
+• Supine/Prone \<-\> Crouching \<-\> Standing
+
+Moving and engaging in melee combat:
+
+• +1 Action Out of Melee \<-\> 1 Action Out of Melee \<-\> Short Range \<-\>Medium Range \<-\> Long Range
+
+Assess
+
+Cost: 1 AP
+
+A character can use the Assess Action to study her opponents, look for an unprotected spot, plan her next move, and so on. Assess grant a +20 bonus to a character’s next Action. This bonus is not cumulative. If scripted against a successful Feint, Assess has no effect.
+
+Reload
+
+Cost:
+
+• Blowpipe: 1AP
+
+• Sling: 2AP
+
+• Short Bow: 3AP
+
+• Light Crossbow: 4AP
+
+• Long Bow: 5AP
+
+• Heavy Crossbow: 6AP
+
+Other Actions
+
+Cost for a Minor Action: 2 AP
+
+Cost for a Major Action: 4 AP
+
+36
+
+YmiR2 – Basic Rules
+
+Other Actions can be taken during Combat. A Minor Action consists in something quickly and easily performed, like drawing or folding a weapon or another small object, or using or manipulating a simple object, for example pulling a lever. Major Actions are more complex, like taking an object out of one’s own backpack, using or manipulating complex objects or performing actions involving a skill, such as pickpocketing somebody.
+
+37
+
+YmiR2 – Basic Rules
+
+Positioning
+
+A Character may find itself or maneuver in order to gain an advantage in positioning.
+
+• Being behind the target grants a +50 bonus to melee and ranged attacks.
+
+• Flanking the target grants a +25 bonus to melee and ranged attacks.
+
+• Being in an elevated position grants a +25 bonus to melee and ranged attacks.
+
+• Attacking a prone or supine target grants a + 50 bonus to melee attacks and a -50 malus to ranged attacks.
+
+• Attacking a crouching target grants a +25 bonus to melee attacks and a -25 malus to ranged attacks.
+
+Distance
+
+Distance between characters involved in a Combat is measured by the number of Actions that it takes to get to Melee range.
+
+Melee Range is divided in three sub-ranges:
+
+Short Range
+
+Medium Range
+
+Long Range
+
+Effects of Battle Fields
+
+Alcuni CdB potrebbero avere degli effetti speciali sullo svolgersi del combattimento. Per esempio, un CdB molto ristretto potrebbe imporre uno Svantaggio a tutti i combattenti che utilizzano armi ingrombranti. Oppure, un CdB avvolto da una cortina di gas velenoso potrebbe attaccare i suoi occupanti ogni round. O ancora, un CdB coperto da una fitta vegetazione potrebbe offrire riparo contro gli attacchi a distanza a chi lo occupa.
+
+38
+
+YmiR2 – Basic Rules
+
+Ogni pezzo di armatura indossato da un Personaggio aggiunge un certo valore alla sua TA naturale (che è 0, se non specificato diversamente). Un Personaggio non può indossare più di 6 pezzi di armatura diversi (2 bracciali, 2 gambali, un elmo e una corazza), più uno scudo e non può indossare più di un pezzo di armatura per coprire la stessa parte del suo corpo.
+
+Alcuni pezzi di armatura sono considerati Pesanti ed impongono uno Svantaggio in tutte le azioni in cui potrebbero risultare d'impiccio a chi le indossa (come arrampicarsi o saltare), oltre a rendere del tutto impossibile nuotare.
+
+Armatura TA Note Pelle: Corazza 2 Pelle: Gambale/Bracciale/Elmo 1 Pelle: Completa 7 Cuoio: Corazza 3 Cuoio: Gambale/Bracciale/Elmo 1,5 Arrotonda il totale per difetto Cuoio: Completa 10 Cuoio Rinforzato: Corazza 4 Cuoio Rinf.: Gambale/Bracciale/Elmo 2 Cuoio Rinforzato: Completa 14 Cotta di Maglia: Corazza 6 Pesante Cotta di Maglia: Gambale/Bracciale/Elmo 3 \* Cotta di Maglia: Completa 21 Pesante Scaglie/Lamellare: Corazza 8 Pesante Scaglie: Gambale/Bracciale/Elmo 4 \* Scaglie/Lamellare: Completa 28 Pesante Piastre: Corazza 10 Pesante Piastre: Gambale/Bracciale/Elmo 5 \* Piastre: Completa 35 Pesante Buckler/Arma da Parata +1 Scudo Piccolo +2 Scudo Medio +3 Scudo a Torre +4 Pesante \* Se un Personaggio indossa più di due pezzi combinati di questi tipi di armatura, essi vengono considerati Pesanti.
+
+Generic Weapons and Attacks
+
+Arma Esempi Damage Min ST ST 1-Handed Medium Unarmed Calcio, Pugno, Presa 1d10 - - Small Weapon Pugnale, Shuriken, Fionda, Arma Improvvisata 2d10 - 1 Light Weapon Stocco, Sciabola, Spada Corta, Arco Corto 3d10 1 2 Medium Weapon Spada, Mazza, Arco Lungo, Balestra Leggera 4d10 3 5 Large Weapon Claymore, Morning Star, Balestra Pesante 5d10 6 12 Heavy Weapon Maglio, Spadone, Mazzafrusto, Ascia da Guerra 6d10 8 16
+
+39
+
+YmiR2 – Basic Rules
+
+40
+
+Wounds, Healing and Recovery
+
+Hit Points
+
+i Personaggi recuperano un numero di Punti Vigore pari al proprio punteggio di COS ogni ora di riposo. Ogni tre ore complete di sonno, invece, permettono al Personaggio di recuperare un numero di PV pari a metà del proprio bonus di Vigore.
+
+un Personaggio sviene quando subisce un numero di PV pari al proprio punteggio di Vigore. Muore per eccesso di ferite se subisce un numero di PV pari al proprio punteggio di Vigore + 50 + la somma dei propri punteggi di COS e VOL.
+
+Penalties
+
+Molti critici impongono delle penalità alle azioni dei PG, che vanno applicate a qualsiasi Manovra essi effettuano. Se le penalità di un Personaggio raggiungono o superano i 100 punti, egli sarà considerato incapace di muoversi fino a che esse non raggiungeranno un valore inferiore a 100.
+
+Se un Personaggio rimane a riposo, in un ambiente sano, senza sforzare la parte ferita del suo corpo, egli vedrà diminuire le sue Penalità di un certo numero al giorno, a seconda del suo punteggio di COS, come mostrato dalla tabella sottostante.
+
+COS 1-2 3-5 6-7 8-9 10-19 20+ Recupero 1 2 3 4 5 8
+
+Nel caso in cui il Personaggio abbia accesso a cure adeguate, le sue ferite guariranno più velocemente: una manovra di Guarigione può ridurre notevolmente i tempi di convalescenza.
+
+La difficoltà della manovra necessaria a trattare una ferita è pari a 50 + la penalità espressa come numero assoluto (per esempio, curare una ferita che infligge una penalità di -25 richiede una manvora con CD 50 + 25 = 75). Aumenta di 20 punti la difficoltà se il Personaggio sta cercando di operare su sé stesso. Se la manovra ha successo, le penalità inflitte dalla ferita sono immediatamente dimezzate ed essa comincia a guarire secondo il normale ritmo di guarigione. Se essa fallisce, invece, le penalità aumentano ad una volta e mezza il loro valore originario (un -25, per esempio, si trasforma in un -37), ma la ferita comincia comunque a guarire al ritmo indicato dalla tabella.
+
+YmiR2 – Basic Rules
+
+Soul Damage
+
+Molti non morti, demoni ed alcuni effetti magici danneggiano l'anima di un personaggio, piuttosto che il suo corpo. I Danni all'Anima funzionano come normali danni e vengono sottratti al totale dei PV disponibili del Personaggio. Al contrario delle ferite comuni, tuttavia, essi possono essere curati solamente attraverso appositi incantesimi, composti alchemici, miracoli o erbe sacre.
+
+Stats Degradation
+
+Alcuni incantesimi o effetti magici riducono temporaneamente o permanentemente le caratteristiche dei personaggi. Se una o più caratteristiche di un Personaggio scendono a zero punti o meno per un qualsiasi effetto, egli muore a meno che non venga specificato diversamente dall'effetto.
+
+Suffocation
+
+in situazioni normali i personaggi possono trattenere il fiato per un numero di minuti pari al proprio punteggio di COS, più uno ogni 5 ranghi nell'Abilità Ateltica, dopodiché perdono i sensi e muoiono soffocati in 1d10 minuti. In situazioni di stress e intensa attività, (come il combattimento) al termine di ogni round in cui effettuano un attacco o subiscono dei danni devono eseguire una Manovra Media di Atletica come azione gratuita. Se la Manovra non ha successo, perdono i sensi e cominciano a morire soffocati.
+
+41
+
+YmiR2 – Basic Rules
+
+42
+
+Adventuring
+
+Travelling
+
+Spesso i Personaggi si troveranno costretti a viaggiare attraverso regni ostili o ad avventurarsi oltre i confini dei territori civilizzati, esplorando giungle, foreste, deserti, montagne, oceani ed ambienti più inconsueti, governati da leggi naturali insolite, bizzarre o pericolose.
+
+Terrain Difficulty
+
+La CD delle varie Manovre che i Personaggi dovranno effettuare durante i loro viaggi, dipende dal Terreno prevalente nel territorio che devono attraversare.
+
+Difficoltà del Terreno
+
+Manovra Terreno 1° Livello (CD 60) Civilizzato (campi, strade, villaggi,...) 5° Livello (CD 100) Frontiera (boschi, colline, fiumi, zone costiere,...) 8° Livello (CD 130) Selvaggio (foreste, montagne, mare aperto, steppa,...) 10° Livello (CD 150) Estremo (deserto, oceano, artico, sotterraneo,...) 20° Livello (CD 250) Impossibile (vulcani attivi, viaggi planari, mondi alieni,...)
+
+Hunger, Thirst and Fatigue
+
+I viaggi prolungati possono mettere alla prova anche gli esploratori più esperti e fiaccare anche i gruppi più determinati. Le traversate dei PG vengono divise in segmenti (detti Tappe), corrispondenti a 4 giorni di viaggio l'uno. Viaggi più corti di 4 giorni vengono contati come una singola Tappa. Durante ogni Tappa, il GM descrive ai giocatori come sta procedendo il viaggio, le caratteristiche salienti del tempo atmosferico e del territorio circostante ed ogni particolarità che incontrano sul loro cammino.
+
+Al termine di ogni Tappa, ogni Personaggio nel gruppo deve effettuare una Manovra di Atletica per resistere all'affaticamento. Se la Manovra riesce, il Personaggio non soffre alcun effetto negativo, altrimenti subisce una penalità speciale di -10 a tutte le azioni, per colpa della fatica e/o delle ristrettezze alimentari imposte dal viaggio.
+
+Queste penalità durano fino a che il Personaggio non sarà in grado di riposarsi e rifocillarsi normalmente: ogni giorno di riposo consente di recuperare 10 punti di penalità. Se le penalità dovessero raggiungere i 100 punti, il Personaggio sarà troppo stanco o malnutrito per poter andare avanti: perderà i sensi e comincerà a perdere 1 punto di COS al giorno, fino alla morte o finché non gli verranno somministrate delle cure adeguate (una manovra Media di Guarigione permette di recuperare 1 punto COS perso in questo modo al giorno, dopodiché il Personaggio comincerà a guarire dalle penalità come descritto in precedenza).
+
+I Personaggi guadagnano un Vantaggio alla loro Manovra per ognuno di questi elementi:
+
+• il Personaggio è dotato di una cavalcatura, oppure il gruppo usa un veicolo
+
+• il tempo o la stagione sono particolarmente clementi (per il tipo di Terriorio attraversato)
+
+YmiR2 – Basic Rules
+
+43
+
+• il gruppo ha una Guida
+
+• il gruppo procede con calma (aumenta di 1 il numero di giorni impiegati per coprire la Tappa)
+
+• il gruppo sta procedendo su una strada che ha già percorso (o che la Guida ha già percorso)
+
+Subiscono inoltre uno Svantaggio per ognuno di questi elementi:
+
+• il tempo o la stagione sono particolarmente avversi (per il tipo di Terriorio attraversato)
+
+• il Personaggio non ha sufficienti scorte alimentari
+
+• il Personaggio è appesantito da armature o equipaggiamento pesante
+
+• il gruppo procede a passo di marcia forzato (riduci di 1 il numero di giorni impiegati per coprire la Tappa)
+
+• il gruppo è Smarrito
+
+Un Personaggio può utilizzare l'Abilità Natura per fare da Guida al gruppo, alleviando i rigori del viaggio per sé ed i proprio compagni. Una Guida contribuisce attivamente all'avanzare dei Personaggi andando in avanscoperta per trovare dei ripari per la notte, tenendo d'occhio il tempo atmosferico e conducendoli verso la rotta meno pericolosa.
+
+Ogni Tappa, subito prima che il gruppo effettui le Manovre di Atletica, la Guida ne compie una di Natura contro la difficoltà del Terreno (usa le regole per l'Aiuto nel caso ci sia più di una Guida). Se ha successo, il gruppo guadagna un Vantaggio alle proprie Manovre di Atletica come descritto sopra e la Guida ottiene un successo automatico alla propria. Se la Guida fallisce, il gruppo guadagna comunque il Vantaggio, ma incontra un Imprevisto e la guida deve testare la propria Atletica normalmente.
+
+Unexpected Events
+
+Ogniqualvolta un Personaggio ottiene un Fallimento Critico nella sua Manovra di Atletica di fine Tappa, e ogni volta che la Guida fallisce la sua Manovra di Natura, il GM inserisce un Imprevisto nella storia. Viene inserito un Imprevisto anche quando un giocatore ottiene un Tocco del Fato negativo nella propria Manovra di Atletica. Gli Imprevisti, come dice il nome, sono eventi inaspettati, ostacoli e complicazioni che si parano davanti ai Personaggi durante il loro viaggio. Il GM seleziona gli Imprevisti dalla lista sottostante, adattandoli alla situazione di gioco.
+
+• Smarriti: Smarriti è un Imprevisto speciale, può essere selezionato dal GM solamente se la Guida fallisce la sua Manovra di Natura o se il gruppo non ha una Guida. Inoltre, se il gruppo non ha una Guida, si Smarrisce automaticamente quando ottiene un Imprevisto, in aggiunta a qualsiasi altro Imprevisto il GM selezioni. Un gruppo smarrito si muove in una direzione a scelta del GM invece che verso quella prestabilita, senza accorgersene fino alla fine della Tappa. Inoltre, nella prossima Tappa non guadagna alcun Vantaggio per il fatto di conoscere la strada che stava percorrendo.
+
+• Esausti: Il gruppo non riesce a riposare bene per tutta la Tappa, dovunque decida di accamparsi c'è qualcosa che non va e che non gli permette di riprendersi dalla fatica. Per tutta la Tappa, i Personaggi non recuperano Vigore né Potere. Inoltre, la stanchezza incide sul loro ritmo di marcia: aumenta di uno il numero di giorni impiegati per percorrere la Tappa.
+
+YmiR2 – Basic Rules
+
+44
+
+• Affamati: Le razioni del gruppo si rivelano insufficienti, o forse parte di esse vanno a male, o vengono mangiate da qualche animale, o ancora perse da uno dei Personaggi in un incidente. I Personaggi che hanno fallito la loro Manovra di Atletica subiscono altri 10 punti di penalità. Inoltre, dalla prossima Tappa il gruppo subisce lo Svantaggio per non avere viveri a sufficenza.
+
+• Incidente: La sfortuna perseguita il gruppo durante questa Tappa. Una delle cavalcature rimane ferita in un'incidente, oppure il veicolo che stanno usando rimane danneggiato, rallentando notevolmente l'avanzata del gruppo. Alternativamente, un pezzo d'equipaggiamento cruciale si rompe. In ogni caso, i Personaggi impiegano un giorno in più per coprire la Tappa e nella prossima non possono usare il Vantaggio derivato dal veicolo, cavalcatura o equipaggiamento danneggiato.
+
+• Disastro: Uno dei Personaggi che ha fallito la Manovra subisce un grave incidente (cade in un crepaccio, si impantana nelle sabbie mobili, viene disarcionato,...), oppure cade vittima di un'imboscata da parte di un nemico che si ritira immediatamente, o di un animale feroce. Il gruppo perde un giorno di marcia (che va ad aggiungersi al totale impiegato per percorrere la Tappa) ed il Personaggio subisce una ferita, che gli impone una penalità di -10 alle azioni e guarisce secondo le normali regole per la guarigione.
+
+• Tempo Avverso: Il tempo cambia repentinamente, sorprendendo il gruppo con pioggia, vento, neve, tempeste o qualsiasi altra condizione atmosferica sfavorevole si adatti al clima locale. I Personaggi sono costretti a perdere tempo rifugiandosi in ripari improvvisati (o sono costretti all'immobilità dalla bonaccia, o portati leggermente fuori rotta dalla tempesta) e allungano di un giorno il tempo necessario a percorrere la Tappa. Inoltre, nella prossima Tappa subiranno lo Svantaggio per il tempo avverso.
+
+• Incontro: Il gruppo si imbatte in una creatura o un gruppo di creature ostili, oppure si avvicina troppo alla tana di qualche essere poco piacevole, o magari pianta le tende senza rendersene conto proprio in mezzo a delle antiche rovine infestate. L'incontro viene giocato nel dettaglio (prendendo nota dell'eventuale tempo perso), poi il viaggio continua normalmente.
+
+• Vicolo cieco: La strada di fronte al gruppo è sbarrata da un qualche ostacolo, che rende totalmente inutili i progressi fatti fino ad ora. I Personaggi sono costretti a compiere una lunga deviazione, ritornando sui propri passi per aggirare l'ostacolo. Il gruppo torna al punto in cui si trovava all'inizio della Tappa, tutti i giorni impiegati per percorrerla sono persi.
+
+YmiR2 – Basic Rules
+
+45
+
+YmiR2 – Basic Rules
+
+46
+
+Substances: Herbs, Drugs and Poison
+
+A substance is anything that, if taken by one or more means has at least one effect on a character.
+
+Effects from substances can be either positive or adverse and can be either temporary or permanent.
+
+Effects from substances are intended by dose. Each dose that is taken augments all of the effects of the substance.
+
+Alchemic Composites
+
+Vino di Luna: un pregiato liquore distillato dagli elfi del Gaerwath. Pone chi lo beve in uno stato di beato torpore, durante il quale il mondo circostante gli sembrerà lontano e irreale. Per un'ora circa ridurrà di 4 tutti i danni che subirà dagli attacchi, ma subirà una penalità di -20 alle manovre di Percezione e alla propria difesa Spirito.
+
+Acqua di Fuoco: grappa nanica dall’elevatissima gradazione alcolica. È estremamente tonica e rinfrancante (un boccale permette di recuperare 1d10PV e conferisce un bonus non cumulabile di +10 a Tempra contro il freddo), ma mette alla prova anche il più accanito dei bevitori (attacco con un bonus di +80 +20 ogni bicchiere oltre il primo vs Tempra, se ha successo, -20 cumulativo a tutte le attività per 1-5 ore.)
+
+Essenza di Ashala: profumo molto ricercato, proveniente dal Qi-Long. Conferisce un bonus di +10 alle manovre volte a sedurre qualcuno per 2 ore dopo che viene applicato (ma rende chi lo usa anche molto facile da individuare attraverso l'olfatto, imponendo una penalità di -10 alle manovre di Furtività per altrettando tempo).
+
+Arvo: Essenza polverizzata, relativamente comune nelle vicinanze del Maelstrom (per quanto difficile da raccogliere...) ma rintracciabile anche in alcune altre zone di Ymir, come le Isole d'Argento o il Gaerwath. Estremamente ricercato sia dagli alchimisti (che da un giacimento di Arvo possono ricavare in un giorno quanti ingredienti normalmente ricaverebbero in una settimana), che dagli evocatori (che possono consegnare alle entità evocate l'Arvo al posto della loro Essenza)
+
+Al'Sawgdam: il Sale che ricopre larga parte del Deserto Scintillante, una bizzarra mistura di Essenza, Vera Terra e Vuoto. I Sadhiriti sono immuni ai suoi effetti, ma hanno bisogno di rimanere in costante contatto con esso, o cominciano a deperire. Per tutti gli altri, il Sale allo stato puro è estremamente tossico (ogni giorno di permanenza nel Sadhir senza adeguate protezioni subiscono un attacco +150 contro Tempra: se ha successo si disidratano e muoiono in 11-20 ore; se fallisce guadagnano 4d10 PC Elementali da Terra). Diluito, il Sale è un prezioso ingrediente di diversi potenti composti alchemici.
+
+Poisons
+
+Lacrime di Davedars: veleno utilizzato soprattutto dai Cacciamaghi, ricavato dal bianco succo di Davedars (una pianta simile all’aloe) tramite un processo piuttosto complesso. Attacco +150 contro Tempra, se ha successo il bersaglio perde 1d10 PM per ogni 10 punti di successo (non può perdere più PM di quelli che ha).
+
+Polvere di Notte: una polverina blu di origine minerale, se ingerita o inalata causa un Attacco +100 contro Tempra che, se ha successo, cancella dalla memoria della vittima gli ultimi dieci minuti.

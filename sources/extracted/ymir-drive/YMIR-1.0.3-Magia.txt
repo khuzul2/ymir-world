@@ -1,0 +1,175 @@
+SOURCE: Google Drive — YMIR 1.0.3 - Magia.doc (Italian) (fileId 0B51K1jhM2wrFajBXcHc5aEZObkU)
+
+MAGIA
+
+INCANTESIMI
+
+Le arcane formule che permettono ai maghi di modificare a proprio piacimento la realtà circostante vengono chiamate incantesimi.
+
+Gli incantesimi sono stati divisi dagli studiosi in 9 Ordini, a seconda della loro potenza e difficoltà di apprendimento ed esecuzione. Solamente coloro che sono stati iniziati ai segreti di un ordine hanno le conoscenze e le capacità necessarie al controllo delle formule che vi appartengono.
+
+PUNTI POTERE
+
+I Punti Potere indicano la potenza magica di un personaggio, il loro valore base è pari a SD.
+
+POTENZA
+
+Ad ogni incantesimo è associato un valore di Potenza, che rappresenta la difficoltà della formula ed il dispendio di energie psichiche necessario al suo lancio.
+
+LANCIO DEGLI INCANTESIMI
+
+Per lanciare un incantesimo, un personaggio deve riuscire in una prova di Stregoneria con una difficoltà pari a 10/Potenza dell’incantesimo.
+
+Quando lancia un incantesimo durante un combattimento, un personaggio spende un numero di Punti Potere dalla sua riserva pari alla Potenza dell’incantesimo lanciato. Se non ha abbastanza PP, la sua azione non ha alcun effetto, indipendentemente dal risultato della manovra.
+
+Fuori dal combattimento, non è necessario tenere traccia dei PP spesi per il lancio, ma il mago impiega un minuto per ogni punto di Potenza dell’incantesimo lanciato.
+
+È necessario parlare e gesticolare per essere in grado di lanciare un incantesimo correttamente. Un mago incapace di parlare o gesticolare subisce una penalità di -25 alla sua manovra di lancio. Se il mago è incapace di parlare e gesticolare, non può lanciare alcun incantesimo.
+
+FALLIMENTO
+
+Se il mago fallisce nel suo tentativo di lancio mentre è coinvolto in un combattimento, deve tirare sulla Tabella del Fallimento Magico, aggiungendo lo scarto di fallimento al tiro.
+
+Al di fuori del combattimento i rischi sono più limitati, in caso di fallimento l’incantesimo non ha alcun effetto ed il mago deve fare un TR Fisico, con difficoltà pari alla difficoltà di lancio dell’incantesimo, per evitare di affaticarsi.
+
+Se lo fallisce subisce una penalità alle azioni pari allo scarto di fallimento (arrotondata alla decina più vicina), che viene cancellata al ritmo di 10 punti di penalità per ora di riposo.
+
+CONCENTRARSI
+
+Durante il combattimento, un personaggio può utilizzare una delle sue azioni per Concentrarsi, guadagnando un numero di PP pari al suo valore base di Potere (SD). Non vi è limite al numero di PP accumulabili in questo modo, concentrandosi è perfettamente possibile superare il proprio normale punteggio di PP.
+
+Effettivamente, concentrarsi è spesso l’unico modo per poter lanciare gli incantesimi più potenti.
+
+Se un mago viene stordito o subisce danno incapacitante ad una qualsiasi parte del corpo mentre si sta concentrando, si distrae e non guadagna alcun PP per quell’azione.
+
+Al termine di ogni combattimento, i PP tornano automaticamente al loro valore originario.
+
+PREPARARE UN INCANTESIMO
+
+Durante il combattimento, un mago può utilizzare un’azione per Preparare un incantesimo. Ogni volta che intraprende l’azione Preparare, il mago guadagna un bonus di +10 alle manovre di lancio di quell’incantesimo specifico, cumulabile fino ad un totale di +30. Questo bonus termina non appena il mago lancia l’incantesimo in questione, e viene immediatamente cancellato se egli intraprende un’azione diversa da Concentrarsi, Preparare o Lanciare un Incantesimo.
+
+Al di fuori del combattimento, un mago può decidere di meditare, portando il tempo di lancio da 1 minuto per punto di Potenza dell’incantesimo a 10 minuti per punto di Potenza e guadagnando un bonus +30 alla manovra di lancio. Come sopra, il bonus termina non appena egli smette di lanciare l’incantesimo.
+
+CORRUZIONE
+
+La Corruzione rappresenta una pericolosa tentazione per gli usufruitori di magia. Un mago dispone di un secondo punteggio di PP, chiamati Punti Potere Oscuro (PPO), con un valore pari al proprio punteggio di Corruzione.
+
+I PPO funzionano esattamente come dei normali PP: possono essere incrementati concentrandosi (il mago dovrà scegliere quale punteggio incrementare con ogni azione di Concentrazione) e tornano al loro valore originario una volta terminato il combattimento.
+
+In qualsiasi momento, durante un combattimento, un mago può decidere di spendere i propri PPO al posto dei normali PP per lanciare o preparare i suoi incantesimi. Può anche mescolare i due tipi di Punti Potere, per esempio usando 2 PP e 3 PPO per lanciare un incantesimo con Potenza 5.
+
+Ogni volta che ricorre ai PPO, però, un mago corre il rischio di corrompersi più di quanto non lo sia già: c’è una probabilità percentuale pari ai PPO spesi che egli veda i suoi normali PP ridursi permanentemente di un punto e la sua Corruzione alzarsi di 2 punti. La stessa cosa accade anche quando il mago si concentra per aumentare i PPO a propria disposizione, con una probabilità percentuale pari al numero di PPO guadagnati.
+
+Un mago che raggiunga un valore nullo o negativo di PP non è più in grado di lanciare incantesimi senza ricorrere al Potere Oscuro.
+
+PATRONI
+
+Molti maghi giurano lealtà ad un Patrono, una potente entità disposta ad aiutare i mortali in cambio di servigi. I Patroni possono essere divinità, signori elementali, potenti djinn o demoni,… La natura degli aiuti che forniscono e dei servigi richiesti varia a seconda del patrono stesso.
+
+APPRENDERE GLI INCANTESIMI
+
+Per poter apprendere un incantesimo, un mago deve per prima avere libero accesso ad un grimorio che ne contenga la formula, o ad un maestro disposto ad insegnargliela.
+
+Secondariamente, per essere in grado di comprendere gli insegnamenti, deve essere stato iniziato ai segreti dell’Ordine cui l’incantesimo appartiene (ovvero, deve possedere il Talento adeguato).
+
+Infine deve dedicare il tempo necessario allo studio della formula, equivalente ad un giorno per Ordine dell’incantesimo. Alla fine di questo periodo, il mago compie un tiro di apprendimento, utilizzando il suo bonus di Attunement, contro una difficoltà pari a quella necessaria al lancio dell’incantesimo (Potenza x10).
+
+In caso di successo, il mago impara l’incantesimo senza problemi, mentre se fallisce acquisisce la formula, ma deve tirare sulla Tabella della Deviazione Arcana.
+
+Una volta eseguito un tiro per l’apprendimento di un incantesimo non è possibile ritentare in alcun modo.
+
+|  |  |
+| :-: | :-: |
+| TABELLA DELLA DEVIAZIONE ARCANA |  |
+| D100 | Effetto |
+| 01-5 | Il prezzo del potere: ogni volta che lancia l’incantesimo, la vista del mago si affievolisce Blind (1, permanente) ), fino a farlo diventare cieco (-100 totale) |
+| 6-10 | Un’antica maledizione sembra essere intrecciata assieme alla formula dell’incantesimo: ogni volta che il mago lo lancia, perde un punto Fortuna (se ha 0 punti Fortuna, ogni volta che lo lancia c’è l’1% cumulativo che gli capiti qualcosa di particolarmente spiacevole) |
+| 11-15 | Questa particolare formula è stata scritta da una potente entità planare (Quinta o Sesta Cerchia), ogni volta che il mago la usa c’è l’1% cumulativo di probabilità di attirarla sul piano materiale |
+| 16-20 | La magia consuma il mago dall’interno, causandogli 1d4 punti di Body damage ogni volta che la lancia |
+| 21-30 | La formula è rimasta in qualche modo corrotta dal Mana Oscuro: ogni volta che la lancia, il mago ha il 50% di probabilità di guadagnare 1 PC |
+| 31-40 | La mente del mago non è pronta per l’incantesimo: ogni volta che lo lancia ha il 50% di probabilità di guadagnare 1 punto Follia |
+| 41-49 | Il mago non riesce a raggiungere una perfetta comprensione della formula, e ha bisogno di studiarla per almeno un’ora al giorno, prima di poterla utilizzare |
+| 50-55 | Il mago ha bisogno di un focus materiale per poter lanciare quest’incantesimo: ogni volta che lo lancia deve sacrificare una piccola quantità di un materiale non comune a scelta del GM |
+| 55-65 | Il lancio dell’incantesimo disorienta il mago, che rimane stordito per 1d4 azioni ogni volta che pronuncia la formula |
+| 66 | Che stregoneria è questa? Il mago impara un altro incantesimo a caso dello stesso Ordine |
+| 67-69 | La gola del mago è provata dai suoni inumani necessari per pronunciare l a formula: ogni volta che lancia l’incantesimo, la voce del mago si fa rauca per 1d3 ore (-10 cumulativo alle interazioni sociali) |
+| 70-79 | L’incantesimo risulta particolarmente ostico per il mago, che subisce una penalità di -10 a tutte le manovre di lancio che lo riguardano |
+| 80-89 | La sua scarsa comprensione della formula fa sì che il mago debba prestare particolare attenzione durante il lancio dell’incantesimo, che richiede un’azione extra |
+| 90-99 | Il mago è circondato da un baluginio innaturale ogni volta che lancia questo incantesimo |
+| 00 | Nessun effetto negativo\! Incantesimo acquisito normalmente |
+
+
+
+EVOCAZIONE
+
+L’evocazione è l’atto di richiamare al proprio cospetto delle entità provenienti da altri piani, per costringerle al proprio servizio.
+
+Le entità evocate sono state divise in 6 cerchie dagli studiosi, a seconda della loro potenza e della distanza del loro piano di residenza da quello materiale.
+
+Per poter contattare le entità di una cerchia, l’evocatore deve prima studiarle a fondo, per imparare quali formule attirano la loro attenzione, quali circoli sono in grado di contenerle e quali sacrifici le compiacciono. Attraverso un rituale segreto, egli quindi stringe con esse un legame, in modo da poterle convocare. In termini di gioco, questo significa che un personaggio deve acquistare il talento adeguato per poter tentare di evocare le entità di una cerchia.
+
+IL RITUALE DI EVOCAZIONE
+
+Per evocare un’entità, l’evocatore deve dichiarare quale cerchia intende contattare e poi riuscire in un test di Summoning di difficoltà pari a 80 + Cerchia Contattata x20 (per cui la difficoltà per evocare un demone della prima cerchia è pari a 100, e quella per evocarne uno della quinta è pari a 180).
+
+La difficoltà dell’evocazione viene aumentata di 20 punti se stai cercando di evocare uno specifico tipo di entità (un demone piuttosto che un elementale, per esempio), e di altri 20 punti se stai tentando di evocare un’entità specifica (Grrum’zzz il demone mosca) senza conoscerne il Vero Nome.
+
+Se il tiro ha successo, l’entità compare di fronte all’evocatore dopo un rituale di un’ora per cerchia. Se fallisce, il GM decide se l’entità risponde comunque alla convocazione, ma è infuriata con l’evocatore; oppure se il rituale ha attirato un’altra entità, di una cerchia superiore o inferiore a quella cercata (che non ha alcuna obbligazione nei confronti dell’evocatore).
+
+CONTRATTARE CON LE ENTITA’
+
+Una volta evocata un'entità, per riuscire a controllarla un personaggio deve stringere un patto con essa. Per farlo, deve semplicemente annunciare quale servigio intende ottenere e accettare di pagare il prezzo richiesto dall'entità.
+Se il personaggio ritiene il primo prezzo proposto troppo alto, può decidere di congedare l'entità e annullare l'evocazione, oppure tentare di contrattare per abbassarlo effettuando una manovra di Persuasione contro la difesa Mentale dell'entità. Ogni 20 punti di successo ottenuti, l'evocatore può ridurre di un grado il Prezzo richiesto (vedi avanti), fino a raggiungere il Prezzo minimo (Offerta).
+Se la manovra fallisce, tuttavia, il Personaggio è costretto a pagare il prezzo originario e non può più tirarsi indietro.
+La manovra di Persuasione riceve un bonus di +20 per ognuna di questa condizioni:
+
+l'evocatore è in possesso di un oggetto o formula in grado di imprigionare l'entità;
+
+l'evocatore è in possesso di qualcosa che l'entità brama;
+
+l'evocatore è in possesso del Vero Nome dell'entità (conoscere il Vero Nome di un'entità è in genere il modo più veloce ed efficace per garantirsi la sua eterna inimicizia)
+
+Un personaggio che evochi una creatura ma non proponga alcun patto viene trattato automaticamente come se ne avesse rotto uno con la stessa entità (vedi avanti).
+
+LE CERCHIE E I SERVIGI OFFERTI
+
+I servigi delle entità appartenenti alle cerchie più alte sono tendenzialmente più costosi di quelli delle creature meno potenti, ma anche più vari ed efficienti (motivo per cui i maghi di solito scelgono di evocare entità minori per questioni di poco conto).
+
+Le entità appartenenti alla prima o seconda cerchia sono relativamente facili da convocare e piegare ai propri voleri, ma hanno delle capacità piuttosto limitate. In genere sono in grado di combattere contro i nemici dell'evocatore; custodire un luogo per un periodo limitato (un numero di giorni pari ai ranghi in Stregoneria dell'evocatore); trasportare fisicamente cose e persone da un luogo all'altro (nei limiti delle loro capacità) o raccogliere informazioni esplorando il mondo materiale di persona, usando i propri sensi. Molte entità della prima cerchia hanno un'intelligenza limitata, di poco superiore a quella animale.
+
+Le entità della terza cerchia sono leggermente più versatili: oltre a poter svolgere le stesse funzioni degli esseri di cerchie inferiori con maggior efficienza, spesso hanno accesso a qualche limitato potere magico e possono individuare la posizione di cose senza doversi muovere fisicamente (un'abilità condivisa anche dagli spiriti superiori, la cui percentuale di successo dipende dalla cerchia di appartenenza: per quelle della terza è pari al 10%, per la quarta al 30%, quinta 60% e sesta 90%).
+
+Le entità della quarta cerchia hanno tutte queste abilità, il più delle volte conoscono diversi incantesimi; sono in grado di teletrasportare singole persone od oggetti attraverso spazi limitati nel mondo materiale (in genere, 100 metri per livello); possono custodire luoghi per un numero di settimane pari ai ranghi di stregoneria dell'evocatore e possono rispondere a fino a tre domande sì/no riguardo ad un argomento (con accuratezza identica a quella di trovare gli oggetti).
+
+Le entità della quinta cerchia sono estremamente potenti, dispongono di numerose formule e spesso di altre conoscenze o capacità arcane precluse ai mortali. Possono teletrasportare diverse (una per livello) persone od oggetti attraverso spazi limitati nel mondo materiale o un numero minore attraverso lunghe distanze (fino a 10km per livello per piccoli gruppi di 3-4 individui) o custodire luoghi per un numero di anni pari ai ranghi di Stregoneria dell'evocatore.
+
+Le entità della sesta cerchia, infine, sono le più potenti e pericolose che in genere i mortali sono in grado di evocare. Oltre alle capacità elencate prima, sono in grado di trasportare persone ed oggetti attraverso i piani, custodire luoghi per un numero di decenni pari ai ranghi di Stregoneria dell'evocatore; conferire poteri magici ad oggetti; distruggere oggetti incantati e molto altro.
+
+I PREZZI
+
+Fate riferimento alla tabella sottostante per stabilire il prezzo richiesto dall'entità convocata dall'evocatore.
+
+|  |  |
+| :-: | :-: |
+| Prezzi delle entità |  |
+| Cerchia | Prezzo |
+| Prima | Offerta |
+| Seconda | Marchio |
+| Terza | Servigio |
+| Quarta | Essenza |
+| Quinta | Anima |
+| Sesta | Ecatombe |
+
+L'effettiva natura del prezzo richiesto dipende dall'origine dell'entità evocata: i demoni pretenderanno offerte molto diverse da quelle chieste dagli elementali o dalle creature del Vuoto. Nel caso in cui il prezzo includa un guadagno di punti Corruzione, è sottointeso che si tratta di Corruzione Oscura nel caso l'entità evocata sia un demone; Corruzione Elementale se invece è un elementale e Follia se si tratta di un essere del Vuoto.
+
+Offerta: l'evocatore paga il servigio consegnando all'entità un oggetto magico o di valore.
+
+Marchio: l'evocatore deve portare il marchio indelebile dell'entità o del suo padrone sul suo corpo, in un luogo ben visibile. Il marchio in seguito può essere coperto (anche se tenderà a mostrarsi nei momenti meno opportuni) ma non può essere cancellato. Nel momento in cui accetta un marchio, il personaggio riceve 1d10 punti Corruzione.
+
+Servigio: l'evocatore paga il servigio con un altro servigio, come la costruzione di un santuario in nome dell'entità o l'uccisione di un suo nemico (ad esempio, uno stregone che conosce il suo Vero Nome).
+
+Essenza: l'evocatore cede parte della propria Essenza all'entità, in segno di sottomissione o come pagamento. In termini di gioco, ciò significa che il personaggio guadagna 5d10 punti Corruzione. Se ciò basta a portare i suoi PC sopra il 100, l'entità potrà divorare la sua anima a termine del servigio.
+
+Anima: l'evocatore offre un'anima all'entità. Può essere la propria, quella di un altro essere senzienta che la offre spontaneamente, oppure quella di una vittima inerme e ritualmente preparata. Offrire la propria anima equivale a guadagnare immediatamente 100 punti Corruzione.
+
+Ecatombe: l'evocatore offre 10 o più anime all'entità, secondo le modalità descritte nel prezzo precedente.

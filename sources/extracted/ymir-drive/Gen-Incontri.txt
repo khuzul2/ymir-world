@@ -1,0 +1,24 @@
+SOURCE: Google Drive — Generatore di incontri (Google Sheet) (fileId 11V-uf6Fl-ZPOexex5qH7NUUyf7bNqiR6Oj_Jb3oIO7E)
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  | \[merged\] Generatore di incontri | \[merged\] Generatore di incontri | \[merged\] Generatore di incontri | \[merged\] Generatore di incontri | \[merged\] Generatore di incontri | \[merged\] Generatore di incontri | \[merged\] Generatore di incontri | \[merged\] Generatore di incontri | \[merged\] Generatore di incontri | \[merged\] Generatore di incontri |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  | Masch/fem/sing/pl | 5 |  |  |  |  |  |  |  |  |
+| luogo | soggetto1 | soggetto2 | soggetto3 | aggettivo1 | aggettivo2 | verbo1 | verbo2 | come | verbo3 | chi |
+| \#REF\! | alcune | garzon | e | ubriac | he | confabul | ano | di nascosto | con | una cassa da morto |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  | DOVE | CHI | AGGETTIVO 1 | AGGETTIVO 2 | VERBO | SOGGETTO |  |  |  |  |
+|  | \#REF\! | alcune garzone | ubriache | ansimando | confabulanodi nascosto | un PG |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  | PREMERE CONTROL+R |  |  |  |  |  |  |  |  |  |
+|  | \[merged\] \#REF\! | \[merged\] \#REF\! | \[merged\] \#REF\! | \[merged\] \#REF\! | \[merged\] \#REF\! | \[merged\] \#REF\! | \[merged\] \#REF\! | \[merged\] \#REF\! | \[merged\] \#REF\! | \[merged\] \#REF\! |

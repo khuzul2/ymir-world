@@ -1,0 +1,262 @@
+SOURCE: Google Drive — YMIR 1.0.3 - Spells Ale Necro.docx (fileId 0B51K1jhM2wrFS25CYS15enNtNVk)
+
+The spells herein are presented in alphabetical order (with the exception of those whose names begin with “greater,” “lesser,”
+
+SPELLS
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Acid Arrow | \[School\] |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 12 | \+0 | 1 Target | \+0 | 100m | \+0 | None | \+0 | Instant+1r/30 cast success, max 6r | \+0 | 2d4 damage on hit+ 2d4 each round. |
+
+## Schools of Necromancy
+
+Necromancy deals with the un-death and the undead. It is generally considered an evil and very dangerous branch of Magic.
+
+### Control Undead
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Control Undead | School of Necromancy |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 10 | \+0 | Undeads up to a combined level of 5 | \+0 | 100m | \+0 | Mag/Negates | \+0 | Until the caster stops concentrating. | \+0 | Affected Undeads are controlled by the caster for the Duration. The caster cannot take other Actions but concentrate and control the Undeads.  |
+| \+2 | Can affect 5 more levels of undeads |  |  |  |  |  |  |  |  |  |
+
+### Turn Undead
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Turn Undead | School of Necromancy |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 10 | \+0 | Undeads up to a combined level of 5 | \+0 | 100m | \+0 | Mag/Negates | \+0 | 1min/10 fail | \+0 | Target Undeads flee from the caster for the duration. |
+| \+2 | Can affect 5 more levels of undeads |  |  |  |  |  |  |  |  |  |
+
+### Order Undead
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Order Undead | School of Necromancy |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 12 | \+0 | One undead up to level 5 | \+0 | 30m | \+0 | Mag/Negates | \+0 | Until the Order is Executed | \+0 | Target Undead executes the given order and then returns to its plane of origin.  |
+| \+2 | Can affect an undead of a max level of 5 more |  |  |  |  |  |  |  |  |  |
+
+### Enslave Undead
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Enslave Undead | School of Necromancy |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 15 | \+0 | Undeads up to a combined level of 5 | \+0 | 100m | \+0 | Mag/Negates | \+0 | Permanent | \+0 | Undeads are enslaved and will execute caster’s orders.The caster can have at most undeads enslaved up to his level at any time.  |
+| \+3 | Can affect 5 more levels of undeads |  |  |  |  |  |  |  |  |  |
+| \+2/5 Levels of already enslaved Undeads | The caster can have at most 5 more levels of enslaved Undeads |  |  |  |  |  |  |  |  |  |
+
+## School of Soul Manipulation
+
+This schools deals with the manipulation of souls. It is generally considered dangerous and delicate and strictly regulated in civilized areas.
+
+### Soul Extirpation
+
+This spell enables the caster to forcedly extirpate a target soul from its natural or artificial vessel. The soul is disembodied for a limited time, then returns to its original vessel.
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Soul Extirpation | School of Soul Manipulation |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 15 | \+0 | 1 soul | \+0 | Touch | \+0 | Mag/Negates | \+0 | The effect takes place over the course of 1 Minute | \+0 | The soul is disembodied for 1 Round |
+| \+1/r | The soul is disembodied for 1 additional round |  |  |  |  |  |  |  |  |  |
+| \+5 | 1 additional soul | \+1 | 3 meters | \+3 | The effect takes place over the course of 1 Round | \+10 | The soul is disembodied for 10 minutes |  |  |  |
+
+### Soul Transfer
+
+This spell enables the caster to transfer a target disembodied soul to an empty vessel. The soul is no longer disembodied and takes control of the vessel.
+
+This spell is considered evil and unnatural by most when used for aims different than returning a soul to its original body.
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Soul Transfer | School of Soul Manipulation |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 15 | \+0 | 1 disembodied soul | \+0 | Touch | \+0 | Mag/Negates | \+0 | Permanent | \+0 | Transfer target disembodied soul to an empty vessel. The soul is no longer disembodied and takes control of the vessel |
+| \+1 | 3 meters |  |  |  |  |  |  |  |  |  |
+
+### Soul Exchange
+
+This powerful spell allows the caster to exchange two souls, effectively switching the control of their vessels or bodies.
+
+Perform a Spell Casting vs Resistance – Magical of both targets to transfer the soul from one target to the other and vice-versa.
+
+This spell is often considered evil and unnatural.
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Soul Exchange | School of Soul Manipulation |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 20 | \+0 | 2 target souls | \+0 | Touch | \+0 | Mag/Negates | \+0 | Permanent | \+0 | Switch vessels for target souls |
+| \+1 | 3 meters |  |  |  |  |  |  |  |  |  |
+
+
+
+### Soul Trap
+
+This spell enables the caster to trap a disembodied soul into an inanimate object.
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Soul Trap | School of Soul Manipulation |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 20 | \+0 | 1 target soul | \+0 | Touch | \+0 | Mag/Negates | \+0 | Permanent | \+0 | Bind a disembodied soul to an inanimate object |
+| \+1 | 3 meters |  |  |  |  |  |  |  |  |  |
+
+### Soul Banishment
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Soul Banishment | School of Soul Manipulation |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 15 | \+0 | 1 disembodied soul | \+0 | Touch | \+0 | Mag/Negates | \+0 | 1 round/10 fail | \+0 | Sent target Soul to the Astral plane for the duration. It then returns to its original vessel, if it’s still viable and soulless. Otherwise it stays in the Astral plane. |
+| \+1 | 3 meters | \+5 | 1 day/10 fail |  |  |  |  |  |  |  |
+
+### Soul Destruction
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Soul Destruction | School of Soul Manipulation |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 15 | \+0 | 1 target soul | \+0 | Touch | \+0 | Mag/Negates | \+0 | 1 round/10 fail | \+0 | Destroy target’s soul. It leaves a soulless body in vegetating state. |
+| \+1 | 3 meters | \+5 | 1 day/10 fail |  |  |  |  |  |  |  |
+| \+5 | 30 meters |  |  |  |  |  |  |  |  |  |
+
+### Soul Preservation
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Soul Preservation | School of Soul Manipulation |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 12 | \+0 | 1 target soul | \+0 | Touch | \+0 | Mag/Negates | \+0 | 1 day | \+0 | Strongly binds the soul to the vessel it is in, preventing it from leaving unless the vessel is utterly destroyedIt also Grants an additional Resistance – Magical roll against other soul manipulation spells. |
+| \+1 | 3 meters | \+5 | None | \+3 | 1 week |  |  |  |  |  |
+
+### Soul Restoration
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Soul Restoration | School of Soul Manipulation |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 20 | \+0 | 1 target body or vessel | \+0 | Touch | \+0 | None | \+0 | Permanent | \+0 | Restores the original Soul of the targeted body or vessel into itIf it can sustain life, it is brought back to life. |
+
+### Soul Vessel
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Soul Vessel | School of Soul Manipulation |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 10 | \+0 | 1 target body or vessel | \+0 | Touch | \+0 | None | \+0 | Permanent | \+0 | Prepares a soulless body or an artificial construct for hosting a soul, thus becoming a vessel. |
+
+## Schools of Elementalism
+
+There are four schools of elementalism that are the School of Fire, the School of Ice, the School of Earth and the School of Air. Some schools have of the spells in common, but they draw their power from different elements.
+
+### Elemental Bolt
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| \[Element\] Bolt | School of \[Element\] |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 10 | \+0 | 1 Target | \+0 | 30m +3/10cast | \+0 | None | \+0 | Instantaneous | \+0 | Directed Spell roll for Attack.1d4 Dmg (Fire: Bleed other: Stun) |
+| \+2 | 1d6 Dmg |  |  |  |  |  |  |  |  |  |
+| \+4 | 1d8 Dmg |  |  |  |  |  |  |  |  |  |
+| \+2 | \+1 Target(max 3) | \+3 | 100m+10/10cast | \+6 | 1d10 Dmg |  |  |  |  |  |
+| \+8 | 1d12Dmg |  |  |  |  |  |  |  |  |  |
+| \+10 | 1d20 Dmg |  |  |  |  |  |  |  |  |  |
+
+### Elemental Ball
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| \[Element\] Ball | School of \[Element\] |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 15 | \+0 | All in the area (1m diameter) | \+0 | 30m +3/10cast | \+0 | Magical/ Halves damage | \+0 | Instantaneous | \+0 | Directed Spell roll for Attack.If aiming an object or a spot, difficulty is 100.Primary target: 2d4 Dmg (Fire: Bleed other: Stun)Others in area: 1d4 Dmg |
+| \+2 | 2d6/1d6 Dmg |  |  |  |  |  |  |  |  |  |
+| \+4 | 2d8/1d8 Dmg |  |  |  |  |  |  |  |  |  |
+| \+1 | \+1m to area diameter(max 10m) | \+3 | 100m+10/10cast | \+6 | 2d10/1d10 Dmg |  |  |  |  |  |
+| \+8 | 2d12/1d12Dmg |  |  |  |  |  |  |  |  |  |
+| \+10 | 3d6/2d6 Dmg |  |  |  |  |  |  |  |  |  |
+
+### Elemental Wall
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| \[Element\] Wall | School of \[Element\] |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 10 | \+0 | 1 location | \+0 | 30m+3/10 cast | \+0 | Magical/ Halves damage | \+0 | 1r+1r/10 cast | \+0 | 1m wide 1m tall, 33cm deep.1d4 dmg each 33cm that must be passed by. |
+| \+1 | Extend width by 1m, max 10m |  |  |  |  |  |  |  |  |  |
+| \+0 | 1min+1min/10 cast | \+1 | Extend heigth by 1m, max 10m |  |  |  |  |  |  |  |
+| \+6 | Extend heigth by 33cm, max 10m |  |  |  |  |  |  |  |  |  |
+| \+0 | 1h+1h/10 cast |  |  |  |  |  |  |  |  |  |
+
+## Schools of Summons
+
+There are four schools of summons that are the School of Demonic Summons, the School of Elemental Summons, the School of Spiritual Summons and the School of Outsider Summons. Each school has the same spells but they only affect Entities from one specific type.
+
+### Control Entity
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Control Entity | School of \[Entity\] Summons |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 10 | \+0 | 1 Entity of the First Pale | \+0 | 100m | \+0 | Men/Negates | \+0 | Until the caster stops concentrating. | \+0 | Target Entity is controlled by the caster for the Duration. The caster cannot take other Actions but concentrate and control the Entity.  |
+| \+2 | Can affect one more max Pale, up to 6th |  |  |  |  |  |  |  |  |  |
+
+### Banish Entity
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Banish Entity | School of \[Entity\] Summons |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 10 | \+0 | 1 Entity of the First Pale | \+0 | 30m | \+0 | Men/Negates | \+0 | Instantaneous | \+0 | Target Entity is sent back to its original plane.  |
+| \+3 | Can affect one more max Pale, up to 6th |  |  |  |  |  |  |  |  |  |
+
+### Order Entity
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Order Entity | School of \[Entity\] Summons |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 12 | \+0 | 1 Entity of the First Pale | \+0 | 30m | \+0 | Men/Negates | \+0 | Until the Order is Executed | \+0 | Target Entity executes the given order and then returns to its plane of origin.  |
+| \+2 | Can affect one more max Pale, up to 6th |  |  |  |  |  |  |  |  |  |
+
+### Enslave Entity
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Enslave Entity | School of \[Entity\] Summons |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 15 | \+0 | 1 Entity of the First Pale | \+0 | 30m | \+0 | Men/Negates | \+0 | Permanent | \+0 | Target Entity is enslaved and will execute caster’s orders.The caster can have at most one enslaved entity at any time.  |
+| \+4 | Can affect one more max Pale, up to 6th | \+2/Pale of already enslaved Entities  | The caster can have at most 1 more enslaved Entity |  |  |  |  |  |  |  |
+
+
+
+## School of Wounding
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Stun | School of Wounding |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 10 | \+0 | 1 Living Being | \+0 | Touch | \+0 | Phy/Negates | \+0 | 1r | \+0 | Target is stunned for the duration |
+| \+5 | 30m +3/10cast | \+5 | \+1r/10resist |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Cripple | School of Wounding |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 15 | \+0 | 1 large location (Torso, Back, Leg) | \+0 | Touch | \+0 | Phy/Negates | \+0 | Instantaneous | \+0 | Target location gets damage till it’s Crippled |
+| \+3 | 1 medium location (Arm, Head) | \+5 | 30m +3/10cast |  |  |  |  |  |  |  |
+| \+5 | 1 small/vital location (Eyes,Hand,Heart) |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Destroy | School of Wounding |  |  |  |  |  |  |  |  |  |
+| PWR | Target(s) | Range | Resistance | Duration | Effect |  |  |  |  |  |
+| 20 | \+0 | 1 large location (Torso, Back, Leg) | \+0 | Touch | \+0 | Phy/Negates | \+0 | Instantaneous | \+0 | Target location gets damage till it’s Destroyed |
+| \+3 | 1 medium location (Arm, Head) | \+5 | 30m +3/10cast |  |  |  |  |  |  |  |
+| \+5 | 1 small/vital location (Eyes,Hand,Heart) |  |  |  |  |  |  |  |  |  |
