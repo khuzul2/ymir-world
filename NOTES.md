@@ -47,6 +47,8 @@ folder tree into `sources/raw/ymir-drive/` (originals) and
   Elements and **six Old Gods** (the Scion of the Beginning, the Gazer in the Dark, the
   Lady of Sorrow, She who Sees, the Gatherer of Circles, the Daughter of Nowhere). Later
   **New Gods Mithra & Ahriman** banish the Old Gods; lesser gods incl. **Yog/Yogh**.
+  (The system's *Faith* Path names a fuller **pantheon of divine Patrons — Mithra, Ishtar,
+  Kur, Thurms, Gog, Yogh, Heis** — plus the dark master **Ahriman**; reconcile with `pantheon.md`.)
   **Dark Mana** is framed as a cosmic cancer/virus that wants to consume *both* Mana and
   Void (hence "the ultimate Evil"), with an in-text theory that **Ahriman is a corrupted
   Old God**. Eight Elemental Planes; Demons & the **Seven Demonic Circles**; the Adepts;

@@ -1,0 +1,206 @@
+SOURCE: Google Drive — Magic [Max]/spellbook (fede).odt
+
+SPELLBOOK 2.0
+ Primo ordine: Power 10
+ MIMETISMO (Divino)
+ Distanza: personale
+ Area: incantatore
+ Durata: 10 min+10min/10 punti di scarto
+ Cambi il colore della tua pelle e dei tuoi vestiti in modo che coincida con l'ambiente circostante. Per tutta la durata dell'incantesimo la tua colorazione continua a cambiare adeguandosi ai nuovi ambienti. Ottieni un bonus di circostanza di +50 alle prove di Stealth.
+ RIPARARE DANNI MINORI (Arcano)
+ Distanza: tocco
+ Area: oggetto
+ Durata: istantanea
+ Quando imponi le mani su di un oggetto che abbia almeno 1 punto ferita rimanente, ne cambi la struttura magicamente riparandolo per 1d8+1/30 punti di scarto (max 4d8+4).
+ SOSPENDI MALATTIA (Divino)
+ Distanza: tocco
+ Area: 1 creatura
+ Durata: 24 ore
+ Questo incantesimo sospende gli effetti di una malattia che abbia già infettato il bersaglio; la malattia non viene curata da questo incantesimo, e una volta terminati gli effetti della magia essa riprenderà il suo corso. Mentre questo incantesimo è attivo, il bersaglio non può effettuare tiri resistenza per guarire.
+ Secondo ordine: Power 12
+ ARMATURA DEL TOCCO FANTASMA(Arcano/Divino)
+ Distanza: tocco
+ Area: armatura toccata
+ Durata: 1min+1min/10 punti di scarto
+ L'armatura toccata mantiene la sua efficacia anche contro gli attacchi incorporei.
+ ARTO AVVIZZITO (Arcano/Divino)
+ Distanza: vicina (25 ft+5ft/10 punti di scarto)
+ Area: una creatura umanoide dotata di arti
+ Durata: 1 round/+1round10 punti di scarto
+ L'incantatore sceglie se colpire un braccio o una gamba del bersaglio, se la vittima non supera un tiro di RR Physical, l'arto si considera Destroyed per la durata dell'incantesimo, poi ritorna alle condizioni originali.
+ FIACCARE (Divino)
+ Distanza: tocco
+ Area: 1 creatura vivente 
+ Durata: istantanea
+ L'incantatore assorbe la resistenza del bersaglio, che diventa esausto se non supera un tiro di RR Physical (velocità di movimento dimezzata, -10 a Forza e Destrezza). Dopo un'ora di riposo il personaggio diventa stanco, ma torna esausto se compie qualsiasi azione faticosa. Dopo 8 ore di assoluto riposo il personaggio è riposato.
+ FURIA CIECA (Arcano)
+ Distanza: vicina (25 ft+5ft/10 punti di scarto)
+ Area: una creatura
+ Durata: 1 round+1round/10 punti di scarto
+ Se non supera una prova di RR Mental, il bersaglio viene sopraffatto da una tale furia che non può compiere altre azioni eccetto “Aggressive” o “Charge” nei confronti dell'incantatore. La vittima deve essere in grado di vedere il mago quando lancia l'incantesimo, l'effetto termina se si interrompe la linea di vista (il soggetto non può volontariamente smettere di guardarlo).
+ Terzo ordine: Power 15
+ ASSORBIMENTE (Arcano/Divino)
+ Distanza: personale
+ Area: incantatore
+ Durata: 1min+1min/10 punti di scarto
+ L'incantatore divora una porzione (almeno 30g) del cervello di una creatura senziente morta al massimo de 12 ore: in questo modo può assorbire parte dei ricordi del defunto. C'è il 25% di possibilità che l'incantatore scopra qualche informazione rilevante riguardo al cadavere: storia di famiglia, eventi recanti, dettagli sulla morte, piani segreti, passwords, parole di attivazione di oggetti magici, tesori nascosti ecc. Abilità, incantesimi e talenti non possono essere imparati in questo modo. L'incantatore può ripetere questo incantesimo finché non riesce il tiro percentuale, ma ogni volta guadagna 1d8 Punti Follia.
+ CONTAGIO (Arcano/Divino)
+ Distanza: tocco
+ Area: creatura vivente
+ Durata: istantaneo
+ Il soggetto viene contagiato da una malattia tra quelle previste nella tabella qui sotto se non supera un tiro di RR Physical. La malattia colpisce immediatamente, senza periodo di incubazione.
+ Qui vorrei inserire la tabella delle malattie di Rolemaster, tipo la Peste Viola, senza dover adattare quelle di d&d.
+ FIAMME DELLA FEDE (Divino)
+ Distanza: tocco
+ Area: arma non magica toccata
+ Durata: 1 round+1round/10 punti di scarto
+ Per a durata dell'incantesimo l'arma toccata ottiene un bonus magico di +20 al Bo e infligge 1d6 danni da fuoco in più.
+ LEGAME TELEPATICO (Arcano/Divino)
+ Distanza: 30ft
+ Area: tu e una creatura volontaria entro 30ft
+ Durata: 10min+10min/10 punti di scarto
+ Crei un legame telepatico con un'altra creatura senziente. La comunicazione funziona a prescindere dal linguaggio delle due creature, una volta che il legame è formato funziona ad ogni distanza (ma non su Piani diversi).
+ Quarto ordine: Power 17
+ AGONIA (Arcane/Divine)
+ Distanza: vicino (25ft+5ft/10punti di scarto)
+ Area: un umanoide
+ Durata: 1round+1round/10 punti di scarto
+ Se non supera un tiro di RR Magical, la vittima di questo incantesimo viene sopraffatta da un tale dolore da farla collassare: per la durata dell'incantesimo il soggetto è helpless e non può compiere azioni. Anche dopo il termine dell'effetto il soggetto è ancora scosso e subisce una penalità di -10 a tutte le azioni per 3d10 minuti.
+ ASSORBIFORZA (Arcano/Divino)
+ Distanza: personale
+ Area: incantatore
+ Durata: 10min+10min/ 10punti di scarto
+ Consumando una porzione di carne (almeno 30g) da un cadavere morto da non più di 12 ore, l'incantatore acquisisce ¼ della Forza e della Costituzione della creatura consumata. Questo incantesimo non può essere ripetuto finché è ancora attivo. L'incantatore riceve anche 1d8 Punti Follia.
+ POTERE DIVINO (Divino)
+ Distanza: personale
+ Area: incantatore
+ Durata: 1round+1round/10 punti di scarto
+ Chiamando su di se il potere del Patrono, l'incantatore viene posseduto da un grande vigore che gli conferisce doti di combattimento eccezionali: ottiene un +20 alla Forza, 3 punti di armatura naturale e scarto/10 punti ferita temporanei.
+ RESISTERE ALL'ENERGIA, DI MASSA (Arcane/Divine)
+ Distanza: vicino (25ft+5ft/10 punti di scarto)
+ Area: 1 creatura+1 creatura/10 punti di scarto, tutte entro 30ft
+ Durata: 10min+10min/10 punti di scarto
+ Tutti i soggetti nell'area ottengono una resistenza di 5+5/10punti di scarto ad un tipo di elemento scelto al momento del lancio dell'incantesimo.
+
+ SFORTUNA (Arcano)
+ Distanza: vicino (25ft+5ft/10 punti di scarto)
+ Area: 1 creatura
+ Durata: 1 round+1round/10punti di scarto
+ Per tutta la durata dell'incantesimo il personaggio non può spendere Punti Fortuna, e la soglia di fallimento diventa 02-07. La vittima può resistere con un tiro di RR Magical.
+ Quinto ordine: Power 19
+ CORRUZIONE DIFFUSA (Divino)
+ Distanza: vicino(25ft+5ft/10 punti di scarto)
+ Area: una creatura
+ Durata: vedi testo
+ L'incantatore infetta il bersaglio con la sua corruzione: se non supera un tiro di RR Magical, la vittima subisce 1d8+1d8/10punti di scarto (max6d8) Punti Corruzione del tipo appropriato a seconda dell'incantatore (un sacerdote di Ahriman causerà Corruzione Oscura, un elementalista causerà Corruzione Elementale). La corruzione così causata svanirà al ritmo di un punto al giorno, tuttavia, se la vittima raggiunge i 100 punti corruzione, l'effetto diventa permanente.
+ L'incantatore subisce a sua volta un quarto della corruzione inflitta, ma questa non svanisce con il tempo.
+ FERMARE IL CUORE (Arcano/Divino)
+ Distanza: tocco
+ Area: una creatura
+ Durata: istantaneo
+ Il cuore della vittima è Crippled a meno che non superi un tiro di RR Physical.
+ INQUISIZIONE (Arcano/Divino)
+ Distanza: vicino(25ft+5ft/10 punti di scarto)
+ Area: una creatura senziente
+ Durata: vedi testo
+ La vittima di questo incantesimo è costretta a rispondere in modo sincero e non fuorviante alle domande dell'incantatore se non supera un tiro di RR Mental (1 domanda+1/20 punti di scarto). La vittima non può rispondere a domande di cui non conosce la risposta. Lo stress mentale di questo incantesimo impone all'incantatore 1d4 Punti Follia.
+ PURIFICAZIONE (Divino)
+ Distanza: tocco
+ Area: una creatura
+ Durata: istantanea.
+ Attraverso questo incantesimo è possibile purificare una creatura dalla Corruzione che la infetta: è possibile purificare in questo modo ogni tipo di corruzione, sia essa Oscura, Elementale o Mentale. La creatura purificata deve spendere immediatamente un numero di DP pari ai Punti Corruzione di cui intende liberarsi. Ogni 10 Punti Corruzione purificati viene anche rimosso un effetto secondario della Corruzione.
+ RISONANZA MAGICA (Arcano)
+ Distanza: media (100ft+10ft/10 punti di scarto)
+ Area: un oggetto o una creatura
+ Durata: istantanea
+ Questo incantesimo funziona come “Dispel magic”, ma ogni incantesimo dissolto infligge 1d4 danni da Forza per Ordine dell'incantesimo alla creatura o all'oggetto. Se viene colpita una creatura, questa ha diritto ad un tiro di RR Physical per dimezzare i danni subiti. Con questo incantesimo è possibile colpire solo incantesimi che hanno un singolo bersaglio (non ad area) e durata diversa da “istantanea”; sono esclusi anche gli incantamenti permanenti sugli oggetti: ad esempio non è possibile colpire un'arma magica, ma è possibile colpire un'arma su cui sia stato lanciato l'incantesimo “Arma Magica”. Se usato su di un oggetto questo incantesimo ignora la DR.
+
+ Sesto Ordine: Power 21
+ ESPLOSIONE DI FIAMME (Arcano)
+ Distanza: 10ft
+ Area: esplosione di raggio 10ft centrata sull'incantatore
+ Durata: istantanea
+ Una potente esplosione di fiamme si diffonde dall'incantatore, danneggiando tutti entro 10ft. Questo incantesimo infligge 2d6+1d6/10punti di scarto (max6d6) danni da fuoco alle creature e agli oggetti nell'area. Inoltre le creature investite dall'esplosione devono superare una prova di RR Physical o essere gettate a terra.
+ FOSSA ILLUSORIA (Arcane)
+ Distanza: media (100ft+10ft/10 punti di scarto)
+ Area: 10ft cube/10 punti di scarto
+ Durata: concentrazione+1 round/10 punti di scarto
+ L'incantatore crea l'illusione di una profonda fossa: se non superano un tiro RR Mental, tutte le creature nell'area cadono a terra agitandosi nella convinzione di cadere (Knell e Helpless). Se subiscono danni l'effetto termina immediatamente. Anche se resistono all'illusione sono comunque stunned per 1 round.
+ NOVA INCORPOREA (Arcane/Divine)
+ Distanza: media (100ft+10ft/10 punti di scarto)
+ Area: esplosione di raggio 50ft
+ Durata: istantanea
+ Questo incantesimo distrugge istantaneamente tutte le creature incorporee o gassose presenti nell'area, a meno che non superino un tiro di RR Mgical.
+ FURIA DEL SOLE (Divine)
+ Distanza: 10ft
+ Area: esplosione di raggio 10ft centrata sull'incantatore
+ Durata: istantanea
+ Una potente esplosione di luce si libera dall'incantatore: tutte le creature nell'area sono blind per 1 min+1min/10 punti di scarto se non superano un tiro di RR Physical. I non morti nell'area subiscono 2d6+1d6/10punti di scarto (max6d6) danni.
+ VOLTO DEL PATRONO (Divino)
+ Distanza: personale
+ Area: incantatore
+ Durata: 1round+1round/10 punti di scarto
+ Con questa magia l'incantatore assume alcuni dei tratti dei servitori del proprio patrono:
+ due grandi ali (piumate o simili a quelle dei pipistrelli, a seconda del patrono) crescono sulla sua schiena, permettendogli di volare al doppio della sua normale velocità
+ la sua pelle diventa dura come cuoio, garantendogli una DR naturale pari a +4
+ Acquista la visione crepuscolare
+ sviluppa armi naturali (corna, zanne, artigli ecc) o ne aumenta la taglia se le possiede già
+ diventa immune al veleno e alle malattie per la durata dell'incantesimo
+
+ Settimo Ordine: Power 22
+ IMMUNITA ALL'ENERGIA (Arcane/Divine)
+ Distanza: tocco
+ Area: una creatura
+ Durata: 24ore
+ L'incantatore sceglie un elemento (fuoco, gelo, elettricità, acido): il bersaglio è immune agli effetti di quell'elemento (anche Vero Elemento) per la durata dell'incantesimo.
+ SCUDO DEL PATRONO (Divine)
+ Distanza: personale
+ Area: incantatore
+ Durata: 1round+1round/10 punti di scarto
+ Uno scudo di energia mistica protegge l'incantatore da qualsiasi incantesimo o capacità magica che infligga danni. Lo scudo può bloccare solo un incantesimo o capacità magica per round, ed ogni volta c'è una possibilità del 5% per Ordine dell'incantesimo che lo scudo si frantumi (l'incantesimo viene comunque bloccato). Se l'incantatore è vittima di un incantesimo o di una capacità magica ad area, lo scudo gli conferisce un bonus di +30 per resistere.
+ Ottavo Ordine: Power 24
+ CUORE DI PIETRA (Arcane)
+ Distanza: personale
+ Area:incantatore
+ Durata: permanente
+ Questa potente magia è stata creata da un Arcimago che cercava una via per l'immortalità diversa dalla non-morte. Questo incantesimo richiede un rituale di 1 ora per poter essere completato: al termine l'incantatore sostituisce il proprio cuore con una replica in Vera Terra di alta qualità (valore almeno 50mo). Il cuore originale, ancora vivo e pulsante, può essere nascosto o spostato a piacere, ma se viene distrutto o spostato su di un altro Piano l'incantatore muore immediatamente. Da questo momento in avanti il ritmo di invecchiamento del mago rallenta, fino ad 1 giorno di invecchiamento per ogni anno, inoltre, egli diventa immune alle malattie (salvo quelle magiche) e ai veleni. Tuttavia il processo è profondamente traumatico: l'incantatore subisce 4d10 di Corruzione Elementale (Terra); inoltre la guarigione naturale del personaggio rallenta fino ad 1pf al giorno, e l'efficacia di tutti gli incantesimi di guarigione lanciati su di lui risulta dimezzata.
+ FURTO VITALE (Arcane/Divine)
+ Distanza: vicino (25ft+5ft/10 punti di scarto)
+ Area: un umanoide senziente
+ Durata: concentrazione
+ L'incantatore assorbe l'energia vitale della vittima, a meno che questa non superi un tiro di RR Magical: finché l'incantesimo è attivo, la vittima subisce un punto di danno alle caratteristiche ogni round, ma ogni 10 round ha diritto ad un nuovo tiro RR Magical per liberarsi. Se questa magia è lanciata in una notte di luna piena e all'interno di un circolo rituale, l'incantatore ringiovanisce di 1 settimana per ogni punto caratteristica risucchiato dalla vittima. L'incantatore subisce 4d10 punti di Corruzione Oscura se l'incantesimo è usato per ringiovanire.
+ URLO DI FOLLIA (Divine)
+ Distanza: tocco
+ Area: una creatura
+ Durata: 1round+1round/10 punti di scarto
+ Se la vittima non supera un tiro di RR Mental, guadagna immediatamente 100 Punti Follia. Terminato l'effetto dell'incantesimo, la vittima ritorna lucida, ma se non supera un nuovo tiro di RR Mental, guadagna permanentemente 10 Punti Follia.
+ VELO DELLA NON-MORTE (Arcane/Divine)
+ Distanza: personale
+ Area: incantatore
+ Durata: 10min+10min/10 punti di scarto.
+ Per la durata dell'incantesimo l'incantatore diventa un non morto a tutti gli effetti: il suo colorito si fa pallido e malaticcio (ma non decomposto), non ha bisogno di nutrirsi, di respirare, di dormire ecc. E' immune ai veleni, alle malattie, alla paralisi, allo stordimento, ai danni non letali, ai danni alle caratteristiche, alla fatica e ad ogni prova che richieda un tiro RR Physical, a meno che non influenzi anche gli oggetti inanimati. Gli altri non morti lo percepiranno come uno di loro, mentre le creature viventi saranno a disagio in sua presenza (-20 alle abilità sociali, salvo +20 a Intimidire); l'incantatore, finché la magia è attiva, sarà danneggiato dall'energia positiva e curato da quella negativa, e subirà gli effetti del potere concesso ai fedeli di Kur. Al termine dell'incantesimo l'incantatore guadagna 1d8 punti Corruzione Oscura.
+
+ Nono Ordine: Powre 25
+ APOCALISSE (Divine)
+ Distanza: personale
+ Area: esplosione centrata sull'incantatore di raggio 16km+16km/10punti di scarto.
+ Durata: istantanea
+ L'incantatore richiama la furia stessa del Patrono in tutta la sua maestà: tutte le creature, gli oggetti e le piante nell'area subiscono 6d6 danni del tipo appropriato al Patrono senza poter effettuare tiri RR. Le terre colpite da questa devastazione restano corrotte e inospitali per secoli.
+ Per completare questo incantesimo è necessario deve sacrificare un artefatto, inoltre l'incantatore raggiunge istantaneamente i 100 Punti Corruzione e viene richiamato al cospetto del proprio Patrono per rendere conto dei propri servigi: raramente gli Dei apprezzano che i loro sacerdoti più potenti cancellino intere porzioni di Ymir... 
+ Con questo incantesimo si dice che siano nati alcuni dei grandi deserti di Ymir, e in seguito la sua formula è stata nascosta e sigillata in luoghi segreti.
+ FURIA DIVINA (Divine)
+ Distanza: 12m
+ Area: esplosione di raggio 12m centrata sull'incantatore
+ Durata: istantanea
+ Pronunciando una sola sillaba delle Parole della Creazione, il corpo dell'incantatore viene avvolto dallo stesso potere che diede forma al Creato: tutte le creature nell'area subiscono danni pari a Co dell'incantatorex2. Non sono ammessi tiri RR.
+ L'incantatore muore, ma il suo corpo rimane e può essere riportato in vita normalmente.
+ SFERA DELLA DISTRUZIONE (Arcane)
+ Distanza: media (100ft+10ft/10 punti di scarto)
+ Area: sfera di raggio 2ft
+ Durata: 1 round+1 round/10 punti di scarto
+ L'incantatore crea una sfera oscura di nulla assoluto che disintegra tutto ciò che tocca. La sfera si muove alla velocità di 30ft a round e l'incantatore può dirigerla con un'azione gratuita. Per colpire una creatura l'incantatore usa la sua abilità di spellcasting per effettuare attacchi a distanza: le vittime possono solo cercare di schivare la sfera, se si difendono con Blocco o Devia si considerano colpite. Se la sfera colpisce una creatura o un oggetto, l'effetto è identico all'incantesimo “Disintegrazione”.
+ STUPRO MENTALE (Arcane)
+ Distanza: MEDIA (100ft+10ft/10 punti di scarto)
+ Area: una creatura
+ Durata: istantanea
+ L'incantatore entra nella mente della vittima, a meno che questa non superi un tiro RR Mental, e viene a conoscenza di tutto ciò che sa. L'incantatore può cancellare o modificare ricordi a suo piacimento e persino cambiare la moralità della vittima; quando ha finito, può lasciare la vittima completamente pazza (come la magia “Insanity”) o apparentemente inalterata, senza alcun ricordo dell'accaduto.

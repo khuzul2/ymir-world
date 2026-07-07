@@ -1,0 +1,26 @@
+SOURCE: Google Drive — Ymir 1.0.2 - Races.xls (fileId 0B51K1jhM2wrFdUtNSkNqa2hoR2s)
+
+===== SHEET: Foglio1 (23x13) =====
+Race	Stat Bonuses						Resistances			Other Traits		Special Abilities
+	ST	CO	DE	IN	SD	CH	Mental	Magical	Physical	Natural Armor	Size
+Common Man	0	0	0	0	0	0	10	10	10	0	M	Start with 10 more Luck points, and an extra ability according to their ethnic group
+Asar	5	0	0	0	0	5	15	0	15	0	M
+Aeryan	0	0	5	5	0	2	20	5	5	0	M	Start with 1d10 CPs
+Tanoth	*	*	*	0	0	0	10	10	10	1	M	10 points (+/-10 max) among * stats, infravision, natural weapons
+Dwergar	2	5	-2	0	5	0	5	10	15	0	M	Infravision, +25 RR vs poisons & diseases
+Xebechan- Xudra	5	5	5	0	0	-5	10	10	10	2	M	Infravision, roll 2d10 choose best for initiative
+Xebechan - Xion	0	0	0	2	3	5	15	15	0	0	M	Infravision, Magesense
+Xebechan - Xattva	-2	-2	0	5	5	4	10	20	0	0	M	Infravision, +1PP/lvl
+Nkishi	*	*	*	**	**	-5	5	5	20	0	M	10 points (+/-10 max) among * and ** stats, max +0 to ** stats, infravision
+Common Man Ethnic Groups		Special Ability
+Cartosa		+10 to any one Social skill
+Letia		+10 to their Magical Resistance
+Warring States		When rolling for damage on their melee attack, treat all die results of "1" as "2"
+Young Realms		+10 to either Alchemy, Mechanisms or Streetwise
+Great Erg		+15 to RRs made to resist heat or illusions
+Helgedad		Either a +10 bonus to Adventuring OR 5 Vitality points
+Qilong		Either a +10 bonus to Perception OR a +2 bonus to Initiative
+
+===== SHEET: Foglio2 (0x0) =====
+
+===== SHEET: Foglio3 (0x0) =====

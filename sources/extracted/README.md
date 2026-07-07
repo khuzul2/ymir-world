@@ -37,3 +37,11 @@ All 13 source files extracted successfully (~46,000 words total).
 - **Partly mined:** Cartosa Guida (pp.16–31 pending), Cartosa.doc, Gaerwath.doc.
 - **Not yet mined:** LIBRO ROSSO, Maraviglie, Edizione Straordinaria, Qi-Long,
   Sadhir, Armora, Helgedad. → tracked in `../../NOTES.md`.
+
+## Second batch — Google Drive corpus (2026-07-07)
+A large second batch was pulled from the Drive "Ymir" folder tree into **`ymir-drive/`**
+(text) and **`../raw/ymir-drive/`** (originals). It holds the group's **homebrew "YMIR"
+game system** (v1.0.0–1.0.7), the **Atlas cosmogony**, the **full magic/summoning system**,
+**playable races**, **world maps**, and a **canon PC**. See **`ymir-drive/README.md`** for the
+per-file index and **`../raw/ymir-drive/DRIVE-MANIFEST.md`** for the full Drive catalogue
+(including what was skipped and why). None of it is mined into `canon/` yet.
