@@ -56,39 +56,10 @@ Six topic digests in `sources/extracted/wiki/` (committed); key findings folded 
 **Ancient/Outer Gods** were sealed; the mortal races are Adepti bio-engineering across a
 former galactic empire → new GM-secret file **`canon/secret-the-great-lie.md`**.
 
-### ⚔️ New contradictions & how we've reconciled them
-- **Public myth vs. Great Lie:** Ech→Mithra/Ahriman + the Six Twins (public) vs. the gods
-  being the Adepti who sealed the Ancient Gods (secret). → kept as **layered public/secret**.
-- **Elf factions vs. sub-races:** earlier canon conflated them. Reconciled as **orthogonal**:
-  factions = Chiari/Illuminati/Oscuri; sub-races = Alti/Silvani/Grigi/marini. (`peoples.md`)
-- **Sadhir (unresolved):** wiki `sadhir.txt` = human cities Al-Jasul/Al-Sidath, **no
-  lizardfolk**; the English `Sadhir_Compiled_Gazetteer.docx` = the **Sarradhi** lizardfolk
-  Sultanate. Two divergent accounts — ❓ **decide which is canon** (the gazetteer reads as a
-  later, possibly AI-assisted reimagining). Both digests kept.
-- **Qi-Long (unresolved):** wiki = six independent warring kingdoms each with its own
-  Dio-Drago; `Onore e Memoria` docx = one empire, hidden emperor at Tianqi, six sect-provinces.
-  ❓ **pick the model** (the empire framing is richer and map-backed).
-- **Timeline depth:** *Libro Rosso* EM 2 = 3027 d.M. vs. Bocca del Caos 3026–3260 vs.
-  "current ≈ 3500 d.M." → **present stays ~EM 2 / 3027**; later dates logged as possible futures.
-- **Armora rulers:** Leonius (schism/war) vs. Vespertina (reconciliation) → **succession**
-  (Vespertina after Leonius). (`history.md`, `characters.md`)
-- **Helgedad Seamark 3rd goddess:** **Thal'Khal** (regional doc) vs. **Kur** (wiki) → logged.
-- **Dwarf gods/origin:** myth **Durkaam & Damkianna** (created the world) vs. secret
-  (engineered by the Omungus on Omalgat) → **myth vs. truth** layer. Also Thal'Khal ≠ dwarf god.
-- **Dragon origin:** dawn-of-time **Grandi Vermi** vs. **20 Adepti-engineered True Dragons**
-  → myth-vs-truth or older-stock; noted in `bestiary.md`.
-- **Demon origin (doubled):** Corrupted Essence vs. the **Piano del Caos** → competing legends.
-- **Morannagul reign:** "unified 2550" vs. wiki "2198–3131" → reconcile against the present.
-
-## ⚔️ Contradictions logged
-- ⚔️ **World spelling:** "Ymir" vs "Yimir" across docs → standardising on **Ymir**.
-- ⚔️ **Who reigns in Cartosa:** the gazetteer says Prince **Rodriguez XIII** (heir
-  Alberto V); the timeline says **Alberto V** acceded in 3017. → `characters.md`.
-  Likely a document-date offset; resolve against the chosen "campaign present."
-- ⚔️ **"la Marea" vs "il Maelstrom":** the Dark Elf doc references "la Marea" as a
-  past cutting-off event, while the era **d.M.** = *dopo il Maelstrom* and the new
-  **Era della Marea** is a distinct later event. Need to confirm the Dark Elves'
-  "Marea" = the Bewitched Tide (Era della Marea) or a separate regional usage.
+> ⚔️ **All conflicts, unclear points, and blind spots now live in
+> [`conflicts.md`](conflicts.md)** — migrated out of here and expanded by a full re-audit.
+> That file is where we track and decide them. NOTES.md keeps only resolved decisions,
+> design directives, and the extraction gaps below.
 
 ## 🕳️ Gaps / remaining extraction (after the maps + regional + LIBRO ROSSO pass)
 - ✅ **Maps.** Three extracted → `sources/maps/` (world, Cartosa, Qi-Long).
@@ -104,10 +75,6 @@ former galactic empire → new GM-secret file **`canon/secret-the-great-lie.md`*
 - 🕳️ **Cartosa.doc** vs **Cartosa Guida.pdf** — reconcile the two Cartosa texts.
 - 🕳️ **Famous player characters** who became canon — collect from you and friends.
 
-## ❓ New open questions surfaced by the material
-- ❓ **Valrin** is both a Dark-Elf **god** (of holy war) and their word for bound demon
-  "**Forces**." Same being, or a naming overlap? → `pantheon.md`/`peoples.md`.
-- ❓ **Xhulhu / Sguardo-sul-Nulla** — is the "outer god" an axis outside the Ech duality?
-- ❓ The **Sadhir** gazetteer is written in **English** (others are Italian) and reads
-  as already-compiled — was it drafted separately (perhaps with AI help)? Affects how
-  we treat it as a source.
+_(Open questions that were listed here are now tracked as entries in
+[`conflicts.md`](conflicts.md): Valrin=COS-8, Xhulhu/Sguardo axis=COS-9, Sadhir source
+provenance=META-3/GEO-1.)_
