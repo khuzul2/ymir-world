@@ -37,10 +37,11 @@ Working memory of the project. Items move out of here into `canon/` once settled
 - ✅ **Contributors** — treat the project as **independent** of how many people/
   campaigns fed it. (We still tag which *document* a fact came from, for traceability.)
 
-## 🆕 Google Drive corpus (pulled 2026-07-07) — new material to mine
-A second, much larger batch of source material was pulled from the Drive "Ymir"
-folder tree into `sources/raw/ymir-drive/` (originals) and
-`sources/extracted/ymir-drive/` (text). Highlights, not yet folded into `canon/`:
+## ✅ Google Drive corpus (pulled & reconciled 2026-07-07)
+A second, much larger batch was pulled from the Drive "Ymir" folder tree into
+`sources/raw/ymir-drive/` (originals) and `sources/extracted/ymir-drive/` (text), and
+has now been **folded into `canon/`** — tagged `[CONFLICT]` wherever it diverges from the
+Player Guide (see Contradictions below). What it added:
 
 - 🌌 **Cosmogony (Atlas.docx) — expands `cosmology.md`/`pantheon.md`.** Two Original
   Elements (**Void** & **Mana**) collide in the **First Clash**, birthing four Lesser
@@ -129,9 +130,29 @@ folder tree into `sources/raw/ymir-drive/` (originals) and
   **Era della Marea** is a distinct later event. Need to confirm the Dark Elves'
   "Marea" = the Bewitched Tide (Era della Marea) or a separate regional usage.
 
+### New contradictions from the Drive corpus (Atlas vs Player Guide)
+- ⚔️ **Two cosmogonies.** Player Guide (keystone): **Ech** splits into **Mithra** + **Ahriman**,
+  whose contrast bears the **Six Divine Twins**. YMIR **Atlas** (earlier draft): **Void + Mana**
+  → **First Clash** → **six Old Gods**, who *make* Mithra & Ahriman as **New Gods** (maybe
+  Ahriman = a corrupted Old God = the **Dark Mana**). Both kept side-by-side; PG is primary.
+  → `cosmology.md`, `pantheon.md`.
+- ⚔️ **Origin of the Maelstrom.** PG: the **Adepti's ritual at Ragash** (La Catastrofe). Atlas:
+  the **Vanyr–Asar First War**. Both blame the Adepts. → `history.md`.
+- ⚔️ **Demonic Circles — six or seven?** PG = **six** (Ahriman); Atlas = **seven** (the Gazer in
+  the Dark). → `bestiary.md`, `cosmology.md`.
+- ⚔️ **Race origins.** Atlas derives **Dwarves (Dwergar)** and **elves (Aeryan)** as human
+  offshoots / an umbrella race; PG keeps **Nani** and a full elven taxonomy distinct. (Win:
+  Atlas confirms **Primigeni = Asar** — now settled in `peoples.md`.)
+- ⚔️ **One Maelstrom or two?** PG = one central Maelstrom (former Ragash); the world maps = a
+  **Cold** (north) + a **Hot** (south) Maelstrom, none central. → `geography.md`.
+- ✅ **d.M. vs p.M.** resolved as equivalent era-abbreviations (both "after/post the Maelstrom").
+  → `calendar.md`.
+
 ## 🕳️ Gaps / next extraction pass (docs not yet fully mined)
-- 🕳️ **Maps.** No world map extracted yet; several PDFs/docs embed maps (Cartosa's
-  "Mappa del Principato", Player Guide's 462 images, Cartosa Guida's 17). **Priority.**
+- ✅ **Maps — world maps now extracted** (`ymirexplored.png`, `YMIR.png`, + a Gaerwath detail
+  map); regions are placed in `geography.md`. Still wanted: the Cartosa "Mappa del Principato",
+  per-nation maps, and the high-res print PSDs (Letia hex map, 300dpi world map — Alessandro
+  to supply, over the 10 MB download cap).
 - 🕳️ **LIBRO ROSSO DEL CONTROLLO MAGICO** (52 pp.) — the real magic system. → `magic.md`
 - 🕳️ **Helgedad.doc, Gaerwath.doc, Armora — città.doc, Qi-Long.docx,
   Sadhir_Compiled_Gazetteer.docx, Cartosa.doc, Maraviglie.pdf, Edizione

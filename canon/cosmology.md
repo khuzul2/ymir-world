@@ -105,6 +105,46 @@ enveloped by other planes of existence:
   — the **Demoni Sovrani** and some lieutenants — are "**Oltre le Cerchie**"
   (Beyond the Circles). See `pantheon.md` for the Sovereign Demons and `bestiary.md`.
 
+## Alternate cosmogony — the YMIR "Atlas" `[CANON: Atlas.docx — earlier/alternate draft]`
+
+> The homebrew **YMIR** ruleset opens with a **different creation myth** than the Player
+> Guide's Ech→Mithra/Ahriman. It is an **earlier design layer** (still carrying author
+> placeholders — "Mithra created XXX" — and Italian design notes), but it names a whole
+> pre-history the Player Guide omits and **conflicts** with keystone canon in ways worth
+> keeping side-by-side rather than smoothing. Player Guide = primary; Atlas = deep-lore variant.
+
+**The Atlas account, in brief:**
+- In the beginning, two **Original Elements** — the **Void** and the **Mana**. Their
+  collision, the **First Clash**, births the four **Lesser Elements** (Fire, Earth, Air,
+  Water) and **six Old Gods**: the **Scion of the Beginning** (kin of Mana, chaotic), the
+  **Gazer in the Dark** (kin of Void, shunned), and the four who share the Lesser Elements —
+  the **Lady of Sorrow, She who Sees, the Gatherer of Circles, the Daughter of Nowhere.**
+- The Scion and She who Sees raise the **eight Elemental Planes** (Essence, Void, Aether,
+  Nether + Fire/Earth/Air/Water) to confine the raw elements.
+- The four siblings craft the **New Gods**: **Mithra** (given life by **Essence + Aether**)
+  and **Ahriman** (by **Void + Nether**), who then **banish the Old Gods** and rule together —
+  before falling out over living things. Each makes **lesser gods** (Ahriman makes **Yogh**).
+- The **Scion of the Beginning** creates **Life**, the **Dreamlands** and **Astral planes**
+  for souls, and the **Adepts** to steward creation. The envious **Gazer in the Dark** answers
+  by making the **Demons** and their hidden home, the **plane of the Seven Demonic Circles.**
+- The Adepts make the **Xebechani**; the **Gatherer of Circles** makes **Men.** After the
+  Banishment the Adepts split into the **Vanyr** (stayed pure; turned to the Demons and were
+  corrupted) and the **Asar** (lived among Men; blood diluted). Their **First War** destroys
+  many worlds and, on Ymir, births the **eternal Maelstrom** — and in the making, the
+  **N'Kishi, Dwergar,** and **Tanoth** (→ `peoples.md`).
+
+**Conflicts with Player-Guide canon** `[CONFLICT]` (logged in `NOTES.md`):
+1. **Origin of all.** Atlas: **Void + Mana** → Old Gods → Mithra/Ahriman *made*. Player Guide:
+   **Ech, the One** splits *into* Mithra & Ahriman. (The Atlas even floats that **Ahriman is a
+   corrupted Old God** who fled the Banishment and *became* the **Dark Mana** — a "cosmic
+   cancer" that would consume both Mana and Void; a force absent from the Player Guide.)
+2. **Origin of the Maelstrom.** Atlas: the **Vanyr–Asar First War.** Player Guide/`history.md`:
+   the **Adepti's ritual at Ragash** (**La Catastrofe**). Both blame the Adepts, differently.
+3. **Maker & number of Demonic Circles.** Atlas: the **Gazer in the Dark**, **seven** Circles.
+   Player Guide: **Ahriman**, **six** Circles. → `bestiary.md`.
+4. **Elemental gods.** Atlas: four Old Gods share the Lesser Elements. Player Guide: the
+   named **Six Divine Twins**. → `pantheon.md`.
+
 ---
 ### Open questions
 - The **Grandi Vermi / Draghi** (Great Worms / Dragons) appear "when the

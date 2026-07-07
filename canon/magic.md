@@ -63,6 +63,30 @@ matters (though whispered of in houses like Gibraleon and mastered by the Dark E
 - **Djinn** — Spirits given fixed form with **mana** to prevent their corruption
   (bound to place, object, or task). → `cosmology.md`
 
+## The homebrew YMIR magic system `[CANON: Magic-and-Sorcery, Skills, Talents, Summoning, spellbooks — earlier draft]`
+
+Beyond the Rolemaster framing, the group's own **YMIR** ruleset structures magic in a way that
+carries real setting flavour (mechanics stripped for the manual, concepts kept):
+- **Domains** — spell families grouped as **Elemental** (Fire, Ice, Air, Earth, Water, Light,
+  Darkness, Aether, Nether), **Natural** (Plant, Animal, Poison, Time, Life, Death), **Planar**
+  (Demonic, Spiritual, Astral), and **Humane** (Mental, Physical). Spells rank in **Orders**
+  (1st–8th); casting is **Standard**, **Force**, or **Directed**; learned via **Sorcery** /
+  **Arcane Arts** talents.
+- **Summoning as an economy of corruption.** Calling/binding entities (→ `bestiary.md`) is paid
+  in **Corruption points, marks, essence,** or **souls** — up to an **Ecatombe** (10+ souls) for
+  the mightiest. This is the mechanical face of the Dark-Elf **Arvo/Valrin** economy and of
+  demon-pact evil generally.
+- **Corruption** in three tracks — **Dark** (pacts with Demons, evil spells/lands; tied to
+  **Ahriman**), **Elemental** (over-use of the True Elements/planes), and **Mental** (madness,
+  *Punti Follia*) — each with its own descent table, giving "the forbidden arts" concrete
+  in-world stakes. → `cosmology.md`, `peoples.md` (Dark Elves).
+- **Blood Magic** and **Faith (Flow)** round out the paths; priests answer to the gods, not the
+  mage-guilds (consistent with the Player-Guide **Flusso**).
+
+*Extraction note:* full spell text lives in `sources/extracted/ymir-drive/` (Spellbook,
+Spells-Max-level, Spells-Ale-Necro/Necromancy, Magia, Incantesimi, the Summoning recap) — a large
+corpus to mine spell-by-spell if the manual ever wants a spell appendix.
+
 ---
 ### Open questions
 - **LIBRO ROSSO DEL CONTROLLO MAGICO** (52 pp.) is the authoritative magic-system

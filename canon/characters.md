@@ -40,6 +40,18 @@
 - **Marco Antonio Vallerini** — governor of Meridian; head of House Vallerini.
 - **Carlos Benicio Valdantini** — President of the Public Assembly of Meridian.
 
+## Player-characters & rules-example figures `[CANON: YMIR system batch]`
+- **Kharim Abdul Jabbar** `[CANON: Pc Graveyard / Mura_02]` — a recorded **player-character**
+  (from the Drive "Pc Graveyard" of fallen PCs): a **level-2 Thief**, **Common Man**, of the
+  **Essence** realm; carried a **Ring of *Unseen* III** (1×/day) and a **"Zephyr Hound" (Cane
+  delle Tempeste)**; spoke the **Language of the Desert** and Comune/Wild-Lands tongues (hinting
+  at a Sadhir / Great-Erg origin). The first named PC to enter canon — more to collect.
+- **Groll** & **Amoth** `[CANON: Combat rules]` — the barbarian and mage of the YMIR combat
+  worked-example (Amoth wins by casting **Dark Sleep**). Rules illustrations, but named.
+- **The Vanyr** & **the Asar** `[CANON: Atlas — alt. draft]` — the two orders the Adepts split
+  into (Vanyr = pure/demon-corrupted; Asar = lived among Men, = the **Primigeni**); their
+  **First War** is an alternate origin of the Maelstrom. → `cosmology.md`, `peoples.md`, `factions.md`.
+
 ---
 ### Open questions / notes
 - `[CONFLICT]` The Cartosa gazetteer names **Rodriguez XIII** as the sitting Prince

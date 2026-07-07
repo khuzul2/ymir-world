@@ -48,6 +48,11 @@ and the shattering of the Maelstrom's isolation. → `history.md`.
 "**Ymir**"; the Player Guide also has one "Yimir". Treating **Ymir** as canonical
 spelling. Logged for the ledger.
 
+`[CANON: Gaerwath map]` A second **abbreviation** for the era appears: the Gaerwath map is dated
+**"c.a. 3500 p.M."** — **p.M.** ("post Maelstrom") is the Latin twin of the Italian **d.M.**
+(*dopo il Maelstrom*); both count from the Maelstrom's birth. (The date **3500** runs ~475 years
+past the Player Guide's 3025 "present" — either a far-future map or a loose approximation; flagged.)
+
 ---
 ### Open questions
 - Are there named days of the week, or festivals/holy days tied to specific

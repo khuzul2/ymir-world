@@ -41,6 +41,13 @@
   centre a never-ending storm of magical energy — **the Maelstrom**. Ymir is torn
   from the normal plane of existence. → `cosmology.md`
 
+  > `[CONFLICT — alternate deep-time: Atlas.docx]` The homebrew **YMIR Atlas** tells this
+  > pre-history differently (→ `cosmology.md`): before recorded time the Adepts split into the
+  > **Vanyr** and the **Asar**, whose **First War** — not the Ragash ritual — "created the
+  > eternal Maelstrom" on Ymir and, in the making, spawned the **N'Kishi**, **Dwergar** and
+  > **Tanoth** peoples (→ `peoples.md`). Both accounts pin the Maelstrom on the Adepts; the
+  > events differ. Kept side-by-side pending reconciliation.
+
 ## Era II — I Giorni Oscuri (The Dark Days) `[CANON]`
 
 - **Year 0 d.M. — La Grande Paura (the Great Fear).** Time begins to be counted

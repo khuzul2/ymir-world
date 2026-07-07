@@ -105,6 +105,23 @@ are recorded **dead**: **Ea** (Lord of the Abysses, destroyed 1570 d.M.) and
 - Race- and region-specific worship (Nkishi *Orisha*/*Mayombe* ancestor-spirits,
   M'Bantha shamanism, etc.) → `peoples.md`.
 
+## Deep pantheon — the YMIR "Atlas" layer `[CANON: Atlas.docx, Talents.docx — earlier/alternate draft]`
+
+The homebrew system preserves an **older divine stratum** beneath the Player-Guide pantheon:
+- **The six Old Gods** — the first divine beings, born of the **First Clash** (→ `cosmology.md`):
+  the **Scion of the Beginning** (Mana), the **Gazer in the Dark** (Void), the **Lady of Sorrow**,
+  **She who Sees**, the **Gatherer of Circles**, the **Daughter of Nowhere**. Later **banished**
+  by the New Gods. The Gazer is credited with making the **Demons**, the Gatherer with making
+  **Men**, the Scion with making **Life** and the **Adepts**.
+- **Mithra & Ahriman as *New* Gods.** `[CONFLICT]` here they are *made* (Mithra of Essence+Aether,
+  Ahriman of Void+Nether) rather than split from **Ech** — and Ahriman may be a **corrupted Old
+  God** who became the **Dark Mana**. → `cosmology.md`.
+- **Named divine Patrons** `[CANON: Talents.docx]` — the system's *Faith* path lists worshippable
+  Patrons that **match the Player-Guide gods**: **Mithra, Ishtar, Kur, Thurms, Gog, Yogh, Heis**,
+  and the dark master **Ahriman** (served via Trials of Injustice, Betrayal, Blasphemy, Sacrilege,
+  Hate). No new gods — but a useful cross-check that the Atlas-era and Player-Guide pantheons are
+  the *same* gods.
+
 ---
 ### Open questions
 - The Player Guide lists ~20 "principal" gods but the cults are said to be

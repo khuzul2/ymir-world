@@ -66,6 +66,17 @@ rumoured necromancy and demon-summoning).
   Helgedad (3015–3024); its generals vanish mysteriously.
 - **Dark Elf demon-binders** of the Gaerwath. → `peoples.md`
 
+## Ancient orders — the YMIR "Atlas" layer `[CANON: Atlas.docx, Talents.docx — earlier draft]`
+
+- **The Vanyr** and **the Asar** — the two factions the **Adepts** split into after the
+  Banishment (→ `cosmology.md`): the **Vanyr** kept their bloodline "pure" and were **corrupted
+  through binding the Demons**; the **Asar** lived among Men and diluted their blood (= the
+  **Primigeni**, → `peoples.md`). Their **First War** is the Atlas's origin of the Maelstrom —
+  the oldest "factions" in the setting.
+- **Summoner orders** `[CANON: Talents.docx]` — binders are ranked **Acolyte → Cabalist →
+  Conjurer → Evoker → Summoner → Master Summoner**, branching into **Demonologist, Elementalist,
+  Animist,** and **Mad Summoner** — a ready-made spine for any summoning cult or academy.
+
 ---
 ### Open questions
 - The Letio Empire's internal structure (nobility, military, the Teocrate's court)

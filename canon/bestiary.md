@@ -60,6 +60,19 @@ Azazel…) — a deliberate familiar-but-reordered infernal hierarchy.
   the six **Circles of Demons** — see `cosmology.md`.
 - **Valrin** — the "Forces"/demons the Dark Elves bind. → `peoples.md`
 
+## Summoned entities — the YMIR system `[CANON: Skills/Talents/Summoning, Atlas — earlier draft]`
+
+The homebrew ruleset frames summoning around **four kinds of extraplanar entity** — **Demons,
+Elementals, Spirits, Outsiders** — called from planes it calls **Pales**, via five effects
+(**Evoke, Contact, Bind, become a Vessel, Possess**), gated by a **Summoner** talent and priced
+in **Corruption** (→ `magic.md`). Named example entities from the rules: **Wolf Spirit**, **Fire
+Elemental**, **Buzzer Demon**, and the **Zephyr Hound (Cane delle Tempeste)** bound by the PC
+Kharim (→ `characters.md`).
+- **Outsiders** are a category the Player-Guide taxonomy (Spirits/Elementals/Djinn/Angels/Demons)
+  doesn't name — provisionally the "everything else from beyond" bucket. `[INFERRED]`
+- `[CONFLICT]` the Atlas puts the Demons in **seven** Circles (made by the **Gazer in the Dark**);
+  the Player Guide uses **six** (made by **Ahriman**). → `cosmology.md`, `NOTES.md`.
+
 ---
 ### Open questions
 - A dedicated monster/creature source doc has not surfaced; most fauna so far is

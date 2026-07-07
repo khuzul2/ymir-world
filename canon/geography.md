@@ -17,6 +17,32 @@ network and the Xebechani **Vere Vie** (True Ways) — once and (in the Era dell
 Marea) again connect distant regions. The drowned ancient capital **Ragash** lies
 where the Maelstrom now churns.
 
+## World layout — reading the maps `[CANON: ymirexplored.png, YMIR.png]`
+
+Two extracted world maps (the "explored world" political map, and the labelled
+**YMIR.png** with a **2000 km** scale bar) finally fix the regions relative to one another:
+
+- **Climate runs north→south, cold→hot.** The far north is the **Frozen Lands**, the far
+  south the **Obsidian Lands**. Between them lie two great ocean vortices — a **Cold
+  Maelstrom** (north-central sea) and a **Hot Maelstrom** (south-central sea), each a ring
+  of islets. `[CONFLICT]` the Player Guide describes a **single** central Maelstrom (former
+  **Ragash**); these maps show **two** polar Maelstroms and label no central one. Likely
+  map-era drift (they belong to the homebrew "YMIR" layer). → `NOTES.md`, `cosmology.md`.
+- **West → east across the world:**
+  - **Letia** — the large **western** continent. **Regni Belligeranti** is its northern
+    region and **Regni Giovani** its south-western arm (both broke *from* Letia — see
+    `history.md` — and read on the map as sub-regions of the Letia landmass).
+  - **Cartosa & Meridian** — the paired small islands in the sea **between Letia and Erg**
+    (not the far south, as earlier assumed).
+  - **Helgedad** — a north-central peninsula/isle just south of the Cold Maelstrom.
+  - **Erg** — the large **central** continent; **Sadhir** is its **southern** region — so
+    the Grande Erg (north) and the Sadhir desert (south) are one landmass.
+  - **Gaerwath** — a ring/rose-shaped **archipelago** in the central ocean, east of Erg.
+  - **Qi-Long** — the large landmass of the **north-east / east**.
+  - **Ophiur** — an **east / south-east** landmass (new; see below).
+  - **Xebech** — appears **twice**: a small island off the far-west coast, and the large
+    **south-eastern** landmass (whose lost north is **Loquitchatzotech**, the Isle of Death).
+
 ## Regions & powers (gazetteer skeleton)
 
 ### Letia / Impero Letio (the North) `[CANON]`
@@ -61,6 +87,10 @@ Unified under the **Mah-Dhol empire** (~1290), which **fell 1900–1920**, split
 into **6 kingdoms**; the **Dei-Drago (Dragon-Gods)** appeared. `[INFERRED]` the
 eastern, honour-culture region (the doc title translates "Honour and Memory").
 
+### Ophiur (the east / south-east) `[CANON: maps — detail pending]`
+An eastern/south-eastern landmass known so far only from the world maps — no regional doc
+has surfaced. It lies between **Qi-Long** (east) and the great south-eastern **Xebech**.
+
 ### Xebech `[CANON]`
 Homeland of the **Xebechani**; jungle cities. Its northern part, lost in a 75-year
 war against undead (2020–2095), is now **Loquitchatzotech** (Isle of Death). Tone:
@@ -72,6 +102,13 @@ alien/reptilian, ancient half-forgotten technology. → `peoples.md`
   a Council.
 - **Gaerwath** — land of the **Dark Elves**; unified under **Morannagul** (2550).
   Warred with Alfheim (Second Elven War, 2080–2115). → `peoples.md`
+  `[CANON: Gaerwath map, c.a. 3500 p.M.]` The Gaerwath is an **archipelago** of ~10 named
+  islands — **Cn'ethyr** (north; capital **G'nethyr**), **Kh'myr**, **Yr'thyr**, **Wag'myr**,
+  **Daarwyr**, **Moloch**, **N'ysyr**, **Gh'yrst**, **Dr'hakyr**, and the bare **Isola del
+  Caos**. Its toponymy steeps in **dreams, souls and death** (*Fiume di Anime* "River of
+  Souls", *Palazzo delle Aule dei Sogni* "Palace of the Halls of Dreams", *Lago degli Infanti*
+  "Lake of the Infants"), studded with stepped **Ziggurat** temples and crowned by a **Medusa**
+  map-emblem — fitting the Dark Elves' demon-binding, Arvo-harvesting culture.
 
 ### The Sadhir & the Grande Erg (deserts) `[CANON — Sadhir gazetteer, not fully mined]`
 Desert lands. The **Deserto Scintillante** (Shimmering Desert) appeared in the Sadhir
@@ -92,10 +129,13 @@ Peoples** and its **Seggio di Cristallo** (Crystal Seat, built 2590–2595). →
 
 ---
 ### Open questions
-- **No world map has been extracted yet** — several source PDFs/docs contain maps
-  (Cartosa has a "Mappa del Principato"; Player Guide has 462 embedded images). Map
-  extraction is a priority next step so regions can be placed relative to each other.
-- Cardinal placement is only partly known: Letia = north, Cartosa/Meridian = south,
-  Qi-Long = east. Positions of Xebech, the elf lands, the deserts, the Young Kingdoms,
-  Helgedad, and the Silver Isles need the maps.
+- ✅ **World maps extracted** (`ymirexplored.png`, `YMIR.png`) — regions are now placed
+  (see "World layout" above). Still **not** shown on these maps: the **Isole d'Argento**
+  (Silver Isles / Folletti), **Alfheim**, and **Khorish** — their positions remain open.
+  The high-res print maps (130 MB PSDs) are still to be supplied by Alessandro.
+- `[CONFLICT]` **One Maelstrom or two?** Player Guide = one central Maelstrom (former Ragash);
+  the maps = a **Cold** (north) and a **Hot** (south) Maelstrom. → `cosmology.md`, `NOTES.md`.
+- Earlier "Cartosa/Meridian = south" is **corrected**: the maps place them in the central sea
+  between **Letia** (west) and **Erg** (centre).
+- **Ophiur** is a wholly new region (maps only) with no source text yet.
 - **Cartosa.doc** vs **Cartosa Guida.pdf** overlap — reconcile when both fully mined.

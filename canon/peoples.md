@@ -112,6 +112,52 @@ pulverised magical **Essence**, gathered by their demon-servants or by forced Ne
 - Orcs, half-orcs, and goblins also crew the worst pirate ships; they war constantly
   with the inland dwarves.
 
+## Race origins from the YMIR system (Atlas & Races) `[CANON: Atlas.docx, Races.xls — earlier/alternate draft]`
+
+> From the homebrew **YMIR** ruleset (the Atlas cosmogony + the Races spreadsheet), an
+> **earlier design layer** than the Player Guide. It mostly *deepens* the Player-Guide
+> races and gives them origins, but uses the system's own names and in places **conflicts**
+> with keystone canon (flagged). Playable roster: **Uomini Comuni · Asar · Aeryan · Tanoth ·
+> Dwergar · Xebechani (Xudra/Xion/Xattva)**; **N'Kishi** non-playable.
+
+- **Asar = the Primigeni.** `[CANON: Atlas]` Resolves the open Primigeni question: the
+  **Asar** are ex-**Adepti** who lived *among* Men to guide them until their blood was
+  diluted by crossing with Men "until they were Adepts no more, just Asar." So the Player
+  Guide's mysterious **Primigeni (Primeval Men)** = the **Asar**. (Stats: +ST +CH, high
+  Mental & Physical resistance.)
+- **Aeryan = the elves** (`ex-elfi`). `[CONFLICT]` the system folds all elves into one
+  playable race, **Aeryan** (+DE +IN, top Mental resistance, "start with 1d10 CPs"), where
+  the Player Guide keeps a full elven taxonomy (High/Grey/Dark/Sylvan/Sea, from Niethel).
+  Read Aeryan as the umbrella term for Player-Guide elves.
+- **Dwergar = Men gone underground.** `[CONFLICT]` the Atlas derives the **Dwergar**
+  (`ex-nani`) from **Men** who "took refuge underground… digging deeper and deeper" — i.e.
+  dwarves as a *human offshoot* — against the Player Guide, where the **Nani** are their own
+  race. (Stats: +ST +CO −DE +SD, Infravision, +25 RR vs poison/disease.)
+- **Tanoth = the Marked's children.** `[CANON: Atlas]` the **Tanoth** are the cast-out
+  hybrid children of Men **Marked by the Maelstrom** — "hybrids between humans and animals…
+  whose children are always Tanoths." Gives the Player-Guide branches an origin (**Ur-Tanoth**
+  = children of Tanoth; **Tal-Tanoth** = children of mutated humans). Traits: flexible stats,
+  **natural weapons**, Natural Armor, Infravision.
+- **Xebechani — made by the Adepts.** `[CANON: Atlas]` the **Xebechani** were *created* by
+  the Adepts as devoted servants, in three types matching the castes: **Xattva** (tall/thin
+  Essence-users; +IN +SD +CH, Magesense, +1 PP/level), **Xudra** (big/strong builders &
+  fighters; +ST +CO +DE, heaviest Natural Armor), **Xion** (devoted, "direct contact with
+  the gods" — the priestly caste, Magesense). *(The Player Guide adds a fourth everyday
+  caste, **Xidhe**, absent from the Races sheet.)*
+- **N'Kishi = "The Corrupted Sons."** `[CANON: Atlas]` born of the **First War** — Men who
+  "devoted themselves to Ahriman in order to survive," now "creatures with leathery skin in
+  the shades of green and grey, of all sizes, from child-like to giants." **Non-playable**;
+  the category holds all the "monstrous" humanoids — the deep origin of the Player Guide's
+  **Nkishi (Wild Orcs)** and the orc/goblin peoples.
+
+### Human ethnic groups (playable cultures) `[CANON: Races.xls]`
+A **Common Man** belongs to one regional **ethnic group**, each granting a cultural knack —
+a tidy roster of playable human cultures by region: **Cartosa** (+10 a Social skill) ·
+**Letia** (+10 Magical Resistance) · **Warring States** (melee damage "1"s count as "2"s) ·
+**Young Realms** (+10 Alchemy / Mechanisms / Streetwise) · **Great Erg** (+15 RR vs heat &
+illusions) · **Helgedad** (+10 Adventuring, or +5 Vitality) · **Qilong** (+10 Perception,
+or +2 Initiative).
+
 ---
 ### Open questions
 - Exact name of the elves' **first faction** (return-home party); full Primigeni text.
