@@ -559,3 +559,78 @@ _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 
 _(Status-board rows for COS-10…25, HIS-6…16, GEO-5…14, RAC-4…16, MAG-4…18, META-6…10 to be added
 in the final reconciliation after the 102-file batch is processed.)_
+
+---
+
+# BATCH-2 RECONCILIATION (205 sources; +116k words)
+What the 102-file parallel batch **resolved**, and the **new** conflicts it raised.
+
+## ✅ Resolved by the new material
+- **✅ HIS-1 + HIS-6 + HIS-7 + HIS-8 — the timeline & the "present."** The batch settles it:
+  the era ladder is **the Tide (~3025–3027) → Nuova Era del Caos (3026–3260) → Il Nuovo
+  Equilibrio (3260–~3518)**. Campaign events are dated **~2944–3026 d.M.** (backstory); the
+  **geographical world map is dated 3518 d.M.** → **the manual's present ≈ 3518 d.M.**, ~250
+  years into the settled New Equilibrium and ~490 years after the Tide. This dissolves the
+  "EM 2 too shallow" problem (there's been ample time for the new continent, the dwarf mutation,
+  Alfheim's resettlement). **Drop** the numeric "EM = d.M. − 3025" offset; date everything in
+  **d.M.** and treat "Era della Marea" as the *name of the age* that began ~3025.
+- **✅ COS-12 — periodization.** Nuova Era del Caos & Nuovo Equilibrio are **sub-phases** of the
+  post-Tide age; the present (3518) is the ominous calm of the Equilibrio. Fixes the false
+  "latest attested = 3027."
+- **✅ HIS-2 / HIS-8 — Armora's rulers.** **Leonius VonGry(i)ffen** rules ~2990–3026; **Vespertina**
+  is a *much later* successor near the 3518 present. Succession across ~490 years, **not** a
+  same-era contradiction. (Present-day Armora ruler = a later VonGry(i)ffen / Vespertina-line.)
+- **✅ GEO-9 — Meridian** is an **island-republic** (drop "inland city").
+- **✅ GEO-10 — deserts are distinct:** **Sadhir** = southern **salt** desert; **Grande Erg /
+  Ulan-Tang / Khorish** = central **sand** desert.
+- **✅ MAG-9 — the Reliquie.** The **six Reliquie** are the **six seals on the four Rune Magiche**
+  (Adepti anti-demon superweapons housed at the Xebechani fortress **Xanadu**) — a set entirely
+  **separate** from the Door-of-Despair artifacts. (Masamune = the relic **Meletskar**.)
+- **✅ MAG-15 / COS-18 (dragon origin) — lean ENGINEERED.** **Gwalgamaur is an ancient Xebechani
+  "Custode del Quadrante 74"** (an engineered guardian) — the True Dragons are made guardians;
+  "Grandi Vermi/Great Worms" is the mythic name. (Element-set details still open — see MAG-11.)
+- **✅ RAC-9 — Xebechani worship.** The **Culto delle Stelle** is their **open, public** religion
+  of the Outer Gods; the *secret* is only that those Outer Gods are the real sealed Ancient Gods.
+  So: publicly worshipped, secretly the truth. (Not a hidden cult.)
+
+## ◑ Now sharper, still your call (go to the walkthrough)
+- **◑ GEO-1 / GEO-5 — Sadhir.** The friends' own **"Leggende del Sadhir" is fully HUMAN** (cities
+  Al-Sidath/Al-Jabur, a human sultan, the Sadhiriti, Marid djinn) — **no lizardfolk**. The English
+  **Sarradhi** gazetteer looks like a separate later reinvention. **Rec: canon = human Sadhir.**
+  *Confirm* — you may have added the Sarradhi deliberately.
+- **◑ GEO-2 / GEO-6 — Qi-Long.** The master text is decisive that the **present is six independent,
+  rival Dragon-God kingdoms**, resisted by six secret societies ("**La Triade**"); the
+  single-empire/Tianqi model is the **deep past** (a "Vero Dio Drago" once reigned at the Capitale
+  della Luce). **Rec: present = six warring kingdoms; empire = ancient backstory.** (The two Dragon-God
+  name-sets still need a pick — see BAT-6.)
+
+## 🆕 New conflicts from the batch
+- **BAT-1** `high` — **What do the Rune Magiche unseal?** Canon: gathering the Reliquie cracks the
+  Maelstrom/demon-prison (opens the Era della Marea). Batch: the Rune are a recoverable **anti-demon
+  weapon-cache at Xanadu** with no Maelstrom link. → **Rec:** the weapons were *sealed*, and unsealing
+  them is what broke the isolation — one event, two descriptions.
+- **BAT-2** `med` — **Xanadu vs. Ragash** as the seat of Adepti/Rune power. → **Rec:** distinct —
+  **Ragash** = the Adepti capital (→ the Maelstrom); **Xanadu** = the Xebechani fortress that *houses*
+  the Rune. (Ragash also persists as a Dreamlands city — HIS-15.)
+- **BAT-3** `med` — **The Rune Magiche = 4** (firm count), sealed by the six Reliquie, keyed to four
+  magic realms. → **Rec:** adopt "four Rune, six seals."
+- **BAT-4** `med` — **`Planes2` grafts a full D&D "Great Wheel" (Planescape)** onto Ymir (Sigil, the
+  Blood War, Gehenna/Carceri/Arborea). → **Rec:** shelve as a non-canon 4e experiment (or "foreignize"
+  it as the Adepti's wider multiverse). This is the main D&D-4e artifact (META-7).
+- **BAT-5** `med` — **Magic realms = FOUR** (Essenza, Flusso, Mentalismo, **Arcano** as a *peer*
+  realm) **+ a corruption axis** — this **revises MAG-3/MAG-5** (drop the "3 realms / Arcano = union"
+  lean). → **Rec:** four realms + corruption axis.
+- **BAT-6** `med` — **Two incompatible Qi-Long Dragon-God name-sets** (2008 vs. revised) + detail
+  variants (Earth realm name, Ice servitors, North element). → **Rec:** adopt the **revised** set.
+- **BAT-7** `low` — **The pre-human Xebechani dark-god cities** (Qalaktchla/Yogh, Huitliya/Azatzotech,
+  R'lyxqan/**Xlucthulhu**) confirm a Lovecraftian layer and that **Yogh is a Xebechani dark god**
+  (resolves COS-5 toward: one god, cross-worshipped) and that Sguardo-sul-Nulla sits with these
+  (aids COS-21). → **Rec:** accept the Lovecraftian Xebechani substratum as canon (GM layer).
+- **BAT-8** `low` — Spelling **VonGryffen** (batch) vs **VonGriffen** (earlier). → **Rec:** pick one
+  (lean **VonGryffen**). Feeds META-10 normalization.
+
+## Deferred to post-walkthrough
+Purely-additive new lore (new regions Wald/Xebech-Xuthal/Kyria detail; the two campaign modules
+*L'Occhio di Kzorr* & *Il Sole Nero*; the Qi-Long "Triade" sects; Armora's war-mechs; dozens of new
+NPCs; the Xebechani dark-god cities) is captured in `sources/extracted/batch2-digests/` and will be
+folded into `canon/` after the conflict decisions (many canon edits depend on those decisions).

@@ -1,115 +1,115 @@
 status	source	sha12	processed_into	notes
-pending	001Back.doc	9a80b25379f1	-	
-pending	01 Intro+scarecrowman.doc	2ea4d828acb5	-	
-pending	01Inizio.doc	91c56d21ce18	-	
-pending	02 TheLivingDead.doc	ff80271bb4bb	-	
-pending	03 Riding the Storm.doc	d9e47ee67a42	-	
-pending	03Santuario.doc	a55ff36420c5	-	
-pending	04 Evil Dreams.doc	6cde408f9fcc	-	
-pending	04Oltre il Portale.doc	596d31215498	-	
-pending	05 Fast as a Shark.doc	897e6b180b96	-	
-pending	06 After Dark.doc	5fd35395e435	-	
-pending	07 The Boogeyman.doc	98a267b99a0e	-	
-pending	08 Son of Evil.doc	6eb8f4a01f77	-	
-pending	09 Bonus 1 - Bigger than the Devil.doc	d96ecf6dee9d	-	
-pending	09 Bonus 2 - Burn in Hell.doc	e99019f4714c	-	
-pending	10 Forbidden Zone.doc	9b88161ed862	-	
-pending	Accampamento Orchetti.doc	2c4f02bc2835	-	
-pending	Acciaio e Oscurità.doc	b7ce06c4d388	-	
+processed	001Back.doc	9a80b25379f1	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	01 Intro+scarecrowman.doc	2ea4d828acb5	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	01Inizio.doc	91c56d21ce18	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	02 TheLivingDead.doc	ff80271bb4bb	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	03 Riding the Storm.doc	d9e47ee67a42	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	03Santuario.doc	a55ff36420c5	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	04 Evil Dreams.doc	6cde408f9fcc	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	04Oltre il Portale.doc	596d31215498	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	05 Fast as a Shark.doc	897e6b180b96	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	06 After Dark.doc	5fd35395e435	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	07 The Boogeyman.doc	98a267b99a0e	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	08 Son of Evil.doc	6eb8f4a01f77	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	09 Bonus 1 - Bigger than the Devil.doc	d96ecf6dee9d	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	09 Bonus 2 - Burn in Hell.doc	e99019f4714c	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	10 Forbidden Zone.doc	9b88161ed862	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Accampamento Orchetti.doc	2c4f02bc2835	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Acciaio e Oscurità.doc	b7ce06c4d388	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	Armora - città.doc	80e803d71ad7	documents -> sources/extracted/*.txt + canon	
-pending	Armora.jpg	1d7b8f8f1afa	-	
-pending	Attacco del Drago.doc	2978aed1f0d3	-	
-pending	Atto 2.doc	d721b864c2db	-	
-pending	Atto 3 - TorVarn.odt	71b84bc3846f	-	
-pending	Cammino dell'Illuminato.odt	15fec2240ebc	-	
+processed	Armora.jpg	1d7b8f8f1afa	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Attacco del Drago.doc	2978aed1f0d3	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Atto 2.doc	d721b864c2db	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Atto 3 - TorVarn.odt	71b84bc3846f	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Cammino dell'Illuminato.odt	15fec2240ebc	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	Cartosa Guida.pdf	df86f8d12bfe	documents -> sources/extracted/*.txt + canon	
 processed	Cartosa.doc	5945714fbed6	documents -> sources/extracted/*.txt + canon	
-pending	Catacombe&Sotterraneo.doc	876df2a1edbd	-	
-pending	Demoni.pdf	bfba222d34f7	-	
-pending	Di nuovo in Fuga.odt	1c1384c083e7	-	
-pending	Down down....doc	54f7f129e873	-	
-pending	ESERCITI.doc	133a12f7131b	-	
+processed	Catacombe&Sotterraneo.doc	876df2a1edbd	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Demoni.pdf	bfba222d34f7	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Di nuovo in Fuga.odt	1c1384c083e7	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Down down....doc	54f7f129e873	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	ESERCITI.doc	133a12f7131b	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	Edizione Straordinaria.pdf	a3141a5a94b1	documents -> sources/extracted/*.txt + canon	
-pending	Erg.odt	828898d8c1b3	-	
-pending	EvilMechas.txt	3afcf7e75865	-	
-pending	Final.doc	fd7caab7b909	-	
-pending	Fuga nella foresta.doc	5fa7d9bf776d	-	
+processed	Erg.odt	828898d8c1b3	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	EvilMechas.txt	3afcf7e75865	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Final.doc	fd7caab7b909	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Fuga nella foresta.doc	5fa7d9bf776d	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	Gaerwath.doc	124322e71238	documents -> sources/extracted/*.txt + canon	
-pending	Guerra e Incanti.odt	85d66ca4ec10	-	
+processed	Guerra e Incanti.odt	85d66ca4ec10	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	Helgedad.doc	5938669d2f0f	documents -> sources/extracted/*.txt + canon	
-pending	Hellost.doc	4ef2784915e3	-	
-pending	I regni del Qi Long e la resistenza ai draghi.rtf	77a5e0d1fc0b	-	
-pending	I.DOC	f13c832e2972	-	
-pending	II.DOC	aa480a11e57f	-	
-pending	III.DOC	3c867e96a545	-	
-pending	IL SETTIMO CIRCOLO.doc	2d7830a9a1b4	-	
-pending	IV.DOC	0bfa286a8bdb	-	
-pending	Incontri casuali Gaerwath.pdf	d9b82ad55cfe	-	
-pending	Intro.doc	bd0e5f7d163e	-	
-pending	Intro.odt	a41df33aa969	-	
-pending	Kyria.odt	8438aa4f1b70	-	
+processed	Hellost.doc	4ef2784915e3	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	I regni del Qi Long e la resistenza ai draghi.rtf	77a5e0d1fc0b	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	I.DOC	f13c832e2972	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	II.DOC	aa480a11e57f	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	III.DOC	3c867e96a545	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	IL SETTIMO CIRCOLO.doc	2d7830a9a1b4	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	IV.DOC	0bfa286a8bdb	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Incontri casuali Gaerwath.pdf	d9b82ad55cfe	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Intro.doc	bd0e5f7d163e	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Intro.odt	a41df33aa969	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Kyria.odt	8438aa4f1b70	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	LIBRO+ROSSO+DEL+CONTROLLO+MAGICO.pdf	512b7ba4b6a3	documents -> sources/extracted/*.txt + canon	
-pending	La Caduta della Torre.doc	b8f362c1a545	-	
-pending	La Vera Via.odt	60df29b99970	-	
-pending	Lance.doc	43da9b062cae	-	
-pending	Le Reliquie del Potere.odt	3f48ef13d2f9	-	
-pending	Leggende del Qi-Long.rtf	462acbf35e69	-	
-pending	Leggende del Sadhir.rtf	0933dff6411f	-	
-pending	Leggende dell'Alfheim.rtf	d25f3e2a0bb0	-	
-pending	Leggende dell'Helgedad.rtf	8ad70b1be547	-	
-pending	Leggende dell'Ophiur.rtf	3d92ff7ed094	-	
-pending	Logarth.odt	10221c5d755e	-	
-pending	Map+-+Gaerwath_CA_3500d.M.jpg	35c35f8d468a	-	
-pending	Map+-+Ymir_3518_d.M_Geographical.jpg	b58915b7c1f6	-	
-pending	Mappa%20dell%27isola%20di%20Obnubia.png	6758db1288a8	-	
+processed	La Caduta della Torre.doc	b8f362c1a545	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	La Vera Via.odt	60df29b99970	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Lance.doc	43da9b062cae	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Le Reliquie del Potere.odt	3f48ef13d2f9	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Leggende del Qi-Long.rtf	462acbf35e69	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Leggende del Sadhir.rtf	0933dff6411f	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Leggende dell'Alfheim.rtf	d25f3e2a0bb0	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Leggende dell'Helgedad.rtf	8ad70b1be547	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Leggende dell'Ophiur.rtf	3d92ff7ed094	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Logarth.odt	10221c5d755e	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Map+-+Gaerwath_CA_3500d.M.jpg	35c35f8d468a	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Map+-+Ymir_3518_d.M_Geographical.jpg	b58915b7c1f6	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Mappa%20dell%27isola%20di%20Obnubia.png	6758db1288a8	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	Maraviglie.pdf	d136d13b752b	documents -> sources/extracted/*.txt + canon	
-pending	Meridian Info.pdf	774797ce8d2f	-	
-pending	Mini.doc	e588c6994148	-	
-pending	Nelle ombre.odt	6c65cafccdd9	-	
-pending	New1.doc	51c67ec633b6	-	
-pending	Nuova speranza.odt	f91c5e831388	-	
-pending	Omicidio.doc	5b4cb3099924	-	
-pending	PARTE I.doc	3d9ca69df7fe	-	
-pending	PARTE II.doc	785ae58334e4	-	
-pending	PARTE III.doc	71e299f7adba	-	
-pending	PARTE IV.doc	016938b3f06b	-	
-pending	PARTE V.doc	68bec131bde2	-	
-pending	PARTE VI.doc	480139eaaba5	-	
-pending	PRECETTI DI HEIS.doc	ea330f040410	-	
-pending	Planes2.doc	39054aaa5cd9	-	
+processed	Meridian Info.pdf	774797ce8d2f	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Mini.doc	e588c6994148	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Nelle ombre.odt	6c65cafccdd9	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	New1.doc	51c67ec633b6	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Nuova speranza.odt	f91c5e831388	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Omicidio.doc	5b4cb3099924	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	PARTE I.doc	3d9ca69df7fe	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	PARTE II.doc	785ae58334e4	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	PARTE III.doc	71e299f7adba	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	PARTE IV.doc	016938b3f06b	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	PARTE V.doc	68bec131bde2	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	PARTE VI.doc	480139eaaba5	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	PRECETTI DI HEIS.doc	ea330f040410	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Planes2.doc	39054aaa5cd9	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	Player Guide.pdf	88b1f3123f67	documents -> sources/extracted/*.txt + canon	
-pending	Prologo 01- il Complotto dei 5.doc	32b6baa1519e	-	
+processed	Prologo 01- il Complotto dei 5.doc	32b6baa1519e	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	Qi-Long_ Onore e Memoria.docx	ece27adfa542	documents -> sources/extracted/*.txt + canon	
-pending	Qilongymir - revised.odt	bfc3db6e3202	-	
-pending	Ragash.odt	5893b66fde6f	-	
-pending	Re degli Orchi.doc	9cd2f6f4296e	-	
-pending	Rescue.doc	b482890fb15b	-	
-pending	Reunion.odt	d892aa327c3f	-	
-pending	Reunion2.odt	425fcc09ef85	-	
-pending	Ritorno ad Armora.doc	2f717ca31a8a	-	
+processed	Qilongymir - revised.odt	bfc3db6e3202	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Ragash.odt	5893b66fde6f	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Re degli Orchi.doc	9cd2f6f4296e	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Rescue.doc	b482890fb15b	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Reunion.odt	d892aa327c3f	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Reunion2.odt	425fcc09ef85	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Ritorno ad Armora.doc	2f717ca31a8a	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	Sadhir_Compiled_Gazetteer.docx	6d6abf047a9e	documents -> sources/extracted/*.txt + canon	
-pending	Santuario.odt	de386efd15a8	-	
-pending	Shura.odt	a2a9d6ac0724	-	
-pending	Start.doc	5f83b0ab90bc	-	
+processed	Santuario.odt	de386efd15a8	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Shura.odt	a2a9d6ac0724	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Start.doc	5f83b0ab90bc	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	Storia dell'impero Letio.doc	ef56edbf7bd5	documents -> sources/extracted/*.txt + canon	
-pending	Strumenti di Potere.odt	02fd5a3bf20e	-	
-pending	Styles.doc	98cf6b97648e	-	
-pending	Tempio Aria.odt	926f6c978014	-	
-pending	Terre dei Sogni.odt	c4cdf4a46183	-	
-pending	The Shadowthrone.odt	9781a732aa03	-	
-pending	Tomb.odt	80cd8047dced	-	
-pending	Torre di Caccia.doc	0ba2dea7800a	-	
-pending	Toyman.odt	17829f12e67a	-	
-pending	Triade in dettaglio.odt	871918684bb8	-	
-pending	Ulan-Tang.odt	a8d7932dfcc2	-	
-pending	Una Tenebrosa Adunanza.odt	08205409059e	-	
-pending	V.doc	7877ae2b9b77	-	
-pending	VI.doc	e94cb8e12415	-	
-pending	Vacations.doc	8451578aa69d	-	
-pending	Wald.odt	509ecc313de8	-	
-pending	Web of Goblins.doc	5a0f72af069f	-	
-pending	Xebech.odt	92200e85bea1	-	
-pending	YonkerMecha.txt	bf873add4030	-	
+processed	Strumenti di Potere.odt	02fd5a3bf20e	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Styles.doc	98cf6b97648e	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Tempio Aria.odt	926f6c978014	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Terre dei Sogni.odt	c4cdf4a46183	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	The Shadowthrone.odt	9781a732aa03	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Tomb.odt	80cd8047dced	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Torre di Caccia.doc	0ba2dea7800a	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Toyman.odt	17829f12e67a	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Triade in dettaglio.odt	871918684bb8	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Ulan-Tang.odt	a8d7932dfcc2	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Una Tenebrosa Adunanza.odt	08205409059e	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	V.doc	7877ae2b9b77	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	VI.doc	e94cb8e12415	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Vacations.doc	8451578aa69d	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Wald.odt	509ecc313de8	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Web of Goblins.doc	5a0f72af069f	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	Xebech.odt	92200e85bea1	batch2 -> sources/extracted/batch2 + digests + canon	
+processed	YonkerMecha.txt	bf873add4030	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	abominii.txt	075a5f353310	wiki -> sources/extracted/wiki/ digests	
 processed	alfheim.txt	ac99493716d0	wiki -> sources/extracted/wiki/ digests	
 processed	arcadia.txt	76c3bb8d91e9	wiki -> sources/extracted/wiki/ digests	
@@ -141,7 +141,7 @@ processed	gaerwath.txt	fbaa2fdee66b	wiki -> sources/extracted/wiki/ digests
 processed	geografia.txt	dd078bc75401	wiki -> sources/extracted/wiki/ digests	
 processed	glossario.txt	d9eb4a869ac3	wiki -> sources/extracted/wiki/ digests	
 processed	gnomi.txt	024ee6212ddc	wiki -> sources/extracted/wiki/ digests	
-pending	helgedad.JPG	17acdf3ec061	-	
+processed	helgedad.JPG	17acdf3ec061	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	helgedad.txt	395236dbd8cc	wiki -> sources/extracted/wiki/ digests	
 processed	i-demoni-su-ymir.txt	c1e58dc399a7	wiki -> sources/extracted/wiki/ digests	
 processed	i-piani-e-il-multiverso.txt	436a4d082fad	wiki -> sources/extracted/wiki/ digests	
@@ -171,14 +171,14 @@ processed	razze-degenerate.txt	a1bef800c32d	wiki -> sources/extracted/wiki/ dige
 processed	razze.txt	b792d10f5153	wiki -> sources/extracted/wiki/ digests	
 processed	regni-belligeranti.txt	2afdb86ec27a	wiki -> sources/extracted/wiki/ digests	
 processed	regni-giovani.txt	a40513e86564	wiki -> sources/extracted/wiki/ digests	
-pending	regni_giovani_true_map.bmp	50e7e3075447	-	
+processed	regni_giovani_true_map.bmp	50e7e3075447	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	religione-elfi.txt	6cdc2bb7d33a	wiki -> sources/extracted/wiki/ digests	
 processed	religione-mithraica.txt	c157ded33981	wiki -> sources/extracted/wiki/ digests	
 processed	religione-nani.txt	272942f43701	wiki -> sources/extracted/wiki/ digests	
 processed	religione-sohleugir.txt	35d589c37186	wiki -> sources/extracted/wiki/ digests	
 processed	religione.txt	da60824b5219	wiki -> sources/extracted/wiki/ digests	
 processed	riassunto-sessioni-prima-di-luned-04-06-2007.txt	a0af4ce1202c	wiki -> sources/extracted/wiki/ digests	
-pending	riassunto.doc	4397a023d629	-	
+processed	riassunto.doc	4397a023d629	batch2 -> sources/extracted/batch2 + digests + canon	
 processed	sadhir.txt	8b98ff2c0166	wiki -> sources/extracted/wiki/ digests	
 processed	scritti-e-pergamene.txt	4710c516175a	wiki -> sources/extracted/wiki/ digests	
 processed	societ-e-corporazioni.txt	083b756f56fd	wiki -> sources/extracted/wiki/ digests	
