@@ -40,6 +40,27 @@
 - **Marco Antonio Vallerini** — governor of Meridian; head of House Vallerini.
 - **Carlos Benicio Valdantini** — President of the Public Assembly of Meridian.
 
+## Figures of the Era della Marea & the campaigns `[CANON — campaign logs]`
+Named heroes and villains from the actual-play that opened the current age. (These are
+the "legendary PCs" you asked about — pulled from the campaign digests in
+`sources/extracted/wiki/history-campaigns.md`.)
+
+- **Vespertina VonGriffen** — succeeds Granduke **Leonius** of Armora; reconciles Armora
+  with Letia against the orcs. → `history.md`, `factions.md`
+- **Heinrich Kramer** — Mithran inquisitor turned **lich**; opened the Ulan-Tang portal
+  (3026), wielded the cursed axe **Oblivion**. → `history.md`, `magic.md`
+- **A Steamclad Sky** (Young Kingdoms): **Isidoro VonGraven** (a clone of **Sigurd
+  VonGraven**, host of the entity **Tyrael**), **Surya** (bearer of the **Masamune**),
+  **Drusilde** (Arcimaga of Armora's Settimo Circolo), Yonker, Baudolino, Han, "Doc";
+  villains **Leonard**, Sharky, Izual, the **Stregoni Neri**, and **Gwalgamaur** with his
+  lieutenants **Vorak / Maara / Shura / Durga** (ex-**Fori**).
+- **A Black Sun Rising** (Cartosa, ~3017): **Tobias** (Alba Nera leader); PCs Alfonso, Don
+  Pablo, Raphael, Ruben, Valerio, Kiki; **Ramirez deStuba** (the disgraced admiral).
+- **The Monster Mash** (Cartosa): Raggot, Gloria Duarte, Alehandro de la Corona; the pirate
+  legend **Roberto Rodrigo "l'Armorita."**
+- **The Gate to Unknown**: Tofango (cursed axe Oblivion), Gundar, Fiorentino Cipriano,
+  Vemeer "Nero", Izàr, Tarek; the seer **Obnubia**.
+
 ---
 ### Open questions / notes
 - `[CONFLICT]` The Cartosa gazetteer names **Rodriguez XIII** as the sitting Prince

@@ -89,10 +89,39 @@ date attested in any source, and the anchor for the **campaign present**. → `h
 - **The Vere Vie (True Ways)** — the Xebechani portal network (built ~1400–1500 d.M.).
 - **The Adepts' portals** — dormant behind the Maelstrom's seal until the Era della
   Marea reactivates them all. → `history.md`
-- **The six Reliquie Divine (Divine Relics)** and the **Rune del Potere (Runes of
-  Power)** — the artefacts whose misuse ends the age and looses the Bewitched Tide.
+- **The six Reliquie** — now named: **Ignus, Saralis, Meletskar, Tassalung, Natharien,
+  Oedring** — gathered to unseal the Adepts' **Rune del Potere** and open the Era della
+  Marea. → `history.md`
 - **Djinn** — Spirits given fixed form with **mana** to prevent their corruption
   (bound to place, object, or task). → `cosmology.md`
+
+## Magical materials `[CANON — metalli.txt, materiali.txt]`
+- **Shald** — violet volcanic glass that acts as a regenerating **Essence reservoir** mages
+  can drain (refined form: **Actorios**, used for summoning). → `geography.md` (Arawak)
+- **Orihalcum** — **nullifies all magic**. **Thalaras** — a magic amplifier/conductor.
+- **Umbra** — light-absorbing, Dark-corrupting material from another world (via the Notturni).
+- **Acciaio Demoniaco** (Demon Steel — Ahriman-corrupting) and **Acciaio Onirico** (Dream
+  Steel — mined beneath the Dream World; a belief-based bonus). Others: **Lagorak**, **Vetro
+  Abissale**, **Guscio di Yarhim**, **Bulusture**, **Galvorn**, **Adamantio**, **Eog**.
+
+## Named artifacts `[CANON — oggetti-vari.txt, scritti-e-pergamene.txt]`
+- **La Porta della Disperazione (Door of Despair)** and the **eight Pergamene Dimenticate
+  (Forgotten Scrolls)**, the **Chiave del Nulla**, and the six **Sangue Elementale** vessels
+  used in the Catastrophe. → `secret-the-great-lie.md`
+- Legendary blades: **Mietianime** (forged by the death-god, wielded by **Morannagul**),
+  **La Spada di Valdis**, **Oblivion** (the lich Kramer's cursed axe → `characters.md`), the
+  **Masamune** (borne by Surya), and the elemental blades **Hellion / Vendicatrice Oscura /
+  Mornlosse / Frangionde**. Also the **Corona della Stregoneria**.
+
+## Corruption & the Elemental Lords `[CANON — corruzione.txt, divinit-elementali.txt]`
+- **Corruzione da Essenza Oscura (CEO)** — a corruption system tied to **Ahriman/Corrupted
+  Essence**, with a second axis of **elemental corruption**. → `cosmology.md`, `secret-the-great-lie.md`
+- The **six Signori Elementali (Elemental Lords)** — one per element, the semi-divine apex
+  of the elementals (Hudemia/Water, Heis/Air, Diis/Fire, Therìos/Earth, Dingir/Light,
+  Varshnak/Ice) — plus **Topramesk il Giallo** associated with **Mana/Void**. → `pantheon.md`
+- **YMIR-specific talents** (in the otherwise-Rolemaster `talenti.txt`): Sangue di Drago,
+  Sangue Elementale, Affinità/Alleato Elementale, Leggenda Vivente, Chi Powers.
+(Full item/material/talent catalogue: `sources/extracted/wiki/magic-items-society.md`.)
 
 ---
 ### Open questions

@@ -37,6 +37,24 @@ essence (not merely killing the body). Listed in descending hierarchy of power:
 `[INFERRED]` These names draw on real-world demonology (Asmodeus, Belial, Moloch,
 Azazel…) — a deliberate familiar-but-reordered infernal hierarchy.
 
+`[CANON — wiki, Era della Marea update]` Ea and Saxul fell centuries ago; when the demons'
+prison cracks in the Era della Marea, **most of the rest die as well**. The fullest roster
+marks all but **three** as *Defunto* — only **Asmodeus** (Tyranny), **Xardas** (the
+Puppeteer), and **Masak** (Illusions) survive to reach Ymir. → `history.md`, `pantheon.md`
+
+## The True Dragons (Veri Draghi) `[CANON — draghi.txt]`
+**Twenty** True Dragons, each elemental in nature, **engineered by the Adepti** as living
+superweapons to guard Ymir's secrets (→ `secret-the-great-lie.md`). Only the six **Qi-Long
+Dei-Drago (Dragon-Gods)** stayed loyal; their king is **Ouroboros**, the True Dragon God
+(who wakes and destroys Alfheim in the Era della Marea — `history.md`). Named examples:
+**Gwalgamaur** = dragon #8, "**il Dorato**," Fire Dragon of **Wald**; **Nihoggr**, the Ice
+Dragon of **Helgedad**; plus Leviathan and others (full roster + elements + regions in
+`sources/extracted/wiki/creatures-dragons.md`). Lesser dragons (drakes, wyverns, serpents)
+and typed variants (Gas/Air, Eastern/Storm, Earth) also exist.
+`[CONFLICT]` The dawn-of-time **Grandi Vermi** (Great Worms) vs. these Adepti-made dragons:
+either the Great Worms are an older, separate stock the Adepti bred from, or the two
+accounts are myth vs. truth. → `NOTES.md`
+
 ## Dragons & Dragon-Gods `[CANON]`
 - **Grandi Vermi (Great Worms) / Draghi (Dragons)** — appear at the world's dawn,
   when Ymir is first "peopled with life." Also the mightiest of Hybrid **Elementals**
@@ -70,6 +88,18 @@ Azazel…) — a deliberate familiar-but-reordered infernal hierarchy.
 ## Constructs `[CANON — Maraviglie]`
 - **Automata / Golem** — Armora's magitech constructs (powered by Leyden jars) and the
   Dark Elves' bound-spirit golems. → `magic.md`, `peoples.md`
+
+## Further creatures `[CANON — creature.txt]`
+- **Fungalidi** — regenerating fungoid flyers; acid skin and paralytic poison.
+- **Magres** — 7-metre chaos-mutated **kobolds**; cowardly but catastrophic when they trample-flee.
+- **Ombra dell'Ostrica Blu (Blue Oyster Shadow)** — undead cultist-shades from a failed
+  summoning of the demon **Ea**. → `factions.md`
+- **Phlegetauro** — three-headed greater fire-demon; bursts into a huge fireball on death.
+- **Relitto (Wreck)** — an undead-possessed alchemical war-construct with a soul-draining icy aura.
+- **Slashquark** — extensible-necked "pigs" with double fang-rows that flense flesh from bone.
+- **Zaar'Qrak** — six-limbed apex predators of the Erg ("Rending Death").
+- **Magositi** — a magic-borne disease (the one Ymir-original entry among the diseases). → `magic.md`
+(Full catalogue in `sources/extracted/wiki/creatures-dragons.md`.)
 
 ## Extraplanar & mutant beings (pointers)
 - **Ibridi (Hybrids)** and **Marchiati (the Marked)** — Maelstrom-mutated life. → `peoples.md`, `cosmology.md`

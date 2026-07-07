@@ -50,6 +50,36 @@ Working memory of the project. Items move out of here into `canon/` once settled
 - Keep the **canon/invented ledger** honest (`[CANON]`/`[INFERRED]`/`[INVENTED]`/
   `[CONFLICT]` tags throughout).
 
+## 📚 Wiki extraction pass (88 files) — done
+Six topic digests in `sources/extracted/wiki/` (committed); key findings folded into
+`canon/`. Headline: **"La Grande Bugia"** — the gods are the alien **Adepti**; the real
+**Ancient/Outer Gods** were sealed; the mortal races are Adepti bio-engineering across a
+former galactic empire → new GM-secret file **`canon/secret-the-great-lie.md`**.
+
+### ⚔️ New contradictions & how we've reconciled them
+- **Public myth vs. Great Lie:** Ech→Mithra/Ahriman + the Six Twins (public) vs. the gods
+  being the Adepti who sealed the Ancient Gods (secret). → kept as **layered public/secret**.
+- **Elf factions vs. sub-races:** earlier canon conflated them. Reconciled as **orthogonal**:
+  factions = Chiari/Illuminati/Oscuri; sub-races = Alti/Silvani/Grigi/marini. (`peoples.md`)
+- **Sadhir (unresolved):** wiki `sadhir.txt` = human cities Al-Jasul/Al-Sidath, **no
+  lizardfolk**; the English `Sadhir_Compiled_Gazetteer.docx` = the **Sarradhi** lizardfolk
+  Sultanate. Two divergent accounts — ❓ **decide which is canon** (the gazetteer reads as a
+  later, possibly AI-assisted reimagining). Both digests kept.
+- **Qi-Long (unresolved):** wiki = six independent warring kingdoms each with its own
+  Dio-Drago; `Onore e Memoria` docx = one empire, hidden emperor at Tianqi, six sect-provinces.
+  ❓ **pick the model** (the empire framing is richer and map-backed).
+- **Timeline depth:** *Libro Rosso* EM 2 = 3027 d.M. vs. Bocca del Caos 3026–3260 vs.
+  "current ≈ 3500 d.M." → **present stays ~EM 2 / 3027**; later dates logged as possible futures.
+- **Armora rulers:** Leonius (schism/war) vs. Vespertina (reconciliation) → **succession**
+  (Vespertina after Leonius). (`history.md`, `characters.md`)
+- **Helgedad Seamark 3rd goddess:** **Thal'Khal** (regional doc) vs. **Kur** (wiki) → logged.
+- **Dwarf gods/origin:** myth **Durkaam & Damkianna** (created the world) vs. secret
+  (engineered by the Omungus on Omalgat) → **myth vs. truth** layer. Also Thal'Khal ≠ dwarf god.
+- **Dragon origin:** dawn-of-time **Grandi Vermi** vs. **20 Adepti-engineered True Dragons**
+  → myth-vs-truth or older-stock; noted in `bestiary.md`.
+- **Demon origin (doubled):** Corrupted Essence vs. the **Piano del Caos** → competing legends.
+- **Morannagul reign:** "unified 2550" vs. wiki "2198–3131" → reconcile against the present.
+
 ## ⚔️ Contradictions logged
 - ⚔️ **World spelling:** "Ymir" vs "Yimir" across docs → standardising on **Ymir**.
 - ⚔️ **Who reigns in Cartosa:** the gazetteer says Prince **Rodriguez XIII** (heir

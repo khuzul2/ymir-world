@@ -105,6 +105,22 @@ Thurms), Tallvar's Merchant/Warriors'/Thieves' guilds, and the dwarven holds of 
 - **L'Esercito dei Lupi (the Army of the Wolves)** — the terror that seized much of
   Helgedad (3015–3024); its generals vanish mysteriously.
 - **Dark Elf demon-binders** of the Gaerwath. → `peoples.md`
+- **L'Alba Nera (the Black Dawn)** — now revealed as a **cult of Ahriman and the Sovereign
+  Demons** (symbol: the **Sole Nero / Black Sun**); the force behind Cartosa's **Anno del
+  Sole Nero** coup (3017), led by **Tobias**. → `history.md`, `pantheon.md`
+- **Azar-Kalish / Conclave delle Ombre** — Ulan-Tang sorcerer-assassins (symbol: the Spider),
+  serving the spider-god Yogh. → `geography.md`
+- The **Regno dei Faraoni Eterni (Khorish)** — a necromantic slave-empire. → `geography.md`
+
+## Sorcerous orders & societies (wiki) `[CANON]`
+- **The five factions of the Gaerwath** (Dark-Elf schools of power): **Meccanisti,
+  Demonologi, Biomanti, Sognatori, Necromanti** (plus the unaligned). → `peoples.md`
+- **Confraternita della Torcia (Brotherhood of the Torch)** — order of the goddess **Hokhmah**,
+  based in Armora.
+- **La Fratellanza (the Brotherhood)** — mage-hunters founded by **Tholaer il Prode** (symbol:
+  the Falcon).
+- **Il Concilio delle Genti** and the magical/regional orders above remain the great
+  counterweights. Full org catalogue: `sources/extracted/wiki/magic-items-society.md`.
 
 ---
 ### Open questions

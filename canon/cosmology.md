@@ -7,6 +7,12 @@
 > Tags: `[CANON]` from sources · `[INFERRED]` implied · `[INVENTED]` gap-fill ·
 > `[CONFLICT]` sources disagree. See root `README.md`.
 
+> ⚠️ **This file is the PUBLIC cosmology — what the peoples of Ymir believe.** The
+> *hidden truth* (that this myth is "La Grande Bugia," the gods are the alien **Adepti**,
+> and the real **Ancient/Outer Gods** were sealed away) lives in
+> **`secret-the-great-lie.md`**. Keep the two layers distinct: this is the myth, that is
+> the secret.
+
 ## The Creation Myth — Cosmogony
 
 `[CANON]` *(Player Guide p.21, "COSMOGONIA")* — In the beginning, per the most
@@ -80,6 +86,14 @@ enveloped by other planes of existence:
 - **The Elemental Planes** — sources of the Elementals.
 - **The Void beyond creation** — where Ahriman withdrew and the Demons arose.
 - **The Aether / Nether** — the polar essences of Mithra and Ahriman respectively.
+- **Lo Spazio Esterno (Outer Space)** — beyond the elemental planes that wall in
+  creation; where the **Dèi Esterni / Antichi Dei (Outer/Ancient Gods)** sleep, sealed.
+  `[CANON — i-piani.txt]` → the secret in `secret-the-great-lie.md`.
+- **Il Piano del Caos (Plane of Chaos)** — an alternate origin-plane for demons in some
+  accounts (the "Sei Signori del Caos" ruled here). `[CONFLICT with the Void/Corrupted-
+  Essence account — see NOTES]`
+- **La Terra dei Sogni (the Dreamlands)** — the plane of dreamers' souls, ruled by the
+  Outer Gods; contains the steampunk dream-world **Arcadia**. → `geography.md`, `secret-the-great-lie.md`.
 
 ### Extraplanar entities (the great taxonomy)
 

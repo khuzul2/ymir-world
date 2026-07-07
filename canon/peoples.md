@@ -5,6 +5,12 @@
 > **Gaerwath.doc** (not yet fully mined). Note: several entries reference Rolemaster
 > **R&C** (*Races & Cultures*); the manual will keep these system-agnostic.
 
+> ⚠️ **Secret origin:** the wiki reveals that the mortal races are largely **Adepti
+> bio-engineering**, scattered across the worlds of an ancient galactic empire (dwarves
+> built on Omalgat, orcs as degenerated bio-soldiers from Gwart, elves made on Tchyo,
+> etc.). Each people's own creation myth (Niethel, Durkaam, the Ancestors) is the
+> mythologised version. See **`secret-the-great-lie.md`**. Below is the *in-world* picture.
+
 ## The "Pure Races" (Razze Pure) `[CANON]`
 
 ### Xebechani
@@ -155,6 +161,35 @@ follows from it. Chief Dark-Elf gods: **Valrin** (warrior god of the holy war) a
 Humans dominate; **Goblins, Half-orcs, Half-elves** are common; Elves less so;
 Dwarves and Gnomes rare. Society is organised around martial **sects** rather than
 race. → `factions.md`, `races-index.md`
+
+## Wiki additions & reconciliations `[CANON — wiki]`
+- **Elf factions vs. sub-races are orthogonal.** The three religious **factions** are
+  **Chiari (Light) / Illuminati (or Rinuncianti — the moderates) / Oscuri (Dark)**; the
+  **sub-races** are **Alti (High) / Silvani (Sylvan) / Grigi (Grey/sea) / marini (sea)**.
+  Each sub-race spread across all three factions — so "Grey" is a *sub-race*, and the
+  *moderate faction* is properly the **Illuminati/Rinuncianti** (this refines the earlier
+  "Grey = moderates" reading). `[CONFLICT resolved]` Elves are **mortal on Ymir (~200 yr)**;
+  Letia theologians debate whether they even have souls.
+- **Ophiur / Ophiriti** — a new human nation: very dark-skinned, mostly-Primeval humans;
+  language **Ophirita**. **Primigeni** were "made from **Fire**" (the destructive elemental
+  principle), which is how a malevolent god corrupted them; they admire Xebechani wisdom.
+- **Xebechani** are facing **extinction**: the **Pozze** that recycle their dead into
+  newborns are failing. They hold a **dragon/Great-Serpent origin** theory and secretly
+  venerate the **Outer Gods (Dei Esterni)** and their ancestors, "**gli Antichi**." →
+  `pantheon.md`, `secret-the-great-lie.md`. Castes live 250–300 yr (Xudra shortest, 80–100).
+- **Folletti:** the **Fate** call themselves **Tylweth Teg** (both sexes, ~150 yr); **Gnomi**
+  are a genuinely separate, antisocial race (~150 yr).
+- **Ur-Tanoth** fear captivity so deeply they **sicken and die if caged**. **Tal-Tanoth**
+  need 8 h sleep daily; excel as thieves/wanderers ("Zingari").
+- **Half-races (Mezze Razze)** — a documented set of 16 crossbreeds, each with a technical
+  and common name and a Sterile/Fertile flag: **Yafysh, Ghzaak, Gurbad, Ghynr, Dwergar,
+  Lash-Tanoth, Gremlin, Pishacha, Ugra-Tanoth, Kappa, Sibert, An-Tanoth, Changeling,
+  Hobgoblin, Uomo-Pesce, Gha-Tanoth**. → `races-index.md`
+- **Degenerate races (Razze Degenerate)** — the **Vulfen** and the **Gratar** (servants of
+  the Sovereign Demons). **Ibridi (Hybrids)** include **Centauri, Satiri, Rahab, Tritoni,
+  Giganti**.
+- Fuller physiology/culture per race (and the four Xebechani castes in depth) is captured in
+  `sources/extracted/wiki/peoples-races.md`.
 
 ---
 ### Open questions

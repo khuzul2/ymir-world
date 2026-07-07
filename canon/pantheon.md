@@ -89,6 +89,27 @@ gods mirror the common ones, others are wholly distinct.
   possibly linked to the outer god **Sguardo-sul-Nulla** ("Gaze-upon-the-Void")
   in the Cartosa timeline. → `history.md`, open question.
 
+## The Outer Gods (Dèi Esterni / Antichi Dei) `[CANON — cosmologia.txt, dei-esterni.txt]`
+> ⚠️ Links to the GM secret — see `secret-the-great-lie.md`. Openly, the Xebechani
+> worship an "alien" pantheon; secretly these *are* the pre-Adepti **Ancient Gods**, the
+> true sleeping deities the Adepti sealed away.
+Six named Outer Gods (worshipping one caused "il Disastro"):
+- **Tuulhak-Xanar** — the Observer.
+- **Xuxhul'Xhathi** — the Judge; a "Trichotomy" of Good / Evil / Nothing.
+- **Xatol-Nahuactl** — the Silent.
+- **Tlahuiz'Halpantexuhtli** — the First.
+- **Xotl-Nag'aaqe** — the Mother.
+- **Xip-Tenalthe** — the Risen.
+The wandering **Blood Moon**, **Sguardo-sul-Nulla** ("the Gaze into the Void"), is the
+Observer stirring — the leading edge of the Ancient Gods' return in the Era della Marea.
+
+## Racial creator-gods `[CANON — religione-nani.txt, etc.]`
+- **Durkaam** (& his consort **Damkianna**) — the **Dwarves'** creator-god, said to have
+  "made the world" and fathered the dwarves. `[CONFLICT with the secret: dwarves were
+  engineered by the Omungus on Omalgat — see secret-the-great-lie.md]`
+- **Niethel** — the elves' divine place of origin (→ `peoples.md`); the secret ties it to
+  the world **Tchyo**.
+
 ## Regional & lesser deities `[CANON — regional docs]`
 - **Thal'Khal** — a goddess worshipped in Helgedad's **Seamark** alongside **Hudemia**
   and **Diis** as a triad of feminine/maternal aspects (the **Torre Splendente**
@@ -112,9 +133,12 @@ the Letio Church of secretly worshipping **Ahriman**. A live religious war. → 
 
 See `cosmology.md` (their nature, "Beyond the Circles") and the full ranked roster
 in `history.md`/`bestiary.md`. In brief: the mightiest demons, near minor-deity in
-power, most trusted vassals of Ahriman, whose sole aim is Ymir's destruction. Two
-are recorded **dead**: **Ea** (Lord of the Abysses, destroyed 1570 d.M.) and
-**Saxul** (Lord of Fevers and Pestilence, destroyed 2563 d.M.).
+power, most trusted vassals of Ahriman, whose sole aim is Ymir's destruction. **Ea**
+(destroyed 1570 d.M.) and **Saxul** (destroyed 2563 d.M.) fell long ago; `[CANON — wiki,
+updated]` by the Era della Marea their prison cracks and **most of the rest die too** —
+the fullest roster marks all but **three** as *Defunto*, leaving only **Asmodeus**
+(Tyranny), **Xardas** (the Puppeteer), and **Masak** (Illusions) to walk Ymir. Full
+ranked roster and status in `bestiary.md`; the prison's cracking is in `history.md`.
 
 ## Known institutional religions (pointer)
 

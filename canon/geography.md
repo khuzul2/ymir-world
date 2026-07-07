@@ -39,7 +39,14 @@ The great northern **theocratic empire** of the **Church of Mithra**, ruled by a
 the Young Kingdoms broke away (2200s), Helgedad seceded (2600), the Church took full
 command (2610). Its religious seat is at/near **Solanthya** (home of an **Alto
 Teocrate**). Aggressively missionary; now waging war on Armora. Tone: high-fantasy
-sacred empire. → `factions.md`, `pantheon.md`
+sacred empire.
+`[CANON — letia.txt]` **~300 million** people (mostly Human); temperate; split into small
+**marches and baronies**. Ruled by the **Clericato di Mithra** under the **sommo sacerdote
+di Mithra** at **Solanthya**. All races welcome **except orcs, dark elves, and followers of
+the Tenebre**; one may not openly profess a non-Mithra cult. Home to the **Monti Bianchi**
+(White Mountains) and **Naughrit** — one of the greatest dwarven strongholds on Ymir. (Lost
+eastern lands became the **Regni Belligeranti**; a succession crisis spawned the **Regni
+Giovani**.) → `factions.md`, `pantheon.md`
 
 ### The Regni Giovani (Young Kingdoms) — steampunk frontier `[CANON]`
 Broke from Letio in the **War of the Princes** (2200–2230). Realms include **Armora,
@@ -115,9 +122,14 @@ folk. Cities: **Zarash-Sur** (capital, Crystalline Palace, Spiral of Transcenden
 smuggler ruin-city). Haunted by the undead remnants of the **Blue Oyster Cult** of the
 demon **Ea**. → `peoples.md`, `factions.md`, `bestiary.md`
 
-### The Grande Erg & Khorish (deserts) `[CANON]`
-Desert lands where King **Athmokethepek I** founded **Khorish** (2160–2180). (Khorish
-appears on the world map, north-central.)
+### The Grande Erg, Ulan-Tang & Khorish (deserts) `[CANON — il-grande-erg.txt]`
+Desert lands. **Khorish** — the "**Regno dei Faraoni Eterni**" ruled by the eternal pharaoh
+**Athmokethepek I** and his wife **Nefthi**, sustained by mass **necromantic slave-labour**
+(founded 2160–2180; the wiki dates its rise to the late 23rd century — see NOTES). **Ulan-Tang**
+— a city-state on the river **Tang** (once sacred to **Ishtar**), now the corrupt seat of the
+**spider-god Yogh**, its High Priest **Sazar-Gadash** (a demon-son of Asmodeus who murdered his
+predecessor Azim-Mulath); five colour-coded noble houses (Ishra, Tyarreth, Miraz, Gaib, Gadash);
+the drug **Loto Nero**; the **Distesa Arida**. → `factions.md`, `pantheon.md`
 
 ### Cartosa & Meridian (swashbuckling South) `[CANON — full sourcebook]`
 See `factions.md`/`peoples.md` and the map. Two islands in the warm southern seas:
@@ -134,10 +146,23 @@ Island realm of the **Folletti**; capital **Elendor**, seat of the **Council of
 Peoples** (the **Seggio di Cristallo**, built 2590–2595). Broken from the continent by
 the Catastrofe. → `factions.md`
 
+### Kyria (the Mist-Isle) `[CANON — kyria.txt]`
+A fog-wrapped north-western island, **untouched by the Catastrofe** and isolated since the
+Demon Wars. Home to **~500,000 Ur-Tanoth** "beast-humanoids"; its sole town, **Thonis**,
+shelters human and elf refugees.
+
+### Other worlds & the Dreamlands `[CANON — see secret-the-great-lie.md]`
+- **La Terra dei Sogni (the Dreamlands)** — the plane of dreamers' souls, ruled by the Outer
+  Gods; contains steampunk **Arcadia** (reached by lucid dreaming through Ragash, guarded by
+  Topramesk). → `cosmology.md`, `secret-the-great-lie.md`
+- **The Isola dei Demoni (Isle of Demons)** — a NEW continent dragged up from the demon-world
+  when the Sovereign Demons' prison cracked in the Era della Marea. → `history.md`
+- **The Adepti's other worlds** — Tchyo, Omalgat, Naxtis, Zend, X-01, Ouronos, Gwart, Seelie:
+  the planets of the old galactic empire, homeworlds of the engineered races. → `secret-the-great-lie.md`
+
 ### Mysterious & dangerous places `[CANON]`
 - **il Groviglio (the Tangle)** — forest with the **Cuore del Caos** at its centre (1600 d.M.).
-- **Kyria** — "wrapped in the Mists" (~1710 d.M.); nature unknown.
-- **Ulan-Tang** — ancient portal where **Sguardo-sul-Nulla** entered Ymir (3026 d.M.).
+- **Ulan-Tang** — ancient portal where **Sguardo-sul-Nulla** entered Ymir (3026 d.M.); see the desert section above.
 - **The Maelstrom / former Ragash** — the world's dead, dangerous heart.
 - **Il Mondo dei Sogni (the Dream World)** — a plane reached (dangerously) via Armora's
   experimental **Oniroscopio**. → `magic.md`

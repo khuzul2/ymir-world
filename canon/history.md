@@ -170,6 +170,45 @@
   accuses of worshipping Ahriman). The Young Kingdoms' Great War (from 3025) bleeds
   into this religious war. → `factions.md`, `pantheon.md`
 
+### What the Tide unleashes `[CANON — lera-della-marea.txt, campaign logs]`
+- **The six Reliquie** — named at last: **Ignus, Saralis, Meletskar, Tassalung, Natharien,
+  Oedring** — are gathered to unseal the Adepts' **Rune del Potere**. (The party that
+  gathered them, and/or the villain **Leonard**, are the "two unnamed adventurers.")
+- The **Isle-of-Death barrier falls**; the **Sovereign Demons' prison cracks** — **most
+  demons die**, and the escapees **drag a slice of the demon-world up out of the sea as a
+  NEW CONTINENT** (the "Isola dei Demoni"). Only **three** Sovereign Demons reach Ymir:
+  **Asmodeus, Xardas, Masak**.
+- The True Dragon God **Ouroboros** wakes and **destroys Alfheim** (brother to the six
+  Qi-Long Dei-Drago). → `bestiary.md`, `secret-the-great-lie.md`
+- Per-people upheavals: Wald's dwarves mutate underground and the **Monti Bianchi** secede;
+  the Tanoth ("**I Gatti**") retake **Hagelbarn**; the Xebechani are evacuated off-world to
+  planet **X-01**; **Vespertina VonGriffen** reconciles Armora with Letia against the orcs;
+  the elven **Prophecy** of the Messaggero (Shulma) stirs; the **Sohleugir** report the
+  **Maelstrom may be weakening**.
+
+### Canonical campaign events (actual play → history) `[CANON — campaign logs]`
+- **"A Black Sun Rising" (~3017, Cartosa)** — the play behind the **Anno del Sole Nero**:
+  the **Alba Nera** cult (Ahriman/Demon-worship, symbol the Black Sun) attempts its coup
+  under **Tobias**; the lost city **Taremorn / Cumbre de Oro** features.
+- **"The Gate to Unknown" (3026)** — the play behind the **Ulan-Tang** event: inquisitor
+  **Heinrich Kramer** becomes a lich and opens the portal that draws in **Sguardo-sul-Nulla**;
+  reveals **Topramesk's seven-Adept ritual** and the **Chiave del Nulla**. → `secret-the-great-lie.md`
+- **"A Steamclad Sky" / "The Legend of the Magic Runes"** — the play behind the Tide's
+  opening in the **Young Kingdoms** (the **Guerra delle Macchine**): the gathering of the six
+  Reliquie, the villain **Leonard**, the **Complotto dei Cinque**, and Rune Magica
+  power-sources beneath **Armora** and **Waldenheim**. Named cast in `characters.md`.
+
+### `[CONFLICT]` Timeline depth
+The *Libro Rosso* dates the present to **EM 2 = 3027 d.M.**, but other sources run further:
+the **Bocca del Caos** era is dated **3026–3260 d.M.**, and one implies "current ≈ **3500
+d.M.**" We keep **~EM 2 / 3027** as the manual's default present (freshest, best-attested)
+and log the later dates as **possible futures / alternate campaign horizons**. → `NOTES.md`
+
+### `[CONFLICT resolved]` Armora's rulers
+**Leonius VonGriffen** breaks with Letia and wars (schism); **Vespertina VonGriffen** — his
+proposed wife/successor — later **reconciles** Armora with Letia against the orcs. Treat as
+**succession/sequence**, not contradiction. → `characters.md`
+
 ---
 ### Open questions & notes
 - **The Adepti's fate** is an explicit in-world mystery: are they truly gone?

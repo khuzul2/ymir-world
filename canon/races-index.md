@@ -31,6 +31,18 @@
 | **Half-orcs, Half-elves** | Qi-Long & elsewhere | common mixed races |
 | **Goblin, Coboldi (Kobolds), Troll** | Helgedad & wilds | monstrous humanoids |
 
+## Half-races (Mezze Razze) `[CANON — mezze-razze.txt]`
+16 documented crossbreeds (each with a technical + common name and a Sterile/Fertile flag):
+**Yafysh, Ghzaak, Gurbad, Ghynr, Dwergar, Lash-Tanoth, Gremlin, Pishacha, Ugra-Tanoth,
+Kappa, Sibert, An-Tanoth, Changeling, Hobgoblin, Uomo-Pesce, Gha-Tanoth**. Plus the common
+**Half-orcs** and **Half-elves**.
+
+## Degenerate & hybrid races `[CANON — razze-degenerate.txt, ibridi.txt]`
+- **Razze Degenerate:** **Vulfen**, **Gratar** (servants of the Sovereign Demons).
+- **Ibridi (Hybrids):** **Centauri, Satiri, Rahab, Tritoni, Giganti** — and the Maelstrom-
+  mutated **Marchiati**. → `peoples.md`, `cosmology.md`
+- Also a new human nation: **Ophiur / Ophiriti** (dark-skinned, mostly Primeval). → `peoples.md`
+
 ## Non-mortal / setting entities (not "races" but present) `[CANON]`
 - **Ibridi (Hybrids)** & **Marchiati (the Marked)** — Maelstrom-mutated beings. → `cosmology.md`
 - **Demoni** (six Circles + the Sovereign Demons), **Angeli**, **Elementali**,
