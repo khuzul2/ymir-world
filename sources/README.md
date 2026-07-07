@@ -5,6 +5,11 @@ ground truth. Nothing here should be edited for style or "corrected" — if a no
 contradicts another note, both stay, and the contradiction gets logged in the
 top-level `NOTES.md`.
 
+## Processing status
+Which sources have been mined into canon is tracked in **`PROCESSING.md`** +
+**`manifest.tsv`** (hash-based). After any new upload, run
+`python3 scripts/source_status.py` to see what's new or changed.
+
 ## Where to put things
 
 - `raw/` — the default dumping ground. Any file type: `.md`, `.txt`, `.pdf`,

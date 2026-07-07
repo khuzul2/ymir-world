@@ -1,0 +1,104 @@
+status	source	sha12	processed_into	notes
+processed	Armora - città.doc	80e803d71ad7	documents -> sources/extracted/*.txt + canon	
+processed	Cartosa Guida.pdf	df86f8d12bfe	documents -> sources/extracted/*.txt + canon	
+processed	Cartosa.doc	5945714fbed6	documents -> sources/extracted/*.txt + canon	
+processed	Edizione Straordinaria.pdf	a3141a5a94b1	documents -> sources/extracted/*.txt + canon	
+processed	Gaerwath.doc	124322e71238	documents -> sources/extracted/*.txt + canon	
+processed	Helgedad.doc	5938669d2f0f	documents -> sources/extracted/*.txt + canon	
+processed	LIBRO+ROSSO+DEL+CONTROLLO+MAGICO.pdf	512b7ba4b6a3	documents -> sources/extracted/*.txt + canon	
+processed	Maraviglie.pdf	d136d13b752b	documents -> sources/extracted/*.txt + canon	
+processed	Player Guide.pdf	88b1f3123f67	documents -> sources/extracted/*.txt + canon	
+processed	Qi-Long_ Onore e Memoria.docx	ece27adfa542	documents -> sources/extracted/*.txt + canon	
+processed	Sadhir_Compiled_Gazetteer.docx	6d6abf047a9e	documents -> sources/extracted/*.txt + canon	
+processed	Storia dell'impero Letio.doc	ef56edbf7bd5	documents -> sources/extracted/*.txt + canon	
+processed	abominii.txt	075a5f353310	wiki -> sources/extracted/wiki/ digests	
+processed	alfheim.txt	ac99493716d0	wiki -> sources/extracted/wiki/ digests	
+processed	arcadia.txt	76c3bb8d91e9	wiki -> sources/extracted/wiki/ digests	
+processed	armature-e-scudi.txt	6f119197dc3d	wiki -> sources/extracted/wiki/ digests	
+processed	armi.txt	7ef1849cb135	wiki -> sources/extracted/wiki/ digests	
+processed	campagna-di-trento---2007.txt	2a96e4a558d6	wiki -> sources/extracted/wiki/ digests	
+processed	campagna-i-la-caduta-di-helgedad.txt	0476a5454604	wiki -> sources/extracted/wiki/ digests	
+processed	campagna-ii-a-black-sun-rising.txt	167a83a2f973	wiki -> sources/extracted/wiki/ digests	
+processed	campagna-iii-the-monster-mash.txt	2b827b50dc01	wiki -> sources/extracted/wiki/ digests	
+processed	campagna-iv-a-steamclad-sky.txt	29fe670b5436	wiki -> sources/extracted/wiki/ digests	
+processed	campagne-di-venezia.txt	754d114d11c5	wiki -> sources/extracted/wiki/ digests	
+processed	cartosa-e-meridian.txt	e6765f3cbaf3	wiki -> sources/extracted/wiki/ digests	
+processed	corruzione---d-d-4e.txt	25db1ec34065	wiki -> sources/extracted/wiki/ digests	
+processed	corruzione.txt	f090860effb1	wiki -> sources/extracted/wiki/ digests	
+processed	cosmologia.txt	cd56f92ba389	wiki -> sources/extracted/wiki/ digests	
+processed	creature.txt	1ea9e803670b	wiki -> sources/extracted/wiki/ digests	
+processed	creazione-personaggi.txt	9bfb775fe9f9	wiki -> sources/extracted/wiki/ digests	
+processed	cronologia.txt	8455e3f4ebb2	wiki -> sources/extracted/wiki/ digests	
+processed	dei-esterni.txt	68acdbc908f7	wiki -> sources/extracted/wiki/ digests	
+processed	divinit-elementali.txt	0c868e3ef24e	wiki -> sources/extracted/wiki/ digests	
+processed	draghi.txt	17ebb6d71bd2	wiki -> sources/extracted/wiki/ digests	
+processed	elfi oscuri.doc	9dd14b80d929	documents -> sources/extracted/*.txt + canon	
+processed	elfi.txt	e50542dfa76f	wiki -> sources/extracted/wiki/ digests	
+processed	entit.txt	99f5dce4b093	wiki -> sources/extracted/wiki/ digests	
+processed	erbe.txt	29ffbf6833b9	wiki -> sources/extracted/wiki/ digests	
+processed	fate.txt	ab5a4dda38ec	wiki -> sources/extracted/wiki/ digests	
+processed	folletti.txt	5bfcb128a0a8	wiki -> sources/extracted/wiki/ digests	
+processed	gaerwath.txt	fbaa2fdee66b	wiki -> sources/extracted/wiki/ digests	
+processed	geografia.txt	dd078bc75401	wiki -> sources/extracted/wiki/ digests	
+processed	glossario.txt	d9eb4a869ac3	wiki -> sources/extracted/wiki/ digests	
+processed	gnomi.txt	024ee6212ddc	wiki -> sources/extracted/wiki/ digests	
+processed	helgedad.txt	395236dbd8cc	wiki -> sources/extracted/wiki/ digests	
+processed	i-demoni-su-ymir.txt	c1e58dc399a7	wiki -> sources/extracted/wiki/ digests	
+processed	i-piani-e-il-multiverso.txt	436a4d082fad	wiki -> sources/extracted/wiki/ digests	
+processed	ibridi.txt	f483c578d3fa	wiki -> sources/extracted/wiki/ digests	
+processed	il-grande-erg.txt	d374766c76f3	wiki -> sources/extracted/wiki/ digests	
+stub	index.txt	65954b247436	wiki (empty/redirect)	1 line or fewer
+processed	isole-dargento.txt	64ea1b0b548c	wiki -> sources/extracted/wiki/ digests	
+processed	kyria.txt	633d535e8011	wiki -> sources/extracted/wiki/ digests	
+processed	lera-della-marea.txt	6a9fd7eb6a81	wiki -> sources/extracted/wiki/ digests	
+processed	letia.txt	0f5cabd4438c	wiki -> sources/extracted/wiki/ digests	
+processed	maelstrom.txt	5b87c4f1222e	wiki -> sources/extracted/wiki/ digests	
+processed	malattie.txt	3c6f21f564fa	wiki -> sources/extracted/wiki/ digests	
+processed	materiali.txt	0c35c45e3283	wiki -> sources/extracted/wiki/ digests	
+processed	metalli.txt	a91fe012cac8	wiki -> sources/extracted/wiki/ digests	
+processed	mezze-razze.txt	85c554108cda	wiki -> sources/extracted/wiki/ digests	
+processed	nani.txt	1c24637c4534	wiki -> sources/extracted/wiki/ digests	
+processed	oggetti-ed-artefatti-di-ymir.txt	4db74785f0f7	wiki -> sources/extracted/wiki/ digests	
+processed	oggetti-vari.txt	3a694f84b28f	wiki -> sources/extracted/wiki/ digests	
+processed	ophiur.txt	a5c54db9ff12	wiki -> sources/extracted/wiki/ digests	
+processed	parte-2-la-leggenda-delle-rune-magiche.txt	d380867bb297	wiki -> sources/extracted/wiki/ digests	
+processed	pg-di-ymir.txt	821e8a6540b5	wiki -> sources/extracted/wiki/ digests	
+processed	primigeni.txt	967caba37b17	wiki -> sources/extracted/wiki/ digests	
+processed	qi-long.txt	bbdea5d0ab6b	wiki -> sources/extracted/wiki/ digests	
+processed	qilong-names.png	ab519f872994	maps -> sources/maps/	
+processed	qilong-realms2.png	6ed79890c71d	maps -> sources/maps/	
+processed	razze-degenerate.txt	a1bef800c32d	wiki -> sources/extracted/wiki/ digests	
+processed	razze.txt	b792d10f5153	wiki -> sources/extracted/wiki/ digests	
+processed	regni-belligeranti.txt	2afdb86ec27a	wiki -> sources/extracted/wiki/ digests	
+processed	regni-giovani.txt	a40513e86564	wiki -> sources/extracted/wiki/ digests	
+processed	religione-elfi.txt	6cdc2bb7d33a	wiki -> sources/extracted/wiki/ digests	
+processed	religione-mithraica.txt	c157ded33981	wiki -> sources/extracted/wiki/ digests	
+processed	religione-nani.txt	272942f43701	wiki -> sources/extracted/wiki/ digests	
+processed	religione-sohleugir.txt	35d589c37186	wiki -> sources/extracted/wiki/ digests	
+processed	religione.txt	da60824b5219	wiki -> sources/extracted/wiki/ digests	
+processed	riassunto-sessioni-prima-di-luned-04-06-2007.txt	a0af4ce1202c	wiki -> sources/extracted/wiki/ digests	
+processed	sadhir.txt	8b98ff2c0166	wiki -> sources/extracted/wiki/ digests	
+processed	scritti-e-pergamene.txt	4710c516175a	wiki -> sources/extracted/wiki/ digests	
+processed	societ-e-corporazioni.txt	083b756f56fd	wiki -> sources/extracted/wiki/ digests	
+processed	sohleugir.txt	22cfc3c3531a	wiki -> sources/extracted/wiki/ digests	
+processed	staffe-bacchette-e-bastoni.txt	c47917d52d16	wiki -> sources/extracted/wiki/ digests	
+processed	stili-arti-marziali.txt	3b953b33bd6e	wiki -> sources/extracted/wiki/ digests	
+processed	stili-di-combattimento-armato.txt	5ec5ecfc46bf	wiki -> sources/extracted/wiki/ digests	
+processed	tal-tanoth.txt	2936b7f7f007	wiki -> sources/extracted/wiki/ digests	
+processed	talenti.txt	ab36ba6e9df3	wiki -> sources/extracted/wiki/ digests	
+processed	tanoth.txt	d941ce53c60d	wiki -> sources/extracted/wiki/ digests	
+processed	tchyo.txt	b61c631f0743	wiki -> sources/extracted/wiki/ digests	
+processed	umani.txt	5f6d17d2fb4f	wiki -> sources/extracted/wiki/ digests	
+processed	uomini.txt	f83d1c03aa4f	wiki -> sources/extracted/wiki/ digests	
+processed	ur-tanoth.txt	64e8ae868aa7	wiki -> sources/extracted/wiki/ digests	
+processed	varie.txt	6cf3a9ef437f	wiki -> sources/extracted/wiki/ digests	
+processed	welcome-page.txt	f513dd7b73c2	wiki -> sources/extracted/wiki/ digests	
+processed	xattva.txt	fbdf09711740	wiki -> sources/extracted/wiki/ digests	
+processed	xebech.txt	135a17b73eb4	wiki -> sources/extracted/wiki/ digests	
+processed	xebechani.txt	cbfbc43d3c56	wiki -> sources/extracted/wiki/ digests	
+processed	xidhe.txt	c6fb236c4b50	wiki -> sources/extracted/wiki/ digests	
+processed	xion.txt	d1bf6fc14ab4	wiki -> sources/extracted/wiki/ digests	
+processed	xudra.txt	2d5a8421d1ef	wiki -> sources/extracted/wiki/ digests	
+processed	ymir--d-d-4e-personaggi.txt	eba6c729bb4f	wiki -> sources/extracted/wiki/ digests	
+processed	ymir-dreamlands.txt	156165f35ec1	wiki -> sources/extracted/wiki/ digests	
+processed	zohriti.txt	86a812d2597b	wiki -> sources/extracted/wiki/ digests	
