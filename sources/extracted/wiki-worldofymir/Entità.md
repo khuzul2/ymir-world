@@ -1,0 +1,87 @@
+# Entità
+
+- **Source:** https://worldofymir.fandom.com/wiki/Entità
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2023-05-24T14:42:03Z
+- **Categories:** Cosmology
+
+---
+
+**SPIRITI**
+
+Gli Spiriti sono entità immateriali che appartengono ad un piano di esistenza che è diverso dal nostro ma, allo stesso tempo, circonda il piano materiale e lo avvolge: il Mondo Spirituale o Mondo dei Sogni.**** Sono ancora poco conosciuti perché tendono a corrompersi e diventare Spiriti Furiosi (incontrollabili e malevoli) se rimangono troppo in contatto col mondo materiale.
+
+**ELEMENTALI**
+
+Spiriti provenienti da uno dei piani elementali o esseri creati artificialmente con gli elementi. Si dividono in:
+
+  * Wispling (i più deboli, paragonabili a piccoli animali come insetti o roditori delle nostro piano di esistenza)
+  * Ibridi (esseri parte elementali e parte no, corrotti almeno per metà da un elemento)
+  * Servitori (gli elementali artificiali più piccoli e deboli)
+  * Cavalcature (anche questi artificiali)
+  * Guardiani (elementali artificiali di classe superiore)
+  * Giganti Elementali ( i più potenti e meno controllabili degli elementali artificiali)
+  * Veri Elementali (di potenza varia, da Debole a Forte)
+  * Elementali Superiori (i più potenti fra i Veri Elementali)
+  * Draghi (i più potenti fra gli elementali Ibridi)
+  * Signori Elementali (uno per elemento, entità semi divine)
+
+**DJINN**
+
+Entità create semi artificialmente, utilizzando il mana per dare forma fisica ad uno Spirito in modo da impedire che si corrompa. Solitamente sono legati ad un luogo o ad un oggetto, ma possono essere creati anche per compiere una singola missione. Sono divisi secondo la seguente classificazione, in ordine di potenza:
+
+  * Jann
+  * Jinn
+  * Shaitan
+  * Ifrit
+  * Marid
+
+**DEMONI**
+
+I Demoni sono entità completamente asservite all'Essenza Oscura, che risiedono in piani di esistenza esterni a quello materiale. Gli studiosi non sono del tutto concordi sulla loro natura, alcuni ipotizzano che essi non siano altro che coloro che in vita hanno ceduto alle lusinghe del Male la cui anima, dopo la morte, si reincarna in questa forma. Secondo altri, invece, si tratta di Spiriti particolarmente malevoli e corrotti, oppure di vere e proprie incarnazioni dell'Essenza Oscura, dotate di una propria volontà.
+
+L'unica cosa certa è che tutti i demoni sono maligni e perversi e indissolubilmente collegati con il principio dell'Essenza Oscura. Ciò si ripercuote su qualsiasi cosa facciano, per quanto possa essere nobile l'intento con il quale vengono evocati, essi finiscono inevitabilmente per corrompere l'animo di coloro che li convocano...
+
+Quando si manifestano su questo piano assumono sembianze orribili e distorte perché la loro essenza impedisce loro di celare la propria natura perversa senza ricorrere a potenti incantesimi di occultamento (più un demone è potente e più gli è difficile nascondere il proprio vero aspetto, tanto che quest’operazione è praticamente impossibile per i demoni maggiori). Gli studiosi hanno suddiviso i demoni in sei Cerchie, che determinano la loro gerarchia e la loro potenza, dai più deboli (prima Cerchia) ai più forti (sesta Cerchia). Esistono poi demoni (per esempio i Demoni Sovrani e alcuni loro luogotenenti) talmente potenti da sfuggire ad ogni classificazione, che non appartengono a nessuna Cerchia e sono considerati “Oltre le Cerchie”. In genere, più un demone è potente e più è raro (perché sono necessari incantesimi di alto livello per convocarlo su Ymir) inoltre, i demoni appartenenti alle Cerchie più alte sono più difficili da controllare e ciò scoraggia la maggior parte dei maghi dal tentare la loro evocazione.
+
+**DEMONI SOVRANI**
+
+I Demoni Sovrani sono i demoni più potenti, addirittura vicini allo stato di divinità minori in termini di possanza. Sono i più fidati vassalli dell'Essenza Corrotta e il loro unico scopo pare essere la corruzione del Creato. A quanto pare, nonostante il loro potere, devono sottostare alle leggi che governano tutti i demoni e non possono manifestarsi su Ymir a meno di non venir evocati (cose che richiede rituali magici a dir poco complessi). Sebbene come tutti i demoni siano immortali, sembra sia possibile annientarli. Per farlo, tuttavia, non basta uccidere il loro corpo, occorre trovare la loro vera essenza e distruggerla, cosa più facile a dirsi che a farsi. Qui di seguito sono elencati i Demoni Sovrani in ordine gerarchico di potenza. Non fatevi ingannare, però! Perfino il minore fra i Demoni Sovrani dispone di un potere più grande di quanto un comune mortale possa immaginare.
+
+Asmodeus: Signore della Tirannia SIMBOLO: Drago nero
+
+Astharoth: Signore del Massacro SIMBOLO: Pentacolo Rovesciato
+
+Xardas: (Il Burattinaio) Signore dei Complotti SIMBOLO: Ragnatela
+
+Belial: Signore della Perfidia SIMBOLO: Serpente a due Teste
+
+Behemoth: Signore della Natura Perversa SIMBOLO: Caprone
+
+Azazel: Signore della Dannazione SIMBOLO: Mano con 7 dita
+
+Abraxas: Signore della Magia Proibita SIMBOLO: Chiave Nera
+
+Moloch: Signore del Sacrificio SIMBOLO: Teschio di Toro
+
+Arioch: Signore dell’Oscurità SIMBOLO: Stella a 8 punte
+
+Masak: Signore delle Illusioni SIMBOLO: Maschera
+
+Alastor: Signore del Crepuscolo SIMBOLO: Corona Nera
+
+Abbadon: Signore del Tormento SIMBOLO: Tridente Invertito NOTE:Defunto
+
+Abigor: Signore dei Campi di Battaglia SIMBOLO: Ascia NOTE: Defunto
+
+Ismael: Signore dell’Avarizia SIMBOLO: Moneta
+
+Adramelek: Signore delle Menzogne SIMBOLO: Pavone NOTE: Defunto
+
+Nergall: Signore dell’Assassinio SIMBOLO: Pugnale
+
+Netunshiel: Signore delle Cripte SIMBOLO: Sciacallo NOTE: Defunto
+
+Ea: Signore degli Abissi SIMBOLO: Ostrica NOTE: Defunto
+
+Saxul: Signore di Tutte le Febbri e Pestilenze SIMBOLO: Nessuno NOTE: Defunto

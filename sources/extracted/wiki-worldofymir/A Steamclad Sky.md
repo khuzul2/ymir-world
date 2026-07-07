@@ -1,0 +1,266 @@
+# A Steamclad Sky
+
+- **Source:** https://worldofymir.fandom.com/wiki/A_Steamclad_Sky
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2023-05-24T14:30:46Z
+- **Categories:** Campaign Report
+
+---
+
+Ambientazione: Regni Giovani
+
+Riusciranno i nostri eroi a districarsi fra i complotti che circondano il Granducato di Armora?
+
+Personaggi:
+
+PG:
+
+Baudolino: Mercenario Gurbad (Mezzo Nano), tiratore incredibilmente abile.
+
+Drusilde: Xattva esiliato, insegnante all'Accademia di Studi Elementali di Armora.
+
+Han: Agente della Triade degli Aironi Grigi, giunto ad Armora dal Qi-Long alla ricerca di Surya.
+
+Isidoro VonGraven: Studente dell'Accademia di Studi Elementali di Armora, assieme alla sua gatta-famiglia Elerina.
+
+Surya: Ur-Tanoth spadaccino, proveniente dal lontano Qi-Long, reca con sé una misteriosa spada incantata: la Masamune.
+
+Yonker: Nano appartenente all'Arcano Ordine degli Artefici, esperto in meccanismi ed esplosivi. Fa segretamente parte di un movimento ultranazionalista nanico.
+
+PNG importanti (in ordine di apparizione):
+
+Belengard: Capogilda dell'Accademia di Studi Elementali.
+
+Telesius: Alto Membro dell'Aria dell'Accademia
+
+Sharky: Misterioso ed inquietante brigante
+
+Leonard: Mago Vampiro
+
+Tyrael: entità che possiede Isidoro
+
+Uglaark: Capotribù orchesco
+
+Sir Maegor: Capo delle Fecce d'Argento
+
+Lord Vorak: Luogotenente di Gwalgamaur
+
+Valentine: Segretaria di Belengard
+
+Izual: entità gemella di Tyrael
+
+Brannon: guida nanica
+
+Lord Maara: Luogotenente di Gwalgamaur
+
+Gwalgamaur il Dorato: Antico e possente Drago del fuoco
+
+Yghlaark: Sacerdote Notturno
+
+Logarth il Saggio: Mago-Guerriero itinerante di grande fama.
+
+Re Fundin: re della fortezza d Tor-Varn
+
+Lord Shura: Luogotente di Gwalgamaur
+
+Fori: Nano traditore
+
+Lord Durga: Fori tramutato in luogotente di Gwalgamaur
+
+Re Barulf: re di Ennin-Lar
+
+Raghnid: principessa di Ennin-Lar
+
+Ser Damian: signore di Torralta
+
+Saedhun: Sacerdote di Thurms
+
+Keveth: Manigoldo sfortunato
+
+Markus: vampiro "figlio" di Leonard
+
+Galamorn: Paladino di Abigor
+
+Natalya: Alto Membro del Gelo
+
+Intro
+
+Una notte d'autunno Drusilde e Isidoro si trovano nella biblioteca sotterranea dell'Accademia, l'una con l'incarico di sorvegliare il posto, l'altro con l'intento di sgraffignare un libro dallo studio di Belengard. I due scoprono un misterioso intruso, che però gli sfugge attraverso un passaggio segreto che pare condurre sotto la città di Armora. Decisi a catturalo, lo seguono nell'oscuro passaggio.
+
+Contemporaneamente, Yonker si trova nei pressi del Padiglione delle Scienze di Armora, dato che intende rubare un nuovo tipo di componente meccanica. Viene però assalito da alcuni figuri vestiti di nero, che hanno appena rubato la componente da lui cercata!
+
+In suo aiuto, attiranto dai rumori di combattimento, arriva un misterioso spadaccino, che rovescia completamente le sorti della battaglia in favore di Yonker, costringedo alla fuga i ladri rimanenti: si tratta di Surya. Yonker riesce a convincerlo di essere stato derubato di una cosa molto importante dagli assalitori in nero e i due si lanciano al loro inseguimento. Seguendo le loro tracce arrivano nelle fogne di Armora e qui trovano un passaggio che li conduce ancora più in basso, all'interno di misteriose rovine sotterranee.
+
+Qui si incontrano con Isidoro e Drusilde, alla ricerca del loro intruso. Fatta conoscenza, decidono che i ladri e l'intruso sono in qualche modo collegati (visto che sono fuggiti nello stesso luogo) e uniscono le loro forze per catturarli. Nelle rovine, però trovano solamente i cadaveri dei ladri, e uno strano essere d'ombra che riescono a malapena a respingere.
+
+L'arrivo di un manipolo di guardie, guidate da Telesius, un Alto Membro dell'Accademia, pare significare la salvezza, ma i nostri vengono invece catturati, e messi in prigione con l'accusa del furto al Padiglione. L'intervento di Belengard (che ascolta con interesse le loro storie sull'essere d'ombra), tuttavia, li scagiona. Surya, trovandosi senza lavoro e senza un luogo dove dormire, e avendo ampiamente dimostrato le proprie abilità di combattente, viene assoldato da Drusilde come guardia del corpo.
+
+Capitolo I: L'Omicidio del Nano
+
+Pochi giorni dopo i quattro sono nuovamente riuniti nello studio di Belengard che propone loro un compito da svolgere con la massima discrezione. L'Artefice nano Nairin è stato di recente assassinato. Belengard sospetta che in qualche modo sia implicato qualcuno all'Accademia e per questo vuole che le indagini siano condotte da membri della stessa, per evitare scandali. Yonker viene assunto come collaboratore dell'Ordine degli Artefici (di cui la vittima faceva parte) e come guida per il ghetto nanico. Surya mantiene il suo ruolo di guardia del corpo. Inoltre, al gruppo si aggiunge Baudolino, un mercenario assunto dall'Accademia come ulteriore protezione.
+
+Il caso si rivela piuttosto difficile, dato che l'assassino ha usato potenti incantesimi per celare le sue tracce. Alla fine, tuttavia, il gruppo capisce che il nano è stato assassinato a causa di un progetto al quale stava lavorando per conto di Sharky, un losco criminale.
+
+Riescono a individuare Sharky e lo trovano mentre confabula con Telesius e si accinge a caricare alcune casse su una barca. Inizia quindi un combattimento all'ultimo sangue contro gli scagnozzi di Sharky, sui quali i PG hanno la meglio. Drusilde riesce a mettere KO Telesius, che si rivela però essere un replicante con le fattezze del mago. Sharky riesce a fuggire gettandosi in acqua, ma i PG recuperano i progetti per i quali il nano è stato ucciso. Analizzandoli scoprono che si tratta dello schema di una macchina diabolica, in grado di succhiare la vita dalle persone per rianimare i morti. Preoccupati fanno rapporto a Belengard.
+
+Capitolo II: Il Salvataggio
+
+Belengard pare preoccupato quanto i PG e rivela loro di temere che si tratti di un complotto che mira a creare scompiglio all'interno del Granducato. Affida loro la missione di scoprire che fine ha fatto il vero Telesius.
+
+I nostri non devono attendere molto prima di essere contattati da Sharky tramite un messaggero, che propone loro uno scambio: i piani della macchina in cambio del vero Telesius. Il luogo dello scambio è un santuario di Mithra abbandonato poco distante da Armora. Presagendo una trappola Yonker decide di fare una copia dei piani, alterando leggermente il disegno in modo da renderli inservibili. Poi, all'ora prestabilita, il gruppo armato di tutto punto si reca all'appuntamento. Qui trova ad aspettarli non solo Sharky con i suoi scagnozzi, ma anche un giovane elegante, dall'aspetto crudele, che dice di chiamarsi Leonard. Questi, grazie alla magia, riesce a prendere in ostaggio Isidoro e a farsi consegnare i piani della macchina (non sapendo che sono finti), per poi teletrasportarsi via. I restanti ingaggiano battaglia con i PG, che riescono ad avere la meglio e a catturare Sharky. Il bandito rivela loro che Telesius è tenuto prigioniero a Keswig, un paese sulle rive del fiume Telendrium, a pochi giorni da Armora. Decidono di consegnare Sharky alle autorità ma sulla via del ritorno cadono in un'imboscata e questi, approffittando della confusione, riesce a dileguarsi.
+
+I PG decidono allora di partire alla ricerca di Telesius, seguendo le informazioni ottenute, ed arrivano a Keswig. Il paese ha un aspetto spettrale e abbandonato, in giro non si vede nessuno. Attirati dalla luce di un fuoco da campo, i PG incontrano un vecchio vestito di stracci, folle di paura. Balbettando e in modo incongruente egli racconta che gli abitanti sono stati uccisi o schiavizzati da Leonard e i suoi e costretti a riportare alla luce l'entrata sepolta della Tomba di Samoth, situata nella palude vicino al villaggio. Come si capisce dal nome, la Tomba racchiude le spoglie mortali di Samoth, un potente necromante che circa 35 anni prima aveva partecipato ad un fallito colpo di stato. Sconfitto, era stato bruciato e chiuso nella sua tomba con un triplice sigillo.
+
+Intuendo il pericolo imminente, i nostri eroi corrono alla tomba, ne affrontano i custodi non-morti e, infine, arrivano alla camera centrale, dove Leonard ha fatto assemblare la macchina malefica. Il suo intento pare quello di usare la vita dei villici prigionieri e di Telesius per ricomporre e portare alla vita Samoth. Determinati a impedire che ciò accada i PG attaccano Leonard e nello scontro apprendono anche la sua vera natura, il giovane si rivela infatti essere un vampiro. Le sorprese non sono finite perchè, durante il combattimento Isidoro subisce una strana trasformazione: viene circondato da un'aurea luminosa e parla con voce stentorea e riecheggiante, cambiando completamente personalità e, apparentemente, incrementando anche il proprio potere magico. Al termine del combattimento, tuttavia, il giovane mago torna alla normalità e dice di non ricordare nulla dell'accaduto. Sconfitto Leonard ne bruciano il corpo per assicurarsi della sua definitiva dipartita e liberano Telesius.
+
+L'Alto Membro dell'Aria racconta di essere stato catturato con l'inganno da Leonard mentre indagava su strani movimenti secondo lui riconducibili al Complotto dei Cinque, un colpo di stato fallito accaduto 35 anni prima. Il Complotto fu organizzato da Samoth e quattro maghi di Armora, che arrivarono ad un pelo dal riuscire a destituire Granduca. I membri del party rimangono shockati nell'apprendere che uno degli organizzatori altri non era che Sigurd VonGraven, il maestro di Isidoro, allora Alto Membro della Luce. Isidoro rivela di ricordare poco della sua vita prima dell'ingresso all'Accademia, solo di essere stato allievo di Sigurd.
+
+Capitolo III: Venti di Guerra
+
+Per riprendersi dalle ferite del combattimento i PG si fermano ad una stazione di posta, dove vengono ospitati da una guaritrice amica di Telesius. L'Alto Membro dell'Aria decide di tornare al più presto ad Armora per fare rapporto, lasciando quindi soli i personaggi. Non si sono ancora del tutto ripresi dal combattimento quando, una mattina, un nano ferito arriva alla stazione, raccontando di far parte di un gruppo di fedeli della dea Hokhmah in pellegrinaggio verso un santuario nel vicino bosco di Rhems. Il nano racconta che i pellegrini sono stati assaliti da un gruppo di goblin e presi prigionieri. Yonker e Surya, baldanzosi e galvanizzati dalla recente vittoria, si offrono volontari per andare a salvarli. Baudolino si unisce a loro, sperando di riuscire ad ottenere una ricompensa o almeno di riuscire a sgraffingare qualcosa di prezioso ai prigionieri. Drusilde e Isidoro, meno convinti, decidono di seguire il gruppo per non dover tornare ad Armora da soli.
+
+Il gruppo si inoltra dunque nel bosco di Rhems, giungendo dopo un paio di giorni di perlustrazione al complesso di caverne in cui si sono accampati i goblin. Grazie ad un'azione praticamente perfetta, riescono ad infiltrarsi nelle caverne, uccidere l capotribù goblin, disperdere il resto della tribù e salvare l'unico prigioniero rimasto vivo, il nano Nusgam.
+
+Nell'uscire dalle caverne, tuttavia, vengono sorpresi da un'altro grosso gruppo di goblin a cavallo di lupi, capitanati da un grosso orchetto su un mastodontico lupo nero: Uglaark. I cavalcalupi partono all'inseguimento dei nostri e il gruppo si disperde. Surya si getta alla carica ma viene sbalzato via da un colpo di lancia e perde conoscenza dentro un fosso. Baudolino e Drusilde tentano un'eroica resistenza ma vengono abbattuti e fatti prigionieri dai goblin. Isidoro, Nusgam e Yonker riescono a fuggire nel bosco, disperdendosi in direzioni diverse.
+
+I quattro fuggitivi riescono a riunirsi e cercano di partire all'inseguimento dei prigionieri, ma una tormenta di neve (nel frattempo, era infatti giunto l'inverno) gli fa perdere la pista e le speranze di rivedere i propri amici. Fortunatamente, quando i quattro sembrano destinati a morire di fame e gelo nel bosco, in loro soccorso arriva un gruppo di uomini facenti parte delle Frecce d'Argento, i guardiacaccia del Granducato. Vengono quindi scortati alla Torre di Caccia, un avamposto in mezzo al bosco, dove incontrano Sir Maegor, capo delle Frecce d'Argento.
+
+Nel frattempo, una sorte ben peggiore sta capitando ai prigionieri, che vengono condotti dai goblin per lunghi chilometri nel bosco, fino ad un grosso accampamento dove paiono riunite diverse tribù di orchi, troll e goblin e dove sventola una bandiera raffigurante un drago dorato. L'accampamento pare essere in subbuglio e fremere d'attività per l'imminente arrivo di quello che sembra essere un grande capo degli orchi: un certo Lord Vorak. Drusilde viene portata in una sfarzosa tenda la centro dell'accampamento, dove incontra una forma composta d'ombra, dall'aspetto di un uomo incappucciato con una staffa. L'Ombra la interroga a lungo e, infine, le offre la libertà in cambio di un servigio: deve sottrarre alcune carte all'Accademia di Armora. Drusilde, impossibilitata a far altro, accetta.
+
+Alla Torre di Caccia, gli altri invece apprendono da Sir Maegor della recente invasione da parte di piccole tribù di goblin del bosco di Rhems. Il capo delle Frecce d'Argento spiega di aver tentato più volte di chiedere rinforzi all'esterno, senza alcun successo. Yonker fa anche la conoscenza con un altro nano che si trova all'interno della torre, si tratta di Dwalor, il capo di una missione diplomatica partita dal regno nanico del Wald per chiedere aiuto ad Armora. Il Wald pare infatti essere sotto assedio da parte di grandi orde di orchi e goblin. Purtroppo Dwalor è bloccato alla torre dalle tribù di goblin, che rendono troppo pericolosa la traversata del bosco.
+
+Yonker, Surya e Isidoro decidono di partire per cercare di salvare i loro compagni dai goblin. Inizialmente Sir Maegor cerca di dissuaderli ma alla fine concede loro il supporto si un piccolo gruppo di guardiacaccia. Individuano l'accampamento dei goblin e, con facilità insperata riescono a salvare i loro compagni (Drusilde sospetta che ci sia lo zampino dell'Ombra). Proprio in quel momento, però, una nuova tribù raggiunge l'accampamento, che si arma e si mette in marcia, in direzione della Torre di Caccia!
+
+I nostri quindi partono in una corsa contro il tempo per arrivare il prima possibile ad avvisare le Frecce d'Argento del pericolo. Giunti a destinazione, però, una triste sorpresa li attende. Sir Maegor si rivela essere un traditore, con un gruppo di seguaci ha aperto le porte ai goblin invasori e ucciso i guardiacaccia ancora fedeli ad Armora. Yonker piange nel vedere il corpo straziato del nano Dwalor e ne raccolgie l'anello, giurando vendetta.
+
+I nostri eroi sono quindi ancora una volta prigionieri dei goblin e assistono all'arrivo trionfale di Lord Vorak, che si rivela essere un uomo gigantesco e dall'aspetto ferino. Surya lo sfida a singolar tenzone ma viene facilmente messo KO dal capo degli orchi, un guerriero di abilità inumana. Lord Vorak spoglia delle armi i PG, ma da loro dei cavalli, ordinandogli di far ritorno ad Armora per testimoniare il suo trionfo e la caduta della Torre.
+
+Capitolo IV: Gli Stregoni Neri
+
+I nostri fanno quindi ritorno ad Armora, dove annunciano l'invasione della Torre alle autorità (anche se le notizie li hanno preceduti). Scoprono che ad Armora le cose vanno peggio di quanto pensavano. Il confinante regno di Vallanya ha dichiarato di esser stato attaccat da Armora (il 29 del Falco), dopo che due vascelli da guerra meccanici della flotta armorita hanno attaccato alcune delle sue navi mercantili. Armora nega di essere implicata nell'incidente, mentre Vallanya (da sempre in rapporti poco amichevoli con il Granducato) chiede un cospicuo risarcimento.
+
+Per qualche settimana si separano, mentre ognuno cerca di indagare per la propria strada. Isidoro rimane all'Accademia a studiare per ottenereil rango di Iniziato. Yonker cerca di scoprirne di più su un'eventuale connessione fra l'attacco al Wald e le recenti tensioni con Vallanya e trova una tenue traccia nel nome di un sospetto: "Keveth". Surya si ferma alla sede della Confraternita della Torcia, dove viene ricevuto da Colui-che-Cammina-nella-Luce, e riceve qualche nuova informazione sulla sua spada. Drusilde viene contattata dalla misteriosa Ombra, ma grazie all'aiuto di Belengard riesce a consegnarli solo dei documenti falsi. In cambio, riceve da essa un anello e un misterioso messaggio: "se cerchi risposte cerchi gli Stregoni Neri".
+
+Riunitosi, il gruppo si scambia informazioni e pareri. Isidoro riconosce il nome degli Stregoni Neri, dicendo che essi facevano parte degli studi del suo scomparso maestro. il gruppo decide quindi di indagare fra gli scritti usati da Sigurd VonGraven per scoprirne di più. Inoltre, a causa di una strana reazione con la Masamune, i PG sono in grado anche di scoprire qualcosa di più sulla natura di Isidoro. Egli si rivela essere non un normale ragazzo, bensì un omuncolo-clone dello stesso Sigurd, in cui è stato imprigionata un'entità della luce di nome Tyrael.
+
+Drusilde e Isidoro si recano alla biblioteca della gilda e scoprono una strana annotazione sui libri di Sigurd, che si rivela un codice cifrato. Trovata la chiave per risolverlo capiscono se si tratta di un'indicazione per qualcosa di nascosto in una tomba alla Necropoli di Armora. Prima di seguire questa traccia decidono però di indagare su dei movimenti sospetti al cimitero cittadino.
+
+Qui però finiscono per attirare l'attenzione delle guardie e, nel tentativo di fuggire, sbagliano strada e si inoltrano sempre di più nei cunicoli sotterranei del cimitero. Intrappolati in un vicolo cieco vengono scambiati per dei criminali e ne segue una battaglia confusa e violenta. Nel parapiglia generale Yonker fa esplodere una bomba troppo vicino a Drusilde, che rimane uccisa. Sconvolto dal fatto Isidoro si teletrasporta via col corpo della maestra in un disperato tentativo di salvataggio. Yonker e Baudolino vengono arrestati e condotti al carcere di massima sicurezza.
+
+Capitolo V: Riunione
+
+Nel frattempo Surya, rimasto al di fuori del cimitero, viene pedinato e assalito da due loschi individui che vestono alla maniera del Qi-Long e si rivelano essere agenti degli Dei-Drago a caccia della Masamune. Fortunatamente in suo aiuto arriva Han, anche lui del Qi-Long ma nemico giurato degli Dei Drago. Sconfitti i due sicari, il nuovo arrivato racconta a Surya di essere arrivato ad Armora dalla sua patria proprio in cerca di lui e della sua spada, un artefatto indispensabile alla lotta contro i malvagi Dei Drago. I due decidono di rimpatriare con la spada ma Surya, prima di partire, cerca di contattare gli altri membri del party per salutarli. Scopre così che Yonker e Baudolino sono galeotti e Isidoro disperso con Drusilde.
+
+Dopo alcune ricerche trova che Isidoro si è rifugiato nel tempio in rovina vicino alla città, cercando di operare dei rituali necromantici per riportare in vita Drusilde. Dopo qualche battibecco riesce a convincerlo a non procedere in quello che potrebbe procuragli una grave condanna e a restituire il corpo di Drusilde all'Accademia. Fatto questo, si mette con Han alla ricerca di una nave per il Qi-Long.
+
+Isidoro nel frattempo viene costretto dall'Accademia a lavorare assieme ad un gruppo della Fratellanza, quindi decide di accantonare per il momento i suoi propositi necromantici. Continua tuttavia la sua indagine sugli Stregoni Neri e, grazie all'aiuto di Elerina, riesce a trovare un nascondiglio segreto lascia da Sigurd. Qui trova molte informazioni utili. Scopre che Sigurd studiava un artefatto di proprietà di Armora conosciuto con il nome di Bastone Nero, un oggetto magico potente e misterioso forse risalente agli Adepti che il governo armorita voleva usare come arma. Viene inoltre a conoscenza della Runa Magica, una misteriosa fonte inesauribile di energia nascosta sotto la città, e di la città stessa tragga il proprio potere da essa. Trova anche delle indicazioni su come raggiungere il rifugio-laboratorio segreto di Sigurd e del suo maestro Satyr, un luogo nascosto nel Wald e chiamato "Il Trono d'Ombra". Viene però interrotto nelle sue ricerche dal suo lavoro con la Fratellanza, che lo costringe a lasciare Armora alla caccia di un malvagio mago rinnegato.
+
+Yonker viene spedito come leva "volontaria" al confine con il Wald, dove Armora si prepara ad affrontare l'invasione delle truppe orchesche.
+
+Surya e Han lasciano Armora e arrivano alla città portuale di Calis, dove salgono su una nave diretta verso il Qi-Long. Qui cadono però in un'imboscata del loro nemico di vecchia data Sharky che, con l'aiuto di strane creature d'ombra, riesce a rubare loro la Masamune. A dar loro manforte arrivano Valentine e Baudolino (da lei liberato dietro ordine di Belengard), ed insieme si gettano all'inseguimento di Sharky. Arrivano quindi ad un monastero sperduto in mezzo alla campagna, dove incontrano Isidoro e i suoi compagni della Fratellanza, alla ricerca del mago. Visto che entrambi i loro obiettivi paiono trovarsi nello stesso luogo uniscono le forze ed entrano insieme nel monastero. Qui scoprono che tutti i monaci sono stati uccisi e vengono nuovamente assaliti dai Notturni.
+
+Procedendo nei sotterranei del monastero trovano Sharky, il mago rinnegato e l'Ombra misteriosa che paiono in procinto di operare un bizzarro rituale attorno ad una pietra nera usando la Masamune. Scoppia un furente battaglia fra i due gruppi. Sharky si rivela essere un Notturno mutaforme e Isidoro scopre che l'Ombra che contattò Drusilde altri non è che Izual, entità gemella di Tyrael. Questi sembra voler attuare un qualche folle piano per conto dei misteriosi Stregoni Neri, per il quale ha bisogno della Masamune. I nemici vengono infine scnfitti, ma Izual riesce a sparire, portandosi dietro la spada di Surya. Perlustrando il corpo di Sharky, che si sta rapidamente liquefacendo, Baudolino viene attaccato da un piccolo essere nero, che si rivela essere un organismo simbiontico. L'essere si fonde col braccio del mezzo-nano trasformandolo in una strana ma letale arma.
+
+Capitolo VI: In viaggio verso il Wald
+
+Surya è disperato per la perdita della sua spada (e anche Han non è al massimo della felicità, dato che l'aveva appena trovata dopo aver scarpinato per mezzo mondo...) ma non sa come fare per rintracciare il ladro. Interviene Isidoro che, avendo deciso di aver trovato una buona occasione per saperne di più su Sigurd, riesce a convincere il gruppo a seguirlo fino al Trono d'Ombra, di cui lui solo conosce l'ubicazione. Baudolino si unisce a loro, interessato a seguire gli svolgimenti della vicenda (e ad allontanarsi il più in fretta possibile da Armora, per tema di essere rimesso in prigione).
+
+Il gruppo riunito torna a Calis, dove si imbarca e raggiunge senza problemi la cittadina di Kaldera, dalla quale vuole dirigersi verso il Wald. Qui, dopo qualche ricerca, trovano una guida disposta ad accompagnarli nelle lande devastare dalla guerra del Wald, un nano di nome Brannon. A questo punto Isidoro rivela la prima tappa del viaggio verso il Trono d'Ombra: una località del Wald chiamata Passo Haralstad. Brannon rivela che la via più veloce per raggiungerlo è il valico di Forragelida. il luogo ospita però l'ultimo presidio del Granducato di Armora prima del Wald che, al momento, si trova sotto assedio da parte delle forze orchesche. Il nano, propone quindi di utilizzare una via alternativa segreta e il gruppo accetta.
+
+Dopo qualche giorno di viaggio i nostri arrivano nel reame montuoso del Wald. Mentre si trovano abbarbicati su un pericoloso sentiero di montagna, vengono attaccati da alcune bestie alate. Ne segue un acrobatico combattimento in verticale, che finisce su un pianoro innnevato, dove i nostri vengono quasi investiti da una macchina volante piombata dal cielo (che scoprono essere il bersaglio originale delle bestie alate). Dai rottami del velivolo sbuca un miracolosamente illeso Yonker, con addosso la divisa dell'esercito armorita. L'artificiere, giustamente sorpreso per aver ritrovato i suoi amici, racconta di essere stato spedito in una missione semi-suicida per avvisare Waldenheim dell'arrivo dei rinforzi umani. Grazie ai racconti di guerra di Yonker i nostri apprendono che il forte di Forragelida è assediato dalle armate di un certo Lord Maara, che pare in qualche modo collegato al Lord Vorak da loro incontrato nel Bosco di Rhems. Il nano è ben felice di poter disertare l'esercito e di unirsi al gruppo, anche perchè vuole capire cosa sta succedendo nel Wald.
+
+Il viaggio prosegue e Brannon guida la compagnia fino all'ingresso della Scala di Kalthrost, una via nanica caduta in disuso in seguito alla rovina della vicina fortezza Tor-Throst. Eccitati dalla possibilità di esplorare una fortezza nanica in rovina Surya, Han e Yonker decidono di dare un'occhiata a Tor-Throst stessa prima di imboccare la Scala. Brannon si rifiuta di accompagnarli spiegando loro che la città ha la nomea di essere maledetta e Isidoro (mostrandosi per una volta più maturo degli altri) li incita a non perdere tempo, ma i tre sono inamovibili e si addentrano da soli fra le rovine. Qui scoprono che le città maledette sono dei luoghi poco ospitali, incontrano i resti spettrali degli abitanti di Tor-Throst e riescono persino a liberare un demone maggiore (un Phlegetauro...) intrappolato, buscandole di santa ragione. Solo grazie ad un intervento (teleport) di Isidoro, preoccupato per la loro lunga assenza, riescono a cavarsela.
+
+Dopo essersi ripreso, il party imbocca finalmente la Scala e la attraversa dopo qualche difficoltà (incontro con un Verme di Roccia). Si trova dunque poco distante dal passo Haralstad, su un picco soprastante la vallata di Forragelida. Da questo punto d'osservazione vantaggioso i nostri eroi sono in grado di osservare la battaglia che si sta svolgendo più in basso. Le orde degli orchi sovrastano numericamente le forze armorite, ma queste paiono riuscire a tener loro testa grazie al vantaggio tattico e alla superiorità tecnologica. Proprio quando l'esercito di Armora pare sul punto di ricacciare indietro gli orchi un terribile ruggito squarcia il cielo e un colossale dragone rosso-dorato sbuca dalle nuvole, dirigendosi in picchiata sul campo di battaglia. Il drago sradica coi propri artigli un enorme macigno e lo scaglia contro la fortezza umana, mentre con la propria magia incendia il campo di battaglia. In pochi attimi la bestia è sparita così come era venuta, ma le sorti della battaglia sono rovesciate e gli umani costretti alla ritirata. Han è particolarmente scosso dalla visione, perchè gli porta alla mente ricordi degli Dei Drago del Qi-Long.
+
+Spinti dalla visione gli eroi si affrettano verso la loro meta, sul cammino avvistano però un gruppo di orchetti, che tengono prigionieri dei nani. Grazie ad una perfetta imboscata spacciano in fretta gli aguzzini, uccidendo con particolare soddisfazione il loro capo che altri non è che Uglaark, da loro già incontrato. I nani sono guerrieri della vicina fortezza di Tor Varn, ringraziano i liberatori e si uniscono a loro.
+
+Capitolo VII: il Trono d'Ombra
+
+Giunti al passo si separano in due gruppi: da una parte Isidoro, Yonker, Han e Surya, dall'altra i nani. Quest'ultimi si dirigono alla volta di Tor Varn, mentre i primi rimangono alla ricerca di un passaggio segreto per il Trono d'Ombra, seguendo le indicazioni di Isidoro.
+
+I quattro trovano dunque un passaggio nascosto con la magia che li conduce sotto terra. Dopo un lungo cammino nelle viscere della montagna arrivano ad un'enorme caverna, che pare estendersi per diversi kilometri. Il luogo ha un aspetto alieno ed è tenuemente illuminato dalla roccia rossastra di cui è composta la caverna. Al suo centro sorge la colossale torre eretta da Satyr: il Trono d'Ombra, così chiamato perchè ha appunto la forma di un trono di ossidiana di proporzioni immani. Mentre si dirigono verso di esso i nostri cadono in un'imboscata, assaliti da un grosso contingente di Notturni. Quasi certi di soccombere vengono invece tratti in salvo da un secondo gruppo di Notturni, che li conduce al riparo in una piccola fortezza.
+
+Qui fanno conoscenza con Yghlaark, un sacerdote dei Notturni che spiega loro la situazione. Sigurd è stato posseduto dalla volontà dell'artefatto che porta con sé: il Bastone Nero, che è in realtà una reliquia dei Notturni. Tramite esso sta lentamente convoncando su Ymir l'essenza degli Stregoni Neri, una misteriosa e maligna entità Notturna che si ribellò all'Oscurità e fu per questo segregata in un'altra dimensione. Molti Notturni sono caduti sotto l'influenza del Bastone e sono ora controllati dagli Stregoni Neri. Yghlaark chiede ai nostri eroi di penetrare nel Trono d'Ombra per fermare la convocazione e distruggere il Bastone, in modo da porre fine a tutto questo. Nessun Notturno può infatti avvicinarsi troppo agli Stregoni Neri, a causa del pericolo di rimanerne sottomesso. Isidoro accetta subito, impaziente di ritrovare il suo maestro e di salvarlo dal Bastone. Gli altri lo seguono più o meno di buon grado.
+
+Grazie ad un diversivo creato da Yghlaark, i personaggi riescono a intrufolarsi nella torre senza grossi intoppi e, infine, giungono alle presenza degli Stregoni Neri, che assumono prima la consueta forma di ombra umaoide, poi quella di un gigantesco Notturno tentacolare. La battaglia è lunga e disperata ma, alla fine, quando tutto sembra perduto, Surya riesce ad individuare il Bastone Nero all'interno del corpo stesso del loro nemico. Con un possente colpo della Masamune, lo manda in frantumi, ricacciando per sempre gli Stregoni Neri, il cui orribile corpo si dissolve nel nulla. Al loro posto rimane solo il cadavere rinsecchito di Sigurd, morto da lungo tempo. Isidoro piange a lungo la scomparsa del maestro, disperato per aver perso in una volta sola l'unica possibilità di scoprire qualcosa sul suo passato e ciò che poteva considerare come la sua famiglia.
+
+Così, avendo risolto il mistero dei Notturni ma ancora pieno di dubbi, il gruppo si lascia alle spalle le oscure caverne e ritorna con un certo sollievo all'aria frizzante del Wald.
+
+Capitolo VIII: Tor Varn
+
+Non potendo tornare indietro facilmente a causa della guerra, decidono di dirigersi temporaneamente verso la fortezza di Tor Varn, dove li aspettano i loro amici nani. Il viaggio si rivela tuttavia piùM difficoltoso e presto i nostri si rendono conto che il Wald brulica di forze nemiche. Molte torri di guardia e avamposti nanici sono in rovina e ovunque si notano segni di recenti scontri. Reincontrano i nani che avevano lasciato al passo arroccati in una torre e , proprio mentre decidono il da farsi, vengono assediati da un gruppo Urtak (feroci orchi guerrieri) e Troll. Fortunatamente riescono a fuggire grazie all'insperato aiuto del saggio Logarth, un leggendario mago-guerriero, e di una coppia di membri della Fratellanza.
+
+Riescono così a rtrovare riparo a Tor Varn, che peròsi trova anch'essa in condizione di assedio, come molti altri luoghi del Wald. Da Fundin, re di Torn Varn, e dallo stesso Logarth i PG vengono quindi a conoscenza dell'identità dell'invasore del Wald. Si tratta di Gwalgamaur, un antico e possenre drago del fuoco (che i PG hanno già avuto modo di vedere in azione). A lui si devono le orde di orchi e altre creature che imperversano nel Wald e intendono invadere Armora. Nessuno conosce le sue motivazioni, ma il drago pare intenzionato a incenerire l'intero Wald...
+
+Tor Varn è assediata dalle truppe di uno dei luogotenenti del drago, un potente stregone dall'aspetto mostruoso che si fa chiamare Lord Shura, che sta mettendo a dura prova l'esercito dei nani con i suoi non morti.
+
+Dopo aver consultato il dio Durkaam tramite oracoli, sacerdote di Tor Varn propone un piano che potrebbe salvare la fortezza: a Kelak-Varn, l'antica necropoli del luogo, è celata la tomba di Hurin, il mitico fondatore del clan. Con lui è sepolto un mistico artefatto dei tempi antichi: il Corno di Hurin. Secondo le leggende chi suona il Corno richiamerà a sé gli antichi guerrieri nani morti per difendere la loro patria.
+
+Fundin decide di recuperare l'artefatto, ma Yonker interviene, dicendo che si tratta di una missione molto pericolosa e offrendosi per andare al posto del re assieme ai suoi amici. Il gruppo è dunque incaricato della missione e si infiltra in Kelak-Varn, portando con sé l'anello di Fundin, simbolo reale e unica chiave in grado di aprire le porte magiche della tmoba di Hurin. Giunti davanti alla tomba, però, incontrano Lord Shura in persona, che intende rubare il mitico Corno per usare l'esercito di Hurin contro gli stessi nani. Inizia quindi una disperata corsa all'interno della tomba, fra trappole, illusioni e scontri in rapidità con il luogotenenre di Gwalgamaur. Alla fine, Han e Surya riescono a trattenere Lord Shura abbastanza a lungo da permettere a Yonker di suonare il magico Corno. Shura si distrae per un attimo che gli si rivelerà fatale: viene infatti trapassato dalla spada di Surya e ucciso sul colpo. Morendo, Lord Shura rivela il suo vero aspetto: da umanoide mostruoso e scaglioso torna ad essere un semplice vecchio. Perplessi dalla trasformazione il gruppo torna a Tor Varn per dare la buona novella.
+
+Capitolo IX: Hellost
+
+Morto il loro comandante le truppe degli orchi sono presto sbaragliate con l'aiuto dello spettrale esercito di Hurin. La mattina successiva i nani si preparano a portare l'attacco finale per liberare la vallata dagli orchi. Decidono di portare un attacco a tenaglia contro di loro, avvalendosi di un passaggio sotterraneo per portare alle loro spalle un contingente. I PG, assieme al saggio Logarth, fanno parte di questo gruppo di soldati, guidati dal generale Fori. Egli si rivela però essere un traditore, conducendo i propri uomini in un'imboscata e fuggendo. Surya, Han e Isidoro lo inseguono fino ad una caverna nascosta in cui si trovano alcune viverne. Non essendo arrivati in tempo per fermarlo, e vedendolo fuggire a cavallo di uno di queste bestie, sottomettono con la forza e la magia un paio di viverne e si gettano all'inseguimento.
+
+Gli esseri alati li conducono fino ad un grande vulcano nel cuore del Wald, il Picco di Hellost. Avvicinandosi si accorgono che il vulcano è stato trasformato in un'imponente fortezza brulicante di orchi... I nostri capiscono di essere stati portati alla tana del possente drago Gwalgamaur!
+
+Giocando d'astuzia i PG riescono ad intrufolarsi all'interno della fortezza, spacciandosi per agenti del drago. Grazie a questo trucco riescono a presenziare ad una grande adunata assieme a tutti i maggiori servi del nemico. Gwalgamaur compare in modo spettacolare all'interno dell'anfiteatro in cui si tiene l'adunata, annunciando che la vittoria è prossima. I nostri eroi apprendono che il drago intende conquistare Waldenheim per prendere possesso della Runa Magica nascosta dai nani all'interno della città (qui Isidoro ha un sussulto, ricordando che anche ad Armora esiste una cosa del genere...). Per porre fine all'assedio durato ormai troppo egli ha fatto preparare un'enorme congegno magico, che utilizza la lava incandescente per scavare nella roccia e prendere così Waldenheim dal basso, dove i nani hanno poche difese.
+
+A questo punto entra in scena Fori, il nano traditore, che consegna con gran solennità al drago delle mappe strategiche del Wald, in modo da rendere efficace il suo piano. Gwalgamaur, come premio per questo atto, utilizza una goccia del suo sangue per infondere pare del suo potere nel nano, trasformandolo in un essere massiccio e squamoso, che ribattezza Lord Durga, suo nuovo luogotenente.
+
+A questo punto l'adunata finisce e i PG si preparano a lasciare di soppiatto la fortezza. Un gruppo di guardie, tuttavia, si avvicina loro, ordinando a Isidoro di seguirle. Il ragazzo è costretto ad ubbidire, lasciando Surya e Han da soli.
+
+I due si aggirano nella fortezza, alla ricerca di un modo per aiutare Isidoro, e invece trovano il luogo dove viene costruito il macchinario del drago. Mentre rimuginano sul da farsi, Isidoro è condotto al cospetto di Gwalgamaur in persona, che ha percepito la sua presenza grazie ad un oggetto che il mago ha sottratto al cadavere di Lord Shura.
+
+Il drago pare colpito dall'abilità dimostrata da Isidoro nello sconfiggere Shura e intrufolarsi nella sua fortezza (non sa ancora della presenza degli altri due) e gli offre una scelta: unirsi al suo esercito e diventare un suo fedele luogotenente, oppure morire all'istante.
+
+Nel frattempo Han e Surya hanno deciso di distruggere il macchinario e sono passati direttamente all'azione, portandosi in una posizione strategica. Danneggiando alcuni punti deboli della macchina in costruzione, i due riescono a far collassare la struttura che la sorregge, creando un caos generale. Si danno dunque alla fuga, ma la strada viene loro sbarrata da un volto familiare: Lord Vorak.
+
+Capitolo X: Fuga!
+
+Fortunatamente un intervento tempestivo del saggio Logarth salva Isidoro e i due fuggono insieme dall'ira del drago. Nel frattempo Surya e Han affrontano Vorak in combattimento. Guidato dalla furia combattiva, Surya riesce a trafiggere Lord Vorak, uccidendolo, ma subito dopo cade in coma per le terribili ferite riportate in combattimento e pare destinato a morire. Han lo carica sulle spalle e fugge con lui attraverso i cunicoli (che stanno diventando incandescenti per la lava schizzata fuori dal macchinario) della fortezza di Hellost. Logarth, percependo l'aura della Masamune, riesce a trovare i due guerrieri e, quindi, a riunire il gruppo. I quattro quindi fuggono aprendosi un varco nelle stesse mura della fortezza e si uniscono a Yonker, che li aspettava all'esterno. Tutti insieme scappano verso ovest, portandosi dietro l'agonizzante Surya. Nei giorni che passano, mentre Surya è mantenuto fra la vita e la morte da erbe incantate ed è preda di strane visioni, i PG si muovono il più velocemente possibile verso Ennin Lar, il Cancello Occidentale, l'ultima fortezza nanica libera. Non senza problemi riescono infine a raggiungere la loro meta e sono accolti dai nani del regno, che riconoscono il saggio Logarth.
+
+Passano dunque qualche settimana a riprendersi nella fortezza, ospiti di re Barulf. A Surya vengono somministrate le cure adeguate e lentamente si riprende, anche grazie alla sua eccezzionale tempra. Yonker forgia per lui una nuova armatura meccanica, dato che la sua vecchia è andata completamente distrutta nello scontro con Lord Vorak.
+
+Dopo il periodo di riposo il gruppo viene convocato da re Barulf, che chiede loro aiuto per una missione diplomatica. Egli intende inviare la propria figlia, la principessa Raghnid, nel vicino regno di Nessa, per chiedere manforte agli umani. Il gruppo deve quindi scortarla fino alla città di Torralta, dove risiede Ser Damian, un alto cavaliere dell'ordine della Fiamma Bianca, che ha giurato di difendere tutti i Regni Giovani. Il gruppo accetta, approffittando dell'occasione per lasciare il Wald e re Barulf affida in gran segreto una seconda missione a Yonker. Siccome non crede che gli umani vogliano veramente aiutare i nani, egli lo prega di portare sua figlia al sicuro in un convento di Ishtar vicino a Torralta, nel caso in cui la missione diplomatica dovesse fallire, in modo da salvarla dalla guerra.
+
+Dopo gli ultimi preparativi, i personaggi lasciano Ennin Lar assieme alla principessa, mentre Logarth rimane a combattere coi nani.
+
+Capitolo XI: Gli Adoratori del Male
+
+Dopo alcuni giorni di viaggio a cavallo i nostri entrano nel regno di Nessa, sempre diretti verso Torralta. Lungo la strada si accorgono che gli strascichi della guerra da poco scoppiata fra Armora e Vallanya si fanno sentire anche in questa parte dei Regni Giovani. Un incontro con alcuni briganti e delle creature meccaniche li rende sempre più sospettosi.
+
+Giunti alla città di Torralta sono ricevuti da Ser Damian, che li ospita nel proprio castello. Ascoltate le richieste della principessa il lord dice che, come cavaliere della Fiamma Bianca vorrebbe aiutare i nani in battaglia ma, in quanto alle dipendenze della regina di Nessa, deve prima sottostare ai suoi ordini. Le terre di Nessa, infatti, sono ultimamente infestate da bande di briganti e la regina ha ordinato a Ser Damian di sbarazzarsene. Inizialmente il cavaliere pensava che i briganti fossero solo dei disertori della guerra fuggiti dal campo di battaglia ma, col passare del tempo, si è accorto che si tratta di gruppi legati da un'organizzazione, con un comportamento strano per dei comuni banditi. Ser Damian rivela che il loro scopo non pare quello di rubare, ma solo di causare problemi e scontento. Sembrano inoltre decisamente fanatici e preferiscono uccidersi invece che farsi catturare. Molti di loro portano da qualche parte un simbolo raffigurante un tridente nero. Temendo che si tratti di un'organizzazione religiosa, Damian ha chiesto aiuto al saggio Saedhun, sacerdote di Thurms, il quale però nega di sapere di cosa si tratti. Isidoro, riconoscendo nel tridente nero il simbolo di uno dei Demoni Sovrani, si insospettisce, e decide di far visita al prete col resto del gruppo. Al tempio di Thurms, riescono a convincere il sacerdote della gravità della situazione ed egli promette loro una mano. Insieme parlano a Ser Damian del pericolo e gli mostrano come, essendo il tridenti simbolo di Abigor, signore delle battaglie, i cultisti possano essere collegati con la guerra. Convinto, il lord decide di inviare come ringraziamento alcune truppe a Ennin-Lar.
+
+La notte, grazie ad una dose di Loto Verde assunta in un bordello, Yonker ha una visione profetica, che gli mostra un tridente nero, costrutti, macchine da guerra e l'incontro con un vecchio cieco. Convinti più che mai che ci sia una connessione fra guerra e cultisti, il gruppo decide di partire per Nessa, per incontrare la regina e avvisarla dei complotti. Ser Damian da il proprio assenso e consegna loro un documento col proprio sigillo che permetterà loro di essere ricevuti a corte, mentre egli si prepara a stanare i seguaci del demone.
+
+Capitolo XII: il Giocattolaio
+
+Durante il viaggio i PG soccorrono una carovana assalita da un toro meccanico, che scoprono portare il marchio di un famoso alchimista-costruttore della zona conosciuto come "il Giocattolaio". Ricordando i costrutti del sogno profetico, Yonker propone di seguire le tracce del toro, per scoprire da dove proviene. Gli altri sono d'accordo e le seguono fino ad una strada sulle colline. Qui incontrano un viandante cieco, accompagnato da una donna armata, che dicono di essere un predicatore e la sua guardia del corpo. Parlando con loro i PG scoprono che la strada passa proprio davanti alla casa del Giocattolaio e che i due ci sono passati davanti il giorno prima. Visto che si avvicina l'imbrunire, i PG decidono di accamparsi assieme ai due viandanti.
+
+Presto però scoprono che i due non sono affatto soli e che fanno parte di un gruppo di cultisti che ha teso loro un'imboscata. Dopo un lungo scontro i PG riescono alla fine ad avere la meglio dei cultisti e gli uccidono tutti tranne il cieco, che mettono KO e legano per bene.
+
+Frugando fra i loro averi trovano un messaggio firmato da un certo "C", che parla di un'importante riunione nel villaggio di Querceto, al confine con Tydriell, dove i cultisti dovrebbero incontrare un certo Markus. Risvegliato il vecchio cieco cercano di interrogarlo, ma questi preferisce ingoiare una pastiglia di veleno che nascondeva in un dente e stramazza al suolo. I PG decidono quindi di ispezionare la casa del Giocattolaio e poi dirigersi verso Querceto.
+
+La casa dell'alchimista pare disabitata ma rimane qualcuno dei suoi costrutti, così i PG incontrano qualche difficoltà nell'esplorarla. Tuttavia alla fine riescono a trovare il Giocattolaio, o meglio il suo cadavere, in quanto l'uomo è stato assassinato. Perquisendolo Han trova una strana fialetta di un liquido che pare sangue, ma che risulta impossibile da analizzare. Deciso a non perdere altro tempo, il gruppo lascia il Giocattolaio al suo destino e parte verso Querceto.
+
+Sulla strada, tuttavia, scoprono di essere stati preceduti di poco da un vecchio cieco, che ha rubato un cavallo ad una stazione di posta. Sorpresi, si lanciano al suo inseguimento e scoprono che, effettivamente, si tratta del finto predicatore. La principessa Raghnid riesce a raggiungerlo e disarcionarlo e, nella caduta, il vecchio muore.
+
+Capitolo XIII: Resa dei Conti
+
+I nostri arrivano quindi a Querceto, un piccolo paese quasi nascosto da un bosco. Nel luogo regna una strana atmosfera innaturale, che rende subito nervosi i nostri eroi. Intorno al paese è stata costruita un'alta palizzata, la cui entrata è sorvegliata da due brutti ceffi dall'aria poco sveglia. I PG, spacciandosi per gli agenti di "C", convincono le guardie a farli entrare e ad indicargli la via per la casa di Markus, una decrepita villa in mezzo all'abitato. E' subito evidente che i villici sono cultisti dei Demoni Sovrani e che da tempo nel villaggio si compiono blasfemi riti di sangue alla luce del sole.
+
+Sempre più preoccupati i personaggi arrivano alla villa, dove sono accolti da un uomo che si presenta come Keveth e dice che Markus li riceverà in serata, scortandoli alle loro stanze. Dopo un lungo rimuginare, Yonker riconosce il nome di Keveth, ricordandosi di averlo incontrato nelle sue indagini.: si tratta dell'uomo che ha venduto le navi da guerra di Armora che sono state usate come "casus belli"! Comunicatolo ai compagni, insieme decidono di catturarlo per scoprirne di più. Lo attirano nella loro stanza e lo bloccano, minacciandolo di morte. L'uomo si mostra più che felice di collaborare, dicendo di essere praticamente prigioniero di Markus. Rivela che per la sera sono attesi altri "ospiti", agenti provenienti da diversi paesi, ed è pianificata una grande riunione. I PG decidono di parteciparvi e ordinano a Keveth di tenersi pronto ad aiutarli.
+
+Alla riunione, oltre a Markus, partecipa un Galamorn, un guerriero seguace di Abigor e, con gran stupore dei PG, Natalya, Alto Membro del Gelo di Armora e, quindi, traditrice del proprio paese.
+
+Le sorprese non sono finite, perchè fra i partecipanti compare anche il vampiro Leonard, che i PG credevano morto da tempo! Nel vederlo, Surya non riesce a controllarsi e parte all'attacco, dando il via ad un lungo ed epico scontro.
+
+Alla fine, i PG trionfano vittoriosi, anche se Leonard riesce a dileguarsi. Sono quindi raggiunti da Valentine e alcuni amici di Isidoro, che stavano inseguendo Natalya. Insieme
+
+danno fuoco alla casa e al villaggio corrotto, andando alla ricerca di Leonard che, però, non si trova da nessuna parte.
+
+I nostri allora affidano Keveth a Valentine, affinché lo porti come testimone ad Armora, mentre loro decidono di esplorare i dintorni. Purtroppo, l'uomo viene trafitto da un colpo di balestra sparato da un misterioso cecchino, che fugge nella notte, e solo il suo cadavere sarà riportato indietro.
+
+Il gruppo quindi si separa, chi tornando verso il Wald e chi verso Armora assieme a Valentine, promettendosi però di continuare le indagini e reincontrarsi ad Armora dopo un anno...

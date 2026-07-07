@@ -1,0 +1,23 @@
+# Umani - Primigeni
+
+- **Source:** https://worldofymir.fandom.com/wiki/Umani_-_Primigeni
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2010-10-30T13:19:01Z
+
+---
+
+Secondo la leggenda, i Primigeni, gli antichi progenitori della razza umana, furono creati con il Fuoco, una delle due energie elementali. Forse è a questo che si devono i ritmi di vita frenetici (dal punto di vista delle altre razze) e l’impulsività che caratterizzano gli esseri umani. Purtroppo, un dio malvagio riuscì a manipolare e corrompere i Primigeni. Infatti, come è risaputo, il Fuoco contiene in sé il principio della Distruzione. Col passare del tempo, i Primigeni andarono trasformandosi in servitori dell’oscurità, pallide ombre di ciò che erano un tempo. Al giorno d’oggi solo pochissimi Primigeni, i discendenti di quelli che sono riusciti a mantenere puro il loro spirito, sopravvivono.
+
+**Descrizione Razza:** Vedi High Men sul R&C.
+
+**Durata della vita:** 90-100 anni.
+
+**Speciale:** Niente
+
+**Pregiudizi:** Odiano tutte le razze degenerate, in particolar modo gli orchetti. Ammirano la saggezza mistica degli Xebechani.
+
+**Razze**
+
+**Vorskgen:** Alcune tribù barbariche della gelata Helgedad o dei confini settentrionali della Letia conservano l'antico spirito e il sangue primigeno. Usa la cultura Artica (o una qualsiasi sua sottocultura) oppure le culture Altopiano-Barbarica o Altopiano-Militaristica per questi Primigeni. _Lingua Principale:_ Vorskgen.
+
+**Ophiriti:** Gli abitanti umani dell'Ophiur sono alti e massicci, con la pelle nerissima. La maggior parte di loro, in particolar modo gli aristocratici, è composta da Primigeni. Usa la cultura Pianura-Urbana per loro. _Lingua Principale:_ Ophirita.

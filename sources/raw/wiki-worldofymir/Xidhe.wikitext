@@ -1,0 +1,168 @@
+[[File:Placeholder|right|300px]]
+
+
+'''XIDHE'''
+====
+====
+Gli Xidhe sono l'immagine che la maggior parte delle persone ha in mente quando pensa ad uno Xebechano: esili umanoidi dalla pelle pallida, lunghi capelli neri e lo sguardo magnetico. Il motivo è semplice, dato che la loro Casta si occupa esclusivamente di commercio e rapporti diplomatici con l'esterno, gli Xidhe sono gli Xebechani che è più facile trovare al di fuori dei loro territori. Gli Xidhe sono in genere piuttosto colti, tendono a conoscere diverse lingue e a destreggiarsi abbastanza bene anche in culture molto diverse dalla propria. Fra gli Xebechani sono inoltre quelli meno passivi, tanto che spesso riescono a intessere profonde amicizie anche con membri di altre razze. Forse è per questo motivo che alcuni Xidhe emigrano all'estero, sentendosi oppressi dalla rigidità della società Xebechana.
+====
+====ASPETTO FISICO====
+========
+{| align="left" border="1" cellpadding="7" cellspacing="0" dir="ltr" hspace="5" width="455"
+|
+========
+| colspan="4" height="8" valign="top" width="439"|
+'''XIDHE'''
+|- valign="top"
+| colspan="2" rowspan="2" width="136"|
+'''Modificatori'''
+
+'''Caratteristiche'''
+| height="2" width="137"|
+'''Modifiche TR'''
+| width="138"|
+'''Sviluppo'''
+|- valign="top"
+| height="2" width="137"|
+'''Flusso'''
+| width="138"|
+'''Sviluppo Corporeo'''
+|- valign="top"
+| height="2" width="56"|
+'''AG'''
+| width="65"|
++0
+| width="137"|
++0
+| width="138"|
+0.6.3.2.1
+|- valign="top"
+| height="3" width="56"|
+'''CO'''
+| width="65"|
+-2
+| width="137"|
+'''Essenza'''
+| width="138"|
+'''PM Arcani'''
+|- valign="top"
+| height="2" width="56"|
+'''ME'''
+| width="65"|
++0
+| width="137"|
+-5
+| width="138"|
+0.5.3.2.2
+|- valign="top"
+| height="3" width="56"|
+'''RA'''
+| width="65"|
++0
+| width="137"|
+'''Mentalismo'''
+| width="138"|
+'''PM Essenza'''
+|- valign="top"
+| height="2" width="56"|
+'''AC'''
+| width="65"|
++2
+| width="137"|
+-5
+| width="138"|
+0.6.4.3.2
+|- valign="top"
+| height="2" width="56"|
+'''EM'''
+| width="65"|
++4
+| width="137"|
+'''Arcano'''
+| width="138"|
+'''PM Flusso'''
+|- valign="top"
+| height="3" width="56"|
+'''IN'''
+| width="65"|
++0
+| width="137"|
+-5
+| width="138"|
+0.6.5.4.3
+|- valign="top"
+| height="2" width="56"|
+'''PR'''
+| width="65"|
++6
+| width="137"|
+'''Veleno'''
+| width="138"|
+'''PM Mentalismo'''
+|- valign="top"
+| height="3" width="56"|
+'''RF'''
+| width="65"|
++0
+| width="137"|
++20
+| width="138"|
+0.7.6.5.4
+|- valign="top"
+| height="2" width="56"|
+'''FO'''
+| width="65"|
+-2
+| width="137"|
+'''Malattia'''
+| width="138"|
+'''Tipo di Razza'''
+|- valign="top"
+| height="2" width="56"|
+'''AS'''
+| width="65"|
++10
+| width="137"|
++20
+| width="138"|
+3
+|- valign="top"
+| colspan="2" height="3" width="136"|
+'''Dipartenza Anima'''
+| width="137"|
+'''Paura'''
+| width="138"|
+'''Molt. Guarigione'''
+|- valign="top"
+| colspan="2" height="2" width="136"|
+9 round
+| width="137"|
++0
+| width="138"|
+x1
+|- valign="top"
+| colspan="2" height="3" width="136"|
+'''Linguaggi'''
+| colspan="2" width="289"|
+'''Opzioni Background (Punti Talento)'''
+|- valign="top"
+| colspan="2" height="1" width="136"|
+5
+| colspan="2" width="289"|
+2 (20)
+|}
+Corporatura: Esile e slanciata, in media pesano circa 65kg
+
+'''Colorito:''' Hanno una pelle molto chiara, quasi bianco latte, tranne che sulla schiena, dove appaiono sottili squame colorate. I loro occhi sono argentati, verdi o viola, a pupilla verticale. I loro capelli sono neri e solitamente lisci.
+
+'''Resistenza: '''Normale
+
+'''Altezza:''' In media intorno ai 180cm
+
+'''Durata della vita:''' 250-300 anni.
+
+'''Resistenze:''' Godono di una discreta resistenza a veleni e malttie.
+
+'''Abilità Speciali:''' Gli Xidhe hanno tutte le normali abilità speciali comuni ad ogni Xebechano. Inoltre godono di alcune abilità particolari, caratteristiche della loro Casta. Lo sguardo di uno Xidhe è magnetico, quasi ipnotico. Molte persone lo trovano snervante, altre ne sono affascinate, ma non c'è persona che non trovi difficile contraddire uno Xidhe quando il suo sguardo si posa su di lui (''Sguardo Intenso:'' +15 alle abilità di Influenza se gli occhi sono visibili all'interlocutore. Inoltre, tutti i bersagli di un incantesimo di tipo “m” lanciato da uno Xidhe soffrono di una penalità di -10 ai loro TR se i suoi occhi sono visibili).
+
+'''Abilità:''' ''Everyman:'' Mercanteggiare; Persuasione; Raccontare Storie. ''Occupational:'' Ipnosi

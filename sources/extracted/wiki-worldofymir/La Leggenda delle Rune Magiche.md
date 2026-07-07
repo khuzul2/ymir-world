@@ -1,0 +1,126 @@
+# La Leggenda delle Rune Magiche
+
+- **Source:** https://worldofymir.fandom.com/wiki/La_Leggenda_delle_Rune_Magiche
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2023-05-24T15:31:13Z
+- **Categories:** Campaign Reports, Campaign Report
+
+---
+
+Seconda parte della campagna "A Steamclad Sky"
+
+**Personaggi:**
+
+**PG:**
+
+"Doc": scienziato e veggente Xidhe, ossessionato dal suo progetto di "perfezionamento della razza"
+
+Drusilde: Xattva esiliato, insegnante all'Accademia di Studi Elementali di Armora, riportata in vita grazie ad un patto con una misteriosa entità
+
+Isidoro VonGraven: Studente dell'Accademia di Studi Elementali di Armora, assieme alla sua gatta-famiglia Elerina.
+
+Surya: Ur-Tanoth spadaccino, proveniente dal lontano Qi-Long, reca con sé una misteriosa spada incantata: la Masamune.
+
+Yonker: Nano appartenente all'Arcano Ordine degli Artefici, esperto in meccanismi ed esplosivi. Fa segretamente parte di un movimento ultranazionalista nanico.
+
+**PNG Importanti (in ordine di apparizione)**
+
+Setorn: Capo dell'Ordine per gli Istudi sulle Arti Mediche Riscoperte
+
+Leon Artois: giovane generale armorita
+
+Leonard: malvagio stregone/vampiro
+
+Calavark: misterioso cavaliere meccanico****
+
+Nanauatl: alto teurgo del Santuario dell'Inverno
+
+Marzio: agente in incognito
+
+**Intro (La Festa Danzante)**
+
+Per risollevare l'umore del popolo dalla guerra, il Granduca di Armora organizza una splendida festa in città per l'inizio della Primavera. Essa comprende una grande fiera intorno al Padiglione delle Scienze e una prestigiosa festa danzante all'interno del padiglione stesso, aperta solamente ai nobili e ai VIP della città. All'inizio della serata il Granduca stesso da inzio alle danze, invitando gli ospiti a dimenticarsi per qualche ora della guerra e a godersi la festa.
+
+Drusilde e Isidoro fanno parte degli invitati al padiglione, grazie alla loro appartenenza al neonato OIAMR, e si aggirano annoiati gustandosi il cocktail e i rinfreschi quando fra la folla non scorgono una faccia nota. Si tratta di Yonker, giunto da poco ad Armora in qualità di messo di Ennin-Lar, l'ultima fortezza del Wald. I tre stanno chiaccherando in ricordo dei vecchi tempi, quando vengono avvicinati da uno strano tipo, uno Xidhe che si presenta come "il Dottore". Drusilde e Isidoro lo riconoscono come un collega dell'OIAMR. Doc si dice interessato ai loro discorsi (in particolare a quelli riguardo alla morte di Drusilde) e inizia a fare alcune domande.
+
+Purtroppo, la festa dei quattro viene interrotta da un servitore vestito di nero, che comunica loro che Setorn, capo dell'OIAMR, desidera parlare con loro e li prega di seguirlo.
+
+Setorn si trova in una sala operatoria, assieme ad uno strano essere dalle sembianze umanoidi inchiodato al tavolo da lavoro. Lo scienziato comunica loro che si tratta di un campione prelevato direttamente da un campo di battaglia. Analizzandolo, si scopre che si tratta di una creatura in parte non-morta e in parte macchina (Yonker capisce che è stato creato con la macchina che avrebbe dovuto resuscitare Samoth). Per di più, sembra condividere diversi tratti del vampiro Leonard. Il soldato che ha portato il campione riferisce che il suo plotone è stato attaccato da un gruppo di questi esseri mentre esploravano delle rovine nel Bosco di Rhems. Setorn invia dunque il gruppo sul posto con una nave volante, affidando loro l'incarico (ovviamente ben retribuito) di indagare sulla natura delle rovine e trovare altri campioni da analizzare.
+
+**Le Rovine**
+
+I PG arrivano al Bosco di Rhems, nell'accampamento del giovane generale Leon Artois, che illustra loro la situazione. Durante un'incursione i suoi esploratori si sono imbattuti in alcune rovine occupate da forze Caeldirite. Con un attacco a sorpresa sono riusciti a conquistarle ma la sera stessa un contingente più grosso delle stesse forze unito a una decina di esseri identici a quello portato ad Armora. Il contingente si trova ancora nelle rovine, intento a proteggere una strana torre di pietra.
+
+Drusilde evoca un piccolo demone e lo manda ad esplorare il campo nemico, ottenendo importanti informazioni sulle forze avversarie. Il generale organizza dunque un attacco per riprendere le rovine, mentre i PG si preparano ad intrufolarsi nella torre aprofittando della copertura offerta dall'attacco.
+
+Resi invisibili da Isidoro i 4 volano (grazie ad un incantesimo dello stesso) al di sopra delle rovine e, guidati dalla preveggenza di Doc, penetrano nella torre trovandovi l'entrata di un sotterraneo. Qui affrontano e sconfiggono 3 cloni meccanici e si rendono conto di trovarsi all'interno di un antichissimo tempio xebechano.
+
+I quattro iniziano cautamente a seguire le orme di chi li ha preceduti, avendo ormai compreso di avere a che fare con Leonard, il loro vecchio nemico.
+
+**Le Reliquie del Potere**
+
+Affrontando e superando diverse difficoltà, ostacoli e trabocchetti, i PG penetrano sempre più in basso, verso la base del tempio abbandonato. In una delle sale più intenre trovano una serie di steli di pietra, recanti una storia sulle Rune Magiche e sei possenti reliquie:
+
+_Per contrastare l'assalto dei Demoni Sovrani gli Adepti crearono le possenti Rune Magiche, strumenti di immane potere. Negli ultimi giorni delle Guerre Demoniache, tuttavia, la grande città-fortezza che le ospitava subì un assalto così feroce da parte delle loro orde che le Rune stesse rischiarono di venire corrotte dal potere oscuro._
+
+_Per questo motivo gli Adepti le sigillarono utilizzando 6 oggetti, le sei Reliquie del Potere: Ignus, lo Scettro delle Braci; Saralis, l'Anello dell'Inverno; Meletskar, la Lama di Luce e Ombra; Tassalung, il Gioiello degli Abissi; Natharien, il Diadema Celeste ed Oedring, il Martello del Mondo Sotterraneo._
+
+_Solo il possessore di tutti e sei le Reliquie sarà in grado di attivare completamente le Rune Magiche e disporre del loro smisurato potere..._
+
+Intuito il piano dei loro avversari i nostri si affrettano in avanti, giungendo al Santuario dell'Inverno, dove è custodita una delle sei reliquie: Saralis.
+
+Purtroppo però giungono troppo tardi: la sala è già occupata da Leonard, uno stregone incappucciato e un cavaliere in armatura meccanica di nome Calavark, assieme ad un gruppo di cloni-meccanici. I PG non riescono ad impedire al cavaliere di rubare l'anello e sparire, ma Yonker con una delle sue bombe distrugge i cloni e costringe i restanti due alla fuga.
+
+**Nanauatl**
+
+All'interno del santuario i PG trovano una singolare stanza, contenente un antico macchinario. Azionatolo compare davanti ai loro occhi l'immagine parlante di Nanauatl, uno xion vissuto molto tempo fa, alto teurgo del santuario. Egli si mostra amichevole nei loro confronti ed in particolare verso Isidoro, che porta con sé il ninnolo datogli come presente dai nani di Tor Varn. Egli spiega che quell'oggetto è la chiave per il Santuario delle Braci e che, quindi, chi la porta è da considerarsi "Sacro Ierofante delle Braci" (carica di cui subito Isidoro si fregia con orgoglio). L'immagine pare essere stata creata per dare consiglio ai pellegrini in visita al santuario e rivela molte succose infromazioni ai PG. Fra le altre cose dice loro che le informazioni sulla locazione dei santuari delle altre Reliquie si possono trovare nella grande biblioteca di Xuthal, la capitale dell'impero xebechano.
+
+I PG, dopo essersi assicurati della sicurezza della camera, si riposano per qualche ora e poi tornano indietro.
+
+**Orchi!**
+
+Scoprono che, nel frattempo, le rovine sono state prese dagli orchetti e si trovano per questo intrappolati all'interno della torre, circondati dai loro nemici. Mentre riflettono sul da farsi un piccolo gruppo di orchetti inizia ad esplorare la torre. I goffi tentativi dei PG di sviare l'attenzione dal luogo finiscono con l'attirare l'attenzione dell'intera tribù di orchi e, quindi, i 4 decidono di rischiare il tutto per tutto facendosi teletrasportare da Isidoro al campo del genrale Leon. Campo che,però, trovano vuoto.
+
+Non sapendo come fare per tornare ad Armora, Drusilde decide di chiedere l'aiuto del più potente fra i suoi servitori: Anung Un Rama, un demone di rara possanza. Evocare l'entità non è un compito difficile per un'invocatrice del calibro di Drusilde, ma piegare il demone ai propri voleri è completamente diverso e pare ancora al di là delle sue capacità. Le cose sembrano andare per il peggio: Doc rimane affascinato dal demone e, quasi sottomesso alla sua volontà, riesce solo per poco a mantenere il controllo e non distruggere il circolo d'evocazione. Intanto il demone è riuscito ad attirare un manipolo di orchetti sul luogo e a sottometterli affinché lo liberino. Solo all'ultimo secondo Drusilde riesce ad avere la meglio sul demone, sventando la catastrofe. Stremata, gli ordina di portare il gruppo nella piazza principale di Armora.
+
+**Processo e Nuovi Intrighi**
+
+Alla capitale i PG vengono subito attaccati dalla Fratellanza, che li accusa di connivenza coi demoni. Fortunatamente un intervento delle guardie cittadine impedisce che la situazione degeneri. I personaggi sono tuttavia processati per demonologia, ma riescono a cavarsela senza troppi intoppi con una semplice multa per l'imbrattamento di Piazza Ducale.
+
+La sera Drusilde riceve la visita di un giovane vestito di nero di nome Marzio, agente della stessa entità con cui ha patteggiato. Marzio le riferisce che l'entità ora richiede il suo pagamento e che vuole che lei trovi le Reliquie e le usi per i suoi scopi. Prima di andarsene comunica alla xebechana la locazione di una Vera Via, un portale dimenticato per la città di Xuthal.
+
+**La Vera Via**
+
+**Xuthal**
+
+**Il Santuario delle Braci**
+
+**Nel Grande Erg**
+
+**Ombre sulla Sabbia**
+
+**Di nuovo in volo**
+
+**Approdo sull'Isola delle Nebbie**
+
+**Il Drago Gildiss**
+
+**La Battaglia del Santuario del Vento**
+
+**Natharien, il Diadema Celeste**
+
+**Tra Sogno e Realtà**
+
+**Ragash, la città dormiente**
+
+**Il Cammino dell'Illuminato**
+
+**La Verità**
+
+**Ritorno al Trono d'Ombra**
+
+**La Trappola**
+
+**La Leggenda delle Rune Magiche**
+
+**Conclusione**

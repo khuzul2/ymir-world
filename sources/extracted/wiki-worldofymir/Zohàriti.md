@@ -1,0 +1,15 @@
+# Zohàriti
+
+- **Source:** https://worldofymir.fandom.com/wiki/Zohàriti
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2010-10-30T13:45:06Z
+
+---
+
+Nome del Culto: Zohàr (Splendore/Perfezione) o anche Zohàrismo
+
+Localizzazione:
+
+I Quattro Grandi Alberi Benedetti (Atzilùt, Beriàh, Yetziràh, Asiyàh): Sono i quattro grandi profeti dello Zohàr, incarnatisi nella forma di 4 alberi luminescenti che comunicano il volere dello Zohàr agli alti sacerdoti.
+
+Lo Zohàr: Processo che porta al raggiungimento di uno stato spiritualmente superiore, detto "Perfezione". Il processo è attivato dal contatto con le sacre spore dei Quattro Alberi. Il processo è diviso in vari stadi, attivati da diverse assunzioni della linfa dei Quattro Alberi. Quando essi giudicano pronto uno dei fedeli gli somministrano la giusta dose di linfa durante una sacra cerimonia di passaggio.

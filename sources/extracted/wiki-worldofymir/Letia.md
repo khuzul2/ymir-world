@@ -1,0 +1,12 @@
+# Letia
+
+- **Source:** https://worldofymir.fandom.com/wiki/Letia
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2023-05-24T15:32:00Z
+- **Categories:** Regions
+
+---
+
+Demografia: Popolazione: 300 Milioni. Razze Prevalenti: Umani
+
+Un tempo un grande impero umano, ora la Letia ha perso molti dei suoi territori a causa delle invasioni degli orchi che hanno creato i Regni Belligeranti e ai problemi per la successione della dinastia imperiale, che hanno dato vita ai Regni Giovani. Ora la Letia è governata dal Clericato di Mithra, con sede nella città di Solanthya. Il governo è retto dal sommo sacerdote di Mithra. Rimane una terra vasta, dal clima temperato, divisa in tante piccole marche e baronati, che rendono conto direttamente al governo centrale. La regione è abitata in prevalenza da umani, anche se sui Monti Bianchi è presente un gran numero di nani, nonché una delle più grandi roccaforti naniche di tutto Ymir: Naughrit. La maggior parte delle altre razze (esclusi orchi, elfi oscuri e seguaci delle Tenebre) è la benvenuta nei territori Letii ma ogni viaggiatore impara ben presto a non intromettersi negli affari di chiesa e a non professare troppo apertamente un culto diverso da quello di Mithra

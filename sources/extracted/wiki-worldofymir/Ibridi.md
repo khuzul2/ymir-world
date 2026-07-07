@@ -1,0 +1,20 @@
+# Ibridi
+
+- **Source:** https://worldofymir.fandom.com/wiki/Ibridi
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2023-05-24T14:44:42Z
+- **Categories:** Creatures
+
+---
+
+Gli Ibridi sono creature del Maelstrom, mutate dalla magia. Comprendono esseri parte umani e parte animali e creature che recano in sé il seme di un qualche elemento (come alcuni giganti). Nonostante non siano il risultato di alcuna mutazione magica anche i centauri (di ogni tipo) sono considerati Ibridi. I giocatori possono scegliere di appartenere ad una razza Ibrida dietro consenso del Master, tenendo presente che il loro aspetto inusuale potrebbe causare loro diversi problemi nelle interazioni sociali.
+
+**Centauri**
+
+**Satiri**
+
+**Rahab**
+
+**Tritoni**
+
+**Giganti**

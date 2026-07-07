@@ -1,0 +1,94 @@
+# PG di Ymir
+
+- **Source:** https://worldofymir.fandom.com/wiki/PG_di_Ymir
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2011-03-04T15:35:10Z
+
+---
+
+Questa pagina raccoglie tutti i pg che sono stati giocati su Ymir, con una descrizione degli stessi.
+
+**Alfonso** - Saggio elementalista arcano originario di Cartosa, ritiratosi nella città di Ombra del Mar. Player: Ale G
+
+**Asternak-Gaib:** Depravato magent umano proveniente da Ulan-Tang, fanatico servitore del dio Yogh, fratello di Yirk. Player: Max
+
+**Baudolino -** Umli Mercenario Armorita, famoso per la sua abilità di cecchino. Miglia
+
+**Callidus** - Assassino mezzellfo giocato nella campagna ambientata attorno al Gaerwath nel 2003. Nato a Hasl'Aret, viaggia per la Letia, sta a Solantia per un lungo periodo prima delle avventure con nel Gaerwath. Attualmente lavora come spia per una casata elfica ostile a Morannagul. Player: Alessandro (Khuzul)
+
+**Christabella -** Fata Veggente ed esperta viaggiatrice delle Terre dei Sogni. Player: Anto
+
+**Corvinus Alexander -** Aristocratico Armorita rinnegato, studioso delle arti oscure. Player: Daniel
+
+**Deedlit -** Guerriera Mezzelfa nel party di Callidus, assieme a lui ha partecipato alla sconfitta del demone Saxul, Signore di Tutte le Febbri e Pestilenze. Scomparsa misteriosamente nel lontano Est. Player: Anto
+
+**Diego Alehandro deLaCorona -** Bardo umano di Cartosa, noto per le sue ballate tristi ed inquietanti. Membro dell'equipaggio di capitan Raggot-Tod. , Player: Alessio
+
+'_Drusilde (Thulilachtle)'_**:** Arcimaga Xattva esiliata dal proprio paese ed espatriata nei Regni Giovani. Membra di varie fazioni, scuole ed organizzazioni, finisce per fondare la propria prestigiosa scuola privata di magia. Player: Alessio
+
+**Dwayne Soylen "L'edificatore"-** Paladino umano di Helgedad, seguace di Thurms, famoso per aver fatto costruire diversi templi in onore a Thurms., Player: Anto.
+
+**Fèl Fenor:** Elfo viaggiatore del mondo dei sogni, incompreso dalla propria compagnia e maledetto, diventa malvagio e viene ucciso da Tofango&Co. Pleyer: Trix
+
+**Ferdinando Montecarlos** - Pathfinder freelance nato e cresciuto a Cartosa. Player: Alessio
+
+**Fiorentino Cipriano:** Stregone demonologo esperto di golem proveniente dalla Letia, famoso per i suoi azzardi nel trattare con entità provenienti da altri piani... Player: Baab
+
+**Gloria Duarte -** Inquisitrice Cartosana di Hudemia, membro dell'equipaggio di capitan Raggot-Tod. Player. Anto
+
+**Gregorio VanErsputin:** Carismatico "santone" di Armora. Player: Ale P
+
+**Gundar "Il Massacratore"** - Barbaro del nord della Letia. Player: Tarter
+
+**Gurthak:** Orco barbarico proveniente dalle montagne di Alturia.
+
+**Han Hsian-Tz'** - Monaco danzatore umano proveniente dal Qi-Long. Appartiene alla segreta triade degli Aironi Grigi, che lottano per rovesciare il regno degli Dei Drago. Player: Alessio
+
+**Heinrich Kramer** - Inquisitore Letio, nato in un villaggio del nord della Letia ed in seguito trasferitosi a Solantia. Player: Alessandro (Khuzul)
+
+**Isidoro/Tyrael Von Graven -** Elementalista della luce Armorita, Membro dell' Accademia di Studi Elementali di Armora, divide la sua essenza vitale con Tyrael, un potente elementale della luce. Hobby: Necromanzia. , Player: Anto
+
+**Kamal "il Folle" -** Alto Sacerdote di Heis in Helgedad. Un tempo un nano, è stato mutato in un'aberrazione deforme dopo aver ingoiato un seme dell'Albero del Caos. Player: Guido
+
+**Kronen Vorab -** Paladino umano di Gog residente in Helgedad, tristemente famoso per la sua crudeltà e per la sua parlantina melliflua. Player: Seppu
+
+**Lita** - Subdola e maligna strega umana proveniente dal gelido nord. Player: Anto
+
+**Ming-Chia:** Monaco itinerante folle proveniente dal Qi-Long. Player: Ale P.
+
+**Mjolnirr "Don Pablo" -** Malvivente nano nato a Cartosa, convertito al culto di Heis da Ruben Montoya. Le notizie sulla sua fine sono diverse e discordanti, ma lo si presume morto in seguito al tentativo di costruire una macchina volante. Player: Miglia
+
+**Rachkir -** Bandito umano proveniente dal nord della Letia, compagno di party di Callidus. Esperto conoscitore delle selve e colpito da una singolare maledizione... Player: Ale G
+
+Rag-Shagan - Elfo del Gaerwath ex-biomante ex-necromante ora affiliato ai Veri Veggenti (3518)
+
+**Raggot-Tod -** Contrabbandiere Cartosano con sangue Tanoth, si dice sia il capitano di una nave maledetta che solca i mari metà fra Ymir e il mondo degli Incubi. Player: Stefano
+
+**Raphael -** Spadaccino nano Cartosano, morto nella lotta contro l'Alba Nera, dopo aver a lungo combattuto per affermare i diritti dei Nani. Player: Anto.
+
+**Ruben Riccardo Montoya -** Capitano di ventura, chierico di Heis, necrofilo, in folle procinto di costruire un tempio del caos
+volante. Misteriosamente scomparso a seguito della lotta contro l'alba nera. Player: Alessio
+
+**Salaphard Panempiricous** : Arcimago e filosofo umano, proveniente dal pianeta Tchyo. Player: Max
+
+**Samael** - Mezz'elfo di nobili origini dei Regni Giovani, in principio seguace dei Demoni Sovrani, stringerà un seguito un patto con il drago Gildiss. Player: Colui
+
+**Surya "il Demone Giallo"-** Guerriero Ur-Tanoth fuggito dal Qi-Long per salvare dalle grinfie degli Dei-Drago la Masamune, una spada dai poteri leggendari. Player: Franz
+
+**Syena -** Ur-Tanoth barbara originaria della Sierra Plata, a sud di Cartosa, fortemente legata agli Spiriti. Player: Renata
+
+**Tara -** Principessa Ophirita spodestata dal cugino, ha studiato oscure arti magiche per vendicarsi. Attualmente risulta dispersa. Player: Renata.
+
+**Urichal "Tofango"** - Barbaro del nord della Letia. , Player: Simo
+
+**Valerio Luis y Albericio -** Mistico mezz'elfo di Cartosa, noto ciarlatano e truffatore, sulla sua testa pende una cospicua taglia e questo motivo l'ha spinto a lasciare Cartosa per rifugiarsi nelle Isole d'Argento. Player: Seppu
+
+**Varg -** Combattente Vorskgen dalle lande gelate di Helgedad. Per perfezionare le sua arti di combattimento fece trasferire la sua anima in un corpo metallico, perdendo in questo modo la propria volontà. Player: Francesco
+
+**Yonker "Dwalor" -** Alchimista nano nato ad Armora, esperto di macchinari ed esplosivi ed attivista per i diritti dei nani nei dominii umani. In seguito nominato successore del clan di Dwalor del Wald per meriti in guerra. Player: Stefano
+
+Ychan The Weak - Elfo del Gaerwath ex-demonologo, ora affiliato ai Veri Sapienti (3518)
+
+**Yirk-Gaib:** Possente e taciturno rogue umano di Ulan-Tang prescelto dal dio Yogh, fratello di Asternak. Player: Anto
+
+**War-Ra -** Assassino di Ulan-Tang appartenente alla famiglia nobiliare dei Ra. Player: Chini

@@ -1,0 +1,91 @@
+# Gaerwath
+
+- **Source:** https://worldofymir.fandom.com/wiki/Gaerwath
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2023-05-24T14:42:46Z
+- **Categories:** Regions
+
+---
+
+Gaerwath, 3500dM
+
+Demografia: Popolazione: 50 Milioni (3000 d.M.) 35 Milioni (3500 d.M.). Razze Prevalenti: Elfi
+
+Il Gaerwath (Elfico: Mare della Stregoneria) non è sempre stato un arcipelago, prima della Catastrofe esso era tutt’uno col continente assieme alle Isole d’Argento. Il mare intorno alle isole del Gaerwath è burrascoso e infido, pieno di correnti traditrici; solo i marinai più esperti o le navi guidate dalla magia riescono ad attraversarlo, e non senza una guida elfica. Gli elfi oscuri abitano queste isole, assieme ad un gran numero di membri di altre razze, per lo più orchetti e umani,
+che li servono come schiavi. Ogni isola dell’arcipelago è occupata quasi interamente dalle città degli elfi, ognuna un capolavoro di oscura bellezza. Le varie città e, secondo quanto dicono alcuni, perfino le isole stesse, sono collegate fra loro attraverso strade sotterranee e ponti magici. La magia è un elemento fondante della vita nel Gaerwath e non saperla utilizzare significa essere un fuori casta oppure uno schiavo. Ai vertici della politica interna, le varie casate e famiglie di elfi oscuri si
+contendono il potere, con alleanze e tradimenti che hanno ripercussioni su ogni strato sociale e ogni persona del Gaerwath. Ogni famiglia elfica è specializzata in un campo particolare, sia esso l’alchimia, lo spionaggio o semplicemente il commercio, e questa specializzazione viene tramandata di padre in figlio e sfruttata al massimo all’interno della rete di intrighi che avvolge il paese.
+
+**Società**
+
+La struttura sociale del Gaerwath è estremamente razzista, rigidamente divisa in _Elar_ (Elfi) e _Nemyel_ (Non-Elfi). I Non-Elfi non hanno diritti e hanno il dovere di servire i loro padroni Elfi che, in cambio, permettono loro di vivere alla luce della loro sapienza.
+
+Gli Elfi sono divisi in _Lyar_(letteralmente: “Nomi”), ovvero clan, organizzati secondo la struttura di una famiglia allargata. I _Lyar_ sono ripartiti fra tre ceti sociali, chiamati _Nath_. Il gradino più alto della società è occupato dal _Galadlyan_ (letteralmente: “Nome Splendente”), un ceto sociale costituito solamente dalla famiglia imperiale, al cui vertice sta, ovviamente, l'imperatore stesso. Subito sotto ci sono le famiglie dell'alta aristocrazia, che formano il _Nath_ chiamato _Celeblyar._ Infine, al gradino più basso della società elfica, ci sono le _Mallyar_ , le famiglie meno potenti o meno abbienti. Anche se i _Nath_ dovrebbero essere, per definizione, unicamente dipendenti dal sangue e dai legami famigliari, è vero che fra i due ceti inferiori è tacitamente accordata una certa mobilità sociale. Capita relativamente spesso che una famiglia di ceto basso riesca a fare fortuna e “acquisti” il diritto di entrare nel ceto superiore con un matrimonio combinato con una famiglia del _Celeblyar_ , che magari al momento versa in difficoltà economiche.
+
+La società elfica è patriarcale e i matrimoni, solitamente combinati, legano i due sposi per tutta la vita (normalmente la sposa entra a fare parte del _Lyar_ del marito, ma a volte succede il contrario), anche se è consentito il divorzio. Dato che è raro che i matrimoni avvengano per amore, a entrambi gli sposi è consentito per legge avere fino a cinque concubini/e (di qualsiasi razza o sesso), allo scopo di evitare l'adulterio (anche se, si deve dire, il provvedimento non pare avere particolare successo). I figli nati dalle unioni con i concubini possono entrare a far parte del _Lyar_ del genitore, oppure esserne espulsi, andando a formarne uno proprio. La decisione a questo riguardo spetta al capofamiglia.
+
+**Religione**
+
+Gli Elfi affermano di provenire da un luogo che chiamano _Niethel_ (“La Fonte”), dove vivevano assieme ai loro dei. Quando viveva in questa sorta di paradiso terrestre, il popolo degli elfi non conosceva la morte e non doveva preoccuparsi né della fame, né della sete, poiché si cibava del nettare degli dei. Quest'età dorata, però, non era destinata a durare in eterno. Gli elfi si macchiarono di una grave colpa, per la quale furono cacciati da _Niethel_ e allontanati dalla presenza degli dei, che conferiva loro la vita eterna. La natura di questa colpa non è ben chiara ma, secondo la teologia degli Elfi Oscuri, essa andrebbe attribuita ad un ambizioso antenato della regina Inanna, che sedusse il popolo elfico e lo condusse in una rivolta contro gli dei. Comunque sia andata la vicenda, i libri sacri degli elfi contengono una profezia, consegnata agli elfi subito prima dell'esilio. Essa parla di un Sacro Regno, all'interno del quale gli elfi dovranno aspettare un Messaggero, che annuncerà il ritorno degli dei e dell'età beata. Come detto sopra, gli Elfi Oscuri credono che Ymir sia questo Sacro Regno nominato nella profezia e che a loro spetti il diritto/dovere di farlo proprio, in modo da affrettare la venuta del Messaggero.
+
+Il culto degli dei fra gli Elfi Oscuri è piuttosto informale e, di solito, si limita ad un tacito rispetto e a qualche preghiera rivolta di tanto in tanto ad un altare domestico. Esiste, tuttavia, anche un vero e proprio clero elfico, che si occupa per lo più di fornire vaticini e celebrare le feste più importanti. Tutti i sacerdoti fanno riferimento all'Imperatore che, di fatto, ricopre anche la carica di sommo pontefice.
+
+Gli dei più venerati fra gli elfi del Gaerwath sono Valrin, il dio guerriero che guida la guerra santa, e Myethel, la dea della magia dispensatrice di oracoli.
+
+**Fazioni**
+
+Tra il 3000 d.M ed il 3500 d.M circa a livello religioso-filosofico gli Elfi si sono sempre più divisi in fazioni differenziate principalmente da una diversa visione su quale sia la via più corretta per raggiungere _Niethel_ , ovvero "La Fonte" per ricongiungersi agli dei.
+
+In questi anni la maggior parte di queste fazioni (descritte in seguito) hanno sviluppato il proprio pensiero verso la convinzione che _Niethel_ non sia un luogo fisico ma piuttosto un momento nel tempo che per essere raggiunto necessita inderogabilmente da parte dell'aspirante ricongiunto di'immortalità fisica e spirituale.
+
+Per questo la maggior parte degli Elfi credenti pone come scopo primo della propria esistenza il raggiungimento di una condizione di immortalità.
+
+Le Fazioni in cui si dividono gli abitanti del Gaerwath sono cinque, elencate in ordine di popolarità:
+
+  * _Meccanisti_
+  * _Demonologi_
+  * _Biomanti_
+  * _Sognatori_
+  * _Necromanti_
+
+**Meccanisti**
+
+I Meccanisti rappresentano circa i tre decimi della popolazione Elfica, e costituiscono con i Demonologi la Fazione più numerosa. La Fazione è la prima ad essersi è sviluppata ideologicamente a livello teorico grazie al lavoro di scrittura e ricerca filosofica perpetrato da Morannagul l'Eterno, rè del Gaerwath dall'anno 2198 d.M all'anno 3131 d.M, che si sospetta ancora in vita nell'anno 3518 d.M.
+
+Dalle idee di Morannagul fu sviluppata una complessa arte basata anche sugli studi compiuti dagli Umani del regno di Armora, nonostante gli Elvi ovviamente neghino di avere preso in prestito qualsivoglia teoria. Tale disciplina prese il nome di Meccanomagia, e da subito si concentrò sull'utilizzo della meccanomagia non tanto per la costruzione di oggetti ma più sull'integrazione fisica con la sostituzione di parti del corpo mortale con organi meccanomagici artificiali e durevoli.
+
+Ideologia qui
+
+**Demonologi**
+Ad oggi (c.a. 3500 d.M.) i Demonologi costituiscono la prima fazione per numero e la seconda per potere politico, con circa i tre decimi della popolazione Elfica affiliata.
+Da sempre il Gaerwath è stata terra di intense relazioni tra Elfi e Demoni, essendo i primi portati naturalmente per la Magia ed altrettanto naturalmente portati ad indagare qualsiasi fonte di potere al fine di prevalere sulle altre razze Ymiriane. Nonostante ciò, fu solo dopo il 3026 d.M. che i Demonologi nacquero come fazione, essendo in quegli anni il contatto con i Demoni divenuto addirittura fisico a causa dell'Invasione e della nascita dell'Isola dei Demoni nell'emisfero australe di Ymir. Nel 3131 d.M. fu proprio a causa dello strapotere dei Demonologi che avvenne la Caduta di Morannagul. Secodo i Demonologi fu attraverso un rituale rischioso e potentissimo che venne evocato uno dei Nuovi Signori dei Demoni sul Gaerwath, il quale prese l'anima di Morannagul e ne distrusse il corpo, confinandolo da allora nel piano del Caos.
+Ideologia qui
+
+**Biomanti**
+
+La fazione dei Biomanti rappresenta circa due decimi della popolazione del Gaerwah, costituendo la terza Fazione numericamente ed a livello di influenza politico-sociale. Tale ideologia si è sviluppata da un gruppo di studiosi autodefinitisi "Circolo dei Puristi" negli anni dal 3030 d.M in poi, in opposizione all'allora dilagante utilizzo di Meccanomagia e Demonologia per l'alterazione della Razza.
+
+I Puristi inventarono praticamenta dal nulla un nuovo utilizzo della magia basandosi su studi condotti da alcuni Armoriti ed acquisiti prima del 3026 corrompendo alcuni membri di un'organizzazione di allora, detta dei Veri Veggenti. Dagli studi di un mago criminale Armorita nacque quindi la Genomagia, incentrata sull'aumento della Purezza e del potenziale fisico e mentale dell'individuo a partire da ricombinazioni magiche ed alchemiche di elementi naturali.
+
+Ideologia qui
+
+**Sognatori** **I Sognatori sono la minore delle fazioni aventi dei membri eletti all'interno del Consiglio. Essi rappresentano circa il 15% degli Elfi del Gaerwath.**
+
+La fazione dei Sognatori è probabilmente la più antica delle cinque, pur essendo stata codificata come organo politico-sociale soltanto dopo il Decreto delle Fazioni, voluto da Morannagul nel 3096. I Sognatori avevano da sempre costituito un gruppo di Elfi dalla particolare filosofia incentrata sulla credenza che per raggiungere il _Niethel_ fosse necessario ricercare un punto spaziotemporale preciso all'interno del Mondo dei Sogni e non soltanto divenire immortali fisicamente ed attendere.
+
+**Necromanti**
+
+I Necromanti furono fondati da Wehyrr il Maledetto subito dopo la fondazione di altre fazioni quali Demonologi, Biomanti e Meccanisti. Wehyrr era un potente Demonologo che al momento della fondazione della Fazione dei Demonologi fu escluso dal Circolo poichè recentemente aveva mutato la sua condizione in Lich a seguito di una maledizione ricevuta da un Demone che aveva tentato di giocare.
+
+Per salvarsi Wehyrr rinnegò la Demonologia e fondò la fazione dei Necromanti, cercando di importare conoscenza in tal campo, tradizionalmente lontano dalla cultura Elfica, da terre lontane, soprattutto dal deserto di Khorish. Nonostante gli sforzi di Wehyrr, alla fazione dei Necromanti fu negato l'accesso al Consiglio nonchè qualsiasi potere politico.
+
+Ciònonostante la fazione è tollerata, poichè rappresenta comunque circa un ventesimo della popolazione, anche se gli affiliati sono trattati piuttosto male e non vengono invitati ad eventi decisionali o mondani.
+
+Ideologia qui.
+
+**I Non Schierat** i
+
+Alcuni studiosi di Meccanomagia, Demonologia, Genomagia, Onirologia e Necromanzia preferiscono non schierarsi dichiaratamente con alcuna delle fazioni, restando di fatto al di fuori della politica e dei giochi di potere del Gaerwath per dedicarsi invece ad una ricerca interdisciplinare che è ovviamente vista non certo di buon grado.
+
+Generalmente i Non Schierati svolgono le proprie ricerche soli o a piccoli gruppi e cercano di mantenere un basso profilo all'interno di una delle fazioni ufficiali.
+
+Un'evento famoso risalente agli ultimi anni del regno di Morannagul è la Caccia agli Indipendenti del 3096, in tale evento Morannagul fece scovare ed eliminare dal tessuto sociale quanti più Non Schierati possibile, in modo da cementare la realtà politica basata sulle Fazioni che era recentemente emersa e che lo favoriva.

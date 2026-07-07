@@ -1,0 +1,16 @@
+# Materiali
+
+- **Source:** https://worldofymir.fandom.com/wiki/Materiali
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2023-05-24T16:35:50Z
+- **Categories:** Items
+
+---
+
+Sezione dedicata alla descrizione di metalli incantati, erbe e altri materiali tipici di Ymir.
+
+_**Umbra**_ : L'Umbra è un materiale assai particolare e rarissimo si Ymir. Esso è infatti originario di un'altro pianeta ed è stato portato su Ymir prima del collasso magico in piccole quantità dai Notturni che viaggiavano tra il loro mondo ed Ymir. La forma dell'Umbra lavorato è quella dell'oggetto desiderato, a volte rigido, a volte soffice e morbido, a volte può persino variare per dimensioni, forma e consistenza da una forma liquida fino ad una forma solida durissima. La peculiarità dell'Umbra è quella di assorbire la luce, risultando quindi di un colore nero profondo. Per quanto ben lavorato inoltre mantiene una caratteristica cangianza, Una spada d'umbra ad esempio si mostrerà come se avesse una lama "viva", leggermente "fiammeggiante" di nere appendici.
+
+Le caratteristiche dell'Umbra sono notevoli: un'arma d'Umbra è +35, fa colpi critici Tearing/Ripping al posto di quelli normali dell'arma e aggiunge un colpo critico da freddo di eguale severità a qualsiasi colpo inferto. Un mantello d'Umbra dona un bonus di +35 al DB e da un +50 a tutte le manovre di Stalking e Hiding e affini. Un'armatura d'Umbra da un bonus di +35 al DB, ingombra come AT1, e da il bonus di +50 alle manovre di sotterfugio come il mantello. Il problema dell'Umbra è che si tratta di un materiale ad alta percentuale elementale, e che quindi tende a corrompere chi ne rimane in contatto. Pur non pervasivo come l'acciaio demoniaco, è comunque relativamente pericoloso. Per ogni 24ore consecutive in cui si porta un mantello o un'armatura d'Umbra (12 in caso si indossino entrambi) si deve fare un RR o guadagnare un punto corruzione da elemento (Buio, ovvero assenza di Luce). Un chilo di Umbra vale sul mercato magico di Ymir circa 10,000 monete d'oro.
+
+**_Guscio di Yarhim_ :** la corazza azzurrina di queste strane creature è molto ricercata per la sua proprietà di assorbire la magia. Vi si possono fabbricare ottimi scudi (+10) che conferiscono anche una certa protezione contro gli incantesimi (+5 addizionale al BD e TR contro tutti gli incantesimi), ridotto in polvere viene ricercato come componente per pozioni e o preparati alchemici. Il guscio di un esemplare piccolo vale circa 150-200 mo, quello di uno più grande può arrivare a valerne anche 800.

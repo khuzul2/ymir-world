@@ -57,6 +57,21 @@ Working memory of the project. Items move out of here into `canon/` once settled
   **Era della Marea** is a distinct later event. Need to confirm the Dark Elves'
   "Marea" = the Bewitched Tide (Era della Marea) or a separate regional usage.
 
+## 📥 New source imported (2026-07-07)
+- 📥 **Fandom wiki fully imported.** The entire community wiki
+  (<https://worldofymir.fandom.com>, "World of Yimir Wiki", authored by
+  Alessandro & friends) is now in `sources/` — **75 pages, ~62k words**, raw
+  wikitext in `sources/raw/wiki-worldofymir/` and readable Markdown in
+  `sources/extracted/wiki-worldofymir/` (indexed there). This nearly doubles the
+  corpus and is the **top priority for the next canon-extraction pass**: it holds
+  structured coverage of cosmology (Essenza, the pantheon tiers, planes),
+  chronology, every region, races/creatures, item & material catalogues,
+  religions, and English-language campaign reports. Cross-check it against the
+  existing docs for agreements/contradictions before folding into `canon/`.
+- 🔁 **Spelling reinforced.** The wiki calls the world **"Yimir"** throughout (its
+  very title). This is the same variant already logged below; we still
+  standardise on **Ymir** in canon, but note the wiki is the "Yimir" camp.
+
 ## 🕳️ Gaps / next extraction pass (docs not yet fully mined)
 - 🕳️ **Maps.** No world map extracted yet; several PDFs/docs embed maps (Cartosa's
   "Mappa del Principato", Player Guide's 462 images, Cartosa Guida's 17). **Priority.**

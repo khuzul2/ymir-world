@@ -1,0 +1,56 @@
+# Dei Esterni
+
+- **Source:** https://worldofymir.fandom.com/wiki/Dei_Esterni
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2023-05-24T14:41:00Z
+- **Categories:** Cosmology
+
+---
+
+Gli Dèi Esterni sono la più antica generazione di divinità consciuta.. Si tratta di entità-concetto che perpetrano la loro esistenza negli spazi universali esterni ai piani ed ai mondi. Essi non obbediscono alle leggi naturali, c'è chi crede si tratti delle entità creatrici dell'universo, chi dice siano agglomerati di pura Essenza che rappresentano tutti i pensieri del Cosmo. Di fatto sono entità tanto lontane ed aliene quanto potenti. La loro influenza diretta è minima su Ymir, ma di certo il Disastro avvenne a causa dell'evocazione diretta di uno di questi Dèi, o di un tentativo fallimentare di portare a compimento tale evocazione. Solo pochissimi non Xebechani adorano gli Dèi Esterni, in genere si tratta di Stregoni e Chierici che si rivolgono a queste entità cosmiche alla fine di un percorso di ricerca di poteri sempre maggiori.
+
+Di seguito viene riportato il nome in xebechano del dio, una traduzione approssimativa di tale nome e l'appellativo con cui la divinità viene solitamente conosciuta.
+
+**Tuulhak-Xanar (Sguardo-sul-Nulla), l'Osservatore** - Questo Dio-Concetto rappresenta il pensiero di coloro che guardano ma non comprendono. Che tale incomprensione sia data dalla stoltezza dell'osservatore o dall'inconcepibilità dell'oggetto scrutato, poco importa. Tutto ciò che vi è di oscuro, incompreso, alieno è rappresentato da Sguardo-sul-Nulla. Per gli adoratori che comprendono meno la natura degli Dèi Concettuali sguardo-sul-nulla è una divinità della Saggezza, dell'Occulto, della Follia.
+
+**Xuxhul'Xhathi (Tricotomia-di-Atti-e-Pensieri), il Giudice** - Questo Dio rappresenta la divisione delle azioni e di tutto ciò che è. Vi sono tre Vie, il Bene, il Male ed il Nulla, secondo le quali ogni Atto è compiuto in accordo con il concetto della Tricotomia dell'Agire. Questa divinità è adorata dai meno comprensivi della religione degli Esterni sia come Dio del Bene, che del Male, che dell'Equilibrio, della Quiete o dell'Azione. Tra gli Dèi Esterni è il meno compreso ed il più adorato.
+
+'_Xatol-Nahuactl'_**(Parola-che-Tace), il Silente** - Rappresenta il Silenzio Cosmico che crea la Musica e la Parola. Adorato come divinità delle Arti, della Magia, dell'Oblio, della Distruzione.
+
+'_Tlahuiz'Halpantexuhtli'_**(Essenza-di-Tutto-Ciò-che-Era-E'-e-Fu), il Primo** - Il concetto di Essenza Essenziale è rappresentato da questo essere cosmico secondo il principio di un'Essenza dell'Essenza, ovvero di un'Essenza Primordiale. Adorato dagli Arcanisti.
+
+**Xotl-Nag'aaqe (Connubio-in-Uno), la Madre** - Il tutto che si fonde nell'uno che rappresenta il tutto. Adorato come dio della Creazione, della Vita, della Morte, dell'Unione, degli Spiriti, della Natura.
+
+**Xip-Tenalthe (Fiume-di-Essere), il Risorto** - Il Tempo. Rappresenta il passato, il presente ed il futuro, lo scorrere del tempo e la trasformazione di tutto ciò che è in ciò che sarà, e di ciò che era in ciò che è. Adorato come dio del Tempo, della Morte, della Decadenza, della Nascita, della Distruzione.
+
+**Priests:**
+
+**Outer Gods Priest**
+
+Realm: Arcane
+
+Prime Stats: In/Em/Pr/SD
+
+Lists:
+
+  * Arcane Visions
+  * Dark Channels
+  * Dark Entities
+  * Summoning Mastery
+  * Void Law
+  * Nether Mastery
+
+**Adept Creator**
+
+Realm: Channeling
+
+Prime Stats: In/SD
+
+Lists:
+
+  * Simulacra
+  * Changelings
+  * Holy Trances
+  * Spiritual Visions
+  * Channels
+  * Life Mastery

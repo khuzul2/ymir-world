@@ -1,0 +1,161 @@
+[[File:Placeholder|right|300px]]
+
+
+Gli eterei Xattva sono considerati gli Xebechani per eccellenza, i più puri e nobili fra tutte le Caste. Sono anche i meno numerosi, arrivando a malapena al 10% della popolazione xebechana. A loro è preposto il governo, l'emanazione delle leggi e l'amministrazione dello stato, anche se in realtà la maggior parte del lavoro viene fatta da scribi Xion e gli Xattva si occupano solo delle questioni più gravi ed importanti. Per lo più occupano il loro tempo in studi magici ed esperimenti alchemici, nella speranza di trovare un soluzione al problema della riproduzione. Gli Xattva non lasciano praticamente mai le proprie terre, quelli che si incontrano all'estero sono di norma stati puniti con l'esilio per motivi politici o religiosi e vivono questa loro condizione con grandissima tristezza.
+========
+====ASPETTO FISICO====
+{| align="left" border="1" cellpadding="7" cellspacing="0" dir="ltr" hspace="5" width="494"
+| colspan="4" height="4" valign="top" width="478"|
+'''XATTVA'''
+|- valign="top"
+| colspan="2" rowspan="2" width="147"|
+'''Modificatori'''
+
+'''Caratteristiche'''
+| height="6" width="149"|
+'''Modifiche TR'''
+| width="154"|
+'''Sviluppo'''
+|- valign="top"
+| width="149"|
+'''Flusso'''
+| width="154"|
+'''Sviluppo Corporeo'''
+|- valign="top"
+| width="62"|
+'''AG'''
+| width="71"|
++0
+| width="149"|
+-5
+| width="154"|
+0.6.3.2.1
+|- valign="top"
+| width="62"|
+'''CO'''
+| width="71"|
+-3
+| width="149"|
+'''Essenza'''
+| width="154"|
+'''PM Arcani'''
+|- valign="top"
+| width="62"|
+'''ME'''
+| width="71"|
++0
+| width="149"|
+-5
+| width="154"|
+0.8.7.6.5
+|- valign="top"
+| width="62"|
+'''RA'''
+| width="71"|
++0
+| width="149"|
+'''Mentalismo'''
+| width="154"|
+'''PM Essenza'''
+|- valign="top"
+| width="62"|
+'''AC'''
+| width="71"|
++2
+| width="149"|
+-5
+| width="154"|
+0.7.6.5.4
+|- valign="top"
+| width="62"|
+'''EM'''
+| width="71"|
++6
+| width="149"|
+'''Arcano'''
+| width="154"|
+'''PM Flusso'''
+|- valign="top"
+| width="62"|
+'''IN'''
+| width="71"|
++6
+| width="149"|
+-5
+| width="154"|
+0.7.6.5.4
+|- valign="top"
+| width="62"|
+'''PR'''
+| width="71"|
++6
+| width="149"|
+'''Veleno'''
+| width="154"|
+'''PM Mentalismo'''
+|- valign="top"
+| width="62"|
+'''RF'''
+| width="71"|
++0
+| width="149"|
++50
+| width="154"|
+0.7.6.5.4
+|- valign="top"
+| width="62"|
+'''FO'''
+| width="71"|
+-2
+| width="149"|
+'''Malattia'''
+| width="154"|
+'''Tipo di Razza'''
+|- valign="top"
+| width="62"|
+'''AS'''
+| width="71"|
++20
+| width="149"|
++25
+| width="154"|
+2
+|- valign="top"
+| colspan="2" width="147"|
+'''Dipartenza Anima'''
+| width="149"|
+'''Paura'''
+| width="154"|
+'''Molt. Guarigione'''
+|- valign="top"
+| colspan="2" width="147"|
+9 round
+| width="149"|
++0
+| width="154"|
+x1
+|- valign="top"
+| colspan="2" width="147"|
+'''Linguaggi'''
+| colspan="2" width="316"|
+'''Opzioni Background (Punti Talento)'''
+|- valign="top"
+| colspan="2" width="147"|
+5
+| colspan="2" width="316"|
+2 (25)
+|}
+=====Corporatura: Alti ed esili. Pesano in media 65-70 kg.=====
+'''Colorito:''' Hanno una pelle molto pallida, quasi bianca. In alcune altre parti del corpo essa è sostituita da piccole, morbide squame, che sulla schiena formano disegni simili agli occhiali di un cobra. Hanno capelli neri ed occhi gialli, grigi, verdi o viola, con pupilla verticale.
+
+'''Resistenza: '''Normale
+
+'''Altezza:''' In media sono alti 190 cm.
+
+'''Durata della vita:'''  250-300 anni.
+
+'''Resistenze:''' Molto resistenti a Veleni e Malattie.
+
+'''Abilità Speciali:''' Come gli Xion sono in grado di percepire intuitivamente la presenza di energie magiche nell'aria (''Senso Arcano:'' concentrandosi possono percepire la presenza di incantesimi attivi nel raggio di 10m. Capiscono anche la direzione e la lontananza dell'incantesimo ma non il Reame di appartenenza); in più sono in grado di convogliare e immagazzinare le energia magiche molto facilmente (''Aura:'' già calcolata nella progressione dei PM).
+
+'''Abilità: '''''Everyman:'' Nessuna.

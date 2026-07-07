@@ -13,6 +13,13 @@ readable, searchable, and diff-able. **These are derived files** — the origina
 
 All 13 source files extracted successfully (~46,000 words total).
 
+**Plus the full Fandom wiki** (imported 2026-07-07): the community wiki at
+<https://worldofymir.fandom.com> — **75 pages, ~62,000 words** — lives under
+`wiki-worldofymir/` (readable Markdown) and `../raw/wiki-worldofymir/` (raw
+wikitext). It roughly doubles the corpus and overlaps/extends most of the docs
+below. See [`wiki-worldofymir/README.md`](wiki-worldofymir/README.md) for the
+per-page index and how it was pulled.
+
 ## Source index — what each document is
 
 | Document | Type | ~words | What it holds |
@@ -37,3 +44,7 @@ All 13 source files extracted successfully (~46,000 words total).
 - **Partly mined:** Cartosa Guida (pp.16–31 pending), Cartosa.doc, Gaerwath.doc.
 - **Not yet mined:** LIBRO ROSSO, Maraviglie, Edizione Straordinaria, Qi-Long,
   Sadhir, Armora, Helgedad. → tracked in `../../NOTES.md`.
+- **Fandom wiki (`wiki-worldofymir/`):** imported in full, **not yet mined into
+  `canon/`**. It is the single largest source and covers cosmology, history,
+  regions, races, creatures, items, religion, and campaign write-ups — a major
+  Phase-1 extraction pass in its own right. → tracked in `../../NOTES.md`.

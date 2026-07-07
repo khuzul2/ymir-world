@@ -1,0 +1,27 @@
+# Religione Elfi
+
+- **Source:** https://worldofymir.fandom.com/wiki/Religione_Elfi
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2010-10-30T13:41:25Z
+
+---
+
+Gli Elfi affermano di provenire da un luogo che chiamano _Niethel_ (“La Fonte”), dove vivevano assieme ai loro dei. Quando viveva in questa sorta di paradiso terrestre, il popolo degli elfi non conosceva la morte e non doveva preoccuparsi né della fame, né della sete, poiché si cibava del nettare degli dei. Quest'età dorata, però, non era destinata a durare in eterno. Gli elfi si macchiarono di una grave colpa, per la quale furono cacciati da _Niethel_ e allontanati dalla presenza degli dei, che conferiva loro la vita eterna. Nessuno sa esattamente quale sia il motivo che abbia spinto gli dei ad un simile atto, ma ogni fazione elfica ha la propria teoria.
+
+Gli Elfi Chiari affermano che la causa dell'Esilio (_Shulma)_ sia Fearin, uno dei primissimi re degli Elfi Oscuri, che per primo forgiò un'arma e la levo contro un proprio fratello elfo, inventando la guerra e attirando l'ira degli dei.
+
+Secondo la teologia degli Elfi Oscuri, invece, essa andrebbe attribuita ad un ambizioso antenato della regina Inanna, che sedusse il popolo elfico e lo condusse in una rivolta contro gli dei.
+
+I testi degli Elfi Illuminati, invece, asseriscono che fra il popolo degli elfi nacque la discordia e che essa rese il loro spirito impuro e indegno della Fonte. Per questo motivo gli elfi si autoimposero la _Shulma_ , venendo su Ymir per ricercare attraverso una vita mortale l'equilibrio spirituale.
+
+Comunque sia andata la vicenda, i libri sacri degli elfi contengono una profezia, consegnata agli elfi subito prima dell'esilio. Essa parla di un Sacro Regno, all'interno del quale gli elfi dovranno aspettare un Messaggero, che annuncerà il ritorno degli dei e dell'età beata. Questa profezia e la sua differente interpretazione è la principale causa della divisione interna fra gli elfi e della nascita delle tre “fazioni” (chiamate dagli elfi _“Nhos”_ , ovvero “Gruppi”), di cui si parla nella sezione “Razze”.
+
+**La Fonte e gli dei**
+
+La Fonte occupa il posto principale nel culto di tutti gli elfi ed è anche il concetto più vicino a quello di “divinità” esistente nella loro religione. Le entità chiamate da loro _Firìn_ (“Dei” o, più letteralmente, “Trapassati”) sono invece più simili a santi-patroni o spiriti protettori. Si tratta degli spiriti di grandi elfi del passato, che sono divenuti immortali e vegliano su un particolare aspetto della vita. Per gli elfi, è dunque possibile, _diventare_ un dio, sebbene solo i più meritevoli vi riescano.
+
+**Sacerdote della Fonte**(Ibrido Flusso/Essenza)
+
+Prime Stats: Em/In
+
+Liste: Mana Warriors, Banishments, Divine Magic, Holy Element (Mana), Channels, Divine Aura, Life Mastery, Protections, Planar Summons, Nature Domination
