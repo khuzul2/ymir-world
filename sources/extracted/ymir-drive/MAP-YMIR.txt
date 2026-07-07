@@ -1,0 +1,61 @@
+SOURCE: Google Drive — YMIR.png (world map) (fileId 0B51K1jhM2wrFY3d1enhVck5VWms)
+
+EXTRACTION NOTE: mcp__Google_Drive__read_file_content returned an EMPTY string
+for this PNG on repeated attempts (no OCR/description was produced by the Drive
+service). The image was instead retrieved via download_file_content, decoded from
+base64 to a 4429x2953 PNG, and read visually with the image-capable Read tool.
+The description and labels below are transcribed from that direct visual reading.
+
+DESCRIPTION:
+YMIR world map. A full-world political/geographic map drawn in a simple two-tone
+style: dusty rose / tan landmasses on a pale blue-green sea, with dark grey-brown
+text labels. A scale bar in the lower-left reads "2000 km", indicating a very
+large (planet-scale) map. Labels curve to follow coastlines and landmass shapes.
+
+Continents and lands (roughly west to east):
+- Letia — large western continent. Its northern region is labelled "Regni
+  Belligeranti"; its southwestern peninsula/arm is labelled "Regni Giovani"
+  (the two "Regni" names read as sub-regions/realms of Letia).
+- Helgedad — a landmass/peninsula in the north-central sea, just south of the
+  Cold Maelstrom.
+- Erg — large central continent. Its southern portion is labelled "Sadhir".
+- Meridian and Cartosa — a pair of small islands in the sea between Letia and Erg.
+- Gaerwath — a ring / rose-shaped archipelago of scattered small islands in the
+  central ocean, east of Erg.
+- Qi-Long — large landmass in the northeast / east.
+- Ophiur — landmass in the east / southeast.
+- Xebech — the name appears TWICE: a small island off the far-west coast, and a
+  large landmass in the southeast.
+
+Ocean / maelstrom features:
+- Cold Maelstrom — a circular whirlpool-like ring of scattered islets in the far
+  north.
+- Hot Maelstrom — a matching circular whirlpool/atoll ring formation in the far
+  south.
+
+Map-margin climatic border zones (labels running along the outer edges, denoting
+off-map bands rather than specific landmasses):
+- Frozen Lands — along the top edge (appears twice: upper-left and upper-right).
+- Obsidian Lands — along the bottom edge (appears twice: lower-left and lower-right).
+
+LABELS READ:
+- Frozen Lands (top-left margin)
+- Frozen Lands (top-right margin)
+- Cold Maelstrom (north-central ocean, ring of islets)
+- Helgedad (north-central land/peninsula)
+- Qi-Long (large northeastern/eastern landmass)
+- Gaerwath (central ring-shaped archipelago)
+- Regni Belligeranti (northern region of Letia)
+- Letia (large western continent)
+- Regni Giovani (southwestern arm of Letia, text runs vertically)
+- Meridian (small island, center-left sea)
+- Cartosa (small island, center-left sea)
+- Erg (large central continent)
+- Ophiur (eastern/southeastern landmass)
+- Xebech (small island, far-west coast)
+- Xebech (large landmass, southeast)
+- Sadhir (southern region of Erg)
+- Hot Maelstrom (south-central ocean, ring of islets)
+- Obsidian Lands (bottom-left margin)
+- Obsidian Lands (bottom-right margin)
+- 2000 km (scale bar, lower-left)

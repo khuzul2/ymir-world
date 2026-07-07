@@ -1,0 +1,47 @@
+SOURCE: Google Drive — House Rules.docx — Forgiven Lands campaign (POSSIBLY NOT YMIR) (fileId 0B51K1jhM2wrFQk9VWHB1cG8ySFk)
+
+House Rules
+
+Mages
+
+i maghi cominciano con 4pf, poi ne guadagnano 1d4/lvl come da manuale
+
+la tabella della progressione degli incantesimi mostra quali incantesimi possono imparare senza rischi. Per esempio, un mago di primo può imparare 1 incantesimo di 1° senza rischi. Uno di 2° due di primo, e così via.
+
+i maghi possono cercare di imparare incantesimi oltre il loro limite, ma ogni volta rischiano. Se provano a imparare un incantesimo fuori dal loro limite devono fare un TS contro la Morte. Se falliscono succede qualcosa di brutto (follia, perdita di stat, corruzione, ci dobbiamo inventare qualcosa)
+
+possono cercare di imparare incantesimi sopra il loro livello, ma hanno una penalità di -10% alla prova per livello sopra quello che potrebbero imparare. Devono fare il TS anche se sbagliano a impararlo.
+
+possono lanciare tutti gli incantesimi che conoscono, al costo di 1pf/lvl dell'incantesimo. Per lanciare incantesimi di livello sopra il loro devono prima pagare, poi fare una prova di apprendimento incantesimi (senza penalità).
+
+i maghi non possono essere né guariti, né riportati in vita dai chierici. I poteri con cui si baloccano non sono visti di buon occhio dagli dei. Alla morte, l'anima del mago viene trascinata nell'oltretomba dagli oscuri poteri a cui si è dedicato e non può essere salvata (il che spiega anche perché molti maghi si dedicano alla ricerca dell'immortalità...).
+
+I maghi non possono avere più di 14 di Con (per evitare incantesimi extra/lvl, specie per i multiclasse)
+
+I maghi non possono essere Legali.
+
+Hovering on death’s door
+
+If at 0 hp lose 1 hp per round unless stabilized. Dies at –CO
+
+Healing
+
+Characters recover half their level (rounded up) in HPs per night of rest if they're camping in the wilderness or other dangerous areas. They recover 1+level Hps per night of rest if they're in a safe or comfortable environment.
+
+Colpi Critici
+
+Se un personaggio ottiene un 20 naturale con il Tiro per Colpire, tira sulla Tabella dei Colpi Critici
+
+I Guerrieri ottengono un Colpo Critico anche con un 19 naturale, se gli basta a colpire il loro avversario.
+
+PX Max
+
+Ogni personaggio guadagna 1PX per ogni ma spesa in attività relative alla sua classe:
+
+Guerrieri e Ranger: allenamento; armi e armature; addestramento truppe; costruzione fortificazioni
+
+Paladini e Sacerdoti: donazioni alla chiesa; reliquie sacre; rituali e sacrifici; evangelizzazione discepoli; costruzione templi e santuari
+
+Maghi: ricerca; componenti magiche; riti arcani; insegnamento apprendisti; costruzione laboratori e biblioteche
+
+Ladri e Bardi: baldoria; attrezzi del mestiere; costruzione rete di contatti e corruzione; addestramento apprendisti; costruzione nascondigli o punti di ritrovo.
