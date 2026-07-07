@@ -36,6 +36,12 @@ Working memory of the project. Items move out of here into `canon/` once settled
   is now a design directive for the manual. Logged in `geography.md`.
 - ✅ **Contributors** — treat the project as **independent** of how many people/
   campaigns fed it. (We still tag which *document* a fact came from, for traceability.)
+- ✅ **No "campaign present."** The manual is a **world/lore/setting book**, *not* a metaplot:
+  it presents the **full timeline**, and each group decides when to set their campaign. The
+  implicit "now" is just the **most recent known lore** (and moves forward if newer lore is
+  added) — but that's incidental; what matters is coverage is **denser where the sources are
+  denser**. So there is nothing to "pick" between the ~3025 Great War and the Era della Marea —
+  both are simply points on the timeline. → `history.md`, `manual/OUTLINE.md`.
 
 ## ✅ Google Drive corpus (pulled & reconciled 2026-07-07)
 A second, much larger batch was pulled from the Drive "Ymir" folder tree into
@@ -110,10 +116,6 @@ Player Guide (see Contradictions below). What it added:
   `[CONFLICT]` tags throughout).
 
 ## ❓ Foundational questions still open
-- ❓ **Campaign present / "now".** Two candidates: the **~3025 d.M.** "Great War in
-  the Young Kingdoms" (where the Player Guide ends) or the **post-seal Era della
-  Marea** frontier (where the Cartosa book ends, with portals reopening and the
-  Bewitched Tide). Which is the manual's default present? (Big framing choice.)
 - ❓ **Manual language.** Sources are in **Italian**; you write to me in English.
   Should the finished manual be **Italian, English, or bilingual**? (Proper nouns
   stay as-is either way.)
@@ -122,9 +124,10 @@ Player Guide (see Contradictions below). What it added:
 
 ## ⚔️ Contradictions logged
 - ⚔️ **World spelling:** "Ymir" vs "Yimir" across docs → standardising on **Ymir**.
-- ⚔️ **Who reigns in Cartosa:** the gazetteer says Prince **Rodriguez XIII** (heir
-  Alberto V); the timeline says **Alberto V** acceded in 3017. → `characters.md`.
-  Likely a document-date offset; resolve against the chosen "campaign present."
+- ✅ **Who reigns in Cartosa** *(resolved by the no-fixed-present decision):* the gazetteer
+  describes Cartosa under Prince **Rodriguez XIII** (heir Alberto V); the timeline has **Alberto
+  V** acceding in **3017 d.M.** These are just different points on one timeline — the gazetteer
+  depicts Cartosa *before* 3017, the timeline carries *past* it — not a contradiction. → `characters.md`.
 - ⚔️ **"la Marea" vs "il Maelstrom":** the Dark Elf doc references "la Marea" as a
   past cutting-off event, while the era **d.M.** = *dopo il Maelstrom* and the new
   **Era della Marea** is a distinct later event. Need to confirm the Dark Elves'

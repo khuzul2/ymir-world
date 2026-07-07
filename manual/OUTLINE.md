@@ -8,6 +8,11 @@ tells us what Ymir actually is. Each chapter is drafted from the matching
 The manual is a single **layered** document: written for players, with
 clearly boxed **GM-only** sections for secrets, hidden history, and plot hooks.
 
+**No fixed "present."** Ymir is a *setting*, not a metaplot: the manual presents the
+**whole timeline** and lets each group choose when to set their campaign. The latest
+known lore is simply the far end of what's recorded (and shifts forward if newer lore is
+added) — coverage is **denser where the sources are denser**, thinner elsewhere.
+
 ---
 
 ## Part I — The World at a Glance
@@ -26,7 +31,8 @@ clearly boxed **GM-only** sections for secrets, hidden history, and plot hooks.
 ## Part III — Land & History
 6. **The Lay of the Land** — gazetteer: continents, regions, key cities, maps.
    *(from `canon/geography.md`)*
-7. **Ages of Ymir** — timeline and the great events that shaped it.
+7. **Ages of Ymir** — the full timeline and the great events that shaped it, presented as
+   a whole so a GM can set a campaign in any era (denser where the lore is denser).
    *(from `canon/history.md`)*
 8. **The Calendar & the Turning Year** — time, seasons, festivals.
    *(from `canon/calendar.md`)*

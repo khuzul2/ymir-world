@@ -54,10 +54,11 @@
 
 ---
 ### Open questions / notes
-- `[CONFLICT]` The Cartosa gazetteer names **Rodriguez XIII** as the sitting Prince
-  with **Alberto V** as heir, while the world timeline has **Alberto V** *succeeding*
-  in 3017. Likely the book was written just before Alberto's accession, or the two
-  were composed at different in-world dates. Reconcile against a firm "campaign present."
+- ✅ **Cartosa's prince** *(resolved by the no-fixed-present decision, → `NOTES.md`)*: the
+  gazetteer describes Cartosa under **Rodriguez Carrillo XIII** (heir **Alberto V**); the
+  timeline has **Alberto V** acceding in the Anno del Sole Nero (**3017 d.M.**). With the manual
+  presenting the whole timeline, these aren't rival "presents" to choose between — the gazetteer
+  depicts Cartosa *before* 3017, the timeline carries *past* it; both hold at their dates.
 - Most figures are known only from a single line; famous **player characters** who
   became part of Ymir's canon are not yet recorded — a prime thing to collect from
   you and your friends.

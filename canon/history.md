@@ -158,7 +158,7 @@
   Letia**, the **Granduca/Tecnocrate of Armora**, and the **Grande Khan of the
   Orchi** each read it as an omen and move toward war. *(Cartosa)*
 
-## Era V — L'Era della Marea (The Age of the Tide) `[CANON — the current era]`
+## Era V — L'Era della Marea (The Age of the Tide) `[CANON — the latest recorded era]`
 
 - **Year 0 (Era della Marea)** — two unnamed adventurers use the **six Reliquie
   Divine** (Divine Relics) to strip the seals from the ancient **Rune del Potere**
@@ -166,16 +166,17 @@
   isolamento**" (isolation bell) — which kept demons out, portals dead, and people
   in — **shatters.** All the Adepts' portals reactivate at once. From the Maelstrom
   a chaotic magical storm sweeps over Ymir, later called the **Marea Stregata**
-  (the Bewitched Tide). *(Cartosa — the campaign-present frontier of canon.)*
+  (the Bewitched Tide). *(Cartosa — the latest point on the recorded timeline.)*
 
 ---
 ### Open questions & notes
 - **The Adepti's fate** is an explicit in-world mystery: are they truly gone?
   What was the Maelstrom's true purpose? *(Player Guide p.2)*
 - The two source chronologies agree well; Cartosa adds local detail and carries
-  the world past the Player Guide's endpoint into the Era della Marea. Whether the
-  campaigns should be set in the ~3025 "Great War" present or the post-Tide frontier
-  is a **design decision for the manual** → `NOTES.md`.
+  the world past the Player Guide's endpoint into the Era della Marea. `[DECISION]` **The
+  manual has no fixed "present"** — it presents the *whole* timeline so a group can set a
+  campaign in any era; the latest recorded event (the dawn of the Era della Marea) is simply
+  the far end of what we know, and coverage is denser where the lore is denser. → `NOTES.md`.
 - Several named events still need their own entries once regional docs are fully
   mined (Helgedad's Wolves, the Groviglio, Kyria's Mists, the Sadhir's Shimmering
   Desert, Qi-Long's Dragon-Gods).
