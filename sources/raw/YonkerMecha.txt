@@ -1,0 +1,24 @@
+4 --> humanoid
+0 --> Bronze
+x1.5--> Large (3m)
+0 --> Velocità Media
+0 --> Portanza 250kg
+0 --> Critico 
+0 --> BO
++1 --> Riding (+10 Ride)
+
+TOTAL CREATION LEVEL: 7
+
+
+TA 20
+BD 10
+BO 85 (x2)
+PF 180
+Crit La#
+Iniz:+0
+
+LEVEL: 4°
+
+Empowerment: Lesser Earth Elemental
+
+Powers: Minor Attack (+5 BO)

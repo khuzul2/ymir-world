@@ -1,0 +1,21 @@
+Uccisore Meccanico
+
+Shape: +6 (insetto --> Scolopendra)
+Material: +8 (Steel IV)
+Size: x1,5 (Large)
+Speed: +2
+Attack: +5 (+4 BO/ +1 Size/ +4 BO)
+Bladed Tail: +1
+All-Around Vision: +1
+Poison: +1
+
+Demonic Empowerment: +10 (Lesser Attack (+10 BO); Lesser Swiftness (+5 Ini))
+
+Totale: 44
+
+Liv: 14°
+TA: 20 (BD: 70)
+PF: 300
+BO: 130LPi[Poison]/ 130LBa[Slash]
+Iniz: +21
+Size: La#
