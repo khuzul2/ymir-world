@@ -176,10 +176,40 @@ Cartosa's twin and rival; a **Republic** ruled by a Public Assembly and elected
 President. Founded 1420; long cycle of revolt, conquest (annexed 2830), and partial
 re-independence (3023). Sea-god and elemental cults; Mithraism (popular form) common.
 
+`[CONFLICT]` The imported wiki page "**Cartosa e Meridian**" treats **Meridian** not as an
+independent republic but as "the great city of Meridian," a river-port **within** the Principality
+of Cartosa's territory near the interior mountains — `[INFERRED]` a snapshot from the **annexation
+era (2830–3023)**, before the re-independence of 3023 recorded in existing canon *(wiki: Cartosa e
+Meridian)*.
+
 ### Qi-Long (the East) `[CANON — Qi-Long.docx "Onore e Memoria", not fully mined]`
 Unified under the **Mah-Dhol empire** (~1290), which **fell 1900–1920**, splitting it
 into **6 kingdoms**; the **Dei-Drago (Dragon-Gods)** appeared. `[INFERRED]` the
 eastern, honour-culture region (the doc title translates "Honour and Memory").
+
+**The six provinces.** `[CANON]` ~900 million — the most populous land in Ymir. It is now
+organised as **six provinces, each ruled by one of the Grandi Sette Imperiali (Great Imperial
+Sects)** *(wiki: Qi-Long)*:
+- **Pianura del Sud** (Southern Plain) — **Scuola della Via Celeste** (Celestial Way), the
+  empire's mightiest mages and sorcerers.
+- **Onde dell'Ovest** (Western Waves) — **Setta dell'Acqua Pura** (Pure Water), alchemists and
+  druids.
+- **Regno Centrale** (Central Kingdom) — **Setta della Via della Fiamma Imperitura** (Undying
+  Flame), the deadliest monks and fighters.
+- **Barriera dell'Est** (Eastern Barrier) — **Clan della Montagna Inviolata** (Inviolate
+  Mountain), wildland barbarians and rangers.
+- **Nuvole del Nord** (Northern Clouds) — **Tempio del Picco Gelato** (Frozen Peak), clerics and
+  paladins.
+- **Provincia Imperiale** — **Scuola del Padiglione Dorato** (Golden Pavilion), officially bards
+  and minstrels, in truth the empire's greatest thieves' guild.
+Countless minor schools and sects, bound by imperial law under the Great Sects, regulate every
+affair. Over all reigns the hidden **Dio-Drago** (Dragon-God) emperor from the capital **Tianqi**,
+seen only by the six sect-lords `[CANON]` *(wiki: Qi-Long)*. Tone: eastern honour-and-sect culture.
+→ `factions.md`
+`[CONFLICT]` Existing canon has Qi-Long **fragmented into 6 kingdoms** after the Mah-Dhol empire
+fell (1900–1920), with plural **Dei-Drago**; the wiki describes a **single unified empire** of 6
+provinces under one **Dio-Drago** at Tianqi — `[INFERRED]` a later re-unification, or two views of
+the same six-fold division.
 
 ### Xebech `[CANON]`
 Homeland of the **Xebechani**; jungle cities. Its northern part, lost in a 75-year
@@ -193,14 +223,86 @@ alien/reptilian, ancient half-forgotten technology. → `peoples.md`
 - **Gaerwath** — land of the **Dark Elves**; unified under **Morannagul** (2550).
   Warred with Alfheim (Second Elven War, 2080–2115). → `peoples.md`
 
+**Alfheim — a conflict of lore.** `[CONFLICT]` The imported wiki (spelling it **Al'Fehim**)
+describes it not as an independent light-elf kingdom but as a **protectorate of the Gaerwath** on
+the **north-west border of Qi-Long**, and one of Ymir's chief producers of **Loto Nero** (Black
+Lotus) *(wiki: Alfheim)*. This squarely contradicts the existing "vast independent light-elf
+forest realm under a queen." `[INFERRED]` Either Alfheim was later brought under dark-elf sway, or
+the wiki's "Al'Fehim" is a distinct place; see `NOTES.md`.
+
+**Gaerwath — the Sea of Sorcery.** `[CANON]` Elvish for "Sea of Sorcery/Witchcraft"; ~50 million
+elves in 3000 d.M., fallen to ~35 million by 3500 *(wiki: Gaerwath)*. Not always an archipelago —
+before the **Catastrophe** it was joined to the continent together with the **Isole d'Argento**;
+now storm-walled seas of treacherous currents bar all but expert or magic-driven ships, and none
+cross without an elven guide. Each island is given over almost wholly to a **dark-elf city** of
+"dark beauty," the cities (and, some say, the islands) linked by underground roads and magical
+bridges; **orc and human slaves** serve throughout. Magic is the ground of life — to lack it is to
+be outcast or slave — and the noble **houses**, each specialised in one art (alchemy, espionage,
+trade), war ceaselessly by intrigue.
+**Society & faith.** `[CANON]` Rigidly racist: **Elar** (Elves) over rightless **Nemyel**
+(Non-Elves). Elves form **Lyar** (clans) ranked in three **Nath** castes — the imperial
+**Galadlyan**, the high **Celeblyar**, the lesser **Mallyar**; patriarchal, with arranged lifelong
+marriages and up to five concubines each. They believe they were exiled from **Niethel** ("The
+Source," a deathless paradise with their gods) for an ancient sin, and that **Ymir is the promised
+Sacred Realm** they must claim to hasten a divine **Messenger's** return; chief gods **Valrin**
+(holy-war) and **Myethel** (magic/oracles), with the Emperor also high pontiff. → `peoples.md`,
+`pantheon.md`
+**The five factions.** `[CANON]` Between 3000–3500 d.M. Gaerwath split over the road to
+immortality/Niethel into five factions *(wiki: Gaerwath)*: **Meccanisti** (mechanomagic
+body-replacement, seeded by king **Morannagul l'Eterno**, r. 2198–3131, drawing on Armora's
+science), **Demonologi** (demon-pacts, risen after physical demon-contact in **3026**), **Biomanti**
+(the "genomagic" purity-cult of the Circolo dei Puristi), **Sognatori** (Dreamers seeking a point
+in the World of Dreams), and the shunned **Necromanti** (founded by the lich **Wehyrr il
+Maledetto**, importing death-lore from **Khorish**). In **3131** the Demonologists engineered the
+**Fall of Morannagul**, whose soul a summoned Demon Lord bore into the plane of Chaos. Tone:
+dark-demonic elf archipelago of intrigue and forbidden magic. → `factions.md`, `peoples.md`
+`[CONFLICT]` Existing canon dates Morannagul's unification of the Dark Elves to **2550**; the wiki
+has him reigning from **2198** *(wiki: Gaerwath)* — reconcilable if his reign opened in 2198 and
+unification completed later.
+
 ### The Sadhir & the Grande Erg (deserts) `[CANON — Sadhir gazetteer, not fully mined]`
 Desert lands. The **Deserto Scintillante** (Shimmering Desert) appeared in the Sadhir
 ~2400. In the **Grande Erg**, King **Athmokethepek I** founded the kingdom of
 **Khorish** (2160–2180).
 
+**The Sadhir.** `[CANON]` ~18 million; a **young** desert, made when the **Catastrophe** withdrew
+the sea from what had been a small archipelago *(wiki: Sadhir)*. Only its two great cities,
+**Al-Jasul** and **Al-Sidath**, predate the cataclysm; elsewhere lie small settlements and nomad
+camps. At its heart the **Deserto Scintillante** (Shimmering Desert) — sand laced with salt that
+throws up strange mirages — is said to **spread a few centimetres a year**, a slow threat to every
+desert people.
+**The Grande Erg.** `[CANON]` ~20 million; the largest desert in Ymir, prized by merchants for
+perfumes, spices, exotic woods and oils, and above all **Loto Nero** (Black Lotus), the
+mind-opening, magic-boosting drug-flower. It borders the **Regni Giovani**, and falls into three
+zones *(wiki: Il Grande Erg)*:
+- **Ulan-Tang** — a city-state on a rocky hill by the river **Tang**; once a free city of the
+  goddess **Ishtar**, now a lawless place of corruption ruled from the great temple of **Yogh**,
+  the dark spider-god, by High Priest **Sazar-Gadash the Sorcerer** (rumoured a demon's — even
+  Asmodeus's — son, having murdered his predecessor Azim-Mulath). Its great families each wear
+  their colours: **Ishra** (red, mages/summoners), **Tyarreth** (olive, alchemists and
+  drug-sellers), **Miraz** (blue, seers and spies), **Gaib** (black, shadow-illusionists tied to
+  the Azar-Kalish) and **Gadash** (purple, now holding the temple). (Also the site of the ancient
+  portal that drew in Sguardo-sul-Nulla — see *Mysterious places* below.)
+- **Distesa Arida** (Arid Expanse) — endless dunes broken by oases, all but empty save nomad camps
+  of Ur-Tanoth, Men and Orcs.
+- **Regno di Khorish** (spelled **Korish** on the wiki) — small but ancient realm along part of the
+  Erg's coast, ruled by the two immortal **Faraoni Eterni** (Eternal Pharaohs), **Athmokethepek I**
+  and his wife **Nefthi**, who demand worship as gods on earth. **Necromancy** is common: the dead
+  are raised by priest-officials to serve the pharaohs forever. → `factions.md`, `peoples.md`
+`[CONFLICT]` Existing canon dates Khorish's founding to **2160–2180** under Athmokethepek I alone;
+the wiki puts it near the **end of the 23rd century** and adds co-ruler **Nefthi**, spelling the
+realm **Korish** *(wiki: Il Grande Erg)*.
+
 ### Isole d'Argento (Silver Isles) `[CANON]`
 Island realm of the **Folletti**; capital **Elendor**, home of the world **Council of
 Peoples** and its **Seggio di Cristallo** (Crystal Seat, built 2590–2595). → `factions.md`
+
+**Details.** `[CANON]` ~1.2 million — **Faeries (Folletti), Elves and Sohleguir** (lizard-folk); a
+mild-tempered archipelago **south-east of Letia** *(wiki: Isole d'Argento)*. It holds the greatest
+**Folletti** kingdom on Ymir, capital **Elendor** (home of the **Seggio di Cristallo**), and, on
+its southern isles, a small flourishing **duchy of Uomini Lucertola** (Lizard-Men) on good terms
+with the faeries. It has fended off past aggression from neighbouring **Gaerwath** without ever
+being invaded, and is generally regarded as **neutral ground**. → `peoples.md`
 
 ### Mysterious / dangerous places `[CANON]`
 - **il Groviglio (the Tangle)** — a forest with the **Cuore del Caos** (Heart of
