@@ -20,6 +20,7 @@ bridge between the raw pile in `sources/` and the polished chapters in `manual/`
 | `pantheon.md` | Gods, spirits, religions, worship |
 | `magic.md` | How magic works in-world; rules, limits, traditions |
 | `bestiary.md` | Creatures, monsters, notable beasts |
+| `items.md` | Arms, armour, magic materials, artefacts, herbs, wonders |
 | `characters.md` | Named NPCs and famous player characters |
 | `calendar.md` | Calendar, cosmological cycles, festivals |
 

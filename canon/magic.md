@@ -41,7 +41,15 @@ The Maelstrom warps all magic near the Central Ocean:
 - **Tempeste Arcane (Arcane Storms):** periodic magical storms channel energies from
   other dimensions across the Central Ocean.
 - **Il Marchio (the Mark):** magic in the womb mutates some newborns (**Marchiati**).
-→ `cosmology.md`
+- **Magia Selvaggia (Wild Magic):** *(wiki: Cosmologia, Maelstrom)* near the vortex
+  spells can run wild — surging, warping, or misfiring — as raw arcane energy bleeds
+  through; the same energy sediments into **Materiali Incantati** (enchanted matter,
+  → `items.md`) and throws off **Aberrazioni** (magical mishaps and mutant life,
+  → `bestiary.md`).
+→ `cosmology.md`. In the **Era della Marea** the Maelstrom's seal breaks and a
+Wild-Magic storm — the **Marea Stregata (Bewitched Tide)** — sweeps the world; the
+**Giorno della Liberazione** and the lingering **Risonanza Eterea** (Ethereal
+Resonance) that follow it are chronicled in → `history.md`.
 
 ## Magic in society `[CANON — Cartosa Guida pp.9–10]`
 Magic is practised **openly** in the civilised south, but regarded with reverent fear
@@ -58,10 +66,31 @@ matters (though whispered of in houses like Gibraleon and mastered by the Dark E
 - **The Vere Vie (True Ways)** — the Xebechani portal network (built ~1400–1500 d.M.).
 - **The Adepts' portals** — dormant behind the Maelstrom's seal until the Era della
   Marea reactivates them all. → `history.md`
-- **The six Reliquie Divine (Divine Relics)** and the **Rune del Potere (Runes of
-  Power)** — the artefacts whose misuse ends the age and looses the Bewitched Tide.
+- **The six Reliquie Divine / Reliquie del Potere (Divine Relics)** — named on the
+  wiki as **Ignus, Saralis, Meletskar, Tassalung, Natharien,** and **Oedring** — and
+  the **Rune del Potere / Rune Magiche (Runes of Power)** they unseal: the artefacts
+  whose misuse ends the age and looses the Bewitched Tide. *(wiki: PG di Ymir, La
+  Leggenda delle Rune Magiche)* → `history.md`, `characters.md`.
+- **Named artefacts, magic metals & wonders** — the catalogue of enchanted arms,
+  armour, materials, herbs, scrolls, staves and relics has its own file → `items.md`.
 - **Djinn** — Spirits given fixed form with **mana** to prevent their corruption
   (bound to place, object, or task). → `cosmology.md`
+
+## Magic across the peoples & realms `[CANON/INFERRED — wiki]`
+Ymir's regions each bend magic to their own character (→ `geography.md`):
+- **Armora (the Young Kingdoms)** — a technocracy of **Meccanomagia** and
+  **Genomagia** (machine- and life-shaping magic), fusing arcane craft with
+  engineering. → `geography.md`, `factions.md`.
+- **The Gaerwath Dark Elves** — masters of **summoning and binding** extraplanar
+  **Valrin** (mostly demons) and of hoarding pulverised Essence (**Arvo**); their
+  immortality-seeking schools include the Demonologi, Biomanti, Necromanti and
+  Sognatori. → `peoples.md`, `factions.md`.
+- **The Xebechani** — half-forgotten techno-magic: the **Pozze (Pools)** that grow
+  new Xebechani, and the **Vere Vie** portal network. → `peoples.md`.
+- **Qi-Long** — martial-mystic traditions and the sorcery of the Dragon-Gods.
+  → `geography.md`, `factions.md`.
+- **Zohàriti & Vlatch** — outlier arts: psionic tree-cults and a parasitic
+  **Chronomancy**. `[INFERRED]` → `peoples.md`, `cosmology.md`.
 
 ---
 ### Open questions

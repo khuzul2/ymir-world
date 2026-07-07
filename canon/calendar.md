@@ -46,13 +46,24 @@ and the shattering of the Maelstrom's isolation. → `history.md`.
 
 `[CONFLICT]` The Cartosa gazetteer once spells the world "**Yimir**" and elsewhere
 "**Ymir**"; the Player Guide also has one "Yimir". Treating **Ymir** as canonical
-spelling. Logged for the ledger.
+spelling. (The whole Fandom wiki spells the world "Yimir" — see `NOTES.md`.)
+
+## The moons & celestial omens
+
+`[CANON/INFERRED]` **Ishtar** is the goddess of the Moon (→ `pantheon.md`), implying
+at least one moon over Ymir. `[CANON]` *(wiki: Cronologia)* A **newly-appeared moon**
+has lately risen that the **Tanoth** and **elves** read as tied to the forgotten gods
+and to the elven **Prophecy** of the Messenger; `[CANON]` at the dawn of the **Era
+della Marea** a **red moon (luna rossa)** rises over Cartosa and is taken across the
+world as an omen of war *(Cartosa; wiki: L'Era della Marea)*. `[CONFLICT]` Whether the
+reddening moon and the newly-appeared moon are the **same body** — and so whether Ymir
+now has two moons — is unresolved. → `history.md`, `pantheon.md`.
 
 ---
 ### Open questions
 - Are there named days of the week, or festivals/holy days tied to specific
   months? (Cartosa mentions "giorni di festa" with temple charity but names none;
   a festival calendar may appear in unmined regional docs.)
-- Moons: **Ishtar** is "goddess of the Moon" (one moon implied) but the Cartosa
-  timeline mentions a portentous "**luna rossa**" (red moon) in 3026 d.M. — one
-  moon that reddens, or a second body? → flag for pantheon/astronomy.
+- Moons: is the **red moon** of the Era della Marea the same as the **newly-appeared
+  moon** the Tanoth and elves tie to the Prophecy — one body that reddens, or a
+  second moon? See "The moons & celestial omens" above. → `history.md`.

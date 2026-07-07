@@ -42,11 +42,13 @@ clearly boxed **GM-only** sections for secrets, hidden history, and plot hooks.
 ## Part V — Danger & Wonder
 12. **Bestiary** — the creatures of Ymir.
     *(from `canon/bestiary.md`)*
-13. **Threats & Mysteries** — GM-facing: the hidden dangers and unanswered questions.
+13. **Arms, Materials & Wonders** — signature weapons, magic metals & stones, herbs,
+    scrolls, and named relics. *(from `canon/items.md`)*
+14. **Threats & Mysteries** — GM-facing: the hidden dangers and unanswered questions.
 
 ## Part VI — Running Games in Ymir *(GM section)*
-14. **Adventure Seeds & Campaign Frames** — hooks and ready-to-run situations.
-15. **Secrets of Ymir** — the truths behind the myths, for GM eyes only.
+15. **Adventure Seeds & Campaign Frames** — hooks and ready-to-run situations.
+16. **Secrets of Ymir** — the truths behind the myths, for GM eyes only.
 
 ## Appendices
 - A. Glossary & pronunciation

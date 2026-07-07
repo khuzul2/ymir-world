@@ -307,17 +307,53 @@ being invaded, and is generally regarded as **neutral ground**. → `peoples.md`
 ### Mysterious / dangerous places `[CANON]`
 - **il Groviglio (the Tangle)** — a forest with the **Cuore del Caos** (Heart of
   Chaos) at its centre (from 1600 d.M.).
-- **Kyria** — "wrapped in the Mists" ~1710 d.M.; nature unknown.
+- **Kyria** — `[CANON]` a great wild, mist-wrapped island in the **north-west of Ymir**, near
+  Helgedad's latitude but far milder; high mountains and tangled forests *(wiki: Kyria)*. Homeland
+  of the **Tanoth** (who build nothing), it holds a single town, **Thonis**, founded by human and
+  elf refugees. Untouched by the Catastrophe and cut off from the world since the **Demon Wars**,
+  it is so forgotten most of Ymir does not know it exists. (Existing note: entered the Mists ~1710
+  d.M.) → `peoples.md`
 - **Ulan-Tang** — site of an ancient portal; where the outer god **Sguardo-sul-Nulla**
-  was drawn into Ymir (3026 d.M.). → `history.md`
-- **The Maelstrom / former Ragash** — the world's dead centre and greatest hazard.
+  was drawn into Ymir (3026 d.M.). Now also the spider-god **Yogh**'s corrupt desert city-state in
+  the **Grande Erg** (fully described above). → `history.md`
+- **Isola dei Demoni** (Isle of Demons) — `[CANON]` an island raised in Ymir's **southern
+  hemisphere** by the demonic **Invasion of 3026 d.M.**, when contact with the demon world became
+  physical *(wiki: Gaerwath)*. → `cosmology.md`, `history.md`
+- **The Maelstrom / former Ragash** — `[CANON]` the world's dead centre and greatest hazard: a
+  vast tornado of bluish energy scores of kilometres across, from the sea-abyss to the sky, its sea
+  forever storming though its air stands still *(wiki: Maelstrom)*. As a place it curses the whole
+  **Oceano Centrale** with **Tempeste Arcane** (arcane storms drawing power from other dimensions),
+  **wild magic** that empowers yet wrecks spellcasting, deformed **Aberrazioni** in the surrounding
+  waters, and rare **enchanted materials**; it also **breaks long-range teleportation** (failure
+  doubling every 50 km past 100 km) and blinds all divination — so no one travels or scries across
+  Ymir by magic near it. `[INFERRED]` this makes the Maelstrom the master reason Ymir's regions stay
+  isolated. Its birth-marked children, the **Marchiati**, and its deeper metaphysics →
+  `cosmology.md`, `peoples.md`.
 
 ---
 ### Open questions
 - **No world map has been extracted yet** — several source PDFs/docs contain maps
   (Cartosa has a "Mappa del Principato"; Player Guide has 462 embedded images). Map
   extraction is a priority next step so regions can be placed relative to each other.
-- Cardinal placement is only partly known: Letia = north, Cartosa/Meridian = south,
-  Qi-Long = east. Positions of Xebech, the elf lands, the deserts, the Young Kingdoms,
-  Helgedad, and the Silver Isles need the maps.
+- Cardinal placement, now partly filled in by the wiki: **Letia** = north; **Helgedad** = far
+  north (an isle, the coldest land); **Kyria** = north-west, near Helgedad's latitude; **Isole
+  d'Argento** = south-east of Letia, with **Gaerwath** its neighbour (the two were once joined to
+  the continent before the Catastrophe broke Gaerwath into an archipelago); **Qi-Long** = east
+  (capital **Tianqi**), with the wiki's **Al'Fehim/Alfheim** on its north-west border; the **Grande
+  Erg** borders the **Regni Giovani**; **Cartosa/Meridian** = south; the **Isola dei Demoni** lies
+  in the **southern hemisphere**. Still unplaced: **Xebech**, the light-elf **Alfheim** (if distinct
+  from Al'Fehim), the **Sadhir**, and the exact spread of the Young and Belligerent Kingdoms — the
+  maps are still needed.
+- **Alfheim conflict:** independent light-elf forest kingdom (existing canon) vs Gaerwath narcotic
+  **protectorate Al'Fehim** near Qi-Long (wiki) — same place changed over time, or two places? →
+  `NOTES.md`
+- **Qi-Long conflict:** post-Mah-Dhol **6 kingdoms** with plural Dei-Drago (existing) vs one unified
+  empire of **6 provinces** under a single Dio-Drago at Tianqi (wiki).
+- **Helgedad capital:** existing canon says **Nortislong**; the wiki gives no island capital and
+  makes **Kelmar** the largest city. Nortislong is also placed inconsistently (centre-east vs west
+  coast) within the wiki itself.
+- **Meridian status:** independent Republic (existing) vs a city within the Principality (wiki) — a
+  timeframe question around the 2830 annexation / 3023 re-independence.
+- Minor spelling/date variants to reconcile: **Korish/Khorish** and its founding date; **Al'Fehim/
+  Alfheim**; **Sohleguir/Sohleugir**; Morannagul's reign start (2198) vs unification (2550).
 - **Cartosa.doc** vs **Cartosa Guida.pdf** overlap — reconcile when both fully mined.
