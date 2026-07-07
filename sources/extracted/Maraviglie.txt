@@ -1,0 +1,182 @@
+
+
+===== [page 1] =====
+Meraviglie della Tecnica
+Piccola Guida per l 'Acquirente alle più Straordinarie 
+Invenzioni ed Avanzati Artefatti in Commercio nella 
+città di Armora
+
+
+===== [page 2] =====
+Armi da Mischia et da Tiro
+Sputadardi: Arma di aspetto simile all'incrocio fra una 
+balestra e un'arma da fuoco. Ne esistono due versioni: una 
+leggera, che usa la tabella d'attacco della Balestra Leggera, 
+e una più pesante (chiamata Fucile a Dardi), che usa la 
+tabella d'attacco della Balestra Pesante. Entrambe le 
+versioni hanno un caricatore che può portare fino a sei 
+dardi, che immette un nuovo dardo in canna non appena 
+ne viene sparato uno. Ricaricare il caricatore occupa il 
+200% dell'attività (per tutti e sei i dardi). Le Sputadardi 
+sono preferite alle armi da fuoco nel Principato, perché 
+sono più reperibili, più affidabili e sono più silenziose.
+Costo: Sputadardi 50ma; Fucile a Dardi 100ma
+Armi a Polvere Nera: Gli artificieri nanici hanno 
+importato ad Armora pistole e archibugi. Si tratta tuttavia di armi poco diffuse fra gli umani, perché 
+la polvere nera è molto rara e costa molto. Vedi Weapon Law per i dati delle armi a polvere nera.
+Costo: Pistola 25ma; Archibugio 40ma, Polvere Nera: 2ma x colpo
+Chimera (Arco Aeterico): Le Chimera sono una recentissima 
+invenzione armorita (il nome scientifico sarebbe Arco Aeterico, ma 
+solo gli alchimisti lo usano). Simili alle pistole, sono in realtà dei 
+congegni arcani che sparano dei proiettili appositamente incantati. Una 
+volta lanciati, l'incantesimo sul proiettile si aziona, trasformandolo in 
+un “Bolt”. I proiettili sparati in questo modo usano sempre la tabella 
+d'attacco del Fire Bolt, ma i critici inflitti dipendono dall'elemento 
+infuso in essi (esistono 3 tipi di proiettili in commercio: Fuoco, Gelo e 
+Luce, ma è possibile pagare un alchimista perché immetta altri elementi 
+in un colpo speciale). Ricaricare una Chimera occupa l'80% dell'azione.
+Costo: Chimera 50ma; Proiettile: 25ma per proiettile
+Lancia Elettrica: Un corto bastone di metallo, con incorporate alcune giare 
+Leyden, collegate ad un dispositivo sulla punta del bastone, azionato da un 
+grilletto. Quando il grilletto viene premuto rilascia una piccola scarica di 
+energia elettrica, che un colpo critico “A” da elettricità a tutto ciò che tocca 
+la punta della Lancia Elettrica. Di solito viene usata dalle guardie cittadine 
+per mantenere l'ordine e stordire i criminali. Se viene usata come arma 
+contundente usa la tabella d'attacco della Clava (stesso range di fallimento 
+critico; Numeri di Rottura: 1,2,3,4,5,6,7,8,9; Solidità: 45), con un colpo 
+critico addizionale “A” da elettricità. Dopo circa una ventina di utilizzi 
+bisogna cambiare le giare Leyden.
+Costo: 35ma
+Lancia Caeldirita: Un'arma sviluppata nel Caeldir, e utilizzata soprattutto in 
+quel regno. Si tratta di una corta lancia di metallo, collegata a un boiler 
+portatile (che si indossa come uno zaino) tramite un tubo. Può essere usata 
+per colpire di punta (tabella della Lancia, più un colpo critico “B” da Calore) 
+oppure per sparare un getto di vapore bollente (cono lungo 3 metri e largo 
+mezzo alla fine, colpisce come uno Steambolt+20 tutti quelli all'interno). 
+
+
+===== [page 3] =====
+Solitamente è incantata in modo da non necessitare di ricariche.
+Costo: 250ma
+Fiocina Sohleugir: Dispositivo simile ad un fucile, che sfrutta un meccanismo a molla per sparare 
+un lungo arpione, molto diffuso come arma fra gli Uomini Lucertola. Usa la tabella d’attacco del 
+Giavellotto ma ha gittata doppia fuori dall’acqua e normale dentro. È necessario il 100% dell’azione 
+per ricaricare la fiocina. 
+Costo: 25ma
+Armature e altre Protezioni
+Corazza Nanica Meccanizzata: Una corazza di piastre 
+completa, a cui sono stati aggiunti speciali meccanismi per 
+conferire maggior forza ad ogni movimento di chi la indossa. 
+Ciò in teoria dovrebbe dotare i guerrieri in questo tipo di 
+armatura di una forza straordinaria, ma il peso dei meccanismi 
+aggiuntivi ne limita l'efficacia. In pratica, pur proteggendo 
+come una corazza completa (TA20), il peso che grava sul 
+portatore è minore del normale (ingombra come TA17).
+Costo: 400ma
+Scudo da Tiratore: Un pratico strumento di protezione, 
+spesso usato da cecchini e tiratori. Si tratta di una piccola 
+barriera metallica pieghevole, alta circa 30cm e dotata di 
+supporti che le consentono di rimanere in piedi da sola. Un 
+uomo accucciato dietro di essa guadagna una copertura rigida 
+parziale (+30 al BD), pur rimanendo in 
+grado di continuare a sparare. Spesso allo Scudo viene aggiunto un piccolo 
+treppiedi su cui appoggiare l'arma.
+Costo: 8ma
+Armatura Ambientale: Quest'armatura isola completamente chi la indossa 
+dall'ambiente circostante, proteggendolo da temperature estreme 
+(diminuisce di uno la gravità dei critici da Caldo e Freddo) ed impedendo 
+ad acqua/gas di entrare. Il motore portato sulla schiena aziona un 
+meccanismo magico che purifica l'interno dell'Armatura, rifornendolo 
+costantemente di aria fresca.
+Costo: 700ma
+Altri Meccanismi
+Lente Monoculare: Un sistema di lenti comodamente applicabile 
+ad un occhio grazie ad una serie di cinghie che si allacciano dietro 
+la testa. Permettono di scorgere oggetti molto piccoli, oppure molto 
+lontani, con maggior chiarezza. Il primo tipo conferisce un bonus di 
++20 alle manovre di Osservazione su tali oggetti (e un bonus di +10 
+
+
+===== [page 4] =====
+alle manovre di Scassinare o che coinvolgano piccoli meccanismi). Il secondo tipo viene spesso 
+usato dai tiratori e riduce del 20% le penalità al BO con armi a distanza dovute alla gittata.
+Essenziometro: Questa complicata apparecchiatura è in grado di 
+percepire le mutazioni dell'Essenza, segnalando quindi la presenza di 
+incantesimi attivi. Una volta acceso, l'Essenziometro rivela ogni 
+attività magica in un raggio estendibile fino a 30m (l'area può essere 
+regolata tramite un'apposita manopola), comunicando la presenza di 
+tale attività attraverso l'accensione di un apposito vetrino luminoso. È 
+anche dotato di un piccolo ago (simile a quello di una bussola), che 
+indica la direzione della fonte di magia più forte entro il raggio 
+d'azione. Piuttosto ingombranti e pesanti da trasportare, di solito gli 
+Essenziometri sono collegati a sistemi d'allarme, posti nei luoghi dove 
+è vietato il lancio di incantesimi.
+Costo: 350ma
+Giara Leyden: Piccolo e fragile contenitore simile ad una giara di 
+terracotta (da qui il nome). Contiene materiale caricato elettricamente e viene usata come fonte di 
+elettricità per molti Automata.
+Costo: 5ma
+Oniroscopio: L'Oniroscopio è una macchina ancora in fase sperimentale, il cui obiettivo sarebbe 
+quello di indurre un sonno cosciente e di condurre l'utilizzatore nel luogo desiderato del Mondo dei 
+Sogni. Il suo aspetto è quello di una buffa calotta di metallo, munita di un cappuccio di cuoio  che 
+scende fino agli occhi ed è assicurato sotto il mento da un laccio. Il cappuccio è collegato ad una 
+macchina di ferro e legno (grande quando un piccolo zaino) tramite un tubo. Se posto sulla testa 
+prima di dormire, l'Oniroscopio proietta il dormiente nel mondo dei sogni (consuma una giara 
+Leyden ogni utilizzo). Il problema è che non si è ancora in grado di controllare la destinazione 
+all'interno dei sogni e i suoi utilizzatori paiono attirare strani eventi o pericolose creature di quel 
+mondo più spesso dei normali sognatori. Una versione migliorata è in via di sviluppo.
+Costo: 380ma 
+Mezzi di Trasporto
+Ornitottero: Piccolo mezzo volante monoposto, azionato 
+da un motore ad elica magico. Ne esiste anche una 
+versione a due posti, chiamata Bitottero. Vedi Construct 
+Companion per ulteriori informazioni.
+Costo: Ornitottero 250ma; Bitottero 500ma
+Aereonave: Nave volante simile ad un pallone 
+aerostatico, in grado di trasportare da 8 a 20 persone, a 
+seconda della grandezza. Ad Armora esiste anche un 
+servizio di trasporto via aereonave, sebbene sia molto 
+costoso. Secondo alcune voci, esistono prototipi militari di aereonavi in gradi di navigare sia sopra 
+che sotto la superficie del mare, oltre che di volare nel cielo. Vedi CC per dettagli.
+Costo: 2000ma
+Costo Trasporto: 1ma +1mb per km percorso
+Nautilo: Un Nautilo è simile ad una grande nave corazzata di metallo, solo che ha l'incredibile 
+capacità di navigare anche sott’acqua. I Nautili sono in genere posseduti unicamente dall'esercito e 
+
+
+===== [page 5] =====
+non vengono venduti ai civili.
+Carrozza a Vapore: Mezzi a vapore su rotaia di medie dimensioni, sono il modo principale con cui 
+la popolazione si sposta per le strade di Armora. Durante le ore di punta possono diventare piuttosto 
+affollate.
+Costo: un biglietto costa 1mr
+Altri Oggetti
+Carbone Alchemico: Carbone ricavato dal legno di Urakron, una 
+sacco di Carbone Alchemico permette ad un motore di funzionare per 
+il triplo del tempo che impiegherebbe a consumare un sacco di carbone 
+comune.
+Costo: 10ma al sacco
+Set da indagatore: usato da spie e investigatori, comprende lenti, 
+strumenti per la misurazione, piccole spazzole, polveri e pennelli 
+utilizzabili per le indagini accurate. Se usato conferisce un bonus di 
++20 a qualsiasi manovra di Percezione richiesta dalla circostanza.
+Costo: 220ma
+Documenti di Identificazione: contengono informazioni su chi li possiede, per esempio il nome, il 
+regno e le gilde di appartenenza e lo status sociale. Sono utili per passare attraverso le frontiere dei 
+regni o per far riconoscere i propri diritti alle forze dell’ordine senza perdere troppo tempo.
+Costo: 1ma
+Permesso Magico di Livello A: con questo permesso è possibile esercitare legalmente le arti 
+magiche all’interno delle città dei Regni anche senza appartenere ad alcuna Gilda riconosciuta.
+Costo: 3ma
+Permesso Magico di Livello B: un permesso a tempo limitato (di solito dura una settimana) 
+rilasciato da una gilda dei maghi oppure dalle autorità governative che consente di lanciare 
+incantesimi da una determinata lista normalmente proibita per il tempo previsto. Alternativamente, 
+serve per poter entrare in città con un’entità evocata per il tempo indicato.
+Costo: 50ma
+Permesso Magico di Livello C: come il permesso di livello B, ma ha limiti di tempo molto più 
+lunghi (3-6 mesi), oppure allarga il consenso a più liste o entità.
+Costo: 500ma
+Permesso Magico di Livello D: questo permesso può essere rilasciato solo con la firma del 
+principe di uno dei Regni Giovani. Permette di lanciare pressoché qualsiasi incantesimo o di 
+evocare qualsiasi entità all’interno delle mura cittadine delle città del regno in questione.
+Costo: -

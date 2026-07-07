@@ -1,0 +1,76 @@
+
+ARMORA
+
+La città di Armora può essere divisa grossomodo in  7  zone  o  “distretti”,
+come da immagine qui sotto.
+
+                                    [pic]
+
+Colore: Colore sulla mappa
+Nome: come viene chiamato il distretto
+Centro: l’edificio più importante e/o rappresentativo del distretto
+Personalità:   il   “mood”   del   distretto   in   questione,   rappresenta
+l’atteggiamento generico delle persone  che  lo  abitano  e  l’atmosfera  in
+generale.
+Incontri: possibili incontri nel distretto
+
+Colore: Azzurro
+Nome: Città Alta
+Centro: Palazzo Ducale
+Personalità:
+Incontri:
+    • Una carrozza nobiliare che sfreccia nella nebbia, spinta alla  massima
+      velocità dal cocchiere, le tende ai finestrini ben tirate…
+    • Un impiegato degli Uffizi, che parla con alcuni membri del  C.E.M.,  a
+      un angolo della strada, in maniera vagamente sospetta…
+    • Un prete della Chiesa Riformata  di  Mithra  che  esce  dalla  Vecchia
+      Necropoli…
+    •
+
+
+Colore: Viola
+Nome: Distretto Militare
+Centro: Caserma
+Personalità:
+Incontri:
+
+
+
+Colore: Verde
+Nome: Città Nuova
+Centro: Accademia di Studi Elementali
+Personalità:
+Incontri:
+
+
+
+Colore: Arancione
+Nome: Distretto Mercantile
+Centro: Casinò
+Personalità:
+Incontri:
+
+
+
+Colore: Marrone
+Nome: Città Bassa
+Centro: Quartiere dei Bordelli
+Personalità:
+Incontri:
+
+
+
+Colore: Rosso
+Nome: Ghetto Nanico
+Centro: Casa del Concilio
+Personalità:
+Incontri:
+
+
+Colore: Blu
+Nome: Zona Industriale
+Centro: Gilda degli Artefici
+Personalità:
+Incontri:
+
+

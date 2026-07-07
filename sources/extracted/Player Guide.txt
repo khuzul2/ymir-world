@@ -1,0 +1,1784 @@
+
+
+===== [page 1] =====
+YMIR
+ GUIDA PER IL GIOCATORE
+V 2.0
+
+
+===== [page 2] =====
+INTRODUZIONE
+Benvenuto su Ymir, il mondo del Maelstrom! Un mondo scampato ad un’immane Catastrofe, che ha 
+sconvolto l’essenza stessa del pianeta. Un mondo in costante pericolo, perennemente assediato dalle 
+orde dei malvagi Demoni Sovrani. Un mondo dove la magia modella il fato dei popoli e dove 
+impavidi avventurieri esplorano misteriose rovine di civiltà dimenticate alla scoperta di tesori 
+leggendari. Un mondo che cela un inesplicabile segreto: quello degli Adepti.
+Questa guida è pensata per aiutare i giocatori a creare un personaggio con il quale avventurarsi nel 
+mondo di Ymir. Qui troverai tutte le informazioni necessarie alla creazione del tuo PG, assieme ad 
+alcuni consigli su come svilupparlo. Oltre alla descrizione dettagliata delle razze che popolano Ymir 
+in questa breve guida sono presenti nuovi talenti speciali pensati apposta per l’ambientazione, una 
+lista delle divinità e dei maggiori culti di Ymir,  una breve cronologia del mondo e moltissime 
+informazioni utili sul mondo di gioco. Alla fine della guida troverai anche un piccolo glossario che 
+offre una spiegazione di alcuni nomi o termini importanti per l’ambientazione.
+Detto questo non mi resta che augurarti buona lettura e buon divertimento!
+LA STORIA DEGLI ADEPTI E L’ORIGINE DI YMIR
+Molti secoli fa, quando il mondo era diverso, gli uomini fondarono un impero grandioso, il più 
+imponente che la storia conobbe, talmente vasto da estendere la propria ombra su ogni territorio 
+conosciuto. Al suo centro vi era la più grande e meravigliosa città che mai sia esistita: Ragash, detta 
+la Splendente , capolavoro assoluto dell’ingegno umano.
+L’impero era prospero, la capitale fiorente, le arti e le scienze all’apice. Fu allora che sorsero gli 
+Adepti, un gruppo di maghi dai poteri inauditi. Più che maghi sarebbe meglio chiamarli Maestri o 
+Signori della Magia, poiché anche il migliore dei maghi oggi esistente non è che un apprendista alle 
+prime armi nei loro confronti. Essi avevano raggiunto il limite massimo al quale la conoscenza 
+umana poteva giungere, e l’avevano superato. Ben presto si guadagnarono il potere poiché nessuno 
+poteva fermarli. Il loro regno fu lungo e prospero, sotto la loro guida tutti i popoli si riunirono, nella 
+loro saggezza ogni conflitto terminò. Per un lungo periodo la pace regnò su tutto Ymir. 
+Ma anche gli Adepti, pur nella loro saggezza, commisero un errore, sicuri nella loro possanza 
+osarono troppo e furono puniti duramente. Essi appresero il metodo di richiamare i demoni su Ymir e 
+costringerli all’interno di oggetti, in modo da far loro compiere i loro voleri e da utilizzare a fin di 
+bene il loro potere. Iniziarono con demonietti dai poteri limitati ma ben presto passarono a quelli più 
+forti, più difficili da piegare ai propri voleri. Ma anche questo non era sufficiente. Tutti loro 
+sapevano dove sarebbero andati a parare, quale era lo scopo che li aveva portati su quella strada. Ciò 
+che tentarono, infine, il loro più grande errore, fu l’evocazione dei grandi Demoni Sovrani, i più 
+potenti fra i demoni, talmente forti da poter quasi rivaleggiare con gli dei stessi. 
+I Demoni Sovrani non si fecero certo aspettare, piombarono su Ymir attraverso il varco che gli si era 
+aperto, portandosi dietro le loro legioni. In un attimo sbaragliarono gli Adepti e incominciarono a 
+dedicarsi al loro unico obiettivo: la conquista dell’interno pianeta.
+Le guerre che seguirono furono le più sanguinose e disperate che si ricordino. I demoni non 
+conoscevano tregua e, per ogni piccola vittoria che i popoli di Ymir riuscivano ad ottenere, ce 
+n’erano innumerevoli per gli eserciti demoniaci. Era evidente che presto anche le ultime, deboli 
+roccaforti che si stagliavano contro l’invasione sarebbero state spazzate via e che Ymir sarebbe 
+caduto in mano ai Demoni Sovrani.
+Quello che seguì è ricordato negli annali come La Catastrofe ma, in realtà, fu proprio ciò che salvò 
+Ymir dalla completa perdizione. Gli ultimi Adepti rimasti, guidati dal grande arcimago Topramesk, 
+detto il Giallo, riuscirono a raggiungere la grande Accademia di Ragash, che era nel frattempo 
+diventata il cuore dell’impero demoniaco. Qui iniziarono un immenso rituale che, al prezzo delle 
+
+
+===== [page 3] =====
+loro vite, avrebbe dovuto spazzar via per sempre i demoni da questo mondo. Purtroppo, qualcosa nel 
+rituale andò storto. Ci fu un’immensa esplosione magica, che rischiarò i cieli di tutto il pianeta. Ne 
+seguirono giorni di catastrofici terremoti, violente eruzioni e terribili uragani, seguiti da altri giorni 
+durante i quali non si scorse la luce del sole. Alla fine, le genti di Ymir uscirono dai loro nascondigli 
+e non trovarono alcuna traccia degli eserciti demoniaci. L’esplosione li aveva completamente 
+polverizzati ma, assieme a loro, aveva distrutto anche una buona parte del continente su cui si 
+trovava Ragash! Al suo posto si era fatto strada un mare tempestoso e, al suo centro, c’era una 
+tempesta di energia magica che, per quanto tempo passasse, non accennava a diminuire d’intensità: il 
+Maelstrom.
+L’aspetto di Ymir era profondamente mutato, sconvolto sia dalle Guerre Demoniache che dalla 
+Catastrofe, portava su di sé le cicatrici di queste grandi tragedie. 
+YMIR OGGI
+Più di tremila anni sono passati dalla Catastrofe, imperi sono sorti e caduti ed intere civiltà si sono 
+succedute, ma i popoli di Ymir non hanno dimenticato gli Adepti e la minaccia dei Demoni Sovrani. 
+Ad eterno monito il Maelstrom continua inesorabilmente ad imperversare nel centro di Ymir, 
+sconvolgendo gli oceani con la propria furia. In diverse occasioni i Demoni Sovrani hanno cercato di 
+tornare su Ymir, con l’aiuto dei loro folli cultisti, ed alcune volte sono arrivati molto vicini al loro 
+scopo ma, alla fine, sono sempre stati respinti.
+Ora, tuttavia, una nuova ombra pare stendersi su Ymir, portando discordia fra i popoli. I regni sono 
+divisi, occupati ognuno nelle proprie trame personali, oppure minacciati dallo spettro della guerra. 
+Cosa accadrebbe se i Demoni Sovrani dovessero riuscire ad attaccare in forze approfittando di questo 
+momento di debolezza? E se facesse tutto parte di un loro subdolo piano per la conquista di Ymir? E, 
+ancora, che fine hanno fatto gli Adepti? È proprio vero che sono scomparsi? Qual è il vero scopo del 
+Maelstrom? Si tratta di un sigillo posto dagli Adepti per impedire ai demoni di invadere il mondo 
+oppure è destinato a risucchiare Ymir con sé nel vuoto?
+Molte sono le domande che attendono una risposta. Mentre le nubi si addensano minacciose e gli 
+eserciti iniziano a radunarsi, nuovi eroi si preparano a sorgere dagli abissi della storia. Nelle loro 
+mani il fato ha posto il destino ultimo di Ymir, perché presto scoppierà la battaglia finale da cui 
+dipendono le sorti dell’intero cosmo!
+
+
+===== [page 4] =====
+RAZZE
+RAZZE PURE
+Queste sono le razze considerate “pure”, ovvero quelle che non sono il risultato di incroci fra razze, 
+mutazioni causate dalla magia o dal Maelstrom, e che non sono completamente degenerate dal Male. 
+Le razze pure sono le più adatte a costruire un PG, in quanto sono diffuse e ben accette in tutto Ymir. 
+                                     XEBECHANI
+Gli Xebechani sono una razza antica e misteriosa di umanoidi dalla 
+pelle pallida, con alcuni tratti da rettile, di indubbia origine magica. 
+Secondo alcuni gli xebechani sono collegati ai Draghi o ai Grandi 
+Serpenti dell'antichità ma nessuno conosce cono certezza le origini 
+di questa specie, che sono avvolte dal mistero.
+Anche grazie al loro aspetto bizzarro, gli Xebechani risultano 
+spesso stranamente “ipnotici” ai membri delle altre razze, 
+probabilmente a causa dell’aura incantata che li circonda. Sempre 
+calmi, freddi e distaccati, pare che osservino il mondo da grande 
+distanza e non siano per nulla interessati agli eventi che accadono 
+intorno a loro. Non sono, ovviamente, privi di emozioni, ma sono 
+molto abili nel nasconderle e ciò li rende ancora più enigmatici agli occhi delle altre razze.
+Non tutti gli Xebechani sono uguali, all'interno di questo popolo esistono 4 diverse Caste con 
+caratteristiche e funzioni diverse: gli Xudra (guerrieri/lavoratori); gli Xidhe (mercanti/diplomatici); 
+gli Xion (saggi/sacerdoti) e gli Xattva (nobili/maghi). Ogni casta è una vera e propria sottorazza, 
+diversa dalle altre sia per quanto riguarda le capacità fisiche che quelle intellettuali. Alcune 
+caratteristiche, tuttavia, sono comuni a tutti gli Xebechani:
+CARATTERISTICHE COMUNI
+●
+Termovisione: Tutti gli Xebechani sono in grado di “vedere” il calore 
+emesso dagli oggetti intorno a loro in maniera limitata. Ciò conferisce 
+loro un bonus di +5 a Percepire Bugie e un bonus di +10 a Seguire 
+Tracce (se le tracce hanno meno di 30 minuti). Inoltre, consente loro 
+di muoversi al buio con relativa destrezza, utilizzando la Termovisione 
+per percepire il mondo intorno a loro (fino a 20 metri di distanza). Ciò 
+li rende però vulnerabili agli sbalzi improvvisi di temperatura (come 
+quelli causati da una Fireball o da una Coldball), che possono 
+confonderli e stordirli momentaneamente. Nota che la Termovisione è 
+sempre attiva (assieme alla vista normale), non è possibile 
+“disattivarla”.
+●
+Elasticità: Gli Xebechani sono dotati di giunture particolarmente 
+elastiche e snodabili. Ciò conferisce loro un bonus di +10 a tutte le 
+manovre di Contorsionismo e un bonus di +5 a tutti gli attacchi di 
+Martial Arts: Locking Holds.
+●
+Passivi: Anche il più vivace degli Xebechani appare freddo e 
+distaccato ai membri delle altra razze. In alcune situazioni ciò può 
+comportare una penalità (da -10 a -20) alle abilità di Influenza, a 
+discrezione del Master.
+●
+Asessuati: Gli Xebechani non si riproducono in modo normale e sono 
+privi di organi sessuali. L'abilità Seduzione è ristretta per loro.
+
+
+===== [page 5] =====
+ASPETTO FISICO
+Vedi la descrizione delle diverse Caste.
+CULTURA E SOCIETA'
+La società xebechana è rigidamente gerarchica: in cima alla scala sociale c'è la Casta degli Xattva 
+(che è anche le meno numerosa) e in fondo quella degli Xudra (la più numerosa). L'appartenenza ad 
+una Casta viene decisa alla nascita e non può essere cambiata (anche se uno xebechano può sempre 
+sperare in una “rinascita” in una Casta migliore, vedi sotto). Fin da appena nato, ogni Xebechano ha 
+sulla schiena delle sottili squame colorate, che formano disegni simili agli occhiali di un cobra. A 
+seconda del colore e della complessità di questi disegni, gli Xebechani determinano non solo la casta, 
+ma anche il ruolo sociale e la futura occupazione del neonato. La maggior parte della vita di uno 
+Xebechano viene quindi decisa alla sua nascita.
+Come detto sopra gli Xebechani sono asessuati e non si riproducono come le altre razze, piuttosto, i 
+giovani Xebechani sono creati attraverso un particolare procedimento magico, del quale pochi 
+conoscono l'esistenza. In ogni grande città xebechana, custodito all'interno del tempio principale, si 
+trova un colossale macchinario organico, creato migliaia di anni fa con potenti formule alchemiche. 
+Questi macchinari sono chiamati semplicemente “le Pozze” dagli Xebechani. Quando uno 
+Xebechano muore, il suo corpo viene immesso nel macchinario, che lo assorbe e ne utilizza le 
+particelle organiche e spirituali per creare un novo Xebechano neonato. Questo processo viene 
+chiamato “la Rinascita” ed è l'unico modo che gli Xebechani hanno per riprodursi. Purtroppo però, 
+questi macchinari sono molto antichi e gli Xebechani hanno dimenticato la scienza necessaria a 
+comprendere appieno il loro funzionamento, o anche solo a ripararli (se mai l'hanno conosciuta!). Per 
+questo motivo di recente capita sempre più spesso che si verifichino dei malfunzionamenti, e che 
+qualche Xebechano nasca morto o con qualche deformità. I sacerdoti-alchimisti xebechani cercano di 
+comprendere i motivi dei malfunzionamenti ma brancolano nel buio e sull'intera razza si staglia 
+minacciosa l'ombra dell'estinzione...
+MODIFICATORI CULTURA
+Linguaggi: Xebechano (8/6); Seconda Lingua (8/6); Terza Lingua (8/6)
+Vestiti & Decorazioni: Gli Xebechani usano vestiti leggeri, spesso di seta, che lasciano scoperte 
+spalle e schiena. Portano spesso e volentieri monili d’oro ornati con piume e pietre preziose. Quando 
+si avventurano al di fuori dei loro luoghi natii di solito indossano lunghe tuniche munite di ampi 
+cappucci.
+Pregiudizi: Tendono a trattare i membri delle altre razze come bambini, dato che si reputano in 
+generale superiori intellettualmente. 
+Religione: Gli Xebechani hanno un proprio pantheon di divinità (la principale è il serpente piumato 
+Quetzacoatl, dio creatore della vita), ma il loro culto si incentra soprattutto sulla riverenza nei 
+confronti dei loro antenati (chiamati “gli Antichi” e ritenuti depositari di grandi conoscenze) e sulla 
+pratica di rituali al fine di garantirsi una Rinascita in una Casta migliore.
+Culture Preferite: Gli Xebechani vivono in grandi città, solitamente nel mezzo della giungla, 
+oppure sulle cime di montagne inaccessibili, isolati dal resto del mondo. Per i primi la cultura 
+Silvana è quella che si adatta meglio, per gli altri usa quella Aerea (se non hai il Races & Cultures 
+usa lo sviluppo per l'adolescenza degli Elfi per gli Xebechani). 
+
+
+===== [page 6] =====
+XUDRA
+Gli Xudra sono la casta guerriera degli xebechani, sono utilizzati come soldati oppure per svolgere 
+lavori pesanti. Massicci e dotati di robuste squame sono forse gli Xebechani dall'aspetto meno 
+umano, somigliando vagamente a delle anaconde umanoidi. Anche la loro testa, fra tutti gli 
+Xebechani, è quella che più ricorda i rettili, essendo piccola e allungata. Nonostante siano di gran 
+lunga la Casta più numerosa (più della metà degli Xebechani sono Xudra) è difficile incontrarli al di 
+fuori delle loro città. Gli Xudra sono molto legati ai loro compiti e alla loro terra natale e viaggiano 
+molto raramente. Una delle poche occasioni in cui è possibile vedere uno Xudra in viaggio è come 
+scorta di un membro di una casta più alta.
+ASPETTO FISICO
+Corporatura: Alti e robusti, in media pesano circa 100kg
+Colorito: Hanno squame 
+resistenti al posto della 
+pelle, di solito di color 
+bruno o verde scuro sul 
+dorso, giallo sulla pancia. I 
+loro occhi sono solitamente 
+gialli, con pupilla verticale.
+Resistenza:
+ Molto 
+resistenti, +20 Punti Fatica
+Altezza: In media attorno ai 
+190cm
+Durata della vita: 150 anni
+Resistenze: 
+Sono molto 
+resistenti ai veleni e alle 
+malattie.
+Abilità Speciali: Oltre alle 
+normali
+ 
+caratteristiche 
+comuni a tutti gli 
+Xebechani, gli Xudra sono 
+dotati
+ 
+di
+ 
+un'armatura 
+naturale costituita dalle loro 
+squame (Pelle Resistente: TA3 naturale), inoltre sono incredibilmente rapidi considerata la loro 
+mole, riuscendo spesso a prendere di sorpresa i propri avversari  (Riflessi Fulminei: tirano 3d10 
+invece che 2d10 all'iniziativa, tenendo i due risultati migliori).
+Abilità:Everyman: Colpire con Forza
+XUDRA
+Modificatori
+Caratteristiche
+Modifiche TR
+Sviluppo
+Flusso
+Sviluppo Corporeo
+AG
++3
++0
+0.6.5.2.1
+CO
++2
+Essenza
+PM Arcani
+ME
++0
++20
+0.2.1.1.1
+RA
++0
+Mentalismo
+PM Essenza
+AC
++0
++20
+0.5.3.2.2
+EM
+-3
+Arcano
+PM Flusso
+IN
++0
++0
+0.6.5.4.3
+PR
+-3
+Veleno
+PM Mentalismo
+RF
++4
++50
+0.5.3.2.2
+FO
++3
+Malattia
+Tipo di Razza
+AS
+-30
++25
+3
+Dipartenza Anima
+Paura
+Molt. Guarigione
+9 round
++10
+x0.5
+Linguaggi
+Opzioni Background (Punti Talento)
+2
+3(30)
+
+
+===== [page 7] =====
+XIDHE
+Gli Xidhe sono l'immagine che la maggior parte delle persone ha in mente quando pensa ad uno 
+Xebechano: esili umanoidi dalla pelle pallida, lunghi capelli neri e lo sguardo magnetico. Il motivo è 
+semplice, dato che la loro Casta si occupa esclusivamente di commercio e rapporti diplomatici con 
+l'esterno, gli Xidhe sono gli Xebechani che è più facile trovare al di fuori dei loro territori. 
+Gli Xidhe sono in genere piuttosto colti, tendono a conoscere diverse lingue e a destreggiarsi 
+abbastanza bene anche in culture molto diverse dalla propria. Fra gli Xebechani sono inoltre quelli 
+meno passivi, tanto che spesso riescono a intessere profonde amicizie anche con membri di altre 
+razze. Forse è per questo motivo che alcuni Xidhe emigrano all'estero, sentendosi oppressi dalla 
+rigidità della società Xebechana. 
+ASPETTO FISICO
+Corporatura:
+ Esile 
+e 
+slanciata, in media pesano 
+circa 65kg
+Colorito: Hanno una pelle 
+molto chiara, quasi bianco 
+latte, tranne che sulla 
+schiena, dove appaiono 
+sottili squame colorate. I 
+loro occhi sono argentati, 
+verdi o viola, a pupilla 
+verticale. I loro capelli 
+sono neri e solitamente 
+lisci. 
+Resistenza: Normale
+Altezza: In media intorno 
+ai 180cm
+Durata della vita: 500 
+anni.
+Resistenze: Godono di 
+una discreta resistenza a 
+veleni e malttie.
+Abilità Speciali: Gli Xidhe hanno tutte le normali abilità speciali comuni ad ogni Xebechano. Inoltre 
+godono di alcune abilità particolari, caratteristiche della loro Casta. Lo sguardo di uno Xidhe è 
+magnetico, quasi ipnotico. Molte persone lo trovano snervante, altre ne sono affascinate, ma non c'è 
+persona che non trovi difficile contraddire uno Xidhe quando il suo sguardo si posa su di lui 
+(Sguardo Intenso: +15 alle abilità di Influenza se gli occhi sono visibili all'interlocutore. Inoltre, tutti 
+i bersagli di un incantesimo di tipo “m” lanciato da uno Xidhe soffrono di una penalità di -10 ai loro 
+TR se i suoi occhi sono visibili).
+Abilità: Everyman: Mercanteggiare; Persuasione; Raccontare Storie. Occupational: Ipnosi
+XIDHE
+Modificatori
+Caratteristiche
+Modifiche TR
+Sviluppo
+Flusso
+Sviluppo Corporeo
+AG
++0
++0
+0.6.3.2.1
+CO
+-2
+Essenza
+PM Arcani
+ME
++0
+-5
+0.5.3.2.2
+RA
++0
+Mentalismo
+PM Essenza
+AC
++2
+-5
+0.6.4.3.2
+EM
++4
+Arcano
+PM Flusso
+IN
++0
+-5
+0.6.5.4.3
+PR
++6
+Veleno
+PM Mentalismo
+RF
++0
++20
+0.7.6.5.4
+FO
+-2
+Malattia
+Tipo di Razza
+AS
++10
++20
+3
+Dipartenza Anima
+Paura
+Molt. Guarigione
+9 round
++0
+x1
+Linguaggi
+Opzioni Background (Punti Talento)
+5
+2 (20)
+
+
+===== [page 8] =====
+XION
+Gli Xion sono la Casta sacerdotale degli Xebechani, si occupano del culto agli dei, di officiare i riti 
+principali e servono gli Xattva come scribi e consiglieri. In teoria dovrebbero essere loro ad 
+occuparsi della manutenzione delle Pozze ma, visto che la scienza necessaria è stata dimenticata, si 
+limitano a custodirle e ad assistere gli Xattva nei loro esperimenti. Può accadere che uno Xion lasci 
+la sua città in cerca di nuove conoscenze, oppure per accompagnare uno Xidhe in missione 
+diplomatica come guida e  supervisore.
+ASPETTO FISICO
+Corporatura: Fragile, in media pesano fra i 50 e i 60 kg
+Colorito: Pelle bianco-giallognola (tranne che per le squame colorate sulla schiena), capelli neri e 
+occhi gialli o viola, a pupilla verticale.
+Resistenza: Normale
+Altezza: In media attorno 
+ai 160-170 cm
+Durata della vita: 800 
+anni
+Resistenze: 
+Discreta 
+resistenza a Veleno e 
+Malattie.
+Abilità Speciali: Oltre a 
+possedere tutte le normali 
+abilità comuni ad ogni 
+Xebechano, gli Xion sono 
+in grado di percepire 
+intuitivamente la presenza 
+di energie magiche 
+nell'aria (Senso Arcano: 
+concentrandosi possono 
+percepire la presenza di 
+incantesimi attivi nel 
+raggio di 10m. Capiscono 
+anche la direzione e la 
+lontananza dell'incantesimo ma non il Reame di appartenenza); inoltre, grazie alla loro innata affinità 
+con le energie magiche, sono relativamente poco impacciati da armature e simili ostacoli nel lancio 
+di incantesimi (Trascendenza: +25 all'abilità Trascendere Armatura).
+Abilità: Everyman: Ingegneria, Biologia 
+XION
+Modificatori
+Caratteristiche
+Modifiche TR
+Sviluppo
+Flusso
+Sviluppo Corporeo
+AG
++0
+-5
+0.6.4.2.1
+CO
++0
+Essenza
+PM Arcani
+ME
++0
++0
+0.5.3.2.2
+RA
++2
+Mentalismo
+PM Essenza
+AC
++3
++0
+0.6.4.3.2
+EM
++2
+Arcano
+PM Flusso
+IN
++6
++0
+0.6.6.4.3
+PR
++0
+Veleno
+PM Mentalismo
+RF
++0
++20
+0.5.3.2.2
+FO
+-2
+Malattia
+Tipo di Razza
+AS
++0
++20
+3
+Dipartenza Anima
+Paura
+Molt. Guarigione
+9 round
++0
+x1
+Linguaggi
+Opzioni Background (Punti Talento)
+2
+3(30)
+
+
+===== [page 9] =====
+XATTVA
+Gli eterei Xattva sono considerati gli Xebechani per eccellenza, i più puri e nobili fra tutte le Caste. 
+Sono anche i meno numerosi, arrivando a malapena al 10% della popolazione xebechana. A loro è 
+preposto il governo, l'emanazione delle leggi e l'amministrazione dello stato, anche se in realtà la 
+maggior parte del lavoro viene fatta da scribi Xion e gli Xattva si occupano solo delle questioni più 
+gravi ed importanti. Per lo più occupano il loro tempo in studi magici ed esperimenti alchemici, nella 
+speranza di trovare un soluzione al problema della riproduzione. Gli Xattva non lasciano 
+praticamente mai le proprie terre, quelli che si incontrano all'estero sono di norma stati puniti con 
+l'esilio per motivi politici o religiosi e vivono questa loro condizione con grandissima tristezza.
+ASPETTO FISICO
+Corporatura: Alti ed esili. Pesano in media 65-70 kg.
+Colorito: Hanno una 
+pelle molto pallida, 
+quasi bianca. In 
+alcune altre parti del 
+corpo essa è sostituita 
+da piccole, morbide 
+squame, che sulla 
+schiena
+ 
+formano 
+disegni simili agli 
+occhiali di un cobra. 
+Hanno capelli neri ed 
+occhi gialli, grigi, 
+verdi o viola, con 
+pupilla verticale.
+Resistenza: Normale
+Altezza: 
+ In media 
+sono alti 190 cm.
+Durata della vita: 
+800-1000 anni.
+Resistenze: 
+Molto 
+resistenti a Veleni e 
+Malattie.
+Abilità Speciali: Come gli Xion sono in grado di percepire intuitivamente la presenza di energie 
+magiche nell'aria (Senso Arcano: concentrandosi possono percepire la presenza di incantesimi attivi 
+nel raggio di 10m. Capiscono anche la direzione e la lontananza dell'incantesimo ma non il Reame di 
+appartenenza); in più sono in grado di convogliare e immagazzinare le energia magiche molto 
+facilmente (Aura: già calcolata nella progressione dei PM).
+Abilità: Everyman: Nessuna.
+XATTVA
+Modificatori
+Caratteristiche
+Modifiche TR
+Sviluppo
+Flusso
+Sviluppo Corporeo
+AG
++0
+-5
+0.6.3.2.1
+CO
+-3
+Essenza
+PM Arcani
+ME
++0
+-5
+0.8.7.6.5
+RA
++0
+Mentalismo
+PM Essenza
+AC
++2
+-5
+0.7.6.5.4
+EM
++6
+Arcano
+PM Flusso
+IN
++6
+-5
+0.7.6.5.4
+PR
++6
+Veleno
+PM Mentalismo
+RF
++0
++50
+0.7.6.5.4
+FO
+-2
+Malattia
+Tipo di Razza
+AS
++20
++25
+2
+Dipartenza Anima
+Paura
+Molt. Guarigione
+9 round
++0
+x1
+Linguaggi
+Opzioni Background (Punti Talento)
+5
+2 (25)
+
+
+===== [page 10] =====
+TANOTH
+I Tanoth sono una razza umanoide dall’aspetto bestiale, divisa in due sottorazze: gli Ur-Tanoth, ed i 
+Tal-Tanoth. 
+UR-TANOTH
+Gli Ur-Tanoth sono simili 
+all’incrocio tra un grosso felino 
+predatore ed un uomo.
+Non tutti hanno lo stesso 
+aspetto, alcuni sono simili a 
+pantere, altri a tigri, altri 
+ancora a leoni. In generale, i 
+membri della stessa tribù sono 
+tutti simili fra loro. Nonostante 
+il
+ 
+loro
+ 
+aspetto
+ 
+poco 
+rassicurante, si tratta di una 
+razza normalmente pacifica e 
+schiva, poco incline alla 
+violenza.
+ASPETTO FISICO
+Corporatura: Alti e massicci. 
+I maschi pesano in media 100 
+Kg, le femmine 80 Kg.
+Colorito: il loro corpo è 
+interamente coperto da una folta pelliccia, che può essere di qualsiasi colore. Hanno occhi gialli 
+oppure verdi, di rado rossi.
+Resistenza: Incredibile, +20 Punti Fatica
+Altezza: Maschi 200cm, femmine 185cm.
+Durata della vita: 60-70 anni
+Resistenze: +15 contro i Veleni, +10 contro le Malattie, +20 contro la Paura; +10 TR e BD contro il 
+Freddo
+Abilità Speciali: La loro folta pelliccia li dota di un'armatura naturale (Pelle Dura: TA4 naturale), 
+inoltre hanno lunghi artigli retrattili che possono facilmente usare come armi (Artigli Medi: possono 
+attaccare a mani nude usando la tabella degli Artigli Medi). 
+MODIFICATORI CULTURA
+Linguaggi: Tanoth (8/4); Seconda Lingua [a seconda del paese] (8/4)
+Paure & Incapacità: Più di ogni altra cosa, gli Ur-Tanoth temono 
+l’imprigionamento e la perdita della propria libertà. La loro repulsione è tale 
+che un Tanoth imprigionato si ammalerà e morirà in poco tempo. Inoltre, la 
+maggior parte degli Ur-Tanoth rifugge dai luoghi chiusi, che trova soffocanti.
+Religione: Gli Ur-Tanoth hanno una religione di tipo totemico/animistico. 
+Pregiudizi: Odiano Orchetti e Troll e si tengono lontani dalle città, che 
+reputano rumorose, puzzolenti e claustrofobiche.
+Professioni Preferite: Gli Ur-Tanoth diventano buoni Guerrieri, Barbari o 
+Ranger, ma anche ottimi Ladri. Hanno problemi, invece, con i reami dell’Essenza e del Mentalismo. 
+Abilità: Everyman: Artigli, Sopravvivenza (Clima di Provenienza) Occupational: Cacciare
+Culture Preferite: A seconda del clima: Artica Nomadica; Altopiano Barbarica; Pianura Nomadica 
+o Silvana Nomadica.
+UR-TANOTH
+Modificatori
+Caratteristiche
+Modifiche TR
+Sviluppo
+Flusso
+Sviluppo Corporeo
+AG
++6
++0
+0.7.4.2.1
+CO
++2
+Essenza
+PM Arcani
+ME
++0
++5
+0.5.3.2.2
+RA
++0
+Mentalismo
+PM Essenza
+AC
++0
++5
+0.4.3.2.1
+EM
+-2
+Arcano
+PM Flusso
+IN
++0
++0
+0.6.5.4.3
+PR
+-4
+Veleno
+PM Mentalismo
+RF
++4
++15
+0.4.3.2.1
+FO
++4
+Malattia
+Tipo di Razza
+AS
+-25
++10
+3
+Dipartenza Anima
+Paura
+Molt. Guarigione
+12 round
++20
+X0,5
+Linguaggi
+Opzioni Background (Punti Talento)
+2
+4 (40)
+
+
+===== [page 11] =====
+TAL-TANOTH
+ I Tal-Tanoth sono simili 
+agli
+ 
+Ur-Tanoth
+ 
+ma 
+decisamente più minuti, 
+somigliano all’incrocio fra 
+un gatto ed un uomo. Al 
+contrario degli Ur-Tanoth 
+non temono l’uomo e 
+spesso vivono in città.  
+ASPETTO FISICO
+Corporatura:
+ piccola e 
+snella, i maschi pesano 
+45Kg, le femmine 40Kg.
+Colorito: il loro pelo può 
+essere di qualsiasi colore. 
+Occhi azzurri, verdi o gialli.
+Resistenza:
+ Normale, 
+devono dormire almeno 8 
+ore al giorno.
+Altezza: Maschi 120cm, 
+Femmine 115cm.
+Durata della vita: 60-80 anni
+Resistenze: +15 contro i Veleni, +10 contro le Malattie; +10 TR e BD contro il Freddo
+Abilità Speciali: La pelliccia fornisce loro una protezione simile, anche se in misura minore, a 
+quella dei loro cugini più grandi (Pelle Dura: TA3 naturale)
+MODIFICATORI CULTURA
+Linguaggi: Tanoth (8/4); Comune Occidentale (8/4)
+Pregiudizi: odiano gli orchetti e reputano gli uomini dei grossi tonti, 
+ma per il resto vanno d’accordo con la maggior parte delle altre 
+razze. A causa della loro natura incostante e burlona, tuttavia, il 
+sentimento non è sempre ricambiato e molti ritengono i Tal-Tanoth 
+quantomeno una seccatura.
+Religione: i Tal-Tanoth non si preoccupano tanto di questioni 
+religiose, la maggior parte di loro si attiene a qualche pratica 
+superstiziosa oppure al culto principale del popolo presso cui vivono. 
+Professioni Preferite: i Tal-Tanoth sono Ladri eccellenti e buoni 
+Zingari. I più vagabondi diventano Ranger o Esploratori. Di rado 
+scelgono altre professioni. 
+Abilità: Everyman: Muoversi Silenziosamente.
+Culture Preferite: Usano la cultura presso la quale vivono, di solito del sotto tipo Urbano (classe 
+inferiore). 
+TAL-TANOTH
+Modificatori
+Caratteristiche
+Modifiche TR
+Sviluppo
+Flusso
+Sviluppo Corporeo
+AG
++6
++0
+0.6.5.2.1
+CO
++2
+Essenza
+PM Arcani
+ME
++0
++0
+0.5.3.2.2
+RA
++0
+Mentalismo
+PM Essenza
+AC
+-4
++5
+0.5.3.2.2
+EM
++0
+Arcano
+PM Flusso
+IN
++0
++0
+0.6.5.4.3
+PR
+-4
+Veleno
+PM Mentalismo
+RF
++5
++15
+0.4.3.2.1
+FO
+-6
+Malattia
+Tipo di Razza
+AS
++0
++10
+3
+Dipartenza Anima
+Paura
+Molt. Guarigione
+12 round
++0
+X0,5
+Linguaggi
+Opzioni Background (Punti Talento)
+5
+5 (50)
+
+
+===== [page 12] =====
+NANI
+I Nani sono relativamente diffusi su tutto Ymir (in particolare in Letia, 
+Regni Giovani, Helgedad e Principato di Cartosa) e intrattengono rapporti 
+tutto sommato pacifici con la maggioranza delle altre Razze Pure. Non 
+differiscono di molto da quelli presentati nel manuale base di Rolemaster.
+Con i loro marchingegni meccanici, le loro macchine a vapore e 
+l’invenzione della polvere nera (il cui segreto nessuna altra razza è riuscita 
+a carpire) , i Nani sono probabilmente la razza tecnologicamente più 
+evoluta di tutto Ymir, se si tralasciano gli Xebechani. I fabbri e gli 
+ingegneri Nani sono ricercati ovunque e le loro invenzioni sono pagate a 
+peso d’oro.
+Descrizione Razza: Vedi Races & Cultures
+Speciale: Niente. I Nani di Ymir sono identici a quelli descritti in R&C.
+Pregiudizi: Nutrono un odio particolare per i draghi, i goblin e tutte le 
+razze degenerate. Sono molto sospettosi nei confronti dei Tal-Tanoth. Non 
+riescono a capire gli Ur-Tanoth e i Folletti, ma non hanno particolare astio 
+nei loro confronti.
+Opzione “Nano Empatico”: In creazione personaggio se fai un nano puoi 
+scegliere di scambiare il bonus razza di Em e In. Se lo fai, devi anche 
+scambiare il bonus ai TR dell'Essenza con quello del Flusso e la 
+progressione PM Essenza con quella del Flusso (quest'opzione è data per 
+permettere di creare Nani Alchimisti o Elementalisti della Terra).
+Razze
+Nano Comune: Il più tipico esemplare della razza Nano, identico a quello descritto nel manuale 
+base. Lingua Principale: Nanico
+Nano di Pianura: Non si tratta di una vera e propria razza a parte di Nani, bensì dei discendenti di 
+quei nani che sono emigrati in cerca di lavoro nelle città umane. A volte sono visti con diffidenza dai 
+nani più puristi e in nanico la parola Laak-nama-Khazalim (Abitante delle Pianure) è considerata un 
+insulto. Lingua Principale: Nanico
+Arawak: Gli Arawak (singolare e plurale) sono una razza di nani dalla pelle scura e gli occhi viola, 
+indigeni delle giungle cartosane. Usa gli stessi stat dei normali nani per loro, ma la cultura Silvana-
+Barbarica. Lingua Principale: Arawak
+
+
+===== [page 13] =====
+UMANI
+Gli uomini sono diffusi in tutto Ymir, in qualsiasi ambiente e clima. Su Ymir gli Umani sono divisi 
+in due sotto razze, una più antica (i Primigeni) e una più giovane (gli Uomini). 
+PRIMIGENI
+Secondo la leggenda, i Primigeni, gli antichi progenitori della razza umana, furono creati con il 
+Fuoco, una delle due energie elementali. Forse è a questo che si devono i ritmi di vita frenetici (dal 
+punto di vista delle altre razze) e l’impulsività che caratterizzano gli esseri umani. Purtroppo, un dio 
+malvagio riuscì a manipolare e corrompere i Primigeni. Infatti, come è risaputo, il Fuoco contiene in 
+sé il principio della Distruzione. Col passare del tempo, i Primigeni andarono trasformandosi in 
+servitori dell’oscurità, pallide ombre di ciò che erano un tempo. Al giorno d’oggi solo pochissimi 
+Primigeni, i discendenti di quelli che sono riusciti a mantenere puro il loro spirito, sopravvivono.
+Descrizione Razza: Vedi High Men sul R&C.
+Speciale: Niente
+Pregiudizi: Odiano tutte le razze degenerate, in particolar modo gli orchetti. Ammirano la saggezza 
+mistica degli Xebechani.
+Razze
+Vorskgen: Alcune tribù barbariche della gelata Helgedad o dei confini settentrionali della Letia 
+conservano l'antico spirito e il sangue primigeno. Usa la cultura Artica (o una qualsiasi sua 
+sottocultura) oppure le culture Altopiano-Barbarica o Altopiano-Militaristica per questi Primigeni. 
+Lingua Principale: Vorskgen.
+Ophiriti: Gli abitanti umani dell'Ophiur sono alti e massicci, con la pelle nerissima. La maggior 
+parte di loro, in particolar modo gli aristocratici,  è composta da Primigeni. Usa la cultura Pianura-
+Urbana per loro. Lingua Principale: Ophirita.
+UOMINI
+Gli Uomini sono i discendenti dei Primigeni che furono in 
+parte corrotti dal Male. Rispetto ai Primigeni sono più 
+deboli sia di corpo che di spirito, e molto più facilmente 
+sedotti dal Male. Ciò non significa che tutti gli uomini siano 
+corrotti, molti combattono per le forze del bene e alcuni di 
+loro mantengono una parte dell’antica fierezza del sangue 
+Primigeno.
+Descrizione Razza: Vedi R&C
+Speciale: Normalmente, un PG umano viene creato 
+utilizzando la sottorazza Umano Misto, poiché i PG sono 
+considerati appartenere a quella minoranza di uomini che 
+ancora mantengono una traccia di sangue Primigeno. La 
+stragrande maggioranza della popolazione, tuttavia, è 
+composta da Uomini Comuni.
+Pregiudizi: Nessuno, in particolare, cambiano a seconda 
+della cultura e delle inclinazioni personali.
+ 
+
+
+===== [page 14] =====
+SOHLEUGIR
+Gli Sohleugir  (meglio conosciuti come Uomini Lucertola) si trovano a loro agio sia sulla terraferma 
+che nell'acqua, il loro elemento d’origine. Solitamente vivono sulle coste, in splendide città di pietra 
+e corallo costruite su più livelli, sopra e sotto il livello del mare. Hanno una mentalità molto aperta e 
+raramente si lasciano influenzare da pregiudizi di sorta. Sono noti per essere dei mercanti 
+eccezionali, oltre che dei temibili guerrieri. Molti ritengono che il terrificante aspetto degli Sohleguir 
+sia dovuto ad un'antica maledizione. Dal canto loro, gli Uomini Lucertola sono consci del fatto che il 
+loro aspetto può causare timore nei membri delle altre razze, e si premurano di indossare vestiti che 
+possano occultarlo. 
+Descrizione Razza: Vedi R&C.
+Speciale: Niente
+Pregiudizi: Gli Sholeugir detestano in particolar modo i Gratar e odiano tutte le razze corrotte. 
+FOLLETTI
+I Folletti, anche noti come “il Piccolo Popolo” sono la più piccola delle Razze Pure, nonché con tutta 
+probabilità la più rara. Vengono comunemente divisi in due sotto razze: le Fate e gli Gnomi, anche se 
+non è ancora del tutto provato che le due sian correlate fra di loro.
+FATE
+Nonostante molti pensino che esistano solo Fate femmina questo popolo è composto da esseri di 
+entrambi i sessi (anche se i maschi sono effettivamente leggermente più rari delle femmine). Simili a 
+umani o elfi in miniatura, raggiungono solo raramente i 90cm di altezza. Le Fate (o Tylweth Teg, 
+come loro definiscono la propria genia) amano vivere nei boschi e solitamente costruiscono lì le 
+proprie piccole città, lontano dalle abitazioni della “Gente Alta”.
+Descrizione Razza: Vedi Tylweth Teg, nel R&C.
+Speciale: Le Fate, contrariamente a ciò che viene detto nel R&C, non sono immortali. Vivono in 
+media 800 anni.
+Pregiudizi: Diffidano della “Gente Alta”, hanno difficoltà nel comprendere i Nani. Odiano tutte le 
+razze degenerate, in particolar modo i Coboldi.
+GNOMI
+Un'altra credenza errata è che gli Gnomi siano i maschi delle Fate (cosa 
+che suscita l'irritazione di entrambe le razze), in realtà si tratta di una 
+razza a parte, nonché sostanzialmente diversa. 
+Descrizione Razza: Vedi gli Gnomi, in Underground Races (non in 
+R&C)
+Speciale: Niente
+Pregiudizi: Niente in particolare, ma preferiscono essere lasciati in 
+pace perfino dagli altri membri della propria razza.
+
+
+===== [page 15] =====
+ELFI
+Gli elfi sono una razza aliena a Ymir, giunsero in questo mondo durante le Guerre Demoniache, nel 
+momento di maggior bisogno per i popoli liberi di Ymir. Nessuno sa di preciso da dove siano venuti, 
+né quale motivo gli abbia spinti ad abbandonare il loro paese natale per dirigersi qui. Se interrogati a 
+proposito gli elfi tendono a cambiare argomento. 
+Circa ottocento anni dopo la Catastrofe che creò il Maelstrom (più o meno 2200 anni fa) i regni elfici 
+furono scossi da un lungo periodo di lotte intestine. In seguito, gli storici chiamarono questi anni di 
+conflitti gli Anni della Discordia.
+Per farla breve, gli elfi si divisero in tre fazioni. La prima fazione (in seguito denominata degli Elfi 
+Chiari) sosteneva che il destino della razza elfica fosse quello di ritirarsi nel Sacro Regno appena 
+costituito (l'attuale Alfheim), preparandosi per la venuta dell'Ultimo Messaggero, che li avrebbe 
+ricondotti al loro paese natale. La seconda fazione (che poi fu chiamata degli Elfi Oscuri) sosteneva 
+che l'intero Ymir fosse il Sacro Regno promesso al popolo elfico nelle profezie e che tutte le altre 
+razze esistessero esclusivamente per servire gli elfi, proponendo dunque una sacra crociata volta alla 
+conquista del Regno. L'ultima fazione, la più moderata (anche detta degli Elfi Grigi), si ritirò dalla 
+lotta, abbandonando i territori elfici per vivere insieme alle altre razze una vita di contemplazione, 
+convinti che il Sacro Regno non si trovasse in un luogo fisico, bensì all'interno di ogni elfo.
+In pratica, dunque, non esiste differenza razziale fra le diverse fazioni elfiche (anche se 
+probabilmente gli elfi avrebbero qualcosa in contrario da dire). Esistono, tuttavia, tre diverse sotto 
+razze (la cui origine è ignota), distribuite equamente fra le diverse fazioni (da notare che gli elfi grigi 
+presentati in R&C corrispondono agli elfi marini, ma non alla fazione degli Elfi Grigi!).
+Descrizione Razza: Vedi R&C.
+Speciale: Un’importante differenza fra gli elfi di Ymir e quelli presentati nel manuale è che non 
+sono immortali. Qualunque fosse la 
+fonte della loro immortalità sul loro 
+piano d’origine, qui non li 
+raggiunge, costringendoli a vite 
+mortali, sebbene molto lunghe 
+(700-800 anni in media).
+Pregiudizi: Sono sospettosi nei 
+confronti di tutte le altre razze, 
+odiano le razze degenerate.
+Elfi Alti: I più nobili e puri fra gli 
+elfi, versati nelle arti e nella magia 
+ma anche ottimi combattenti. 
+Formano l’elite della società elfica.
+Elfi Silvani: La maggior parte degli 
+elfi di Ymir sono della sottorazza 
+silvana.
+Elfi Marini: Gli elfi marini sono 
+leggermente più rari degli elfi 
+silvani, amano il mare e spesso si 
+insediano sulle coste. Fra gli elfi 
+sono quelli che hanno più spesso 
+contatti con le altre razze. Usa gli 
+stat degli elfi grigi da R&C per 
+questi elfi.
+
+
+===== [page 16] =====
+MEZZE RAZZE
+Queste non sono razze vere e proprie, bensì il risultato di un incrocio fra membri di razze diverse. I 
+giocatori possono scegliere liberamente di appartenere ad una qualsiasi di queste Mezze Razze, 
+anche se può accadere che il sangue misto possa causare loro qualche problema di integrazione in 
+alcune società.
+MEZZ’ELFI
+Così sono chiamati gli incroci fra elfi ed umani. 
+Descrizione Razza: Vedi R&C.
+Speciale: Niente
+Pregiudizi: Niente di particolare. 
+UMLI
+Gli Umli, o Mezzi Nani, sono il risultato della rara unione fra un nano e un essere umano.
+Descrizione Razza: Vedi R&C.
+Speciale: Niente
+Pregiudizi: Niente di particolare
+MEZZ’ORCHI
+L’unione fra un orchetto e un umano produce un mezz’orco, una razza disprezzata da tutti e 
+considerata degenere dai più.
+Descrizione Razza: Vedi R&C.
+Speciale: Niente
+Pregiudizi: I Mezz’orchi che crescono nella società umana sono soggetti a forte discriminazione e 
+spesso diventano dei disadattati. Non è consigliabile usare questa razza  per un creare un PG.
+MEZZI TANOTH
+Nonostante sia raro che accada, non sono inesistenti gli incroci fra Ur-Tanoth e membri di altre razze 
+(possono avere figli da/con umani o elfi).
+Descrizione Razza: Vedi più avanti, il Talento Sangue di Tanoth.
+Speciale: Niente
+Pregiudizi: I Mezzi Tanoth sono troppo rari perché esistano dei pregiudizi nei loro confronti, sono 
+visti come delle stranezze dalla maggior parte delle persone.
+
+
+===== [page 17] =====
+RAZZE DEGENERATE
+Questa categoria comprende tutte le razze ritenute in genere maligne o servitrici dei Demoni Sovrani, 
+come i Goblin, gli Orchetti o i Troll. Non è consigliabile che i PG 
+scelgano di appartenere ad una di queste razze, a meno che non si 
+decida di giocare una campagna malvagia.
+ 
+IBRIDI
+Gli Ibridi sono creature del Maelstrom, mutate dalla magia. 
+Comprendono esseri parte umani e parte animali (Vulfen, Uomini 
+Pesce, …) e creature che recano in sé il seme di un qualche 
+elemento (come alcuni giganti). Nonostante non siano il risultato di 
+alcuna mutazione magica  anche i centauri (di ogni tipo) sono 
+considerati Ibridi. I giocatori possono scegliere di appartenere ad 
+una razza Ibrida dietro consenso del Master, tenendo presente che il 
+loro aspetto inusuale potrebbe causare loro diversi problemi nelle 
+interazioni sociali.
+ABOMINII
+Gli Abominii sono creazioni della magia, razze create in laboratorio da potenti maghi senza scrupoli. 
+I giocatori possono creare un PG Abominio solo previo accordo con il Master. Vedi il Construct 
+Comanion per maggiori informazioni.
+
+
+===== [page 18] =====
+NUOVI VANTAGGI
+Sangue di Drago (50 Pts.): Tramite un particolare rituale un drago ha mescolato il 
+proprio sangue con quello del PG, in cambio di eterna obbedienza e lealtà. Il sangue 
+del PG gli conferisce un aspetto leggermente “draghesco” e alcuni poteri particolari. 
+Due opzioni a scelta fra:
+•
+Possanza del Drago:
+o
++8 Bonus Forza
+o
++5 Bonus Costituzione
+o
++2 Bonus Empatia
+•
+Soffio del Drago: Shock Bolt con critico a seconda dell’elemento scelto, 
+utilizzabile un numero di volte al giorno pari al bonus di Costituzione
+•
+Pelle Coriacea: TA 11 (-40 all’Aspetto, a causa delle scaglie)
+•
+Ali: grandi ali di drago permettono di volare (-20 Aspetto)
+Sangue Elementale (15 Pts): Un antenato del PG è stato corrotto da un elemento, ed 
+ha passato parte della corruzione a lui. Il personaggio inizia con 20 punti corruzione e 4 punti fattore 
+in un elemento a scelta. Due punti fattore devono andare all’aspetto, gli altri due possono essere usati 
+per comperare dei tratti tipici dell’elemento a scelta del PG.
+Affinità Elementale (30 Pts): Il PG guadagna un bonus di +10 al BD e TR contro un elemento a sua 
+scelta e ha un bonus di +5 alle manovre di lancio incantesimi con le liste che hanno a che fare con 
+quell’elemento.
+Sangue Tanoth (20 Pts): Uno dei genitori del PG era un Ur-Tanoth. Il PG guadagna i seguenti 
+bonus:
+o
++2 Bonus Forza
+o
++2 Bonus Agilità
+o
+-1 Bonus Presenza
+o
++1 Bonus Riflessi 
+o
+-10 Aspetto
+o
+Pelo Corto su tutto il corpo (TA 3  naturale)
+Leggenda Vivente (20 o 30 Pts): Sei stato addestrato con tecniche che ti permettono di trascendere i 
+limiti dei comuni mortali e di apprendere le leggendarie tecniche dei più grandi maestri di arti 
+marziali. Puoi imparare normalmente i Poteri Chi Eroici (non sono ristretti) e puoi anche apprendere 
+quelli Fantastici (che sono classificati come Ristretti) [20 punti]. Oppure puoi imparare normalmente 
+tutti i Poteri Chi (nessuno è considerato Ristretto) [30 punti].
+Visione a 360° (15 Pts): Riesci a vedere tutt’intorno a te, contemporaneamente in tutte le direzioni. 
+Hai un bonus di +15 alla categoria Percezione Inconscia e il nemico non ha bonus per gli attacchi 
+alle spalle o ai fianchi.
+ 
+
+
+===== [page 19] =====
+LINGUAGGI DI YMIR 
+GRUPPO ELFICO
+Radice: Elfico Antico
+Linguaggi: Alto Elfico, Elfico Oscuro, Elfico Grigio, Elfico Silvano, Sadhirita.
+GRUPPO LETIO
+Radice: Ragashano
+Linguaggi: Letio, Comune Occidentale, Cartosano, Helgedish, Armorita, Meridio
+GRUPPO DRACONICO
+Radice: Draconico
+Linguaggi: Xebechano, Ophirita, Comune dell’Erg
+GRUPPO OSCURO
+Radice: Linguaggio Nero
+Lingue: Comune Oscuro, Orchesco, Troll, Goblin, Nkishi, M’Bantha, Coboldo, Gratar
+GRUPPO ORIENTALE
+Radice: Mah-dol
+Lingue: Qi-long, Ryugo
+GRUPPO NANESCO
+Radice: Khudzul
+Lingue: Comune Nanesco, Vorskgen, Helgedish, Arawat
+GRUPPO SILVANO
+Radice: Silvano
+Lingue: Ur-Tanoth, Faerie, Tal-Tanoth, Gnomico
+GRUPPO SAURICO
+Radice: Sauride
+Lingue: Sohleugir, Sirenide 
+
+
+===== [page 20] =====
+IL MAELSTROM
+Il Maelstrom è probabilmente la caratteristica più incredibile e misteriosa di Ymir. Un enorme 
+vortice di energia azzurrina, simile a un gigantesco tornado che si estende per un raggio di decine di 
+chilometri, dai più profondi abissi marini fino al limite del cielo. Il mare intorno ad esso è 
+perennemente burrascoso, ma l'aria è immota. Le speculazioni su di esso sono una moltitudine, ma 
+nessuno è riuscito a penetrare il suo segreto. Certo è che esso ha non pochi effetti sul mondo 
+circostante:
+●
+Tempeste Arcane: il grande Oceano Centrale di Ymir è a volte scosso da violente tempeste di 
+energia magica che sconvolgono non solo aria e acqua, ma anche l'essenza stessa del creato, 
+convogliando energie arcane da altre dimensioni. Inutile dire che trovarsi all'interno di una di 
+queste tempeste è piuttosto spiacevole.
+●
+Marchio: l'energia magica scaturita dal Maelstrom causa a volte delle mutazioni nei neonati, 
+creando in loro deformità fisiche e peculiari handicap, ma anche conferendo loro strane e 
+particolari capacità magiche. Questi neonati sono chiamati Marchiati e sono per lo più uccisi 
+alla nascita o nei primi mesi di vita.
+●
+Deflusso: così viene chiamato l'effetto che provoca il deviamento degli incantesimi di 
+teletrasporto su lunga distanza, a causa del disturbo creato dalla caoticità del Maelstrom. La 
+percentuale di fallimento di un incantesimo di teletrasporto è raddoppiata per ogni 50km 
+sopra i 100km di distanza dall'obbiettivo. Questo spiega anche come mai nessuno su Ymir 
+faccia affidamento su simili incantesimi per il trasporto in vasta scala.
+●
+Offuscamento: come rende difficili gli incantesimi di trasporto, allo stesso modo il Maelstrom 
+annebbia e distorce quelli divinatori. Nessun incantesimo del genere lo può penetrare. Inoltre, 
+più ci si allontana nel passato o nel futuro con tali visioni, più esse si offuscano, diventando 
+via via meno affidabili.
+
+
+===== [page 21] =====
+DIVINITA’ e POTENZE
+COSMOGONIA
+In principio, secondo il mito più diffuso su Ymir (pur con le sue diverse varianti), esisteva un solo 
+dio: Ech, l’Uno. Nessuno sa perché ma egli ad un certo punto si divise in due entità distinte, dando 
+così origine all’inizio dei tempi. 
+La prima divinità, Mithra, il Creatore (che gli xebechani chiamano Quetzacoatl)  è l’energia creatrice 
+che diede origine alla vita. È connessa alla luce, al bene, alla creazione, alla vita, all’Aether, alla 
+pace, alla guarigione, ecc.
+L’altra, Ahriman, il Corruttore (che gli xebechani chiamano Azatzotech), è l’energia distruttrice che 
+diede luogo al fenomeno della morte e del decadimento. È connessa all’oscurità, al male, alla 
+distruzione, alla morte, al Nether, alla guerra, alla malattia, ecc.
+Le due divinità sono in continua lotta fra di loro, eppure nessuna delle due può esistere senza l’altra, 
+così come non può esserci luce senza tenebre, bene senza male o vita senza morte.
+Dal contrasto fra queste due divinità ebbero origine le sei Divinità Gemelle, gli dei che presiedono i 
+sei elementi (Fuoco, Acqua, Ghiaccio, Aria, Terra e Luce). Con l’aiuto di questi dei gemelli Mithra 
+creò il mondo e le diverse razze che lo popolano. Ahriman, detestando ogni cosa, tentò di distruggere 
+la creazione di Mithra ma fallì, riuscendo solo parzialmente a corrompere il lavoro di suo fratello. Si 
+ritirò allora nel Vuoto oltre il creato, dove diede origine alla razza dei Demoni corrompendo con il 
+suo potere gli Spiriti che lì dimoravano.
+DIVINITA’ PRINCIPALI
+Su Yimir esistono un enorme quantità di culti e credo religiosi, elencarli tutti sarebbe un'opera 
+immane. Tuttavia, nella maggior parte del pianeta vige una sorta di monolatria: nessuno mette in 
+dubbio l'esistenza delle varie divinità, ma ognuno ne adora una in particolare, che vede come vera 
+rappresentazione dell'Assoluto e comprendente in sé le altre.
+Di seguito sono elencate le divinità più diffusamente adorate in Ymir, oltre al loro nome sono 
+indicati brevemente la loro sfera di influenza.
+Mithra: Il Creatore, Signore del Sole e della Luce, dio della Giustizia e del Bene. Il suo simbolo è 
+un sole d’oro. 
+Ahriman: Il Corruttore, Il Supremo Dio del Male, dio dell’Ingiustizia e del Male. Portatore di 999 
+Piaghe per affliggere il mondo. Principale nemico di Mithra e degli dei del Bene. Il suo simbolo è un 
+Sole Nero.  
+Ishtar: La Dea Madre, dea della Luna e dell’Amore, ma anche della Guerra. Sposa di Mithra. Il suo 
+simbolo è una Luna d’Argento. 
+Kur: La Signora Oscura, dea della morte e degli inferi, è anche dispensatrice di oracoli e profezie. 
+Sposa di Ahriman.  Il suo simbolo è un teschio. 
+Thurms: il Signore del Tuono, dio della guerra e delle tempeste, colui che guida i giusti alla vittoria. 
+Il suo simbolo è una folgore. 
+Gog: il Serpente, tenebroso Dio dei Dannati, dio della Vendetta, della Menzogna e della Corruzione. 
+Da sempre nemico del Bene ma in particolare del dio Thurms. Il suo simbolo è un serpente 
+attorcigliato su se stesso. 
+Aisen: il Liberatore, dio della Libertà e Salvatore degli Oppressi. Il suo simbolo è una catena 
+spezzata. 
+Tifereth: Dea dell’Amore e della Bellezza. Il suo simbolo è una rosa rossa. 
+Hokhmah: Dea della Saggezza e della Conoscenza volte al Bene. Il suo simbolo è una torcia. 
+Tuchulcha: L’Ottenebratore, dio della Notte Eterna e del Sapere volto al Male. Il suo simbolo è un 
+corvo. 
+
+
+===== [page 22] =====
+Orum: Dio del Mare, protettore dei navigatori e dei pescatori. Il suo simbolo è una conchiglia. 
+Ranin: Il Mercante, dio delle transazioni, degli artigiani e del commercio. Il suo simbolo è un 
+martello. 
+Hudemia: La Giusta Madre delle Acque, dea della Legge e della giustizia. È una delle sei divinità 
+elementali ed è legata all’elemento dell’Acqua. Il suo simbolo è una lancia che regge i piatti di una 
+bilancia. 
+Heis: Il Dio Folle, dio del Vento, del caso, della furia e della pazzia. Secondo degli dei elementali, è 
+legato all’elemento dell’Aria. Il suo simbolo è 
+un volto mostruoso e digrignante, con unico 
+corno in mezzo alla fronte. 
+Diis: La Dama delle Fiamme, dea del Fuoco e 
+della passione, dispensatrice di vita e 
+distruzione. Divinità elementale legata 
+all’elemento Fuoco. Il suo simbolo è un cuore 
+avvolto dalle fiamme. 
+Therìos: Il Cacciatore, dio della foresta e 
+delle belve, protettore dei viandanti e dei 
+cacciatori. Il suo simbolo è una testa di lupo. 
+Divinità elementale legata all’elemento Terra. 
+Dingir: La Duplice, dea della Luce e 
+dell’Ombra, della logica e della Magia. Dea 
+elementale legata all’elemento Luce. Il suo 
+simbolo è una Stella.  
+Varshnak: La Belva, dio del lato oscuro della 
+natura, della furia degli elementi e 
+dell’inverno. Ultimo degli dei elementali, il 
+suo elemento è il Ghiaccio. Il suo simbolo è 
+un’ascia, dalla cui impugnatura spuntano le radici di un albero.
+Niethel: La Fonte, si tratta di un luogo (o di uno stato di esistenza) nel quale gli elfi risiedevano 
+prima di giungere su Ymir. La religione elfica è incentrata su questo luogo diivino.
+PANTHEON XEBECHANO
+Gli xebechani hanno un pantheon di divinità tutto loro, alcune delle quali presentano notevoli affinità 
+con quelle degli altri popoli, altre completamente diverse. Per questa ragione, esse vengono 
+presentate separatamente dalle altre.
+Quetzacoatl: Il Serpente Piumato, dio della Vita, della Nascita e del Bene, anche conosciuto come il 
+Grande Benefattore. Il suo simbolo è un serpente piumato. 
+Omotecuthli: Il Signore della Dualità, dio dell’Abbondanza e della Saggezza. Il suo simbolo è una 
+stella. 
+Tezcatlipoca: Signore del cielo Notturno, protettore dei guerrieri. Il suo simbolo è un giaguaro. 
+Allineamento: Legale Buono
+Ehecatl: L’Incostante, versione Xebechana di Heis. Il suo simbolo è il camaleonte. 
+Mictlantechuli: il Signore del Mondo Sotterraneo. Dio della Terra e delle fiere, versione Xebechana 
+di Therios. Il suo simbolo è il pipistrello. 
+Xiuhtecuhtli: Signore della Terra di Cenere. Dio del Fuoco, versione xebechana di Diis. Il suo 
+simbolo è il babbuino. 
+Tamoanchan: L’Integerrima. Versione xebechana di Hudemia. Il suo simbolo è il gabbiano. 
+Heichpyel: L’Osservatore. Scriba degli dei, custode dei segreti che non devono essere svelati. Il suo 
+simbolo è il gufo. 
+Azatzotech: Il Grande Putrefattore, dio della Putrefazione, della Morte e dei Non Morti, anche 
+
+
+===== [page 23] =====
+conosciuto come L’Orrore Putrescente. Il suo simbolo è un condor. 
+Yogh: Il Dio-Ragno, dio del Veleno e dell’Assassinio, anche conosciuto come la Morte Strisciante. 
+Il suo simbolo è un ragno. 
+Xhulhu: Colui che Dorme e Sogna, dio degli Abissi, il Naufragatore e Portatore di Tempesta, anche 
+conosciuto come la Follia dal Profondo. Il suo simbolo è un tentacolo. 
+ENTITA’ EXTRAPLANARI
+SPIRITI
+Gli Spiriti sono entità immateriali che appartengono ad un piano di esistenza che è diverso dal nostro 
+ma, allo stesso tempo, circonda il piano materiale e lo avvolge: il Mondo Spirituale o Piano Etereo. 
+Sono ancora poco conosciuti perché tendono a corrompersi e diventare Spiriti Furiosi (incontrollabili 
+e malevoli) se rimangono troppo in contatto col mondo materiale.
+ELEMENTALI
+Spiriti provenienti da uno dei piani elementali o esseri creati artificialmente con gli elementi. Si 
+dividono in:
+-
+Wispling (i più deboli, paragonabili a piccoli animali come insetti o roditori delle nostro 
+piano di esistenza)
+-
+Ibridi (esseri parte elementali e parte no, corrotti almeno per metà da un elemento)
+-
+Servitori (gli elementali artificiali più piccoli e deboli)
+-
+Cavalcature (anche questi artificiali)
+-
+Guardiani (elementali artificiali di classe superiore)
+-
+Giganti Elementali ( i più potenti e meno controllabili degli elementali artificiali)
+-
+Veri Elementali (di potenza varia, da Debole a Forte)
+-
+Elementali Superiori (i più potenti fra i Veri Elementali)
+-
+Draghi (i più potenti fra gli elementali Ibridi)
+-
+Signori Elementali (uno per elemento, entità semi divine)
+DJINN
+Entità create semi artificialmente, utilizzando il mana per dare forma fisica ad uno Spirito in modo 
+da impedire che si corrompa. Solitamente sono legati ad un luogo o ad un oggetto, ma possono 
+essere creati anche per compiere una singola missione. Sono divisi secondo la seguente 
+classificazione, in ordine di potenza:
+-
+Jann
+-
+Jinn
+-
+Shaitan
+-
+Ifrit
+-
+Marid
+ANGELI
+Sono il contrario dei Demoni, Spiriti servitori del dio del Bene, esseri composti esclusivamente di 
+energia benefica. Anch’essi risiedono in piani esterni al nostro e sono divisi in 3 Sfere:
+-
+Terza Sfera (Angeli, Arcangeli e Principati)
+-
+Seconda Sfera (Dominazioni, Potestà, Virtù)
+-
+Prima Sfera (Serafini, Cherubini, Troni)
+DEMONI
+I Demoni sono Spiriti completamente corrotti e asserviti al dio del Male, che risiedono in piani di 
+esistenza esterni a quello materiale. Quando si manifestano su questo piano assumono sembianze 
+orribili e distorte perché la loro essenza impedisce loro di celare la propria natura perversa senza 
+ricorrere a potenti incantesimi di occultamento (più un demone è potente e più gli è difficile 
+
+
+===== [page 24] =====
+nascondere il proprio vero aspetto, tanto che quest’operazione è praticamente impossibile per i 
+demoni maggiori). Gli studiosi hanno suddiviso i demoni in sei Cerchie, che determinano la loro 
+gerarchia e la loro potenza, dai più deboli (prima Cerchia) ai più forti (sesta Cerchia). Esistono poi 
+demoni (per esempio i Demoni Sovrani e alcuni loro luogotenenti) talmente potenti da sfuggire ad 
+ogni classificazione, che non appartengono a nessuna Cerchia e sono considerati “Oltre le Cerchie”. 
+In genere, più un demone è potente e più è raro (perché sono necessari incantesimi di alto livello per 
+convocarlo su Ymir) inoltre, i demoni appartenenti alle Cerchie più alte sono più difficili da 
+controllare e ciò scoraggia la maggior parte dei maghi dal tentare la loro evocazione. 
+ 
+DEMONI SOVRANI
+I Demoni Sovrani sono i demoni più potenti, addirittura vicini allo stato di divinità minori in termini 
+di possanza. Sono i più fidati vassalli del dio del Male e il loro unico scopo pare essere la distruzione 
+di Ymir. A quanto pare, nonostante il loro potere, devono sottostare alle leggi che governano tutti i 
+demoni e non possono manifestarsi su Ymir a meno di non venir evocati (cose che richiede rituali 
+magici a dir poco complessi). Sebbene come tutti i demoni siano immortali, sembra sia possibile 
+annientarli. Per farlo, tuttavia, non basta uccidere il loro corpo, occorre trovare la loro vera essenza e 
+distruggerla, cosa più facile a dirsi che a farsi. Qui di seguito sono elencati i Demoni Sovrani in 
+ordine gerarchico di potenza. Non fatevi ingannare, però! Perfino il minore fra i Demoni Sovrani 
+dispone di un potere più grande di quanto un comune mortale possa immaginare.
+ 
+Asmodeus: Signore della Tirannia
+SIMBOLO: Drago nero
+Astharoth: Signore del Massacro
+SIMBOLO: Pentacolo Rovesciato
+Xardas: (Il Burattinaio) Signore dei Complotti
+SIMBOLO: Ragnatela
+Belial: Signore della Perfidia
+SIMBOLO: Serpente bianco a due Teste
+Behemoth: Signore della Natura Perversa
+SIMBOLO: Satiro
+Azazel: Signore della Dannazione
+SIMBOLO: Mano con 7 dita
+Abraxas: Signore della Magia Proibita
+SIMBOLO: Chiave Nera
+Moloch: Signore del Sacrificio
+SIMBOLO: Teschio di Toro
+Arioch: Signore dell’Oscurità
+SIMBOLO: Stella a 8 punte
+Masak: Signore delle Illusioni
+SIMBOLO: Maschera
+Alastor: Signore del Crepuscolo
+SIMBOLO: Corona Nera
+Abigor: Signore dei Campi di Battaglia
+SIMBOLO: Tridente
+Ismael: Signore dell’Avarizia
+SIMBOLO: Moneta
+Adramelek: Signore delle Menzogne
+SIMBOLO: Pavone
+Nergall: Signore dell’Assassinio
+SIMBOLO: Pugnale
+Netunshiel: Signore delle Cripte
+SIMBOLO: Sciacallo
+Gaziel: Signore dell’Ira
+SIMBOLO: Orso
+ 
+Ea: Signore degli Abissi
+SIMBOLO: Kraken
+NOTE: Defunto
+Saxul: Signore di Tutte le Febbri e Pestilenze
+SIMBOLO: Nessuno
+NOTE: Defunto
+
+
+===== [page 25] =====
+L’ANNO DI YMIR
+1 giorno = 24 ore (1 alba; 11 giorno; 1 tramonto; 11 notte)
+1 mese = 30 Giorni 
+12 mesi = 1 Ciclo (anno)
+Numero
+Nome Mese
+Stagione
+1
+Grifone
+2
+Cinghiale
+PRIMAVERA
+3
+Salamandra
+4
+Cervo
+5
+Viverna
+6
+Unicorno
+ESTATE
+7
+Serpente
+8
+Falco
+AUTUNNO
+9
+Ragno
+10
+Chimera
+11
+Gazza
+12
+Tartaruga
+INVERNO
+Grifone: i personaggi del segno del Grifone sono dinamici, coraggiosi e pronti all’azione. Possono 
+anche essere egoisti, impulsivi, impazienti, satirici e poco sottili.
+Cinghiale: i Cinghiali sono pratici, tenaci, resistenti e dalla forte volontà, possono anche essere 
+possessivi, spacconi e inflessibili.
+Salamandra: i personaggi del segno della Salamandra sono intellettuali, versatili, loquaci e logici. 
+Possono anche essere impiccioni, scaltri e superficiali.
+Cervo: i Cervi sono sensibili, cauti, protettivi ed empatici. Possono anche essere emotivamente 
+instabili, manipolatori e pavidi.
+Viverna: la Viverne sono ottimiste, impetuose, carismatiche e magnanime. Possono anche essere 
+pompose, arroganti, stravaganti e dogmatiche.
+Unicorno: gli Unicorni sono modesti, nobili, meticolosi e analitici. Possono anche essere ansiosi, 
+fastidiosi, falsi e crudeli.
+Serpente: i personaggi del segno del Serpente sono affascinanti, diplomatici, idealisti e romantici. 
+Possono anche essere frivoli, vani, subdoli e indecisi.
+Falco: i Falchi sono di larghe vedute, ottimisti, sinceri, pronti e avventurosi. Possono anche essere 
+estremisti, irresponsabili, capricciosi e teste calde.
+Ragno: i Ragni sono disciplinati, intellettuali, leali e amichevoli. Possono anche essere eccentrici, 
+pessimisti, bastiancontrari e subdoli.
+Chimera: i personaggi del segno della Chimera sono intuitivi, sensibili, svegli e inventivi. Possono 
+anche essere sbadati, indecisi, privi di senso pratico e di scopo.
+Gazza: le Gazze sono simpatiche, curiose, intraprendenti e indipendenti. Possono anche essere 
+avide, avare, impazienti e presuntuose.
+Tartaruga: le Tartarughe sono pazienti, leali, sagge, imperturbabili e tenaci. Possono anche essere 
+lente, caparbie, pavide e sciocche.
+
+
+===== [page 26] =====
+BREVE CRONOLOGIA
+I TEMPI DIMENTICATI
+•
+Esiste una sola entità (Ech), dalla quale fluisce la moltitudine di Spiriti che danno origine alla 
+magia.
+•
+Ech si divide in due, si ha una Grande Guerra fra Bene e Male, compaiono le prime Divinità.
+•
+Compaiono Ymir e il cosmo. Il pianeta è popolato di vita, compaiono i Grandi Vermi (i 
+Draghi).
+I GIORNI ANTICHI
+•
+Passano diversi millenni. Il principio Creatore da origine alle altre razze, mentre il Distruttore 
+cerca di corromperle. 
+•
+Regno degli Adepti, secondo gli studiosi, durerà circa 50000 anni. 
+•
+Vengono evocati i Demoni Sovrani (forse Spiriti corrotti di grande potere), Guerre 
+Demoniache. Molte creature sono corrotte dal Male. 
+•
+Gli Elfi arrivano da un altro mondo tramite portali dimensionali. Si schierano con le razze di 
+Ymir e combattono i Demoni Sovrani.
+•
+Topramesk il Folle raggiunge il centro di Ragash e compie la cerimonia che porta alla 
+Catastrofe. Le armate dei Demoni Sovrani sono sconfitte, Ymir è strappato dal normale piano 
+di esistenza, compare il Maelstrom.
+I GIORNI OSCURI
+•
+Grande Paura, molti artefatti magici vengono distrutti. Si inizia a contare il tempo a partire 
+dal Maelstrom. I popoli si riprendono dal disastro, passano diversi secoli prima che le genti 
+ritrovino stabilità e venga rifondata una parvenza di civiltà. 
+•
+Anni della Discordia, guerre intestine agli elfi porteranno alla divisione in due gruppi della 
+razza (circa 800 anni dopo il Maelstrom)
+•
+Il Qi-Long è unificato sotto l’impero dei Mah-Dhol (1290 d.M. circa)
+•
+Gli Xebechani costruiscono le prime Vere Vie, portali magici che collegano fra loro punti 
+molto distanti nel mondo, con lo scopo di unificare le genti di Ymir e prepararsi ad un 
+eventuale ritorno dei Demoni Sovrani.  (1400-1500 d.M. circa)
+•
+Quasi l’intero territorio settentrionale di Ymir è compreso dall’impero Letio, che in questo 
+periodo raggiunge, con l’annessione di Helgedad, la massima espansione (1555 d.M.)
+•
+Il Demone Sovrano Ea, liberato accidentalmente dalla sua prigione terrena, tenta di 
+impadronirsi di Ymir tramite il Culto dell’Ostrica Blu. I suoi tentativi vengono sventati e 
+l’essenza del Demone viene distrutta (1570 d.M.)
+•
+Il Cuore del Caos si sviluppa nel centro della foresta che, d’ora in avanti, sarà conosciuta 
+come “il Groviglio” (1600 d.M.)
+•
+Dietro le pressioni diplomatiche degli Xebechani, ha luogo il Primo Concilio delle Genti, a 
+cui partecipano molte delle massime autorità mondiali. In esso sono esposte le prove che 
+esistono ancora altri Demoni Sovrani, oltre ad Ea, e che stanno tramando per impossessarsi di 
+Ymir (1700 d.M circa)
+•
+Kyria è avvolta dalle Nebbie (1710 d.M. circa)
+•
+La Coalizione delle Genti, i popoli giurano unità contro la minaccia dei Demoni Sovrani 
+(anno 1735 d.M.). Seguono circa 200 anni di pace.
+
+
+===== [page 27] =====
+I GIORNI INFUOCATI
+•
+L’impero Mah-Dohl cade e il Qi-Long è diviso in 6 regni (1900-1920 d.M.). Comparsa degli 
+Dei-Drago.
+•
+La Grande Orda degli Orchi, comandata dal Supremo Uglush, invade la parte orientale 
+dell’impero Letio, creando gli Stati Belligeranti (2015-2030 d.M.)
+•
+Dopo una lunga ed estenuante guerra contro le orde non morte comandate da un misterioso 
+nemico, gli xebecani vengono cacciati dalla parte settentrionale dello Xebech, che d’ora in 
+avanti verrà chiamata “Loquitchatzotech” (Isola della Morte). La popolazione xebechana esce 
+quasi dimezzata dal conflitto. (2020-2095 d.M.)
+•
+Nuove ostilità fra gli elfi di Alfheim e del Gaerwath, Seconda Guerra Elfica (2080-2115 
+d.M.)
+•
+Re Athmokethepek I, in seguito ad una sanguinosa campagna militare, riesce a riunire sotto 
+la sua guida alcune tribù del Grande Erg e fonda il regno di Khorish (2160-2180 d.M.)
+•
+Guerra dei Principi, al termine della quale i Regni Giovani si separano dall’Impero Letio 
+(2200-2230 d.M.)
+•
+Guerra delle Onde fra i principi di Cartosa e la Repubblica di Meridian (2320-2350 d.M.)
+•
+Il Deserto Scintillante appare nel Sadhir (2400 d.M. circa)
+•
+Il Gaerwath è unificato sotto la guida del giovane Morannagul (2550 d.M.)
+•
+Il Demone Sovrano Saxul compare su Ymir all’interno della capitale imperiale Letia. Una 
+grande nube nera aleggia sulla città per tutta la sua permanenza. Battaglia della Terra 
+Infranta. Infine, grazie agli sforzi congiunti di diversi eroi, Saxul viene sconfitto ed 
+annientato. Tuttavia, Valdis Nemertine, ultimo erede al trono di Letia, muore durante lo 
+scontro. (2563 d.M.)
+I GIORNI NUOVI
+•
+Secondo Concilio delle Genti: per la seconda volta, i popoli liberi si riuniscono in assemblea 
+per confermare la loro alleanza contro i Demoni Sovrani. Nella città di Elendor, capitale del 
+regno dei Folletti nelle Isole D’Argento, viene costruita la sede mondiale del Concilio: il 
+Seggio di Cristallo.  (2590-2595 d.M.)
+•
+Helgedad si separa da ciò che resta dell’impero Letio.(2600 d.M.)
+•
+La chiesa di Mithra assume posizione di comando in tutta la Letia (2610 d.M.)
+•
+Guerre dei Goblin, i nani ricacciano la maggior parte delle tribù goblin e riconquistano 
+Naughrith (2735-2740 d.M)
+•
+Rodriguez Carrillo XI conquista la Repubblica di Meridian e la annette al Principato di 
+Cartosa (2830 d.M.) 
+•
+Guerra dei Principi nei Regni Giovani (2968-2990 d.M.)
+•
+Inverno dei Disordini ad Helgedad. Con quello che passerà alla storia come l’Assedio di Un 
+Giorno, l’esercito dei Lupi conquista la capitale di Nortislong, salvo poi venir ricacciato 
+quando i suoi generali spariscono misteriosamente nel nulla  (3015 d.M.).
+•
+Berthrant Vaelaer combatte i resti dell’esercito dei Lupi, intenzionato a spazzar via il  Male 
+da Helgedad. (3015-3020 d.M.)
+•
+Anno del Sole Nero a Cartosa: periodo caratterizzato da disordini che terminano in una 
+guerra civile (3017 d.M)
+•
+Seconda Guerra delle Onde: la Repubblica di Meridian approfitta della debolezza del 
+Principato di Cartosa per cercare di riottenere l’indipendenza. Dopo cinque anni di guerra, i 
+due reami giungono ad una tregua e la Repubblica di Meridian, pur rimanendo sotto il 
+dominio Cartonano, ottiene una parziale indipendenza (3018-3023 d.M).
+
+
+===== [page 28] =====
+•
+Guerra dei Lupi in Helgedad: l'esercito dei Lupi attacca nuovamente Helgedad e conquista 
+quasi metà dell’isola, imponendo un regno di terrore (3021-3024 d.M.).
+•
+Grande Guerra nei Regni Giovani, che vede opposti tre schieramenti: da una parte gli eserciti 
+di Armora, Wald e Zaalesha; da un'altra quelli di Vallanya, Caeldir e Tydriell e, infine, le 
+oscure armate dell'antico drago Gwalgamaur (3025-...)
+
+
+===== [page 29] =====
+GLOSSARIO
+Adepti: Antichi arcimaghi che un tempo governavano il mondo. Per errore finirono per evocare i 
+Demoni Sovrani e, nel tentativo di ricacciarli, crearono il Maelstrom. 
+Alfheim: Alfheim è la patria degli elfi chiari, si tratta di un vasto reame boscoso abitato in 
+prevalenza da elfi alti e silvani, con molti insediamenti elfici di varie dimensioni al suo interno, il 
+maggiore dei quali è Ost-en-Galad (Alto Elfico: la Città Splendente), la capitale del regno. 
+Nonostante gli elfi chiari si dichiarino ben disposti a collaborare con le altre razze e visitino 
+abbastanza spesso i regni dei vicini umani e nani, è difficile trovare umani all’interno di Alfheim (per 
+lo più mercanti o, comunque, gente di passaggio). Gli elfi sanno come rendere le proprie città 
+difficili da trovare e tutte le strade di Alfheim sono ben sorvegliate, sia dalle pattuglie dei ranger reali 
+che tramite mezzi meno convenzionali. Il regno è governato da una regina e dal suo regale consorte, 
+che presiedono il Concilio, di cui fanno parte i maggiori membri dell’aristocrazia elfica. Tutte le 
+questioni di importanza vengono discusse al Concilio ed esso propone alla regina la linea da seguire, 
+che lei decide di approvare o meno (solitamente le decisioni del Concilio vengono rispettate ma può 
+accadere che la regina faccia di testa sua).
+Cartosa, Principato di: Cartosa è la capitale di un vasto territorio nella parte meridionale di Ymir. Il 
+popolo di Cartosa vive soprattutto di pesca e commercio, le navi Cartosane fanno vela in tutto Ymir 
+e sono molto ricercate per la loro manovrabilità. Sfortunatamente, Cartosa è anche nota come la 
+“città dei ladri” e il popolo del Principato si porta ovunque la sgradita fama di essere composto 
+prevalentemente da ladri, pirati e bucanieri. Che la pirateria sia frequente attorno alle coste del 
+principato e che alcuni pirati siano finanziati dal governo per eliminare la concorrenza è un dato di 
+fatto ma le voci, come al solito, tendono ad essere esagerate e a fare di tutta l’erba un fascio. Per il 
+resto il Principato è un luogo abbastanza piacevole, il clima è caldo per la maggior parte dell’anno 
+ma caratterizzato da alcuni rovesci molto violenti e qualche tifone, soprattutto d’estate. L’entroterra è 
+molto meno civilizzato della costa, ci sono meno insediamenti e sono più piccoli, a parte per la 
+grande città di Meridian, che comunque ha sbocco sul fiume. Addentrarsi troppo sulla terraferma può 
+essere pericoloso, soprattutto vicino alle montagne, che sono abitate da tribù barbariche di nani 
+selvaggi e altre creature poco ospitali.  
+Confini: Linee di confine mistiche fra i diversi reami di Ymir, probabilmente lasciate dalla 
+Catastrofe. Invisibili e normalmente intangibili, sono tuttavia impenetrabili a qualsiasi tipo di magia, 
+impedendo, per esempio, il teletrasporto fra reami diversi.
+Demoni Sovrani: I più potenti fra i demoni, comandano legioni infernali e hanno più volte tentato di 
+invadere Ymir. Il loro unico scopo pare essere la distruzione del mondo. 
+Gaerwath: Il Gaerwath (Elfico: Mare della Stregoneria) non è sempre stato un arcipelago, prima 
+della Catastrofe esso era tutt’uno col continente assieme alle Isole d’Argento. Il mare intorno alle 
+isole del Gaerwath è burrascoso e infido, pieno di correnti traditrici; solo i marinai più esperti o le 
+navi guidate dalla magia riescono ad attraversarlo, e non senza una guida elfica. Gli elfi oscuri 
+abitano queste isole, assieme ad un gran numero di membri di altre razze, per lo più orchetti e umani, 
+che li servono come schiavi. Ogni isola dell’arcipelago è occupata quasi interamente dalle città degli 
+elfi, ognuna un capolavoro di oscura bellezza. Le varie città e, secondo quanto dicono alcuni, perfino 
+le isole stesse, sono collegate fra loro attraverso strade sotterranee e ponti magici. La magia è un 
+elemento fondante della vita nel Gaerwath e non saperla utilizzare significa essere un fuori casta 
+oppure uno schiavo. Ai vertici della politica interna, le varie casate e famiglie di elfi oscuri si 
+contendono il potere, con alleanze e tradimenti che hanno ripercussioni su ogni strato sociale e ogni 
+persona del Gaerwath. Ogni famiglia elfica è specializzata in un campo particolare, sia esso 
+l’alchimia, lo spionaggio o semplicemente il commercio, e questa specializzazione viene tramandata 
+di padre in figlio e sfruttata al massimo all’interno della rete di intrighi che avvolge il paese.  
+Grande Erg, il: Il Grande Erg è il nome dato al più vasto deserto di Ymir, sede del regno di 
+Khorish, i cui monarchi si proclamano discendenti di un dio; della città-stato di Ulan-Tang, dove si 
+
+
+===== [page 30] =====
+tessono innumerevoli sortilegi e si adora Yogh, l’oscuro dio-ragno; e dei vasti territori reclamati dai 
+predoni e dai nomadi del deserto. È un luogo inospitale ma non privo di bellezza e ricco di diversità, 
+misterioso ed inesplorato per la maggioranza degli stranieri. Molti mercanti vi fanno spola, alla 
+ricerca di profumi, spezie, legni ed oli esotici, introvabili nel resto di Ymir. Ciò che più di ogni altra 
+cosa cercano questi mercanti è il Loto Nero, un fiore rarissimo dal quale si possono ricavare droghe 
+che aprono le porte della mente e potenziano i poteri magici di che le assume.
+Helgedad: Helgedad è una delle terre più a nord fra quelle abitate di Ymir ed è il luogo più freddo di 
+questo mondo. Il suo clima impietoso gli è valso il nome di Inferno Gelato. È abitata in prevalenza 
+da uomini, anche se sulla catena dei monti Aestyr è presente una considerevole quantità di nani. Gli 
+elfi sono rari in Helgedad, vivono quasi esclusivamente nel Bosco di Caelebawn, peraltro evitato 
+quando possibile dagli uomini, tessendo intorno alle proprie dimore reti di illusioni e incantesimi di 
+sviamento. Si tratta di una particolare genia di Elfi Silvani, ritiratasi in queste lande, a quanto pare, 
+per sfuggire alla guerra fratricida che, migliaia di anni fa, divise gli Elfi di Alfheim dagli Elfi Oscuri 
+del Gaerwath. Il loro unico interesse sembra essere quello di perpetuare il loro isolamento e non 
+intervengono mai negli affari del mondo esterno.
+Isole d’Argento: Arcipelago a sud-est della Letia, dal clima mite e temperato. Sede del più grande 
+regno dei Folletti esistente su Ymir, con capitale nella città di Elendor, che ospita anche il Seggio di 
+Cristallo. In passato i Folletti hanno avuto qualche diatriba con il vicino Gaerwath ma sono sempre 
+stati in grado di evitare un’invasione. Le isole più a sud ospitano anche un piccolo ma fiorente 
+ducato di Uomini Lucertola, in buoni rapporti col regno dei Folletti. In genere, le Isole d’Argento 
+sono viste dagli altri reami come territorio neutro.
+Kyria: Kyria è una grande isola selvaggia e quasi perennemente avvolta da nebbie, nella parte nord 
+occidentale di Ymir, occupata prevalentemente da alte montagne e foreste intricate. Si trova quasi 
+tanto a nord quanto Helgedad ma non è così fredda. I Tanoth, uno strano popolo di bestie umanoidi, 
+reclamano Kyria come loro patria. Dato che essi non costruiscono né città né villaggi l’unico centro 
+abitato di tutta l’isola è la città di Thonis, fondata da un gruppo di rifugiati umani ed elfi. L’isola non 
+è stata toccata dalla Catastrofe ed è rimasta isolata dal resto del mondo dal tempo delle Guerre 
+Demoniache. Gli abitanti di Thonis si accontentano di coltivare la loro terra ed essere lasciati 
+tranquilli ed i Tanoth li accontentano volentieri, essendo per natura un popolo schivo ed 
+indipendente. In altre parole, gli abitanti di Ymir sanno ben poco di quello che accade qui, anzi la 
+maggior parte  di essi non sa nemmeno che l’isola esiste.
+Letia: Un tempo un grande impero umano, ora la Letia ha perso molti dei suoi territori a causa delle 
+invasioni degli orchi che hanno creato i Regni Belligeranti e ai problemi per la successione della 
+dinastia imperiale, che hanno dato vita ai Regni Giovani. Ora la Letia è governata dal Clericato di 
+Mithra, con sede nella città di Solanthya. Il governo è retto dal Pater, il sommo sacerdote di Mithra. 
+Rimane una terra vasta, dal clima temperato, divisa in tante piccole marche e baronati, che rendono 
+conto direttamente al governo centrale. La regione è abitata in prevalenza da umani, anche se sui 
+Monti Bianchi è presente un gran numero di nani, nonché una delle più grandi roccaforti naniche di 
+tutto Ymir: Naughrit. La maggior parte delle altre razze (esclusi orchi, elfi oscuri e seguaci delle 
+Tenebre) è la benvenuta nei territori Letii ma ogni viaggiatore impara ben presto a non intromettersi 
+negli affari di chiesa e a non professare troppo apertamente un culto diverso da quello di Mithra
+Maelstrom: Il Maelstrom è ciò che resta della grande città che un tempo governava Yimir. Una 
+continua tempesta di energia magica, simile ad un enorme tornado dal diametro di parecchie decine 
+di chilometri, che imperversa al centro del Nuovo Oceano. Il mare nei dintorni del Maelstrom è 
+sempre burrascoso e nessuna nave è mai riuscita a solcarlo senza colare a picco. Allo stesso modo, 
+nessuno è mai riuscito a penetrare nel Maelstrom o a scorgere cosa si cela al suo interno. È risaputo 
+che a volte strane cose ne escono, esseri giganteschi e deformi o misteriosi resti di qualche antico 
+manufatto alieno, e che nei suoi pressi la magia è incredibilmente forte, ma nessuno è mai riuscito a 
+trovare una spiegazione a questi fatti.
+Marchiato: A causa dell’influsso del Maelstrom, a volte accade che un bambino nasca con il 
+marchio della magia su di esso, che si manifesta come una qualche deformità fisica o peculiare 
+capacità. Solitamente, i bambini Marchiati sono uccisi alla nascita (e per alcuni di essi si tratta quasi 
+
+
+===== [page 31] =====
+di un gesto di pietà), altri non superano i primi mesi di vita, altri ancora impazziscono e diventano 
+mostri assetati di sangue. I pochi che riescono ad arrivare all’età adulta sono costretti a vivere 
+nascondendo la loro natura, perché i Marchiati sono incompresi dalla gente normale, che teme i loro 
+poteri magici. 
+Ophiur: Ophiur è un continente per lo più selvaggio ed inesplorato, ricoperto per la maggior parte 
+da una giungla lussureggiante ed intricata. I maggiori centri abitati si trovano sulla costa oppure ai 
+confini con il Sadhir o il Qi-Long ed alcuni, come Zabhula oppure Gazal, sono tappe fisse di 
+mercanti ed avventurieri di ogni genere. I Popoli Neri abitano queste terre, vivono divisi in tribù e 
+risiedono nei villaggi che si trovano all’interno della giungla. Le vari tribù sono molto diverse tra 
+loro, alcune sono pacifiche, altre belligeranti, ed hanno usanze e costumi molto diversi. Tutte le 
+tribù, tuttavia, sono d’accordo nel considerare tabù la parte più interna del continente, dove le 
+leggende situano città fantastiche piene d’oro e gioielli, ma anche abitate da vampiri e demoni 
+immondi.
+Qi-Long: Il Qi-Long è un vasto territorio suddiviso in sei regni da parecchi secoli in lotta fra loro. 
+Questi regni sono governati col pugno di ferro dai potenti e misteriosi Dei-Drago, depositari, 
+secondo le leggende, di incredibili poteri mistici. Un tempo questo territorio ospitava il glorioso e 
+prospero impero Mah-Dhol, ora è un luogo devastato dalla guerra, dove raramente si recano gli altri 
+abitanti di Ymir, anche perché gli agenti degli Dei-Drago non si fanno molti scrupoli a reclutare 
+forzatamente qualunque persona gli capiti a tiro, pur di rinforzare i propri eserciti.
+Regni Belligeranti: Hanno preso questo nome alcune delle marche di confine dell’impero Letio che, 
+dopo la caduta della casata imperiale, sono state invase dalle orde degli orchetti oppure si sono 
+dichiarate indipendenti. Si tratta di territori pericolosi, all’interno dei quali una debole linea di 
+resistenza umana si oppone all’avanzata delle truppe orchesche. La Grande Orda Nera degli orchetti, 
+ha già conquistato gran parte del territorio e catturato alcune importanti città. Temporaneamente pare 
+che l’avanzata dell’Orda si sia fermata e che essa stia consolidando il territorio conquistato, tanto che 
+gli orchetti hanno rinominato nella loro lingua le città conquistate e dichiarato capitale del proprio 
+regno la città di Gwarzurk (Orchesco: Luogo di Guerra). Il resto del territorio è occupato da 
+cittadelle umane e nanesche, che formano un’alleanza nella speranza di scacciare gli invasori.
+Regni Giovani: Hanno preso questo nome tutti quei regni che si sono sottratti all’influenza 
+dell’Impero Letio dopo la caduta della casata imperiale. Si tratta di molti piccoli regni, principati e 
+signorie che mantengono fra di loro rapporti tutto sommato pacifici. Molte persone arrivano ogni 
+anno dalla Letia nei Regni Giovani, nella speranza di rifarsi una vita o di trovarvi una mentalità più 
+aperta di quella del clericato che governa attualmente l’impero. Di conseguenza i Regni Giovani 
+sono pieni di ricercatori, artisti e altre persone che qui trovano di poter esprimere il proprio talento 
+più liberamente. Attualmente, in questo territorio si vive quello che potrebbe essere chiamato una 
+sorta di “Rinascimento Magico”; la magia è stata per così dire riscoperta e il suo utilizzo dilaga 
+sempre più. Non è difficile imbattersi in costrutti magici che svolgono lavori pesanti o trovare maghi 
+e alchimisti intenti a proporre i propri servigi ai potenti.  
+Sadhir: Il Sadhir è una terra relativamente giovane, creata dagli scompensi ambientali causati dalla 
+Catastrofe. Un tempo un piccolo arcipelago, ora che il mare si è ritirato si è trasformato in un 
+deserto. Le due città più grandi, Al-Jasul e Al-Sidath sono anche le uniche che risalgono a tempi 
+antecedenti la Catastrofe. Nel resto del territorio è difficile imbattersi in grandi città, anche se non 
+mancano i piccoli insediamenti e gli accampamenti temporanei delle tribù nomadi. La caratteristica 
+più curiosa del Sadhir è quello che viene comunemente chiamato il Deserto Scintillante, una vasta 
+zona decisamente poco ospitale, situata al centro del deserto, in cui la sabbia mescolata al sale crea 
+strane illusioni ottiche. Secondo a quanto dicono gli abitanti del deserto, pare che questa zona sia in 
+continua espansione, ingrandendosi di qualche centimetro l’anno. Nessuno riesce a trovare una 
+spiegazione logica a questo fenomeno ma, se fosse vero, tutte le popolazioni del deserto sarebbero in 
+grave pericolo.   
+Vere Vie: Portali magici costruiti dagli Xebechani che permettono il teletrasporto a lunga distanza, 
+anche attraverso i Confini.
+
+
+===== [page 32] =====
+Vero Elemento: Uno dei sei elementi (Acqua, Ghiaccio, Fuoco, Aria, Terra, Luce) nella sua forma 
+più pura.
+Xebech: Le lussureggianti giungle dello Xebech sono la patria della più antica civiltà esistente su 
+Ymir, quella degli Xebechani. Le loro millenarie città-tempio, veri capolavori di architettura, 
+sembrano quasi emergere direttamente dal fitto fogliame, oppure crescere sui fianchi delle montagne. 
+Ogni città Xebechana è dotata di almeno una Vera Via, ovvero un portale magico che permette di 
+viaggiare da un punto all’altro in pochissimo tempo, quasi istantaneamente. Si dice che esistano 
+molte altre Vere Vie nascoste in tutto il resto di Ymir e che un tempo fosse possibile utilizzarle per 
+spostarsi da un capo all’altro del mondo. Xebech comprende anche un vastissimo territorio 
+abbandonato, chiamato Loquitchatzotech (Xebechano: Isola della Morte) ed evitato da tutti. L’intera 
+isola è coperta da una fetida palude sulfurea. Al centro sorge una piccola catena vulcanica, fra le cui 
+rocce si trovano le antiche rovine della Città Senza Nome. L’intera isola è maledetta, popolata da 
+mostri orrendi e creature non morte che si cibano di chiunque vi metta piede.
+
+
+===== [page 33] =====

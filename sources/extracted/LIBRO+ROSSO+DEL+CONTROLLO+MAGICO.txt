@@ -1,0 +1,1408 @@
+
+
+===== [page 1] =====
+LIBRO ROSSO
+DEL
+CONTROLLO MAGICO
+Vademecum dell’Antimagia Pratica
+a cura del Collegio del Settimo Circolo
+
+
+===== [page 2] =====
+EDIZIONE LIMITATA DI CINQUANTA COPIE NUMERATE
+COPIA 11/ 50
+Volume a Cura di Sir Drusilde, 
+Cavaliere di Armora, allieva di Xochiyayotl
+Supervisore: Messer Crovos Bravaso, 
+Cavaliere di Armora, Presidente del S.C.M.
+Hanno Partecipato alla stesura del volume: 
+Crovos Bravaso
+Isidoro Von Graven, Cavaliere di Armora
+Saverio Attanasius Grimbaldi
+Lucretia Hesserman
+Alfredo von Zimmer
+Riccardo Varo Obertus
+Stampato presso la Tipografia Ducale
+Su commissione della Sezione di Controllo Magico
+I° Edizione
+Anno 3027 d.M. Era della Marea 2
+Armora, Granducato Di Armora
+
+
+===== [page 3] =====
+INDICE DEI CONTENUTI
+Introduzione: alcuni cenni preliminari sull’Arte Magica
+Come servirsi del Libro Rosso
+Nota del Supervisore
+1. Del Mentalismo
+Cosa si intende per Mentalismo
+Incantesimi più comuni
+Strategie d'attacco: i punti di forza e i punti deboli del Mentalismo
+Possibilità d'ingaggio contro il Mentalismo
+Domande frequenti
+2. Del Flusso
+Cosa si intende per Flusso
+Incantesimi più comuni
+Strategie d'attacco: i punti di forza e i punti deboli del Flusso
+Possibilità d'ingaggio contro il Flusso
+Domande frequenti
+3. Dell'Essenza
+Cosa si intende per Essenza
+Postilla: cosa si intende per Elemento
+Incantesimi più comuni
+Strategie d'attacco: i punti di forza e i punti deboli dell’Essenza
+Possibilità d'ingaggio contro l’Essenza
+Domande frequenti
+4. Degli Usufruitori Corrotti
+Cosa si intende per Usufruitori Corrotti
+Incantesimi più comuni
+Strategie d'attacco: i punti di forza e i punti deboli 
+degli Usufruitori Corrotti
+Possibilità d'ingaggio contro gli Usufruitori Corrotti
+Domande frequenti
+Appendice A: Gli Oggetti Magici
+Appendice B: Le Regole D'Oro
+Spunti di approfondimento bibliografico
+
+
+===== [page 4] =====
+INTRODUZIONE
+Alcuni cenni preliminari sull’Arte Magica
+Tentare di riassumere in un modesto volume un completo elenco delle 
+innumerevoli –ahimè, è davvero così!- possibilità fornite dalla conoscenza 
+delle Arti Magiche si è rivelato fin dal principio un progetto davvero arduo.
+Solo le trascendentali forze dell’Universo possono comprendere appieno cosa 
+significhi padroneggiare i segreti della Magia e vivere in armonia con essi. 
+Spesso la dimensione umana si limita a svelare un infinitesimale aspetto di una 
+realtà che, trascendentale e spesso trascendente, risulta ai suoi abitatori 
+incomprensibile.
+Eppure l’intento primo di quest’opera, per come è stata intesa, è l’utilità. 
+A motivo di ciò si abbandoneranno presto le speculazioni filosofiche sui 
+misteri dell’Essenza per tentare un approccio meno dogmatico e più empirico; 
+sotto questa prospettiva, anche solo alcuni suggerimenti dei più basilari 
+possono aiutare l’uomo non avvezzo a tali discipline a comprendere di cosa si 
+stia parlando.
+L’Arte Magica è, in primo luogo, una scienza. 
+L’usufruitore è per lo più  uno studioso, un uomo di ragione, che ha passato 
+molti dei suoi anni di gioventù imparando i metodi per utilizzare al meglio 
+(nel modo più logico, celere ed efficace quindi) i segreti dell’incantamento. 
+Si guardi a lui non come ad uno sprovveduto, ma come ad un uomo di grande 
+costanza e volontà indomita.
+L’Arte Magica è, in secondo luogo, un’Arte.  
+L’usufruitore è spesso un uomo di genio, che modella la teoria secondo le 
+proprie capacità e il proprio gusto. A motivo di ciò, il lettore non sia 
+portato a pensare che l’incantesimo possa essere ridotto a formule e schemi 
+stabiliti: la più grande forza del mago esperto, come accade in tanti altri 
+campi di studio,  è la creatività. Non esiste quindi un usufruitore di magia 
+perfettamente  uguale ad un altro, né l’Arte Magica, che pur condivide radici 
+comuni e universali,  può dirsi simile nelle mani di due differenti 
+
+
+===== [page 5] =====
+incantatori. Ciò vale tanto più quanto si accresce l’esperienza nell’utilizzo 
+della magia.
+L’Arte Magica può difendere meglio dello scudo più robusto, ferire meglio 
+della spada più affilata, occultare meglio della tenebra di una notte senza 
+Luna e compiere miracoli e mirabilia. 
+L’Arte Magica è la porta che conduce ad infinite possibilità. Se deve essere 
+trovata una sua mancanza, un anello debole, questo risiede solamente 
+nell’usufruitore, che è causa dell’attualizzazione di una forza cosmica, 
+incommensurabilmente più grande di lui.  
+Ovunque il lettore si trovi, farebbe bene a non dimenticarlo mai.    
+Prof. Riccardo Varo Obertus,
+Astrologo,
+Docente del Settimo Circolo.
+
+
+===== [page 6] =====
+Come Servirsi del Libro Rosso
+Il Libro Rosso, così chiamato - dopo molti dibattimenti, in verità - a causa 
+del velluto che ne cela e custodisce i segreti, è frutto dello sforzo congiunto 
+dei docenti del Collegio di Sapienza Magica “Settimo Circolo” e della 
+direzione della Sezione di Controllo Magico dell’esercito del Granducato di 
+Armora (S.C.M.).
+L’intento principale dell’opera è l’addestramento degli ufficiali e dei 
+cadetti della neonata Sezione di Controllo Magico; il Libro Rosso vuole essere 
+una guida pratico-teorica che sia d’ausilio alle esercitazioni e alle azioni 
+sul campo per ogni membro del corpo. 
+Data la sua natura propedeutica, data anche l’impossibilità di riassumere in 
+un solo manuale secoli e secoli di evoluzione delle discipline magiche, il 
+lettore dovrà dimostrare flessibilità d’intelletto durante la lettura e in 
+special modo nel passaggio alla pratica. 
+Quelle contenute in questo vademecum sono indicazioni generali, sufficienti a 
+preparare al meglio chi sia inesperto di Arte Magica contro le minacce più 
+comuni; il lettore non dovrà tuttavia confidare in esso come risposta a tutte 
+le soluzioni poiché, come spiegato dal collega Prof. Obertus, le possibilità 
+date dalla magia sono infinite. Tuttavia si ritiene che anche coloro che hanno 
+già familiarità con la magia e con le tecniche di difesa dalle arti magiche 
+potranno trarre utili consigli dal presente manuale.
+Si tenga a mente la necessità di formare nuove classi di soldati addestrati a 
+fronteggiare pericoli di natura magica: la conoscenza dei principi esposti nel 
+Libro Rosso sarà ad essi indispensabile per la preparazione ad ogni esperienza 
+sul campo. 
+Ciò che il Libro Rosso non vuole essere invece è un manuale tecnico 
+introduttivo alle discipline Arcane dell’Antimagia. In esso non vi si 
+troveranno indicazioni di nessun tipo circa l’insegnamento di qualsivoglia 
+tecnica magica, tutt’altro: in esso si troveranno le tecniche di cui un comune 
+non-usufruitore può disporre per fronteggiare una minaccia magica.
+
+
+===== [page 7] =====
+In appendice A si possono trovare indicazioni utili su alcuni elementi 
+complementari che abitualmente si accostano all’usufruitore esperto di magia 
+quali artefatti e oggetti incantati. 
+Le Regole d’Oro esposte in appendice B costituiscono poi un imperituro memento 
+per chiunque fronteggi un pericolo di natura magica.
+Sir. Drusilde,
+Direttrice del Settimo Circolo,
+Cavaliere di Armora,
+Arcimaga
+
+
+===== [page 8] =====
+Nota del Supervisore
+Congiunti sforzi sono stati operati per la stesura di codesto volume. 
+Nell’urgenza di completare una guida alle giovani leve della Sezione di 
+Controllo Magico che fosse celermente a disposizione del corpo, non si è perso 
+comunque lo spirito puntiglioso, preciso e dotto che caratterizza la didattica 
+degli Autori.  
+Quello che avete in mano è un indispensabile strumento per la preparazione al 
+vostro lavoro, frutto di alcuni tra i migliori specialisti nel settore dei 
+Regni Giovani. Io stesso ho apportato il mio modesto contributo, memore degli 
+anni di studio quale Arcimago della Gilda di Studi Elementali di Armora.
+Ritengo che ogni cadetto del S.C.M. dovrebbe dedicarsi alla sua attenta lettura 
+e memorizzazione, poiché le informazioni in esso contenute saranno di salvezza 
+nelle ore più buie del servizio di Controllo Magico.
+Con la lealtà che contraddistingue ogni devoto suddito di Armora e del Granduca 
+vi saluto, e confido che l’esempio dei Padri della Patria guidi i passi di 
+ogni membro del S.C.M. nella sfida quotidiana contro la minaccia degli 
+usufruitori malvagi di Arti Magiche.
+Sempre Fedele,
+Messer Crovos Bravaso,
+Presidente della Sezione di Controllo Magico,
+Cavaliere di Armora,
+Arcimago.
+
+
+===== [page 9] =====
+  
+    
+DEL
+MENTALISMO
+Nulla è mai come sembra, agli occhi di un saggio
+Proverbio dei Regni Giovani
+
+
+===== [page 10] =====
+Cosa si intende per Mentalismo
+Con il termine Mentalismo si vuole intendere il processo per cui l'energia 
+magica è convogliata dalla sua sorgente alla mente dell'usufruitore, e da questi 
+manipolata e proiettata verso l'esterno. 
+Alcuni ritengono erroneamente che sia la mente stessa dell'usufruitore a 
+generare il potere magico, ma la maggioranza degli studi in proposito sembra 
+confermare senza ombra di dubbi che il cervello e le facoltà intellettive siano 
+solo un catalizzatore, per quanto straordinario, dell'energia magica 
+universale.
+1 
+Il mentalista è dunque colui che attraverso le risorse della propria mente 
+governa le energie magiche.  
+Incantesimi più comuni
+Segue una lista degli incantesimi che più probabilmente vi capiterà di 
+affrontare nello scontro con un mentalista e la descrizione dei loro effetti.
+Anticipazione: Molti mentalisti sono capaci di deviare singoli colpi diretti 
+alla loro persona senza troppi sforzi. L’incantesimo di anticipazione non 
+richiede preparazioni particolari e l’usufruitore medio potrà servirsene con 
+rapidità ed efficienza. Il colpo deviato magicamente si perderà nel vuoto, ma vi 
+è la possibilità, affrontando usufruitori molto esperti, che ritorni indietro al 
+mittente, nel caso si tratti di frecce e dardi. Le anticipazioni sono efficaci 
+più con i colpi a distanza che con gli attacchi da mischia: con quest’ultimi la 
+probabilità di mettere a segno il colpo è sensibilmente maggiore. 
+Occultamento: Diffusa è la capacità di servirsi delle ombre e della luce per 
+occultare se stessi, e rendersi sfuggenti sia ad eventuali cacciatori, sia in 
+combattimento. L’arte di sparire alla vista nel Mentalismo è normalmente 
+limitata al solo usufruitore, che in pratica distorce i sensi di una mente 
+1 Si veda il libercolo Contro la Magia del Sè, utile volume del maestro Alfredo von Zimmer, edito dalla 
+Tipografia Interna del Settimo Circolo.  In particolare il capitolo sesto: “Della Mente: Sorgente o 
+Motore?”  
+
+
+===== [page 11] =====
+bersaglio impedendogli di vedere ciò che realmente è. Ricordatevi che tale 
+offuscamento dei sensi colpisce per lo più una mente bersaglio alla volta, 
+rendendo il mentalista perfetto negli agguati uno-contro-uno, ma più maldestro 
+contro un numero maggiore di sfidanti.
+Resistenze e guarigioni: come ogni usufruitore di qualsivoglia reame, il 
+mentalista accorto dispone di una serie di incantesimi per proteggere e 
+rigenerare il proprio corpo, molti dei quali si attivano anche qualora 
+l’incantatore sia in uno stato di incoscienza. Come in altri casi, il punto 
+debole di questa capacità è agire solo su se stesso e non su eventuali compagni 
+armati.
+Sensi acuti: E’ facile che un usufruitore mentalista orientato alle azioni di 
+spionaggio/sabotaggio disponga di una grande quantità di incantesimi per 
+percepire il nascosto, acuire i sensi, vedere nell’oscurità.
+Rapidità: Il mentalista orientato al combattimento si serve spesso di 
+incantesimi per velocizzare il proprio movimento, efficaci generalmente per una 
+decina di secondi. A volte (non sempre) l’uso di una innaturale velocità può 
+portare ad una conseguente fase di irrigidimento e fatica muscolare, che limita 
+le azioni dell’usufruitore allorché l'effetto dell'incantesimo svanisce.
+Illusioni: Innumerevoli quali la creatività di chi se ne serve, sono tra le armi 
+più pericolose del mentalista. Il gioco di squadra e l’aiuto di compagni 
+dislocati al di fuori del raggio d’azione dell’incantesimo possono aiutare a 
+prevenirle.
+Movimenti: un mentalista accorto conosce molti metodi per traslare il proprio 
+corpo, levitando, balzando o  teleportandosi in ogni direzione. Come in altri 
+casi, il punto debole di questa capacità è agire solo su se stesso e non su 
+eventuali compagni armati.
+
+
+===== [page 12] =====
+Attacchi Mentali: molti e temibili sono i modi in cui un mentalista può 
+attaccare la mente del proprio avversario, intaccando per lo più il sistema 
+nervoso e la sua resistenza fisica. Salvo rare eccezioni tuttavia, tali attacchi 
+possono essere indirizzati su di un solo bersaglio alla volta.  
+Controllo delle emozioni: Con questa categoria si intendono tutti quegli 
+incantesimi che hanno influenza sullo stato d’animo del bersaglio; comunemente 
+influenzano la sua combattività e aggressività, il coraggio, la volontà di 
+portare a termine un dato compito. Spesso i mentalisti si servono di un 
+incantesimo specifico per trasformasi agli occhi della vittima in un amico 
+fidato. 
+Sonno: Il bersaglio cade in uno stato di sonnolenza, che nella maggioranza dei 
+casi è totalmente naturale.    
+I punti di forza del Mentalismo
+Sotterfugio
+Gli usufruitori del Mentalismo possono lanciare i propri incantesimi al massimo 
+dell'efficacia senza l'ausilio di gesti o passi rituali e persino senza usare la 
+voce. Ciò li rende predisposti all'incantesimo furtivo e all'attacco di 
+sorpresa. 
+Talvolta solo un lieve baluginio degli occhi, che spesso si tingono di un 
+rossore anomalo, è segno che l'usufruitore si sta servendo delle proprie 
+capacità magiche.
+Controllo della mente
+Il mentalista è addestrato ad agire con sottigliezza e cautela. Spesso si 
+finisce vittima di un suo incantesimo senza rendersene conto, convinti anzi di 
+essere nel pieno possesso delle proprie facoltà di discernimento.
+
+
+===== [page 13] =====
+Adattabilità all'uso di armi e armature
+I mentalisti non sono affatto impediti dall'uso di armi e armature (anche 
+pesanti) mentre lanciano i propri incantesimi. Molti di essi dunque si 
+specializzano nell'uso di protezioni efficaci, scudi e armi al pari di un 
+soldato.
+I punti deboli del Mentalismo
+Target degli incantesimi
+Il Principale punto debole del Mentalismo risiede nell’efficacia degli 
+incantesimi: nella maggioranza dei casi solo l’usufruitore stesso può 
+beneficiarne, rivelandosi di poco sostegno ad eventuali compagni in difficoltà. 
+Molti dei più comuni incantesimi hanno come bersaglio un singolo opponente, il 
+che rende il mentalista un temibile avversario in un duello testa a testa, ma lo 
+svantaggia nella lotta contro più avversari.
+Forze Elementali
+L’usufruitore mentalista medio possiede uno scarso arsenale magico di 
+manipolazione elementale.
+Testa scoperta
+Difficilmente il mentalista avrà modo di proteggersi il capo (dalla nuca alla 
+punta dei capelli), poiché ciò interferirebbe con l'uso delle proprie capacità 
+magiche.   
+
+
+===== [page 14] =====
+Possibilità d'ingaggio contro il Mentalismo
+La strategia migliore è non dare occasione al mentalista di utilizzare le 
+proprie capacità di manipolazione della personalità e delle emozioni. Se si 
+gioca a carte scoperte, trovarsi in coppia può risultare svantaggioso: il vostro 
+compagno potrebbe essere indotto ad agire contro di voi. Meglio attaccare dunque 
+in tre e da tre lati, cercando di procedere mantenendo la stessa distanza tra i 
+membri della squadra e avendo sempre una buona visuale d'insieme per notare 
+eventuali comportamenti sospetti dei membri della vostra squadra. 
+Se prevedete che il vostro bersaglio farà di tutto per opporre resistenza, 
+meglio cercare di avere subito la meglio tramortendolo: non dategli il tempo di 
+discutere, ma agite presto.
+Se state seguendo le tracce di un mentalista e non siete assolutamente certi di 
+non essere stati scoperti, evitate di dividervi: mandare in avanscoperta un 
+compagno potrebbe essere una pessima soluzione. Nel caso ci siano possibilità 
+d'imboscata da parte del mentalista restate uniti, procedete cautamente e 
+difendete ogni lato: se il numero ve lo permette formate due squadre da 3-4 
+persone e procedete a distanza di sicurezza (più di dieci metri, meno di 
+cinquanta con visuale libera). 
+Una sentinella può essere la salvezza contro un mentalista esperto in illusioni. 
+Abbiate modo di affrontare il bersaglio da più angolazioni, di tenerlo sotto 
+costante sorveglianza almeno da due punti  d'osservazione differenti. Servitevi 
+di linguaggi in codice e segni convenzionati per comunicare rapidamente e senza 
+ambiguità possibili pericoli.
+Una volta ridotto all'impotenza, la tecnica più efficace è bendare l'usufruitore 
+piuttosto che immobilizzarlo con lacci e catene (precauzione utile sotto molti 
+aspetti, ma che non influenza le capacità magiche del mentalista). 
+Incappucciatelo, confondete i suoi sensi e, se disponete dell'attrezzatura 
+necessaria, attenuate i suoi poteri con appositi artefatti smorzatori da 
+applicare sulla testa dell'usufruitore.
+Ridurlo allo stato d'incoscienza per tutto il viaggio dal luogo dello scontro 
+alla vostra destinazione rimane comunque la tecnica più sicura per impedire 
+
+
+===== [page 15] =====
+attacchi di sorpresa.
+Domande frequenti
+Un Mentalista può entrare nella mia mente e costringermi a fare cose che non 
+vorrei?
+Assolutamente sì: è questa una delle capacità più terrificanti di qualsiasi 
+mentalista, sebbene siano in particolar modo abili in ciò i mentalisti puri e 
+quelli corrotti.
+2
+Esiste un modo per impedire la dominazione mentale?
+Sebbene elmi ed oggetti di materiali appropriatamente incantati possano aiutare 
+a resistere ad un attacco mentale, la miglior difesa è data dalle proprie 
+attitudini e dall’esperienza acquisita nell’affrontare tali minacce. 
+Il mio compagno di squadra è stato dominato mentalmente. Cosa devo fare?
+Va detto che la dominazione mentale molto spesso è subdola e difficilmente si 
+riesce ad individuare (se così non fosse vorrebbe dire che il mentalista non è 
+granché abile, o è spinto da una grave necessità).
+Nel caso abbiate dei sospetti che il vostro compagno sia controllato 
+mentalmente, rivolgetevi ad un esperto nel settore. Nel caso ciò non fosse 
+possibile o nel caso di situazioni meno ambigue (es. il compagno che prima vi 
+spalleggiava ora rivolge inspiegabilmente l'arma verso di voi) cercate di 
+tramortirlo o ridurlo all'impotenza. Ricordatevi che non è in pieno possesso 
+delle sue facoltà mentali. Se è possibile, tramortite l'autore dell'incantesimo 
+di dominazione. 
+Le illusioni create dai mentalisti mi possono recare danno?
+2 Vd. Sezione 4 per approfondimenti sugli usufruitori corrotti.
+
+
+===== [page 16] =====
+Certo! Ricordate che ciò che la vostra mente pensa sia reale, lo è a tutti gli 
+effetti finché non vi convincete del contrario. E’ pur vero che le illusioni 
+create dagli incantesimi mentali producono una sorta di assuefazione temporanea 
+dei sensi, che svanisce allorché l’illusione viene svelata.
+Come posso fare per svelare un illusione?
+Il modo migliore è utilizzare quel senso tra i cinque che non è affetto 
+dall’illusione: raramente  infatti esse sono efficaci su tutti i cinque sensi. 
+In caso di dubbio un incantesimo di rivelazione pare il metodo più sicuro.
+ 
+
+
+===== [page 17] =====
+DEL
+FLUSSO
+Superstizione è il nome che gli ignoranti 
+danno alla propria ignoranza
+Massima del Qi-Long
+Cosa si intende per Flusso
+
+
+===== [page 18] =====
+Con il termine Flusso si vuole intendere quel reame di forze magiche che trova 
+la propria sorgente naturale nelle forze sovramondane, trascendenti, divine. 
+Sull'esistenza di esseri divini e la genuinità della loro natura, sul ruolo che 
+questi dovrebbero occupare nel cosmo, non si vuole discutere in questa sede. Sia 
+compito della filosofia, della religione e di altre materie accademiche il 
+riflettere su tali tematiche.
+Ciò nondimeno  si può postulare -avendone largamente una conferma empirica- che 
+esistano delle entità differenti dagli abitatori del regno mortale così come lo 
+conosciamo attraverso la nostra realtà psicofisica. Le suddette entità sembrano 
+funzionare alla stregua di depositi di energia magica e l'usufruitore, allorché 
+si sintonizzi ad esse, può catalizzarne il potere e servirsene secondo le 
+proprie capacità.
+Convenzionalmente inteso come il “reame del divino” il Flusso si adatta a 
+coloro che, per inclinazione naturale, sviluppano una forte intuizione circa la 
+realtà sovramondana, abitualmente attraverso una volontà ferrea e una fede 
+incrollabile a sostegno del proprio credo.  
+Incantesimi più comuni
+Segue una lista degli incantesimi che più probabilmente vi capiterà di 
+affrontare nello scontro con un usufruitore del Flusso e la descrizione dei loro 
+effetti.
+Guarigione
+L'arma più sorprendente dell'usufruitore del Flusso -a qualsiasi 
+specializzazione si sia dedicato- è la capacità di cautelarsi da ogni tipo di 
+minaccia fisica. Sebbene anche per usufruitori di altri reami sia comune la 
+padronanza di incantesimi per guarire il proprio corpo, il Flusso ne concede la 
+gamma più  efficace e completa. Non solo rimozione di stati di stordimento, 
+sanguinamento e ovviamente la capacità di riprendersi celermente dagli stress 
+fisici; ma anche la possibilità di curare ustioni, ipotermia, avvelenamenti, 
+riparare muscoli, tendini, ossa e organi danneggiati gravemente. Ciò non vale 
+
+
+===== [page 19] =====
+solo per l'usufruitore ma anche per i suoi compagni, che possono beneficiare 
+degli stessi incantesimi.
+Interventi particolari di guarigione
+Il Flusso insegna anche ad intervenire in certe situazioni particolari. 
+L'usufruitore specializzato potrà rimuovere maledizioni
+3, curare disturbi 
+psichici, stabilizzare in stato comatoso un morente, curare gli effetti di 
+un'assoluzione.
+4
+Manipolazione dell'ambiente naturale
+Sebbene si tratti più di una specializzazione che della norma, il Flusso offre 
+grandi e varie possibilità di manipolazione/interazione con gli elementi 
+naturali.
+Tra questi ricordiamo la manipolazione della luce, la capacità di migliorare i 
+propri movimenti (camminare sull'acqua, tra gli alberi etc...), trovare, creare 
+o purificare il cibo, predire e controllare il tempo atmosferico, sintonizzarsi 
+empaticamente con vegetali e animali (e piegare la volontà di questi ultimi).
+Canali di Flusso
+Tra le abilità più particolari e pericolose del Flusso vi è quella di 
+trasmettere il potere magico da un  usufruitore ad un altro. Le applicazioni di 
+tale potere, sia in ambiente controllato sia in fase di combattimento, sono 
+innumerevoli e temibili. La struttura gerarchica di molte organizzazioni nelle 
+cui fila militano usufruitori del Flusso facilitano l'utilizzo di questo potere. 
+La precauzione maggiore è individuare celermente il più pericoloso tra un gruppo 
+di usufruitori e farne senza esitare il proprio bersaglio.   
+Controllo di entità non umane
+3Vd. Sezione 4 per approfondimenti sulle maledizioni e sugli usufruitori corrotti.
+4Vd. sotto.
+
+
+===== [page 20] =====
+Molti usufruitori del Flusso sono specializzati nel controllo di entità non 
+umane, siano esse in forma di spirito o di creatura non-morta. Utilissimi se al 
+servizio del bene comune, si rivelano diabolici quando si servono delle proprie 
+capacità per fini illeciti. In questo caso è suggerito l'intervento di forze 
+specifiche per contenere la minaccia.
+5  
+Evocazioni
+Il reame del Flusso insegna a servirsi di entità esterne di diverso tipo, le più 
+comuni tra le quali sono di natura elementale.
+6 Gli specialisti in evocazione 
+possiedo anche un bagaglio tecnico per poter aumentare le prestazioni delle 
+entità sotto il proprio controllo. Anche in questo caso, la precauzione migliore 
+è servirsi di uno specialista che sappia contenere e contrastare l'azione 
+dell'usufruitore bersaglio.
+Potenziamenti marziali
+Oltre che servitori della propria divinità molti usufruitori ne sono anche 
+difensori, nel senso strettamente militare del termine. Questi si servono di un 
+bagaglio di incantesimi che li rende decisamente più forti, più letali e più 
+difficili da colpire rispetto ad un usufruitore medio. Se opportunamente 
+addestrati, sono da considerarsi veri e propri uomini d'armi al pari di un 
+guerriero di professione. Non commettete mai l'errore di sottovalutare la 
+pericolosità di quell'usufruitore del Flusso che, impedito nel lanciare alcuni 
+incantesimi, estrae la propria arma e vi viene incontro con fare belligerante.
+Assoluzioni
+L'incantesimo di “Assoluzione” merita un paragrafo a parte. Si tratta 
+probabilmente dell'incantesimo più pericoloso ed efficace (e particolare da un 
+punto di vista accademico) di tutto l'arsenale magico del Flusso.
+5Ci si riferisce a realtà come le squadre di investigazione e contenimento del neonato  C.E.M. (Comitato 
+Etica Medica), sorto recentemente in Armora come reparto della Gilda degli Speziali.
+6Si ritiene sottintesa la capacità di evocare creature dallo stesso piano d'esistenza dell'usufruitore (es. 
+animali)
+
+
+===== [page 21] =====
+Attraverso di esso l'usufruitore disgiunge l'apparato psicofisico del bersaglio, 
+separando il nucleo delle facoltà mentali e percettive dal corpo, che ricade in 
+stato comatoso. Popolarmente questo processo complesso – e per certi aspetti 
+ancora misterioso- è noto come “separare l'anima dal corpo”. L'effetto di tale 
+disgiunzione è temporaneo, ma per alcune forme potenziate dell'incantesimo è 
+vincolato a precisi contro-incantesimi. 
+Forze Elementali
+Il Flusso insegna anche a servirsi di forze elementali. La distinzione tra 
+Flusso ed Essenza in questo campo sta nella gamma di incantesimi possibili: 
+l'usufruitore medio dell'Essenza tenderà a conoscere diversi incantesimi che 
+abbiano effetto su ciascun elemento (o triadi di elementi
+7), mentre 
+l'usufruitore del Flusso tenderà a specializzarsi su quel particolare elemento 
+affine alla propria sorgente di potere (divinità). 
+Sebbene limitati nella scelta di incantesimi da utilizzare, gli elementalisti 
+del Flusso sono maestri  nella padronanza dell'elemento scelto, e non inferiori 
+ai loro colleghi dell'Essenza.
+Forze Divine   
+L'usufruitore del Flusso è specializzato in quegli incantesimi che rispecchiano 
+i tratti della propria divinità. Poiché i culti dedicati alle forze sovramondane 
+sono tanti quanti sono i popoli e ancora di più, si allargano terribilmente le 
+minacce e le possibilità d'ingaggio allorché si abbia a che fare con un 
+usufruitore del Flusso sconosciuto. 
+Le possibilità sono davvero innumerevoli: l'unica precauzione consigliata è 
+conoscere il proprio bersaglio, informarsi sulla natura del culto cui appartiene 
+e tentare di prevedere le sue mosse. 
+ 
+7Sulle triadi di elementi e sugli elementalisti dell'Essenza si veda la sezione 3.
+
+
+===== [page 22] =====
+I punti di forza del Flusso
+Adattabilità
+Il Flusso è un reame di magia che, oltre ad avere caratteristiche peculiari 
+distintive, permette ai suoi usufruitori di impratichirsi con ogni tipo di 
+incantesimi. Tra tutti i reami è senza dubbio quello che offre un maggior 
+ventaglio di specializzazioni, rendendo arduo stabilire a priori un 
+“archetipo” del settore. Siate sempre pronti.
+Armi e Armature
+Sebbene non come un mentalista, l'usufruitore del Flusso può utilizzare alcune 
+armi e armature senza che sia ostacolata la capacità di lanciare incantesimi. 
+Comunemente gli usufruitori di questo reame scelgono armature di cuoio morbido o 
+rigido, una protezione per il capo in cuoio, armi ad una mano e saltuariamente a 
+due mani.
+Organizzazione    
+Ovviamente non vale per tutti i casi, ma spesso capita che un usufruitore del 
+Flusso sia membro di qualche organizzazione di culto. Ciò lo rende generalmente 
+un avversario disciplinato, preparato, capace di valutare i rischi e gli 
+obiettivi da raggiungere e in ultimo gli può fornire delle risorse notevoli di 
+cui disporre tra finanze, influenze e devoti seguaci.
+I punti deboli del Flusso
+Fanatismo  
+Ciò che spesso è un'arma nelle mani dei vertici del culto, può a volte rivelarsi 
+un fastidioso problema. Gli usufruitori del Flusso possono sublimare il proprio 
+entusiasmo e la propria fede in un cieco fanatismo che, causando una perdita di 
+l'elasticità mentale, può essere con un po' d'astuzia usato contro loro stessi.
+
+
+===== [page 23] =====
+Codice di comportamento  
+Gli usufruitori del Flusso sanno discernere con chiarezza ciò che la propria 
+sorgente di potere gli concede di fare e ciò che invece gli vieta. Un devoto di 
+una deità silvana non brucerebbe un bosco; un cultista del dio del vento non 
+inquinerebbe l'aria. Queste, che agli occhi dello sprovveduto possono sembrare 
+inezie, si rivelano tanti piccoli vantaggi tattici di cui servirsi durante le 
+proprie azioni. 
+Ricordate: il tabù della violazione del codice etico di comportamento può essere 
+così forte da influenzare direttamente la capacità di lancio degli incantesimi 
+dell'usufruitore.
+Prevedibilità 
+Ancora una volta non c'è nulla di più fruttuoso che conoscere il proprio nemico. 
+L'usufruitore medio del Flusso è prevedibile e si comporterà generalmente 
+secondo i principi del proprio ordine, o secondo gli ordini ricevuti nel caso di 
+un subalterno. Imparate a ragionare come un devoto e saprete come agire al 
+meglio. 
+Inoltre la maggioranza di essi non si dedica all'incantamento furtivo, 
+preferendo spesso declamare a gran voce e con ampi gesti l'intenzione di usare 
+le proprie capacità magiche. 
+Possibilità d’ingaggio contro il Flusso
+La strategia migliore contro l'usufruitore del Flusso è conoscere il proprio 
+bersaglio, il culto cui appartiene, le sue potenzialità; e ancora: i suoi 
+ideali, i suoi obiettivi. Più imparate riguardo la sua causa, più sarà facile 
+prevedere le sue mosse.
+Evitare di concedergli il vantaggio tattico del campo di battaglia: cercate di 
+sorprenderlo in un ambiente a lui non congeniale.
+Se ne avete occasione colpitelo dalla distanza e riducetelo all'impotenza, ma 
+siate poi celeri nel ridurre le distanze: in poco tempo un usufruitore esperto 
+
+
+===== [page 24] =====
+può guarire ogni sua ferita. Ricordate che ciò che sembra innocuo, può non 
+esserlo.
+Per assicurarvi l'inoffensività legategli mani e piedi; un accorgimento molto 
+utile può essere imbavagliarlo: per gli usufruitori del Flusso spesso la voce è 
+catalizzatore di energia magica.
+Se ne avete occasione usate manette o imbragature  (purché con inserti di 
+metallo) per immobilizzarlo. 
+Nel caso doveste affrontare un gruppo di usufruitori del Flusso individuate al 
+più presto il coordinatore della squadra e riducetelo all'impotenza.
+Nel caso di un gruppo eterogeneo all'interno del quale vi sia un usufruitore del 
+Flusso, è importante capire di che genere di usufruitore si tratti. Nel caso di 
+uno non orientato al combattimento, ridurlo all'impotenza prima che lo scontro 
+raggiunga l'apice può rivelarsi un vantaggio tattico decisivo, poiché gli 
+usufruitori del Flusso sono dei validissimi membri di supporto per la propria 
+squadra.
+Ricordate che nella maggioranza dei casi un usufruitore del Flusso deve toccare 
+il bersaglio di un incantesimo di cura, dunque cercate di tagliare le distanze 
+tra lui e un compagno ferito della sua squadra.
+Domande frequenti
+Come posso contrastare un'assoluzione?
+Come per molti incantesimi solo la propria volontà, esperienza e predisposizione 
+possono aiutare a contrastare gli effetti di una magia di cui si è bersaglio. Il 
+metodo migliore per scongiurare il pericolo di un'assoluzione è, in ogni caso, 
+evitare di esserne bersaglio. 
+Il mio compagno di squadra è stato “assolto”. Che devo fare?
+Innanzitutto ricordate che, nella maggioranza dei casi, un'assoluzione non è 
+permanente. Evitate quindi di entrare nel panico, o peggio di dare una morte 
+
+
+===== [page 25] =====
+misericordiosa a ciò che vi sembra un compagno ormai in stato vegetativo 
+permanente. 
+Va da sé che un bersaglio assolto è vulnerabile a qualsiasi attacco: se vi preme 
+la vita del vostro sfortunato compagno dunque, cercate di trarlo in salvo in una 
+zona sicura.
+Io non credo negli dei. 
+Perché i loro incantesimi dovrebbero avere effetto su di me? 
+Ricordate che quando usiamo il termine  “magia del divino” lo facciamo per 
+convenzione; come già spiegato, si tratta di un modo -come altri- per 
+canalizzare le energie magiche da una data sorgente. Credere di essere al sicuro 
+dal potere di un usufruitore del Flusso solo perché non si condividono le sue 
+convinzioni, o peggio perché si crede nell'esistenza di un dio piuttosto che un 
+altro, è un errore intollerabile.
+Gli dei possono intervenire direttamente per aiutare i loro protetti?
+Questo è un argomento delicato. Come principio di massima vi suggeriamo di 
+tenere a mente che avete a che fare con uomini, la cui sintonia con le forze 
+magiche sovramondane può spingersi ad alti livelli, ma non tali da non poter 
+essere contrastati con mezzi altrettanto umani.
+Ricordate che urlare il nome della propria divinità, farsene vessillo, 
+condannare alla dannazione i propri avversari sono tutte strategie messe in 
+campo per scoraggiare la vostra azione e aiutare l'usufruitore nel processo di 
+sintonizzazione e catalizzazione dell'energia magica.
+E se davvero ci fosse un avversario capace di rompere i sigilli dimensionali e 
+comandare la volontà di creature infinitamente superiori a noi, che speranza 
+avreste comunque contro di lui?
+ 
+
+
+===== [page 26] =====
+ 
+DELL'ESSENZA
+La forza magica risiede in ogni dove,
+in ogni quando,
+in ogni essere.
+Xochiyayotl, Arcimago Xebechano
+
+
+===== [page 27] =====
+Cosa si intende per Essenza
+Con il termine Essenza si intende quel reame di potere magico che individua la 
+propria sorgente nell'energia insita in ogni cosa. L'usufruitore catalizza la 
+forza proveniente dagli elementi combinati nelle loro più svariate forme e la 
+utilizza secondo le proprie necessità.
+Postilla: cosa si intende per elemento
+Non ci addentreremo in astrazioni filosofiche né in dissertazioni tecniche sulla 
+provenienza degli elementi, sulla loro purezza, né tenteremo di spiegare i 
+meccanismi alla base del loro combinarsi. Tutto ciò tradirebbe gli intenti 
+dell'opera.
+8
+Si dirà piuttosto che, per convenzione, la scienza magica individua 6 forme 
+elementali suddivise a loro volta in due triadi: fuoco, ghiaccio, acqua; luce, 
+terra, aria.
+9 
+Tali forme elementali sono credute essere alla base di ogni dato fenomenico o, 
+detto in altro modo, della realtà così come la percepiamo quotidianamente. 
+Il particolare addestramento e la naturale predisposizione rende gli usufruitori 
+dell'Essenza degli ottimi manipolatori di forze elementali. Ciò non vuol dire 
+tuttavia che il campo d'interesse di tali usufruitori si limiti agli incantesimi 
+legati a questo tipo di forze.
+Incantesimi più comuni
+Segue una lista degli incantesimi che più probabilmente vi capiterà di 
+affrontare nello scontro con un usufruitore dell'Essenza e la descrizione dei 
+loro effetti.
+Traslazioni
+L'usufruitore medio dell'Essenza tenderà a padroneggiare almeno un metodo di 
+traslazione corporea, utile per aprirsi una rapida via di fuga così come per gli 
+8Non vogliamo comunque dissuadere il solerte lettore che fosse interessato ad un approfondimento sulla 
+materia. Consigliamo dunque L'ABC degli elementi, preziosa opera del celeberrimo e compianto  Maestro 
+Belengard, per i tipi dell'Accademia di Studi Elementali di Armora.
+9 Sulla contaminazione da elemento si veda l'omonimo paragrafo della sezione 5.
+
+
+===== [page 28] =====
+attacchi di sorpresa. Tra queste citiamo i balzi, attraverso cui l'usufruitore 
+si sposta di molto ma sempre all'interno del proprio campo visivo. I 
+teletrasporti, con cui può virtualmente raggiungere qualsiasi luogo. I portali, 
+attraverso cui è possibile rendere momentaneamente incorporea la materia e 
+superare così un ostacolo.
+Esistono rari contro-incantesimi studiati per impedire la traslazione di un 
+incantatore. Quando non supportati da un'unità speciale consigliamo di disporvi 
+in modo da avere tutti i lati protetti e mantenere libera la visuale.
+Volo
+Questo tipo di traslazione corporea merita un paragrafo a parte. Il volo è un 
+incantesimo utilissimo per superare ostacoli, effettuare sopralluoghi, cogliere 
+di sorpresa l'avversario e, naturalmente, per la fuga. 
+Tuttavia la capacità di muoversi con maestria levitando (mantenere una velocità 
+sostenuta, scartare ostacoli improvvisi, etc.) si acquista solo dopo anni di 
+studio e pratica: l'usufruitore medio libratosi in aria, una volta individuato, 
+sarà dunque un facile bersaglio per le armi da tiro finché a portata. 
+Invisibilità
+Nelle mani di un usufruitore accorto questo incantesimo è particolarmente 
+efficace. Inutile sottolineare i vantaggi tattici dati dalla facoltà di sfuggire 
+alla vista. Vanno fatte tuttavia due precisazioni: contro-incantatori, antimaghi 
+o semplici usufruitori specializzati disporranno facilmente delle capacità di 
+percepire il nascosto. Nel caso non fosse possibile il loro intervento, 
+ricordate che la capacità di rendersi invisibile dell'usufruitore dell'Essenza 
+può essere smascherata.
+Il metodo più semplice è prestare attenzione all'ambiente circostante e 
+sfruttare l'effetto di frizione provocato dal contatto tra il corpo reso 
+invisibile e l'ambiente stesso. In poche parole: prestate attenzione ad 
+eventuali tracce sul terreno (neve, acqua, persino la polvere), al riverbero di 
+agenti atmosferici (pioggia); per quanto assurdo possa sembrare, persino una 
+
+
+===== [page 29] =====
+manciata di farina può aiutarvi a svelare i contorni di un usufruitore resosi 
+invisibile.
+Contro-incantesimi
+Lo studio dell'Essenza insegna le tecniche base per difendersi dai reami tre di 
+magia cancellando l'effetto di incantesimi di cui si è diventati bersaglio e 
+rendendo inefficace l'azione di altri usufruitori. Poiché l'arte dell'antimagia 
+richiede uno studio operoso, i contro-incantesimi sono generalmente un bagaglio 
+tecnico di usufruitori specializzati.
+Potenziamenti fisici
+Questa categoria raggruppa una grande varietà di incantesimi. Più comunemente si 
+tratta di potenziamenti sensoriali (amplificazione dei cinque sensi, visione 
+notturna, etc.), in altri casi di potenziamento della velocità.
+10 Sebbene alcuni 
+usufruitori dell'Essenza si specializzino nel combattimento con armi 
+convenzionali, generalmente l'usufruitore medio dell'Essenza utilizza le proprie 
+capacità di potenziamento fisico per proteggersi e acquistare vantaggio tattico 
+(per sé o per i propri alleati), piuttosto che ai fini di uno scontro diretto.
+Potenziamento degli incantesimi
+L'arte di potenziare gli incantesimi incrementando le qualità (raggio, durata, 
+forza e così via) è complessa e pericolosa, e si applica in modo differente per 
+ogni singola operazione magica. 
+Tuttavia lo studio dell'Essenza insegna a padroneggiare alcuni incantesimi in 
+grado di agire, diciamo in modo più generale, sulle qualità di altri 
+incantesimi. 
+10Vale quanto detto per il Mentalismo: l’uso di una innaturale velocità può portare ad una conseguente 
+fase di irrigidimento e fatica muscolare, che limita le azioni dell’usufruitore allorché l'effetto 
+dell'incantesimo svanisce.
+
+
+===== [page 30] =====
+Protezioni fisiche e magiche
+Uno dei punti deboli degli usufruitori dell'Essenza è la completa avversione per 
+armature e protezioni fisiche convenzionali, che interferirebbe con i loro 
+processi magici (senza contare che, generalmente, gli anni di studio rendono 
+l'usufruitore medio non particolarmente atletico).
+Per rimediare a ciò il reame dell'Essenza mette a disposizione il più completo 
+bagaglio di difese magiche contro ogni tipo di minaccia. Scudi, barriere, 
+sfocature
+11, anticipazioni e deflessioni ne sono un esempio. 
+Ricordate che tali barriere hanno durata limitata, e servirsene in combattimento 
+fino ad ottenere un'alta protezione tiene impegnato l'usufruitore per diversi 
+secondi. L'usufruitore accorto preparerà il suo arsenale di difesa magica in 
+anticipo.
+Cercate dunque di avere il pieno controllo della situazione, sopratutto per 
+quanto concerne i tempi e i modi d'ingaggio.   
+Illusioni
+Come un mentalista, l'usufruitore dell'Essenza può dar vita ad illusioni di 
+varia natura.
+A differenza di un mentalista, queste illusioni non sono frutto di una 
+manipolazione dei sensi del bersaglio, ma piuttosto di una manipolazione della 
+materia elementale che interessa un determinato senso (esempio: un miraggio sarà 
+una manipolazione dell'elemento Luce che interessa il senso della vista).
+Poiché non si tratta di una “distorsione mentale” ma di una manipolazione 
+degli elementi, queste illusioni sono da considerarsi reali in tutto e per tutto 
+e, sebbene possano essere “svelate” in modo simile alle illusioni del 
+Mentalismo, i loro effetti rimarranno percettibili per tutta la durata 
+dell'incantesimo. (es. un bersaglio può capire che il muro che gli impedisce di 
+procedere è un miraggio, ma ciò nonostante quel muro non svanirà dalla sua 
+vista).
+11L'usufruitore appare sfocato, di modo che sia più difficile colpirne i punti vitali.
+
+
+===== [page 31] =====
+Controllo
+Sebbene in numero minore rispetto al Mentalismo, l'Essenza insegna a servirsi di 
+una serie di incantesimi per manipolare la volontà di un bersaglio e 
+controllarlo. I più comuni sono le suggestioni, i comandi, gli incantesimi di 
+sonno e di controllo delle emozioni superficiali.
+Manipolazione degli elementi
+Per una rapida spiegazione degli elementi rimandiamo alla postilla ad inizio 
+sezione.
+Vediamo ora le più comuni applicazioni pratiche della manipolazione dei sei 
+elementi. Ricordate che si tratta di una lista non esauriente e valida solo per 
+i casi generali. 
+−
+Muri:
+ 
+  l'incantatore crea una barriera fisica di un dato elemento. 
+Tale barriera è spessa pochi centimetri e raggiunge un'altezza tale 
+da impedirne il superamento. Si può tuttavia circoscrivere con 
+facilità. 
+Le barriere d'aria e d'acqua impediscono i movimenti; le barriere di 
+ghiaccio e terra sono ostacoli solidi che tuttavia possono essere 
+frantumati con metodi convenzionali. Le barriere di fuoco possono 
+essere attraversate, sebbene con ovvie conseguenze per chi decide di 
+farlo. Sebbene possiate decidere temerariamente di attraversare il 
+fuoco a costo di qualche scottatura, ricordatevi che potete solo 
+immaginare cosa vi aspetta dall'altro lato del muro. In ogni caso, 
+assicuratevi di non avere addosso polvere da sparo o materiali 
+altamente infiammabili.  
+−
+Dardi
+ 
+ 
+I dardi sono gli strumenti d'offesa più comuni dell'usufruitore 
+dell'Essenza. Ricordate che si tratta di un attacco magico, per 
+
+
+===== [page 32] =====
+difendervi dal quale potrete contare solo sulla vostra prontezza e su 
+eventuali protezioni magiche.
+I dardi di fuoco, tra i più letali, procurano danni anche maggiori se 
+il bersaglio indossa armature di pelle o cuoio. I dardi di ghiaccio 
+causano con facilità intorpidimento e stordimento. I dardi di luce 
+possono portare a spiacevoli conseguenze, specie se si indossano 
+protezioni metalliche, sebbene il primato di letalità spetti di 
+diritto alla loro versione potenziata: gli incantesimi di fulmine. 
+Ricordate: a parte forse creature elementali di luce e terra, non c'è 
+nulla che non possa essere abbattuto con un singolo incantesimo di 
+fulmine ben piazzato. 
+La manipolazione dell'aria funziona generalmente in modo diverso, 
+creando un temporaneo vuoto d'aria intorno al bersaglio.  
+−
+Attacchi ad area
+ 
+ 
+Possiamo dire che gli attacchi ad area siano versioni potenziate 
+della manipolazione elementale che si ha con i dardi: anziché colpire 
+un singolo bersaglio, l'effetto è esteso ad un'area intera.
+Le più comuni sono sfere di fuoco e di freddo, la cui area d'effetto 
+è di diametro sufficiente a rendere inoffensiva una piccola 
+formazione di uomini. Se pensate che durante l'ingaggio l'usufruitore 
+utilizzerà simili armi, procedete a distanza di sicurezza l'uno 
+dall'altro, riducete la distanza tra voi e il bersaglio e tentate un 
+accerchiamento.
+−
+Altre Manipolazioni
+ 
+ 
+Esistono molti modi per manipolare la materia elementale. Oltre a 
+servirsi di incantesimi di attacco e difesa, l'usufruitore 
+elementalista sarà capace di molte altre meraviglie. Riscaldare o 
+bruciare superfici, plasmare la terra, controllare i venti e i mari, 
+oscurare o amplificare la luce sono solo alcuni banali esempi. Da un 
+
+
+===== [page 33] =====
+usufruitore esperto dovrete aspettarvi di più: dardi che si sdoppiano 
+o colpiscono il bersaglio superando ostacoli e girando angoli, 
+tifoni, terremoti, zone di oscurità assoluta e così via.
+I punti di forza dell'Essenza
+Potere sugli elementi
+Gli incantesimi che attingono la propria fonte da una sorgente di potere 
+elementale possiedono una propria fisicità che li rende per natura dissimili 
+dagli altri incantesimi. Utilizzare una forza elementale significa incidere 
+sulla realtà fisica secondo leggi che non differiscono poi molto da quelle di 
+altre scienze come la meccanica. A motivo di ciò, gli incantesimi di natura 
+elementale non vedono ridotta la propria efficacia dalla quella capacità 
+(naturale) che ogni bersaglio dispone  e che permette di resistere ad una forza 
+magica esterna.
+In sostanza, mentre si può tentare di resistere passivamente ad un controllo 
+mentale (un esempio tra i molti), tentare di resistere ad un dardo di fuoco con 
+la sola volontà è inutile e dannoso. 
+Bagaglio di incantesimi
+L'Essenza copre una vasta gamma di incantesimi e di effetti: se ne deduce che un 
+usufruitore di tale reame disporrà delle risorse per far fronte ad un gran 
+numero di situazioni impreviste.
+Supporto
+Seppur meno incisivi nelle arti di guarigione rispetto agli usufruitori del 
+Flusso, gli usufruitori dell'Essenza si dimostrano ottimi supporti tattici per 
+una squadra armata. La maggioranza degli incantesimi, tra cui citiamo le 
+capacità di protezione e potenziamento descritte in precedenza, si possono 
+infatti estendere ad altri soggetti.
+
+
+===== [page 34] =====
+I punti deboli dell'Essenza
+Armi e armature
+L'usufruitore medio dell'Essenza non utilizza armature, in quanto 
+interferirebbero con la propria capacità di servirsi del potere magico.
+Anche l'uso di armi convenzionali è scoraggiato dal vantaggio che l'usufruitore 
+riceve nell'avere le mani libere al momento del lancio dell'incantesimo.
+Guarigione
+L'usufruitore medio dell'Essenza non dispone di un bagaglio di incantesimi 
+curativi. Raramente riuscirà a stabilizzarsi magicamente (o a sanare le proprie 
+ferite) dopo aver perso conoscenza.
+Anni di studio
+L'usufruitore medio dell'Essenza ha trascorso i molti anni di studio necessari a 
+padroneggiare le tecniche della magia presso accademie e istituti. Una tale 
+formazione lo rende in media meno incline a sopportare gli stress fisici.
+Possibilità d'ingaggio contro l'Essenza
+Limitare le capacità di movimento dell'usufruitore è una buona tecnica per 
+limitare il suo potere magico. Immobilizzare più presto entrambe le mani del 
+soggetto è la precauzione di base. Bendategli gli occhi per ridurre a zero il 
+suo campo visivo e impedire le più semplici traslazioni. Seppur non influisca 
+più di tanto, un'altra precauzione da usare è impedire che riesca ad usare la 
+voce. Le costrizioni di metallo sono molto utili per scoraggiare tentativi di 
+utilizzo del potere magico da parte del soggetto.
+Nel caso di un ingaggio di gruppo, l'usufruitore dell'Essenza tenderà a stare in 
+disparte, protetto dai compagni. Bersagliatelo a distanza per ridurlo 
+all'impotenza, stando attenti alla possibilità di traslazioni orizzontali e 
+verticali. 
+
+
+===== [page 35] =====
+Ricordate che un singolo colpo ben piazzato può ridurre all'impotenza la maggior 
+parte degli usufruitori: è questo un dato da tenere in conto al momento di 
+pianificare la strategia d'attacco.
+Per scongiurare il pericolo degli attacchi elementali ad area riducete la 
+distanza il più in fretta possibile.
+Ricordate che se i vostri riflessi sono allenati vi sarà possibile scansare ogni 
+tipo di muro o barriera elementale. Aggirare l'ostacolo, piuttosto che passarci 
+attraverso, è sempre la soluzione migliore.
+ 
+
+
+===== [page 36] =====
+Domande frequenti
+E' possibile impedire la traslazione per mezzo di teletrasporto?
+Sì, ma occorrono specifiche competenze magiche. Sigillare una zona al fine che 
+non possano essere operate traslazioni al suo interno è in verità un'operazione 
+da specialisti. Se nella vostra squadra non è presente uno specialista 
+dell'S.C.M., il modo più sicuro per evitare che il vostro bersaglio si dia alla 
+fuga con un teletrasporto è accertarsi di ridurlo all'incoscienza.
+Come si comportano i dardi di elemento quando colpiscono il bersaglio?
+Al di là della forza d'impatto e della precisione con cui è stato scagliato il 
+dardo, i suoi effetti sono simili a quelli di un'esposizione massiccia al dato 
+elemento (e quindi prevedibili in una certa misura). Seguendo l'esempio 
+riportato in precedenza, i dardi di fuoco tenderanno a ustionare il bersaglio e 
+bruciare il suo equipaggiamento infiammabile, e così via.
+Si può contrastare un elemento con il suo elemento antagonista?
+Se la domanda intende precauzioni quali gettare dell'acqua su un usufruitore 
+esperto in manipolazione del fuoco, oppure difendersi da un fulmine con una 
+manciata di terra, la risposta è: decisamente no.
+Esiste l'effettiva possibilità di contrastare un elemento attraverso il sapiente 
+uso del suo elemento antagonista: tuttavia tale pratica, molto complessa e 
+pericolosa, è oggetto di studio di elementalisti puri e specialisti 
+dell'antimagia, e non può essere improvvisata con altri mezzi. 
+  
+ 
+
+
+===== [page 37] =====
+DEGLI 
+USUFRUITORI 
+CORROTTI
+Mai stringere un accordo
+se non puoi venirne a capo
+Proverbio dei mercanti di Ulan-Tang
+
+
+===== [page 38] =====
+Cosa si intende per usufruitori corrotti
+Con il termine usufruitori corrotti vogliamo indicare quei praticanti dei vari 
+reami di magia che hanno ottenuto accesso alla loro sorgente di potere 
+attraverso una fonte di magia corrotta.
+Il concetto di fonte magica corrotta è tutt'ora tema di dibattito all'interno 
+delle sedi accademiche;
+12 tuttavia crediamo che sia possibile riassumerlo in 
+termini semplici -ma non semplicisti- per il beneficio dei lettori di questa 
+guida, senza per questo essere irrispettosi dei principi su cui tutta la 
+comunità accademica al momento concorda. 
+L'usufruitore corrotto è colui che beneficia di un potere straordinario, spesso 
+al di sopra delle possibilità sue o del comune usufruitore di pari abilità; la 
+sorgente da cui trae un simile potere è una sorgente di potere magico non 
+convenzionale, che potrà essere indicata a seconda di persone e culture in 
+diversi modi: divinità oscura, demone, energia in disequilibrio con gli 
+elementi, forza distruttiva che si oppone ad un ciclo di produzione e così via.
+Quello che pare importante sottolineare è che tale sorgente corrompe chi ne fa 
+utilizzo, che si trova  presto ad esserne sottomesso e a dipenderne come chi 
+faccia uso di sostanze additive. 
+La magia corrotta, che in questa sede si è volutamente evitato di chiamare 
+malvagia per non creare ambiguità sul piano morale, è innanzitutto corrotta alla 
+fonte, e conduce in un circolo vizioso che trasforma irrimediabilmente l'animo 
+di chi ne fa uso.
+Nella maggioranza dei casi a noi noti la fonte di magia corrotta si è rivelata 
+di natura demoniaca.
+La legge del Granducato di Armora (come avviene per la maggioranza dei regni 
+civilizzati) ha regolamentato con precisione le sanzioni penali per chi evoca, 
+stringe alleanza o intrattiene rapporti di qualunque tipo con entità provenienti 
+da piani demoniaci.
+12Per un riassunto delle principali correnti di pensiero in materia si legga Fonti corrotte, fonti 
+malvagie, di Crovos Bravaso, edito per i tipi dell'Accademia di Studi Elementali di Armora. 
+
+
+===== [page 39] =====
+Incantesimi più comuni
+Segue una lista degli incantesimi che più probabilmente vi capiterà di 
+affrontare nello scontro con un usufruitore corrotto e la descrizione dei loro 
+effetti.
+Tecniche di distruzione
+Gli usufruitori corrotti sono particolarmente abili in quegli incantesimi che 
+hanno come obiettivo l'annientamento fisico del proprio bersaglio. La 
+distruzione di muscoli, ossa, tendini e organi interni ne sono degli esempi, ma 
+tali abilità possono estendersi a corpi solidi inanimati (erosione), liquidi 
+(vaporizzazione) o a sostanze gassose (deossigenazione).
+Maledizioni
+Le maledizioni sono incantesimi che concentrano la propria energia per ottenere 
+un'alterazione drastica dell'apparato psicofisico del bersaglio. Ve ne sono 
+innumerevoli tipi e possono colpire sia il corpo (arti, organi, cinque sensi), 
+sia la mente (comportamenti alieni, perdita di potere magico) del bersaglio. 
+Flussi Oscuri
+Con il termine flussi oscuri si intendono per convenzione quegli incantesimi che 
+traggono la propria energia da una fonte corrotta del reame del Flusso. Sebbene 
+non siano stati effettuati studi precisi a riguardo, si stima che l'uso di tali 
+incantesimi possa esercitare un potere sensibilmente superiore ad un incantesimo 
+equivalente del Flusso. 
+Gli effetti degli incantesimi di Flusso oscuro variano al variare 
+dell'usufruitore e della sorgente di potere magico a cui è legato, sebbene tutti 
+abbiano in comune un preciso intento distruttivo.   
+ 
+ 
+
+
+===== [page 40] =====
+Necromanzia
+Per quanto alcuni accademici la considerino una branca minore ma legittima della 
+sapienza magica,
+13 la necromanzia è sanzionata nella maggioranza dei regni 
+civilizzati. 
+Gli incantesimi di necromanzia permettono di creare e comandare creature non-
+morte di natura e poteri differenti, da semplici cadaveri animati a temibili 
+spettri incorporei, e oltre. Se tenute sotto fermo controllo -il che non è 
+sempre possibile- tali creature si rivelano utili e fedeli strumenti nelle mani 
+dell'usufruitore corrotto.
+Evocazione demoniache
+Sebbene ardui da controllare o manipolare rispetto ad entità di altra natura, 
+spesso l'usufruitore corrotto dispone delle capacità per chiamare al proprio 
+servizio demoni di vario tipo. Una simile strategia è tanto più pericolosa 
+quanto alto sarà il livello dell'usufruitore che decide di attuarla. 
+Se mai vi è infatti un pericolo maggiore che affrontare un'entità demoniaca, è 
+credere che questa possa essere tenuta sotto controllo per lungo tempo.
+Oscurità
+Sebbene come linea di principio la padronanza della tenebra sia connessa 
+all'elemento della luce, si è notato come gli usufruitori corrotti manifestino 
+una certa predisposizione all'impiego di incantesimi atti a creare oscurità, sia 
+essa parziale o totale, naturale o magica. 
+Assoluzione Oscura
+Tra le magie più nefande e sacrileghe che esistono, l'assoluzione oscura è un 
+incantesimo in grado di distruggere  letteralmente l'anima di chi ne è 
+bersaglio, senza che vi sia possibilità di contro-incantesimo.
+13 Si consulti per un'approfondimento “Necromanzia, arti di”, in Enciclopedia Magica, Vol. VI°, 
+Maelstrom-Ottenebramento. Il testo, fondamentale nel suo genere e consultabile presso la biblioteca 
+dell'Accademia di Studi Elementali, la biblioteca del Palazzo Ducale o la biblioteca del Collegio del 
+Settimo Circolo, è a nostro avviso l'unico che esponga con chiarezza e senza faziosità un prospetto sulla 
+storia e la diffusione di tale disciplina.    
+
+
+===== [page 41] =====
+Fortunatamente non è bagaglio comune a molti usufruitori: ciò nondimeno è 
+un'arma temibile e letale, che può ridurre all'impotenza in un solo colpo anche 
+il più forte degli avversari.  
+Possessione demoniaca
+Anziché evocare un demone per poi piegarlo ai propri voleri, questo genere di 
+incantesimo trasferisce la volontà di un essere demoniaco all'interno di 
+un'altra creatura. Il bersaglio può resistere alla possessione solo grazie alla 
+propria volontà; la possessione può durare anche diversi giorni, anche se 
+comunemente l'entità demoniaca porterà ben prima il corpo dell'ospite a 
+commettere azioni pericolosamente auto distruttive.
+Conoscenze Oscure   
+Spesso le risorse di cui dispongono gli usufruitori corrotti sono maggiori 
+perchè di maggiore consistenza è la mole delle informazioni da loro detenute. 
+Gli incantesimi di conoscenza oscura permettono di indagare a fondo su certi 
+temi sensibili, che possono mettere in posizione di vantaggio gli usufruitori 
+che ne fanno uso.
+Dominazione Mentale 
+Come per il mentalista puro, anche l'usufruitore corrotto del Mentalismo dispone 
+di una serie di incantesimi per controllare la mente. Nella loro forma più 
+avanzata, permettono di controllare un bersaglio a grandi distanze senza 
+particolari sforzi.
+
+
+===== [page 42] =====
+I Punti di forza degli usufruitori corrotti
+Sorgente di potere magico
+Come già accennato, la particolarità della sorgente di potere magico cui attinge 
+un usufruitore corrotto gli consente di disporre di un potere più abbondante e 
+letale rispetto a quello di un usufruitore dotato delle stesse abilità di base 
+che si rivolga ad un'altra sorgente di potere magico. 
+Unicità degli Incantesimi
+Data la natura corrotta della fonte di potere, molti incantesimi degli 
+usufruitori corrotti sono unici nel loro genere: il loro bagaglio di risorse 
+magiche è quantomai raro e anticonvenzionale.  
+Senza scrupoli
+Per quanto cinici, perfidi o addirittura disumani possano essere gli strumenti 
+utilizzati da un usufruitore corrotto, egli non si farà scrupoli ad utilizzare 
+le risorse a sua disposizione al massimo del loro potenziale.
+I Punti deboli degli Usufruitori Corrotti
+Sorgente di potere magico
+La propria sorgente di potere magico è sia la loro arma più temibile, sia la 
+loro stessa dannazione. Per quanto possano sembrare indomiti, gli usufruitori 
+corrotti saranno sempre vincolati ad essa in un rapporto di intima sudditanza. 
+La loro più grande debolezza è che raramente ne sono consapevoli, e finiscono 
+per essere schiacciati da ciò che pensavano di poter controllare.
+Ambizioni personali e manie di grandezza 
+Gli usufruitori corrotti antepongono loro stessi a qualsiasi cosa: se spietato è 
+il potere di cui dispongono, essi stessi divengono a loro volta spietati.
+
+
+===== [page 43] =====
+Non si commetta l'errore di considerarli stupidi, poichè sono generalmente 
+persone dotate di grande volontà e sistematicità. Semplicemente, si sappia che 
+il loro ego finirà con l'ottenebrare ciò che li circonda, e si studi una 
+strategia adatta che tenga conto di ciò.
+Corruzione  
+L'utilizzo di una sorgente magica contamina l'usufruitore che ne fa uso, 
+rendendolo riconoscibile e vulnerabile a certi tipi di incantesimi. 
+Se molti infatti sono gli usufruitori corrotti, quelli votati alla loro 
+distruzione sono di più.
+Possibilità d’ingaggio contro gli usufruitori corrotti
+Innanzitutto è utile conoscere che tipo di reame abbracci l'usufruitore 
+corrotto: Flusso, Essenza o Mentalismo. A seconda dei casi, valgono le regole 
+generali esposte nelle sezioni precedenti.
+Nel caso di un ingaggio contro con usufruitore corrotto è essenziale poter 
+disporre dell'appoggio di una squadra di specialisti, o per lo meno di un 
+coordinatore dotato delle capacità magiche necessarie per contrastare con 
+efficacia gli incantesimi del bersaglio. 
+Il reame del Flusso vanta numerosi professionisti capaci di arginare l'azione di 
+entità demoniache o creature non-morte: il loro ausilio è indispensabile in 
+queste occasioni.
+Il consiglio migliore, come in molti altri casi, rimane conoscere con maggior 
+precisione possibile le abilità del proprio avversario, in modo da poter 
+utilizzare le contromisure più adeguate. 
+Nel caso di uno scontro con creature non-morte o demoniache è bene ricordare che 
+riducendo allo stato d'incoscienza l'usufruitore che le controlla non si 
+eliminerà automaticamente la minaccia di un'aggressione: le creature controllate 
+magicamente, specie nei due casi sopraccitati, costituiscono un pericolo anche 
+quando il vincolo di controllo su di loro è stato rimosso.
+   
+
+
+===== [page 44] =====
+Domande Frequenti
+Il mio compagno di squadra è  stato maledetto. Quando guarirà?
+L'alterazione psicofisica provocata dagli incantesimi di maledizione è di norma 
+permanente, e deve essere rimossa con apposite tecniche d'intervento magiche. 
+Rivolgersi ad uno specialista usufruitore del Flusso è il modo più efficace per 
+eliminare gli effetti della maledizione.
+Il mio compagno di squadra è stato morso da un non-morto. Si trasformerà anche 
+lui in zombie?
+Questa imprecisa domanda contiene un seme di verità. 
+Un semplice e fugace contatto con una creatura non morta, quale può essere 
+quello verificatosi in seguito ad uno scontro armato, in linea generale non 
+provoca conseguenze rilevanti. 
+Esiste tuttavia la possibilità che una creatura mortale sia trasformata in 
+creatura non-morta a seguito di una prolungata esposizione alla nefasta aura 
+magica che questi esseri emanano. Se il vostro compagno di squadra, durante uno 
+scontro, cade a terra non in seguito ad una ferita ma in seguito al 
+prosciugamento della propria energia vitale, allora è probabile che avvenga tale 
+trasformazione.
+Durante uno scontro con usufruitori corrotti mi devo aspettare delle evocazioni 
+di demoni? 
+L'evocazione di demoni è un procedimento complesso e delicato, che dovrebbe 
+essere condotto in un luogo predisposto per l'occasione: l'evocazione 
+estemporanea di creature demoniache sul campo di battaglia è dunque un gesto 
+disperato, che mette a repentaglio la stessa vita dell'evocatore. 
+Tuttavia è una situazione che si può verificare: in quel caso cercate di intuire 
+la natura del demone  mosso contro di voi ed agite di conseguenza. 
+
+
+===== [page 45] =====
+Poiché ridurre all’impotenza l’evocatore non serve a scacciare l’entità (a 
+meno che l’entità stessa non abbia motivo di abbandonare la lotta), è sempre 
+bene concentrare le proprie forze sul pericolo maggiore.       
+
+
+===== [page 46] =====
+APPENDICE  A
+GLI OGGETTI MAGICI
+I.
+Catalogazione dell’arsenale magico comune
+Si ritiene innanzitutto necessario indicizzare le tipologie di strumenti 
+incantati che più probabilmente vi capiterà di incontrare durante lo scontro con 
+un usufruitore di magia.
+Questa lista non vuole essere esauriente, ma vuole piuttosto fornire un utile 
+quadro generale: 
+Addizionatori: permettono all’usufruitore di lanciare incantesimi senza 
+esaurire la propria energia magica. 
+ 
+Vantaggio tattico: un avversario dotato di addizionatore si servirà con più 
+sicurezza di incantesimi di alto livello, per la cui esecuzione normalmente si 
+troverebbe a spendere molte energie. 
+Ciò gli permette di utilizzare potenti incantesimi anche nella fase finale di 
+uno scontro, quando le sue forze sono ridotte.
+Moltiplicatori: aumentano l’energia magica dell’usufruitore
+Vantaggio tattico: l’usufruitore si sente libero di usare magie ad alto o 
+medio-alto dispendio di energia con maggiore frequenza. 
+Gli incantatori che si servono dei moltiplicatori sono in minore difficoltà 
+nelle situazioni di stallo, e possono dedicarsi al supporto dei propri compagni 
+di squadra senza timore di esaurire le proprie risorse.
+Oggetti magici attivabili a comando: sono oggetti di varia natura adibiti al 
+lancio di determinati incantesimi. Il numero di volte cui il possessore può 
+
+
+===== [page 47] =====
+servirsi dell’incantesimo infuso nell’oggetto è variabile (una o più volte al 
+giorno ne è un esempio tipico).
+Vantaggio tattico: l’usufruitore medio tenderà a esaurire gli incantesimi del 
+proprio oggetto prima di lanciarne di propri, evitando così di sprecare energie 
+magiche. Ciò a volte lo rende prevedibile se si conoscono o si sono già 
+osservati gli effetti dell’incantesimo in questione.
+Alcuni oggetti esauriscono il proprio effetto al primo utilizzo, come nel caso 
+comune di rune semplici e  pergamene.
+L’attivazione dell’oggetto magico occupa per alcuni istanti l’usufruitore, 
+che si deve concentrare su di esso durante l’utilizzo.
+Oggetti magici permanenti: sono oggetti comuni infusi con un incantesimo 
+particolare che agisce permanentemente.
+Vantaggio tattico: il possessore può usufruire dei benefici dell’incantesimo in 
+questione. Alcuni esempi comprendono difese magiche, aumento delle capacità 
+psicofisiche, resistenze agli altri incantesimi. Poiché gli effetti di molti 
+oggetti magici permanenti non si rendono esplicitamente manifesti, la 
+precauzione migliore è ottenerne conoscenza prima dello scontro. 
+Staffe e bastoni: in certi casi gli usufruitori si servono di staffe a loro 
+sintonizzate come supporto durante l’esercizio dell’arte magica. 
+Sebbene questa non sia la norma (avere le mani occupate, come si è visto, può 
+ostacolare il lancio di incantesimi) è un’ipotesi non del tutto remota. 
+Vantaggio tattico: attraverso la staffa l’usufruitore esperto può lanciare 
+incantesimi preparati in precedenza, senza un dispendio immediato di energia 
+magica. In alcuni casi a ciò si aggiunge la capacità di ridurre i tempi di 
+lancio. 
+
+
+===== [page 48] =====
+L’usufruitore tenderà a servirsi della staffa per scagliare contro i propri 
+bersagli incantesimi particolarmente elaborati, il cui lancio estemporaneo in 
+battaglia risulterebbe rischioso.
+Privare un usufruitore della propria staffa, infine, assicura durante lo scontro 
+un sensibile vantaggio, poiché la perdita di un tale focus magico può 
+danneggiare le capacità magiche del suo possessore. 
+II.
+Individuare l’arsenale magico
+La prima operazione che si consiglia di portare a termine è l’individuazione 
+dell’arsenale magico del proprio avversario. Per ottemperare a ciò, non vi è 
+metodo migliore che affidarsi a specialisti di incantesimi di individuazione ed 
+analisi. 
+L’individuazione dell’arsenale magico può avvenire prima di uno scontro: in 
+questo caso il lavoro di raccolta informazioni coordinato con i reparti 
+specializzati del S.C.M. si rivela più che mai essenziale. Per una squadra che 
+abbia ricevuto notizie circa l’arsenale magico del proprio bersaglio non sarà 
+infatti difficile pianificare la tattica d’ingaggio più appropriata. 
+Tuttavia poiché le operazioni di spionaggio ai danni degli usufruitori 
+comportano generalmente l’utilizzo di altrettanti usufruitori esperti, e poiché 
+questa non è una risorsa sempre impiegabile, si consiglia di ricercare 
+informazioni circa i precedenti scontri a cui ha preso parte  il proprio 
+bersaglio. 
+Durante uno scontro tentare di individuare l’arsenale magico del proprio 
+bersaglio è spesso un’operazione semplice, poiché l’energia magica si 
+manifesta di frequente in modo visibile, ma rischiosa, poiché il tempo utile ad 
+una reazione efficace è limitato. Se la vostra squadra non può usufruire dei 
+servizi di uno specialista del magico (e spesso anche in quel caso), l’unica 
+accortezza rimane osservare ciò che accade intorno a sé e reagire al meglio.
+Può capitare che un usufruitore abbia con sé dei libri di sapienza magica. 
+Sebbene non si tratti di veri e propri oggetti magici, tomi, grimori e tutte le 
+
+
+===== [page 49] =====
+fonti di conoscenza magica devono essere considerati parte effettiva 
+dell’arsenale magico di un usufruitore.
+Al termine di uno scontro, individuati con maggiore tranquillità, è necessario 
+disarmare il bersaglio del suo arsenale magico come spiegato avanti.
+III.
+Disarmo e requisizione dell’arsenale magico
+E’ importante isolare gli strumenti magici del bersaglio al termine dello 
+scontro.
+Se sono stati individuati, riponete gli oggetti in una custodia  sigillata e 
+consegnatela al vostro comandante in campo. Gli specialisti di individuazione e 
+sintonizzazione magica, se presenti, forniranno i dettagli sulla procedura di 
+recupero e isolamento.  
+Non indossate oggetti incantati, né tentate di utilizzarli: questo può esporre 
+voi e la vostra squadra a incidenti dovuti all’utilizzo scorretto delle energie 
+magiche.
+Maneggiate le staffe e i bastoni sequestrati con estrema cautela, evitando di 
+puntare le estremità in direzione di un vostro compagno proprio come se si 
+trattasse di un’arma da tiro.  
+Nel caso troviate dei libri o pergamene tra l’equipaggiamento del vostro 
+bersaglio, riponeteli in una custodia senza aprirli né leggerli.  
+Vi sono poi rari casi di artefatti dotati di volontà propria, la cui nefasta 
+influenza può corrompere le menti dei possessori più incauti.
+Accessori particolarmente vistosi come diademi, bracciali o anelli vanno sempre 
+registrati e sigillati, quand’anche non ne sia stata accertata la natura 
+magica. La stessa precauzione va presa per i cristalli e le altre sostanze 
+minerali, comuni o rare che siano. 
+Tenete a mente che anche gli indumenti possono essere incantati, sebbene ciò 
+avvenga con maggior frequenza solo in seguito all’uso di incantesimi 
+temporanei. Tuttavia, se notate cappe, mantelli o altri indumenti sospetti non 
+esitate a registrarli e riporli sotto custodia.
+
+
+===== [page 50] =====
+S.C.M. – RAPPORTO OPERATIVO
+Squadra operativa N° 011 - “I Grifoni”
+Redatto da     Karl  Lodan
+Ufficiale in comando Capitano Matias 
+Rodriguez (caduto in missione)
+Grado e Matricola Operativo semplice 
+- 0105
+Luogo di ingaggio pressi di “antica fucina di 
+Drolin”, quartiere nanico, Armora 
+Si conosce il reame di Magia del 
+bersaglio?   Sì  
+Ora poco dopo mezzogiorno
+Bersaglio Rogar “il rosso” –  nano
+Indicare il reame del bersaglio
+Il bersaglio  stato
+è
+ incapacitato – catturato
+Essenza     Sì
+Mentalismo //
+Flusso    //
+Altro   //
+L’obiettivo della missione 
+ stato completato?
+è
+      Sì
+Il bersaglio sembra un 
+usufruitore corrotto?    no
+Si descriva brevemente l’ingaggio
+Il bersaglio si è accorto di noi  ed è riuscito a scappare dalla fucina, dove avevamo 
+previsto di sorprenderlo. Ha tentato di fuggire dal retro, ma noi l’abbiamo inseguito e 
+abbiamo usato le sputadardi per fermarlo. Alla fine un colpo è andato a segno. Messo 
+alle strette ci ha attaccato con decisione. Durante l’attacco il capitano è stato colpito 
+in pieno viso da un dardo di fuoco, ed è morto. Infine Erick, la nostra vedetta, l’ha 
+sorpreso alle spalle e lo ha tramortito. 
+Incantesimi utilizzati dal bersaglio (compilare almeno uno dei due campi)
+Nome Incantesimo
+Effetto incantesimo
+Dardo di fuoco
+Scudo (?)
+Ha deviato almeno due proiettili ben piazzati
+Paura (?)
+Ha causato un’irrazionale paura in un 
+compagno , che ha smesso di combattere
+(?)
+Mi pareva che corresse troppo veloce per un nano 
+Membri della squadra che sono stati fatti bersaglio di magie
+Nome e Grado
+Incantesimo 
+Capitano Matias  Rodriguez
+Dardo di fuoco al volto
+Operativo s. Lucius Corsino
+Incantesimo che causa paura
+Arsenale Magico Requisito
+Oggetto
+Note
+Anello con pietra rossa
+Ha puntato l’anello contro il capitano, poi ha 
+lanciato il dardo di fuoco che lo ha ucciso
+Collana
+Sospetta collana di metallo con disegno triangolare 
+Libro
+Copertina in pelle, rovinato,  senza  titolo
+Libro
+“Guida alla vita artificiale”
+Cristalli
+Sacchetto con 8 piccoli cristalli azzurri
+
+
+===== [page 51] =====
+APPENDICE  B
+LE REGOLE D'ORO DELL'ANTIMAGIA PRATICA
+I.
+Un avversario morto non lancia incantesimi
+II.
+Un avversario ridotto all'incoscienza non può farti bersaglio di magie
+III.
+Cappuccio, bavaglio e manette sono sempre buone precauzioni
+IV.
+Non c'è ostacolo che un Fulmine ben piazzato non riesca a superare 
+V.
+Un avversario che parla anziché combattere, in verità sta già combattendo
+VI.
+Non lasciarti intimorire dalla religione: sconfitto l'avversario, il suo 
+dio se ne andrà
+VII.
+Se una cosa sembra morta, può darsi che non lo sia
+VIII.
+Se un Guaritore sembra morto, probabilmente non lo è
+IX.
+Nel dubbio, ricorda che non c'è Arte Magica che possa curare la 
+decapitazione
+X.
+Non pensare mai: questo non può accadere
+
+
+===== [page 52] =====
+SPUNTI DI APPROFONDIMENTO BIBLIOGRAFICO
+- Contro la Magia del Sé, Alfredo von Zimmer, Armora, Collegio del Settimo 
+Circolo, 3027 d.M. (I° ed. 3018 d.M.)
+- Enciclopedia Magica in XII Volumi, Consiglio dei Sapienti dei Regni Giovani (a 
+cura di), Armora-Waldenheim-Caeldir, Tipografie Riunite, 2090 d.M.
+- Enciclopedia Magica: XI° Addenda, Belengard (a cura di), Armora, Accademia di 
+Studi Elementali di Armora, 3022 d.M. 
+- Fonti corrotte, fonti malvagie, Crovos Bravaso, Armora, Accademia di Studi 
+Elementali di Armora, 3010 d.M.
+- Il teorema del circolo perfetto e altri paradossi magici, Drisilde, in 
+“Bollettino degli Arcani”, Anno I°, pp. 3-15, Armora, Collegio del Settimo 
+Circolo, 3027 d.M.    
+- La magia meccanica: un’introduzione, Trogar von Guss, Armora, Gilda degli 
+Artefici di Armora, 3015 d.M.
+- L'ABC degli Elementi, Belengard, Armora, Accademia di Studi Elementali di 
+Armora, 3024 d.M. (I° ed. 3005 d.M.)
+- Quando il fulmine colpisce: approfondimento sugli usi della magia elementale 
+in battaglia, Isidoro von Graven, in “Annuali di Arte Magica”, Vol 2, anno 43, 
+pp. 27-32, Armora, Accademia di Studi Elementari di Armora, 3027 d.M.
