@@ -1,0 +1,60 @@
+<h1>Malattie</h1>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=4><B>Vaiolo</B></FONT></P>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2>&nbsp;</FONT></P>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2>Il vaiolo ? una malattia infettiva contagiosa che, nel 50 per cento dei casi, risulta letale. ? causata dal <I>Variola major</I>, un virus appartenente alla famiglia dei Orthopoxvirus. Esiste anche la variante provocata dal <I>Variola minor</I>, che per? ? meno grave, con un indice di mortalit? dell'1%.</FONT></P>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2>Il virus ? patogeno solo per la scimmia e per l?uomo.</FONT></P>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2>La trasmissione della malattia si verifica per contatto diretto con il malato o oggetti contaminati.<BR>Il periodo di incubazione della malattia dura dai 7 ai 17 giorni, durante i quali non si manifesta alcun sintomo. Penetrato per via respiratoria, il virus si moltiplica nei linfonodi regionali e quindi nel midollo osseo, nella milza, nel fegato e nel rene, dove ha luogo una pi? intensa moltiplicazione.</FONT></P>
+<TABLE style="MARGIN-LEFT: 0px; MARGIN-RIGHT: auto; FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left">
+<TBODY>
+<TR>
+<TD></TD></TR></TBODY></TABLE>
+<DIV style="TEXT-ALIGN: left"><FONT size=2><A style="FONT-FAMILY: arial,sans-serif" href="" name=Sintomi></A></FONT></DIV>
+<H2 style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2><B><SPAN>Sintomi</SPAN></B><SPAN style="FONT-WEIGHT: normal; FONT-SIZE: x-small; FLOAT: none"></SPAN></FONT></H2>
+<DIV style="TEXT-ALIGN: left"></DIV>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2>I primi sintomi sono febbre, malessere, emicranie, dolori muscolari e talvolta vomito; questa fase pu? durare da due a quattro giorni ed ? caratterizzata soprattutto da alte temperature.<BR></FONT></P>
+<DIV style="TEXT-ALIGN: left"></DIV>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2><A href="" name=Segni></A></FONT></P>
+<DIV style="TEXT-ALIGN: left"></DIV>
+<DIV style="TEXT-ALIGN: left"></DIV>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2>Dopo questa fase, appare un miglioramento dello stato generale, seguito subito dopo dall'apparizione di una eruzione cutanea molto caratteristica, detta esantema, che dapprima interessa il viso, poi le vie respiratorie, l'apparato digerente ed i genitali.<BR>Dopo circa 3 giorni le vescicole (che derivano dalla necrosi delle cellule epiteliali) evolvono in pustole poich? si infettano e si ha un notevole aumento della febbre, con aggravamento della sintomatologia generale, sino ad arrivare alla morte per complicanze polmonari o cardiologiche.</FONT></P>
+<DIV style="TEXT-ALIGN: left"></DIV>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2><A href="" name=Terapia></A></FONT></P>
+<DIV style="TEXT-ALIGN: left"></DIV><FONT size=2>&nbsp;</FONT> 
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><B><FONT size=4>Colera&nbsp;</FONT></B></P>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2>&nbsp;</FONT></P>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left">Il colera ? una malattia infettiva del tratto intestinale, caratterizzata dalla presenza di diarrea profusa e vomito, causata da un batterio Gram-negativo a forma di virgola: il <I>Vibrio cholerae</I>.<FONT size=2>&nbsp;</FONT></P>
+<P>Il batterio si trasmette per via oro-fecale, tramite l'ingestione di acqua o cibi contaminati da esso. I molluschi, a causa della loro azione filtrante, sono in grado di accumulare al loro interno un buon numero di vibrioni, costituendo, cos?, un buon mezzo d'infezione qualora siano consumati crudi o poco cotti.</P>
+<P>Generlamente la dose infettante del batterio ? piuttosto elevata (circa un milione di vibrioni) ma pu? essere pi? bassa in persone con ipocloridria (per malattie gastriche, uso di antiacidi, pasti con azione tamponante o malnutrizione). La malttia si verifica nel 20% delle persone infette (il 20% di costoro presentano anche vomito).</P>
+<H2 style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=+0><B><FONT size=2><B><SPAN>Sintomi</SPAN></B></FONT></B></FONT></H2>
+<P>Le manifestazioni del colera sono variabili da uno stato asintomatico ad uno di diarrea profusa, in assenza di dolore, che compare dopo 24-48 ore di incubazione. In questo caso si pu? arrivare fino ad una perdita di un litro di feci in un'ora con conseguente stato di disidratazione che pu? culminare in uno stato di shock ipovolemico. La persona presenta sete, debolezza, ottundimento dello stato sensorio, ipotensione e tachipnea. La cute e le mucose sono asciutte. La perdita di potassio pu? determinare lo sviluppo di crampi muscolari. Deplezioni di liquidi superiori al 10% del peso dell'individuo possono portare ad uno stato di oliguria (vi pu? essere la possibilit? di necrosi tubulare acuta con conseguente insufficienza renale), infossamento oculare e raggrinzimento della pelle con sonnolenza fino al coma.</P>
+<P>La perdita di bicarbonato con le feci genera uno stato di acidosi metabolica cui si aggiungono alterazioni degli elettroliti ed aumento dell'ematocrito (dovuto all'aumento della concentrazione ematica causato dalla perdita di acqua).</P>
+<P>Di per s?, il colera ? una malattia autolimitantesi. Il problema ? il grave stato di disidratazione che essa pu? portare e che determina morte nel 30-50% delle persone che non vengono trattate.&nbsp;</P>
+<P><BR></P>
+<P><FONT size=4><B>Peste</B></FONT></P>
+<P>La peste ? una malattia infettiva di origine batterica causata dal batterio <I>Yersinia pestis</I>.</P>
+<P>&nbsp;</P>
+<P><FONT size=4></FONT></P>
+<P><I><B>Peste Bubbonica</B></I></P>
+<P>&nbsp;</P>
+<DIV style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left">La trasmissione nell'uomo pu? avvenire attraverso la puntura delle pulci, o tramite il morso di ratti (<I>Xenopsilla cheopis</I>) o di altri roditori. La pulce dell'uomo (<I>Pulex irritans</I>), in forma minore, permette di trasmettere la peste bubbonica a<FONT style="FONT-FAMILY: arial,sans-serif" size=2>nche da uomo ad uomo.</FONT></DIV>
+<DIV style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"></DIV>
+<DIV style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"></DIV>
+<DIV style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"></DIV>
+<P style="FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: left"><FONT size=2>Insorge violentemente dopo un periodo di incubazione da 2 a 12 giorni. Si presenta con febbre alta, cefalea, grave debolezza, nausea, vomito e delirio. Si formano pustole nelle zone punte dalla pulce infetta; i linfonodi delle zone colpite (generalmente la zona inguinale e quella ascellare) si infiammano, gonfiandosi fino a formare uno o pi? bubboni.</FONT></P>
+<P style="FONT-FAMILY: arial,sans-serif"><FONT size=2>Nei casi gravi, l'infezione si propaga nell'organismo provocando insufficienza cardiocircolatoria o complicazioni renali, le quali possono portare alla morte. Altrimenti, nei casi meno gravi, la febbre cessa dopo circa due settimane, i bubboni gettano fuori del pus sgonfiandosi e lasciando una cicatrice. Mortalit?: 60%<BR></FONT></P>
+<P style="FONT-FAMILY: arial,sans-serif"><FONT size=2>&nbsp;</FONT></P>
+<P style="FONT-FAMILY: arial,sans-serif"><I><B><FONT size=2>Peste Polmonare&nbsp;</FONT></B></I></P>
+<P style="FONT-FAMILY: arial,sans-serif"><I><B><FONT size=2>&nbsp;</FONT></B></I></P>
+<P><FONT style="FONT-FAMILY: arial,sans-serif" size=2>Forma decisamente pi? grave rispetto alla precedente in quanto attacca i polmoni, pu? presentarsi anche come aggravamento. Il periodo di incubazione va da 1 a 7 giorni e presenta febbre alta, dispnea </FONT>(difficolt? respiratorie), tosse, cianosi (colorazione bluastra della pelle e delle mucose, sintomo di disturbi circolatori o respiratori) e grave debolezza. Se non viene curata in tempo, porta quasi sicuramente alla morte per edema polmonare acuto.</P>
+<P>La peste polmonare ? trasmissibile anche senza l'azione di pulci, per via aerea: attraverso, cio?, tosse e starnuti di persone infette. <FONT size=2>Mortalit?: 95%</FONT></P>
+<P>&nbsp;</P>
+<P><I><B>Peste Setticemica</B></I></P>
+<P><I><B>&nbsp;</B></I></P>
+<P>? la forma pi? rara ma certamente fatale. Dopo la puntura il bacillo infetta il sangue, la vittima denota un arrossamento della pelle e muore dopo poche ore dal contagio. <FONT size=2>Mortalit?: 99%</FONT></P>
+<P><FONT size=2></FONT>&nbsp;</P>
+<P><STRONG><FONT size=4>Magositi</FONT></STRONG></P>
+<P><FONT size=2></FONT>&nbsp;</P>
+<P><FONT size=2>I Magositi non sono una vera e propria malattia, sono dei parassiti che si nutrono dell'energia magica che si raduna attorno agli esseri viventi quando questi lanciano un incantesimo. Simili a piccoli pidocchi rossi nell'aspetto, sono difficili da scorgere ad occhio nudo. I Magositi provocano un fastidioso prurito e, cosa ben peggiore, rendono pi? faticoso il lancio degli incantesimi. A seconda del numero di Magositi presenti il costo in PP per il lancio di ogni incantesimo ? aumentato da 1 a 5. Un modo abbastanza efficacie di liberarsi di questi parassiti ? evitare di lanciare qualsiasi incantesimo per una paio di settimane.</FONT></P>
+<P><FONT size=2></FONT>&nbsp;</P>
+<P><FONT size=2></FONT>&nbsp;</P>
+<P><FONT size=2></FONT>&nbsp;</P><WBR>

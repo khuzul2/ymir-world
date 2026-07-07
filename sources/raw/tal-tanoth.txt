@@ -1,0 +1,169 @@
+<h1>Tal-Tanoth</h1>
+<P></P>
+<P lang=it-IT style="MARGIN-BOTTOM: 0cm" align=center><FONT color=#000000><FONT size=5><B>TAL-TANOTH</B></FONT></FONT></P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><FONT color=#000000><SPAN lang=it-IT><FONT size=3>I Tal-Tanoth sono simili agli Ur-Tanoth ma decisamente pi? minuti, somigliano all?incrocio fra un gatto ed un uomo. Al contrario degli Ur-Tanoth non temono l?uomo e spesso vivono in citt?. </FONT></FONT></SPAN></P>
+<P lang=it-IT style="MARGIN-BOTTOM: 0cm" align=center><BR></P>
+<P lang=it-IT style="MARGIN-BOTTOM: 0cm"><FONT color=#000000><FONT size=3><B>ASPETTO FISICO</B></FONT></FONT></P>
+<P style="MARGIN-BOTTOM: 0cm"><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Corporatura: </B>piccola e snella, i maschi pesano 45Kg, le femmine 40Kg.</FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm"><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Colorito:</B> il loro pelo pu? essere di qualsiasi colore. Occhi azzurri, verdi o gialli.</FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm"><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Resistenza: </B>Normale, devono dormire almeno 8 ore al giorno.</FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm"><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Altezza:</B> Maschi 120cm, Femmine 115cm.</FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm"><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Durata della vita:</B> 60-80 anni</FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm"><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Resistenze:</B> +15 contro i Veleni, +10 contro le Malattie; +10 TR e BD contro il Freddo</FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm"><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Abilit? Speciali:</B> Tough Skin (TA3) </FONT></FONT></SPAN></P>
+<H6 class=western lang=it-IT><FONT color=#000000><FONT size=3><B>MODIFICATORI CULTURA</B></FONT></FONT></H6>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Linguaggi:</B> Tanoth (8/4); Comune Occidentale (8/4)</FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Pregiudizi:</B> odiano gli orchetti e reputano gli uomini dei grossi tonti, ma per il resto vanno d?accordo con la maggior parte delle altre razze. A causa della loro natura incostante e burlona, tuttavia, il sentimento non ? sempre ricambiato e molti ritengono i Tal-Tanoth quantomeno una seccatura.</FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Religione:</B> i Tal-Tanoth non si preoccupano tanto di questioni religiose, la maggior parte di loro si attiene a qualche pratica superstiziosa oppure al culto principale del popolo presso cui vivono. </FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Professioni Preferite:</B> i Tal-Tanoth sono Ladri eccellenti e buoni Zingari. I pi? vagabondi diventano Ranger o Esploratori. Di rado scelgono altre professioni. </FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Abilit?:</B> <I>Everyman:</I> Muoversi Silenziosamente.</FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><SPAN lang=it-IT><FONT size=3><FONT color=#000000><B>Culture Preferite:</B> Usano la cultura presso la quale vivono, di solito del sotto tipo Urbano (classe inferiore). </FONT></FONT></SPAN></P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><SPAN lang=it-IT><FONT size=3></FONT></SPAN>&nbsp;</P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><SPAN lang=it-IT>&nbsp;</P>
+<P style="MARGIN-BOTTOM: 0cm">
+<TABLE dir=ltr borderColor=#000000 cellSpacing=0 cellPadding=7 width=446 align=left border=1 HSPACE="5">
+<COLGROUP>
+<COL width=55>
+<COL width=63>
+<COL width=133>
+<COL width=138>
+<TBODY>
+<TR>
+<TD vAlign=top width=430 colSpan=4 height=8>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=5><B>TAL-TANOTH</B></FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=132 colSpan=2 rowSpan=2>
+<P lang=it-IT style="MARGIN-BOTTOM: 0cm" align=center><FONT color=#000000><FONT size=3><B>Modificatori</B></FONT></FONT></P>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Caratteristiche</B></FONT></FONT></P></TD>
+<TD width=133 height=6>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Modifiche TR</B></FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Sviluppo</B></FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Flusso</B></FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Sviluppo Corporeo</B></FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>AG</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+6</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+0</FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>0.6.5.2.1</FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>CO</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+2</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Essenza</B></FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>PM Arcani</B></FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>ME</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+0</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+0</FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>0.5.3.2.2</FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>RA</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+0</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Mentalismo</B></FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>PM Essenza</B></FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>AC</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>-4</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+5</FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>0.5.3.2.2</FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>EM</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+0</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Arcano</B></FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>PM Flusso</B></FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>IN</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+0</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+0</FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>0.6.5.4.3</FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>PR</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>-4</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Veleno</B></FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>PM Mentalismo</B></FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>RF</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+5</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+15</FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>0.4.3.2.1</FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>FO</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>-6</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Malattia</B></FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Tipo di Razza</B></FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=55 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>AS</B></FONT></FONT></P></TD>
+<TD width=63>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+0</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+10</FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>3</FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=132 colSpan=2 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Dipartenza Anima</B></FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Paura</B></FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Molt. Guarigione</B></FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=132 colSpan=2 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>12 round</FONT></FONT></P></TD>
+<TD width=133>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>+0</FONT></FONT></P></TD>
+<TD width=138>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>X0,5</FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=132 colSpan=2 height=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Linguaggi</B></FONT></FONT></P></TD>
+<TD width=284 colSpan=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3><B>Opzioni Background (Punti Talento)</B></FONT></FONT></P></TD></TR>
+<TR vAlign=top>
+<TD width=132 colSpan=2 height=1>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>5</FONT></FONT></P></TD>
+<TD width=284 colSpan=2>
+<P lang=it-IT align=center><FONT color=#000000><FONT size=3>5 (50)</FONT></FONT></P></TD></TR></TBODY></TABLE><BR></P></SPAN>

@@ -1,0 +1,162 @@
+<h1>Xion</h1>
+<p></p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="center" lang="it-IT"><font color="#000000"><font size="5"><b>XION</b></font></font></p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="justify" lang="it-IT"><br></p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="justify" lang="it-IT"><font color="#000000"><font size="3">Gli Xion sono la Casta sacerdotale degli Xebechani, si occupano del culto agli dei, di officiare i riti principali e servono gli Xattva come scribi e consiglieri. In teoria dovrebbero essere loro ad occuparsi della manutenzione delle Pozze ma, visto che la scienza necessaria ? stata dimenticata, si limitano a custodirle e ad assistere gli Xattva nei loro esperimenti. Pu? accadere che uno Xion lasci la sua citt? in cerca di nuove conoscenze, oppure per accompagnare uno Xidhe in missione diplomatica come guida e supervisore.</font></font></p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="justify" lang="it-IT"><br></p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="justify" lang="it-IT"><br></p>
+<h4 align="justify">ASPETTO FISICO</h4>
+<h5><font size="3"><font face="times new roman,serif">Corporatura:&nbsp;<span>Fragile, in media pesano fra i 50 e i 60 kg</span></font></font></h5>
+<p style="margin-bottom: 0cm;" align="justify"><b>Colorito:</b> Pelle bianco-giallognola (tranne che per le squame colorate sulla schiena), capelli neri e occhi gialli o viola, a pupilla verticale.</p>
+<p style="margin-bottom: 0cm;" align="justify">
+<table dir="ltr" align="left" border="1" cellpadding="7" cellspacing="0" hspace="5" width="454">
+<colgroup>
+<col width="56">
+<col width="65">
+<col width="137">
+<col width="138">
+</colgroup><tbody>
+<tr>
+<td colspan="4" height="8" valign="top" width="438">
+<p align="center"><font size="5"><b>XION</b></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" rowspan="2" width="136">
+<p style="margin-bottom: 0cm;" align="center"><b>Modificatori</b></p>
+<p align="center"><b>Caratteristiche</b></p></td>
+<td height="2" width="137">
+<p align="center"><b>Modifiche TR</b></p></td>
+<td width="138">
+<p align="center"><b>Sviluppo</b></p></td></tr>
+<tr valign="top">
+<td height="2" width="137">
+<p align="center"><b>Flusso</b></p></td>
+<td width="138">
+<p align="center"><b>Sviluppo Corporeo</b></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b>AG</b></p></td>
+<td width="65">
+<p align="center">+0</p></td>
+<td width="137">
+<p align="center">-5</p></td>
+<td width="138">
+<p align="center">0.6.4.2.1</p></td></tr>
+<tr valign="top">
+<td height="3" width="56">
+<p align="center"><b>CO</b></p></td>
+<td width="65">
+<p align="center">+0</p></td>
+<td width="137">
+<p align="center"><b>Essenza</b></p></td>
+<td width="138">
+<p align="center"><b>PM Arcani</b></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b>ME</b></p></td>
+<td width="65">
+<p align="center">+0</p></td>
+<td width="137">
+<p align="center">+0</p></td>
+<td width="138">
+<p align="center">0.5.3.2.2</p></td></tr>
+<tr valign="top">
+<td height="3" width="56">
+<p align="center"><b>RA</b></p></td>
+<td width="65">
+<p align="center">+2</p></td>
+<td width="137">
+<p align="center"><b>Mentalismo</b></p></td>
+<td width="138">
+<p align="center"><b>PM Essenza</b></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b>AC</b></p></td>
+<td width="65">
+<p align="center">+3</p></td>
+<td width="137">
+<p align="center">+0</p></td>
+<td width="138">
+<p align="center">0.6.4.3.2</p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b>EM</b></p></td>
+<td width="65">
+<p align="center">+2</p></td>
+<td width="137">
+<p align="center"><b>Arcano</b></p></td>
+<td width="138">
+<p align="center"><b>PM Flusso</b></p></td></tr>
+<tr valign="top">
+<td height="3" width="56">
+<p align="center"><b>IN</b></p></td>
+<td width="65">
+<p align="center">+6</p></td>
+<td width="137">
+<p align="center">+0</p></td>
+<td width="138">
+<p align="center">0.6.6.4.3</p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b>PR</b></p></td>
+<td width="65">
+<p align="center">+0</p></td>
+<td width="137">
+<p align="center"><b>Veleno</b></p></td>
+<td width="138">
+<p align="center"><b>PM Mentalismo</b></p></td></tr>
+<tr valign="top">
+<td height="3" width="56">
+<p align="center"><b>RF</b></p></td>
+<td width="65">
+<p align="center">+0</p></td>
+<td width="137">
+<p align="center">+20</p></td>
+<td width="138">
+<p align="center">0.5.3.2.2</p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b>FO</b></p></td>
+<td width="65">
+<p align="center">-2</p></td>
+<td width="137">
+<p align="center"><b>Malattia</b></p></td>
+<td width="138">
+<p align="center"><b>Tipo di Razza</b></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b>AS</b></p></td>
+<td width="65">
+<p align="center">+0</p></td>
+<td width="137">
+<p align="center">+20</p></td>
+<td width="138">
+<p align="center">3</p></td></tr>
+<tr valign="top">
+<td colspan="2" height="3" width="136">
+<p align="center"><b>Dipartenza Anima</b></p></td>
+<td width="137">
+<p align="center"><b>Paura</b></p></td>
+<td width="138">
+<p align="center"><b>Molt. Guarigione</b></p></td></tr>
+<tr valign="top">
+<td colspan="2" height="2" width="136">
+<p align="center"><font size="3">9 round</font></p></td>
+<td width="137">
+<p align="center">+0</p></td>
+<td width="138">
+<p align="center">x1</p></td></tr>
+<tr valign="top">
+<td colspan="2" height="3" width="136">
+<p align="center"><b>Linguaggi</b></p></td>
+<td colspan="2" width="288">
+<p align="center"><b>Opzioni Background (Punti Talento)</b></p></td></tr>
+<tr valign="top">
+<td colspan="2" height="1" width="136">
+<p align="center"><font size="3">2</font></p></td>
+<td colspan="2" width="288">
+<p align="center">3(30)</p></td></tr></tbody></table><b>Resistenza: </b>Normale </p>
+<p style="margin-bottom: 0cm;" align="justify"><b>Altezza:</b> In media attorno ai 160-170 cm</p>
+<p style="margin-bottom: 0cm;" align="justify"><b>Durata della vita:</b>&nbsp; 250-300 anni</p>
+<p style="margin-bottom: 0cm;" align="justify"><b>Resistenze:</b> Discreta resistenza a Veleno e Malattie.</p>
+<p style="margin-bottom: 0cm;" align="justify"><b>Abilit? Speciali:</b> Oltre a possedere tutte le normali abilit? comuni ad ogni Xebechano, gli Xion sono in grado di percepire intuitivamente la presenza di energie magiche nell'aria (<i>Senso Arcano:</i><span style="font-style: normal;"> concentrandosi possono percepire la presenza di incantesimi attivi nel raggio di 10m. Capiscono anche la direzione e la lontananza dell'incantesimo ma non il Reame di appartenenza); inoltre, grazie alla loro innata affinit? con le energie magiche, sono relativamente poco impacciati da armature e simili ostacoli nel lancio di incantesimi (</span><i>Trascendenza: </i><span style="font-style: normal;">+25 all'abilit? Trascendere Armatura).</span></p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>Abilit?: </b><span><i>Everyman: </i>Ingegneria, Biologia </span></font></font></p><wbr>

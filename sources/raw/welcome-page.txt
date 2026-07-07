@@ -1,0 +1,133 @@
+<h1>Welcome Page</h1>
+<div style="background: transparent none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; text-align: center;"><font face="verdana" size="6"></font></div>
+<p style="clear: both; text-align: center;"></p>
+<div style="text-align: center;"><font size="6">Benvenuti su Ymir</font></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: left;">Gruppo google per la creazione collaborativa del mondo di Ymir</div>
+<div style="text-align: left;">&nbsp;</div>
+<div style="text-align: left;">
+
+<p class="MsoNormal" style="text-align: justify;"><strong>INTRODUZIONE</strong><b><br>
+<br>
+</b>Benvenuto su Ymir, il mondo del Maelstrom! Un mondo scampato ad un?immane
+Catastrofe, che ha sconvolto l?essenza stessa del pianeta. Un mondo in costante
+pericolo, perennemente assediato dalle orde dei malvagi Demoni Sovrani. Un
+mondo dove la magia modella il fato dei popoli e dove<br>
+impavidi avventurieri esplorano misteriose rovine di civilt? dimenticate alla
+scoperta di tesori leggendari. Un mondo che cela un inesplicabile segreto:
+quello degli Adepti. Questa guida ? pensata per aiutare i giocatori a creare un
+personaggio con il quale avventurarsi nel mondo di Ymir. Qui troverai tutte le
+informazioni necessarie alla creazione del tuo PG, assieme ad alcuni consigli
+su come svilupparlo. Oltre alla descrizione dettagliata delle razze che
+popolano Ymir in questa breve guida sono presenti nuovi talenti speciali
+pensati apposta per l?ambientazione, una lista delle divinit? e dei maggiori
+culti di Ymir, una breve cronologia del mondo e moltissime informazioni utili
+sul mondo di gioco. Alla fine della guida troverai anche un piccolo glossario
+che offre una spiegazione di alcuni nomi o termini importanti per
+l?ambientazione. Detto questo non mi resta che augurarti buona lettura e buon
+divertimento!</p>
+
+<p class="MsoNormal" style="text-align: justify;"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal" style="text-align: justify;"><st1:PersonName productid="LA STORIA DI" w:st="on"><st1:PersonName productid="LA STORIA" w:st="on"><b style="">LA STORIA</b></st1:PersonName><b style=""> DI</b></st1:PersonName><b style=""> YMIR: <st1:PersonName productid="LA GRANDE BUGIA" w:st="on"><st1:PersonName productid="LA GRANDE" w:st="on">LA GRANDE</st1:PersonName> BUGIA</st1:PersonName><o:p></o:p></b></p>
+
+<p class="MsoNormal" style="text-align: justify;"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal" style="text-align: justify;">Per
+secoli i popoli di Ymir sono stati ingannati, vittime delle menzogne di un
+gruppo di entit? conosciute col nome di Adepti, autoproclamatesi divinit?. Ora
+per? il manto dell?illusione ? stato incrinato e le bugie degli Adepti svelate.
+La verit?, tuttavia, potrebbe essere pi? terribile di ogni menzogna, riuscir?
+Ymir a sopravvivere in questa nuova era?</p>
+
+<p class="MsoNormal" style="text-align: justify;"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal" style="text-align: justify;"><st1:PersonName productid="LA STORIA DEGLI" w:st="on"><b style=""><span style="">LA STORIA DEGLI</span></b></st1:PersonName><b style=""><span style="">
+ADEPTI<o:p></o:p></span></b></p>
+
+<p class="MsoNormal" style="text-align: justify;"><b style=""><span style=""><o:p>&nbsp;</o:p></span></b></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style="">Molti secoli fa un gruppo di esseri
+superiori fece la propria comparsa nel cosmo. Nessuno sa bene a quale razza
+essi appartenessero, ma ? certo che non avessero eguali in tutto l?universo. Si
+facevano chiamare Adepti, ed erano in possesso di una tecnologia avanzatissima,
+che gli permetteva di spostarsi da un punto all?altro dello spazio senza
+viaggiare, di creare armi in grado di devastare mondi interi, di modificare il
+patrimonio genetico e mutare le razze a loro piacimento. Secondo alcuni, la
+loro tecnologia li aveva addirittura resi immortali, immuni allo scorrere del
+tempo e alle malattie. Gli Adepti crearono una vasta rete di Portali,
+attraverso i quali potevano viaggiare da un mondo all?altro in un attimo, e la
+usarono per conquistare diversi pianeti con le proprie armate, formando un vero
+e proprio impero galattico.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style="">Attraverso le loro incessanti ricerche, gli
+Adepti finirono con lo scoprire il potere dell?Essenza e della magia. Avidi di
+tale potere lo studiarono a fondo, allo scopo di impossessarsene. Presto
+divennero in grado di manipolare l?Essenza a loro piacimento, anche grazie
+all?aiuto delle loro potentissime macchine e fu cos? che si accorsero
+dell?esistenza di qualcosa di pi? grande di loro, di infinitamente pi? potente.
+Fu cos? che scoprirono gli Antichi Dei, che da tempo immemore dormivano e
+sognavano, incuranti dell?universo.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style="">Invidiosi del loro potere, gli Adepti
+cercarono un modo per rubarglielo, per poter regnare come vere e proprie
+divinit? sul cosmo. Con i loro artefatti operarono complessi rituali che
+permisero loro di operare l?impossibile, utilizzando i piani elementali che
+circondano il creato come uno scudo e una fonte di energia. Riuscirono a
+sigillare le divinit? dormienti oltre di essi (anche se alcuni dicono che
+furono gli dei stessi a lasciare che vi riuscissero) e incanalarono dentro i
+loro corpi l?energia dei piani elementari, trasformandosi in creature divine.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style=""><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal" style="text-align: justify;"><st1:PersonName productid="LA CATASTROFE" w:st="on"><b style=""><span style="">LA CATASTROFE</span></b></st1:PersonName><b style=""><span style=""><o:p></o:p></span></b></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style=""><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style="">Ci? tuttavia cre? un enorme turbolenza nello
+scorrere dell?Essenza, un ondata caotica che si ripercosse attraverso i piani
+di esistenza. L?Essenza stessa si lacer?, dando origine ad un?anomalia, ad un
+altro tipo di Essenza, totalmente opposta alla prima: l?Essenza Corrotta.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style="">Da essa fuoriuscirono legioni di demoni, che
+invasero Ymir e gli altri pianeti. Utilizzando i loro poteri divini, gli Adepti
+bandirono i demoni in una prigione dimensionale, chiamata Inferno o Abisso,
+impedendo loro di accedere alla nostra dimensione senza essere convocati. Il
+contraccolpo, tuttavia, fin? per provocare un riflusso di tutti i Portali, che
+si spensero all?unisono, seguito da un?enorme esplosione che cancell? una buona
+fetta di Ymir, creandovi una tempesta magica permanente: il Maelstrom.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style="">Nei secoli seguenti, gli Adepti si
+nascosero, occultarono l?accaduto diffondendo false notizie e assunsero
+identit? differenti, facendosi adorare come dei?<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style=""><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal" style="text-align: justify;"><b style=""><span style="">YMIR
+OGGI<o:p></o:p></span></b></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style=""><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal" style="text-align: justify;">Pi?
+di tremila anni sono passati dalla Catastrofe, imperi sono sorti e caduti ed
+intere civilt? si sono succedute, ma i popoli di Ymir non hanno dimenticato gli
+Adepti e la minaccia dei Demoni Sovrani. Ad eterno monito il Maelstrom continua
+inesorabilmente ad imperversare nel centro di Ymir, sconvolgendo gli oceani con
+la propria furia. </p>
+
+<p class="MsoNormal" style="text-align: justify;">Ma
+dopo secoli di bugie e di lotta contro i Demoni Sovrani qualcosa sta cambiando.
+Epiche imprese hanno lacerato il velo della menzogna ed un?era di cambiamenti
+si appresta. Il mondo ? scosso da potenze incredibili. C?? chi dice che
+l?Inferno sia sorto dalle acque e che i Demoni Sovrani<span style="">&nbsp; </span>camminino su Ymir; chi parla di orde di morti
+che camminano sulla terra; chi annuncia che i Portali hanno ripreso a
+funzionare. Ovunque si vedono profeti annunciare il ritorno delle antiche
+divinit?, e uomini fino al giorno prima normali si svegliano col corpo intriso
+di magia?</p>
+
+<p class="MsoNormal" style="text-align: justify;"><st1:PersonName productid="La Marea Stregata" w:st="on"><st1:PersonName productid="La Marea" w:st="on">La Marea</st1:PersonName> Stregata</st1:PersonName> ? sorta e tutto
+sta cambiando?</p>
+
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div></div><wbr>

@@ -1,0 +1,160 @@
+<h1>Xidhe</h1>
+<p></p>
+<p style="margin-bottom: 0cm;" align="center" lang="it-IT"><font color="#000000"><font face="times new roman,serif" size="5"><b>XIDHE</b></font></font></p>
+<h4 align="justify"><font face="times new roman,serif"><br></font></h4>
+<h4 align="justify"><font style="font-weight: normal; font-family: times new roman,serif;" face="times new roman,serif">Gli Xidhe sono l'immagine che la maggior parte delle persone ha in mente quando pensa ad uno Xebechano: esili umanoidi dalla pelle pallida, lunghi capelli neri e lo sguardo magnetico. Il motivo ? semplice, dato che la loro Casta si occupa esclusivamente di commercio e rapporti diplomatici con l'esterno, gli Xidhe sono gli Xebechani che ? pi? facile trovare al di fuori dei loro territori. Gli Xidhe sono in genere piuttosto colti, tendono a conoscere diverse lingue e a destreggiarsi abbastanza bene anche in culture molto diverse dalla propria. Fra gli Xebechani sono inoltre quelli meno passivi, tanto che spesso riescono a intessere profonde amicizie anche con membri di altre razze. Forse ? per questo motivo che alcuni Xidhe emigrano all'estero, sentendosi oppressi dalla rigidit? della societ? Xebechana. </font><font face="times new roman,serif"><br></font></h4>
+<h4 align="justify"><font face="times new roman,serif">ASPETTO FISICO</font></h4>
+<h5>
+<table dir="ltr" align="left" border="1" cellpadding="7" cellspacing="0" hspace="5" width="455">
+<colgroup></colgroup><tbody><tr><td><font face="times new roman,serif">
+</font><br></td></tr></tbody><col width="56">
+<col width="65">
+<col width="137">
+<col width="138">
+<tbody>
+<tr>
+<td colspan="4" height="8" valign="top" width="439">
+<p align="center"><font face="times new roman,serif" size="5"><b>XIDHE</b></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" rowspan="2" width="136">
+<p style="margin-bottom: 0cm;" align="center"><b><font face="times new roman,serif">Modificatori</font></b></p>
+<p align="center"><b><font face="times new roman,serif">Caratteristiche</font></b></p></td>
+<td height="2" width="137">
+<p align="center"><b><font face="times new roman,serif">Modifiche TR</font></b></p></td>
+<td width="138">
+<p align="center"><b><font face="times new roman,serif">Sviluppo</font></b></p></td></tr>
+<tr valign="top">
+<td height="2" width="137">
+<p align="center"><b><font face="times new roman,serif">Flusso</font></b></p></td>
+<td width="138">
+<p align="center"><b><font face="times new roman,serif">Sviluppo Corporeo</font></b></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b><font face="times new roman,serif">AG</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">+0</font></p></td>
+<td width="137">
+<p align="center"><font face="times new roman,serif">+0</font></p></td>
+<td width="138">
+<p align="center"><font face="times new roman,serif">0.6.3.2.1</font></p></td></tr>
+<tr valign="top">
+<td height="3" width="56">
+<p align="center"><b><font face="times new roman,serif">CO</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">-2</font></p></td>
+<td width="137">
+<p align="center"><b><font face="times new roman,serif">Essenza</font></b></p></td>
+<td width="138">
+<p align="center"><b><font face="times new roman,serif">PM Arcani</font></b></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b><font face="times new roman,serif">ME</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">+0</font></p></td>
+<td width="137">
+<p align="center"><font face="times new roman,serif">-5</font></p></td>
+<td width="138">
+<p align="center"><font face="times new roman,serif">0.5.3.2.2</font></p></td></tr>
+<tr valign="top">
+<td height="3" width="56">
+<p align="center"><b><font face="times new roman,serif">RA</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">+0</font></p></td>
+<td width="137">
+<p align="center"><b><font face="times new roman,serif">Mentalismo</font></b></p></td>
+<td width="138">
+<p align="center"><b><font face="times new roman,serif">PM Essenza</font></b></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b><font face="times new roman,serif">AC</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">+2</font></p></td>
+<td width="137">
+<p align="center"><font face="times new roman,serif">-5</font></p></td>
+<td width="138">
+<p align="center"><font face="times new roman,serif">0.6.4.3.2</font></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b><font face="times new roman,serif">EM</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">+4</font></p></td>
+<td width="137">
+<p align="center"><b><font face="times new roman,serif">Arcano</font></b></p></td>
+<td width="138">
+<p align="center"><b><font face="times new roman,serif">PM Flusso</font></b></p></td></tr>
+<tr valign="top">
+<td height="3" width="56">
+<p align="center"><b><font face="times new roman,serif">IN</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">+0</font></p></td>
+<td width="137">
+<p align="center"><font face="times new roman,serif">-5</font></p></td>
+<td width="138">
+<p align="center"><font face="times new roman,serif">0.6.5.4.3</font></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b><font face="times new roman,serif">PR</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">+6</font></p></td>
+<td width="137">
+<p align="center"><b><font face="times new roman,serif">Veleno</font></b></p></td>
+<td width="138">
+<p align="center"><b><font face="times new roman,serif">PM Mentalismo</font></b></p></td></tr>
+<tr valign="top">
+<td height="3" width="56">
+<p align="center"><b><font face="times new roman,serif">RF</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">+0</font></p></td>
+<td width="137">
+<p align="center"><font face="times new roman,serif">+20</font></p></td>
+<td width="138">
+<p align="center"><font face="times new roman,serif">0.7.6.5.4</font></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b><font face="times new roman,serif">FO</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">-2</font></p></td>
+<td width="137">
+<p align="center"><b><font face="times new roman,serif">Malattia</font></b></p></td>
+<td width="138">
+<p align="center"><b><font face="times new roman,serif">Tipo di Razza</font></b></p></td></tr>
+<tr valign="top">
+<td height="2" width="56">
+<p align="center"><b><font face="times new roman,serif">AS</font></b></p></td>
+<td width="65">
+<p align="center"><font face="times new roman,serif">+10</font></p></td>
+<td width="137">
+<p align="center"><font face="times new roman,serif">+20</font></p></td>
+<td width="138">
+<p align="center"><font face="times new roman,serif">3</font></p></td></tr>
+<tr valign="top">
+<td colspan="2" height="3" width="136">
+<p align="center"><b><font face="times new roman,serif">Dipartenza Anima</font></b></p></td>
+<td width="137">
+<p align="center"><b><font face="times new roman,serif">Paura</font></b></p></td>
+<td width="138">
+<p align="center"><b><font face="times new roman,serif">Molt. Guarigione</font></b></p></td></tr>
+<tr valign="top">
+<td colspan="2" height="2" width="136">
+<p align="center"><font face="times new roman,serif" size="3">9 round</font></p></td>
+<td width="137">
+<p align="center"><font face="times new roman,serif">+0</font></p></td>
+<td width="138">
+<p align="center"><font face="times new roman,serif">x1</font></p></td></tr>
+<tr valign="top">
+<td colspan="2" height="3" width="136">
+<p align="center"><b><font face="times new roman,serif">Linguaggi</font></b></p></td>
+<td colspan="2" width="289">
+<p align="center"><b><font face="times new roman,serif">Opzioni Background (Punti Talento)</font></b></p></td></tr>
+<tr valign="top">
+<td colspan="2" height="1" width="136">
+<p align="center"><font face="times new roman,serif" size="3">5</font></p></td>
+<td colspan="2" width="289">
+<p align="center"><font face="times new roman,serif">2 (20)</font></p></td></tr></tbody></table><font face="times new roman,serif"><font size="3">Corporatura: Esile e slanciata, in media pesano circa 65kg</font> </font></h5>
+<p style="margin-bottom: 0cm;" align="justify"><font face="times new roman,serif"><b>Colorito:</b> Hanno una pelle molto chiara, quasi bianco latte, tranne che sulla schiena, dove appaiono sottili squame colorate. I loro occhi sono argentati, verdi o viola, a pupilla verticale. I loro capelli sono neri e solitamente lisci. </font></p>
+<p style="margin-bottom: 0cm;" align="justify"><font face="times new roman,serif"><b>Resistenza: </b><span>Normale</span></font></p>
+<p style="margin-bottom: 0cm;" align="justify"><font face="times new roman,serif"><b>Altezza:</b> I<span><font size="3">n media intorno ai 180cm</font></span></font></p>
+<p style="margin-bottom: 0cm;" align="justify"><font face="times new roman,serif"><b>Durata della vita:</b>&nbsp;</font> 250-300<font face="times new roman,serif"> anni.</font></p>
+<p style="margin-bottom: 0cm;" align="justify"><font face="times new roman,serif"><b>Resistenze:</b> Godono di una discreta resistenza a veleni e malttie.</font></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3"><font face="times new roman,serif"><b>Abilit? Speciali:</b> Gli Xidhe hanno tutte le normali abilit? speciali comuni ad ogni Xebechano. Inoltre godono di alcune abilit? particolari, caratteristiche della loro Casta. Lo sguardo di uno Xidhe ? magnetico, quasi ipnotico. Molte persone lo trovano snervante, altre ne sono affascinate, ma non c'? persona che non trovi difficile contraddire uno Xidhe quando il suo sguardo si posa su di lui (<i>Sguardo Intenso:</i><span style="font-style: normal;"> +15 alle abilit? di Influenza se gli occhi sono visibili all'interlocutore. Inoltre, tutti i bersagli di un incantesimo di tipo ?m? lanciato da uno Xidhe soffrono di una penalit? di -10 ai loro TR se i suoi occhi sono visibili).</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="justify" lang="it-IT"><font color="#000000"><font size="3"><font face="times new roman,serif"><b>Abilit?:</b><span> <i>Everyman:</i> Mercanteggiare; Persuasione; Raccontare Storie. <i>Occupational:</i> Ipnosi</span></font></font></font></p><wbr>

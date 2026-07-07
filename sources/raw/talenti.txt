@@ -1,0 +1,2661 @@
+<h1>Talenti</h1>
+<p><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="ProgId" content="Word.Document"><meta name="Generator" content="Microsoft Word 11"><meta name="Originator" content="Microsoft Word 11"><link rel="File-List" href="file:///C:%5CDOCUME%7E1%5CArioch%5CIMPOST%7E1%5CTemp%5Cmsohtml1%5C01%5Cclip_filelist.xml"><o:smarttagtype namespaceuri="urn:schemas-microsoft-com:office:smarttags" name="metricconverter"></o:smarttagtype><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:HyphenationZone>14</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]--><style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"?? ??";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1610612033 1757936891 16 0 131231 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1610612033 1757936891 16 0 131231 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"MS Mincho";}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 2.0cm 2.0cm 2.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabella normale";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+
+</p><p class="MsoNormal" style="text-align: justify;"><b style="">TALENTS<o:p></o:p></b></p>
+
+<p class="MsoNormal" style="text-align: justify;"><o:p>&nbsp;</o:p></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" style="width: 494.05pt; margin-left: 2.75pt; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="659">
+ <tbody><tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-family: Arial; color: red;">Talento<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-family: Arial; color: red;" lang="EN-GB">Costo <o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-family: Arial; color: red;">Note<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Arcane Discovery
+  (Minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Arcane Discovery
+  (Major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Assassin Training<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Directed Weapon Master
+  (Minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Con il CC, uno Stile con il Focus di
+  Arma singola ? Everyman<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Directed Weapon Master
+  (Major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Con il CC, uno Stile con il Focus di
+  Arma singola ? Occupational, <i style="">oppure</i>
+  uno Stile qualsiasi ? Everyman<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Exceptional Skill at
+  Arms<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">50<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Con il CC, puoi scegliere uno Stile
+  qualsiasi ? Everyman, +<st1:metricconverter productid="10 a" w:st="on">10 a</st1:metricconverter>
+  tutti gli Stili e Armature<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Fluent<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Gymnastic Training<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Inner Riserve (Lesser)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Inner Riserve (Minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Inner Riserve (Major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Inner Riserve
+  (Greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Internal Clock<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Judge of Angles<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Lightning Strike<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Natural Archer<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Natural Facility With
+  Armor<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Natural Horseman<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Natural Weapons Master<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">40<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Con il CC, tutti gli Stili armati sono
+  Everyman<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Outdoorsman<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Cambia in: +<st1:metricconverter productid="15 a" w:st="on">15 a</st1:metricconverter> tutte le Outdoor skill<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Portage Skills<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Power (Lesser)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Power (Minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Power (Major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Aggiungi 5 punti per i non-user<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Power (Greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">40<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Aggiungi 10 punti per i non-user<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Precision<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Racial Training
+  (familiar)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Racial Training
+  (expert)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Skilled (Lesser)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Skilled (Minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Skilled (Major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Skilled (Greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Swift Dresser<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Trained Regular
+  Footman<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Con il CC, un qualsiasi stile comprendente
+  gli attacchi elencati ? Everyman<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Underground Upraising<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Warrior Extraordinare<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">50<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Con il CC, tutto gli stili corpo a
+  corpo sono Everyman, +<st1:metricconverter productid="10 a" w:st="on">10 a</st1:metricconverter>
+  Special Attacks<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Weapon Control<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Accelerated Mending<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Acute Hearing<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Acute Smell<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Ambidexterity (Lesser)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Ambidexterity (Minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Battle Cry<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Blazing Speed<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Elemental Resistance
+  (lesser)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Come Heat/Cold resistance, ma si pu?
+  scegliere uno dei sei elementi<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Elemental Resistance
+  (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Come Heat/Cold resistance, ma si pu?
+  scegliere uno dei sei elementi<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Elemental Resistance
+  (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Come Heat/Cold resistance, ma si pu?
+  scegliere uno dei sei elementi<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Elemental Resistance
+  (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Come Heat/Cold resistance, ma si pu?
+  scegliere uno dei sei elementi<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Combat Reflexes<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Commanding Demeanor<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Dead Eye<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Dense (double)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Dense (quadruple)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Dwarfism (lesser)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Dwarfism (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Dwarfism (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Ear for Music<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Extra Limbs (+1)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Extra Limbs (+2)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Extra Limbs (+3)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Flight (Winged)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Il costo varia a seconda che l?abilit?
+  derivi dalla presenza di ali o no, a causa dell?impatto sociale, etc?<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Flight (Magical)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Il costo varia a seconda che l?abilit?
+  derivi dalla presenza di ali o no, a causa dell?impatto sociale, etc..<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Fluid Wrists<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Giantism (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Giantism (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Giantism (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Gliding<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Golden Throat<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Great Arm<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Hammerhand<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 13.5pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 13.5pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">High Range Voice<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 13.5pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 13.5pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Hypercharged
+  Adrenaline<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Infravision<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Intense Eyes<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Light Sleeper<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Manual Deftness<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Natural Weapon<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 13.8pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 13.8pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Navigation Gift<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 13.8pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 13.8pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">(?)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Neutral Odor<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Nightvision<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Nimble Skeleton<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Pain Resistance
+  (Lesser)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Pain Resistance
+  (Minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Pain Resistance
+  (Major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Pain Resistance
+  (Greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Peripheral Vision<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Poison Sack<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Quiet Stride<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Regeneration (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Regeneration (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Regeneration (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Resilient<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Reverbative Strength<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Shield Mastery<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Steel Grip<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Strong Lungs<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Sturdy Build<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Subconscious
+  Preparation<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Subtle<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 8.1pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 8.1pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Tensile (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 8.1pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 8.1pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 8.1pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 8.1pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Tensile (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 8.1pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 8.1pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 8.1pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 8.1pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Tensile (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 8.1pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 8.1pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Tolerance<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Tough Skin (wolf)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Tough Skin (tiger)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Tough Skin (insect)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Agression<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Archetype<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Archmage Abilities
+  (Major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Archmage Abilities
+  (Greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Aura (Lesser)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Aura (Minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Aura (Major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Aura (Greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Danger Sense<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Destiny Sense<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Eloquence<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">50<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Ensorcellment Cure<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Ethereal Sight<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 9.15pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 9.15pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Ethereal Tie<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 9.15pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 9.15pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Look of Eagles<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Magical Affinity<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Magical Resistance<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Mana Sensing<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Planar Travel
+  (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">40<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">(+10 ogni altre 2 persone)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Resistance<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Scope Skills (radius)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Scope Skills (targets)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Spatial Skills (Minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Spatial Skills (Major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Sub-conscious
+  Discipline<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Temporal Skills<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Transcendence<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Undetectable<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Unnatural Aging<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Visions<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12.4pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12.4pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Animal Empathy<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12.4pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12.4pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Battle Reflexes<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Calmness<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Dominance<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Empathy<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Good Battlefield
+  Awareness<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Immovable Will<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Instinctive Defense<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Internal Sense<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Mental Control<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Mental Link<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Mental Scan<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Photographic Memory<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Quick Calculator<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Speed Reading<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Stability Sense<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Survival Instinct<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Telekinesis<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni round che viene usata TR sulla SD
+  di livello 10+(round oltre il primo) se fallisce, non pu? pi? essere usata
+  per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Telepathy<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni volta che viene usata TR sulla SD
+  di livello 20+(volte oltre la prima) se fallisce, non pu? pi? essere usata
+  per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Unbeliever<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Violent Prejudice<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Adherent<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Affect Enviroment (Major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Affect Enviroment
+  (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Amazing Leaping<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Attribute Drain<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni volta che viene usata TR sulla Co
+  di livello 10+(volte oltre la prima) se fallisce, non pu? pi? essere usata
+  per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Bane<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Blessed by War God<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">50<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Darkness<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni volta che viene usata TR sulla Co
+  di livello 10+(volte oltre la prima) se fallisce, non pu? pi? essere usata
+  per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 9.1pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 9.1pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Duplication <o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 9.1pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 9.1pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni round che viene usata TR sulla SD
+  di livello 10+(round oltre il primo) se fallisce, non pu? pi? essere usata
+  per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Elasticity<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni minuto che viene usata TR sulla
+  SD di livello 10+(minuto oltre il primo) se fallisce, non pu? pi? essere
+  usata per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 14.4pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 14.4pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Ensnare (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 14.4pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 14.4pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni volta che viene usata TR sulla Co
+  di livello 10+(volte oltre la prima) se fallisce, non pu? pi? essere usata
+  per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 17.7pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 17.7pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Ensnare (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 17.7pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 17.7pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni volta che viene usata TR sulla Co
+  di livello 10+(volte oltre la prima) se fallisce, non pu? pi? essere usata
+  per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Eye of the Hawk<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 14.6pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 14.6pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Flare<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 14.6pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 14.6pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Force Shield (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni round che viene usata TR sulla SD
+  di livello 5+(round oltre il primo) se fallisce, non pu? pi? essere usata per
+  quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Force Shield (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni round che viene usata TR sulla SD
+  di livello 5+(round oltre il primo) se fallisce, non pu? pi? essere usata per
+  quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Force Shield (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni round che viene usata TR sulla SD
+  di livello 5+(round oltre il primo) se fallisce, non pu? pi? essere usata per
+  quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Force Shield (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni round che viene usata TR sulla SD
+  di livello 5+(round oltre il primo) se fallisce, non pu? pi? essere usata per
+  quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Invisibility<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni minuto che viene usata TR sulla
+  SD di livello 20+(minuto oltre il primo) se fallisce, non pu? pi? essere
+  usata per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Life Support (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Life Support (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">40<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Life Support (sustenance)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Lifetime Goal<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Luck Dramatic (lesser)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Luck Dramatic (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Luck Dramatic (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Luck Dramatic
+  (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Lucky (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Lucky (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Lucky (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Master Warrior Friend<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Mentor<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Microscopic Vision<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Natural Ranged Attack
+  (lesser)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni volta che viene usata TR sulla Co
+  di livello 10+(volte oltre la prima) se fallisce, non pu? pi? essere usata
+  per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Natural Ranged Attack
+  (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni volta che viene usata TR sulla Co
+  di livello 10+(volte oltre la prima) se fallisce, non pu? pi? essere usata
+  per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Non-corporeal<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni minuto che viene usata TR sulla
+  SD di livello 20+(minuto oltre il primo) se fallisce, non pu? pi? essere
+  usata per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Power Absorption (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Power Absorption
+  (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">35<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Sense<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">5<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Shapechanger<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Sonar Sense<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Special Familiar<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 11.25pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 11.25pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Stat Bonus (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 11.25pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 11.25pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Stat Bonus (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Stat Bonus (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Stat Improvement<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 8.75pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 8.75pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Succor (minor)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 8.75pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 8.75pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 6.5pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 6.5pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Succor (major)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 6.5pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">20<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 6.5pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 13.3pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 13.3pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Succor (greater)<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 13.3pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 13.3pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Summon<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">15<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Teleportation<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">30<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;">Ogni volta che viene usata TR sulla SD
+  di livello 20+(volte oltre la prima) se fallisce, non pu? pi? essere usata
+  per quel giorno.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Tunneling<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">Ultrasonic Hearing<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">10<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">X-ray Vision<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-size: 10pt; font-family: Arial; color: black;">25<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" style="text-align: justify;"><span style="" lang="EN-GB"><o:p>&nbsp;</o:p></span></p>
+
+<span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;;" lang="EN-GB"><br style="page-break-before: always;" clear="all">
+</span>
+
+<p class="MsoNormal" style="text-align: justify;"><b style=""><span style="" lang="EN-GB">NEW/YMIR TALENTS<o:p></o:p></span></b></p>
+
+<p class="MsoNormal" style="text-align: justify;"><span style="" lang="EN-GB"><o:p>&nbsp;</o:p></span></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" style="width: 494.05pt; margin-left: 2.75pt; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="659">
+ <tbody><tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-family: Arial; color: red;">Talento<o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-family: Arial; color: red;" lang="EN-GB">Costo <o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal" style="text-align: center;" align="center"><b><span style="font-family: Arial; color: red;">Note<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Sangue di Drago</span></strong><b><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">50</span></strong><b><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p></o:p></span></b></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt;">Tramite un particolare
+  rituale un drago ha mescolato il<br>
+  proprio sangue con quello del PG, in cambio di eterna obbedienza e lealt?. Il
+  sangue del PG gli conferisce un aspetto leggermente ?draghesco? e alcuni
+  poteri particolari.<br>
+  Due opzioni a scelta fra:<br>
+  ? Possanza del Drago:<br>
+  o +8 Bonus Forza<br>
+  o +5 Bonus Costituzione<br>
+  o +2 Bonus Empatia<br>
+  ? Soffio del Drago: Shock Bolt con critico a seconda dell?elemento scelto,<br>
+  utilizzabile un numero di volte al giorno pari al bonus di Costituzione<br>
+  ? Pelle Coriacea: TA 11 (-40 all?Aspetto, a causa delle scaglie)<br>
+  ? Ali: grandi ali di drago permettono di volare (-20 Aspetto)</span><span style="font-size: 10pt; font-family: Arial; color: black;"><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Sangue Elementale<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">15<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt;">Un antenato del PG ? stato
+  corrotto da un elemento, ed<br>
+  ha passato parte della corruzione a lui. Il personaggio inizia con 20 punti
+  corruzione e 4 punti fattore<br>
+  in un elemento a scelta. Due punti fattore devono andare all?aspetto, gli
+  altri due possono essere usati<br>
+  per comperare dei tratti tipici dell?elemento a scelta del PG.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Affinit? Elementale<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">25<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt;">Il PG guadagna un bonus di
+  +10 al BD e TR contro un elemento a sua scelta e ha un bonus di +5 alle
+  manovre di lancio incantesimi con le liste che hanno a che fare con quell?elemento.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Leggenda Vivente (Major)<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">20<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt;">Sei stato addestrato con
+  tecniche che ti permettono di trascendere i limiti dei comuni mortali e di
+  apprendere le leggendarie tecniche dei pi? grandi maestri di arti<br>
+  marziali. Puoi imparare normalmente i Poteri Chi Eroici (non sono ristretti)
+  e puoi anche apprendere<br>
+  quelli Fantastici<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Leggenda Vivente (Greater)<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">30<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt;">Come il Major, ma puoi
+  imparare normalmente<br>
+  tutti i Poteri Chi (nessuno ? considerato Ristretto).<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Alleato Elementale<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">25<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt;">Hai stretto un patto o
+  fatto amicizia con un?entit? elementare: scegli un elemento. Quando sei in
+  pericolo, c?? il 25% di probabilit? che un Lesser Elemental di quell?elemento
+  arrivi in tuo aiuto.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Inarrestabile <o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">15<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt;">Le ferite non ti
+  rallentano, dimezza tutte le penalit? dovute alla perdita di PF.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="height: 12pt;">
+  <td style="padding: 0cm 3.5pt; width: 224.05pt; height: 12pt;" nowrap="nowrap" valign="top" width="299">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Luminare<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 36pt; height: 12pt;" valign="top" width="48">
+  <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">10<o:p></o:p></span></strong></p>
+  </td>
+  <td style="padding: 0cm 3.5pt; width: 234pt; height: 12pt;" valign="top" width="312">
+  <p class="MsoNormal"><span style="font-size: 10pt;">Scegli 5 skill di Lore:
+  diventano Occupational per te. Tutte le altre skill di Lore sono invece
+  Restricted.<o:p></o:p></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" style="text-align: justify;"><o:p>&nbsp;</o:p></p>
+
+&nbsp;<p></p>

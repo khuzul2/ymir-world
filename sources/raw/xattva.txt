@@ -1,0 +1,162 @@
+<h1>Xattva</h1>
+<p></p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="center" lang="it-IT"><font color="#000000"><font size="5"><b>XATTVA</b></font></font></p>
+<h4 align="justify"><br></h4>
+<p style="margin-bottom: 0cm;" align="justify">Gli eterei Xattva sono considerati gli Xebechani per eccellenza, i pi? puri e nobili fra tutte le Caste. Sono anche i meno numerosi, arrivando a malapena al 10% della popolazione xebechana. A loro ? preposto il governo, l'emanazione delle leggi e l'amministrazione dello stato, anche se in realt? la maggior parte del lavoro viene fatta da scribi Xion e gli Xattva si occupano solo delle questioni pi? gravi ed importanti. Per lo pi? occupano il loro tempo in studi magici ed esperimenti alchemici, nella speranza di trovare un soluzione al problema della riproduzione. Gli Xattva non lasciano praticamente mai le proprie terre, quelli che si incontrano all'estero sono di norma stati puniti con l'esilio per motivi politici o religiosi e vivono questa loro condizione con grandissima tristezza.</p>
+<h4 align="justify"><br></h4>
+<h4 align="justify">ASPETTO FISICO
+<table dir="ltr" align="left" border="1" cellpadding="7" cellspacing="0" hspace="5" width="494">
+<colgroup>
+<col width="62">
+<col width="71">
+<col width="149">
+<col width="154">
+</colgroup><tbody>
+<tr>
+<td colspan="4" height="4" valign="top" width="478">
+<p align="center" lang="it-IT"><font color="#000000"><font size="5"><b>XATTVA</b></font></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" rowspan="2" width="147">
+<p style="margin-bottom: 0cm;" align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Modificatori</b></font></font></p>
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Caratteristiche</b></font></font></p></td>
+<td height="6" width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Modifiche TR</b></font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Sviluppo</b></font></font></p></td></tr>
+<tr valign="top">
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Flusso</b></font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Sviluppo Corporeo</b></font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>AG</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">-5</font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">0.6.3.2.1</font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>CO</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">-3</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Essenza</b></font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>PM Arcani</b></font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>ME</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">-5</font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">0.8.7.6.5</font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>RA</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Mentalismo</b></font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>PM Essenza</b></font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>AC</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+2</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">-5</font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">0.7.6.5.4</font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>EM</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+6</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Arcano</b></font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>PM Flusso</b></font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>IN</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+6</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">-5</font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">0.7.6.5.4</font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>PR</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+6</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Veleno</b></font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>PM Mentalismo</b></font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>RF</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+50</font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">0.7.6.5.4</font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>FO</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">-2</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Malattia</b></font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Tipo di Razza</b></font></font></p></td></tr>
+<tr valign="top">
+<td width="62">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>AS</b></font></font></p></td>
+<td width="71">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+20</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+25</font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">2</font></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" width="147">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Dipartenza Anima</b></font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Paura</b></font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Molt. Guarigione</b></font></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" width="147">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">9 round</font></font></p></td>
+<td width="149">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="154">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">x1</font></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" width="147">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Linguaggi</b></font></font></p></td>
+<td colspan="2" width="316">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Opzioni Background (Punti Talento)</b></font></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" width="147">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">5</font></font></p></td>
+<td colspan="2" width="316">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">2 (25)</font></font></p></td></tr></tbody></table></h4>
+<h5><font size="3">Corporatura: <span><span lang="it-IT"><font color="#000000">Alti ed esili. Pesano in media 65-70 kg.</font></span></span></font></h5>
+<p style="margin-bottom: 0cm;" align="justify"><b>Colorito:</b> <span lang="it-IT"><font size="3"><font color="#000000">Hanno una pelle molto pallida, quasi bianca. In alcune altre parti del corpo essa ? sostituita da piccole, morbide squame, che sulla schiena formano disegni simili agli occhiali di un cobra. Hanno capelli neri ed occhi gialli, grigi, verdi o viola, con pupilla verticale.</font></font></span></p>
+<p style="margin-bottom: 0cm;" align="justify"><b>Resistenza: </b><span><span lang="it-IT"><font size="3"><font color="#000000">Normale</font></font></span></span></p>
+<p style="margin-bottom: 0cm;" align="justify"><b>Altezza:</b> <span lang="it-IT"><font size="3"><font color="#000000">In media sono alti 190 cm.</font></font></span></p>
+<p style="margin-bottom: 0cm;" align="justify"><b>Durata della vita:</b>&nbsp; 250-300 anni.</p>
+<p style="margin-bottom: 0cm;" align="justify"><b>Resistenze:</b> Molto resistenti a Veleni e Malattie.</p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>Abilit? Speciali:</b> Come gli Xion sono in grado di percepire intuitivamente la presenza di energie magiche nell'aria (<i>Senso Arcano:</i> concentrandosi possono percepire la presenza di incantesimi attivi nel raggio di 10m. Capiscono anche la direzione e la lontananza dell'incantesimo ma non il Reame di appartenenza); in pi? sono in grado di convogliare e immagazzinare le energia magiche molto facilmente (<i>Aura:</i> gi? calcolata nella progressione dei PM).</font></font></p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>Abilit?: </b><span><i>Everyman:</i> Nessuna.</span></font></font></p>
+<p style="margin-bottom: 0cm; font-style: normal;" align="justify" lang="it-IT"><br></p><wbr>

@@ -1,0 +1,33 @@
+<h1>Qi-Long</h1>
+<P><FONT size=6>Qi-Long</FONT></P>
+<P>&nbsp;</P>
+<P>Demografia: Popolazione:&nbsp;900 Milioni</P>
+<P>&nbsp;</P>
+<P>Il Qi-Long ? un vasto territorio suddiviso in sei regni da parecchi secoli in lotta fra loro. Questi regni sono governati col pugno di ferro dai potenti e misteriosi Dei-Drago, depositari, secondo le leggende, di incredibili poteri mistici. Un tempo questo territorio ospitava il glorioso e prospero impero Mah-Dhol, ora ? un luogo devastato dalla guerra, dove raramente si recano gli altri abitanti di Ymir, anche perch? gli agenti degli Dei-Drago non si fanno molti scrupoli a reclutare forzatamente qualunque persona gli capiti a tiro, pur di rinforzare i propri eserciti.</P>
+<P>&nbsp;Nessuno sa bene chi o <I>cosa</I> siano gli Dei-Drago, ? risaputo che usano sembianze umane ma che possono mutarle a piacimento, che sono immortali, guerrieri formidabili e maghi potentissimi, maestri di tutte le arti marziali. Alcuni affermano che, in realt?, essi non siano immortali ma che, quando uno di loro muore, il suo successore prende il suo nome, cos? da dare quest?illusione di immortalit?. L?unica cosa che si sa per certo ? che controllano un potere inimmaginabile, chi osa sfidarli muore, schiacciato dalla loro immane potenza. Ognuno di loro brama il controllo dell?intero territorio e si proclama il pi? forte dei sei. Da secoli, tuttavia, la guerra fra i regni ? in stallo, senza che nessuno riesca a prevalere.</P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>Gli Dei-Drago sono:</P>
+<OL>
+<LI>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>Huolong?nan (il Drago di Fuoco del Sud)</P>
+<LI>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>Seishima Tatsumoto (il Drago delle Isole Occidentali) </P>
+<LI>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>Weichong-Shanxuan (il Possente Verme della Montagna Nera)</P>
+<LI>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>Kuangshuang Long (il Drago della Distesa Gelata)</P>
+<LI>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>Jiu-Yaofeng (l?Aquila Nera del Vento Maligno)</P>
+<LI>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>Qiulei-Senbei (il Piccolo Drago di Tuono delle Foreste del Nord)</P></LI></OL>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><BR></P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>Normalmente, gli Dei-Drago appaiono come uomini, ma ? risaputo che ognuno di loro pu? assumere forma di drago in qualunque momento (da qui il loro nome), sia per combattere che per incutere maggior rispetto o timore nei proprio uomini. </P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>&nbsp;</P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>I SEI REGNI</P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify>&nbsp;</P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><B>Wang-Guo Bei</B> <B>(Regno del Nord):</B> regno di Qiulei-Senbei.</P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><B>Gaoyuan Yun (Altopiano delle Nuvole): </B>regno di Weichong-Shanxuan</P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><B>Guhui-Sheng (Provincia di Cenere):</B> regno di Huolong?nan</P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><B>Pingyuan-Shi (Pianura Morta):</B> regno di Jiu-Yaofeng</P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><B>Kuangshuang (Pianura Gelata):</B> regno di Kuangshuang Long</P>
+<P style="MARGIN-BOTTOM: 0cm" align=justify><B>Kainan no Umi (Mare del Naufragio):</B> regno di Seishima Tatsumoto</P>
+<P>&nbsp;<WBR></P>

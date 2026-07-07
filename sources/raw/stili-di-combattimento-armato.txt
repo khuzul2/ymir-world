@@ -1,0 +1,10 @@
+<h1>Stili di Combattimento Armato</h1>
+<P><STRONG>Danza delle Foglie Autunnali (&nbsp;60 punti): </STRONG>Stile di combattimento a due spade tradizionale elfico, sviluppato per essere efficace in particolar modo quando ci si trova a dover affrontare molti nemici contemporaneamente. Arma: Spada Lunga, Adrenal Defense Lesser, All-Around Attack; All-Around Defense; Additional Melee Weapon Attack (seconda spada). <EM>Mossa Speciale (Turbine d'Autunno): </EM>il personaggio pu? attaccare due bersagli diversi, senza la normale penalit? di -20 al BO. Per il resto del round, tuttavia, soffre di una penalit? di -20 al BD.</P>
+<P>&nbsp;</P>
+<P><STRONG>Scherma Cartosano Classico (60&nbsp;punti): </STRONG>Il pi? tradizionale stile di scherma di Cartosa, punta tutto sull'allungo dell'arma, il sottile gioco di gambe e la rapidit? dei riflessi dello schermidore. Arma: Stocchi, Adrenal Defense Greater, Defensive Ward (main-gauche), +2 Iniziativa.</P>
+<P>&nbsp;</P>
+<P><STRONG>Scherma Cartosano Torquez (60 punti): </STRONG>Stile di combattimento disegnato appositamente per contrastare lo Scherma Cartosano Classico (gode di un +2 all'iniziativa contro tale stile). Si tratta di uno stile pi? meditativo, che fa largo uso del Guanto d'Arme (uno speciale guanto di piastre di metallo) per parare e afferrare l'arma dell'avversario. Arma: Stocchi, Adrenal Defense Lesser, Defensive Ward (Guanto d'Arme), Weapon Breaker, +15 a Disarmare.</P>
+<P>&nbsp;</P>
+<P><STRONG>Scherma Armorita (30 punti): </STRONG>lo Scherma Armorita ? pi? statico e semplice dello Scherma Cartosano, ma anche meno stancante da utilizzare. Arma: Stocchi, Adrenal Defense Lesser, Defensive Ward.&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>

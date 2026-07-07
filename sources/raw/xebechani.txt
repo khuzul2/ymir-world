@@ -1,0 +1,44 @@
+<h1>Xebechani</h1>
+<p></p>
+<p style="margin-bottom: 0cm;" align="center"><font size="5"><b>XEBECHANI</b></font></p>
+<p style="margin-bottom: 0cm;" align="center"><br></p>
+<p style="margin-bottom: 0cm;" align="justify"><font size="3">Gli Xebechani sono una razza antica e misteriosa di umanoidi <span lang="it-IT"><font color="#000000">dalla pelle pallida, con alcuni tratti da rettile, di indubbia origine magica. Secondo alcuni gli xebechani sono collegati ai Draghi o ai Grandi Serpenti dell'antichit? ma nessuno conosce cono certezza le origini di questa specie, che sono avvolte dal mistero.</font></span></font></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3">Anche grazie al loro aspetto bizzarro, gli Xebechani risultano spesso stranamente ?ipnotici? ai membri delle altre razze, probabilmente a causa dell?aura incantata che li circonda. Sempre calmi, freddi e distaccati, pare che osservino il mondo da grande distanza e non siano per nulla interessati agli eventi che accadono intorno a loro. Non sono, ovviamente, privi di emozioni, ma sono molto abili nel nasconderle e ci? li rende ancora pi? enigmatici agli occhi delle altre razze.</font></font></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3">Non tutti gli Xebechani sono uguali, all'interno di questo popolo esistono 4 diverse Caste con caratteristiche e funzioni diverse: gli Xudra (guerrieri/lavoratori); gli Xidhe (mercanti/diplomatici); gli Xion (saggi/sacerdoti) e gli Xattva (nobili/maghi). Ogni casta ? una vera e propria sottorazza, diversa dalle altre sia per quanto riguarda le capacit? fisiche che quelle intellettuali. Alcune caratteristiche, tuttavia, sono comuni a tutti gli Xebechani:</font></font></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><br></p>
+<dl>
+<dl>
+<dd>
+<table border="1" cellpadding="4" cellspacing="0" width="100%">
+<colgroup>
+<col width="256">
+</colgroup><tbody>
+<tr>
+<td bgcolor="#000000" valign="top" width="100%">
+<p align="center"><font color="#ffffff"><font size="3"><b>CARATTERISTICHE COMUNI</b></font></font></p></td></tr>
+<tr>
+<td valign="top" width="100%">
+<ul>
+<li>
+<p align="justify"><font size="3"><b>Termovisione: </b><span>Tutti gli Xebechani sono in grado di ?vedere? il calore emesso dagli oggetti intorno a loro in maniera limitata. Ci? conferisce loro un bonus di +5 a Percepire Bugie e un bonus di +10 a Seguire Tracce (se le tracce hanno meno di 30 minuti). Inoltre, consente loro di muoversi al buio con relativa destrezza, utilizzando la Termovisione per percepire il mondo intorno a loro (fino a 20 metri di distanza). Ci? li rende per? vulnerabili agli sbalzi improvvisi di temperatura (come quelli causati da una Fireball o da una Coldball), che possono confonderli e stordirli momentaneamente. Nota che la Termovisione ? sempre attiva (assieme alla vista normale), non ? possibile ?disattivarla?.</span></font></p>
+</li><li>
+<p align="justify"><font size="3"><b>Elasticit?:</b> Gli Xebechani sono dotati di giunture particolarmente elastiche e snodabili. Ci? conferisce loro un bonus di +10 a tutte le manovre di Contorsionismo e un bonus di +5 a tutti gli attacchi di Martial Arts: Locking Holds.</font></p>
+</li><li>
+<p align="justify"><font size="3"><b>Passivi: </b><span>Anche il pi? vivace degli Xebechani appare freddo e distaccato ai membri delle altra razze. In alcune situazioni ci? pu? comportare una penalit? (da -10 a -20) alle abilit? di Influenza, a discrezione del Master.</span></font></p>
+</li><li>
+<p align="justify"><font size="3"><b>Asessuati:</b><span> Gli Xebechani non si riproducono in modo normale e sono privi di organi sessuali. L'abilit? Seduzione ? ristretta per loro.</span></font></p></li></ul></td></tr></tbody></table></dd></dl></dl>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><br></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>ASPETTO FISICO</b></font></font></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3">Vedi la descrizione delle diverse Caste.</font></font></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><br></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>CULTURA E SOCIETA'</b></font></font></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3">La societ? xebechana ? rigidamente gerarchica: in cima alla scala sociale c'? la Casta degli Xattva (che ? anche le meno numerosa) e in fondo quella degli Xudra (la pi? numerosa). L'appartenenza ad una Casta viene decisa alla nascita e non pu? essere cambiata (anche se uno xebechano pu? sempre sperare in una ?rinascita? in una Casta migliore, vedi sotto). Fin da appena nato, ogni Xebechano ha sulla schiena delle sottili squame colorate, che formano disegni simili agli occhiali di un cobra. A seconda del colore e della complessit? di questi disegni, gli Xebechani determinano non solo la casta, ma anche il ruolo sociale e la futura occupazione del neonato. La maggior parte della vita di uno Xebechano viene quindi decisa alla sua nascita.</font></font></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3">Come detto sopra gli Xebechani sono asessuati e non si riproducono come le altre razze, piuttosto, i giovani Xebechani sono creati attraverso un particolare procedimento magico, del quale pochi conoscono l'esistenza. In ogni grande citt? xebechana, custodito all'interno del tempio principale, si trova un colossale macchinario organico, creato migliaia di anni fa con potenti formule alchemiche. Questi macchinari sono chiamati semplicemente ?le Pozze? dagli Xebechani. Quando uno Xebechano muore, il suo corpo viene immesso nel macchinario, che lo assorbe e ne utilizza le particelle organiche e spirituali per creare un nuovo Xebechano neonato. Questo processo viene chiamato ?la Rinascita? ed ? l'unico modo che gli Xebechani hanno per riprodursi. Purtroppo per?, questi macchinari sono molto antichi e gli Xebechani hanno dimenticato la scienza necessaria a comprendere appieno il loro funzionamento, o anche solo a ripararli (se mai l'hanno conosciuta!). Per questo motivo di recente capita sempre pi? spesso che si verifichino dei malfunzionamenti, e che qualche Xebechano nasca morto o con qualche deformit?. I sacerdoti-alchimisti xebechani cercano di comprendere i motivi dei malfunzionamenti ma brancolano nel buio e sull'intera razza si staglia minacciosa l'ombra dell'estinzione...</font></font></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><br></p>
+<h6 align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>MODIFICATORI CULTURA</b></font></font></h6>
+<p style="margin-bottom: 0cm;" align="justify"><span lang="it-IT"><font size="3"><font color="#000000"><b>Linguaggi:</b> Xebechano (8/6); Seconda Lingua (8/6); Terza Lingua (8/6)<a href="/group/world-of-ymir/edit/xebechani?hl=it#sdfootnote1sym" name="sdfootnote1anc"></a></font></font></span></p>
+<p style="margin-bottom: 0cm;" align="justify"><span lang="it-IT"><font size="3"><font color="#000000"><b>Vestiti &amp; Decorazioni:</b> Gli Xebechani usano vestiti leggeri, spesso di seta, che lasciano scoperte spalle e schiena. Portano spesso e volentieri monili d?oro ornati con piume e pietre preziose. Quando si avventurano al di fuori dei loro luoghi natii di solito indossano lunghe tuniche munite di ampi cappucci.</font></font></span></p>
+<p style="margin-bottom: 0cm;" align="justify"><span lang="it-IT"><font size="3"><font color="#000000"><b>Pregiudizi:</b> Tendono a trattare i membri delle altre razze come bambini, dato che si reputano in generale superiori intellettualmente. </font></font></span></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>Religione:</b> Gli Xebechani hanno un proprio pantheon di divinit? (detti "Dei Esterni"), ma il loro culto si incentra soprattutto sulla riverenza nei confronti dei loro antenati (chiamati ?gli Antichi? e ritenuti depositari di grandi conoscenze) e sulla pratica di rituali al fine di garantirsi una Rinascita in una Casta migliore.</font></font></p>
+<p style="margin-bottom: 0cm;" align="justify"><span lang="it-IT"><font size="3"><font color="#000000"><b>Culture Preferite:</b><span> Gli Xebechani vivono in grandi citt?, solitamente nel mezzo della giungla, oppure sulle cime di montagne inaccessibili, isolati dal resto del mondo. Per i primi la cultura Silvana ? quella che si adatta meglio, per gli altri usa quella Aerea (se non hai il Races &amp; Cultures usa lo sviluppo per l'adolescenza degli Elfi per gli Xebechani). </span></font></font></span></p>
+<div>&nbsp;</div><wbr>

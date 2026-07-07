@@ -1,0 +1,52 @@
+<h1>Draghi</h1>
+<p>Su Ymir esiste un numero limitato di "Veri Draghi", ovvero di draghi maggiori di natura connessa agli elementi. In tutto se ne contatno venti. I Draghi furono creati dagli Adepti come arma biologica definitiva, possenti fortezze viventi in grado di avere la meglio su quasi ogni avversario. Prima di scomparire misteriosamente gli Adepti posero i loro Draghi a custodia dei segreti di Ymir, affidando loro una missione ben precisa: evitare che gli abitanti del pianeta si avvicinassero troppo alla Verit? o si evolvessero a sufficienza da rischiare di raggiungere il livello tecno-magico degli Adepti stessi. Col passare dei millenni, tuttavia, pochi Draghi rimasero fedeli a questo compito (gli Dei-Drago del Qi-Long ne sono l'esempio pi? lampante), iniziando ognuno a perseguire una propria agenda personale.<br></p><p>&nbsp;</p><p>I Veri Draghi di Ymir sono: <br></p><p>1. &nbsp;Ouroboros, il Vero Dio Drago: Alfheim [Leviatano]
+<br> 2. &nbsp;Huolong'nan (il Drago di Fuoco del Sud): Qi-Long [Drago del Fuoco]
+<br> 3. &nbsp;Seishima Tatsumoto (il Drago delle Isole Occidentali): Qi-Long
+[Drago dell'Acqua]
+<br> 4. &nbsp;Weichong-Shanxuan (il Possente Verme della Montagna Nera): Qi-Long
+[Drago della Terra]
+<br> 5. &nbsp;Kuangshuang Long (il Drago della Distesa Gelata): Qi-Long [Drago&nbsp;
+del Ghiaccio]
+<br> 6. &nbsp;Jiu-Yaofeng (l'Aquila Nera del Vento Maligno): Qi-Long [Drago
+Spettrale]
+<br> 7. &nbsp;Qiulei-Senbei (il Piccolo Drago di Tuono delle Foreste del Nord):
+Qi-Long [Drago della Luce]
+<br> 8. &nbsp;Gwalgamaur il Dorato: Wald (Regni Giovani) [Drago del Fuoco]
+<br> 9. &nbsp;Damamargat il Vile: Meridian (Cartosa) [Drago dell'Aria]
+<br> 10. Gildiss il Sognante: Kyria [Drago delle Tempeste]
+<br> 11. Lassaruk l'Astuto (AKA: Logarth il Saggio): itinerante [Drago
+dell'Aria (Force)]
+<br> 12. Telendeloss il Benevolo:Letia [Drago della Luce]
+<br> 13. Malebraktar il Crudele :Letia [Drago del Ghiaccio]
+<br> 14. Umebrangdor il Cinereo:Regni Belligeranti [Drago del Fuoco]
+<br> 15. Selebkher delle Sabbie:Grande Erg [Drago della Terra]
+<br> 16. Vrtra l'Impuro: Xebech - Isola della Morte [Drago di Nether]
+<br> 17. Dwmballa il Cangiante:Ophiur [Drago della Terra]
+<br> 18. Brandoch l'Effimero:Isole d'Argento [Drago dell'Acqua]
+<br> 19. Nihoggr la Solitaria :Helgedad [Drago del Ghiaccio]
+<br> 20. Telishlag?rk il Folle &nbsp;:Gaerwath [Drago delle Tempeste]
+</p><p>&nbsp;</p><p>Nota che a questi venti draghi, tuttavia, si deve aggiungere un numero imprecisato di draghi minori (drakes, bestie alate, viverne, serpenti, etc), di varie dimensioni e natura, sparsi un po' su tutto il pianeta.<br></p><p>&nbsp;</p><p>Per quanto riguarda i Draghi elencati occorre tenere presente alcune variazioni rispetto a quelli presentati nel C&amp;M:</p>
+<p>&nbsp;</p>
+<p><b>Drago del Gas (dell'Aria): </b>Ne esistono due variet?, una ? quella col soffio velenoso del manuale, l'altra usa invece un grido ultrasonico come soffio (risolvi&nbsp;sulla tabella del&nbsp;Force Bolt col seguente BO a seconda dell?et?: 80/100/120).</p>
+<p>&nbsp;</p>
+<p><b>Drago Orientale:</b> Anche chiamato ?Drago delle Tempeste?, ? un ibrido elementale misto del Ghiaccio, Luce e Acqua (il suo sangue corrompe da uno di questi elementi a caso). Lancia incantesimi dalle liste degli Storm Mage e il suo soffio ? Alto Elemento (Luce).</p>
+<p>&nbsp;</p>
+<p><b>Drago della Terra:</b> Drago elementale della Terra, ha tutte le caratteristiche dei normali Grandi Draghi e gli stat qui sotto. Il suo soffio consta di un cono di forza magnetico/gravitazionale (risolvilo&nbsp;sulla tabella del&nbsp;Force Bolt). Nessun Drago della Terra ? dotato di ali. Solitamente abitano deserti, montagne e complessi sotterranei.</p>
+<p>&nbsp;</p>
+<p>GIOVANE</p>
+<p lang="it-IT"><font face="Times New Roman" size="3">Lvl: 10?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tag: Large</font></p>
+<p lang="it-IT"><font face="Times New Roman" size="3">PF:&nbsp;350&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TA(BD): 14(30)</font></p>
+<p lang="it-IT"><font face="Times New Roman" size="3">Attachi: 70LBi/65LCl/120LBa/60LHo/80Breath</font></p>
+<p lang="it-IT"><font face="Times New Roman" size="3">Iniziativa: +4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p lang="it-IT"><font face="Times New Roman" size="3">Lvl: 20?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tag: Super Large</font></p>
+<p lang="it-IT"><font face="Times New Roman" size="3">PF:&nbsp;470&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TA(BD): 16(40)</font></p>
+<p lang="it-IT"><font face="Times New Roman" size="3">Attachi: 90LBi/85LCl/140LBa/80LHo/100Breath</font></p>
+<p lang="it-IT"><font face="Times New Roman" size="3">Iniziativa: +4&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+<p lang="it-IT"><font face="Times New Roman" size="3"></font>&nbsp;</p>
+<p lang="it-IT"><font face="Times New Roman" size="3"></font>&nbsp;</p>
+<p lang="it-IT"><font face="Times New Roman" size="3">Lvl: 40?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tag: Super&nbsp;Large</font></p>
+<p lang="it-IT"><font face="Times New Roman" size="3">PF:&nbsp;600 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TA(BD): 19(60)</font></p>
+<p lang="it-IT"><font face="Times New Roman" size="3">Attachi: 120LBi/110LCl/165LBa/110LHo/120Breath</font></p>
+<p lang="it-IT"><font face="Times New Roman" size="3">Iniziativa: +4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p><wbr>

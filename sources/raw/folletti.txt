@@ -1,0 +1,2 @@
+<h1>Folletti</h1>
+<P>FOLLETTI<BR goog_ds_charIndex="31861">I Folletti, anche noti come ?il Piccolo Popolo? sono la pi? piccola delle Razze Pure, nonch? con tutta<BR goog_ds_charIndex="31964">probabilit? la pi? rara. Vengono comunemente divisi in due sotto razze: le Fate e gli Gnomi, anche se<BR goog_ds_charIndex="32066">non ? ancora del tutto provato che le due sian correlate fra di loro.</P>

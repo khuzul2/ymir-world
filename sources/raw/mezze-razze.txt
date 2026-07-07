@@ -1,0 +1,8 @@
+<h1>Mezze Razze</h1>
+MEZZE RAZZE<BR>Queste non sono razze vere e proprie, bens? il risultato di un incrocio fra membri di razze diverse. 
+<P>Nella lista qui sotto sono segnati gli incroci possibili fra le varie razze che popolano Ymir, per ogni mezza razza risultante viene dato il nome tecnico, il nome comune (come i meno dotti chiamano gli individui di quella specie, spesso il termine ? dispregiativo) fra parentesi tonde e, fra parentesi quadre, se la razza ? Sterile o in grado di figliare.</P>
+<P>&nbsp;</P>
+<P>Umano + Elfo -&gt; Yafysh (Mezzelfo)&nbsp; [S]&nbsp;</P>
+<P>Umano + Orco -&gt; Ghzaak (Mezzorco) [F]<BR>Umano + Nano -&gt; Gurbad (Mezzo-Nano) [S]&nbsp;<BR>Umano + Rahab -&gt; Uomo-Pesce [S]<BR>Umano + Tanoth -&gt; An-Tanoth (Mezzo Tanoth)&nbsp; [S]<BR>Tanoth + Rahab -&gt; Sibert&nbsp; [S]<BR>Orco + Elfo -&gt; Ghynr (Immondo) [S]&nbsp;<BR>Orco + Tanoth -&gt; Gha-Tanoth (Orco-Tanoth) [F]&nbsp;</P>
+<P>Goblin + Nano -&gt; &nbsp;Dwergar (Nano Immondo)&nbsp; [F]<BR>Goblin + Orco -&gt; Hobgoblin&nbsp; [F]<BR>Goblin + Tal-Tanoth -&gt; Lash-Tanoth&nbsp;[S]&nbsp;<BR>Coboldo + Fata -&gt; Gremlin&nbsp; [S]<BR>Coboldo + Gnomo -&gt; Pishacha (Gnomo Famelico)&nbsp; [S]<BR>Troll + Tanoth -&gt; Ugra-Tanoth (Tanoth Oscuro)&nbsp; [F]<BR>Sohleuhgir + Gratar -&gt; Kappa [F]</P>
+<P>Umano + Fata -&gt; Changeling [S]</P><WBR>

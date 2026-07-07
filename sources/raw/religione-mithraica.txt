@@ -1,0 +1,77 @@
+<h1>Religione Mithraica</h1>
+<p><b>RELIGIONE MITHRAICA</b></p>
+<p>La religione Mithraica ? uno dei credo pi? diffusi su Ymir (ha credenti in tutta la Letia, nei Regni Giovani, a Helgedad,&nbsp;Cartosa e nei Regni Belligeranti).&nbsp;Si tratta di una religione soprattutto umana, ma vi aderiscono anche membri di altre razze. Il culto ? principalmente incentrato sul dio Mithra, supremo creatore del cosmo e portatore di giustizia, tuttavia esistono diverse varianti e tradizioni cultuali. </p>
+<p>Le dure correnti principali sono il Mithraismo Inclusivista o Ortodosso(quello predicato dalla chiesa di Letia), che vede ogni divinit? essenzialmente come una manifestazione di Mithra (nel caso di un dio positivo) o di Ahriman (nel caso di uno oscuro); e quella del Mithraismo&nbsp;Popolare o&nbsp;Scismatico, i cui adepti adorano Mithra come proprio dio, ma accettano la presenza di altre divinit? come enti separati.</p>
+<p><br><b>COSMOGONIA MITHRAICA</b><br>In principio esisteva un solo dio: Ech, l?Uno. Nessuno sa perch? ma egli ad un certo punto si divise in due entit? distinte, dando cos? origine all?inizio dei tempi.<br>La prima divinit?, Mithra, il Creatore ? l?energia creatrice, che diede origine alla vita. ? connessa alla luce, al bene, alla creazione, alla vita, all?Aether, alla pace, alla guarigione, ecc.<br>L?altra, Ahriman, il Corruttore, ? l?energia distruttrice che diede luogo al fenomeno della morte e del decadimento. ? connessa all?oscurit?, al male, alla distruzione, alla morte, al Nether, alla guerra, alla malattia, ecc.<br>Le due divinit? sono in continua lotta fra di loro, eppure nessuna delle due pu? esistere senza l?altra, cos? come non pu? esserci luce senza tenebre, bene senza male o vita senza morte.<br>Dal contrasto fra queste due divinit? ebbero origine le sei Divinit? Gemelle, gli dei che presiedono i sei elementi (Fuoco, Acqua, Ghiaccio, Aria, Terra e Luce). Con l?aiuto di questi dei gemelli Mithra cre? il mondo e le diverse razze che lo popolano. Ahriman, detestando ogni cosa, tent? di distruggere la creazione di Mithra ma fall?, riuscendo solo parzialmente a corrompere il lavoro di suo fratello. Si ritir? allora nel Vuoto oltre il creato, dove diede origine alla razza dei Demoni corrompendo con il suo potere gli Spiriti che l? dimoravano.</p>
+<p><br><b>Pantheon Mithraico</b></p>
+<p><br><i>Mithra:</i> Il Creatore, Signore del Sole e della Luce, dio della Giustizia e del Bene. Il suo simbolo ? un sole d?oro. Mithra viene adorato prevalentemente in ci? che resta dell'impero Letio, dato che l? si trova la chiesa principale del dio, il suo culto ? tuttavia abbastanza diffuso anche fra gli umani dei Regni Giovani, Cartosa e dei Regni Belligeranti.</p>
+<p>LISTE: Channels; Communal Ways; Life Mastery; Protections; Banishments; Holy Symbol; Holy Wrath; Holy Element (Luce); Proselytizing; Divine Aura </p>
+<p><br><i>Ahriman:</i> Il Corruttore, Il Supremo Dio del Male, dio dell?Ingiustizia e del Male. Portatore di 999 Piaghe per affliggere il mondo. Principale nemico di Mithra e degli dei del Bene. Il suo simbolo ? un Sole Nero. I cultisti di Ahriman sono diffusi in tutto Ymir.</p>
+<p>LISTE: Dark Channels; Necromancy; Wounding; Death Mastery; Diseases; (Un)Holy Wrath; Dark Lore; (Un)Holy Symbol; Proselytizing; Summons</p>
+<p>Black Channel I (Porta della Disperazione) [Raggio: 15m; TR: -10] Acceca il bersaglio per 1 giorno/10 di fallimento</p>
+<p>Black Channel II (Morte del Cuore) [Raggio:15m &nbsp;TR:-20] Il cuore del bersaglio si ferma e viene essiccato. Deve essere ristorato perch? il bersaglio possa essere resuscitato.&nbsp;</p>
+<p>Black Channel III (La Mano di Ahriman) [Raggio: 15m&nbsp;TR: -20] La pelle e la carne del bersaglio marciscono e si staccano dalle ossa.</p>
+<p><br><i>Ishtar:</i> La Dea Madre, dea della Luna e dell?Amore, ma anche della Guerra. Sposa di Mithra. Il suo simbolo ? una Luna d?Argento. Templi dedicati a Ishtar esistono sia nella Letia (sebbene in misura minore di quelli di Mithra), sia nei Regni Giovani. La dea ? anche diffusamente adorata dalle Fate e dagli Ophiriti.<br></p>
+<p>LISTE: Communal Ways; Divine Magic, Life Mastery;&nbsp;Protections; Repulsions; Fate's Shield; Chants; Holy Discipline; Summons; Proselytizing</p>
+<p><i>Note: </i>I sacerdoti di Ishtar hanno un bonus di +10 alle Categorie Martial Arts Strikes e Martial Arts Sweeps, oltre che ad una Combat Maneuver a loro scelta.</p>
+<p>&nbsp;</p>
+<p><i>Kur:</i> La Signora Oscura, dea della morte e degli inferi, ? anche dispensatrice di oracoli e profezie. Sposa di Ahriman. Il suo simbolo ? un teschio. I cultisti di Kur non sono molto diffusi, ma parecchi veggenti invocano il suo aiuto quando devono ottenere dei responsi. In alcune citt? umane dell'Ophiur esiste una chiesa ufficiale di Kur, che adora la dea come guida nell'aldil?.<br>LISTE: Life Mastery; Death Mastery; Communal Ways; Dark Lore, Necromancy; Time Lore; Protections; Repulsions; Curses; Diseases</p>
+<p><i></i>&nbsp;</p>
+<p><i>Thurms:</i> il Signore del Tuono, dio della guerra e delle tempeste, colui che guida i giusti alla vittoria. Il suo simbolo ? una folgore. Thurms viene adorato come aiutante di Mithra in Letia e nei Regni Giovani, ha un culto proprio in Helgedad e nei Regni Belligeranti.<br>LISTE: Crusade; Faith's Shield; Holy Weapon; Holy Wrath; Horse Mastery; Channels; Communal Ways;&nbsp; Repulsions; Inspirations; Protections</p>
+<p><i></i>&nbsp;</p>
+<p><i>Gog:</i> il Serpente, tenebroso Dio dei Dannati, dio della Vendetta, della Menzogna e della Corruzione. Da sempre nemico del Bene ma in particolare del dio Thurms. Il suo simbolo ? un serpente attorcigliato su se stesso. Solo pochi folli fanatici adorano il dio della Menzogna.</p>
+<p>LISTE: Faith Destruction; Revenging Law; The Mask; Proselytizing;&nbsp;Serpent Law; Curses; Dark Lore; Wounding;&nbsp;Summons; Holy Defenses</p>
+<p>- Black Channel I (Bacio di Gog) [Raggio: 10m TR: -25]&nbsp;Immette&nbsp;nella circolazione del bersaglio un potente veleno, che gli infligge 25 danni e lo mette KO</p>
+<p>- Black Channel II (Sguardo di Gog)&nbsp;&nbsp;[Raggio: 18m&nbsp;TR: -20&nbsp;]&nbsp; Il bersaglio sente su di s? la potenza dello sguardo serpentino&nbsp;di Gog e rimane paralizzato permanentemente dal terrore</p>
+<p>- Black Channel III (Spire di Gog) [Raggio: 30m TR: -&nbsp;] Le ossa del bersaglio vengono polverizzate da un'immane pressione</p><p>&nbsp;</p><p><i>Aisen:</i> il Liberatore, dio della Libert? e Salvatore degli
+Oppressi. Il suo simbolo ? una catena spezzata. Aisen viene
+diffusamente adorato nei Regni Belligeranti dagli umani, in Qi-Long
+esiste un culto segreto a lui dedicato.
+</p>
+<p>LISTE: Channels; Communal Ways; Protections; Moving Ways;
+Repulsions; Life Mastery; Escapes (Magent Base); Summons; Revenging Law
+[+1 a scelta]</p>
+<p><br><i>Tifereth:</i> Dea dell?Amore e della Bellezza. Il suo simbolo ? una rosa rossa. Tifereth viene adorata principalmente dalle Fate.</p>
+<p>LISTE: Life Mastery; Protections; Proselytizing; Repulsions;
+Summons, Divine Magic; Channels; Communal Ways; Divine Aura; [+1 a
+scelta]</p>
+<p><br><i>Hokhmah:</i> Dea della Saggezza e della Conoscenza volte al
+Bene. Il suo simbolo ? una torcia. Il culto di Hokhmah ? conosciuto in
+tutto Ymir grazie alla Confraternita della torcia, ma al di l? di
+questi adepti-studiosi la dea ha pochi seguaci.<br>LISTE: Communal
+Ways; Holy Trances; Divine Magic; Chants; Spiritual Vision; Time Lore;
+Channels, Protections; Repulsions; Life Mastery</p>
+<p><i>&nbsp;</i>&nbsp;</p>
+<p><i>Tuchulcha:</i> L?Ottenebratore, dio della Notte Eterna e del
+Sapere volto al Male. Il suo simbolo ? un corvo. Spesso coloro che
+cercano antichi saperi proibiti invocano Tuchulcha come protettore. In
+un luogo remoto e nascosto della Letia pare esista un culto segreto al
+Re Morto, considerato un avatar di questo dio. Ovviamente i cultisti si
+</p>
+<p>guardano bene dal pubblicizzare la loro attivit?...<br>LISTE: Dark
+Lore; Dark Channels; Diseases; Curses; Necromancy; Wounding; Spirit
+Domination; Spirit Law; Death Mastery; Divine Magic</p>
+<p>Black Channel I (Maledizione di Tuchulcha) [Raggio: 15m; TR: -25]
+Atrofizza i muscoli del bersaglio, -50 alle attivit? permanente.</p>
+<p>Black Channel II (Occhio di Tuchulcha) [Raggio: 18m &nbsp;TR: -20] Il
+bersaglio guarda negli occhi il chierico e&nbsp;ha una fugace visione di
+Tuchulcha. Ci? basta a ridurlo ad un idiota farfugliante per il resto
+della sua misera&nbsp;esistenza.&nbsp;</p>
+<p>Black Channel III (Ombra di Tuchulcha) [Raggio: 15m&nbsp;&nbsp;TR: -20] Il
+bersaglio viene avvolto da un'ombra, e il suoi organi intenri vengono
+divorati da centinaia di migliaia di vermi.</p>
+<p><i>&nbsp;</i>&nbsp;</p>
+<p><i>Orum:</i> Dio del Mare, protettore dei navigatori e dei
+pescatori. Il suo simbolo ? una conchiglia. Viene adorato
+principalmente a Cartosa.<br>LISTE: Aquatic Forms; Holy Element
+(water); Communal Ways; Protections; Channels; Proselytizing; Weather
+Ways; Summons Repulsions; [+2 a scelta]</p>
+<p><i>&nbsp;</i>&nbsp;</p>
+<p><i>Ranin:</i> Il Mercante, dio delle transazioni, degli artigiani e
+del commercio. Il suo simbolo ? un martello. Il Principato di Cartosa ?
+il luogo dove Ranin ha pi? seguaci.</p>
+<p>LISTE: Channels, Communal Ways, Proselytizing, Protections, Summons, Path Mastery, Thieving Law (Dabbler Base), [+2 a scelta]<br> </p>
+<p><i>&nbsp;</i>&nbsp;</p>
+<p><i>Yogh:</i> Il Dio-Ragno, dio del veleno e dell'asassinio. Il suo simbolo ? un Ragno. Viene adorato dai sacerdoti-stregoni di Ulan-Tang.</p>
+<p>LISTE: Arachanamancy; Insect Mastery; Holy Defenses; Wounding;
+Disease; Death Mastery; Voodoo Magic; Dark Lore; Curses; Herb Mastery</p><p>&nbsp;</p><wbr>

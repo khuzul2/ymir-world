@@ -1,0 +1,161 @@
+<h1>Xudra</h1>
+<p></p>
+<p style="margin-bottom: 0cm;" align="center" lang="it-IT"><font color="#000000"><font size="5"><b>XUDRA</b></font></font></p>
+<p style="margin-bottom: 0cm;"><br></p>
+<p style="margin-bottom: 0cm;" align="justify">Gli Xudra sono la casta guerriera degli xebechani, sono utilizzati come soldati oppure per svolgere lavori pesanti. Massicci e dotati di robuste squame sono forse gli Xebechani dall'aspetto meno umano, somigliando vagamente a delle anaconde umanoidi. Anche la loro testa, fra tutti gli Xebechani, ? quella che pi? ricorda i rettili, essendo piccola e allungata. Nonostante siano di gran lunga la Casta pi? numerosa (pi? della met? degli Xebechani sono Xudra) ? difficile incontrarli al di fuori delle loro citt?. Gli Xudra sono molto legati ai loro compiti e alla loro terra natale e viaggiano molto raramente. Una delle poche occasioni in cui ? possibile vedere uno Xudra in viaggio ? come scorta di un membro di una casta pi? alta.</p>
+<p style="margin-bottom: 0cm;" align="justify"><br></p>
+<h4 align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>ASPETTO FISICO</b></font></font></h4>
+<h5 align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>Corporatura: </b><span>Alti e
+<table dir="ltr" align="left" border="1" cellpadding="7" cellspacing="0" hspace="5" width="445">
+<colgroup>
+<col width="55">
+<col width="63">
+<col width="133">
+<col width="137">
+</colgroup><tbody>
+<tr>
+<td colspan="4" height="8" valign="top" width="429">
+<p align="center" lang="it-IT"><font color="#000000"><font size="5"><b>XUDRA</b></font></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" rowspan="2" width="132">
+<p style="margin-bottom: 0cm;" align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Modificatori</b></font></font></p>
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Caratteristiche</b></font></font></p></td>
+<td height="6" width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Modifiche TR</b></font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Sviluppo</b></font></font></p></td></tr>
+<tr valign="top">
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Flusso</b></font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Sviluppo Corporeo</b></font></font></p></td></tr>
+<tr valign="top">
+<td height="2" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>AG</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+3</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">0.6.5.2.1</font></font></p></td></tr>
+<tr valign="top">
+<td height="3" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>CO</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+2</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Essenza</b></font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>PM Arcani</b></font></font></p></td></tr>
+<tr valign="top">
+<td height="2" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>ME</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+20</font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">0.2.1.1.1</font></font></p></td></tr>
+<tr valign="top">
+<td height="3" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>RA</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Mentalismo</b></font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>PM Essenza</b></font></font></p></td></tr>
+<tr valign="top">
+<td height="2" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>AC</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+20</font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">0.5.3.2.2</font></font></p></td></tr>
+<tr valign="top">
+<td height="2" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>EM</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">-3</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Arcano</b></font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>PM Flusso</b></font></font></p></td></tr>
+<tr valign="top">
+<td height="3" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>IN</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+0</font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">0.6.5.4.3</font></font></p></td></tr>
+<tr valign="top">
+<td height="2" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>PR</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">-3</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Veleno</b></font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>PM Mentalismo</b></font></font></p></td></tr>
+<tr valign="top">
+<td height="3" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>RF</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+4</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+50</font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">0.5.3.2.2</font></font></p></td></tr>
+<tr valign="top">
+<td height="2" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>FO</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+3</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Malattia</b></font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Tipo di Razza</b></font></font></p></td></tr>
+<tr valign="top">
+<td height="2" width="55">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>AS</b></font></font></p></td>
+<td width="63">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">-30</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+25</font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">3</font></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" height="3" width="132">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Dipartenza Anima</b></font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Paura</b></font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Molt. Guarigione</b></font></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" height="2" width="132">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">9 round</font></font></p></td>
+<td width="133">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">+10</font></font></p></td>
+<td width="137">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">x0.5</font></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" height="3" width="132">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Linguaggi</b></font></font></p></td>
+<td colspan="2" width="284">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3"><b>Opzioni Background (Punti Talento)</b></font></font></p></td></tr>
+<tr valign="top">
+<td colspan="2" height="1" width="132">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">2</font></font></p></td>
+<td colspan="2" width="284">
+<p align="center" lang="it-IT"><font color="#000000"><font size="3">3(30)</font></font></p></td></tr></tbody></table>robusti, in media pesano circa 100kg</span></font></font> </h5>
+<p style="margin-bottom: 0cm;" align="justify"><span lang="it-IT"><font size="3"><font color="#000000"><b>Colorito:</b> Hanno squame resistenti al posto della pelle, di solito di color bruno o verde scuro sul dorso, giallo sulla pancia. I loro occhi sono solitamente gialli, con pupilla verticale.</font></font></span></p>
+<p style="margin-bottom: 0cm;" align="justify"><span lang="it-IT"><font size="3"><font color="#000000"><b>Resistenza: </b><span>Molto resistenti, +20 Punti Fatica</span></font></font></span></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>Altezza:</b> In media attorno ai 190cm</font></font></p>
+<p style="margin-bottom: 0cm;" align="justify"><span lang="it-IT"><font size="3"><font color="#000000"><b>Durata della vita:</b> 80-100 anni</font></font></span></p>
+<p style="margin-bottom: 0cm;" align="justify"><span lang="it-IT"><font size="3"><font color="#000000"><b>Resistenze:</b> Sono molto resistenti ai veleni e alle malattie.</font></font></span></p>
+<p style="margin-bottom: 0cm;" align="justify"><span lang="it-IT"><font size="3"><font color="#000000"><b>Abilit? Speciali:</b> Oltre alle normali caratteristiche comuni a tutti gli Xebechani, gli Xudra sono dotati di un'armatura naturale costituita dalle loro squame (<i>Pelle Resistente:</i> TA3 naturale), inoltre sono incredibilmente rapidi considerata la loro mole, riuscendo spesso a prendere di sorpresa i propri avversari (<i>Riflessi Fulminei:</i> tirano 3d10 invece che 2d10 all'iniziativa, tenendo i due risultati migliori).</font></font></span></p>
+<p style="margin-bottom: 0cm;" align="justify" lang="it-IT"><font color="#000000"><font size="3"><b>Abilit?:</b><span><i>Everyman: </i>Power Striking</span></font></font></p><wbr>
