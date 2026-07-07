@@ -16,6 +16,14 @@ Working memory of the project. Items move out of here into `canon/` once settled
   artefacts (TP/Training Packages, AF, PF/hit points, "R&C" = *Races & Cultures*,
   the Essence/Mentalism/Channeling/Arcane realms); these get translated to plain
   setting language and mechanics stripped out. Logged in `magic.md`, `peoples.md`.
+  - ⬆️ **Update (Google Drive corpus, 2026-07-07):** the table didn't only *play*
+    Rolemaster — it also built its **own homebrew d100 system, "YMIR"** (explicitly
+    Rolemaster-inspired), iterated **v1.0.0 → v1.0.7**: Basic Rules, Skills, Talents &
+    Flaws (six "Paths": General, Combat, Summoning, Magic, Corruption, Faith),
+    AP/PP round-based Combat, and a complete Magic & Summoning system, plus character
+    sheets and action cards; a WIP *"Ymir Redux"* rewrite folder exists (empty here).
+    The system-agnostic directive still holds — but now we can mine the homebrew's own
+    cosmology/races/spells for setting flavour. Extractions in `sources/extracted/ymir-drive/`.
 - ✅ **"Ymir"** is simply the **name of the world** (not the Norse god). (One source
   variant spells it "Yimir"; we standardise on **Ymir** — see `calendar.md` ⚔️.)
 - ✅ **History** is to be **rebuilt** — but note: the sources actually preserve a LOT
@@ -28,6 +36,68 @@ Working memory of the project. Items move out of here into `canon/` once settled
   is now a design directive for the manual. Logged in `geography.md`.
 - ✅ **Contributors** — treat the project as **independent** of how many people/
   campaigns fed it. (We still tag which *document* a fact came from, for traceability.)
+
+## 🆕 Google Drive corpus (pulled 2026-07-07) — new material to mine
+A second, much larger batch of source material was pulled from the Drive "Ymir"
+folder tree into `sources/raw/ymir-drive/` (originals) and
+`sources/extracted/ymir-drive/` (text). Highlights, not yet folded into `canon/`:
+
+- 🌌 **Cosmogony (Atlas.docx) — expands `cosmology.md`/`pantheon.md`.** Two Original
+  Elements (**Void** & **Mana**) collide in the **First Clash**, birthing four Lesser
+  Elements and **six Old Gods** (the Scion of the Beginning, the Gazer in the Dark, the
+  Lady of Sorrow, She who Sees, the Gatherer of Circles, the Daughter of Nowhere). Later
+  **New Gods Mithra & Ahriman** banish the Old Gods; lesser gods incl. **Yog/Yogh**.
+  **Dark Mana** is framed as a cosmic cancer/virus that wants to consume *both* Mana and
+  Void (hence "the ultimate Evil"), with an in-text theory that **Ahriman is a corrupted
+  Old God**. Eight Elemental Planes; Demons & the **Seven Demonic Circles**; the Adepts;
+  a **First War (Vanyr vs Asar)**. Playable races named: Uomini Comuni, **Aeryan, Asar,
+  Tanoth, Dwergar, Xebechani, N'Kishi**. → reconcile with the Player Guide cosmology.
+- 🗺️ **Maps add geography (→ `geography.md`).** World maps name **Erg** (central; with
+  **Sadhir** as its southern part), **Regni Belligeranti** (Belligerent Kingdoms) sitting
+  alongside the **Regni Giovani** (Young Kingdoms) around **Letia**, plus **Qi-Long** (NE),
+  **Ophiur** (SE), **Xebech**, **Helgedad**, **Cartosa**, **Gaerwath**. A dedicated
+  **Gaerwath map dated "c.a. 3500 p.M."** reveals it as an **archipelago** of ~10 islands
+  (Kh'myr, Yr'thyr, Wag'myr, N'ysyr, Dr'hakyr, Moloch, Daarwyr, Gh'yrst, Isola del Caos,
+  Cn'ethyr). NB the "3500 p.M." date is *later* than the Player Guide's ~3025 — check the
+  d.M./p.M. era abbreviations against `calendar.md`.
+- ✨ **Magic system (→ `magic.md`).** A full homebrew corpus now exists: *Magic and
+  Sorcery*, *Magia*, *Incantesimi*, *Spells (Necromancy/Elemental)*, a big *Spell
+  Compendium/Spellbook*, and a *Summoning* recap. Structure: spells in **9 Ordini/Orders**,
+  cast via **Domains** + Power Points; **Schools** incl. Necromancy and Elemental Dominion;
+  **Summoning** = five effects (Evoke, Contact, Bind, Vessel, Possess) over four entity types
+  (Demon, Elemental, Spirit, Outsider). Complements the still-unmined **LIBRO ROSSO**.
+  ⚠️ *Note:* the `Magic [Max]/Old/Allspells/` folder (9 rtf) is the **generic d20 SRD** spell
+  list (OGL, "Sor/Wiz" levels) — a reference stash, **not** Ymir's spells — so it was
+  **excluded** from the corpus (catalogued in the manifest only).
+- 🧙 **Canon PC (→ fills the `characters.md` gap "famous PCs").** The **"Pc Graveyard"**
+  holds a retired/dead character sheet: **Kharim Abdul Jabbar**, a level-2 **Thief**
+  (Common Man race, Essence realm), with a Ring of *Unseen III* and a "Zephyr Hound
+  (Cane delle Tempeste)." File is titled "(RIP) Mura_02" (player/char "Mura"?).
+- 🎲 **Campaigns.** Folders for a **play-by-mail "If you want peace" (2011–2012)** and
+  **"A World at War" (2011)** exist (mostly character sheets in this pass) — campaign-
+  history hooks to chase for `history.md`.
+- 🧰 **GM tools.** Two Italian random generators (peasant-situation & hostile-encounter
+  Mad-Libs tables) — usable as GM colour appendices.
+
+## ⚠️ Quarantined / possibly-not-Ymir
+- ⚠️ **"Campagna Estate 2014" = a separate AD&D2 "Forgiven Lands" campaign, not Ymir.**
+  Its map is titled *The Forgiven Lands*; plot names a **Duca di Nimard**. The 3 small text
+  docs (Plot, House Rules, Locations) were captured into
+  `sources/extracted/ymir-drive/_uncertain-forgiven-lands/` **for your call** — fold into
+  Ymir, keep as a separate setting, or drop? (Netbooks & session spreadsheets were skipped.)
+
+## 🚧 Extraction limitations (Drive corpus)
+- 🚧 **10 MB download cap.** The Drive connector refuses binary downloads >10 MB, so three
+  large map **PSDs could not be pulled**: the high-res **print world map** (`Ymir_50x75_300dpi`,
+  130 MB), the **Letia hex map** (`Letia Hexr.psd`, 130 MB), and **`The Forgiven Lands.psd`**
+  (375 MB; its 12 MB JPG is also over the cap). The world map is preserved at **raster res**
+  (`maps/YMIR.jpg` from the 4.6 MB PSD, plus `ymirexplored.png`/`YMIR.png`). To get the big
+  ones we'd need them **re-exported to <10 MB (flattened JPG/PNG) in Drive**, or fetched via
+  the raw Google Drive API (not exposed through the current tool). **The Letia hex map has no
+  raster alternative — currently unrecoverable via these tools.**
+- 🚧 **Char sheets deliberately skipped** (per Alessandro) — the many `.xlsx/.pdf` YMIR
+  character sheets and generic AD&D2/Rolemaster netbooks are catalogued in the manifest but
+  not extracted.
 
 ## Design directives (for the manual)
 - Single **layered world bible**: player-facing text + boxed **GM-only** sections.
