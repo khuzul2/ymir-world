@@ -14,22 +14,22 @@
 
 You have asked me, Curator — with that scrupulous courtesy your kind wear as other creatures
 wear armour — to explain my people to yours, and I have consented; not because the brief
-peoples need the truth, but because a lie repeated for three thousand years acquires a
+peoples need the truth, but because a lie repeated for seven-and-twenty centuries acquires a
 certain smell, and I am weary of breathing it. Your anthology will be read in Alfheim. Let
 them read this.
 
-**Begin where we began: in Niethel, which is La Fonte, the Source.** Before this world; before
-the storm from which you count your little years — the elves dwelt in Niethel, in the presence
-of the gods, and we did not die. Understand me: I do not say we lived long. I say death had no
-name among us, as drowning has none among the fish of the air. We were the household of
-heaven. Then came the Sin. An ancestress of that same shining line which would one day give
-the Shallak their splendid queen raised her hand against the gods — out of pride, our doctors
-teach; out of love, her apologists whimper; the sentence was the same. We were cast out, the
-innocent with the guilty; and one promise was flung after us into the dark, as a gaoler
-flings bread: that there is prepared for the elves a **Sacred Realm**, and that when we have
-found it and proved worthy, the **Ultimo Messaggero** — the Last Messenger — will come and
-lead us home to Niethel, and we shall not die any more. Every elf alive is a reading of that
-sentence. All our history is an argument over its grammar.
+**Begin where we began: in Niethel, which is La Fonte, the Source.** Before this world;
+before the storm from which you count your little years — the elves dwelt in Niethel, in the
+presence of the gods, and we did not die. Understand me: I do not say we lived long. I say
+death had no name among us, as drowning has none among the fish of the air. We were the
+household of heaven. Then came the Sin. An ancestress of that same shining line which would
+one day give the Shallak their splendid queen raised her hand against the gods — out of
+pride, our doctors teach; out of love, her apologists whimper; the sentence was the same. We
+were cast out, the innocent with the guilty; and one promise was flung after us into the
+dark, as a gaoler flings bread: that there is prepared for the elves a **Sacred Realm**, and
+that when we have found it and proved worthy, the **Ultimo Messaggero** — the Last
+Messenger — will come and lead us home, and we shall not die any more. Every elf alive is a
+reading of that sentence. All our history is an argument over its grammar.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Niethel has coordinates. The elves are native to **Tchyo**, a green world of the Adepti's
@@ -45,11 +45,11 @@ sentence. All our history is an argument over its grammar.
 The portals stood open then; the Sovereign Demons were unmaking Ymir; and the elves — set this
 down twice — did not creep ashore as beggars. We arrived as a spear arrives. We took the field
 beside your drowning ancestors, and elven dead paved the road to the peace you were born in: a
-debt the brief peoples have spent thirty centuries declining to remember. And Ymir paid us its
+debt the brief peoples have spent five-and-thirty centuries declining to remember. And Ymir paid us its
 own wage. On this world, we die. Two hundred years, Curator — two of your centuries, and then
 the dark, for a people whose grandmothers had watched the gods walk. What that first dying
-was, I decline to describe for your readers' entertainment. Say only this: every elf on Ymir
-lives inside a countdown, and each of our creeds is a way of enduring the sound it makes.
+was, I decline to describe for your entertainment. Say only this: every elf on Ymir lives
+inside a countdown, and each of our creeds is a way of enduring the sound it makes.
 
 > *Curator's note.* His claim of service in the Demon Wars is confirmed by every chronology I
 > hold, and should shame those who forget it. On the dying he is correct — some two hundred
@@ -92,10 +92,10 @@ unguided keel, so that no fleet crosses our water save at our pleasure. There my
 raised cities of a beauty your daylight races find disquieting — towers like black glass
 grown rather than built, streets that descend below the tide and continue, dry and lamplit,
 along the **undersea roads**, island bound to island by bridges of held sorcery that a word
-from the throne could unsay. Order sustains it, and I will state it plainly. All that lives
-is **Elar**, **Nemyel**, or **Kelvar**: the true elves; the fallen, elf in shape only, who
-serve without rights; and everything else that breathes — the dragon, the orc, and, Curator,
-yourself — which we own or do not as circumstance provides. The Elar are gathered into
+from the throne could unsay. Order sustains it. All that lives is **Elar**, **Nemyel**, or
+**Kelvar**: the true elves; the fallen, elf in shape only, who serve without rights; and
+everything else that breathes — the dragon, the orc, and, Curator, yourself — which we own
+or do not as circumstance provides. The Elar are gathered into
 **Lyar**, the Names, and the Names into three **Nath**: the **Galadlyan**, the Shining Name,
 the imperial family alone; the **Celeblyar**, the high aristocracy, my own; the **Mallyar**,
 the lesser Names, who may climb by marriage if they breed carefully and bow correctly.
@@ -110,12 +110,12 @@ it the only honest census ever taken. The brief peoples conduct the same trial s
 hunger, war, and accident, and call the survivors deserving. We conduct it once, early, and
 do not lie about the results.
 
-> *Curator's note.* I will not dignify this serenity with a counter-argument. I have sat in a
-> harbour tavern in Elendor with a Nemyel who escaped the Arvo-diggings — what remained of
-> her, after a trial undergone at nine years old and a sentence served for sixty. The
-> Loremaster's "honest census" is a machine for manufacturing slaves out of children, and the
-> orcs and humans of the Gaerwath's galleys were never even offered the exam. This is the only
-> note in this book I permit myself in anger. — *the Curator*
+> *Curator's note.* I will not dignify this serenity with a counter-argument. I have sat in
+> Elendor with a Nemyel who escaped the Arvo-diggings — what remained of her, after a trial
+> undergone at nine years old and a sentence served for sixty. The "honest census" is a
+> machine for manufacturing slaves out of children, and the orcs and humans of the Gaerwath's
+> galleys were never even offered the exam. This is the only note in this book I permit
+> myself in anger. — *the Curator*
 
 **Our sorcery is our commonwealth.** Five great factions divide the arts among the Elar — the
 **Meccanisti**, the **Demonologi**, the **Biomanti**, the **Sognatori**, the **Necromanti** —
@@ -149,12 +149,11 @@ repeal. He is not a king who has lived long. He is an argument that we are right
 
 **Twice we have gone to war with the garden across the water.** Of the first war, the war of
 the Sundering, I have spoken. The second — your chronicles' **Second Elven War**, 2080 to
-2115 — was thirty-five years of fleets and sorcery between Alfheim and the divided princes of
-the Gaerwath, and I will be exact where our enemies are lyrical: it settled nothing, and
+2115 — was thirty-five years of fleets and sorcery between Alfheim and the divided princes
+of the Gaerwath, and I will be exact where our enemies are lyrical: it settled nothing, and
 taught the Names the one lesson that mattered — a sundered people loses to a gathered one.
-Morannagul was that lesson's best student. The Shallak behind their queen's wards believed
-the matter closed. They had merely not waited long enough. We are good at waiting; it is the
-one art the Exile perfects.
+Morannagul was that lesson's best student. The Shallak believed the matter closed. They had
+merely not waited long enough. We are good at waiting; it is the one art the Exile perfects.
 
 **Then the Tide rose, and heaven itself corrected the ledger.** When the Marea Stregata broke
 over the world and the doors of the ancients opened all at once, there rose out of the deep
@@ -162,12 +161,12 @@ time of Ymir the True Dragon God, **Ouroboros**, eldest of the great serpents �
 the works of the age of storms he chose one: he fell upon Alfheim, and **Ost-en-Galad, the
 Shining City, the stolen house of the Shallak, went down in fire into its own gardens.** I
 was not yet born; I have handled the dispatches; I will not counterfeit grief my order does
-not feel, nor deny that in the Drowned Athenaeum the bells were rung. Five centuries of ruin
-and rebuilding later, the Chiari creep among their scaffolds under a queen of Inanna's line,
-replanting a splinter and calling it the promise. But it is a strange dish, vindication — to
-receive at last, from the indifferent jaws of a serpent, the justice our fathers were refused
-from heaven. Towers we built stood in that city too. I said I would not counterfeit grief. I
-did not say there was none in the house.
+not feel, nor deny that in the Drowned Athenaeum the bells were rung. Five centuries later,
+the Chiari creep among their scaffolds under a queen of Inanna's line, replanting a splinter
+and calling it the promise. But it is a strange dish, vindication — to receive at last, from
+the indifferent jaws of a serpent, the justice our fathers were refused from heaven. Towers
+we built stood in that city too. I said I would not counterfeit grief. I did not say there
+was none in the house.
 
 > *Curator's note.* On the fall he is accurate — the Tide's chroniclers write of a serpent
 > "older than the map." But the Alfheim of today (~3518) deserves better than his scaffolding
@@ -181,16 +180,16 @@ did not say there was none in the house.
 
 **One matter remains, and I give it to you as I would give a stranger a drawn blade: hilt
 first, and watching your hands.** The Prophecy is stirring. Since the Tide the doors of the
-world stand open that stood shut for an age, and along them comes the same rumour in a dozen
-accents: the **Ultimo Messaggero** is coming, or is come; the harbours whisper a name,
-**Shulma**, and cannot say whose. In Alfheim they light the old lamps. In the quiet houses
-the Renouncers, for the first time in centuries, are uncertain of their serenity. And in the
-Gaerwath, Curator, we are neither lighting lamps nor doubting; we are *ready*, as only a
-people can be who never once, in three thousand years, unpacked. When the Messenger comes
-and the ledger of the Exile is opened, it will be asked who kept the faith whole and who
-bargained it down to a garden. Set that down exactly as I have said it, in your fine neutral
-hand, and give my regards to your Council of the brief. They have been tolerable neighbours,
-as such things are measured. It will be remembered.
+world stand open, and along them comes the same rumour in a dozen accents: the **Ultimo
+Messaggero** is coming, or is come; the harbours whisper a name, **Shulma**, and cannot say
+whose. In Alfheim they light the old lamps. In the quiet houses the Renouncers, for the
+first time in centuries, are uncertain of their serenity. And in the Gaerwath, Curator, we
+are neither lighting lamps nor doubting; we are *ready*, as only a people can be who never
+once, in seven-and-twenty centuries, unpacked. When the Messenger comes and the ledger of the
+Exile is opened, it will be asked who kept the faith whole and who bargained it down to a
+garden. Set that down exactly as I have said it, in your fine neutral hand, and give my
+regards to your Council of the brief. They have been tolerable neighbours, as such things
+are measured. It will be remembered.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Two truths the whole race has hold of backwards. First: Ouroboros is no instrument of any

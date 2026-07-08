@@ -24,8 +24,7 @@ Beyond lies the **Qi-Long**: six kingdoms, forever at war for a supremacy none h
 ruled with an iron fist by a **Dio-Drago** — a Dragon-God who walks in the shape of a man or a
 woman and puts that shape off like a coat; matchless in war, in sorcery, in every art of fist and
 blade. Each names itself strongest of the six. For sixteen hundred years the other five have
-disagreed. Count the souls ground between them and you will pass nine hundred millions before you
-tire. The war does not tire.
+disagreed. The war does not tire.
 
 ### The Second Stage — What the Old Men Remember
 
@@ -33,7 +32,7 @@ tire. The war does not tire.
 
 In every kingdom the old men tell it the same way, quietly, with the door shut. In the deep past
 one **Vero Dio Drago** — the True Dragon-God — reigned alone from the **Capitale della Luce**, the
-Capital of Light, which stands yet in the north. Then he was gone; no tale agrees where. Men filled
+Capital of Light, standing yet in the north. Then he was gone; no tale agrees where. Men filled
 the silence, built the empire of **Mah-Dhol**, and for six centuries the Qi-Long was one. When
 Mah-Dhol cracked and fell, the six came. Mark the word: the old men do not say the six were *born*.
 They say the six **woke**. What wakes has slept; what has slept has dreamed; what has dreamed,
@@ -46,7 +45,7 @@ the name does not grieve.
 > *The old men are exact. The six woke — roughly 1900–1920 d.M., as Mah-Dhol came down — and were
 > not born: they were made long before, six of the twenty **Veri Draghi**, living superweapons the
 > **Adepti** engineered to stand warden over their makers' buried secrets. The six that hold the
-> Qi-Long are the six that kept their post. So the "resistance to the dragons" is mortals —
+> Qi-Long kept their post. So the "resistance to the dragons" is mortals —
 > themselves the Adepti's crafted children — at war with their makers' watchdogs, neither side
 > knowing whose yard they fight in. See `secret-the-great-lie.md`.*
 
@@ -75,7 +74,7 @@ no one has seen grow old. The pilgrim asked a Scorpion why they protect a people
 
 South lies the **Provincia di Cenere**, the Ash Province: sulfur flats, open mines, canyons,
 mountains that have not finished burning. Its god is **Nanfang Huolong**, dragon of fire, despotic
-and wrathful; his temples are furnaces and his priests count their sermons in brandings. His
+and wrathful; his priests count their sermons in brandings. His
 servants are the **Oni** — orc-blooded demon-things steeped in elemental fire, driving half-orc and
 human miners alike, for the whip here does not check ancestry. The people of the ash are blunt as
 hammers and as hard to offend twice.
@@ -83,8 +82,7 @@ hammers and as hard to offend twice.
 Their shield is the **Cani Rossi**, the Red Dogs, whose mark is a snarling jaw. They run in packs,
 hunt Oni as Oni hunt men, and hold that a rebellion is kept alive the way a fire is: by feeding it.
 Their head is the **Mastino Scarlatto**, a title that has outlived every neck it sat on. Of their
-fellow societies the Dogs trust only the Tigers of the western sea — "the only ones who actually
-fight."
+fellow societies the Dogs trust only the Tigers — "the only ones who actually fight."
 
 ### The Fifth Stage — the Mare del Naufragio, Where the Landlord Is the Sea
 
@@ -117,16 +115,16 @@ way of people who have buried many guests.
 Their guardians are the **Aironi Grigi**, the Grey Herons, whose mark is a heron's wing — the
 loosest of the six societies, wanderers and jokers who gather but once in five years and fight only
 as they must, the civilians' lives ranked above the victory. Their art is the **stile dei venti
-divini**, the Style of the Divine Winds. The other societies find them unserious. The Herons find
-the others unlaughing, and consider this the graver wound.
+divini**, the Style of the Divine Winds. The other societies find them unserious; the Herons count
+that the graver wound.
 
 ### The Seventh Stage — the Pianura Gelata, Where Faith Is the Only Fire
 
 *Faith is the one coin that grows heavier the more it is spent.*
 
 North of everything human lies the **Pianura Gelata**, the Frozen Plain, a polar desert under
-mountains of ice. Its goddess is **Mò-hán Lóng**, Dragon of the Frozen Desert — savage, sadistic, a
-connoisseur of endurance. Her servants are **Rakshasa**, beast-bloods crossed with devils, who hunt
+mountains of ice. Its goddess is **Mò-hán Lóng**, Dragon of the Frozen Desert — savage and
+sadistic. Her servants are **Rakshasa**, beast-bloods crossed with devils, who hunt
 the herders for tribute and for sport. The people endure, which on the ice is a politics.
 
 Their society is the strangest of the six: the **Manguste Bianche**, the White Mongooses, whose
@@ -138,7 +136,7 @@ superstition; the Golden Hawks whisper darker, that the Mongooses are some enemy
 The pilgrim notes only that of six creeds, theirs alone requires the dawn.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *Consider what the lotus-bearers pray toward. The six wardens have an elder — apex of all the
+> *The six wardens have an elder — apex of all the
 > Veri Draghi, above loyal and rogue alike: **Ouroboros**, the True Dragon God, who has woken once
 > already, in the Era della Marea, and **Alfheim** burned for it. If the "god not yet of this
 > world" is the lost Vero Dio Drago, the Mongooses keep a vigil. If it is Ouroboros — or if those
@@ -152,9 +150,9 @@ The pilgrim notes only that of six creeds, theirs alone requires the dawn.
 Last, the **Regno del Nord**, scarcely a kingdom at all: one city so vast the pilgrim walked nine
 days inside it — **Chéngshì**, la Capitale, the **Capitale della Luce** the Vero Dio Drago founded
 and ruled. Its mistress now is **Léilong Lìnbei**, dragon of light and of light's shadow, thunder
-in her voice — paranoid, divided against herself, adored and dreaded in one breath. Her courtiers
-are the **Kitsune**, fox-people of many faces, so that in the Capital no one is certain who anyone
-is, including the Kitsune. Its people are the most refined in the six kingdoms — half-elf poets,
+in her voice — paranoid, divided against herself. Her courtiers are the **Kitsune**, fox-people of
+many faces, so that in the Capital no one is certain who anyone is, including the Kitsune. Its
+people are the most refined in the six kingdoms — half-elf poets,
 scholar-clerks, silk-brokers, and the little cat-folk **Tal-Tanoth** (there are no halfling folk
 east of the Sadhir; the Tal-Tanoth fill their place, and your pockets) — and every one a spy, if
 only on their neighbors.
@@ -162,18 +160,17 @@ only on their neighbors.
 Fittingly, the local society is spycraft perfected: the **Falchi Dorati**, the Golden Hawks, whose
 mark is a raptor's talon — cells that never meet, messages carried as verses by the **Mastri
 Cantori**, spymasters who never fight, and at the summit a **Fenice Rossa** so secret some Hawks
-doubt it exists, which is itself a protection. And beneath it all, the old men say, lies a second
+doubt it exists. And beneath it all, the old men say, lies a second
 city, entire and inhabited, ruled by the **twin** of the goddess above; which sister holds the
 throne of light and which the shadow, no tale dares settle. The pilgrim, who counts shadows,
 believes the old men.
 
-> *Curator's note.* Travellers will meet these gods under other names, for two name-sets circulate:
-> older itineraries write **Huolongnan**, **Seishima Tatsumoto**, **Weichong-Shanxuan**,
-> **Kuangshuang Long**, **Jiu-Yaofeng**, **Qiulei-Senbei** for the pilgrim's six, and call the
-> Weeping Spires the **Altopiano delle Nuvole**. The beings are the same; the tongues render them
-> differently — unless, as some hold, the *successors* differ. Western map-houses meanwhile still
-> print "**Tianqi**" across the whole Qi-Long: an empire sixteen centuries dead. Buy newer maps. —
-> *the Curator*
+> *Curator's note.* Two name-sets circulate for these gods: older itineraries write **Huolongnan**,
+> **Seishima Tatsumoto**, **Weichong-Shanxuan**, **Kuangshuang Long**, **Jiu-Yaofeng**,
+> **Qiulei-Senbei** for the pilgrim's six, and call the Weeping Spires the **Altopiano delle
+> Nuvole**. The beings are the same; the tongues render them differently — unless, as some hold,
+> the *successors* differ. Western map-houses meanwhile still print "**Tianqi**" across the whole
+> Qi-Long: an empire sixteen centuries dead. Buy newer maps. — *the Curator*
 
 ### The Ninth Stage — the Raduno degli Eroi
 
@@ -187,9 +184,9 @@ empire and now serve each the god of its own kingdom: the **Via della Fiamma Imp
 lesser schools beneath — the pilgrim's own **Scuola del Cancello Tonante** among the least. The
 resistance societies — men call the six together **La Triade**; do not ask why six are called
 three, the name is older than the counting — seed their finest into the lists, for a champion's
-robe passes doors a rebel's rags cannot. So each god hosts, every seventh year, a festival of its
-own future assassins, and cannot stop: to cancel the games is to admit fear before the other five.
-The pilgrim watched the finals in the Capital and applauded with everyone else. Manners.
+robe passes doors rags cannot. So each god hosts, every seventh year, a festival of its own future
+assassins, and cannot stop: to cancel the games is to admit fear before the other five. The pilgrim
+watched the finals in the Capital and applauded with everyone else. Manners.
 
 ### The Tenth Stage — the Spiral, Which Is Not on Any Map
 
@@ -198,10 +195,9 @@ The pilgrim watched the finals in the Capital and applauded with everyone else. 
 Of his own order's way the pilgrim will say what novices are told. That **Fato**, Fate, is the road
 and not the walker: it does not compel your feet, it only outlasts your refusals. That the
 **Essenza** is water and every god a jar, and the jars quarrel over which of them is wet. That
-there are **Tre Reami**, Three Realms, and with them **il più Antico** — "the most Ancient" — of
-whom the teaching says only: *the Three Realms together with the most Ancient shine with a Wisdom
-not their own.* And that magic is the **seventh** — older than the six, older than their madness,
-glowing with its own enchantment, borrowed by all and owned by none.
+there are **Tre Reami**, Three Realms, and with them **il più Antico**, "the most Ancient," who
+*shine with a Wisdom not their own.* And that magic is the **seventh** — older than the six, older
+than their madness, glowing with its own enchantment, borrowed by all and owned by none.
 
 There is a walk the perfected make, the **Cammino dell'Illuminato** itself, and the pilgrim has
 made it: through the Darkness of Nightmare and the Doubt of Illusion, through the tearing of the
@@ -214,18 +210,16 @@ whose confession is entire: *we broke every Law, posing as Legislators; we creat
 pretending they were alive; cracking the walls of the World, we were possessed by the elements; in
 our immense Arrogance we defiled the perfection of the Essence.* Beyond waits the Great Library of
 forbidden truth, whose guardian says: *better to live in the darkness of ignorance than perish in
-the flame of a terrible knowledge.* The pilgrim read one page. He will not say which. He walks more
-slowly since.
+the flame of a terrible knowledge.* The pilgrim read one page. He walks more slowly since.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *Set the spiral's six divinities beside the six Dei-Drago and the correspondence is exact,
-> element for element — Diis to the fire-throne of Cenere, Hudemia to the drowned kingdom, Therios
-> to the serpent under the Spires, Varshnak to the ice-queen, Heis to the dead wind of the Foresta,
-> Dingir — light and shadow both, mark the twin — to the Capital. The "confession" is no parable:
-> it is the Adepti's indictment in their own plural voice — simulacra posing as the living, the
-> Essence remade in a Forge, the cracked walls of the World. The monks of the Cammino recite the
-> truth of the Great Lie nightly and have footnoted it into harmlessness. The pilgrim read one
-> page. Watch what he does next.*
+> *Set the spiral's six divinities beside the six Dei-Drago: the match is exact, element for
+> element — Diis to the fire-throne of Cenere, Hudemia to the drowned kingdom, Therios to the
+> serpent under the Spires, Varshnak to the ice-queen, Heis to the dead wind of the Foresta, Dingir
+> — light and shadow both, mark the twin — to the Capital. The "confession" is no parable: it is
+> the Adepti's indictment in their own plural voice. The monks of the Cammino recite the truth of
+> the Great Lie nightly and have footnoted it into harmlessness. The pilgrim read one page. Watch
+> what he does next.*
 
 ### The Last Stage — Leaving by the Same Wound
 
@@ -246,17 +240,16 @@ the mountains, was the only mercy that asked no tribute in return.
 
 ---
 *Colophon.* Chapter IX. Narrator: **the Pilgrim of the Thundering Gate** (invented framing voice;
-`NARRATORS.md`). Drawn from `canon/geography.md` (six-kingdom present, decision **GEO-2 = A**; Vero
-Dio Drago / Capitale della Luce; Tianqi as historical label), `canon/factions.md` (La Triade; the
+`NARRATORS.md`). Drawn from `canon/geography.md` (six-kingdom present — decision **GEO-2 = A**;
+Vero Dio Drago / Capitale della Luce; Tianqi as historical label), `canon/factions.md` (La Triade;
 Grandi Sette Imperiali, Scuola del Cancello Tonante, Raduno degli Eroi), `canon/bestiary.md`
 (Dei-Drago **woke ~1900–1920 d.M.**, not born — **MAG-14**; Ouroboros above the loyal/rogue split —
-**MAG-12**), `canon/history.md` (Mah-Dhol), `canon/peoples.md` / `economy.md` (peoples; Tal-Tanoth
-in the Halfling niche; cash-coins, jade), and above all
+**MAG-12**), `canon/history.md` (Mah-Dhol), `canon/peoples.md` / `economy.md` (Tal-Tanoth in the
+Halfling niche; cash-coins, jade), and above all
 `sources/extracted/batch2-digests/east-qilong.md` (the six Dragon-Gods, realms, servitors, natures;
-the societies' methods and frictions; the White Mongoose creed; the underground twin city; the
-Cammino cosmology and sanctuary confessions). Names use the **revised** set per **BAT-6** (2008 set
-noted by the Curator); ~900 million souls per **GEO-14** (attritional stalemate among vast
-populations); present ≈ 3518 d.M. Margins from `canon/secret-the-great-lie.md`. **[INVENTED]**: the
-pilgrim, his itinerary, maxims, and encounters; the six-fold form of the present Raduno; the "six
-called three" quip; the Curator's cipher-suspicion (a hook, consistent with the Falchi's Mastri
-Cantori).
+the societies; the White Mongoose creed; the underground twin city; the Cammino cosmology and
+confessions). Names per the **revised** set (**BAT-6**; 2008 set noted by the Curator); ~900
+million souls per **GEO-14** (attritional stalemate among vast populations); present ≈ 3518 d.M.
+Margins from `canon/secret-the-great-lie.md`. **[INVENTED]**: the pilgrim, his itinerary, maxims,
+and encounters; the six-fold form of the present Raduno; the "six called three" quip; the Curator's
+cipher-suspicion (a hook, consistent with the Falchi's Mastri Cantori).

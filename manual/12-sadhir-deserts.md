@@ -68,12 +68,6 @@ names the **Calling Depth**: a stillness that is also a summons, a pull behind t
 drawing the solitary walker down-slope, always down-slope, toward the old sea-floor. Rope yourself
 to your companions. The Wheel does not require you to answer every voice that knows your name.
 
-> ⟡ **IN THE MARGIN (GM)** ⟡
-> *The Calling Depth is a voice, and the lore-keeper is wise to walk roped. It calls the solitary
-> down through the fissures to the drowned floor, to the congregations that wait there and the
-> thing they tend. Those who answer are not eaten; they are enrolled — the Salt-Drowned are
-> recruited, not born. See below for what does the calling.*
-
 Nor is the salt empty. The **Yarhim** — the colossal crabs whose blue crystal shells your smiths
 covet — graze the flats as they once grazed the sea-floor, patient as hills. **Glass-Stalkers**
 hunt where you can least see them, which is everywhere; **Mirajids** condense out of the heat-haze
@@ -107,9 +101,9 @@ tokens** and the **coral-standard** of the Zalim'un; the caravans carry our **ma
 elemental corals, Yarhim-shell armour, and incense of the Cycle to every coast of Ymir.
 
 > **[Yusuf al-Marrah objects.]** *"Neutral hub." Tuleph is neutral the way a well is neutral:
-> everyone needs it, so no one is permitted to own it. Her coral-standard is sound money — I am a
-> scribe of ledgers, I give credit where owed — but under half the counting-tables of Tuleph you
-> will still find the old sultans' coin of Al-Sidath, and under certain contracts, older oaths. The
+> everyone needs it, so no one is permitted to own it. Her coral-standard is sound money — I give
+> credit where owed — but under half the counting-tables of Tuleph you will still find the old
+> sultans' coin of Al-Sidath, and under certain contracts, older oaths. The
 > hermit-crab folk she has somehow forgotten to mention — the shelled people who lived in the sea
 > before it died, who now scout and dig and guide for her Sultanate because they alone can reach
 > the deep places — they too remember which kingdom was theirs first. Ask them, when no Narazeen is
@@ -127,12 +121,13 @@ not dig for, and I commend our example to every relic-hunter reading this.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Ea is dead — truly dead, his essence unmade. But a church can outlive its god if it has
-> something to incubate, and the Blue Oyster Cult left its egg. Beneath the deepest brine, where
-> the old sea's last water pooled and would not dry, the cult sealed the **Deep Pearl**: layered
-> nacre and drowned prayer, built to gather what the Abyss remembers of its Prince. It is not Ea.
-> It is the* shape *where Ea was, slowly filling. The Calling Depth is its patience made audible;
-> the Oracle of the Brine Veil is its mouthpiece; and the salt that will not release Al-Sidath and
-> Al-Jabur is the desert holding its two oldest doors shut.*
+> something to incubate, and the Blue Oyster Cult left its egg. Beneath the deepest brine the cult
+> sealed the **Deep Pearl**: layered nacre and drowned prayer, built to gather what the Abyss
+> remembers of its Prince. It is not Ea. It is the* shape *where Ea was, slowly filling. The
+> Calling Depth the lore-keeper warns of is its patience made audible — it calls the solitary down
+> through the fissures, and those who answer are not eaten but enrolled: the Salt-Drowned are
+> recruited, not born. The Oracle of the Brine Veil is its mouthpiece; and the salt that will not
+> release Al-Sidath and Al-Jabur is the desert holding its two oldest doors shut.*
 
 **Now cross with me out of the salt, eastward and inland, into the second desert** — for the
 traveller must not confuse them, though both are thirsty. The **Grande Erg** is sand, true sand, a
@@ -165,20 +160,20 @@ of which the Erg-folk say: if you have seen one, finish the sentence in the next
 
 Of **Khorish** I will speak, since my colleague's hand is shaking too hard to hold the pen. It
 names itself the **Regno dei Faraoni Eterni**, the Kingdom of the Eternal Pharaohs; its founder
-**Athmokethepek I** united the tribes of the Erg in the years 2160 to 2180, as your annals count,
-and he rules it still, with his wife **Nefthi** beside him, neither of them having consented to
-die. Their monuments are raised by the dead: a necromantic corvée, in which the labourer's
-obligation to the crown survives the labourer. You wish me to be horrified. I will disappoint you.
-The Wheel's verdict on Khorish is colder than horror: they have not escaped the turning, they have
-only stopped their own place on the rim, and a stopped wheel is not a saved one. It is a broken
-one. Everything they fear is still coming; it is merely coming slowly enough for them to watch.
+**Athmokethepek I** united the tribes of the Erg in the years 2160 to 2180, and he rules it still,
+his wife **Nefthi** beside him, neither of them having consented to die. Their monuments are raised
+by the dead: a necromantic corvée, in which the labourer's obligation to the crown survives the
+labourer. You wish me to be horrified. I will disappoint you. The Wheel's verdict on Khorish is
+colder than horror: they have not escaped the turning, they have only stopped their own place on
+the rim, and a stopped wheel is not a saved one — it is a broken one. Everything they fear is still
+coming; merely slowly enough for them to watch.
 
 > **[Yusuf al-Marrah objects.]** *Cold comfort from a cold-blooded scholar. I have seen the corvée.
 > I have watched a dead woman carry water-jars along the terrace of a tomb that will never be
-> occupied, because its owner declines to need it — and I recognised the gait of a porter I had
-> hired living, twenty years before, and paid, and liked. Her contract, you see, had not expired.
-> That is Khorish: a kingdom where death does not end your employment. My house's rule is three
-> generations old and unbroken — we carry no cargo to Khorish that can be made to work.*
+> occupied — and I recognised the gait of a porter I had hired living, twenty years before, and
+> paid, and liked. Her contract, you see, had not expired. That is Khorish: a kingdom where death
+> does not end your employment. My house's rule is three generations old and unbroken — we carry no
+> cargo to Khorish that can be made to work.*
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *What did the Eternal Pharaohs actually buy, and from whom? Not godhood, and not from any god.
@@ -191,17 +186,17 @@ one. Everything they fear is still coming; it is merely coming slowly enough for
 > arrears. The pharaohs think they are eternal. They are* escrow*.*
 
 **One thing more, and the Wheel may rest.** In the deep Erg there are doors that do not open onto
-the desert. The nomads rope their camels well away from them; the seers of Ulan-Tang — house Gaib
-keeps one, they say, a man called Faazi-Ghaib — sell the crossing to those who must. They open on
-the **Terre dei Sogni**, the Dreamlands, where the sleeping soul of every dreamer walks; and
-somewhere in that country, in a prison built as a palace, sits the archmage **Mubafer**, son of the
-thaumaturge Nemelatekh, sealed away until he forgets the two loves he betrayed. He has been
-forgetting for a very long time. Those who have stood at his gate say he is gracious, and lonely,
-and knows the place of everything ever buried in either desert; and that his hospitality, like the
-false oasis, is worse the sweeter it looks. The desert teaches one lesson in salt and sand alike,
-riddling reader, and I will close by giving it plainly, as a gift, because you have been patient:
-*everything the desert takes, it keeps; and everything it keeps, it remembers; and everything it
-remembers, it will one day offer back to you, at a price, in the voice of something you loved.*
+the desert. The nomads rope their camels well away; the seers of Ulan-Tang — house Gaib keeps one,
+they say, a man called Faazi-Ghaib — sell the crossing to those who must. They open on the **Terre
+dei Sogni**, the Dreamlands; and somewhere in that country, in a prison built as a palace, sits the
+archmage **Mubafer**, son of the thaumaturge Nemelatekh, sealed away until he forgets the two loves
+he betrayed. He has been forgetting for a very long time. Those who have stood at his gate say he
+is gracious, and lonely, and knows the place of everything ever buried in either desert; and that
+his hospitality, like the false oasis, is worse the sweeter it looks. The desert teaches one lesson
+in salt and sand alike, riddling reader, and I will close by giving it plainly, as a gift, because
+you have been patient: *everything the desert takes, it keeps; and everything it keeps, it
+remembers; and everything it remembers, it will one day offer back to you, at a price, in the voice
+of something you loved.*
 
 > **[Yusuf al-Marrah, last entry, in a smaller hand.]** *On the lesson, and on nothing else
 > whatsoever, the lore-keeper and I are agreed. — Y. a-M., Tuleph, written in the shade of my
@@ -213,16 +208,12 @@ remembers, it will one day offer back to you, at a price, in the voice of someth
 voice; `NARRATORS.md`) and **Yusuf al-Marrah** of Tuleph (**[INVENTED]** — a rebuttal voice
 created for this chapter's duet; his family, ledgers, and grudges with him). Drawn from
 `canon/geography.md` (the layered Sadhir, decision **GEO-1 = C**: human island-kingdoms beneath,
-Sarradhi Sultanate above; the Grande Erg/Ulan-Tang/Khorish as a separate sand desert, **GEO-10**;
-La Catastrofe ~0 vs. il Grande Prosciugamento ~2400 kept distinct, **GEO-11**),
-`canon/factions.md` (Sultanate ranks, Burning Wheel, Azar-Kalish, Khorish), `canon/peoples.md`
-(Sarradhi, hermit-crab folk), `canon/bestiary.md` (desert creatures; Ea †1570),
-`canon/economy.md` (salt tokens, coral-standard, mana-salt; **META-2**), `canon/pantheon.md`
-(**COS-5**: Yogh one cross-cultural god), and the regions digest
-`sources/extracted/batch2-digests/regions.md` (the human Sadhiriti legends: Al-Sidath, Al-Jabur,
-the Marid-warded treasury, the Gash-Azr, the sand-leviathan, the Signore delle Illusioni, the
-awaited deliverer; Ulan-Tang's houses and Night Market; Mubafer and the Terre dei Sogni). Margins
-per `canon/secret-the-great-lie.md` and the above. **[INVENTED]** flags: the **Deep Pearl** and
-its link to the Calling Depth (extrapolated from the gazetteer's "Spawn of the Deep Pearl" and
-"Calling Depth psychic lure"); the **Netunshiel tenancy** behind the Faraoni Eterni; Harrun
-al-Marrah and the al-Marrah house. Present ≈ 3518 d.M.
+Sarradhi Sultanate above; the Grande Erg/Ulan-Tang/Khorish a separate sand desert, **GEO-10**; La
+Catastrofe ~0 vs. il Grande Prosciugamento ~2400 kept distinct, **GEO-11**), `canon/factions.md`,
+`canon/peoples.md`, `canon/bestiary.md` (Ea †1570), `canon/economy.md` (salt tokens,
+coral-standard, mana-salt; **META-2**), `canon/pantheon.md` (**COS-5**: Yogh one cross-cultural
+god), and the regions digest `sources/extracted/batch2-digests/regions.md` (the human Sadhiriti
+legends; Ulan-Tang; Mubafer). Margins per `canon/secret-the-great-lie.md` and the above.
+**[INVENTED]** flags: the **Deep Pearl** and its link to the Calling Depth (extrapolated from the
+gazetteer's "Spawn of the Deep Pearl" and "Calling Depth psychic lure"); the **Netunshiel
+tenancy** behind the Faraoni Eterni; Harrun al-Marrah and the al-Marrah house. Present ≈ 3518 d.M.
