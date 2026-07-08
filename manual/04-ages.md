@@ -239,9 +239,9 @@ and the morning is Mithra's.
 > *The Equilibrio is not a morning. It is the eye of the storm. The Sohleugir's reports are true —
 > the Maelstrom is weakening — but the Maelstrom is the scar over the seal, and the quarantine of
 > the world; the friar is watching the prison wall thin and calling it a sunrise. The Ancient Gods
-> are stirring; the Observer's eye is already in the sky; the calm of these two centuries is the
-> held breath between the first crack and the collapse. Every chapter of this book is written
-> inside that breath.*
+> are stirring; the Observer has already put its eye to the crack once, and only *withdrawn* it —
+> eyes return; the calm of these two centuries is the held breath between the first crack and the
+> collapse. Every chapter of this book is written inside that breath.*
 
 So end the ages of Ymir, as far as God has unrolled them. What remains of the scroll is His; but a
 chronicler may pray at the foot of the page. *Lord of the Sun, who counted the years before we

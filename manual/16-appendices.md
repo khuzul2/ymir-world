@@ -79,7 +79,7 @@ your copy has them.) · **Arvo** — powdered Essence, the Gaerwath's currency a
 of magic, the priests' channel · **Marchiati** — those the Maelstrom marks in the womb ·
 **Maelstrom** — the standing storm at the world's heart, over drowned Ragash · **Marea Stregata**
 — the tide of wild magic that opened the present age · **Mentalismo** — the mind's realm of magic
-· **Nath** — the three castes of Dark-Elf society · **Reliquie / Rune Magiche** — the six seals
+· **Nath** — the three tiers of Names into which the Dark-Elf aristocracy (the Elar) is gathered · **Reliquie / Rune Magiche** — the six seals
 and the four sealed works of the Adepti, whose opening ended the old world's quiet · **Seggio di
 Cristallo** — the Crystal Seat at Elendor, the Council of Peoples' hall, where this book was bound
 · **Sovereign Demons (Demoni Sovrani)** — the great demons; most now dead; three walk · **Vere

@@ -95,8 +95,8 @@ inheritance early and coldly; the Empire that schooled them keeps their room rea
 which withdrew in 2600 — the north is cold, and cold hearts follow cold weather; we did not compel
 them, and I account the not-compelling among our honours.
 
-> *Curator's note.* Set beside these three graceful sentences the plainer sequence: within four and
-> a half centuries the Empire lost its east to orcs, its south to its own princes, and its
+> *Curator's note.* Set beside these three graceful sentences the plainer sequence: within six
+> centuries the Empire lost its east to orcs, its south to its own princes, and its
 > northmost kingdom to a secession it could not prevent — and ten years after that, its crown. The
 > Annalist's chapter on the Ages tells the same facts with the same gilding; I have scraped there,
 > and refer the reader rather than repeat myself. — *the Curator*

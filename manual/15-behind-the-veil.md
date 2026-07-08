@@ -167,8 +167,8 @@ their living fortress, vault of the **Rune del Potere**; and **Ragash**, which i
 physical city is gone beneath the Maelstrom. But cities that mattered so much cast shadows, and
 Ragash's shadow stands intact in the **Dreamlands** — reachable by the lucid dead-of-night, the
 gate to steam-wreathed **Arcadia** beyond it. **Topramesk lingers there.** The Mad, the Yellow,
-Lord now of the domain his kind understood best: the Void. He guards the dream-road. Five
-thousand years is a long watch. Consider, when your dreamers meet him, whether he is guarding it
+Lord now of the domain his kind understood best: the Void. He guards the dream-road. Three and
+a half thousand years is a long watch. Consider, when your dreamers meet him, whether he is guarding it
 against something — or *for* something.
 
 ### 6 · The Age You Are In
@@ -222,7 +222,7 @@ I do not tie ends. I point at them. Pull whichever suits your purpose.
 - **The Signore dell'Oblio** once threatened the world from the Monti Aestyr; his labyrinthine
   fortress-prison is still hidden on that range, and still occupied by something.
 - **Tofango's axe, Oblivion.** A demon of real rank is imbued and trapped in the blade; its will
-  ate the huntsman's mind, and he died a hermit on a nameless peak. The body was found. The axe
+  ate the axeman's mind, and he died a hermit on a nameless peak. The body was found. The axe
   was not. It is somewhere on a mountain, patient, waiting for hands.
 - **Ulan-Tang keeps Kramer's legacy** — a lich's workings around a gate that has already admitted
   a god's attention once.

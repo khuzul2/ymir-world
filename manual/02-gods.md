@@ -103,7 +103,8 @@ them:
 nearly five centuries gone, the Granduke of Armora declared Solanthya's **Alto Teocrate**
 corrupt — accusing the Letio Church of secretly worshipping Ahriman behind the golden sun — and
 raised the **Chiesa Armorita di Mithra**, still the only licensed clergy of my city, in open
-schism and intermittent war with Solanthya. On the truth of the accusation I say nothing,
+schism — and, for its first bloody generation, open war — with Solanthya. The guns have been
+quiet since the Peacemaker's treaty; the schism has not. On the truth of the accusation I say nothing,
 chiefly because I would like to keep saying things in general.
 
 The younger quarrel is doctrinal and cuts across both obediences: the schism of the
@@ -161,12 +162,13 @@ them, once, wrongly, caused *il Disastro*. I have prayed in forty-one temples, h
 entered this one, asked my questions, wrote down the answers, and I will not pretend the
 answers fit my tables. Every other god on Ymir, however strange, is a face of something I can
 love. These are not faces. The Xebechani say they are what was there *before* — and when I ask,
-gently, before *what*, they look at me the way I look at my novices. And there is this: for
-some five centuries a **second moon** has wandered where no moon was — red, unscheduled,
+gently, before *what*, they look at me the way I look at my novices. And there is this: for two
+centuries after the Tide a **second moon** wandered where no moon was — red, unscheduled,
 answering no calendar — and the star-priests name it **Sguardo-sul-Nulla**, the Gaze upon the
-Void, and say it is the Observer, stirring. The Church calls this vulgar superstition about an
-errant heavenly body. The Church also, I observe, no longer holds its night processions when it
-is overhead.
+Void, and say it was the Observer, stirring; and that around the year 3260 it did not set, but
+*withdrew*, which they insist is a different thing. The Church called it vulgar superstition
+about an errant heavenly body. The Church also, I observe, has never restored the night
+processions it suspended while that moon stood overhead.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The friar's instincts are a compass needle: watch where they tremble. The Outer Gods are the
@@ -174,7 +176,8 @@ is overhead.
 > the elemental walls, and robbed to fill their own new thrones. They do not fit his Concordance
 > because the Concordance is the cover-story, and they are what it covers. The red moon is
 > exactly what the star-priests say: **Sguardo-sul-Nulla is Tuulhak-Xanar, the Observer**, the
-> seal's first failure, walking the sky since the Tide — and Xhulhu and Heichpyel, the two
+> seal's first failure — it walked the sky from the Tide until it *receded*, two and a half
+> centuries past: withdrawn, not set — and Xhulhu and Heichpyel, the two
 > "gods" the friar could not file, are that one Observer's exoteric masks: the dreaming face and
 > the recording face of a single opened eye. He is right about the spider, too — one Yogh, two
 > continents, no missionaries.*
@@ -244,9 +247,9 @@ and every year the circle wants one god of being whole — and every year a diff
 not sit. I have decided this is not the failure of the work; it is the finding. Either the
 Absolute is a circle too wide for any table of mine — which my Lady's torch can live with — or
 somewhere in my tidy pages there is a seam where two things have been sewn together and called
-one cloth. On bright mornings I believe the first. On nights when the red moon is up, I take
-out the sheet, and look at the gods that do not map, and trim the torch, and keep asking. She
-has never once scorched my hand for it.
+one cloth. On bright mornings I believe the first. On dark nights — the sort the red moon once
+owned — I take out the sheet, and look at the gods that do not map, and trim the torch, and
+keep asking. She has never once scorched my hand for it.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Give the old man his due: "a seam where two things have been sewn together and called one

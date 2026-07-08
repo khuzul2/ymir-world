@@ -203,7 +203,7 @@ There is a walk the perfected make, the **Cammino dell'Illuminato** itself, and 
 made it: through the Darkness of Nightmare and the Doubt of Illusion, through the last Veil; past
 the faceless judge with the broken scale, whose unjust judgment you must accept to pass. Then the
 spiral: six sanctuaries, one to each elemental divinity, each bearing a confession. *Life itself we
-enslaved, and it bowed at our feet,* says the obsidian of **Therios**. *Drawing on the Astral fire,
+enslaved, and it bowed at our feet,* says the obsidian of **Therìos**. *Drawing on the Astral fire,
 in our Forge we recreated the Essence,* says the ruby of **Diis**. Only when every altar is turned
 toward a mirror that is not there does the seventh sanctuary open, whose confession is entire: *we
 created empty simulacra, pretending they were alive; cracking the walls of the World, we were
@@ -214,7 +214,7 @@ He walks more slowly since.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Set the spiral's six divinities beside the six Dei-Drago: the match is exact, element for
-> element — Diis to the fire-throne of Cenere, Hudemia to the drowned kingdom, Therios to the
+> element — Diis to the fire-throne of Cenere, Hudemia to the drowned kingdom, Therìos to the
 > serpent under the Spires, Varshnak to the ice-queen, Heis to the dead wind of the Foresta, Dingir
 > — light and shadow both, mark the twin — to the Capital. The "confession" is no parable: it is
 > the Adepti's indictment in their own plural voice. The monks of the Cammino recite the truth of

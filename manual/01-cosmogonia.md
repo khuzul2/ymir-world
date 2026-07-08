@@ -65,7 +65,8 @@ say a demon is a Spirit gone wrong. They simply do not know how *early* the wron
 > found them sleeping, **sealed them beyond the elemental walls**, drank their power, and set
 > themselves up in the empty thrones wearing the old names. Much of what the warm faiths adore is
 > the Adepti in a mask. The Ancient Gods are not dead. They are locked out. And in this present age
-> the lock is failing — which is why a red eye has opened in the night sky. But of that, the priest
+> the lock is failing — which is why, when the Tide broke, a red eye opened in the night sky and
+> kept its watch there for two hundred years before withdrawing. But of that, the priest
 > will speak only sideways, and only because its people never forgot whom they truly serve.*
 
 **Now hear the part the warm peoples do not keep**, for it is ours, and older. Before the sundering,
