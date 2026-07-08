@@ -53,11 +53,11 @@ Now, in the **Era della Marea**, the Lie is coming apart and the real Ancient Go
   **Sguardo-sul-Nulla / Sguardo-Nel-Nulla** ("the Gaze into the Void"), is one of them —
   the Observer stirring.
 
-`[CONFLICT — the named heresy]` One in-world (heretical) account states plainly that
-**the six Elemental Gods *are* the Adepti** who stole the Ancient Gods' power — directly
-contradicting the public myth that the Twins were *born from* Mithra and Ahriman. Same
-six beings, two framings; the manual should present the myth as public truth and this as
-the secret. `[CANON — cosmologia.txt, divinit-elementali.txt]`
+`[CANON — decision COS-4 = A]` The six **Elemental Twins are real** elemental gods (as
+Mithra & Ahriman are real). The "heresy" that "the six Elemental Gods *are* the Adepti" is
+only *partly* true: the Adepti **co-opted some of their names, masks, and cults** — but the
+genuine elemental powers exist behind them. So the public myth (the Twins born of the duality)
+and the secret (Adepti wearing their faces) are both partly right.
 
 ## La Catastrofe — what really happened `[CANON]`
 The Adepti's theft of divine power tore the flow of Essence, creating an anomaly: a
@@ -73,12 +73,12 @@ took new identities, and had themselves worshipped as gods.
   worked by **Topramesk and his six companions — seven Adepts** — at Ragash. He is said
   to **persist in the Dreamlands of Ragash** to this day. `[CANON — history-campaigns / "The Gate to Unknown"]`
 
-`[CONFLICT — competing accounts]` The sources give *three* framings of the Catastrophe,
-best kept as in-world competing legends: (1) the Adepti's **theft of the Ancient Gods'
-power** (welcome-page); (2) a botched **evocation of an Outer God** (dei-esterni); (3) an
-accidental **summoning of the Sovereign Demons** (the public Player-Guide myth).
-Demon-origin is likewise doubled: **Corrupted Essence** vs. the **Piano del Caos** (Plane
-of Chaos, with its own "Sei Signori del Caos"). → `NOTES.md`
+`[CANON — decision COS-2 = A]` The three "accounts" of the Catastrophe are **one event seen
+three ways**: the Adepti's **theft-ritual** (stealing the Ancient Gods' power / a botched
+handling of Outer-God power) is precisely what **tore the seal and let the demons in** — so the
+"accidental demon-summoning" of the public myth is the *same* act, described from the outside.
+The **Corrupted Essence** and the **Piano del Caos** are likewise one thing under two names
+(the Plane of Chaos = the realm of Corrupted Essence — see COS-3).
 
 ## The planet catalogue — the Adepti's empire & the engineered races `[CANON — i-piani-e-il-multiverso.txt]`
 The mortal "races" of Ymir are largely **Adepti bio-engineering**, scattered across the

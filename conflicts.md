@@ -29,15 +29,27 @@ Recorded as you decide them. → written into `canon/`.
   the six resistance societies ("La Triade"); the Tianqi empire under a "Vero Dio Drago" is ancient
   backstory.
 
+**Batch 2 (2026-07-07):**
+- **COS-2 — Catastrophe → DECIDED: A (one event, three views).** The theft-ritual is what tore the
+  seal and let the demons in; the "botched evocation" and "accidental summoning" accounts each see
+  part of the same event.
+- **COS-4 — the six Elemental Twins → DECIDED: A (real, co-opted).** Genuine elemental gods (like
+  Mithra/Ahriman); the Adepti wear/co-opt some of their names and cults.
+- **BAT-1 — what the Rune unseal → DECIDED: A.** The six Reliquie / four Rune Magiche are sealed
+  **Adepti anti-demon weapons** (at Xanadu); recovering/activating them is the single act that
+  shattered the Maelstrom's "isolation bell" and opened the Era della Marea.
+- **BAT-4 — the Planescape "Great Wheel" (`Planes2`) → DECIDED: A (shelve).** Non-canon D&D-4e
+  experiment; Ymir keeps its own planar scheme (Spazio Esterno, Inferno/Abisso, the Dreamlands).
+
 ## Status board
 _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 
 | ID | Title | Type | Sev | Status |
 |----|-------|------|-----|--------|
 | COS-1 | Public myth vs. the Great Lie — official line | conflict | high | DECIDED:C |
-| COS-2 | Which Catastrophe account is true | conflict | high | OPEN |
+| COS-2 | Which Catastrophe account is true | conflict | high | DECIDED:A |
 | COS-3 | Demon origin: Corrupted Essence vs. Plane of Chaos | conflict | med | OPEN |
-| COS-4 | Are the six Elemental Gods the Adepti? | conflict | med | OPEN |
+| COS-4 | Are the six Elemental Gods the Adepti? | conflict | med | DECIDED:A |
 | COS-5 | Yogh in two pantheons | conflict | low | OPEN |
 | COS-6 | Moons: one (Ishtar) vs. the red moon | unclear | low | OPEN |
 | COS-7 | Helgedad Seamark's third goddess | conflict | low | OPEN |

@@ -89,9 +89,13 @@ date attested in any source, and the anchor for the **campaign present**. → `h
 - **The Vere Vie (True Ways)** — the Xebechani portal network (built ~1400–1500 d.M.).
 - **The Adepts' portals** — dormant behind the Maelstrom's seal until the Era della
   Marea reactivates them all. → `history.md`
-- **The six Reliquie** — now named: **Ignus, Saralis, Meletskar, Tassalung, Natharien,
-  Oedring** — gathered to unseal the Adepts' **Rune del Potere** and open the Era della
-  Marea. → `history.md`
+- **The six Reliquie** (**Ignus, Saralis, Meletskar** [= the **Masamune**], **Tassalung,
+  Natharien** [the Celestial Diadem], **Oedring**) are the **six seals on the four Rune Magiche**
+  — the Adepti's **anti-demon superweapons**, housed at the Xebechani fortress-city **Xanadu**.
+  `[CANON — decision BAT-1 = A]` Recovering and activating these sealed weapons is the **single
+  act** that shattered the Maelstrom's **isolation bell** and opened the Era della Marea — so
+  "gathering the relics" and "cracking the seal" are the same event. → `history.md`, `secret-the-great-lie.md`
+  (Distinct from the **Door of Despair** artifact set — MAG-9.)
 - **Djinn** — Spirits given fixed form with **mana** to prevent their corruption
   (bound to place, object, or task). → `cosmology.md`
 
