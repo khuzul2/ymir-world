@@ -1,0 +1,269 @@
+# IV · THE AGES OF YMIR
+## *Of the Four Ages and of the Age of the Tide; being a Chronicle of the World from its Making unto this Present Year of the Maelstrom 3518*
+
+**As set down by the Annalist of Solanthya, chronicler-friar of the Clericato di Mithra, in the
+archive-towers of the holy city, in the years of the Nuovo Equilibrio.**
+
+> *Curator's note.* After the cold of Xebech, a censer. The Annalist of Solanthya is the most exact
+> chronicler now living — his dates may be trusted to the year, and I have kept every one. His
+> judgements are another matter. A loyal son of the Church of Mithra, he writes its history as a
+> mother writes of a favourite child: the victories in gold leaf, the failures in very small
+> letters, and one or two of them not at all. Where he omits, I restore; where he gilds, I scrape.
+> The gold beneath is real enough. — *the Curator*
+
+---
+
+Blessed be **Mithra**, Lord of the Sun and of the Light, in whose sight a thousand years are the
+turning of a page. I have served nine-and-forty years among the archive-towers of **Solanthya**,
+and read every chronicle that fire, flood, and heresy have spared. Let the ages of the world now be
+set down in their order, year upon year, as beads upon the cord of a prayer; and where the count is
+*dopo il Maelstrom* — after the Maelstrom — I write it plainly, **d.M.**, as the charters of the
+Empire have always written it.
+
+### Of the Forgotten Times, Which Are God's Alone
+
+Before the counting of years, Mithra the Creator was; and Ahriman the Corruptor set himself against
+Him; and of their contest were born the **Six Divine Twins**, who keep the elements. Then was the
+world of **Ymir** hung in the heavens and peopled with every living kind, and the **Grandi Vermi**,
+the Great Worms that the unlearned call dragons, moved upon it in the morning of things. Of all
+this the doctors of the faith have written better than I, and the first chapters of this book hold
+the making of the world — and certain outlandish tellings of it. A chronicler begins where pride
+begins.
+
+### Of the Ancient Days, and the Pride of the Adepti
+
+For pride is the hinge of the elder age. There arose an empire of sorcerers such as the world will
+not see again — the **Adepti**, masters and, as they blasphemously styled themselves, *lords* of
+magic, throned in **Ragash the Splendent**; the reckoners say their dominion endured some fifty
+thousand years. They were not content. They learned to summon the spirits of the outer dark and
+chain them in vessels of their craft — small ones first, then greater, until in the fullness of
+their folly they evoked the **Demoni Sovrani**, the Sovereign Demons themselves. What they had
+chained, broke loose. The **Demon Wars** filled the world; whole peoples were corrupted; the hosts
+of the Abyss poured through the breach that pride had opened. In those days the **Elves** came to
+Ymir through doors between the worlds, and to their everlasting honour stood with the peoples of
+the earth against the Sovereigns.
+
+And when all was nearly lost, the last of the Adepti — led by the archmage **Topramesk**, whom the
+chronicles call the Yellow, and the kinder ones the Mad — went into the Accademia at the heart of
+fallen Ragash and wrought a ritual to banish the demons for ever, at the price of their own lives.
+Something in it went beyond their governance. There came a light that was not Mithra's; the earth
+quaked for days; mountains burned, seas stood up out of their beds, and the sun was hidden. When
+the peoples crept forth, the armies of the demons were pulverised — but so was the land about
+Ragash, and where the Splendent City had been there turned, and turns yet, a storm that never
+ceases: **il Maelstrom**. From that wound the world was set apart from the common plane of
+creation, as a sickroom is set apart. Call it **La Catastrofe**; call it also judgement upon pride,
+and mercy upon the innocent, for so the Church has always read it.
+
+> ⟡ **IN THE MARGIN (GM)** ⟡
+> *Three tellings walk abroad: the friar's — judgement upon pride; the historian's — a banishing
+> ritual that slipped; the doom-preacher's — a summoning that succeeded too well. They are one
+> event seen three ways. Topramesk and his six companions — seven Adepts — did work a ritual at
+> Ragash, but what they handled that night was stolen fire: the power of the true, sleeping Ancient
+> Gods, whom their people had sealed beyond the elemental walls and milked for divinity. The
+> handling tore the flow of Essence; from the tear curdled a second, corrupted Essence, and out of
+> it the demons poured. The backlash slammed every portal shut at once and erased the land around
+> the capital. The Maelstrom is scar, quarantine, and gravestone of Ragash, all three. And the
+> demons were not "pulverised" — they were swept into a prison. Prisons crack. The friar will come
+> to that, not knowing it is the same story.*
+
+### Of the Dark Days, from the Great Fear to the Coalition
+
+**In the year 0 d.M.** fell **la Grande Paura**, the Great Fear, when the counting of years began;
+the engines and artefacts of the ancients perished, and for centuries the peoples were as children
+in a burnt house. Yet Mithra does not sow in vain. In the north — wild land then, where the
+**Tanoth** ranged first, and after them the orcs, and the dwarves delved their western mountains —
+the scattered clans of men were gathered, generation by generation, under one crown and at last
+under one creed; and so was **Letio** founded, the Empire of the faithful, whose planting no
+chronicle dates but whose harvest all the world has eaten. In the year of the Maelstrom 1320 the
+captain **Marco Cartaurelius** bore the Empire's banner across the southern seas to Punta del Toro,
+and of that seed grew **Cartosa**. And in the year 1555 d.M. the Empire of Letio stood at its full
+noon: nearly all the north of the world was Letio, and in that year **Helgedad** too was gathered
+into the fold.
+
+> *Curator's note.* "Gathered into the fold" is doing quiet work. Helgedad was a realm in its own
+> right — a kingdom of dwarves and men together, the dwarven seat at the **Aule Dorate**, the human
+> seat at **Nortislong** — and it was annexed, not adopted. Its whole later story, which the
+> Annalist scatters across three entries, is one continuous arc beginning here: annexation, long
+> decline, secession, the Wolves. The skald of Helgedad tells it whole in his own chapter. — *the
+> Curator*
+
+The demons, meanwhile, were not idle. **In 1570 d.M.** the Sovereign **Ea**, Lord of the Abysses,
+being loosed by mischance, sought the world's throne through the abominable **Culto dell'Ostrica
+Blu**; he was cast down and his essence destroyed — the first of the Sovereigns to be slain, God be
+praised. Evidence multiplying that others of his kind survived and schemed, the peoples were
+summoned to counsel: **about 1700 d.M.** the **First Council of Peoples** convened, and **in 1735
+d.M.** the **Coalizione delle Genti** was sworn, the peoples binding themselves each to each
+against the Sovereign Demons. Two hundred years of peace followed — the longest the fallen world
+has known — and with them the Dark Days end.
+
+> *Curator's note.* The Annalist's passive voice — "the peoples were summoned" — is a small
+> masterpiece. It was the **Xebechani** who summoned them; the First Council convened under
+> Xebechani diplomacy, star-priests going embassy by embassy. The Church has never cared to owe the
+> age's greatest peace to worshippers it privately accounts heathen, and its chroniclers have
+> declined the debt ever since. — *the Curator*
+
+### Of the Fiery Days, and the Chastisements of the East
+
+Peace is a loan, and the interest fell due. **Between 1900 and 1920 d.M.** the heathen empire of
+**Mah-Dhol** in the Qi-Long fell asunder into six kingdoms, and there appeared the **Dei-Drago**,
+the Dragon-Gods, whom the east worships to this day; I record it and do not envy it. Far heavier
+was the scourge that came upon us: **from 2015 to 2030 d.M.** the Great Horde of the orcs under
+**Uglush**, called the Supreme, broke upon the eastern marches of Letio, and those provinces —
+lost, I will not write; say rather *held in captivity* — became the **Regni Belligeranti**, the
+Belligerent States, where the Khans squabble upon Letian bones. And as if the wound wanted salt,
+**in the years 2200 to 2230 d.M.**, in the War of the Princes, certain southern lords whom the
+Empire had raised, armed, lettered, and loved took occasion of a disputed succession to renounce
+their obedience; and these style themselves the **Regni Giovani**, the Young Kingdoms. Ingratitude
+is also an inheritance.
+
+> *Curator's note.* The Young Kingdoms remember being taxed, garrisoned, and passed among imperial
+> claimants like a purse, and their secession as the founding of everything they are; their own
+> broadsheet-man has his say in a later chapter, at volume. When a realm loses its east to orcs and
+> its south to its own princes within two centuries, a chronicler might ask whether the trunk, and
+> not merely the branches, had sickened. The Annalist does not ask. — *the Curator*
+
+Yet let no one say the Empire's God had abandoned it. **In 2563 d.M.** the Sovereign Demon
+**Saxul**, Lord of All Fevers and Pestilence, manifested in the imperial capital itself, and a
+great black cloud hung over the city. Then was fought the **Battaglia della Terra Infranta**, the
+Battle of the Broken Land, and Saxul was destroyed — the second of the Sovereigns slain — and in
+that victory **Valdis Nemertine, last heir of the throne of Letia, gave up her life**. The Church
+has never doubted where to place her: among the martyrs, first of the age.
+
+> *Curator's note.* A martyr she was; but the host that broke Saxul was gathered of many peoples —
+> elves, dwarves, southerners, and worse-credentialed folk than that — a fact the Annalist's
+> "victory of the Empire's God" gently retires. And mark the words *last heir*. The throne of Letia
+> stood empty from that day. Remember the emptiness; the Annalist is about to build something on
+> it. — *the Curator*
+
+### Of the New Days, and the Assumption of Holy Rule
+
+**From 2590 to 2595 d.M.** the **Second Council of Peoples** renewed the great alliance, and at
+**Elendor** in the Silver Isles the **Seggio di Cristallo** was raised, wherein this very book is
+gathered. **In 2600 d.M.** Helgedad, ever cold of heart, withdrew from what remained of the Empire;
+the Empire, in its mercy, did not compel it. And **in the year of the Maelstrom 2610** came the day
+for which, I confess it, this whole chronicle has been the preparation: the **Church of Mithra
+assumed the government of all Letia**. No sword was drawn. The crown having ascended with the
+blessed Valdis, the crozier stooped and took up what the crown had laid down; and the Empire of
+Letio became, what in God's design it had always been, the patrimony of the faith. Of this
+assumption, and of the holy state it built, I treat at length in my chapter upon Letia.
+
+> ⟡ **IN THE MARGIN (GM)** ⟡
+> *What the Church never wrote about 2610: there was no design, only a vacuum. Forty-seven years
+> with no heir; regents and marcher-lords bleeding the provinces; Helgedad walking out the door in
+> 2600 and none able to say it nay. The Clericato did not receive Letia — it took what no one else
+> could hold, and then spent a generation of scribes recasting the seizure as providence. This
+> friar's own order did the recasting. And beneath even that: the god in whose name the crozier
+> rules is half a borrowed face — the reader of the first chapter's margins knows whose. A
+> theocracy is a very tall building to raise upon a name that other hands have worn.*
+
+The dwarves, our allies of old, had their triumph likewise: **in the Goblin Wars of 2735 to 2740
+d.M.** they retook their great hold of **Naughrith** in the White Mountains, the faithful of Letia
+aiding. But the latter days of the age darkened. I set down the sorrows in their order, for they
+came as chastisements come, one upon another: **in 3015 d.M.**, the Winter of Unrest in Helgedad,
+when the army of the **Lupi** took Nortislong in the Siege of One Day and was thrown back only when
+its generals vanished as mysteriously as they had come; **from 3018 to 3023 d.M.**, the Second War
+of the Waves in the southern seas; **from 3021 to 3024 d.M.**, the War of the Wolves, wherein that
+terror seized near half of Helgedad's isle; and **from 3025 d.M.**, in the Young Kingdoms, the
+great three-sided war that the vulgar call the **Guerra delle Macchine**, wherein Armora, Wald, and
+Zaalesha strove against Vallanya, Caeldir, and Tydriell, and the dark armies of the ancient dragon
+**Gwalgamaur** against them all. Thus did each realm that had strayed from the fold receive its
+scourge in turn; Letia, meanwhile, kept the faith and was kept.
+
+> *Curator's note.* Three corrections. First, the wars were no tidy procession — Waves, then
+> Wolves, then Machines — but a cascade: the dates overlap, and each conflict fed the next,
+> powder-trains of one war lit in the ashes of another. Second, "each realm that had strayed": the
+> scourges fell on secessionist and faithful alike. Third — the omission of the chapter — Letia did
+> not "keep the faith and was kept." Letia was at war. In those same years the Granduke of Armora,
+> **Leonius VonGryffen**, declared the Alto Teocrate of Solanthya corrupt, founded a rival **Chiesa
+> Armorita di Mithra**, accused the Empire — I quote him — of worshipping Ahriman, and took his
+> guns to the border. The Church's own schism, the bitterest in its history, is the one event of
+> the age the Annalist cannot bring himself to date. See his chapter on Letia, where I press the
+> point. — *the Curator*
+
+**In 3026 d.M.** a red moon rose over the world, and quakes and strange tides followed it; and a
+nameless heresiarch at **Ulan-Tang** wrought abominations before an ancient portal; and the
+Teocrate of Letia, the Tecnocrate of Armora, and the Grande Khan of the orcs each read the omen,
+and each armed. Of the heresiarch I say no more in this place; his shame is treated where it
+belongs.
+
+### Of the Era della Marea, Which Is the Age of the Tide
+
+Now I come to the hinge of the latter world, and I write it soberly, for I write of the anger and
+the mercy of God in one event. **In the years about 3025 to 3027 d.M.** certain adventurers — I
+piously decline to name them — took up the six **Reliquie Divine** and stripped the seals from the
+ancient **Rune del Potere**. Whether they knew what they did, God knows. The **isolation of the
+Maelstrom shattered**. Every door of the ancients opened at once across the face of the world; out
+of the great storm swept a tempest of sorcery called ever after **la Marea Stregata**, the
+Bewitched Tide; the barrier about the Isle of Death fell; and the very **prison of the demons
+cracked**. Yet behold the mercy within the anger: the greater part of the demons perished in the
+breaking, and of all the Sovereigns **only three came forth into Ymir** — Asmodeus, Xardas, and
+Masak — though the fugitives, in their coming, dragged up out of the sea a whole drowned country of
+their own kind, the risen continent that sailors will not name. In those same years the Serpent
+**Ouroboros**, eldest of the Great Worms, awoke, and **Alfheim of the elves was unmade** in a
+season — Alfheim the deathless; let no people, reading this, trust in its own antiquity.
+
+> *Curator's note.* Two small honesties. The Annalist "piously declines to name" the adventurers;
+> so does every record in existence — he could not name them if he wished, and piety is cheap where
+> ignorance has paid the bill. And "the prison of the demons cracked" sits awkwardly beside his own
+> Catastrofe, wherein the demons were "pulverised." The Church's catechisms have quietly amended
+> *destroyed* to *bound* over the centuries. The margins, I suspect, know why. — *the Curator*
+
+> ⟡ **IN THE MARGIN (GM)** ⟡
+> *The Tide's true mechanism, in order. The six Reliquie were the seals; the Rune del Potere were
+> what the seals held shut; and the "isolation" the friar mourns — the campana d'isolamento, the
+> bell of quarantine over the whole world — was the last working function of the Adepti's ancient
+> ritual: the thing that kept portals dead, demons out, and Ymir in. Breaking the seals woke
+> Sguardo-sul-Nulla — the Observer, the red moon, first of the sealed Ancient Gods to stir — and
+> the bell did not merely crack, it ceased. The Tide was not a punishment and not a mercy. It was a
+> lock failing, and a door opening from both sides.*
+
+Then followed what the chronicles call **la Nuova Era del Caos, from 3026 to 3260 d.M.** — two
+centuries and a third of tribulation, wherein the world convulsed, the doors stood open, and demons
+and the unquiet dead walked among the living. I will not soften it: the faithful died as the
+faithless died. But I read those years as Scripture reads the furnace — a testing, not an
+abandonment. The peoples endured; the Church held the north as a dyke holds the sea; and the
+Coalition of old, so long a parchment, became again a sword.
+
+And when the furnace cooled there came, **from about 3260 d.M.**, the age in which I am blessed to
+write: **il Nuovo Equilibrio**, the New Balance. The doors are watched now, and the risen continent
+is shunned; the dead keep, for the most part, to their graves. In the west the wayward daughter
+returned: the Granduchess **Vespertina VonGryffen** of Armora was reconciled with holy Letia, and
+their arms joined against the Khans of the orcs — so does God write straight with crooked lines.
+The mariners of the far seas even report that the great Maelstrom itself grows gentler, as though
+the world's oldest wound were at last beginning to close. **I set down this chronicle in the year
+of the Maelstrom 3518**, in the two-hundred-and-fifty-eighth year of the calm, and I read in all of
+it one sentence: the night was long, and the morning is Mithra's.
+
+> *Curator's note.* On the reconciliation: it was a treaty between equals, proposed from the
+> Armorite side and signed under the pressure of a common orcish enemy — a Granduchess's statecraft,
+> not a penitent's return. Vespertina's line rules Armora still, and its church remains its own.
+> One may be glad of a peace without gilding its paperwork. As for the Maelstrom "closing" — read
+> the margin below before you take comfort. — *the Curator*
+
+> ⟡ **IN THE MARGIN (GM)** ⟡
+> *The Equilibrio is not a morning. It is the eye of the storm. The Sohleugir's reports are true —
+> the Maelstrom is weakening — but the Maelstrom is the scar over the seal, and the quarantine of
+> the world, and the friar is watching the prison wall thin and calling it a sunrise. The Ancient
+> Gods are stirring; the Observer's eye is already in the sky; the calm of these two centuries is
+> the held breath between the first crack and the collapse. Every chapter of this book is written
+> inside that breath.*
+
+So end the ages of Ymir, as far as God has unrolled them. What remains of the scroll is His; but a
+chronicler may pray at the foot of the page. *Lord of the Sun, who counted the years before we
+learned to count them: let the calm be long, and let this house of records stand, and let the next
+hand that writes in it be better than mine.* Amen.
+
+---
+*Colophon.* Chapter IV. Narrator: **the Annalist of Solanthya**, Clericato di Mithra (invented
+framing voice; `NARRATORS.md`; he returns for Chapter VI). Drawn from `canon/history.md` (the
+master chronology, all four eras and the Era della Marea), with `canon/factions.md` and
+`canon/characters.md` (the Church, Valdis Nemertine, Vespertina VonGryffen, the unnamed
+adventurers) and, in the margins, `canon/secret-the-great-lie.md` (the theft-ritual, the seven
+Adepts, the campana d'isolamento, the stirring Ancient Gods). Decisions applied: **HIS-1** (present
+≈ 3518 d.M.; the Tide ~3025–27 → Nuova Era del Caos 3026–3260 → Nuovo Equilibrio 3260–~3518),
+**HIS-2** (Leonius then, Vespertina later — succession, not contradiction), **HIS-11** (Helgedad an
+annexed dwarf-and-human kingdom, one decline arc), **HIS-12** (Waves → Wolves → Machines as an
+overlapping cascade — the Annalist's "consecutive chastisements" corrected by the Curator),
+**COS-2** (one Catastrophe seen three ways). **[INVENTED]**: the undated "gathering of the clans"
+founding of Letio (canon gives no year); the theological framing throughout; the catechism's
+*destroyed*→*bound* amendment. All dates and events are canon.

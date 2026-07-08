@@ -32,9 +32,9 @@ is a displacement of this one substance.
 
 **Observation the second: the substance precipitates.** Where the Maelstrom's **Risonanza** beats
 against the world, the Essence settles out as a fine physical sediment called **Arvo** — powdered
-magic, as silt is powdered mountain. The Dark Elves prize it beyond gold, and I do not blame
-them. My Collegio keeps a dram in a case lined with Orihalcum, and I have watched it for twenty
-years the way other women watch the sea.
+magic, as silt is powdered mountain. The Dark Elves prize it beyond gold. My Collegio keeps a
+dram in a case lined with Orihalcum, and I have watched it for twenty years the way other women
+watch the sea.
 
 My first teacher — Xochiyayotl of Xuthal, to whom I owe my method and one persistent headache —
 would tell you that the Essence is **Ech, the One**, a held breath older than the gods, and would
@@ -53,10 +53,10 @@ I leave to the priests, who at least are paid for it.
 
 ### II. Of the Three Realms, and of the Arcane
 
-Practitioners of every stripe we call **Usufruitori** — users, channelers; the word is
-deliberately unromantic. What separates them is not the substance, which is one, but the
-**conduit** through which they draw it. There are **three base realms**, and a fourth thing that
-is not a fourth realm.
+Practitioners of every stripe we call **Usufruitori** — users; the word is deliberately
+unromantic. What separates them is not the substance, which is one, but the **conduit** through
+which they draw it. There are **three base realms**, and a fourth thing that is not a fourth
+realm.
 
 **Essenza** — the realm named for the substance itself, because it draws the Essence *raw* from
 the world: the arcane and elemental tradition, the fireball and the ward, the bread and butter of
@@ -152,32 +152,32 @@ will die surprised. The great vortex lays four hands on our art:
    other until no sane Usufruitore attempts it, which is why no power on Ymir moves armies or
    cargo by spell, and why my harbour-masters still have employment.
 2. **L'Offuscamento.** Divination is clouded. No scrying pierces the Maelstrom itself, and
-   visions grow unreliable in proportion as they reach into the far past or future. Trust no
-   seer who claims otherwise; bill any who insist.
+   visions grow unreliable as they reach into the far past or future. Trust no seer who claims
+   otherwise; bill any who insist.
 3. **Le Tempeste Arcane.** The Central Ocean is periodically wracked by storms of raw magical
-   energy that channel forces from beyond the world. The Sezione's standing order in an Arcane
-   Storm is the same as a sailor's: sea-room, and none of your cleverness.
+   energy channelling forces from beyond the world. The Sezione's standing order in an Arcane
+   Storm is a sailor's: sea-room, and none of your cleverness.
 4. **Il Marchio.** The Maelstrom's energy sometimes touches the unborn, and the **Marchiati**
-   are the result — twisted in body, and gifted in ways that fit no realm cleanly. Most do not
-   survive their villages. Those who reach my Collegio are studied, paid, and — I record it
-   here as policy — protected.
+   are the result — twisted in body, gifted in ways that fit no realm cleanly. Most do not
+   survive their villages. Those who reach my Collegio are studied, paid, and — I record it as
+   policy — protected.
 
-To this grim list the present age has added an exception that has upended everything:
-**the portals**. Understand the distinction, for it is the hinge of our era. The ancient gates —
-the Adepti's own works, and the **Vere Vie** by which the Xebechani revived their network fifteen
+To this grim list the present age has added the exception that has upended everything: **the
+portals**. Understand the distinction, for it is the hinge of our era. The ancient gates — the
+Adepti's own works, and the **Vere Vie** by which the Xebechani revived their network fifteen
 centuries ago — are **fixed-gate constructions**, and the Deflusso does not touch them: the warp
 that ruins free teleportation was never their prison. What held *them* shut was a seal — the
 isolation the chroniclers call the bell — and two years ago that seal broke, and every gate on
 Ymir woke at once. Free translocation remains as ruined as ever; the fixed doors stand open. I
-have therefore recommended to the Granduca that every realm post warders at every known gate, and
-I commend the same to whatever governments read this: **a door that cannot be moved can be
+have therefore recommended to the Granduca that warders be posted at every known gate, and I
+commend the same to whatever governments read this: **a door that cannot be moved can be
 watched**, and had the ancients watched theirs, this book might not have been necessary.
 
 > *Curator's note.* It was necessary. Five hundred years on, the picture is exactly as she drew
 > it: the Deflusso holds, the seers still cannot pierce the vortex, and the gates of the Vere Vie
 > stand open and garrisoned from Elendor to Qi-Long, carrying the trade of the Nuovo Equilibrio.
-> Her "gate-warders," proposed here as an emergency measure, are now so universal an institution
-> that most readers will be startled to learn a single woman had to argue for them. — *the Curator*
+> Her "gate-warders," proposed as an emergency measure, are now so universal an institution that
+> most readers will be startled to learn a single woman had to argue for them. — *the Curator*
 
 ### VI. Of the Regulation of Magic
 
@@ -189,8 +189,8 @@ governance takes two great forms:
 
 - **The Cartosan model.** Every user of Essenza, Mentalismo, or Arcano in the Principality must
   register with the **Ordine Ermetico dei Manti Azzurri** and pay the annual dues, or stand
-  outlaw. Priests are exempt (see Observation on Flusso, above) and nobles are exempt (see human
-  nature). It is a tax collected by wizards from wizards, and it works better than it deserves to.
+  outlaw. Priests are exempt (see Flusso, above) and nobles are exempt (see human nature). A tax
+  collected by wizards from wizards, and it works better than it deserves to.
 - **The Young Kingdoms' model — the permit, Livelli A through D.** We license the *act*, not the
   person: **A** for lawful practice without guild membership; **B** for temporary leave to work
   arts normally forbidden, or to bring a summoned creature within city walls; **C** for the same
@@ -200,7 +200,7 @@ governance takes two great forms:
 And beneath both stands my own house: the **Sezione di Controllo Magico**, Armora's anti-magic
 corps, which takes ordinary soldiers — not one caster among them, by design — and trains them to
 recognise, disrupt, and survive each realm in turn. The S.C.M. is the reason the *Libro Rosso*
-exists; my Collegio supplies the theory, the Sezione the bruises. Lesser colleges call the whole
+exists; my Collegio supplies the theory, the Sezione the bruises. Lesser colleges call the
 enterprise unsporting. They are correct, and that is the point: sport is for duellists, and the
 Essence is not a duel. It is weather, and we are building roofs.
 
@@ -208,21 +208,18 @@ Essence is not a duel. It is weather, and we are building roofs.
 
 The quartermaster's page. Commit these to memory; the examinations are not gentle.
 
-- **Shald** — violet volcanic glass; a living reservoir of Essence that refills itself and can
-  be drained by a working mage. Its refined form, **Actorios**, is the summoner's stone.
+- **Shald** — violet volcanic glass; a living reservoir of Essence that refills itself and can be
+  drained by a working mage. Its refined form, **Actorios**, is the summoner's stone.
 - **Orihalcum** — nullifies all magic, without appeal. An Orihalcum-lined cell is worth forty
   interrogators; the Sezione's manacles have it at the wrist.
-- **Thalaras** — the opposite number: amplifier and conductor of the Essence, and priced
-  accordingly.
-- **Umbra** — a light-devouring material from another world entirely, come to us through the
-  Notturni. It corrupts toward the Dark. We do not stock it. Do not bring me any.
+- **Thalaras** — the opposite number: amplifier and conductor of the Essence, priced accordingly.
+- **Umbra** — a light-devouring material from another world, come to us through the Notturni. It
+  corrupts toward the Dark. We do not stock it. Do not bring me any.
 - **Acciaio Demoniaco** — Demon Steel, which taints its bearer toward Ahriman; and **Acciaio
   Onirico** — Dream Steel, mined beneath the World of Dreams, whose virtue waxes with the
-  bearer's conviction. The one corrupts the faithful and the other rewards them, which tells you
-  most of what you need to know about both.
-- **Polvere Nera** — the dwarves' black powder, whose making no other race has ever
-  reconstructed. Not, strictly, a magical material — and the most closely guarded substance on
-  this list even so.
+  bearer's conviction. The one corrupts the faithful and the other rewards them.
+- **Polvere Nera** — the dwarves' black powder, whose making no other race has reconstructed.
+  Not, strictly, magical — and the most closely guarded substance on this list even so.
 - **Carbone Alchemico** — alchemical coal of Urakron wood, which drives an engine three times as
   long as the common sort. The unglamorous foundation of half of Armora's marvels, and of every
   tram my critics ride to their lectures against magitech.
@@ -236,14 +233,14 @@ remade the world.
 **Masamune**), **Tassalung, Natharien** the Celestial Diadem, and **Oedring** — are not, as the
 ballads already have it, six holy treasures. They are **six seals upon four Rune Magiche**: four
 engines of the Adepti, housed from time immemorial in the Xebechani fortress-city of **Xanadu**,
-and keyed — I have verified the correspondence and record it here with a scholar's shiver — one
-to each realm of magic, the Arcane included. Four Rune; six locks. The Adepti did not build
-half-measures. When the Reliquie were gathered and the Rune unsealed at the dawn of this era,
-that single act was what shattered the Maelstrom's isolation — the unsealing and the breaking of
-the bell are **one event**, whatever the pamphleteers print. I have handled exactly one of the
-six: Meletskar, for the better part of an afternoon, with its bearer's leave and both my hands
-shaking. It is the finest made thing I have ever touched, and I include my own Essenziometri in
-the comparison, which costs me something to write.
+and keyed — I record the correspondence with a scholar's shiver — one to each realm of magic, the
+Arcane included. Four Rune; six locks. The Adepti did not build half-measures. When the Reliquie
+were gathered and the Rune unsealed at the dawn of this era, that single act was what shattered
+the Maelstrom's isolation — the unsealing and the breaking of the bell are **one event**,
+whatever the pamphleteers print. I have handled exactly one of the six: Meletskar, for the better
+part of an afternoon, with its bearer's leave and both my hands shaking. It is the finest made
+thing I have ever touched, and I include my own Essenziometri in the comparison, which costs me
+something to write.
 
 Of **la Porta della Disperazione** — the Door of Despair, with its Forgotten Scrolls and its
 terrible Key — I say only that it is a separate dread, no kin to the Rune, and that I decline to
@@ -255,48 +252,45 @@ the death-god himself and carried by Morannagul of the Gaerwath; the Masamune ab
 demon is imbued and trapped, and its will gnawed its wielder's mind until the greatest axeman of
 his age ended his days a mad hermit on a mountaintop. The case of Tofango is the whole of my
 third chapter in a single life: **corruption is a property of the instrument and the handling,
-not of the man's realm or his virtue** — and no one is exempt, which is why my Sezione registers
-artefacts as diligently as it registers wizards.
+not of the man's realm or his virtue** — which is why my Sezione registers artefacts as
+diligently as it registers wizards.
 
 > *Curator's note.* The unsealing that was two years old when Drusilde wrote is five centuries
 > old as I copy her, and the world it opened is the one we live in. Where the four Rune stand
-> now, and in whose keeping, is matter for the historical chapters — and for arguments I decline
-> to referee here. Her "case of Tofango" is still taught, in her exact words, in every college
-> from Armora to the Accademia she teased. They forgave her. It took a while. — *the Curator*
+> now, and in whose keeping, is matter for the historical chapters. Her "case of Tofango" is
+> still taught, in her exact words, in every college from Armora to the Accademia she teased.
+> They forgave her. It took a while. — *the Curator*
 
 Magic, then, is not a mystery. It is a substance; substances can be measured; and what can be
 measured can be governed. That conviction built my Collegio, armed my Sezione, and wrote this
-book. Yet I will close with the honesty I demand of my students. My old teacher called the
-Essence a held breath, and after forty years of weighing it I cannot prove the old priest wrong —
-only unhelpful. So let the doctrine stand, and let one line of poetry stand beside it: if the
-Essence should prove after all to be a breath, then let us learn, before it exhales, *who is
-breathing*.
+book. Yet I close with the honesty I demand of my students. My old teacher called the Essence a
+held breath, and after forty years of weighing it I cannot prove the old priest wrong — only
+unhelpful. So let the doctrine stand, and one line of poetry beside it: if the Essence should
+prove after all to be a breath, then let us learn, before it exhales, *who is breathing*.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Nearer than she knows, at the last. Her beloved instruments — the meters, the gates, the Rune
 > she venerates as the summit of "magic control" — are the **toys of the usurpers**: the four
 > Rune are Adepti anti-demon weapons, built to scour the spoilage of their own theft, and the
 > "isolation bell" she mourns as a broken protection was **their seal** — the lid the thieves
-> screwed down over the wound, the demons, the gates, and the sleeping gods alike. Six Reliquie,
-> six locks: what the heroes of the Tide performed at Xanadu was not a liberation or a
-> catastrophe but a **key turning**, five thousand years late, in a door the owners never meant
-> to stay shut. Drusilde spent her life perfecting the discipline of watching doors. She never
-> learned that the finest ones were built by the burglars.*
+> screwed down over the wound, the demons, the gates, and the sleeping gods alike. What the
+> heroes of the Tide performed at Xanadu was not a liberation or a catastrophe but a **key
+> turning**, ages late, in a door the owners never meant to stay shut. Drusilde spent her life
+> perfecting the discipline of watching doors. She never learned that the finest were built by
+> the burglars.*
 
 ---
-*Colophon.* Chapter III. Narrator: **Sir Drusilde** of Armora (canon figure of the *Steamclad
-Sky* cycle, `canon/characters.md`; her narratorial voice per `NARRATORS.md`; the treatise-framing,
-personal anecdotes — the handling of Meletskar, the letters to the Accademia, the Xanadu
-verification — and *Libro Rosso* quotations are **[INVENTED]** colour). Dated 3027 d.M. per the
-*Libro Rosso* (`canon/magic.md`, HIS-1); Curator's notes update to the ~3518 present. Drawn from
-`canon/magic.md` (the Essence, mana, Arvo; realms; corruption/CEO; regulation, S.C.M., permits,
-Manti Azzurri; materials; Reliquie, blades), `canon/cosmology.md` (Maelstrom effects, planes,
-Aether/Nether as Essence-states), with `canon/factions.md`, `canon/peoples.md`, and the
-Maraviglie digest for magitech, Polvere Nera, and Carbone Alchemico; margins from
-`canon/secret-the-great-lie.md` (Ech = l'Essenza; the Adepti's machine-worked Essence and
-theft-ritual; Corrupted Essence as spoilage; the Rune as anti-demon weapons and the bell as the
-Adepti's seal). Decisions applied: **MAG-3 = B** (three base realms + Arcano as union),
-**MAG-4** (six Elementi + Storm/Nether/Spectral/Umbra derivations), **MAG-6** (Topramesk's domain
-= the Void; "mana" reserved for the substance), **MAG-7** (fixed gates exempt from the Deflusso),
-**MAG-8** (corruption as a taint-axis, not a realm), **BAT-1 = A** (unsealing the Rune = breaking
-the isolation), **BAT-3** (four Rune, six seals, keyed to the four realms).
+*Colophon.* Chapter III. Narrator: **Sir Drusilde** of Armora (canon figure, `canon/characters.md`;
+narratorial voice per `NARRATORS.md`; the treatise-framing, personal anecdotes — Meletskar, the
+letters to the Accademia — and *Libro Rosso* quotations are **[INVENTED]** colour). Dated 3027
+d.M. per the *Libro Rosso* (`canon/magic.md`, HIS-1); Curator's notes update to the ~3518 present.
+Drawn from `canon/magic.md` (Essence/mana/Arvo; realms; corruption/CEO; regulation, S.C.M.,
+permits, Manti Azzurri; materials; Reliquie, blades), `canon/cosmology.md` (Maelstrom effects,
+planes), with `canon/factions.md`, `canon/peoples.md`, and the Maraviglie digest (magitech,
+Polvere Nera, Carbone Alchemico); margins from `canon/secret-the-great-lie.md` (Ech = l'Essenza;
+the Adepti's machine-worked Essence and theft-ritual; Corrupted Essence as spoilage; the Rune as
+anti-demon weapons, the bell as their seal). Decisions applied: **MAG-3 = B** (three base realms +
+Arcano as union), **MAG-4** (six Elementi + Storm/Nether/Spectral/Umbra derivations), **MAG-6**
+(Topramesk's domain = the Void), **MAG-7** (fixed gates exempt from the Deflusso), **MAG-8**
+(corruption as taint-axis, not a realm), **BAT-1 = A** (unsealing the Rune = breaking the
+isolation), **BAT-3** (four Rune, six seals, keyed to the four realms).

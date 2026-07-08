@@ -20,13 +20,11 @@
 
 ### A GOLDEN AGE, AND WE CAN PROVE IT
 
-Citizens! Compilers! Honoured foreign readers who have never smelled proper coal-fog in your lives!
-
-You hold the finest gazette of the finest city of the finest league of nations upon Ymir: the **Regni Giovani**, the Young Kingdoms — eighty-five million souls, human and dwarf and Sohleugir together, freer, richer, and better-lit than anywhere else on the map. The wars are long over. The trams run to the minute. The Equilibrio, whatever the priests meant by it, has meant for us **two and a half centuries of uninterrupted commerce**, and if that is not a golden age the Strillone should like to know what colour it is.
+Citizens! Compilers! Honoured foreign readers who have never smelled proper coal-fog in your lives! You hold the finest gazette of the finest league of nations upon Ymir: the **Regni Giovani** — eighty-five million souls, human and dwarf and Sohleugir together, freer, richer, and better-lit than anywhere else on the map. The wars are long over. The trams run to the minute. The Equilibrio, whatever the priests meant by it, has meant for us **two and a half centuries of uninterrupted commerce**, and if that is not a golden age the Strillone should like to know what colour it is.
 
 ### HOW WE GOT FREE — A REFRESHER FOR THE YOUNG
 
-Once upon a time (2200–2230, in the **War of the Princes**) our great-grandsires looked at the tired old Impero Letio, with its incense and its Inquisitors and its tax-collectors in vestments, and said: *no, thank you.* Thus the Young Kingdoms — young then, magnificent now. Ever since, every dreamer, tinkerer, heretic, and honest fortune-hunter the Empire squeezes out has come south to us, and we have put them all to work. The scholars call what followed a **Rinascimento Magico**. We call it Tuesday: constructs hauling freight, alchemists advertising in these very pages, magic rediscovered, licensed, and *billed by the hour*.
+Once upon a time (2200–2230, in the **War of the Princes**) our great-grandsires looked at the tired old Impero Letio, with its incense, its Inquisitors, and its tax-collectors in vestments, and said: *no, thank you.* Thus the Young Kingdoms — young then, magnificent now. Ever since, every dreamer, tinkerer, heretic, and honest fortune-hunter the Empire squeezes out has come south to us, and we have put them all to work. The scholars call what followed a **Rinascimento Magico**. We call it Tuesday: constructs hauling freight, magic rediscovered, licensed, and *billed by the hour*.
 
 ### YOUR NEIGHBOURS, BRIEFLY AND FAIRLY
 
@@ -42,8 +40,8 @@ Once upon a time (2200–2230, in the **War of the Princes**) our great-grandsir
 > *Curator's note.* "The late unpleasantness with the dragon" is the *Strillone*'s entire account of
 > the fall of the Wald — a kingdom overrun in a season by the hosts of **Gwalgamaur** at the opening
 > of the Guerra delle Macchine (3025), its embassies massacred, its succession extinguished. The
-> dwarves who endure beneath the old halls are indeed "different"; the honest word is *changed*,
-> and it is treated in its proper chapter. Newspapers bury what churches burn. — *the Curator*
+> dwarves beneath the old halls are indeed "different"; the honest word is *changed*, and it is
+> treated in its proper chapter. Newspapers bury what churches burn. — *the Curator*
 
 ### FIVE CENTURIES OF VONGRYFFEN — STEAM IN THE BLOOD
 
@@ -52,21 +50,20 @@ What is Armora? A **Granducato**, and the happiest argument for hereditary rule 
 **Iulius VonGryffen IV, "il Pacificatore,"** who ended the old border wars and taught the city to bank. **Vhorinne the Foundress**, who raised the Arcano Ordine degli Artefici and lit the first Leyden lamp. **Leonius I, "the Schismatic"** — il Tecnocrate, as he was styled — who looked at the corruption of Solanthya's Alto Teocrate, said *no, thank you* (it runs in the family), founded our own honest **Chiesa Armorita di Mithra**, and defended the city through the whole of the Great War. **Vespertina, "the Peacemaker,"** who ended that war, reconciled us with Letia against the common orc, and gave the age its calm. And so, gloriously uninterrupted, down to Her present Radiance the **Granduchessa Serafina VonGryffen II, "la Magnifica,"** under whose portrait this edition is respectfully printed and whose Permit Office is a model of efficiency.
 
 > *Curator's note.* The reader should supply what five centuries of loyal typesetting omit: the
-> "Schism" was a mutual excommunication and a shooting war with the Empire, in which the Granduca's
-> party and Solanthya's each accused the other of serving Ahriman; and "the Peacemaker" made her
-> peace over the ashes the war left. Elsewhere in this book the succession is told less warmly, but
-> — I concede — no more accurately. The present Granduchessa is, by every account I can obtain,
-> exactly as efficient as her Permit Office. — *the Curator*
+> "Schism" was a mutual excommunication and a shooting war, in which the Granduca's party and
+> Solanthya's each accused the other of serving Ahriman; and "the Peacemaker" made her peace over
+> the ashes that war left. The present Granduchessa is, by every account I can obtain, exactly as
+> efficient as her Permit Office. — *the Curator*
 
 ### THE SEVEN DISTRICTS, IN ONE TRAM RIDE
 
-Board at the palace, alight at the future. **Città Alta**, where the Palazzo Ducale keeps the fog respectfully below its balconies. **Distretto Militare**, barracks and parade-brass, home of our incorruptible S.C.M. **Città Nuova**, where the Accademia di Studi Elementali teaches lightning its manners. **Distretto Mercantile**, banks, exchanges, and the Casino (the Strillone neither confirms nor denies its debts there). **Città Bassa**, our district of — hospitality. **Ghetto Nanico**, the dwarven quarter and the House of the Council, where the best beer and the straightest talk in Armora are poured in the same rooms. And the **Zona Industriale**, seat of the Gilda degli Artefici, where the sky glows all night and your correspondent keeps his presses. Seven districts, seven wonders, one city.
+Board at the palace, alight at the future. **Città Alta**, where the Palazzo Ducale keeps the fog respectfully below its balconies. **Distretto Militare**, barracks and parade-brass, home of our incorruptible S.C.M. **Città Nuova**, where the Accademia di Studi Elementali teaches lightning its manners. **Distretto Mercantile** — banks, exchanges, the Casino (the Strillone neither confirms nor denies its debts there). **Città Bassa**, our district of — hospitality. **Ghetto Nanico**, the dwarven quarter and the House of the Council, where the best beer and the straightest talk in Armora are poured in the same rooms. And the **Zona Industriale**, seat of the Gilda degli Artefici, where the sky glows all night and your correspondent keeps his presses. Seven districts, one city.
 
 ### PROGRESS MARCHES ON EIGHT LEGS!
 
 The Gilda's new cargo-walker took its first stroll down the Corso this month — eight legs, forty tons, and not a single crushed spectator, which is the kind of statistic that built this city. And it walks in famous company:
 
-**STEAM-TRAMS**, running since before your grandmother complained about them. The **AERONAVE SERVICE**, our airship packets — because long-range teleportation remains (as the Collegio politely puts it) *statistically discouraging*, and the reopened gates of the ancients go only where the ancients wanted to go, the future of honest freight is the airship, and the future is punctual. The **NAUTILO**, pride of the fleet, which visits the fishes on the city's behalf. **ORNITHOPTERS** for the sporting gentleman (see advertisement below). **LEYDEN-JAR AUTOMATA** in bronze, tireless in the mills. The **ESSENZIOMETRO** in every prudent counting-house, ringing its little bell the instant anyone works magic near the strongbox. And the great **war-mechs** — the beloved bronze **YonkerMecha**, named for the celebrated dwarf artificer, which stood between this city and the horde and now stands, garlanded, in the Piazza delle Scienze.
+**STEAM-TRAMS**, running since before your grandmother complained about them. The **AERONAVE SERVICE**, our airship packets — because long-range teleportation remains (as the Collegio politely puts it) *statistically discouraging*, and the reopened gates of the ancients go only where the ancients wanted to go, the future of honest freight is the airship, and the future is punctual. The **NAUTILO**, pride of the fleet, which visits the fishes on the city's behalf. **ORNITHOPTERS** for the sporting gentleman (see advertisement). **LEYDEN-JAR AUTOMATA**, tireless in the mills. The **ESSENZIOMETRO** in every prudent counting-house, ringing its bell the instant anyone works magic near the strongbox. And the great **war-mechs** — the beloved bronze **YonkerMecha**, named for the celebrated dwarf artificer, which stood between this city and the horde and now stands, garlanded, in the Piazza delle Scienze.
 
 As for the persistent rumour of steel walkers of quite another temper — the many-legged **"Uccisori Meccanici"** your uncle swears he saw in the war — the Strillone reminds its readers that the Gilda has *never* licensed such a pattern, and that unlicensed things do not, officially, exist.
 
@@ -78,12 +75,11 @@ As for the persistent rumour of steel walkers of quite another temper — the ma
 > the war, whose workshops bound demons into steel centipedes and raised **ghoul meccanici** from
 > honest corpses, and whose masterwork, the **Macchina della Resurrezione**, drank the blood and
 > souls of the living to wake the dead. The vampire Leonard was destroyed and walked again by that
-> machine's grace. It was never found. It was never destroyed. Beneath the optimism, the necromantic
-> machine; the Strillone prints by its light and does not know it.*
+> machine's grace. It was never found. It was never destroyed.*
 
 ### DREAM RESPONSIBLY, CITIZENS
 
-The **Oniroscopio** — the Collegio's celebrated dream-engine — remains the marvel of the age and the ruin of the careless. Licensed dream-parlours in Città Nuova will show you the Mondo dei Sogni for a fistful of marks: gardens no gardener planted, cities of brass, skies you will not describe at breakfast. The Palace asks us to remind readers: *patronise licensed parlours only*, observe the posted waking-times, and report any establishment promising "the deeper shores." Eleven tourists last season did not observe the posted waking-times. The Strillone wishes their families every comfort.
+The **Oniroscopio** — the Collegio's celebrated dream-engine — remains the marvel of the age and the ruin of the careless. Licensed dream-parlours in Città Nuova will show you the Mondo dei Sogni for a fistful of marks: gardens no gardener planted, cities of brass, skies you will not describe at breakfast. The Palace asks us to remind readers: *patronise licensed parlours only*, observe the posted waking-times, and report any establishment promising "the deeper shores." Eleven tourists last season did not observe the waking-times. The Strillone wishes their families every comfort.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The Oniroscopio is not a projector; it is a door. What the parlours sell as scenery is **La Terra
@@ -107,16 +103,16 @@ Other lands fear their wizards or worship them. Armora *files* them. Behold the 
 
 ### THE LATE UNPLEASANTNESS — A CIVIC REMEMBRANCE
 
-Five centuries past (3025, say the plaques), the Young Kingdoms fell out among themselves — Armora, the Wald, and Zaalesha on the one part; Vallanya, Caeldir, and Tydriell on the other — and while the brothers quarrelled, a third party ancient and golden invited itself to the estate. The histories call it the **Guerra delle Macchine**. The Strillone's founders called it circulation. We prefer to remember the heroism: the YonkerMecha line unbroken before the gates; the airship pickets over Forra Gelida; the Frecce d'Argento, who did not come back from the Bosco di Rhems; the day the fog itself seemed to stand with the city. The dragon is gone. The city is not. Print that on the monument.
+Five centuries past (3025, say the plaques), the Young Kingdoms fell out among themselves — Armora, the Wald, and Zaalesha on the one part; Vallanya, Caeldir, and Tydriell on the other — and while the brothers quarrelled, a third party ancient and golden invited itself to the estate. The histories call it the **Guerra delle Macchine**. The Strillone's founders called it circulation. We prefer to remember the heroism: the YonkerMecha line unbroken before the gates; the airship pickets over Forra Gelida; the Frecce d'Argento, who did not come back from the Bosco di Rhems. The dragon is gone. The city is not. Print that on the monument.
 
 **"MERE SUPERSTITION," SAYS PALACE.** — And while we are remembering: to the perennial whisper that the ancients buried a **Runa Magica** — a "rune of power," no less — beneath this very city, and another under lost Waldenheim, and that this is what the dragon truly came for, the Office of the Granduchessa replies, as it has replied for five hundred years: *mere superstition, unworthy of a modern people.* The Strillone concurs, and reminds treasure-diggers that the sewers are patrolled.
 
 > *Curator's note.* Set beside the annals, the Remembrance page is a marvel of subtraction: three
 > armies became "a quarrel among brothers," and the war that opened the Era della Marea became an
-> anniversary. The regional wars of those years — Meridian's, Helgedad's, and this one — fell like
-> dominoes, each feeding the next; the Strillone's ancestors covered all three and connected none
-> of them. As for the Palace's denial, I note only that it has been issued, unprompted, annually,
-> for five hundred years. — *the Curator*
+> anniversary. The wars of those years — Meridian's, Helgedad's, and this one — fell like dominoes,
+> each feeding the next; the Strillone's ancestors covered all three and connected none of them.
+> As for the Palace's denial, I note only that it has been issued, unprompted, annually, for five
+> hundred years. — *the Curator*
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The Palace lies, and knows it lies. The Rune are real: two of the Adepti's four buried
