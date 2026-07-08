@@ -6,9 +6,9 @@
 > *Curator's note.* This chapter cost me eleven years of correspondence. The Loremaster
 > consented on two conditions: that not one word of his be altered, and that I "annotate as
 > the brief peoples must, in the white spaces left over." I have honoured both. Be warned:
-> what follows is learned, exact in its dates, and partisan to the marrow — the Gaerwath's
-> telling, by a servant of the Dark-Elf throne. Where his kin would tell it otherwise — and
-> they would, at nearly every turn — I have set their voices in my notes. — *the Curator*
+> what follows is learned, exact in its dates, and partisan to the marrow. Where his kin
+> would tell it otherwise — and they would, at nearly every turn — I have set their voices
+> in my notes. — *the Curator*
 
 ---
 
@@ -81,11 +81,10 @@ it.
 > race's saviour, not its usurper — fought so that the elves would not await their Messenger
 > with whips in their hands; Alfheim was refuge, not larceny. The **Illuminati** answer both
 > camps in one sentence I have never bettered: *"They went to war over the address of
-> paradise."* And a point of order the Loremaster nowhere concedes: these are **creeds, not
-> breeds**. The three sub-races — **Alti** (High), **Silvani** (Sylvan), and **Grigi** (Grey,
-> who are the Sea elves) — are found in *all three* factions; there is no bodily difference
-> between a Light Elf and a Dark one, and a Grey sailor may be Chiari, Oscuri, or nothing at
-> all. The Sundering runs through the elven soul, not the elven blood. — *the Curator*
+> paradise."* And a point of order: these are **creeds, not breeds**. The three sub-races —
+> **Alti** (High), **Silvani** (Sylvan), **Grigi** (Grey, who are the Sea elves) — are found
+> in *all three* factions; there is no bodily difference between a Light Elf and a Dark one.
+> The Sundering runs through the elven soul, not the elven blood. — *the Curator*
 
 **Of the Gaerwath itself, our exile and our empire.** The name in our tongue means the **Sea
 of Sorcery**, and it earns it: islands wrapped in seas that lie to compasses and eat the
@@ -198,25 +197,23 @@ as such things are measured. It will be remembered.
 > elven heaven — he is the Adepti's custodian-king, a living weapon set to guard this world's
 > secrets. When the Tide flung the old doors open, the Chiari's long vigil became, in an
 > instant, a **beacon** — a whole nation calling* Home? Home? *down the reopened ways toward
-> Tchyo. The custodian did what custodians do to unauthorised signals: he silenced it. That
-> the Gaerwath rang bells only proves no one on Ymir understood what had been prevented.
+> Tchyo. The custodian did what custodians do to unauthorised signals: he silenced it.
 > Second, and worse: the prophecy has the direction of travel wrong. Doors open both ways.
 > Something is indeed moving on the far side of them — the rumour-name "Shulma" is real, and
-> growing — but the elves were not exiled from Tchyo, they were* hunted *off it, and a
-> Messenger is not the only thing that follows a fleeing people's trail once the road
-> reopens. The cruellest question on Ymir is the one every elf answers by creed and none by
-> evidence: is it the way home — or the hunt, resumed?*
+> growing — but the elves were* hunted *off Tchyo, and a Messenger is not the only thing
+> that follows a fleeing people's trail once the road reopens. The cruellest question on
+> Ymir is the one every elf answers by creed and none by evidence: is it the way home — or
+> the hunt, resumed?*
 
 ---
 *Colophon.* Chapter XI. Narrator: **Aelryn Vhaeloth i-Celeblyar** of the Gaerwath (invented
 framing voice; `NARRATORS.md` — his person, his "Drowned Athenaeum," his reign-year dating,
 and the Curator's tavern Nemyel are **[INVENTED]** furniture around canon). Drawn from
-`canon/peoples.md` (Niethel/La Fonte, the Sin and Exile, the prophecy, the Discordia schism,
-~200-year mortality, and the Dark-Elf order: Elar/Nemyel/Kelvar, Lyar/Nath/Gash, Hyrul, the
-five concubines, Valrin Forces, Arvo); `canon/geography.md` (the Gaerwath "Sea of Sorcery,"
-undersea roads and magic bridges, Alfheim/Ost-en-Galad); `canon/factions.md` (the five
-sorcerous factions); `canon/history.md` (arrival in the Demon Wars, Discordia ~800 d.M.,
-Second Elven War 2080–2115, unification 2550, Alfheim's fall in the Tide and resettlement,
+`canon/peoples.md` (Niethel, the Sin/Exile/prophecy, the schism, ~200-year mortality, the
+Dark-Elf order: Elar/Nemyel/Kelvar, Lyar/Nath/Gash, Hyrul, the five concubines, Valrin
+Forces, Arvo); `canon/geography.md` (Gaerwath, Alfheim/Ost-en-Galad); `canon/factions.md`
+(the five sorcerous factions); `canon/history.md` (arrival in the Demon Wars, Discordia
+~800 d.M., Second Elven War 2080–2115, unification 2550, Alfheim's fall in the Tide,
 the Prophecy/Shulma, present ≈ 3518 d.M.); `canon/pantheon.md` (Niethel, Valrin, Myethel);
 margins from `canon/secret-the-great-lie.md`. Decisions applied: **RAC-3/4/5** (factions
 Chiari/Illuminati/Oscuri orthogonal to sub-races Alti/Silvani/Grigi = the Sea elves);

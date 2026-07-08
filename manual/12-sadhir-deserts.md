@@ -36,11 +36,11 @@ salt.
 
 **Then the Wheel turned, as it must, and the sea died.** Your annalists call it **il Grande
 Prosciugamento**, the Great Drying, and set it near the year 2400 after the Maelstrom. I will not
-tell you what caused it, because I do not know, and the Rakhama'i are forbidden the comfort of
-inventing. In a generation the mirror clouded, shrank, and crusted; the fish became memory; the
-islands became hills in a plain of white; the hundred kingdoms became one ruin with a hundred
-doors. Ask me if this was a catastrophe and I will answer: it was a turning. The sea exhaled.
-Whether it will one day inhale again is a question I put to my students to keep them humble.
+tell you what caused it; I do not know, and the Rakhama'i are forbidden the comfort of inventing.
+In a generation the mirror clouded, shrank, and crusted; the fish became memory; the islands became
+hills in a plain of white; the hundred kingdoms became one ruin with a hundred doors. Was it a
+catastrophe? It was a turning. The sea exhaled. Whether it will one day inhale again is a question
+I put to my students to keep them humble.
 
 > **[Yusuf al-Marrah objects.]** *It was the end of the world. Write that down plainly, since she
 > will not. My ancestor Harrun al-Marrah kept the harbour-book at Tuleph in those years: the
@@ -84,11 +84,10 @@ the **Gash-Azr** — the Shadows of Salt, cloaked and masked in the old Sadhirit
 nothing behind the mask but darkness and salt. They drink the water of the body and leave the rest
 folded neatly, like laundry.
 
-> **[Yusuf al-Marrah objects.]** *One correction: she omits the largest thing in her own desert —
-> the leviathan that swims the sands as a fish swims water, whose wake is a storm. Caravan-masters
-> do not omit it. Caravan-masters who omit things are dead. Also: the Gash-Azr wear* our *masks
-> and haunt* our *ruins. Even our ghosts are the under-kingdom's. I note the Sultanate has never
-> once been haunted by anything it built itself.*
+> **[Yusuf al-Marrah objects.]** *She omits the largest thing in her own desert — the leviathan
+> that swims the sands as a fish swims water, whose wake is a storm. Caravan-masters who omit
+> things are dead. Also: the Gash-Azr wear* our *masks and haunt* our *ruins. Even our ghosts are
+> the under-kingdom's; the Sultanate has never once been haunted by anything it built itself.*
 
 **Above the ruin, in the age that followed, my people rose** — the **Sarradhi**, Those Who Walk
 the Cycle. We are matriarchal, mystical, and patient, and we built the **Great Sultanate** not on
@@ -137,12 +136,11 @@ not dig for, and I commend our example to every relic-hunter reading this.
 
 **Now cross with me out of the salt, eastward and inland, into the second desert** — for the
 traveller must not confuse them, though both are thirsty. The **Grande Erg** is sand, true sand, a
-dry sea that was never a wet one in any turning I can read; and it is not ours. The Sultanate's
-writ fades where the salt does. I speak of the Erg as a guest speaks of a neighbour's house:
-politely, briefly, and without going upstairs. There are nomads there, and caravans, and raiders,
-and the **Distesa Arida** where even those give out; and there is the **Zaar'Qrak**, the Rending
-Death, six-limbed and nocturnal, of which the Erg-folk say: if you have seen one, finish the
-sentence in the next life.
+dry sea that was never a wet one; and it is not ours — the Sultanate's writ fades where the salt
+does. I speak of the Erg as a guest speaks of a neighbour's house: politely, briefly, and without
+going upstairs. There are nomads there, and caravans, and raiders, and the **Distesa Arida** where
+even those give out; and there is the **Zaar'Qrak**, the Rending Death, six-limbed and nocturnal,
+of which the Erg-folk say: if you have seen one, finish the sentence in the next life.
 
 > **[Yusuf al-Marrah objects.]** *At last, my own office. I have crossed the Erg forty-one times;
 > her people cross it seldom and badly, sitting a camel like a sack of grievances. Consider

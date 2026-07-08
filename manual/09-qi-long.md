@@ -40,15 +40,15 @@ They say the six **woke**. What wakes has slept; what has slept has dreamed; wha
 remembers. No man can say what the six remember. Many have died of it.
 
 Some whisper the six are not even deathless — that when one falls, a successor takes the name, and
-the name does not grieve. Names that outlive their bearers are the oldest tyranny of all.
+the name does not grieve.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The old men are exact. The six woke — roughly 1900–1920 d.M., as Mah-Dhol came down — and were
-> not born, for they were made long before: six of the twenty **Veri Draghi**, living superweapons
-> the **Adepti** engineered to stand warden over their makers' buried secrets. The six that hold
-> the Qi-Long are the six that kept their post. Understand what that makes the "resistance to the
-> dragons": mortals — themselves the Adepti's crafted children — at war with their makers'
-> watchdogs, neither side knowing whose yard they fight in. See `secret-the-great-lie.md`.*
+> not born: they were made long before, six of the twenty **Veri Draghi**, living superweapons the
+> **Adepti** engineered to stand warden over their makers' buried secrets. The six that hold the
+> Qi-Long are the six that kept their post. So the "resistance to the dragons" is mortals —
+> themselves the Adepti's crafted children — at war with their makers' watchdogs, neither side
+> knowing whose yard they fight in. See `secret-the-great-lie.md`.*
 
 ### The Third Stage — the Spire del Pianto, Where the Lie Lives Underground
 
@@ -139,11 +139,11 @@ The pilgrim notes only that of six creeds, theirs alone requires the dawn.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Consider what the lotus-bearers pray toward. The six wardens have an elder — apex of all the
-> Veri Draghi, above loyal and rogue alike: **Ouroboros**, the True Dragon God. He has woken once
+> Veri Draghi, above loyal and rogue alike: **Ouroboros**, the True Dragon God, who has woken once
 > already, in the Era della Marea, and **Alfheim** burned for it. If the "god not yet of this
 > world" is the lost Vero Dio Drago, the Mongooses keep a vigil. If it is Ouroboros — or if those
-> were ever two names for one appetite — they are kneeling on a fuse. Hope and doom answer to the
-> same bell here. The Hawks' suspicion is the sanest sentence in the Qi-Long.*
+> were ever two names for one appetite — they are kneeling on a fuse. The Hawks' suspicion is the
+> sanest sentence in the Qi-Long.*
 
 ### The Eighth Stage — the Capitale della Luce, and What Is Under It
 
@@ -207,16 +207,15 @@ There is a walk the perfected make, the **Cammino dell'Illuminato** itself, and 
 made it: through the Darkness of Nightmare and the Doubt of Illusion, through the tearing of the
 last Veil; past the faceless judge whose scale is broken, where you must accept an unjust judgment
 to pass. Then the spiral: six sanctuaries, one to each elemental divinity, each bearing a
-confession. *Sacrificing ourselves on our own altar, we bent the laws of the Cosmos to our will,*
-says the blue marble of **Hudemia**. *Life itself we enslaved, and it bowed at our feet,* says the
-obsidian of **Therios**. *Drawing on the Astral fire, in our Forge we recreated the Essence,* says
-the ruby of **Diis**. Only when every altar is turned toward a mirror that is not there does the
-seventh sanctuary open, whose confession is entire: *we broke every Law, posing as Legislators; we
-created empty simulacra, pretending they were alive; cracking the walls of the World, we were
-possessed by the elements; in our immense Arrogance we defiled the perfection of the Essence.*
-Beyond waits the Great Library of forbidden truth, whose guardian says: *better to live in the
-darkness of ignorance than perish in the flame of a terrible knowledge.* The pilgrim read one page.
-He will not say which. He walks more slowly since.
+confession. *Life itself we enslaved, and it bowed at our feet,* says the obsidian of **Therios**.
+*Drawing on the Astral fire, in our Forge we recreated the Essence,* says the ruby of **Diis**.
+Only when every altar is turned toward a mirror that is not there does the seventh sanctuary open,
+whose confession is entire: *we broke every Law, posing as Legislators; we created empty simulacra,
+pretending they were alive; cracking the walls of the World, we were possessed by the elements; in
+our immense Arrogance we defiled the perfection of the Essence.* Beyond waits the Great Library of
+forbidden truth, whose guardian says: *better to live in the darkness of ignorance than perish in
+the flame of a terrible knowledge.* The pilgrim read one page. He will not say which. He walks more
+slowly since.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Set the spiral's six divinities beside the six Dei-Drago and the correspondence is exact,
@@ -232,12 +231,12 @@ He will not say which. He walks more slowly since.
 
 *Between six fires, do not warm yourself, and do not curse the burning. Walk.*
 
-The pilgrim went out as he came in, over the pass. Behind him the stalemate ground on as it has
-ground for sixteen hundred years: six gods, each certain, none sufficient; six societies, each
-dying by inches so that others may die more slowly; nine hundred millions planting rice between the
-battle-lines, because rice does not care who is divine. The Qi-Long is not a war. A war ends. The
-Qi-Long is a weather. The pilgrim came to the bridge; the bridge asked nothing; and that, of
-everything east of the mountains, was the only mercy that asked no tribute in return.
+The pilgrim went out as he came in, over the pass. Behind him the stalemate ground on as it has for
+sixteen hundred years: six gods, each certain, none sufficient; six societies dying by inches so
+that others may die more slowly; nine hundred millions planting rice between the battle-lines,
+because rice does not care who is divine. The Qi-Long is not a war. A war ends. The Qi-Long is a
+weather. The pilgrim came to the bridge; the bridge asked nothing; and that, of everything east of
+the mountains, was the only mercy that asked no tribute in return.
 
 > *Curator's note.* One matter I record without judgment. A colleague versed in eastern ciphers
 > observes that the pilgrim's maxims scan, every one, in the courier-meter of the **Mastri Cantori**

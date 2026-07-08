@@ -38,8 +38,7 @@ Storms come off the world's middle that are not weather. What they touch, change
 ones span a man's arms. The great ones run to ten metres, and I have seen one open a fishing boat
 the way you open a mussel. Sign: furrows up from the tide-line, a wet-glass glitter at dusk. Hunt
 the small ones from land, with barbed lines and patience. Do not hunt the great ones. Worth: the
-shell, which is why men die for them — armourers pay a farm for a whole one. Legendary harness
-comes of it. So do widows.
+shell — armourers pay a farm for a whole one. Legendary harness comes of it. So do widows.
 
 **Ibridi.** The general name for what the Maelstrom's storms make of living things. No two alike.
 Two rules keep you alive: count the joints — too many, leave. Look at the eyes — wrong number, or
@@ -164,8 +163,8 @@ country was ever worth the tanning.
 
 **Demons.** Spirits corrupted whole and sworn to the Evil. Here they cannot well hide what they
 are — the greater the demon, the worse the shape fits. The learned rank them in six Circles,
-weakest first. A first-Circle thing can be killed by hard men with good spears and a priest who
-does not run. By the fourth, you burn the village to save the parish. Of the sixth: I have seen
+weakest first. A first-Circle thing dies to hard men, good spears, and a priest who does not run.
+By the fourth, you burn the village to save the parish. Of the sixth: I have seen
 ground where one stood, years after, and nothing grows there and nothing ever will. Above the six
 they say *beyond the Circles*, and mean the Sovereigns.
 
@@ -183,7 +182,7 @@ you meet one, your book is done. Give this one to someone who lived.
 > its law was always: none cross unless summoned. The Tide broke that law once. When the isolation
 > shattered, the crack hurled the Sovereigns at the crossing unsummoned, and the crossing killed
 > most of them; a single exception, not a new rule, and the cell resealed around the lesser
-> legions. So the ledger stands: the Circles still cross only by summoning; the dead Sovereigns are
+> legions. The ledger now: the Circles still cross only by summoning; the dead Sovereigns are
 > dead — save that a Sovereign only truly dies when its essence is unmade, and no one audited the
 > essences — and three came through whole. Asmodeus, Xardas, and Masak have walked Ymir five
 > centuries, and demons that cannot hide what they are have not been seen. Consider what that says
@@ -194,8 +193,7 @@ you meet one, your book is done. Give this one to someone who lived.
 **Drakes, wyverns, and the lesser serpents.** Dragonkind, but mortal about it. Huntable. Barely.
 A wyvern is winged malice with a sting; a drake is a forge with legs. Take them at the nest-cliff
 in moult, with ballistae, poisoned carcasses, and more men than your pride wants. Worth: hide,
-teeth, and glands enough to pay off a farm — fitting, as the beast has usually eaten one. I say
-again: barely.
+teeth, and glands enough to pay off a farm — fitting, as the beast has usually eaten one.
 
 **The Veri Draghi.** There are twenty. This is not a hunting entry. This is a warning.
 

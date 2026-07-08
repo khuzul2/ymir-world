@@ -21,13 +21,13 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 *(Here the diary carries a sketch: a flat horizon, a tall blue smudge upon it, and in the corner a small defiant brigantine, drawn very much farther away than the scale would strictly allow. — the Curator)*
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *Under the blue wall lies **Ragash**, the Adepti's drowned capital, and the storm is the scar of
-> their working — the seven under Topramesk, cutting the seal on the Ancient Gods into the flesh of
-> the world. That is why the needle fails: near the scar everything leans toward the tear — iron,
-> Essence, prayer, sight. The compass does not break; it tells the truth, and the truth is that the
-> deepest wrong in the world sits that way. The "isolation bell" shattered when the Tide came, near
-> five hundred years gone; the storm outlived its purpose, and what it guarded is no longer entirely
-> in. Topramesk keeps his door there still, in the Dreamlands of Ragash. Sail wide.*
+> *Under the blue wall lies **Ragash**, the Adepti's drowned capital; the storm is the scar of
+> their working — the seven under Topramesk, cutting the seal on the Ancient Gods into the world's
+> flesh. That is why the needle fails: near the scar everything leans toward the tear — iron,
+> Essence, prayer, sight. The compass does not break; it tells the truth about where the deepest
+> wrong in the world sits. The "isolation bell" shattered when the Tide came; the storm outlived
+> its purpose, and what it guarded is no longer entirely in. Topramesk keeps his door there still,
+> in the Dreamlands of Ragash. Sail wide.*
 
 **Fourteenth of Salamandra. Coast of Letia; wind northerly and cold; a church on every headland.** Raised the spires of **Solanthya** at thirty leagues — gilded, ranked like masts in a rich harbour, the bells reaching you over the water before the land does. The sacred North: the **Impero Letio**, the Church of Mithra's own empire, marches and baronies past counting, three hundred million souls under the Teocrate. A priest blessed my cargo at the mole whether it wished it or not; the coin is church-minted and good; grain and salt fish cheap. Rules for masters: fly nothing they could take for a dark-elf pennant, ship no orcs, and keep your theology in the forepeak — one may not profess a strange god ashore, and they ask. They are at war with Armora over which Mithra is the true one, which is the sort of question the sea never asks. Two missionaries worked their passage south with us; they were sick from Solanthya to the ice.
 
@@ -43,12 +43,11 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The fog is a **veil of the Terra dei Sogni** — Dreamlands-stuff, weather of the Spirit World,
-> drawn over Kyria when the island shut itself away in the years of the Mists. Kyria was untouched
-> by the Catastrofe, and something intends it to stay untouched: the veil does not hide the island
-> so much as keep it **asleep and dreaming safely**. The crew's shared dream was the veil reading
-> them — turning their sleeping souls over like papers at a border, and, finding nothing it wanted,
-> sending them gently away. Those it does want, it keeps. Ask in Thonis, if you ever stand there,
-> how the refugees arrived. None of them came by ship.*
+> drawn over Kyria in the years of the Mists. Kyria was untouched by the Catastrofe, and something
+> intends it to stay untouched: the veil does not hide the island so much as keep it **asleep and
+> dreaming safely**. The crew's shared dream was the veil reading them — turning their sleeping
+> souls over like papers at a border and, finding nothing it wanted, sending them gently away.
+> Those it does want, it keeps. Ask in Thonis how the refugees arrived. None came by ship.*
 
 **Fifth of Chimera. South down the western rim; heat returning; sand on the wind a day before the land.** Made **Sathe**, the caravan port under the **Grande Erg** — the last honest water before the sand takes over. Here the camel-masters load for **Ulan-Tang** on the river Tang and for **Khorish**, and here is my rule for every young master: carry any cargo *to* Sathe, and none past it. Ulan-Tang is a spider-god's town now, five coloured houses and the **Loto Nero** trade; Khorish is worse — the **Regno dei Faraoni Eterni**, where the pharaoh has been dead longer than my family has had a name, and dead men do the hauling, and the wages ashore are not paid in anything you would want. The Erg's dunes come down to the tide-line gold as a cheat's smile. Watered, traded, gone.
 
@@ -82,12 +81,12 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *It rose when the Sovereign Demons' prison cracked in the Tide: not land of Ymir at all, but a
-> slice of the demon-world itself, dragged up through the breach as the prison drowned its
-> escapers. Most of the legions died in the crossing. Three Sovereigns did not: **Asmodeus.
-> Xardas. Masak.** The still fires the lookouts counted were watching him back; the bruise in the
-> sky is the seam where two skies overlap and neither will yield. The sailor's instinct is the
-> whole of the wisdom here: it is a continent; grant it sea-room; and note that in five hundred
-> years it has not grown — patience, in such a neighbour, being the worst news of all.*
+> slice of the demon-world, dragged up through the breach. Most of the escaping legions died in
+> the crossing. Three Sovereigns did not: **Asmodeus. Xardas. Masak.** The still fires the
+> lookouts counted were watching him back; the bruise in the sky is the seam where two skies
+> overlap and neither will yield. The sailor's instinct is the whole wisdom here: it is a
+> continent; grant it sea-room; and in five hundred years it has not grown — patience, in such a
+> neighbour, being the worst news of all.*
 
 **First of Grifone, 3517. Cartosa roads on the morning tide; two years less eight days out; all hands, less none.** And a puzzle for the academies, free of charge: my log, faithfully kept, stands **one day short** of the harbour-master's calendar. We lost no day. We sailed with the sun around a round world, and the world kept the difference. Twelve thousand leagues of wake by the log-line, and the *Bendata* asks only paint. I have seen the whole ring now — the sacred North and the frozen one, the smoking coast, the dreaming fog, the sands, the sorcery, the six dragons, the city in the air, and the two shores I will not name twice — and the best water on Ymir is the water off my own island. Every sailor says so of his own. Every sailor is right.
 
@@ -97,18 +96,15 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 
 ---
 *Colophon.* Chapter V. Narrator: **Ramiro Estioca** of Cartosa (invented framing voice; `NARRATORS.md`),
-his sea-diary of the circumnavigation of 3515–3517. Drawn from `canon/geography.md` (the globe, the
-Central Ocean and Maelstrom, and the ring of regions: Letia, Helgedad, the Regni Giovani, Kyria, the
-Grande Erg/Ulan-Tang/Khorish, the Sadhir, Cartosa & Meridian, the Isole d'Argento, the Gaerwath,
-Alfheim, Qi-Long, Xebech & Loquitchatzotech, the Isola dei Demoni), `canon/cosmology.md` (Tempeste
-Arcane, Offuscamento, Deflusso, the Marchiati), `canon/history.md` (the Tide, the portals' reopening,
-Alfheim's fall and resettlement — as remembered history), `canon/factions.md`, `canon/peoples.md`,
-`canon/economy.md` (per-region monies), `canon/calendar.md` (months and d.M. dating), and
-`sources/maps/README.md` (the 3518 geographical map as the diary's cartographic issue); margins from
-`canon/secret-the-great-lie.md` (Ragash and the seal's scar; the Dreamlands veil; the risen
-demon-continent and the three Sovereigns). Decisions applied: **GEO-13** (Ymir a globe; the risen
-land written as a continent), **GEO-8** (Solanthya = Letia's capital-seat and map-label), **GEO-9**
-(Meridian an island-republic, in passing), **GEO-10** (Grande Erg and Sadhir kept distinct),
-**META-2** (region-specific currencies). [INVENTED]: the brigantine *La Bendata*, her crew,
-itinerary, dates, distances, and sketches; **Sathe** as the Erg's caravan port (the name is a canon
-map-label; the role is gap-fill); the sailors' by-name *il Gorgo*; all weather.
+his sea-diary of the circumnavigation of 3515–3517. Drawn from `canon/geography.md` (globe, Central
+Ocean, Maelstrom, and the ring of regions), `canon/cosmology.md` (Tempeste Arcane, Offuscamento, the
+Marchiati), `canon/history.md` (the Tide, the portals' reopening, Alfheim's fall — as remembered
+history), `canon/factions.md`, `canon/peoples.md`, `canon/economy.md` (per-region monies),
+`canon/calendar.md` (months, d.M. dating), and `sources/maps/README.md` (the 3518 geographical map
+as the diary's cartographic issue); margins from `canon/secret-the-great-lie.md` (Ragash and the
+seal's scar; the Dreamlands veil; the risen demon-continent and the three Sovereigns). Decisions
+applied: **GEO-13** (globe; the risen land written as a continent), **GEO-8** (Solanthya = Letia's
+capital-seat and map-label), **GEO-9** (Meridian an island-republic, in passing), **GEO-10** (Grande
+Erg and Sadhir kept distinct), **META-2** (region-specific currencies). [INVENTED]: the brigantine
+*La Bendata*, her crew, itinerary, dates, distances, and sketches; **Sathe** as the Erg's caravan
+port (canon map-label, gap-fill role); the by-name *il Gorgo*; all weather.
