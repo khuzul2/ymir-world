@@ -51,8 +51,7 @@ oldest tyranny of all.
 > the **Adepti** engineered to stand warden over their makers' buried secrets. The six that hold
 > the Qi-Long are the six that kept their post. Understand what that makes the "resistance to the
 > dragons": mortals — themselves the Adepti's crafted children — at war with their makers'
-> watchdogs, neither side knowing whose yard they fight in. See `secret-the-great-lie.md`,
-> `bestiary.md`.*
+> watchdogs, neither side knowing whose yard they fight in. See `secret-the-great-lie.md`.*
 
 ### The Third Stage — the Spire del Pianto, Where the Lie Lives Underground
 
@@ -145,13 +144,12 @@ superstition; the Golden Hawks whisper darker, that the Mongooses are some enemy
 The pilgrim notes only that of all six creeds, theirs is the one that requires the dawn.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *Consider what the lotus-bearers are actually praying toward. The six wardens have an elder — the
-> apex of all the Veri Draghi, above loyal and rogue alike: **Ouroboros**, the True Dragon God. He
-> has woken once already, in the Era della Marea, and **Alfheim** burned to the waterline for it.
-> If the "god not yet of this world" is the lost Vero Dio Drago, the Mongooses keep a vigil. If it
-> is Ouroboros — or if those were ever two names for one appetite — they are kneeling on a fuse.
-> Hope and doom answer to the same bell here. The Hawks' suspicion is the sanest sentence in the
-> Qi-Long.*
+> *Consider what the lotus-bearers pray toward. The six wardens have an elder — apex of all the
+> Veri Draghi, above loyal and rogue alike: **Ouroboros**, the True Dragon God. He has woken once
+> already, in the Era della Marea, and **Alfheim** burned for it. If the "god not yet of this
+> world" is the lost Vero Dio Drago, the Mongooses keep a vigil. If it is Ouroboros — or if those
+> were ever two names for one appetite — they are kneeling on a fuse. Hope and doom answer to the
+> same bell here. The Hawks' suspicion is the sanest sentence in the Qi-Long.*
 
 ### The Eighth Stage — the Capitale della Luce, and What Is Under It
 
@@ -206,49 +204,48 @@ else. Manners.
 
 Of his own order's way the pilgrim will say what novices are told. That **Fato**, Fate, is the road
 and not the walker: the road does not compel your feet, it only outlasts your refusals. That the
-**Essenza** is water and every god is a jar, and the jars quarrel over which of them is wet. That
+**Essenza** is water and every god a jar, and the jars quarrel over which of them is wet. That
 there are **Tre Reami**, Three Realms, and with them **il più Antico** — "the most Ancient" — of
 whom the teaching says only: *the Three Realms together with the most Ancient shine with a Wisdom
 not their own.* And that magic is the **seventh** — older than the six, older than their madness,
 glowing with its own enchantment, borrowed by all and owned by none.
 
 There is a walk the perfected make, the **Cammino dell'Illuminato** itself, and the pilgrim has
-made it: through the Darkness of Nightmare, through the Doubt of Illusion, through the tearing of
-the last Veil; past the faceless judge whose scale is broken, where you are judged with unjust
-judgment and must accept the verdict to pass. Then the spiral: six sanctuaries, one to each
-elemental divinity, each bearing a confession in the first person plural. *Sacrificing ourselves on
-our own altar, we bent the laws of the Cosmos to our will,* says the blue marble of **Hudemia**.
-*Life itself we enslaved, and it bowed at our feet,* says the obsidian of **Therios**. *Drawing on
-the Astral fire, in our Forge we recreated the Essence,* says the ruby of **Diis**. Only when every
-altar is turned toward a mirror that is not there does the seventh sanctuary open, and its
-confession is entire: *we broke every Law, posing as Legislators; we created empty simulacra,
-pretending they were alive; cracking the walls of the World, we were possessed by the elements; in
-our immense Arrogance we defiled the perfection of the Essence.* Beyond waits the Great Library of
-forbidden truth, and its guardian's voice, which says: *better to live in the darkness of ignorance
-than perish in the flame of a terrible knowledge.* The pilgrim read one page. He will not say
-which. He walks more slowly since.
+made it: through the Darkness of Nightmare and the Doubt of Illusion, through the tearing of the
+last Veil; past the faceless judge whose scale is broken, where you are judged with unjust judgment
+and must accept the verdict to pass. Then the spiral: six sanctuaries, one to each elemental
+divinity, each bearing a confession in the first person plural. *Sacrificing ourselves on our own
+altar, we bent the laws of the Cosmos to our will,* says the blue marble of **Hudemia**. *Life
+itself we enslaved, and it bowed at our feet,* says the obsidian of **Therios**. *Drawing on the
+Astral fire, in our Forge we recreated the Essence,* says the ruby of **Diis**. Only when every
+altar is turned toward a mirror that is not there does the seventh sanctuary open, whose confession
+is entire: *we broke every Law, posing as Legislators; we created empty simulacra, pretending they
+were alive; cracking the walls of the World, we were possessed by the elements; in our immense
+Arrogance we defiled the perfection of the Essence.* Beyond waits the Great Library of forbidden
+truth, whose guardian says: *better to live in the darkness of ignorance than perish in the flame
+of a terrible knowledge.* The pilgrim read one page. He will not say which. He walks more slowly
+since.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Set the spiral's six divinities beside the six Dei-Drago and the correspondence is exact,
 > element for element — Diis to the fire-throne of Cenere, Hudemia to the drowned kingdom, Therios
 > to the serpent under the Spires, Varshnak to the ice-queen, Heis to the dead wind of the Foresta,
 > Dingir — light and shadow both, mark the twin — to the Capital. The "confession" is no parable:
-> it is the Adepti's own indictment in their own plural voice — the simulacra posing as the living,
-> the Essence remade in a Forge, the cracked walls of the World. The monks of the Cammino recite
-> the truth of the Great Lie nightly and have footnoted it into harmlessness. The pilgrim read one
+> it is the Adepti's indictment in their own plural voice — simulacra posing as the living, the
+> Essence remade in a Forge, the cracked walls of the World. The monks of the Cammino recite the
+> truth of the Great Lie nightly and have footnoted it into harmlessness. The pilgrim read one
 > page. Watch what he does next.*
 
 ### The Last Stage — Leaving by the Same Wound
 
 *Between six fires, do not warm yourself, and do not curse the burning. Walk.*
 
-The pilgrim went out as he came in, over the pass, past the bridge that asked nothing. Behind him
-the stalemate ground on as it has ground for sixteen hundred years: six gods, each certain, none
-sufficient; six societies, each dying by inches so that others may die more slowly; nine hundred
-millions planting rice between the battle-lines, because rice does not care who is divine. The
-Qi-Long is not a war. A war ends. The Qi-Long is a weather. The pilgrim came to the bridge; the
-bridge asked nothing; and that, of everything east of the mountains, was the only mercy that asked
-no tribute in return.
+The pilgrim went out as he came in, over the pass. Behind him the stalemate ground on as it has
+ground for sixteen hundred years: six gods, each certain, none sufficient; six societies, each
+dying by inches so that others may die more slowly; nine hundred millions planting rice between the
+battle-lines, because rice does not care who is divine. The Qi-Long is not a war. A war ends. The
+Qi-Long is a weather. The pilgrim came to the bridge; the bridge asked nothing; and that, of
+everything east of the mountains, was the only mercy that asked no tribute in return.
 
 > *Curator's note.* One matter I record without judgment. A colleague versed in eastern ciphers
 > observes that the pilgrim's maxims scan, every one, in the courier-meter of the **Mastri

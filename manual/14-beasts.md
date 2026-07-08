@@ -152,9 +152,9 @@ raging spirit is weather with a grudge. Cold hollows where birds will not sing: 
 
 **Elementals.** From wisps you could cup in two hands, up rank by rank — servants, mounts,
 guardians, giants, the true ones — to the Signori Elementali, one lord to each element. The small
-ones are a mage's errand-runners. The great ones are the weather deciding to have opinions about
-you in person. There is no hunting entry for a thing that is also the river. Make the offering
-your grandmother taught you and cross somewhere else.
+ones are a mage's errand-runners. The great ones are the weather taking a personal interest.
+There is no hunting entry for a thing that is also the river. Make the offering your grandmother
+taught you and cross somewhere else.
 
 **Djinn.** Made things — a spirit given substance and fixed to a place, an object, or a task, so
 it cannot sour. Jann to Marid, weakest to greatest. Mannerly, if you are. They keep their word to
@@ -167,70 +167,68 @@ country was ever worth the tanning.
 **Demons.** Spirits corrupted whole and sworn to the Evil. On our side of the walls they cannot
 well hide what they are — the greater the demon, the worse the shape fits. The learned rank them
 in six Circles, weakest first. A first-Circle thing can be killed by hard men with good spears and
-a priest who does not run. By the fourth, you burn the village to save the parish. Of the sixth I
-will say: I have seen the ground where one stood, years after, and nothing grows and nothing ever
-will. Above the six they say *beyond the Circles*, and mean the Sovereigns.
+a priest who does not run. By the fourth, you burn the village to save the parish. Of the sixth:
+I have seen ground where one stood, years after, and nothing grows there and nothing ever will.
+Above the six they say *beyond the Circles*, and mean the Sovereigns.
 
 **The Demoni Sovrani.** Nineteen names in the old lists, each with a title and a mark — the black
 dragon of Asmodeus, Lord of Tyranny; the spiderweb of Xardas, called the Puppeteer; the mask of
-Masak, Lord of Illusions; the coin, the dagger, the bull's skull, and the rest. I list them as
-legend, because legend is what keeps farmboys from drawing the marks in charcoal for a dare. Most
-are dead. Ea of the Abysses was unmade long ago; Saxul of the Fevers after him; and when their
-prison cracked in the age of the Tide, the greater part of the rest died in the breaking — so the
-priests swear, and for once I hope the priests are right. Three walk: Asmodeus. Xardas. Masak.
-There is no sign to read, no season, no worth. If you meet one, your book is done. Give this one
-to someone who lived.
+Masak, Lord of Illusions; the coin, the dagger, the bull's skull, the rest. I list them as legend,
+because legend is what keeps farmboys from drawing the marks in charcoal for a dare. Most are
+dead. Ea of the Abysses was unmade long ago; Saxul of the Fevers after him; and when their prison
+cracked in the age of the Tide, the greater part of the rest died in the breaking — so the priests
+swear, and for once I hope the priests are right. Three walk: Asmodeus. Xardas. Masak. There is no
+sign to read, no season, no worth. If you meet one, your book is done. Give this one to someone
+who lived.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The prison is the Adepti's oldest cell — the pocket of Corrupted Essence men call Inferno — and
-> its law was always: none may cross unless summoned. The Tide broke that law once. When the
-> isolation shattered, the crack hurled the Sovereigns at the crossing all at once, summoned by
-> no one, and the crossing itself killed most of them; that is the "mass death" his priests report,
-> and it was the one exception, not a new rule. The cell resealed around the lesser legions. So the
-> ledger now stands: the Circles still cross only by summoning; the dead Sovereigns are truly dead
-> — save that a Sovereign is only truly dead when its essence is unmade, and no one audited the
-> essences — and three came through whole. Asmodeus, Xardas, Masak have been on Ymir for five
-> centuries, and demons that cannot hide what they are have not been seen. Consider what that means
-> about where they are standing.*
+> its law was always: none cross unless summoned. The Tide broke that law once. When the isolation
+> shattered, the crack hurled the Sovereigns at the crossing all at once, summoned by no one, and
+> the crossing killed most of them — the "mass death" the priests report was the one exception,
+> not a new rule, and the cell resealed around the lesser legions. So the ledger stands: the
+> Circles still cross only by summoning; the dead Sovereigns are dead — save that a Sovereign only
+> truly dies when its essence is unmade, and no one audited the essences — and three came through
+> whole. Asmodeus, Xardas, and Masak have been on Ymir for five centuries, and demons that cannot
+> hide what they are have not been seen. Consider what that says about where they are standing.*
 
 ### DRAGONS LAST
 
 **Drakes, wyverns, and the lesser serpents.** Dragonkind, but mortal about it. Huntable. Barely.
 A wyvern is winged malice with a sting; a drake is a forge with legs. Take them at the nest-cliff
 in moult, with ballistae, poisoned carcasses, and more men than your pride wants. Worth: hide,
-teeth, and glands enough to pay off a farm — which is fitting, as the beast has usually eaten one.
-I say again: barely.
+teeth, and glands enough to pay off a farm — fitting, as the beast has usually eaten one. I say
+again: barely.
 
 **The Veri Draghi.** There are twenty. This is not a hunting entry. This is a warning.
 
-I have tracked everything that walks, and I will tell you what forty years taught me: the True
-Dragons do not track like animals. An animal wants food, a mate, its own ground, and you can read
-all three in the mud. A True Dragon wants something I have no word for. They *watch*. Nothing
-honest watches like that. Gwalgamaur il Dorato sleeps in Wald and the Young Kingdoms pay him the
-courtesy of silence. Nihoggr the Solitary lies under the Helgedad ice, and the Nortmaar do not
-fish certain lakes. In the east the Qi-Long kneel to six of them as Dei-Drago, gods in dragon
-flesh — and having stood once, far off, downwind of a god's shadow, I will not argue the word.
-And above them all the eastern priests set Ouroboros, the True Dragon God, who in the age of the
-Tide rose and unmade Alfheim entire. A country. In days.
+I have tracked everything that walks, and forty years taught me this: the True Dragons do not
+track like animals. An animal wants food, a mate, its own ground, and you can read all three in
+the mud. A True Dragon wants something I have no word for. They *watch*. Nothing honest watches
+like that. Gwalgamaur il Dorato sleeps in Wald, and the Young Kingdoms pay him the courtesy of
+silence. Nihoggr the Solitary lies under the Helgedad ice, and the Nortmaar do not fish certain
+lakes. In the east the Qi-Long kneel to six of them as Dei-Drago, gods in dragon flesh — and
+having stood once, far off, downwind of a god's shadow, I will not argue the word. Above them all
+the eastern priests set Ouroboros, the True Dragon God, who in the age of the Tide rose and unmade
+Alfheim entire. A country. In days.
 
 I crossed a valley below Wald where the Golden One had once been thorough. Sixty years before,
-they told me. The stone of the riverbed was glass. The soil was ash under a hand's-width of new
-dirt, and no tree in the valley was older than the fire. There was game sign at the valley's rim,
-and none — none — below it: sixty years, and the animals still would not go down. An old man on
-the ridge farm had seen it as a boy, from where we stood. He would only speak of it in a whisper,
-as if the sky kept accounts. Learn from the beasts, as a hunter should. Stay out of the valley.
+they told me. The riverbed stone was glass. The soil was ash under a hand's-width of new dirt, and
+no tree in the valley was older than the fire. There was game sign at the rim and none — none —
+below it: sixty years, and the animals still would not go down. An old man on the ridge farm had
+seen it as a boy, from where we stood; he spoke of it only in a whisper, as if the sky kept
+accounts. Learn from the beasts, as a hunter should. Stay out of the valley.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The huntsman's instinct is exactly right, and better than the scholars' books: the True Dragons
 > are not animals. They are the Adepti's living superweapons — twenty engineered custodians set
 > over Ymir to guard its secrets, charged to watch for any people climbing too near the Truth, and
-> to burn the ladder. That is the wanting he has no word for, and why nothing honest watches like
-> that. Most drifted from the charge into agendas of their own; the six Dei-Drago of Qi-Long alone
-> kept the faith, which is why they behave most like gods and least like beasts. Above loyalist and
-> rogue alike stands Ouroboros — the apex of the design, "Leviathan" his element and not a
-> twenty-first dragon — and Alfheim died because the wardens' king judged that someone there had
-> climbed too high. When a True Dragon watches you, somewhere an old protocol is deciding whether
-> you are prey. Prey is the better outcome.*
+> to burn the ladder. That is the wanting he has no word for. Most drifted from the charge into
+> agendas of their own; the six Dei-Drago of Qi-Long alone kept the faith, which is why they
+> behave most like gods and least like beasts. Above loyalist and rogue alike stands Ouroboros —
+> the apex of the design, "Leviathan" his element, not a twenty-first dragon — and Alfheim died
+> because the wardens' king judged that someone there had climbed too high. When a True Dragon
+> watches you, an old protocol is deciding whether you are prey. Prey is the better outcome.*
 
 That is the book. If a beast is not in it, I did not meet it, or I met it and it is why the
 writing stops. Kill clean. Waste nothing. Know what you are killing. The Long Road is long;

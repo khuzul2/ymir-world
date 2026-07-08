@@ -88,12 +88,11 @@ and in that year **Helgedad** too was gathered into the fold.
 
 The demons, meanwhile, were not idle. **In 1570 d.M.** the Sovereign **Ea**, Lord of the Abysses,
 being loosed by mischance, sought the world's throne through the abominable **Culto dell'Ostrica
-Blu**; he was cast down and his essence destroyed — the first of the Sovereigns to be slain, God be
+Blu**; he was cast down and his essence destroyed — the first of the Sovereigns slain, God be
 praised. Evidence multiplying that others of his kind survived and schemed, the peoples were
 summoned to counsel: **about 1700 d.M.** the **First Council of Peoples** convened, and **in 1735
-d.M.** the **Coalizione delle Genti** was sworn, the peoples binding themselves each to each
-against the Sovereign Demons. Two hundred years of peace followed — the longest the fallen world
-has known — and with them the Dark Days end.
+d.M.** the **Coalizione delle Genti** was sworn against the Sovereign Demons. Two hundred years of
+peace followed — the longest the fallen world has known — and with them the Dark Days end.
 
 > *Curator's note.* The Annalist's passive voice — "the peoples were summoned" — is a small
 > masterpiece. It was the **Xebechani** who summoned them; the First Council convened under
@@ -106,14 +105,13 @@ has known — and with them the Dark Days end.
 Peace is a loan, and the interest fell due. **Between 1900 and 1920 d.M.** the heathen empire of
 **Mah-Dhol** in the Qi-Long fell asunder into six kingdoms, and there appeared the **Dei-Drago**,
 the Dragon-Gods, whom the east worships to this day; I record it and do not envy it. Far heavier
-was the scourge that came upon us: **from 2015 to 2030 d.M.** the Great Horde of the orcs under
-**Uglush**, called the Supreme, broke upon the eastern marches of Letio, and those provinces —
-lost, I will not write; say rather *held in captivity* — became the **Regni Belligeranti**, the
-Belligerent States, where the Khans squabble upon Letian bones. And as if the wound wanted salt,
-**in the years 2200 to 2230 d.M.**, in the War of the Princes, certain southern lords whom the
-Empire had raised, armed, lettered, and loved took occasion of a disputed succession to renounce
-their obedience; and these style themselves the **Regni Giovani**, the Young Kingdoms. Ingratitude
-is also an inheritance.
+was the scourge upon us: **from 2015 to 2030 d.M.** the Great Horde of the orcs under **Uglush**,
+called the Supreme, broke upon the eastern marches of Letio, and those provinces — lost, I will not
+write; say rather *held in captivity* — became the **Regni Belligeranti**, where the Khans squabble
+upon Letian bones. And as if the wound wanted salt, **in the years 2200 to 2230 d.M.**, in the War
+of the Princes, certain southern lords whom the Empire had raised, armed, lettered, and loved took
+occasion of a disputed succession to renounce their obedience; and these style themselves the
+**Regni Giovani**, the Young Kingdoms. Ingratitude is also an inheritance.
 
 > *Curator's note.* The Young Kingdoms remember being taxed, garrisoned, and passed among imperial
 > claimants like a purse, and their secession as the founding of everything they are; their own
@@ -129,10 +127,9 @@ that victory **Valdis Nemertine, last heir of the throne of Letia, gave up her l
 has never doubted where to place her: among the martyrs, first of the age.
 
 > *Curator's note.* A martyr she was; but the host that broke Saxul was gathered of many peoples —
-> elves, dwarves, southerners, and worse-credentialed folk than that — a fact the Annalist's
-> "victory of the Empire's God" gently retires. And mark the words *last heir*. The throne of Letia
-> stood empty from that day. Remember the emptiness; the Annalist is about to build something on
-> it. — *the Curator*
+> elves, dwarves, southerners, and worse-credentialed folk — a fact the Annalist's triumph gently
+> retires. And mark the words *last heir*: the throne of Letia stood empty from that day. Remember
+> the emptiness; the Annalist is about to build something on it. — *the Curator*
 
 ### Of the New Days, and the Assumption of Holy Rule
 
@@ -142,18 +139,18 @@ gathered. **In 2600 d.M.** Helgedad, ever cold of heart, withdrew from what rema
 the Empire, in its mercy, did not compel it. And **in the year of the Maelstrom 2610** came the day
 for which, I confess it, this whole chronicle has been the preparation: the **Church of Mithra
 assumed the government of all Letia**. No sword was drawn. The crown having ascended with the
-blessed Valdis, the crozier stooped and took up what the crown had laid down; and the Empire of
-Letio became, what in God's design it had always been, the patrimony of the faith. Of this
-assumption, and of the holy state it built, I treat at length in my chapter upon Letia.
+blessed Valdis, the crozier stooped and took up what the crown had laid down; and the Empire became,
+what in God's design it had always been, the patrimony of the faith. Of this assumption, and of the
+holy state it built, I treat in my chapter upon Letia.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *What the Church never wrote about 2610: there was no design, only a vacuum. Forty-seven years
 > with no heir; regents and marcher-lords bleeding the provinces; Helgedad walking out the door in
 > 2600 and none able to say it nay. The Clericato did not receive Letia — it took what no one else
-> could hold, and then spent a generation of scribes recasting the seizure as providence. This
-> friar's own order did the recasting. And beneath even that: the god in whose name the crozier
-> rules is half a borrowed face — the reader of the first chapter's margins knows whose. A
-> theocracy is a very tall building to raise upon a name that other hands have worn.*
+> could hold, then spent a generation of scribes recasting the seizure as providence. This friar's
+> own order did the recasting. And beneath even that: the god in whose name the crozier rules is
+> half a borrowed face — the reader of the first chapter's margins knows whose. A theocracy is a
+> tall building to raise on a name that other hands have worn.*
 
 The dwarves, our allies of old, had their triumph likewise: **in the Goblin Wars of 2735 to 2740
 d.M.** they retook their great hold of **Naughrith** in the White Mountains, the faithful of Letia

@@ -145,25 +145,25 @@ not surface, we do not dig for, and I commend our example to every relic-hunter 
 
 **Now cross with me out of the salt, eastward and inland, into the second desert** — for the
 traveller must not confuse them, though both are thirsty. The **Grande Erg** is sand, true sand, a
-dry sea that was never a wet one in any turning I can read; and it is not ours. The Sultanate's writ
-fades where the salt does. I speak of the Erg as a guest speaks of a neighbour's house: politely,
-briefly, and without going upstairs. There are nomads there, and caravans, and raiders, and the
-**Distesa Arida** where even those give out; and there is the **Zaar'Qrak**, the Rending Death,
-six-limbed and nocturnal, of which the Erg-folk say: if you have seen one, finish the sentence in
-the next life.
+dry sea that was never a wet one in any turning I can read; and it is not ours. The Sultanate's
+writ fades where the salt does. I speak of the Erg as a guest speaks of a neighbour's house:
+politely, briefly, and without going upstairs. There are nomads there, and caravans, and raiders,
+and the **Distesa Arida** where even those give out; and there is the **Zaar'Qrak**, the Rending
+Death, six-limbed and nocturnal, of which the Erg-folk say: if you have seen one, finish the
+sentence in the next life.
 
-> **[Yusuf al-Marrah objects.]** *At last, my own office. I have crossed the Erg forty-one times
-> and my house has crossed it for centuries; her people cross it seldom and badly, sitting a camel
-> like a sack of grievances. Two powers matter there. **Ulan-Tang** on the river Tang: a free city
-> once, and holy — the river was sacred to **Ishtar**, and my ledgers still carry contracts sworn
-> in her name — until the sorcerers of **Yogh** took it. Now the spider-god's High Priest,
-> **Sazar-Gadash**, rules by right of having murdered his predecessor Azim-Mulath, and they say
-> worse of his parentage. There are no city guards. There are the five great houses instead —
-> **Gadash** in violet, **Ishra** in red, **Tyarreth** in olive, **Miraz** in blue, **Gaib** in
-> black — and their private knives; there is the **Loto Nero**, which I do not carry; there is the
-> **Night Market**, which I do not attend and you should not ask why; and behind all of it the
-> **Conclave delle Ombre**, the **Azar-Kalish**, whose sign is the spider and whose invoices are
-> paid in lives. I trade there because one must. I count my fingers after every handshake.*
+> **[Yusuf al-Marrah objects.]** *At last, my own office. I have crossed the Erg forty-one times;
+> her people cross it seldom and badly, sitting a camel like a sack of grievances. Two powers
+> matter there. **Ulan-Tang** on the river Tang: a free city once, and holy — the river was sacred
+> to **Ishtar**, and my ledgers still carry contracts sworn in her name — until the sorcerers of
+> **Yogh** took it. Now the spider-god's High Priest, **Sazar-Gadash**, rules by right of having
+> murdered his predecessor Azim-Mulath, and they say worse of his parentage. There are no city
+> guards. There are the five great houses instead — **Gadash** in violet, **Ishra** in red,
+> **Tyarreth** in olive, **Miraz** in blue, **Gaib** in black — and their private knives; there is
+> the **Loto Nero**, which I do not carry; there is the **Night Market**, which I do not attend and
+> you should not ask why; and behind it all the **Conclave delle Ombre**, the **Azar-Kalish**,
+> whose sign is the spider and whose invoices are paid in lives. I trade there because one must. I
+> count my fingers after every handshake.*
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The scribe thinks Ulan-Tang's spider is a local usurper-god. The Sarradhi think it a demon. The
@@ -176,18 +176,17 @@ the next life.
 
 Of **Khorish** I will speak, since my colleague's hand is shaking too hard to hold the pen. It
 names itself the **Regno dei Faraoni Eterni**, the Kingdom of the Eternal Pharaohs; its founder
-**Athmokethepek I** united the tribes of the Erg eleven turnings of a long life ago — the years
-2160 to 2180, as your annals count — and he rules it still, with his wife **Nefthi** beside him,
-neither of them having consented to die. Their monuments are raised by the dead: a necromantic
-corvée, in which the labourer's obligation to the crown survives the labourer. You wish me to be
-horrified. I will disappoint you. The Wheel's verdict on Khorish is colder than horror: they have
-not escaped the turning, they have only stopped their own place on the rim, and a stopped wheel is
-not a saved one. It is a broken one. Everything they fear is still coming; it is merely coming
-slowly enough for them to watch.
+**Athmokethepek I** united the tribes of the Erg in the years 2160 to 2180, as your annals count,
+and he rules it still, with his wife **Nefthi** beside him, neither of them having consented to
+die. Their monuments are raised by the dead: a necromantic corvée, in which the labourer's
+obligation to the crown survives the labourer. You wish me to be horrified. I will disappoint you.
+The Wheel's verdict on Khorish is colder than horror: they have not escaped the turning, they have
+only stopped their own place on the rim, and a stopped wheel is not a saved one. It is a broken
+one. Everything they fear is still coming; it is merely coming slowly enough for them to watch.
 
 > **[Yusuf al-Marrah objects.]** *Cold comfort from a cold-blooded scholar. I have seen the corvée.
-> I have watched a dead woman carry water-jars along the third terrace of a tomb that will never be
-> occupied, because its owner declines to need it, and I recognised the gait of a porter I had
+> I have watched a dead woman carry water-jars along the terrace of a tomb that will never be
+> occupied, because its owner declines to need it — and I recognised the gait of a porter I had
 > hired living, twenty years before, and paid, and liked. Her contract, you see, had not expired.
 > That is Khorish: a kingdom where death does not end your employment. My house's rule is three
 > generations old and unbroken — we carry no cargo to Khorish that can be made to work.*

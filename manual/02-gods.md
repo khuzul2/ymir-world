@@ -12,7 +12,7 @@
 
 ---
 
-To the honest reader, greetings, and the light of whatever lamp you read by.
+To the honest reader, greetings, and good light to read by.
 
 I am asked to set down the gods of Ymir, all of them, in order — a task, my Abbess observed,
 best given to a man too cheerful to know it is impossible. I accept the charge and the insult
@@ -20,22 +20,21 @@ together. Understand first the custom that makes my science possible: **on Ymir 
 what the schoolmen call monolatry.** No one doubts the many gods exist; but each soul
 *worships* one alone, honouring that god as the truest face of the **Absolute** which contains
 all the others. The fisherman does not deny Thurms; he prays to Orum, because Orum is the face
-the sea shows *him*. Our clergy are never asked to work wonders in the market square to prove
-the gods real; nobody needs proving to. Ymir's quarrel has never been *whether* the gods are,
-but *which* face of the One a decent person ought to kneel to. I have spent my life suspecting
-the answer is: any of them, honestly knelt to. You will see how far the suspicion carries, and
-where it stumbles.
+the sea shows *him*. No cleric here is asked to work wonders to prove the gods real; nobody
+needs proving to. Ymir's quarrel has never been *whether* the gods are, but *which* face of the
+One a decent person ought to kneel to. I have spent my life suspecting the answer is: any of
+them, honestly knelt to. You will see how far the suspicion carries, and where it stumbles.
 
 **Begin, as the common creed begins, with the Two.** In the telling printed by the Church of
 Mithra — and told, with small furniture moved about, from Letia to Cartosa — **Mithra the
 Creator** is eldest and first, Lord of the Sun and Light, and *Ech, the One* merely His oldest
-name, worn before time. His is the golden sun; His the Aether, the bright breath of creation;
-His are justice, peace, healing, and the patient work of making. Against Him — and, the creed
+name, worn before time. His the golden sun; His the Aether, the bright breath of creation;
+His justice, peace, healing, and the patient work of making. Against Him — and, the creed
 insists, *from* Him, as shadow is from light — stands **Ahriman the Corruptor**: the black sun,
 Supreme God of Evil, bearer of the **999 Plagues**, lord of the Nether, of war, disease, and
 unmaking. Neither can end the other. Solanthya's theologians have written libraries on why the
 Creator permits His adversary; the best answer I ever heard came from a midwife of the Seamark:
-you cannot have an inhale without an exhale. I have never improved on her.
+you cannot have an inhale without an exhale.
 
 > *Curator's note.* The reader who began at the beginning will notice that Xochiyayotl, in
 > Chapter I, tells it the other way about: Ech first and impersonal, the Two struck from its
@@ -76,9 +75,9 @@ never say "lesser" inside their temples, for several are greater *in cult* than 
 the taxonomy measures cosmic seniority, not the length of the processions. As my tables hold
 them:
 
-- **Ishtar**, the Mother Goddess — Moon, Love, and also War, which surprises only those who
-  have never been in love. Wife of Mithra. Sign: the silver moon — the *faithful* moon, I must
-  now say, since a redder one took to wandering our sky (of which, patience).
+- **Ishtar**, the Mother Goddess — Moon, Love, and also War. Wife of Mithra. Sign: the silver
+  moon — the *faithful* moon, I must now say, since a redder one took to wandering our sky (of
+  which, patience).
 - **Kur**, the Dark Lady — death and the underworld, giver of oracles and prophecy; wife of
   Ahriman, yet no enemy of the living. The dead need a housekeeper. Sign: a skull.
 - **Thurms**, Lord of Thunder — war and storms; he leads the just to victory and is

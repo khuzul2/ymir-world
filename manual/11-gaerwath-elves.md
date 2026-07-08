@@ -172,52 +172,49 @@ of all the works of the age of storms he chose one: he fell upon Alfheim, and **
 the Shining City, the stolen house of the Shallak, went down in fire into its own gardens.**
 I was not yet born; I have handled the dispatches; I will not counterfeit grief my order does
 not feel, nor deny that in the Drowned Athenaeum the bells were rung. Five centuries of ruin
-and rebuilding later, the Chiari creep among their scaffolds under a queen of Inanna's
-line, replanting a splinter and calling it the promise. But it is a strange dish, Curator,
+and rebuilding later, the Chiari creep among their scaffolds under a queen of Inanna's line,
+replanting a splinter and calling it the promise. But it is a strange dish, Curator,
 vindication — to receive at last, from the indifferent jaws of a serpent, the justice our
 fathers were refused from heaven. Towers we built stood in that city too, before the
-Sundering. I have said I would not counterfeit grief. I did not say there was none in the
-house.
+Sundering. I said I would not counterfeit grief. I did not say there was none in the house.
 
-> *Curator's note.* For the fall itself he is accurate, and the ruin was beyond his telling —
-> the Tide's chroniclers write of a serpent "older than the map." But the Alfheim of today
-> (~3518) deserves better than his scaffolding sneer: Ost-en-Galad is a city again, smaller
-> and graver, its young queen keeps both throne and Council, and the Chiari will tell you —
-> with a calm that unsettles visitors — that the dragon *was the trial*, and that a people
-> still waiting after that has proven the waiting true. Meanwhile the elves one actually
-> *meets* are mostly neither of these armed theologies: the Grey elves — the Sea elves — sail
-> under every flag from Cartosa to Harbor, and the Illuminati keep their contemplative houses
-> in a dozen lands. The Sundering shouts; most elves live quietly between the shouting.
-> — *the Curator*
+> *Curator's note.* On the fall he is accurate — the Tide's chroniclers write of a serpent
+> "older than the map." But the Alfheim of today (~3518) deserves better than his scaffolding
+> sneer: Ost-en-Galad is a city again, smaller and graver; its queen keeps both throne and
+> Council; and the Chiari will tell you, with a calm that unsettles visitors, that the dragon
+> *was the trial*, and a people still waiting after that has proven the waiting true.
+> Meanwhile the elves one actually *meets* are mostly neither of these armed theologies: the
+> Grey elves — the Sea elves — sail under every flag from Cartosa to Harbor, and the
+> Illuminati keep their contemplative houses in a dozen lands. The Sundering shouts; most
+> elves live quietly between the shouting. — *the Curator*
 
 **One matter remains, and I give it to you as I would give a stranger a drawn blade: hilt
 first, and watching your hands.** The Prophecy is stirring. Since the Tide the doors of the
-world stand open that stood shut for an age; and along them, out of the east and out of the
-dreaming west, comes the same rumour in a dozen accents: that the **Ultimo Messaggero** is
-coming, or is come; the harbours whisper a name, **Shulma**, and cannot say whose. In
-Alfheim they light the old lamps. In the quiet houses the Renouncers, for the first time in
-centuries, are uncertain of their serenity. And in the Gaerwath, Curator, we are neither
-lighting lamps nor doubting; we are *ready*, as only a people can be ready who never once, in
-three thousand years, unpacked. When the Messenger comes and the ledger of the Exile is
-opened, it will be asked who kept the faith whole and who bargained it down to a garden. Set
-that down exactly as I have said it, in your fine neutral hand, and give my regards to your
-Council of the brief. They have been tolerable neighbours, as such things are measured. It
-will be remembered.
+world stand open that stood shut for an age; and along them comes the same rumour in a dozen
+accents: that the **Ultimo Messaggero** is coming, or is come; the harbours whisper a name,
+**Shulma**, and cannot say whose. In Alfheim they light the old lamps. In the quiet houses
+the Renouncers, for the first time in centuries, are uncertain of their serenity. And in the
+Gaerwath, Curator, we are neither lighting lamps nor doubting; we are *ready*, as only a
+people can be ready who never once, in three thousand years, unpacked. When the Messenger
+comes and the ledger of the Exile is opened, it will be asked who kept the faith whole and
+who bargained it down to a garden. Set that down exactly as I have said it, in your fine
+neutral hand, and give my regards to your Council of the brief. They have been tolerable
+neighbours, as such things are measured. It will be remembered.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Two truths the whole race has hold of backwards. First: Ouroboros is no instrument of any
 > elven heaven — he is the Adepti's custodian-king, a living weapon set to guard this world's
 > secrets, and he did not raze Alfheim for the Oscuri's sake. When the Tide flung the old
-> doors open, the Chiari's long vigil became, in an instant, a **beacon**: a whole nation
-> calling Home? Home? down the reopened ways toward Tchyo. The custodian did what custodians
-> do to unauthorised signals. He silenced it. That the Gaerwath rang bells only proves no one
-> on Ymir understood what had just been prevented. Second, and worse: the prophecy has the
-> direction of travel wrong. Doors open both ways. Something is indeed moving on the far
-> side of them — the rumour-name "Shulma" is real, and growing — but the elves were not
-> exiled from Tchyo, they were* hunted *off it, and a Messenger is not the only thing that
-> follows a fleeing people's trail once the road reopens. When it arrives, the cruellest
-> question on Ymir will be the one every elf answers by creed and none by evidence: is it
-> the way home — or the hunt, resumed?*
+> doors open, the Chiari's long vigil became, in an instant, a **beacon** — a whole nation
+> calling* Home? Home? *down the reopened ways toward Tchyo. The custodian did what
+> custodians do to unauthorised signals: he silenced it. That the Gaerwath rang bells only
+> proves no one on Ymir understood what had just been prevented. Second, and worse: the
+> prophecy has the direction of travel wrong. Doors open both ways. Something is indeed
+> moving on the far side of them — the rumour-name "Shulma" is real, and growing — but the
+> elves were not exiled from Tchyo, they were* hunted *off it, and a Messenger is not the
+> only thing that follows a fleeing people's trail once the road reopens. When it arrives,
+> the cruellest question on Ymir will be the one every elf answers by creed and none by
+> evidence: is it the way home — or the hunt, resumed?*
 
 ---
 *Colophon.* Chapter XI. Narrator: **Aelryn Vhaeloth i-Celeblyar** of the Gaerwath (invented

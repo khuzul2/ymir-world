@@ -111,12 +111,11 @@ delvers find them, sound them, and brick them shut, and will not sing of them at
 When a dwarf refuses payment for a story, the story is true.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *The under-passages are the outer coils of a **labyrinth**, and the labyrinth is a prison. The
-> sorcerer the isle calls the **Signore dell'Oblio** did not die and did not leave: he was
-> sealed in the Aestyr's roots, in a maze of Adepti workmanship that holds its prisoner not
-> with doors but with forgetting — walk it, and the way out unravels behind you in the mind.
-> The Lord of Oblivion is locked in oblivion. The dwarves brick up the coils because miners who
-> enter come back not knowing their own names — or come back knowing his.*
+> *The under-passages are the outer coils of a **labyrinth**, and the labyrinth is a prison.
+> The **Signore dell'Oblio** did not die and did not leave: he is sealed in the Aestyr's roots,
+> in a maze of Adepti workmanship that holds its prisoner not with doors but with forgetting —
+> walk it, and the way out unravels behind you in the mind. The Lord of Oblivion is locked in
+> oblivion. Miners who enter the coils come back not knowing their own names — or knowing his.*
 
 **Of the elves of Caelebawn** I can tell you little, which is exactly what they intend. Sylvan
 folk, hidden in the **Bosco di Caelebawn**; you will not find them, though they will assuredly
@@ -134,9 +133,8 @@ the only thing about him not forgotten. We do not go north of the Wall. Write th
 > *The ruins in the ice were a watch-city, and what it watched is still there. Under the Landa
 > Gelida sleeps **Nihoggr**, the Ice Dragon — one of the twenty True Dragons the Adepti forged
 > as living weapons — coiled about the island's root since the Catastrophe. Helgedad is not
-> cold by chance: **Inferno Gelato is literal.** The isle is the dragon's cooling-jacket; the
-> cold is its breath in sleep. The Signore dell'Oblio's crime, the one the labyrinth answers,
-> was this: he sought to wake it.*
+> cold by chance: **Inferno Gelato is literal** — the cold is the dragon's breath in sleep. The
+> Signore dell'Oblio's crime, the one the labyrinth answers, was this: he sought to wake it.*
 
 **Now the wars, in their order, the shames with the glories.** In the year the southrons count
 **1555**, at the Empire's greediest girth, **Letio annexed us**. Hear it straight: before the
@@ -194,20 +192,18 @@ of a war whose enemy we never once understood.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Understand it here. The five generals served the **Signore dell'Oblio**, whose will still
-> seeps through the labyrinth's coils in dreams. The Wolves' wars were never conquest — they
-> were **excavations**: Nortislong, the Wall, the deep roads all stand over ways down to the
-> dragon's grave or the maze's heart, and the terror was a spade. The generals "vanished"
+> seeps out of the labyrinth in dreams. The Wolves' wars were never conquest — they were
+> **excavations**: Nortislong, the Wall, and the deep roads all stand over ways down to the
+> maze's heart or the dragon's grave, and the terror was a spade. The generals "vanished"
 > because the labyrinth reclaims what its prisoner sends out — his reach ends where his
-> forgetting begins — and five half-forgotten shapes now wander the coils below the Aestyr,
-> still obedient, still searching. The prison holds. It has not been tested by anyone who knew
-> what they were doing. See `secret-the-great-lie.md`.*
+> forgetting begins — and five half-forgotten shapes now wander the coils, still obedient,
+> still searching. The prison holds. So far. See `secret-the-great-lie.md`.*
 
 > *Curator's note.* The skald folds 3015 and 3021–24 into one long "wolf-winter"; the
-> chronicles keep them distinct, and set them within a cascade — the second War of the Waves at
-> Meridian (3018–3023) burning alongside, and the Young Kingdoms' Great War of machines
-> catching from 3025 — overlapping fires, not one blaze. Even so, on Helgedad's dark generals
-> the driest annalist and the proudest skald record the same three words: *no one knows.* —
-> *the Curator*
+> chronicles keep them distinct, and set them in a cascade — Meridian's second War of the Waves
+> (3018–3023) burning alongside, the Young Kingdoms' war of machines catching from 3025:
+> overlapping fires, not one blaze. On the dark generals, though, the driest annalist and the
+> proudest skald record the same three words: *no one knows.* — *the Curator*
 
 **And then the Tide**, which you southrons date your whole age by, and which we remember as the
 winter the dead walked out of the Landa Gelida under the red moon, and the harbours burned, and
