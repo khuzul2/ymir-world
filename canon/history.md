@@ -40,6 +40,9 @@
   much of the continent around Ragash. In its place: a stormy sea, and at its
   centre a never-ending storm of magical energy — **the Maelstrom**. Ymir is torn
   from the normal plane of existence. → `cosmology.md`
+  `[CANON — decision HIS-15]` The **physical Ragash is gone** — obliterated here beneath the
+  Maelstrom. The **"sleeping Ragash"** that dreamers can still reach (the gateway to **Arcadia**)
+  is its **Dream-World mirror**, not the real, destroyed city. → `geography.md`, `secret-the-great-lie.md`.
 
 ## Era II — I Giorni Oscuri (The Dark Days) `[CANON]`
 
@@ -58,12 +61,16 @@
   land at Punta del Toro (founding-seed of Cartosa). *(Cartosa)*
 - **1321 d.M.** — they build **Forte Portoalto**; the colony grows (1326), becomes
   the **Provincia Cartoris**; renamed **Cartosa** on Cartaurelius's death (1339).
-- **~1400–1500 d.M.** — the **Xebechani** build the first **Vere Vie** (True Ways),
-  magical portals linking distant points, to unify Ymir against a demon return.
+- **~1400–1500 d.M.** — `[CANON — decision HIS-14]` the **Xebechani revive the Adepti portal
+  network**: the **Vere Vie (True Ways)** are the **revived Ways** — reactivated Adepti portals,
+  not a brand-new network — linking distant points to unify Ymir against a demon return.
 - **1420 d.M.** — foundation of **Meridian**. *(Cartosa)*
 - **1506 d.M.** — humans drive the **M'bantha** tribes off the Cartosan coasts.
 - **1555 d.M.** — the **Letio Empire** reaches its **maximum expansion**, annexing
-  **Helgedad**; nearly all of northern Ymir is Letio.
+  **Helgedad**; nearly all of northern Ymir is Letio. `[CANON — decision HIS-11]` **Helgedad
+  was a dwarf-and-human kingdom** (dwarven seat the **Aule Dorate**, human seat **Nortislong**),
+  now **long annexed by Letio**. Its story from here — annexation → 2600 secession → the Wars
+  of the Wolves — is **one continuous decline arc**, not separate rises and falls.
 - **1570 d.M.** — the Sovereign Demon **Ea** (Lord of the Abysses), accidentally
   freed, tries to seize Ymir through the **Cult of the Blue Oyster** (Culto
   dell'Ostrica Blu); he is thwarted and his essence destroyed. **Ea: first
@@ -141,6 +148,10 @@
   Wald & Zaalesha** vs **Vallanya, Caeldir & Tydriell** vs the dark armies of the
   ancient dragon **Gwalgamaur**. *(Player Guide ends here — the "present" of that
   book.)*
+- `[CANON — decision HIS-12]` The three near-present regional wars — the (Second) **War of the
+  Waves** (Meridian, 3018–3023), the **War of the Wolves** (Helgedad, 3021–3024), and the **War
+  of the Machines** / Great War (Young Kingdoms, from 3025) — form a **cascade**: overlapping
+  conflicts that trigger and bleed into one another, **not one simultaneous world-war**.
 
 ### The turn toward the new age (Cartosa gazetteer, latest surviving dates)
 
@@ -171,7 +182,7 @@
   line rules Armora). **Dating: use plain `d.M.`; "Era della Marea" is the name of the age, begun
   ~3025.** Campaign events like the Anno del Sole Nero (~3017) and the Wald War (~3026) are recent
   **history**, not the present.
-- **Armora vs. Letia (ongoing, ~EM 2)** — **Granduke Leonius VonGriffen** breaks with
+- **Armora vs. Letia (ongoing, ~EM 2)** — **Granduke Leonius VonGryffen** breaks with
   the Letio Church, declaring **Solanthya's Alto Teocrate** corrupt, founding the
   schismatic **Chiesa Armorita di Mithra**, and going to war with the Empire (which he
   accuses of worshipping Ahriman). The Young Kingdoms' Great War (from 3025) bleeds
@@ -189,7 +200,7 @@
   Qi-Long Dei-Drago). → `bestiary.md`, `secret-the-great-lie.md`
 - Per-people upheavals: Wald's dwarves mutate underground and the **Monti Bianchi** secede;
   the Tanoth ("**I Gatti**") retake **Hagelbarn**; the Xebechani are evacuated off-world to
-  planet **X-01**; **Vespertina VonGriffen** reconciles Armora with Letia against the orcs;
+  planet **X-01**; **Vespertina VonGryffen** reconciles Armora with Letia against the orcs;
   the elven **Prophecy** of the Messaggero (Shulma) stirs; the **Sohleugir** report the
   **Maelstrom may be weakening**.
 
@@ -205,14 +216,14 @@
   Reliquie, the villain **Leonard**, the **Complotto dei Cinque**, and Rune Magica
   power-sources beneath **Armora** and **Waldenheim**. Named cast in `characters.md`.
 
-### `[CONFLICT]` Timeline depth
-The *Libro Rosso* dates the present to **EM 2 = 3027 d.M.**, but other sources run further:
-the **Bocca del Caos** era is dated **3026–3260 d.M.**, and one implies "current ≈ **3500
-d.M.**" We keep **~EM 2 / 3027** as the manual's default present (freshest, best-attested)
-and log the later dates as **possible futures / alternate campaign horizons**. → `NOTES.md`
+### `[RESOLVED — decision HIS-1]` Timeline depth
+Settled: the *Libro Rosso* (EM 2 / 3027) sits at the **start** of the age, not its end. The
+**Bocca del Caos** era (3026–3260) and the geographical world map (**3518 d.M.**) carry the world
+forward through the **Nuova Era del Caos → Nuovo Equilibrio** phases. **The manual's present ≈ 3518
+d.M.** (see the phases above); 3027-era material is recent history.
 
 ### `[CONFLICT resolved]` Armora's rulers
-**Leonius VonGriffen** breaks with Letia and wars (schism); **Vespertina VonGriffen** — his
+**Leonius VonGryffen** breaks with Letia and wars (schism); **Vespertina VonGryffen** — his
 proposed wife/successor — later **reconciles** Armora with Letia against the orcs. Treat as
 **succession/sequence**, not contradiction. → `characters.md`
 

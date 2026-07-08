@@ -12,12 +12,12 @@
 ## The Pure Races (Razze Pure) — the core roster `[CANON: Player Guide]`
 | Race | Notes | PC? |
 |------|-------|-----|
-| **Umani (Humans)** | Sub-stocks: **Primigeni** (Primeval), **Uomini Misti** (Mixed), plus regional Men — Alti/High, Comuni/Common, dei Boschi/Woods, delle Colline/Hills, **Norsi** & **Vorskgen** (Helgedad). | ✔ |
+| **Umani (Humans)** `[RAC-12]` | Sub-stocks: **Uomini Comuni** (Common — the **majority**), **Uomini Misti** (Mixed — PC-build **minority**), **Primigeni** (Primeval, incl. the **Vorskgen**); plus regional Men — Alti/High, dei Boschi/Woods, delle Colline/Hills, **Norsi** (Helgedad). Includes the jungle-nation **Ophiur/Ophiriti** `[RAC-13]`. | ✔ |
 | **Xebechani** | Reptilian; four castes **Xudra / Xidhe / Xion / Xattva**; asexual (grown in the Pozze). | ✔ |
 | **Nani (Dwarves)** | Mountain dwarves; **Nani di Pianura** (Plains Dwarves); the **Arawak** (stone/bone, no metal). | ✔ |
-| **Elfi (Elves)** | **Elfi Chiari/Light** = High (Alti) + Sylvan (Silvani), of Alfheim; **Elfi Oscuri/Dark** of the Gaerwath; **Elfi Grigi/Grey**; plus **sea elves**. | ✔ |
+| **Elfi (Elves)** `[RAC-3/4/5/8]` | **Factions** (religious): Chiari/Light · Illuminati/Rinuncianti (moderates) · Oscuri/Dark. **Sub-races**: Alti/High · Silvani/Sylvan · **Grigi/Grey (= the Sea elves)**. Factions × sub-races are **orthogonal**; Alfheim = Chiari homeland, the Gaerwath = Oscuri exile. No "marini" sub-race. | ✔ |
 | **Folletti (Little People)** | **Fate (Fairies)** + **Gnomi (Gnomes)**; of the Silver Isles. | ✔ |
-| **Tanoth** | **Tal-Tanoth** (small feline humanoids — the "Halfling" slot), **Ur-Tanoth** (nomad hunters), Tanoth proper. | ✔ (Tal-Tanoth) |
+| **Tanoth** `[RAC-3/4/5/8]` | Umbrella for **two** branches only: **Tal-Tanoth** (small feline humanoids — the "Halfling" slot) and **Ur-Tanoth** (nomad hunters). **No "Tanoth proper."** | ✔ (Tal-Tanoth) |
 | **Sohleugir (Lizardmen)** | Undersea kingdom of Ssas'Kher; also surface traders; spring-harpoons. | ~ |
 
 ## Regional / sub-peoples `[CANON]`
@@ -41,7 +41,8 @@ Kappa, Sibert, An-Tanoth, Changeling, Hobgoblin, Uomo-Pesce, Gha-Tanoth**. Plus 
 - **Razze Degenerate:** **Vulfen**, **Gratar** (servants of the Sovereign Demons).
 - **Ibridi (Hybrids):** **Centauri, Satiri, Rahab, Tritoni, Giganti** — and the Maelstrom-
   mutated **Marchiati**. → `peoples.md`, `cosmology.md`
-- Also a new human nation: **Ophiur / Ophiriti** (dark-skinned, mostly Primeval). → `peoples.md`
+- `[CANON — decision RAC-13]` **Ophiur / Ophiriti** is **not** here — it is a **human
+  jungle-nation**, listed under **Humans** above.
 
 ## Non-mortal / setting entities (not "races" but present) `[CANON]`
 - **Ibridi (Hybrids)** & **Marchiati (the Marked)** — Maelstrom-mutated beings. → `cosmology.md`

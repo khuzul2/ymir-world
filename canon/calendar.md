@@ -56,6 +56,8 @@ spelling. Logged for the ledger.
 - Are there named days of the week, or festivals/holy days tied to specific
   months? (Cartosa mentions "giorni di festa" with temple charity but names none;
   a festival calendar may appear in unmined regional docs.)
-- Moons: **Ishtar** is "goddess of the Moon" (one moon implied) but the Cartosa
-  timeline mentions a portentous "**luna rossa**" (red moon) in 3026 d.M. — one
-  moon that reddens, or a second body? → flag for pantheon/astronomy.
+- `[CANON — decision COS-6/COS-13]` **Moons — two distinct bodies.** **Ishtar's** silver
+  moon is Ymir's ordinary moon. The portentous "**luna rossa**" (red moon) is a **separate,
+  wandering body**: it is the **Observer / Sguardo-sul-Nulla** (Tuulhak-Xanar) — it **appeared
+  ~3026 d.M.** as the Ancient Gods stirred and **receded ~3260 d.M.** as the Nuovo Equilibrio
+  settled. So the red moon is *not* Ishtar's moon reddening. → `pantheon.md`, `history.md`.

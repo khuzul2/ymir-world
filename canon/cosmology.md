@@ -43,6 +43,11 @@ elemental children) has clear Zoroastrian naming (Mithra/Ahriman) and a
 Mesoamerican mirror in the Xebechani names — a deliberate "many peoples, one
 cosmology" design. See `pantheon.md`.
 
+`[CANON — decision COS-24]` *(secret layer)* **Ech is the mythologised face of L'Essenza** —
+the real, impersonal **Essence-substrate** that pervades reality. The Adepti *tapped and
+shaped* this substrate; they did not create it, and the myth's "single god from whom all
+Spirits flow" is that substrate personified. → `secret-the-great-lie.md`.
+
 ## The Maelstrom
 
 `[CANON]` *(Player Guide p.20; origin in `history.md`)* — The single most
@@ -83,17 +88,30 @@ enveloped by other planes of existence:
   home of the **Spirits**, immaterial entities. Poorly understood, because
   Spirits tend to corrupt into **Spiriti Furiosi** (Raging Spirits: uncontrollable
   and malevolent) if they linger too long in contact with the material world.
+  `[CANON — decision COS-16]` The **Dreamlands** (below) are a **region of this Spirit
+  World**, not a plane of their own.
 - **The Elemental Planes** — sources of the Elementals.
-- **The Void beyond creation** — where Ahriman withdrew and the Demons arose.
-- **The Aether / Nether** — the polar essences of Mithra and Ahriman respectively.
-- **Lo Spazio Esterno (Outer Space)** — beyond the elemental planes that wall in
-  creation; where the **Dèi Esterni / Antichi Dei (Outer/Ancient Gods)** sleep, sealed.
-  `[CANON — i-piani.txt]` → the secret in `secret-the-great-lie.md`.
-- **Il Piano del Caos (Plane of Chaos)** — an alternate origin-plane for demons in some
-  accounts (the "Sei Signori del Caos" ruled here). `[CONFLICT with the Void/Corrupted-
-  Essence account — see NOTES]`
-- **La Terra dei Sogni (the Dreamlands)** — the plane of dreamers' souls, ruled by the
-  Outer Gods; contains the steampunk dream-world **Arcadia**. → `geography.md`, `secret-the-great-lie.md`.
+- **Lo Spazio Esterno (Outer Space)** — the single "beyond": past the elemental planes
+  that wall in creation, where the **Dèi Esterni / Antichi Dei (Outer/Ancient Gods)** sleep,
+  sealed. `[CANON — decision COS-9/COS-19]` This is the **one** outer realm (the older,
+  "overloaded beyond" accounts collapse into it); the Ancient/Outer Gods form a **third
+  cosmic axis**, older than and standing *outside* the Ech duality (Mithra ↔ Ahriman), not
+  born of it. `[CANON — i-piani.txt]` → the secret in `secret-the-great-lie.md`.
+- **Il Piano del Caos / l'Inferno / l'Abisso (Plane of Chaos)** — `[CANON — decision
+  COS-3/COS-19]` one place under several names: the **realm of Corrupted Essence**, an
+  **engineered prison-pocket** into which Ahriman withdrew and where the **Demons** arose by
+  corrupting the Spirits that dwelt there (the "**Sei Signori del Caos**" ruled here). The
+  old "Void beyond creation" and the "Plane of Chaos" are **not rival accounts** — they name
+  this same corrupted-Essence pocket.
+- **La Terra dei Sogni (the Dreamlands)** — `[CANON — decision COS-16]` a **region of the
+  Spirit World** (not a separate plane): the domain of dreamers' souls, within the Outer
+  Gods' reach; contains the steampunk dream-world **Arcadia**. → `geography.md`, `secret-the-great-lie.md`.
+
+`[CANON — decision COS-15]` **Aether** and **Nether** are **Essence-states, not planes** —
+the polar "charges" of the living Essence (Mithra's and Ahriman's poles) — so they are **not**
+listed among the planes above. Note that the **Nether ≠ Corrupted Essence**: the Nether is
+Ahriman's pole of the *ordinary* Essence, whereas Corrupted Essence is the tainted substance
+of the Plane of Chaos.
 
 ### Extraplanar entities (the great taxonomy)
 

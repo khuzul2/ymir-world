@@ -124,10 +124,10 @@ lie."
 
 ---
 ### Open questions (for us)
-- **How much of this do the campaigns treat as settled canon vs. one GM's theory?** The
-  wiki is collaborative; the Great Lie is presented as *the* secret, but competing
-  Catastrophe/demon-origin accounts coexist. We should decide the manual's official line.
-- **Timeline depth:** other sources imply history runs past 3027 (Bocca del Caos
-  3026–3260 d.M.; "current ≈ 3500 d.M."). → `NOTES.md`, `history.md`.
-- The elemental **Dei = Adepti** heresy vs. the **Ech→Mithra/Ahriman** myth — reconcile
-  into one clean "public vs. secret" presentation for the manual.
+- `[RESOLVED]` **Official line (COS-1 = hybrid):** the Great Lie is the settled GM-secret truth,
+  but the divine is *real* — real Ancient Gods + real Adepti usurpers coexist. The competing
+  Catastrophe/demon-origin accounts are **one event seen several ways** (COS-2 = A).
+- `[RESOLVED]` **Timeline depth (HIS-1):** present ≈ **3518 d.M.**, deep in the Nuovo Equilibrio;
+  3027 is the age's start. → `history.md`.
+- `[RESOLVED]` **The elemental Dei (COS-4 = A):** the six Twins are real elemental gods whose
+  names/cults the Adepti co-opted — presented as public-myth + secret-truth, both partly right.

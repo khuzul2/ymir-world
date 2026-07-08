@@ -96,8 +96,10 @@ Recorded as you decide them. → written into `canon/`.
   - **HIS-16 / META-10 / BAT-8** normalize spellings: **VonGryffen**, **Ymir**, one canonical form
     per figure (disambiguate Marzio/Marzius, Uglush/Uglaark/Ugrumuulsh).
   - **GEO-4** unnamed map regions stay **frontier/mystery**. **GEO-8** **Solanthya = Letia's
-    capital-seat** (its map label = greater Letia). **GEO-10/11** deserts separate; La Catastrofe =
-    one ~2400 event (both effects). **GEO-12** **Alfheim** anchored in the SE elf-lands near Gaerwath.
+    capital-seat** (its map label = greater Letia). **GEO-10/11** deserts separate; **two distinct
+    upheavals** (refined): the **primordial La Catastrofe** (~year 0) split the NW archipelagos; a
+    separate **Grande Prosciugamento** (~2400) dried the Sadhir — do not conflate. **GEO-12**
+    **Alfheim** anchored in the SE elf-lands near Gaerwath.
     **GEO-13** globe with one Central Ocean; demon landmass = a "continent." **GEO-14** Qi-Long ~900M kept.
   - **RAC-3 / RAC-4 / RAC-5 / RAC-8** apply the **orthogonal elf model** (factions Chiari/Illuminati/
     Oscuri × sub-races Alti/Silvani/**Grigi=Sea**); drop the phantom "Tanoth proper" and spurious "marini."

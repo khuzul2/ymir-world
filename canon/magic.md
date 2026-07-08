@@ -84,14 +84,19 @@ matters (though whispered of in houses like Gibraleon and mastered by the Dark E
   (steam trams, airships, ornithopters, the **Nautilo** submarine). → `geography.md`,
   `factions.md`
 
-## Dating note `[CANON]`
-The magic system book is dated **Anno 3027 d.M. / Era della Marea 2** — the latest
-date attested in any source, and the anchor for the **campaign present**. → `history.md`
+## Dating note `[CANON — decision HIS-1]`
+The *Libro Rosso* is dated **Anno 3027 d.M. / Era della Marea 2** — the **start** of the
+current age, not the present. The manual's present is **~3518 d.M.**, deep in the Nuovo
+Equilibrio. → `history.md`, `calendar.md`
 
 ## Artefacts, portals & relics `[CANON]`
 - **The Vere Vie (True Ways)** — the Xebechani portal network (built ~1400–1500 d.M.).
 - **The Adepts' portals** — dormant behind the Maelstrom's seal until the Era della
-  Marea reactivates them all. → `history.md`
+  Marea reactivates them all. `[CANON — decision MAG-7]` These are **fixed-gate technology**,
+  **exempt from the Maelstrom's teleport-warp** (the **Deflusso**, above): the warp on
+  free-form long-range teleport **persists** — only the **isolation seal** on the fixed gates
+  broke, which is why the portal network can reopen while ordinary teleport stays unreliable.
+  → `history.md`
 - **The six Reliquie** (**Ignus, Saralis, Meletskar** [= the **Masamune**], **Tassalung,
   Natharien** [the Celestial Diadem], **Oedring**) are the **six seals on the four Rune Magiche**
   — the Adepti's **anti-demon superweapons**, housed at the Xebechani fortress-city **Xanadu**.
@@ -116,16 +121,19 @@ date attested in any source, and the anchor for the **campaign present**. → `h
   (Forgotten Scrolls)**, the **Chiave del Nulla**, and the six **Sangue Elementale** vessels
   used in the Catastrophe. → `secret-the-great-lie.md`
 - Legendary blades: **Mietianime** (forged by the death-god, wielded by **Morannagul**),
-  **La Spada di Valdis**, **Oblivion** (the lich Kramer's cursed axe → `characters.md`), the
-  **Masamune** (borne by Surya), and the elemental blades **Hellion / Vendicatrice Oscura /
-  Mornlosse / Frangionde**. Also the **Corona della Stregoneria**.
+  **La Spada di Valdis**, **Oblivion** (`[CANON — decision HIS-13]` **Tofango's** cursed axe,
+  *not* Kramer's → `characters.md`), the **Masamune** (borne by Surya), and the elemental
+  blades **Hellion / Vendicatrice Oscura / Mornlosse / Frangionde**. Also the **Corona della
+  Stregoneria**.
 
 ## Corruption & the Elemental Lords `[CANON — corruzione.txt, divinit-elementali.txt]`
 - **Corruzione da Essenza Oscura (CEO)** — a corruption system tied to **Ahriman/Corrupted
   Essence**, with a second axis of **elemental corruption**. → `cosmology.md`, `secret-the-great-lie.md`
 - The **six Signori Elementali (Elemental Lords)** — one per element, the semi-divine apex
   of the elementals (Hudemia/Water, Heis/Air, Diis/Fire, Therìos/Earth, Dingir/Light,
-  Varshnak/Ice) — plus **Topramesk il Giallo** associated with **Mana/Void**. → `pantheon.md`
+  Varshnak/Ice) — plus **Topramesk il Giallo**, whose domain is **Void (Vuoto)**. `[CANON —
+  decision MAG-6]` His domain is named **Void**, *not* "mana": reserve **mana** for the
+  **generic substance** of magic (see "The source of magic," above). → `pantheon.md`
 - **YMIR-specific talents** (in the otherwise-Rolemaster `talenti.txt`): Sangue di Drago,
   Sangue Elementale, Affinità/Alleato Elementale, Leggenda Vivente, Chi Powers.
 (Full item/material/talent catalogue: `sources/extracted/wiki/magic-items-society.md`.)

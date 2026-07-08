@@ -22,7 +22,10 @@ joints), a **passive/cold** affect, and they are **asexual** — they do not bre
 naturally. New Xebechani are grown by an ancient magical process in machines
 called **le Pozze** (the Pools) via a rite called **la Rinascita** (the Rebirth) —
 but the science behind the Pools is now half-forgotten, a slow existential crisis
-for the race. Live in great cities, usually deep in jungle. Four **Castes**:
+for the race. `[CANON — decision RAC-10]` The **Pozze are ancestral / Adepti technology** —
+the lost bioscience of "**gli Antichi**" (the Xebechani's name for their forebears, ≈ the
+engineer-**Adepti**), which is why no living Xebechani fully understands them. →
+`secret-the-great-lie.md`. Live in great cities, usually deep in jungle. Four **Castes**:
 - **Xudra** — labourer caste; massive, heavily scaled, most reptilian; over half
   of all Xebechani, rarely seen abroad.
 - **Xidhe** — the most adaptable; the Xebechani most often met outside their lands.
@@ -32,8 +35,8 @@ for the race. Live in great cities, usually deep in jungle. Four **Castes**:
 Worship their own pantheon (chief god **Quetzalcoatl**). → `pantheon.md`
 
 ### Tanoth
-A people in several branches:
-- **Tanoth** (proper) — of the semi-arid inland plains.
+`[CANON — decision RAC-3/4/5/8]` **"Tanoth" is an umbrella** for **two** branches only —
+**Ur-Tanoth** and **Tal-Tanoth**. There is **no separate "Tanoth proper"** third branch.
 - **Tal-Tanoth** — small **feline humanoids** (cat-folk) who live cheerfully off
   humans in the cities; "a plague to some, a nuisance to most"; the only ones able to
   deal with the shy Ur-Tanoth. `[CANON — Qi-Long.docx]` Ymir has **no Halflings**;
@@ -55,15 +58,17 @@ Powder). *(Player Guide: "identical to those in R&C.")* Branches/related peoples
 - **Barbarian dwarf tribes** of the interior highlands — very territorial, hostile.
 
 ### Umani (Humans)
-Found in every climate and region. Broad stocks:
-- **Primigeni (Primeval)** — an older human stock, linked to Xebechani mysticism.
-- **Uomini Misti (Mixed Men)** — the common, cosmopolitan majority (e.g. most of
-  Cartosa).
-- Regional "kinds of Men" named in Helgedad `[CANON — Helgedad.doc]`: **Uomini Alti**
-  (High Men), **Uomini Comuni** (Common Men), **Uomini dei Boschi** (Woodmen),
-  **Uomini delle Colline** (Hillmen); the **Norsi** (indigenous Helgedad folk of the
-  Winter Forest, totem-spirit tradition) and the **Vorskgen** (Nortmaar hill-clans,
-  ancestor-worshipping berserkers).
+Found in every climate and region. `[CANON — decision RAC-12]` Broad stocks:
+- **Uomini Comuni (Common Men)** — the **overwhelming majority** of humankind; the ordinary
+  people of every region.
+- **Uomini Misti (Mixed Men)** — a **cosmopolitan minority** (the mixed-ancestry, "PC-build"
+  stock, e.g. much of Cartosa) — *not* the majority.
+- **Primigeni (Primeval)** — an older human stock, linked to Xebechani mysticism. The
+  **Vorskgen** (Nortmaar hill-clans, ancestor-worshipping berserkers) are **Primigeni**, not
+  generic Men.
+- Other regional "kinds of Men" named in Helgedad `[CANON — Helgedad.doc]`: **Uomini Alti**
+  (High Men), **Uomini dei Boschi** (Woodmen), **Uomini delle Colline** (Hillmen); the
+  **Norsi** (indigenous Helgedad folk of the Winter Forest, totem-spirit tradition).
 
 ### Sohleugir (Lizardmen)
 True lords of the southern seas; an undersea kingdom millennia old, capital
@@ -79,20 +84,28 @@ Their kingdom is in the **Isole d'Argento (Silver Isles)**, capital **Elendor** 
 seat of the world **Council of Peoples** (the Seggio di Cristallo). → `factions.md`
 
 ### Elfi (Elves)
-`[CANON]` The elves are **not native** to Ymir: they came from another world (the
-divine **Niethel**, → `pantheon.md`) through dimensional portals during the Demon
-Wars, siding with Ymir's peoples. About **800 years after the Maelstrom**
-(the *Anni della Discordia*, ~2200 years before the present) they split into **three
-factions** over a point of prophecy `[CANON — Gaerwath.doc]`:
+`[CANON]` The elves are **not native to Ymir**: they came from another world through
+dimensional portals during the Demon Wars, siding with Ymir's peoples. `[CANON — decision
+COS-17]` Their true origin world is **Tchyo**, where they are **native, not engineered**;
+**Niethel** ("the Source," → `pantheon.md`) is the mythologised memory of that **lost Tchyo
+age**. About **800 years after the Maelstrom** (the *Anni della Discordia*, ~2200 years before
+the present) they split into **three religious factions** over a point of prophecy
+`[CANON — Gaerwath.doc; decision RAC-3/4/5/8]`:
 1. **Elfi Chiari (Light Elves)** — held that the elves' destiny was to withdraw into
    the newly-formed **Sacred Realm** (present **Alfheim**) and await the **Ultimo
    Messaggero** (the Last Messenger) who would lead them home to Niethel.
 2. **Elfi Oscuri (Dark Elves)** — held that all **Ymir** is the Sacred Realm of
    prophecy, that all other races exist to serve elves, and preached a holy crusade
    to conquer it. → detail below.
-3. **Elfi Grigi (Grey Elves)** — the moderates; withdrew from the fight to live among
-   the other races in contemplation, believing the Sacred Realm lies **within each
-   elf**.
+3. **Elfi Illuminati** (also **Rinuncianti** — **the moderates**) — withdrew from the fight
+   to live among the other races in contemplation, believing the Sacred Realm lies **within
+   each elf**.
+
+`[CANON — decision RAC-3/4/5/8]` **Factions and sub-races are orthogonal.** The three above
+are **religious factions**; they cut across the **sub-races** — **Alti (High) / Silvani
+(Sylvan) / Grigi (Grey)** — and each sub-race appears in all three factions. So **"Grigi/Grey"
+is a *sub-race*, not the moderate faction** (the moderates are the **Illuminati/Rinuncianti**),
+and the **Grigi *are* the Sea elves** — there is **no fourth "marini" sub-race**.
 
 Light and Dark went to war. The Light Elves, led by the legendary queen **Inanna the
 Splendent**, drove the Dark Elves out of Alfheim and into exile on the **Gaerwath**
@@ -101,9 +114,9 @@ archipelago; the Dark-Elf princes swore eternal vengeance, branding their kin
 difference** between Light and Dark elves — the split is political/religious, not
 genetic (most Dark Elves have black hair and grey, violet, or green eyes).
 
-The **Light Elves** are **Elfi Alti (High)** + **Elfi Silvani (Sylvan)**, of **Alfheim**
-(capital **Ost-en-Galad**, "the Shining City"). There are also **sea elves** (the
-Player Guide notes R&C's elves match these, not the Grey Elves).
+The elves of **Alfheim** (capital **Ost-en-Galad**, "the Shining City") are mainly **Elfi
+Alti (High)** and **Elfi Silvani (Sylvan)**; the **Elfi Grigi (Grey) are the Sea elves** (the
+Player Guide notes R&C's elves match these Sea/Grey elves).
 
 #### Elfi Oscuri (Dark Elves) — detail `[CANON: elfi oscuri.doc + Gaerwath.doc]`
 Homeland the **Gaerwath**. They sort all beings into three categories:
@@ -165,16 +178,18 @@ Dwarves and Gnomes rare. Society is organised around martial **sects** rather th
 race. → `factions.md`, `races-index.md`
 
 ## Wiki additions & reconciliations `[CANON — wiki]`
-- **Elf factions vs. sub-races are orthogonal.** The three religious **factions** are
-  **Chiari (Light) / Illuminati (or Rinuncianti — the moderates) / Oscuri (Dark)**; the
-  **sub-races** are **Alti (High) / Silvani (Sylvan) / Grigi (Grey/sea) / marini (sea)**.
-  Each sub-race spread across all three factions — so "Grey" is a *sub-race*, and the
-  *moderate faction* is properly the **Illuminati/Rinuncianti** (this refines the earlier
-  "Grey = moderates" reading). `[CONFLICT resolved]` Elves are **mortal on Ymir (~200 yr)**;
-  Letia theologians debate whether they even have souls.
-- **Ophiur / Ophiriti** — a new human nation: very dark-skinned, mostly-Primeval humans;
-  language **Ophirita**. **Primigeni** were "made from **Fire**" (the destructive elemental
-  principle), which is how a malevolent god corrupted them; they admire Xebechani wisdom.
+- **Elf factions vs. sub-races are orthogonal.** `[CANON — decision RAC-3/4/5/8]` The three
+  religious **factions** are **Chiari (Light) / Illuminati (or Rinuncianti — the moderates) /
+  Oscuri (Dark)**; the **sub-races** are **Alti (High) / Silvani (Sylvan) / Grigi (Grey = the
+  Sea elves)**. Each sub-race spread across all three factions — so "Grey" is a *sub-race*, and
+  the *moderate faction* is properly the **Illuminati/Rinuncianti** (correcting the earlier
+  "Grey = moderates" reading). There is **no separate "marini" sub-race** — the **Sea elves are
+  the Grigi**. `[CONFLICT resolved]` Elves are **mortal on Ymir (~200 yr)**; Letia theologians
+  debate whether they even have souls.
+- **Ophiur / Ophiriti** `[CANON — decision RAC-13]` — a **human jungle-nation** (classed under
+  **Humans**, *not* a degenerate race): very dark-skinned, mostly-Primeval humans; language
+  **Ophirita**. **Primigeni** were "made from **Fire**" (the destructive elemental principle),
+  which is how a malevolent god corrupted them; they admire Xebechani wisdom.
 - **Xebechani** are facing **extinction**: the **Pozze** that recycle their dead into
   newborns are failing. They hold a **dragon/Great-Serpent origin** theory and secretly
   venerate the **Outer Gods (Dei Esterni)** and their ancestors, "**gli Antichi**." →

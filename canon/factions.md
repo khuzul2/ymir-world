@@ -55,7 +55,7 @@
 rumoured necromancy and demon-summoning).
 
 ## Powers of Armora & the Young Kingdoms `[CANON — Armora, Maraviglie, LIBRO ROSSO]`
-- **The Granducato (Grand Duchy) of Armora** — ruled by **Granduke Leonius VonGriffen**
+- **The Granducato (Grand Duchy) of Armora** — ruled by **Granduke Leonius VonGryffen**
   (*il Tecnocrate*); a technocratic, magic-regulating state.
 - **Sezione di Controllo Magico (S.C.M.)** — the army's anti-magic corps (→ `magic.md`).
 - **Collegio del Settimo Circolo** — Armora's college of magic (Arcimaga **Sir
@@ -67,8 +67,13 @@ rumoured necromancy and demon-summoning).
   Armora, in open schism (and war) with the Letio Church. → `pantheon.md`, `history.md`
 
 ## Powers of the Qi-Long — the Grandi Sette Imperiali `[CANON — Qi-Long.docx]`
-The six **Great Imperial Sects**, each governing one province under the **Dragon-God**
-emperor at Tianqi:
+`[CANON — decision GEO-2]` The unified **Tianqi empire** (a single Dragon-God emperor over all
+provinces) is now **history**: the present day is **six independent, mutually hostile kingdoms**,
+each ruled by its own rival **Dragon-God** (→ `geography.md`). The **Grandi Sette Imperiali**
+below are the imperial-era sects; today each survives as the martial establishment of its own
+kingdom's Dragon-God.
+The six **Great Imperial Sects**, each (in the imperial framing) governing one province under
+the **Dragon-God** emperor at Tianqi:
 - **Scuola della Via Celeste** (Celestial Way) — mages & sorcerers *(Pianura del Sud)*.
 - **Setta dell'Acqua Pura** (Pure Water) — alchemists & druids *(Onde dell'Ovest)*.
 - **Via della Fiamma Imperitura** (Undying Flame) — monks & fighters *(Regno Centrale)*.
@@ -79,6 +84,18 @@ emperor at Tianqi:
 Countless minor sects (e.g. the **Scuola del Cancello Tonante**, School of the
 Thundering Gate) operate beneath them; the **Raduno degli Eroi** (Gathering of Heroes),
 held every seven years at the capital, wins its victors a place in a Great Sect.
+
+### La Triade — the six resistance societies `[CANON — decision GEO-2; BAT-6]`
+Opposing the six Dragon-Gods, **six secret resistance societies** (collectively "**La Triade**")
+work to free the Qi-Long kingdoms — one set against each Dragon-God:
+- **Aironi Grigi** (Grey Herons)
+- **Cani Rossi** (Red Dogs)
+- **Falchi Dorati** (Golden Falcons)
+- **Scorpioni Neri** (Black Scorpions)
+- **Tigri Celesti** (Celestial Tigers)
+- **Manguste Bianche** (White Mongooses) — serve an absent Dragon-God "not yet of this world,"
+  awaiting his return.
+→ `geography.md`
 
 ## Powers of the Sadhir — the Great Sultanate `[CANON — Sadhir gazetteer]`
 The **matriarchal Sultanate of the Sarradhi**, ranked: **Sultana-Mazarit** (supreme

@@ -45,10 +45,11 @@ Named heroes and villains from the actual-play that opened the current age. (The
 the "legendary PCs" you asked about — pulled from the campaign digests in
 `sources/extracted/wiki/history-campaigns.md`.)
 
-- **Vespertina VonGriffen** — succeeds Granduke **Leonius** of Armora; reconciles Armora
+- **Vespertina VonGryffen** — succeeds Granduke **Leonius** of Armora; reconciles Armora
   with Letia against the orcs. → `history.md`, `factions.md`
 - **Heinrich Kramer** — Mithran inquisitor turned **lich**; opened the Ulan-Tang portal
-  (3026), wielded the cursed axe **Oblivion**. → `history.md`, `magic.md`
+  (3026). `[CANON — decision HIS-13]` The cursed axe **Oblivion** is **Tofango's**, *not*
+  Kramer's (see "The Gate to Unknown," below). → `history.md`, `magic.md`
 - **A Steamclad Sky** (Young Kingdoms): **Isidoro VonGraven** (a clone of **Sigurd
   VonGraven**, host of the entity **Tyrael**), **Surya** (bearer of the **Masamune**),
   **Drusilde** (Arcimaga of Armora's Settimo Circolo), Yonker, Baudolino, Han, "Doc";
@@ -70,3 +71,9 @@ the "legendary PCs" you asked about — pulled from the campaign digests in
 - Most figures are known only from a single line; famous **player characters** who
   became part of Ymir's canon are not yet recorded — a prime thing to collect from
   you and your friends.
+- `[CANON — decision HIS-16/META-10]` **Name-disambiguation note:** **Uglush the Supreme**
+  (Horde warlord, 2015–2030) and **Ugrumuulsh One-Eye** (Grande Khan, 3026) are **two distinct
+  orc leaders** a century apart — do not merge them; the variant **Uglaark** normalises onto the
+  intended one. Likewise keep **Marzio** and **Marzius** to **one canonical form per figure**
+  (do not silently conflate the two spellings). House **VonGryffen** is the one canonical
+  spelling (was "VonGriffen"); the **VonGraven** line (Isidoro/Sigurd) is a *separate* name.

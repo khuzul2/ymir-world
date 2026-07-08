@@ -24,12 +24,19 @@ Readable world-map labels include: **Armora** (central), **Khorish**, **Xuthal**
 Tema-li, Ost-en-Mano, Dalkis, Thulos**).
 
 ## The world at large `[CANON]`
-A world of a great **Central Ocean (Oceano Centrale)** with the **Maelstrom** at its
-heart (→ `cosmology.md`). The drowned ancient capital **Ragash** lies beneath the
-Maelstrom. Ancient **portals** — the Adepts' network and the Xebechani **Vere Vie** —
-reconnect distant regions (reactivated in the Era della Marea). Before **La
-Catastrofe**, the **Gaerwath** and the **Isole d'Argento** were joined to the main
-continent; the cataclysm broke them into archipelagos.
+`[CANON — decision GEO-13]` Ymir is a **globe** — a spherical world — dominated by one great
+**Central Ocean (Oceano Centrale)** with the **Maelstrom** at its heart (→ `cosmology.md`).
+The drowned ancient capital **Ragash** lies beneath the Maelstrom. `[CANON — decision BAT-2]`
+Keep **Ragash** (the **Adepti** capital the Catastrophe turned into the Maelstrom) distinct
+from **Xanadu** (the **Xebechani fortress-city** that houses the **Rune Magiche** →
+`magic.md`) — two different places. Ancient **portals** — the Adepts' network and the
+Xebechani **Vere Vie** — reconnect distant regions (reactivated in the Era della Marea).
+`[CANON — decision GEO-11, refined]` **Two distinct upheavals** reshaped the map — keep them
+separate: **(1) La Catastrofe** (the *primordial* event, ~year 0 d.M. — the Adepti ritual that
+birthed the Maelstrom; → `history.md`, `cosmology.md`) broke the **Gaerwath** and the **Isole
+d'Argento** off the main continent into archipelagos; **(2) il Grande Prosciugamento** (the Great
+Drying, ~2400 d.M. — a *separate*, later cataclysm) dried the inland **Sadhir** sea into salt
+desert (→ Sadhir section below). Do not conflate the two under one name.
 
 ## Regions & powers
 
@@ -37,9 +44,9 @@ continent; the cataclysm broke them into archipelagos.
 The great northern **theocratic empire** of the **Church of Mithra**, ruled by a
 **Teocrate**; at its height (1555 d.M.) held nearly all northern Ymir. Long decline:
 the Young Kingdoms broke away (2200s), Helgedad seceded (2600), the Church took full
-command (2610). Its religious seat is at/near **Solanthya** (home of an **Alto
-Teocrate**). Aggressively missionary; now waging war on Armora. Tone: high-fantasy
-sacred empire.
+command (2610). `[CANON — decision GEO-8]` Its **capital-seat is Solanthya** (seat of the
+**Alto Teocrate**); on the world map the label **"Solanthya"** stands for **greater Letia** as
+a whole. Aggressively missionary; now waging war on Armora. Tone: high-fantasy sacred empire.
 `[CANON — letia.txt]` **~300 million** people (mostly Human); temperate; split into small
 **marches and baronies**. Ruled by the **Clericato di Mithra** under the **sommo sacerdote
 di Mithra** at **Solanthya**. All races welcome **except orcs, dark elves, and followers of
@@ -53,7 +60,7 @@ Broke from Letio in the **War of the Princes** (2200–2230). Realms include **A
 Wald, Zaalesha** (one bloc in the 3025 Great War) and **Vallanya, Caeldir, Tydriell**
 (the other), plus the dark armies of the ancient dragon **Gwalgamaur** as a third
 side. This is Ymir's **magitech/steampunk** zone.
-- **Armora** — a **Granducato (Grand Duchy)** ruled by **Granduke Leonius VonGriffen**
+- **Armora** — a **Granducato (Grand Duchy)** ruled by **Granduke Leonius VonGryffen**
   (styled *il Tecnocrate*). A fog-wreathed industrial city of **seven districts**:
   **Città Alta** (Ducal Palace), **Distretto Militare** (Barracks), **Città Nuova**
   (Academy of Elemental Studies), **Distretto Mercantile** (the Casino), **Città
@@ -88,6 +95,9 @@ the Aestyr. Longship types: **Drakkar, Knarr, Dromen**. Recently ravaged by the 
 of the Wolves** (3015–3024). → `factions.md`, `history.md`
 
 ### Alfheim & the Gaerwath (elf lands) `[CANON — Gaerwath.doc]`
+`[CANON — decision GEO-12]` The elf lands cluster in the **south-east**: **Alfheim** is
+anchored **near the Gaerwath and the Isole d'Argento**, in that SE island cluster (not in the
+north). → world-map reconciliation, open questions.
 - **Alfheim** — realm of the **light elves**; capital **Ost-en-Galad** ("the Shining
   City"); ruled by a queen (the line of **Inanna the Splendent**) and a Council.
 - **Gaerwath** (Elvish "**Sea of Sorcery**") — an **archipelago** of the **Dark Elves**,
@@ -117,7 +127,8 @@ Ancient, half-forgotten technology (the Pozze, the Vere Vie). → `peoples.md`
 ### Sadhir — the Shining Desert (South) `[CANON — decision GEO-1 = layered]`
 **Two eras, both canon.** Once a shallow inland sea dotted with **human island-kingdoms** — the
 **Sadhiriti**, ruled by a **human sultan** from cities like **Al-Sidath** and **Al-Jabur**, with
-**Marid djinn** and salt-wraiths (Gash-Azr). Then a cataclysm dried the sea (~2400 d.M.) into the
+**Marid djinn** and salt-wraiths (Gash-Azr). Then the **Grande Prosciugamento** (the Great Drying,
+~2400 d.M. — a *later* cataclysm, **not** the primordial La Catastrofe) dried the sea into the
 blinding **salt desert** of ruins, the **Deserto Scintillante** — and in the age that followed the
 **matriarchal Sarradhi lizardfolk** rose to rule over the drowned human ruins (the Sultanate of
 Zarash-Sur, Kalzharan, the Wheel of Life; with **hermit-crab** subject folk). So the region reads

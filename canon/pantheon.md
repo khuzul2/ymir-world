@@ -39,6 +39,13 @@ element.
 
 `[CANON]` *(Player Guide pp.21–22)*
 
+`[CANON — decision COS-20]` In the **cosmological taxonomy** these ~10 "principal" gods
+(Ishtar, Kur, Thurms, Gog, Aisen, Tifereth, Hokhmah, Tuchulcha, Orum, Ranin…) rank as **Dèi
+Minori (Lesser Gods)** — beneath Ech, the Prime Duality, and the Six Twins — even though
+several are **major in cult**. The **neutral** among them are the flashpoint of the Church of
+Mithra's **Inclusivist vs. Popolare** schism (whether such gods may be honoured within the
+faith). → Church politics, below.
+
 - **Ishtar** — the Mother Goddess; Moon, Love, and also War. Wife of Mithra.
   Symbol: silver moon.
 - **Kur** — the Dark Lady; death and the underworld, giver of oracles and
@@ -69,7 +76,9 @@ gods mirror the common ones, others are wholly distinct.
 
 - **Quetzalcoatl** — the Feathered Serpent; Life, Birth, Good; "the Great
   Benefactor." *(= Mithra.)* Symbol: feathered serpent.
-- **Omotecuthli** — Lord of Duality; Abundance and Wisdom. Symbol: a star.
+- **Omotecuthli** — Lord of Duality; Abundance and Wisdom. Symbol: a star. `[CANON —
+  decision COS-21]` The Xebechani mask of **Dingir** (the Twofold — light/shadow, logic/Magic;
+  shared star-symbol).
 - **Tezcatlipoca** — Lord of the Night Sky, protector of warriors (Lawful Good).
   Symbol: a jaguar.
 - **Ehecatl** — the Inconstant *(= Heis)*. Symbol: chameleon.
@@ -78,30 +87,37 @@ gods mirror the common ones, others are wholly distinct.
 - **Xiuhtecuhtli** — Lord of the Land of Ash; Fire *(= Diis)*. Symbol: a baboon.
 - **Tamoanchan** — the Incorruptible *(= Hudemia)*. Symbol: a gull.
 - **Heichpyel** — the Observer; scribe of the gods, keeper of secrets that must
-  not be revealed. Symbol: an owl.
+  not be revealed. Symbol: an owl. `[CANON — decision COS-21]` An **exoteric mask of the one
+  Observer**, **Tuulhak-Xanar = Sguardo-sul-Nulla** (see the Outer Gods below).
 - **Azatzotech** — the Great Putrefier; Putrefaction, Death, the Undead; "the
   Putrescent Horror" *(= Ahriman)*. Symbol: a condor.
 - **Yogh** — the Spider-God; Poison and Assassination; "the Creeping Death."
-  Symbol: a spider.
+  Symbol: a spider. `[CANON — decision COS-5]` **One cross-cultural god**, not two: this
+  Xebechani dark-god is the **same Yogh** culted at **Ulan-Tang** (the Conclave delle Ombre /
+  Azar-Kalish, High Priest Sazar-Gadash). → `geography.md`, `factions.md`.
 - **Xhulhu** — He Who Sleeps and Dreams; god of the Abysses, the Wrecker and
   Storm-Bringer; "the Madness from the Deep." Symbol: a tentacle.
-  `[INFERRED]` A Lovecraftian/Cthulhu register distinct to the Xebechani —
-  possibly linked to the outer god **Sguardo-sul-Nulla** ("Gaze-upon-the-Void")
-  in the Cartosa timeline. → `history.md`, open question.
+  `[CANON — decision COS-21]` A Lovecraftian/Cthulhu register distinct to the Xebechani, and
+  an **exoteric mask of the one Observer** — **Tuulhak-Xanar = Sguardo-sul-Nulla**
+  ("Gaze-upon-the-Void"). Xhulhu and Heichpyel are two faces of that single Ancient God.
+  → `history.md`, `cosmology.md`.
 
 ## The Outer Gods (Dèi Esterni / Antichi Dei) `[CANON — cosmologia.txt, dei-esterni.txt]`
 > ⚠️ Links to the GM secret — see `secret-the-great-lie.md`. Openly, the Xebechani
 > worship an "alien" pantheon; secretly these *are* the pre-Adepti **Ancient Gods**, the
 > true sleeping deities the Adepti sealed away.
 Six named Outer Gods (worshipping one caused "il Disastro"):
-- **Tuulhak-Xanar** — the Observer.
+- **Tuulhak-Xanar** — **the Observer**. `[CANON — decision COS-21]` Locked identity:
+  **Tuulhak-Xanar = Sguardo-sul-Nulla**, the wandering red/blood moon. **Xhulhu** and
+  **Heichpyel** in the Xebechani pantheon above are **exoteric masks** of this one Observer.
 - **Xuxhul'Xhathi** — the Judge; a "Trichotomy" of Good / Evil / Nothing.
 - **Xatol-Nahuactl** — the Silent.
 - **Tlahuiz'Halpantexuhtli** — the First.
 - **Xotl-Nag'aaqe** — the Mother.
 - **Xip-Tenalthe** — the Risen.
-The wandering **Blood Moon**, **Sguardo-sul-Nulla** ("the Gaze into the Void"), is the
-Observer stirring — the leading edge of the Ancient Gods' return in the Era della Marea.
+The wandering **Blood Moon**, **Sguardo-sul-Nulla** ("the Gaze into the Void"), **is
+Tuulhak-Xanar the Observer** stirring — the leading edge of the Ancient Gods' return in the
+Era della Marea (a wandering body distinct from **Ishtar's** silver moon; → `calendar.md`).
 
 ## Racial creator-gods `[CANON — religione-nani.txt, etc.]`
 - **Durkaam** (& his consort **Damkianna**) — the **Dwarves'** creator-god, said to have
@@ -113,10 +129,13 @@ Observer stirring — the leading edge of the Ancient Gods' return in the Era de
 ## Regional & lesser deities `[CANON — regional docs]`
 - **Thal'Khal** — a goddess worshipped in Helgedad's **Seamark** alongside **Hudemia**
   and **Diis** as a triad of feminine/maternal aspects (the **Torre Splendente**
-  temple). *(Helgedad.doc.)*
-- **Valrin** — the Dark Elves' **warrior god who leads the holy war**. *(Gaerwath.doc;*
-  *note "Valrin" is also the Dark-Elf word for bound extraplanar "Forces" — a god and
-  a class of demon-servant share the name.* `[CONFLICT?]` *→ NOTES.)*
+  temple). *(Helgedad.doc.)* `[CANON — decision COS-7]` **Thal'Khal = the Seamark cult-name
+  of Kur** (the Dark Lady; death, the underworld, oracles) — a local mask of a common god,
+  not a distinct deity.
+- **Valrin** — the Dark Elves' **warrior god who leads the holy war**. *(Gaerwath.doc.)*
+  `[CANON — decision COS-8]` No conflict: **Valrin is the war-god**, and the bound extraplanar
+  "**Forces**" the Dark Elves summon are **named for / sworn to serve him** — the god and his
+  demon-servant class share the name by design (the Forces are his). → `peoples.md`, `bestiary.md`.
 - **Myethel** — the Dark Elves' **goddess of magic and oracles**. *(Gaerwath.doc; not
   to be confused with **Niethel**, the elves' divine place of origin.)*
 - **The Wheel of Life (il Ciclo)** — the Sarradhi lizardfolk creed of the Sadhir;
@@ -154,6 +173,7 @@ ranked roster and status in `bestiary.md`; the prison's cracking is in `history.
   countless — a fuller local-cults list may live in **Maraviglie**, **Edizione
   Straordinaria**, or the regional docs (not yet fully mined).
 - Alignments are given for only some gods; the rest are `[INFERRED]` from domains.
-- Is **Xhulhu / Sguardo-sul-Nulla** an "outer god" outside the Ech duality
-  entirely? The Cartosa timeline treats Sguardo-sul-Nulla as an intruding
-  **divinità esterna** — a possible third cosmological axis. → `[CONFLICT?]`
+- `[RESOLVED — decisions COS-9/COS-21]` **Xhulhu / Sguardo-sul-Nulla** is indeed an Outer God
+  **outside the Ech duality**: the Ancient/Outer Gods are a **third cosmic axis** (COS-9), and
+  Sguardo-sul-Nulla is **Tuulhak-Xanar the Observer**, of whom Xhulhu and Heichpyel are
+  exoteric masks (COS-21). → `cosmology.md`.

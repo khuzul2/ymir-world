@@ -44,11 +44,14 @@ Puppeteer), and **Masak** (Illusions) survive to reach Ymir. → `history.md`, `
 
 ## The True Dragons (Veri Draghi) `[CANON — draghi.txt]`
 **Twenty** True Dragons, each elemental in nature, **engineered by the Adepti** as living
-superweapons to guard Ymir's secrets (→ `secret-the-great-lie.md`). Only the six **Qi-Long
-Dei-Drago (Dragon-Gods)** stayed loyal; their king is **Ouroboros**, the True Dragon God
-(who wakes and destroys Alfheim in the Era della Marea — `history.md`). Named examples:
-**Gwalgamaur** = dragon #8, "**il Dorato**," Fire Dragon of **Wald**; **Nihoggr**, the Ice
-Dragon of **Helgedad**; plus Leviathan and others (full roster + elements + regions in
+superweapons to guard Ymir's secrets (→ `secret-the-great-lie.md`). `[CANON — decision
+MAG-12/13]` Of them, only the six **Qi-Long Dei-Drago (Dragon-Gods)** stayed loyal; **above the
+loyal/rogue split** stands **Ouroboros**, the **True Dragon God** — a **seventh, apex
+Dragon-God**, neither a mere loyalist nor a rogue (he wakes and destroys Alfheim in the Era
+della Marea — `history.md`). So the frame is **six loyal Dei-Drago + Ouroboros**. And
+**"Leviathan" is Ouroboros's elemental *type*** (his sea/leviathan element), **not a separate
+21st dragon**. Named examples: **Gwalgamaur** = dragon #8, "**il Dorato**," Fire Dragon of
+**Wald**; **Nihoggr**, the Ice Dragon of **Helgedad** (full roster + elements + regions in
 `sources/extracted/wiki/creatures-dragons.md`). Lesser dragons (drakes, wyverns, serpents)
 and typed variants (Gas/Air, Eastern/Storm, Earth) also exist.
 `[CONFLICT]` The dawn-of-time **Grandi Vermi** (Great Worms) vs. these Adepti-made dragons:
@@ -59,8 +62,10 @@ accounts are myth vs. truth. → `NOTES.md`
 - **Grandi Vermi (Great Worms) / Draghi (Dragons)** — appear at the world's dawn,
   when Ymir is first "peopled with life." Also the mightiest of Hybrid **Elementals**
   (→ `cosmology.md`). The ancient dragon **Gwalgamaur** wages the Great War of 3025.
-- **Dei-Drago (Dragon-Gods)** — appeared in the Qi-Long when the Mah-Dhol empire fell
-  (1900–1920 d.M.). Nature to be detailed from **Qi-Long.docx** (not yet mined).
+- **Dei-Drago (Dragon-Gods)** — `[CANON — decision MAG-14]` **awoke / manifested** in the
+  Qi-Long when the Mah-Dhol empire fell (**~1900–1920 d.M.**); they were **not created then** —
+  they are ancient, Adepti-engineered True Dragons that **stirred** at that date. Nature to be
+  detailed from **Qi-Long.docx** (not yet mined).
 
 ## Southern fauna `[CANON — Cartosa Guida p.5]`
 - **Daretas** — six-legged, ox-sized armadillo-like beasts of the highlands; pack
