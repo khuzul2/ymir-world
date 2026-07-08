@@ -41,10 +41,11 @@ month of each group; grouping is the natural reading).
 `[CANON]` Time is reckoned from **La Catastrofe / the birth of the Maelstrom**:
 years are numbered **d.M.** = *dopo il Maelstrom* ("after the Maelstrom"). Year 0
 is **La Grande Paura** (the Great Fear). A later reckoning, the **Era della Marea**
-(Age of the Tide), restarts at its own Year 0 with the waking of Sguardo-sul-Nulla
-and the shattering of the Maelstrom's isolation. The latest attested date in any
-source is **Era della Marea 2 = 3027 d.M.** (the *Libro Rosso*'s imprint) — so the two
-reckonings run in parallel, with **EM = d.M. − 3025**. → `history.md`.
+(Age of the Tide), is the **name of the current age**, begun ~3025 d.M. with the shattering
+of the Maelstrom's isolation. `[CANON — decision HIS-1/COS-22]` Use plain **d.M. (*dopo il
+Maelstrom*)** for dates (drop the "EM = d.M. − 3025" numeric offset). The age runs **Tide
+(~3025–3027) → Nuova Era del Caos (3026–3260) → Nuovo Equilibrio (3260–~3518)**; the
+**manual's present ≈ 3518 d.M.** → `history.md`. → `history.md`.
 
 `[CONFLICT]` The Cartosa gazetteer once spells the world "**Yimir**" and elsewhere
 "**Ymir**"; the Player Guide also has one "Yimir". Treating **Ymir** as canonical

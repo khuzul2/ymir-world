@@ -56,6 +56,73 @@ Recorded as you decide them. → written into `canon/`.
   *shaped/engineered* peoples, but real/older origins coexist and each myth holds a kernel of truth.
   Keystone: **Humans = the native Tanoth of Ymir, NOT engineered** (COS-23).
 
+**Batch 4 (2026-07-07):**
+- **HIS-5 — the "two unnamed adventurers" → DECIDED: B (mythic/unnamed).** History remembers the
+  deed of breaking the seal, not the names; leaves room and reads more legendary.
+- **GEO-3 — canonical world map → PENDING** (you're reviewing the 3518 map before choosing A/B).
+- **META-2 — currency → DECIDED: region-specific.** **No single coinage.** Each region/people has
+  its **own money and economic system fitting its flavour** (e.g. Cartosa doubloons/pieces-of-eight;
+  Armora industrial marks & guild scrip; Qi-Long cast cash-coins & jade; Letia church-minted coin;
+  Helgedad hacksilver/arm-rings; Sadhir salt & coral tokens; the Sarradhi coral-standard). The
+  Rolemaster `ma/mb/mr/mo` are placeholder denominations only. → a per-region currency appendix.
+- **"Confirm all minor items" → DECIDED (my proposals adopted):**
+  - **COS-3** Plane of Chaos = the realm of Corrupted Essence (one thing, two names).
+  - **COS-5** Yogh = one cross-cultural god (Xebechani dark-god also culted at Ulan-Tang).
+  - **COS-6 / COS-13** one wandering **red moon = the Observer (Sguardo-sul-Nulla)**, distinct from
+    Ishtar's silver moon; appears ~3026, recedes ~3260.
+  - **COS-7** **Thal'Khal = Kur's** Seamark cult-name.
+  - **COS-8** Valrin = the war-god; his bound "Forces" are named for/serve him.
+  - **COS-9** the Ancient/Outer Gods are a **third axis**, older than & outside the Ech duality.
+  - **COS-15** Aether/Nether are **Essence-states, not planes**; Nether ≠ Corrupted Essence.
+  - **COS-16** the **Dreamlands are a region of the Spirit World**.
+  - **COS-17** elves are **native to Tchyo** (not engineered); Niethel = the lost Tchyo age.
+  - **COS-19** one **Outer Space**; the **Inferno/Abisso = the Plane of Chaos** (an engineered prison-pocket).
+  - **COS-20** the ~10 principal gods = **Dèi Minori** cosmologically (major in cult); neutral gods
+    drive the Mithra Inclusivist/Popolare schism.
+  - **COS-21** one **Observer** worn as masks (Xhulhu/Heichpyel exoteric faces); **Omotecuthli = Dingir**.
+  - **COS-22 / META-9** **d.M. = *dopo il Maelstrom*** (strike "dopo Mithra"); fix the false "latest = 3027."
+  - **COS-24** **Ech = the mythologised L'Essenza** (the true kernel of the creation myth).
+  - **COS-25** the Xebechani are the Adepti's portal-caste/inheritors; their botched Outer-God
+    evocation is part of the Catastrophe (the "cities of the dark gods" — BAT-7 — are canon GM-layer).
+  - **HIS-1 / HIS-6 / HIS-7 / HIS-8 / COS-12** present = **~3518 d.M.**, deep in the **Nuovo Equilibrio**
+    (Tide ~3025-27 → Caos 3026-3260 → Equilibrio 3260-~3518). Drop the EM=d.M.−3025 offset.
+  - **HIS-2** Armora: **Leonius (~2990-3026) → Vespertina** (later; present-day ruler is a
+    VonGryffen successor). **HIS-3** Morannagul: unified **2550** within an undying reign ("l'Eterno").
+  - **HIS-4** Cartosa's princes are deep history (~500 yr pre-present); Alberto V reigned ~3017.
+  - **HIS-11** Helgedad = an annexed **dwarf kingdom**, one decline arc. **HIS-12** the three regional
+    wars are a **cascade**, not simultaneous. **HIS-13** **Oblivion = Tofango's** axe (not Kramer's).
+  - **HIS-14** the Xebechani **revived the Adepti portal network** (Vere Vie = revived Ways).
+    **HIS-15** physical Ragash is gone; the reachable one is its **Dream-World mirror**.
+  - **HIS-16 / META-10 / BAT-8** normalize spellings: **VonGryffen**, **Ymir**, one canonical form
+    per figure (disambiguate Marzio/Marzius, Uglush/Uglaark/Ugrumuulsh).
+  - **GEO-4** unnamed map regions stay **frontier/mystery**. **GEO-8** **Solanthya = Letia's
+    capital-seat** (its map label = greater Letia). **GEO-10/11** deserts separate; La Catastrofe =
+    one ~2400 event (both effects). **GEO-12** **Alfheim** anchored in the SE elf-lands near Gaerwath.
+    **GEO-13** globe with one Central Ocean; demon landmass = a "continent." **GEO-14** Qi-Long ~900M kept.
+  - **RAC-3 / RAC-4 / RAC-5 / RAC-8** apply the **orthogonal elf model** (factions Chiari/Illuminati/
+    Oscuri × sub-races Alti/Silvani/**Grigi=Sea**); drop the phantom "Tanoth proper" and spurious "marini."
+  - **RAC-7** one race-tier scheme. **RAC-9** Xebechani Outer-God worship is **open** (Culto delle
+    Stelle), secretly the truth. **RAC-10** the Pozze are ancestral/Adepti tech ("gli Antichi" = engineers).
+    **RAC-11** map each degenerate/hybrid race to one origin. **RAC-12** human taxonomy: **Comuni =
+    majority**, Misti = PC minority, Vorskgen = Primigeni. **RAC-13** Ophiur = a human jungle-nation.
+    **RAC-14** Sohleugir = coastal-and-submarine cities (Ssas'Kher capital). **RAC-16** stub the
+    degenerate races; define Durkaam; "the Ancestors" = the Xebechani "gli Antichi."
+  - **MAG-1 / MAG-15 / COS-18** dragons **engineered** (Great Worms = mythic name; Gwalgamaur =
+    "Custode del Quadrante 74"). **MAG-4** 6 prime elements + a named hybrid/negative set.
+    **MAG-6** rename Topramesk's domain **Void** (reserve "mana" for the substance). **MAG-7** portals
+    are **fixed-gate tech**, exempt from the Maelstrom's teleport-warp. **MAG-8** one Corrupted-Essence
+    substance (CEO = its measure). **MAG-10** one named event-ladder for the disasters. **MAG-11** the
+    six Dragon-Gods need not strictly mirror the six elements (leave as-is). **MAG-12/13** Ouroboros is
+    **above** the loyal/rogue split (a 7th); "Leviathan" = his type, not a 21st dragon. **MAG-14**
+    Dei-Drago **awoke** ~1900-1920 (not created then). **MAG-17** Chaos = the Maelstrom's mutation
+    where relevant; mundane fauna default to native evolution. **MAG-18** the prison-crack is a mass
+    involuntary manifestation (a stated exception).
+  - **META-1** Ymir. **META-4 / META-7** strip mechanics (system-agnostic); tag by system where kept.
+  - **META-5** distinct names — **Maelstrom** (the storm) / **the isolation** (its seal) / **the
+    Marea/Tide** (the current age). **META-8** one tag glossary; distinguish attested vs. reconstructed.
+  - **BAT-2** **Xanadu** (Xebechani fortress housing the Rune) ≠ **Ragash** (the Adepti capital → the
+    Maelstrom). **BAT-3** **four Rune, six seals.** **BAT-6** adopt the **revised** Qi-Long name-set.
+
 ## Status board
 _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 
@@ -63,33 +130,33 @@ _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 |----|-------|------|-----|--------|
 | COS-1 | Public myth vs. the Great Lie — official line | conflict | high | DECIDED:C |
 | COS-2 | Which Catastrophe account is true | conflict | high | DECIDED:A |
-| COS-3 | Demon origin: Corrupted Essence vs. Plane of Chaos | conflict | med | OPEN |
+| COS-3 | Demon origin: Corrupted Essence vs. Plane of Chaos | conflict | med | DECIDED |
 | COS-4 | Are the six Elemental Gods the Adepti? | conflict | med | DECIDED:A |
-| COS-5 | Yogh in two pantheons | conflict | low | OPEN |
-| COS-6 | Moons: one (Ishtar) vs. the red moon | unclear | low | OPEN |
-| COS-7 | Helgedad Seamark's third goddess | conflict | low | OPEN |
-| COS-8 | Valrin: god or bound-demon class | unclear | low | OPEN |
-| COS-9 | Outer Gods as a third cosmic axis | unclear | low | OPEN |
-| HIS-1 | The "present": 3027 vs. 3260 vs. ~3500 | conflict | high | OPEN |
-| HIS-2 | Armora's rulers: Leonius vs. Vespertina | conflict | med | OPEN |
-| HIS-3 | Morannagul's reign dates | conflict | low | OPEN |
-| HIS-4 | Cartosa's sitting prince | conflict | low | OPEN |
-| HIS-5 | Identity of the "two unnamed adventurers" | blind-spot | med | OPEN |
+| COS-5 | Yogh in two pantheons | conflict | low | DECIDED |
+| COS-6 | Moons: one (Ishtar) vs. the red moon | unclear | low | DECIDED |
+| COS-7 | Helgedad Seamark's third goddess | conflict | low | DECIDED |
+| COS-8 | Valrin: god or bound-demon class | unclear | low | DECIDED |
+| COS-9 | Outer Gods as a third cosmic axis | unclear | low | DECIDED |
+| HIS-1 | The "present": 3027 vs. 3260 vs. ~3500 | conflict | high | DECIDED |
+| HIS-2 | Armora's rulers: Leonius vs. Vespertina | conflict | med | DECIDED |
+| HIS-3 | Morannagul's reign dates | conflict | low | DECIDED |
+| HIS-4 | Cartosa's sitting prince | conflict | low | DECIDED |
+| HIS-5 | Identity of the "two unnamed adventurers" | blind-spot | med | DECIDED |
 | GEO-1 | Sadhir: humans vs. Sarradhi lizardfolk | conflict | high | DECIDED:C |
 | GEO-2 | Qi-Long: six kingdoms vs. one empire | conflict | high | DECIDED:A |
-| GEO-3 | World-map vs. prose placement | conflict | med | OPEN |
-| GEO-4 | Unnamed world-map regions | blind-spot | low | OPEN |
+| GEO-3 | World-map vs. prose placement | conflict | med | PENDING |
+| GEO-4 | Unnamed world-map regions | blind-spot | low | DECIDED |
 | RAC-1 | Creation myths vs. engineered-race truth | conflict | med | DECIDED:A |
 | RAC-2 | Playable-races set | unclear | med | DECIDED:C |
-| RAC-3 | Elf faction/sub-race taxonomy applied cleanly | unclear | low | OPEN |
-| MAG-1 | Dragon origin: Great Worms vs. Adepti-made | conflict | med | OPEN |
+| RAC-3 | Elf faction/sub-race taxonomy applied cleanly | unclear | low | DECIDED |
+| MAG-1 | Dragon origin: Great Worms vs. Adepti-made | conflict | med | DECIDED |
 | MAG-2 | Demon classification: Circles vs. Types vs. status | conflict | med | DECIDED:A |
 | MAG-3 | Magic realms: 4 realms vs. Arcano/Elementalism | unclear | med | DECIDED:B |
-| META-1 | Spelling: Ymir vs. Yimir | conflict | low | OPEN |
-| META-2 | Currency units (ma/mb/mr/mo) undefined | blind-spot | low | OPEN |
+| META-1 | Spelling: Ymir vs. Yimir | conflict | low | DECIDED |
+| META-2 | Currency units (ma/mb/mr/mo) undefined | blind-spot | low | DECIDED |
 | META-3 | Source authority when sources fork | unclear | high | DECIDED:C |
-| META-4 | System span: Rolemaster + D&D 4e → agnostic | unclear | low | OPEN |
-| META-5 | "la Marea" / Maelstrom / Era della Marea naming | conflict | low | OPEN |
+| META-4 | System span: Rolemaster + D&D 4e → agnostic | unclear | low | DECIDED |
+| META-5 | "la Marea" / Maelstrom / Era della Marea naming | conflict | low | DECIDED |
 
 > Additional items from the re-audit are appended below the migrated set as they land.
 

@@ -160,10 +160,17 @@
   in — **shatters.** All the Adepts' portals reactivate at once. From the Maelstrom
   a chaotic magical storm sweeps over Ymir, later called the **Marea Stregata**
   (the Bewitched Tide). *(Cartosa — the campaign-present frontier of canon.)*
-- **Era della Marea 2 (= 3027 d.M.)** — the **latest attested date** in any source
-  (the *Libro Rosso del Controllo Magico* is published in Armora this year). This is
-  the **manual's "present."** By now the world is convulsing: the Adepts' portals are
-  open, the Bewitched Tide is loose, and the old orders are turning on each other.
+- **The age unfolds in three phases** `[CANON — decision HIS-1]`: **the Tide (~3025–3027)** →
+  **La Nuova Era del Caos (3026–3260 d.M.)** — the world convulses, portals open, demons and dead
+  walk → **Il Nuovo Equilibrio (3260 – ~3518 d.M.)** — an uneasy, ominous calm as the world
+  re-settles into its changed shape. (The *Libro Rosso*, dated EM 2 / 3027, sits at the very start.)
+- **The manual's present ≈ 3518 d.M.** — deep in the Nuovo Equilibrio, ~250 years into the calm and
+  ~490 years after the Tide (the **geographical world map is dated 3518**). This is far enough past
+  the cataclysm for its consequences to have settled: the risen demon-continent, the dwarves'
+  subterranean mutation, Alfheim's fall and resettlement, new dynasties (Vespertina VonGryffen's
+  line rules Armora). **Dating: use plain `d.M.`; "Era della Marea" is the name of the age, begun
+  ~3025.** Campaign events like the Anno del Sole Nero (~3017) and the Wald War (~3026) are recent
+  **history**, not the present.
 - **Armora vs. Letia (ongoing, ~EM 2)** — **Granduke Leonius VonGriffen** breaks with
   the Letio Church, declaring **Solanthya's Alto Teocrate** corrupt, founding the
   schismatic **Chiesa Armorita di Mithra**, and going to war with the Empire (which he
