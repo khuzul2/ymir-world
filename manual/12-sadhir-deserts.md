@@ -7,10 +7,10 @@
 > copy came home by caravan, and when it reached Elendor a human hand had crowded its margins with
 > objections — small, precise, furious, and dated. The hand is Yusuf al-Marrah's of Tuleph, whose
 > family kept ledgers on that ground for a thousand years before the Sultanate existed, and who
-> evidently considers this chapter written on top of his house. He is correct. It was. The Sadhir
-> is the one land in this book where a whole kingdom stands upon the roof of another and both call
-> themselves the ground floor; so I have set his rebuttals into the text where he wrote them,
-> indented, like the under-kingdom itself. Read them both. Both are right. — *the Curator*
+> considers this chapter written on top of his house. He is correct. It was. The Sadhir is the one
+> land in this book where a whole kingdom stands upon the roof of another and both call themselves
+> the ground floor; so I have set his rebuttals into the text where he wrote them, indented, like
+> the under-kingdom itself. Read them both. Both are right. — *the Curator*
 
 ---
 
@@ -70,9 +70,9 @@ to your companions. The Wheel does not require you to answer every voice that kn
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The Calling Depth is a voice, and the lore-keeper is wise to walk roped. It calls the solitary
-> down through the fissures to the drowned floor where Ea's congregations still keep their office —
-> and below them, to the thing they tend. Those who answer are not eaten. They are enrolled: the
-> Salt-Drowned are recruited, not born. See below for what does the calling.*
+> down through the fissures to the drowned floor, to the congregations that wait there and the
+> thing they tend. Those who answer are not eaten; they are enrolled — the Salt-Drowned are
+> recruited, not born. See below for what does the calling.*
 
 Nor is the salt empty. The **Yarhim** — the colossal crabs whose blue crystal shells your smiths
 covet — graze the flats as they once grazed the sea-floor, patient as hills. **Glass-Stalkers**
@@ -119,13 +119,13 @@ lenses, and incense of the Cycle, and the caravans carry them to every coast of 
 
 He is tart, but he is not wrong, and the Wheel loves an honest spoke: the **hermit-crab folk**
 predate us as the sea predates the salt, and the Sultanate is fortunate in their service. What
-neither of us loves to speak of is what else survived the sea. In the drowned cities under the
-flats, the **Blue Oyster Cult** — the congregation that once nearly handed all Ymir to **Ea**,
-Demon Prince of the Depths, before he was destroyed in the year 1570 — did not entirely die with
-its god. Its remnants persist as the sea's unquiet dead: the **Choir of the Shelled Saints**, the
-**Salt-Drowned**, the **Spawn of the Deep Pearl**, the **Coral Apostles**, and, it is whispered, an
-**Oracle of the Brine Veil** that still takes questions. The Narazeen burn what surfaces. What does
-not surface, we do not dig for, and I commend our example to every relic-hunter reading this.
+neither of us loves to speak of is what else survived. In the drowned cities under the flats, the
+**Blue Oyster Cult** — the congregation that nearly handed all Ymir to **Ea**, Demon Prince of the
+Depths, before he was destroyed in the year 1570 — did not entirely die with its god. Its remnants
+persist as the sea's unquiet dead: the **Choir of the Shelled Saints**, the **Salt-Drowned**, the
+**Spawn of the Deep Pearl**, the **Coral Apostles**, and, it is whispered, an **Oracle of the Brine
+Veil** that still takes questions. The Narazeen burn what surfaces. What does not surface, we do
+not dig for, and I commend our example to every relic-hunter reading this.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Ea is dead — truly dead, his essence unmade. But a church can outlive its god if it has
@@ -200,13 +200,12 @@ keeps one, they say, a man called Faazi-Ghaib — sell the crossing to those who
 the **Terre dei Sogni**, the Dreamlands, where the sleeping soul of every dreamer walks; and
 somewhere in that country, in a prison built as a palace, sits the archmage **Mubafer**, son of the
 thaumaturge Nemelatekh, sealed away until he forgets the two loves he betrayed. He has been
-forgetting for a very long time. Travellers who have stood at his gate say he is gracious, and
-lonely, and knows the place of everything ever buried in either desert; and that his hospitality,
-like the false oasis, is worse the sweeter it looks. The desert teaches one lesson in salt and sand
-alike, riddling reader, and I will close by giving it to you plainly, as a gift, because you have
-been patient: *everything the desert takes, it keeps; and everything it keeps, it remembers; and
-everything it remembers, it will one day offer back to you, at a price, in the voice of something
-you loved.*
+forgetting for a very long time. Those who have stood at his gate say he is gracious, and lonely,
+and knows the place of everything ever buried in either desert; and that his hospitality, like the
+false oasis, is worse the sweeter it looks. The desert teaches one lesson in salt and sand alike,
+riddling reader, and I will close by giving it plainly, as a gift, because you have been patient:
+*everything the desert takes, it keeps; and everything it keeps, it remembers; and everything it
+remembers, it will one day offer back to you, at a price, in the voice of something you loved.*
 
 > **[Yusuf al-Marrah, last entry, in a smaller hand.]** *On the lesson, and on nothing else
 > whatsoever, the lore-keeper and I are agreed. — Y. a-M., Tuleph, written in the shade of my

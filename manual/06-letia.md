@@ -131,9 +131,8 @@ banners went against the orc Khans together. The garment is rent still; but the 
 Equilibrio, and I will end as a witness, not an advocate. The marches sow and reap; the pilgrim
 roads are full; the bells of Solanthya keep the hours as they kept them before the Tide. But do
 not mistake the quiet of Letia for sleep. The border keeps are manned; the east is watched; the
-Khans are counted; the synods, whatever their quarrels, agree on the watch. We are old, and we
-have buried provinces, kings, and one entire age of the world — and we are still here. `[INVENTED
-— present-day texture; canon fixes only that Letia endures under the Church at ~3518]` Let the
+Khans are counted; the synods, whatever their quarrels, agree upon the watch. We are old, and we
+have buried provinces, kings, and one entire age of the world — and we are still here. Let the
 last line of the chapter be the one carved over the sun-gate of the holy city: *The light is not
 ours; the keeping of it is.*
 
@@ -141,10 +140,11 @@ ours; the keeping of it is.*
 > *One thing the watchful Empire does not watch, because it does not know to. Since the years of
 > the Chaos, the dwarves of Naughrith have quietly sealed their deepest galleries beneath the Monti
 > Bianchi and do not say why — not to Solanthya, not to their own young. Something below the White
-> Mountains answered the Tide the way deep water answers the moon, and has not entirely stilled
-> since. Whether it is a work of the Adepti, a thing that fled the cracked prison, or something the
-> mountain always held, no canon yet says — the hook is left open, and it is left HERE.
-> [INVENTED — open GM hook; the sealed galleries and the stirring are new connective tissue.]*
+> Mountains answered the Tide the way deep water answers the moon, and it has not entirely stilled
+> since. A work of the Adepti; a thing that slipped the cracked prison; something the mountain
+> always held — I have not gone down to see. Neither, yet, has anyone who came back up.
+> [INVENTED — open GM hook: the sealed galleries and the stirring are new connective tissue,
+> deliberately unresolved.]*
 
 ---
 *Colophon.* Chapter VI. Narrator: **the Annalist of Solanthya**, Clericato di Mithra (invented

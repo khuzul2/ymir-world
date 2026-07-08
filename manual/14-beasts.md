@@ -42,8 +42,8 @@ shell, which is why men die for them — armourers pay a farm for a whole one. L
 comes of it. So do widows.
 
 **Ibridi.** The general name for what the Maelstrom's storms make of living things. No two alike.
-Two rules have kept me alive: count the joints, and if there are too many, leave. Look at the
-eyes, and if they are the wrong number or in the wrong places, leave. Worth: nothing is worth it.
+Two rules keep you alive: count the joints — too many, leave. Look at the eyes — wrong number, or
+wrong places, leave. Worth: nothing is worth it.
 
 **The Marchiati.** Some fool asked me to put the Marked in this book, and I will say this once:
 they are people, born of women, and they go in no bestiary of mine.
@@ -58,8 +58,8 @@ the sand dimples and the heat-shimmer walks against the wind. Travel at midday w
 betray them. Worth: the claws, to lens-grinders and to fools.
 
 **Mirajids.** Things born of the heat haze — elemental, not flesh. They wear the shapes of water,
-of lost friends, of shade. Loose no arrow; you cannot skin a lie. Walk on, drink from your own
-skin, and answer nothing that speaks out of the shimmer.
+lost friends, shade. Loose no arrow; you cannot skin a lie. Walk on, and answer nothing that
+speaks out of the shimmer.
 
 **Cindervine Serpents.** Burrowers. They sleep under the hardpan and come up in the storms, when
 the moving sand hides their sign. In a desert storm, stand on rock or stand on nothing.
@@ -68,15 +68,15 @@ the moving sand hides their sign. In a desert storm, stand on rock or stand on n
 them dried, by weight. An honest little trade — the desert has few.
 
 **Zaar'Qrak.** In the Erg tongue, Rending Death, and the Erg tongue does not exaggerate. Taller
-than any man, six-limbed, black-bristled, plated in bone; it sees in full dark as you see at noon,
-and it knows what weapons are. It leaps out of the night into the middle of a caravan, kills, and
-is gone with a body before the guards turn round. Solitary, the Hunter be thanked; the worst thing
-in the Erg is a mother with cubs. Do not track it. Do not avenge anyone. Leave the country.
+than any man, six-limbed, black-bristled, plated in bone; it sees in full dark as you see at noon.
+It leaps out of the night into a caravan's middle, kills, and is gone with a body before the
+guards turn. Solitary, the Hunter be thanked; the worst thing in the Erg is a mother with cubs. Do
+not track it. Do not avenge anyone. Leave the country.
 
 **The Shrikes of the White Choir.** Not beasts. Leavings — dead things kept walking as carrion
 spirits, singing over the dunes in white rags. Necromancy. Whoever first sang the Choir up broke
 all three of the Hunter's laws at once and should have been given to the Zaar'Qrak alive. Stop
-your ears, keep the wind in your face, and pass by dark.
+your ears and pass by dark.
 
 ### COLD KINDS — Helgedad and the north
 
@@ -108,11 +108,11 @@ second row rakes back and strips the flesh off the bone. They are named for the 
 makes. I will not write it plainer. Kill from beyond neck-reach or not at all.
 
 **Magres.** Seven metres of grey, hairy, scaly wrong: a mouth of a thousand small teeth, piggish
-eyes, useless little hands, dozens of small feet under it like a nightmare's caterpillar. The
-learned say they were kobolds once, warped by the Chaos. Here is the joke: it is a coward. Here is
-where the joke ends: when it panics — and everything makes it panic — it flees over whatever
-stands in the way. Farms. Herds. Companies of soldiers. Never wound one, never startle one uphill
-of a village. Move it as you would move a fire: from far off, toward nothing you love.
+eyes, useless little hands, dozens of small feet like a nightmare's caterpillar. The learned say
+they were kobolds once, warped by the Chaos. The joke: it is a coward. Where the joke ends: when
+it panics — and everything makes it panic — it flees over whatever stands in the way. Farms.
+Herds. Companies of soldiers. Never wound one, never startle one uphill of a village. Move it as
+you would move a fire: from far off, toward nothing you love.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *"Warped by the Chaos," the learned say, and never ask what the Chaos is. It is the Maelstrom.
@@ -127,13 +127,13 @@ of a village. Move it as you would move a fire: from far off, toward nothing you
 A thing with no smell has no honesty. I distrust every entry below.
 
 **Automata and golems.** Armora builds its servants of brass and jar-lightning; the Dark Elves
-bind spirits into stone. Not game — no blood, no fear, no season. Sign, so you can be elsewhere:
-oil-drip, tracks in perfect stride that never wander, no scat, no browse. Nothing that walks and
-does not eat is walking for a good reason.
+bind spirits into stone. Not game — no blood, no fear, no season. Sign: oil-drip, tracks in
+perfect stride that never wander, no scat, no browse. Nothing that walks and does not eat is
+walking for a good reason.
 
 **The war-mechs of Armora.** Bigger, armed, and obedient, which is the worst of it — a beast
-serves its belly, and a belly can be predicted. These serve whoever holds the writ. I have been
-paid to scout past them, and would rather pass a troll bridge. Stay out of the smoke.
+serves its belly, and a belly can be predicted. These serve whoever holds the writ. I have scouted
+past them; I would rather pass a troll bridge. Stay out of the smoke.
 
 **Relitto.** A dead war-construct that did not stay dead. Rusted armour walking, joints weeping
 oil like a wound, cold that climbs into your chest, and under the creak of it — voices. Battle-dead
@@ -144,9 +144,9 @@ die near it. Burn it, then burn the ashes. Then tell a priest where the fire was
 
 I hunt none of these. I write them so you will know when to stop hunting and start praying.
 
-**Spirits.** Everywhere, the way wind is everywhere. Harmless mostly, and the wellspring of every
-mage's trade. But a spirit that stays too long in the world goes sour — Furioso, raging — and a
-raging spirit is weather with a grudge. Cold hollows where birds will not sing: camp elsewhere.
+**Spirits.** Everywhere, the way wind is everywhere. Mostly harmless; the wellspring of magic.
+But a spirit that stays too long in the world goes sour — Furioso, raging — and a raging spirit
+is weather with a grudge. Cold hollows where birds will not sing: camp elsewhere.
 
 **Elementals.** From wisps you could cup in two hands, up rank by rank — servants, mounts,
 guardians, giants, the true ones — to the Signori Elementali, one lord to each element. The small
@@ -204,10 +204,9 @@ track like animals. An animal wants food, a mate, its own ground, and you can re
 the mud. A True Dragon wants something I have no word for. They *watch*. Nothing honest watches
 like that. Gwalgamaur il Dorato sleeps in Wald, and the Young Kingdoms pay him the courtesy of
 silence. Nihoggr the Solitary lies under the Helgedad ice, and the Nortmaar do not fish certain
-lakes. In the east the Qi-Long kneel to six of them as Dei-Drago, gods in dragon flesh — I have
-stood, far off, downwind of one's shadow, and I will not argue the word. Above them all the
-eastern priests set Ouroboros, the True Dragon God, who in the age of the Tide rose and unmade
-Alfheim entire. A country. In days.
+lakes. In the east the Qi-Long kneel to six of them as Dei-Drago, gods in dragon flesh — and I
+will not argue the word. Above them all the eastern priests set Ouroboros, the True Dragon God,
+who in the age of the Tide rose and unmade Alfheim entire. A country. In days.
 
 I crossed a valley below Wald where the Golden One had once been thorough. Sixty years before,
 they told me. The riverbed stone was glass; the soil, ash under a hand's-width of new dirt; no
@@ -218,14 +217,13 @@ Stay out of the valley.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The huntsman's instinct is exactly right: the True Dragons are not animals. They are the
-> Adepti's living superweapons — twenty engineered custodians set over Ymir to guard its secrets,
-> charged to watch for any people climbing too near the Truth, and to burn the ladder. That is the
-> wanting he has no word for. Most drifted from the charge into agendas of their own; the six
-> Dei-Drago of Qi-Long alone kept the faith, which is why they behave most like gods and least
-> like beasts. Above loyalist and rogue alike stands Ouroboros — the apex of the design,
-> "Leviathan" his element, not a twenty-first dragon — and Alfheim died because the wardens' king
-> judged that someone there had climbed too high. When a True Dragon watches you, an old protocol
-> is deciding whether you are prey. Prey is the better outcome.*
+> Adepti's living superweapons — twenty engineered custodians set to guard Ymir's secrets, charged
+> to watch for any people climbing too near the Truth, and to burn the ladder. That is the wanting
+> he has no word for. Most drifted from the charge into agendas of their own; only the six
+> Dei-Drago of Qi-Long kept the faith. Above loyalist and rogue alike stands Ouroboros — the apex
+> of the design, "Leviathan" his element, not a twenty-first dragon — and Alfheim died because the
+> wardens' king judged that someone there had climbed too high. When a True Dragon watches you, an
+> old protocol is deciding whether you are prey. Prey is the better outcome.*
 
 That is the book. If a beast is not in it, I did not meet it — or I met it, and it is why the
 writing stops. Kill clean. Waste nothing. Know what you are killing. Therìos walk the Long Road

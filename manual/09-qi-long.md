@@ -16,9 +16,9 @@
 
 *A border is a wound that two lands agree to keep open.*
 
-The pilgrim came up out of the Sadhir with salt still in his teeth, through the high passes where
-winged shapes ride the dusk and the careless are lifted screaming into it. The bridge at the top of
-the pass asked him nothing. Bridges never do; that is why they outlast kingdoms.
+The pilgrim came up out of the Sadhir with salt in his teeth, through high passes where winged
+shapes ride the dusk and the careless are lifted screaming into it. The bridge at the top of the
+pass asked him nothing. Bridges never do; that is why they outlast kingdoms.
 
 Beyond lies the **Qi-Long**: six kingdoms, forever at war for a supremacy none has won. Each is
 ruled with an iron fist by a **Dio-Drago** — a Dragon-God who walks in the shape of a man or a
@@ -54,21 +54,20 @@ the name does not grieve. Names that outlive their bearers are the oldest tyrann
 
 *The mountain does not lie. The lie lives under the mountain.*
 
-First of the kingdoms the pilgrim entered: the **Spire del Pianto**, the Weeping Spires, a desert
-of stone teeth. Its god is **Qiángdà Shéshān**, the Mighty Serpent of the Mountain — earth is his
-element, and his nature the earth's: dormant, unfathomable, patient past all human patience. His
-true realm is not the spires but the dark beneath them, cities under stone, whose people are taught
-from the cradle that the surface kills. Goblin muleteers led the pilgrim by ways they would not
-name — goblins are common folk in all six kingdoms, and lied to like everyone else. Above, the
-**Tengu** keep the god's order: crow-headed, cruel, fond of heights and of dropping things from
-them.
+First of the kingdoms: the **Spire del Pianto**, the Weeping Spires, a desert of stone teeth. Its
+god is **Qiángdà Shéshān**, the Mighty Serpent of the Mountain — earth is his element, and his
+nature the earth's: dormant, unfathomable, patient past all human patience. His true realm is not
+the spires but the dark beneath them, cities under stone, whose people are taught from the cradle
+that the surface kills. Goblin muleteers led the pilgrim by ways they would not name — goblins are
+common folk in all six kingdoms, and lied to like everyone else. Above, the **Tengu** keep the
+god's order: crow-headed, cruel, fond of heights and of dropping things from them.
 
 Against him stand the **Scorpioni Neri**, the Black Scorpions, whose mark is the scorpion's tail:
 assassins who hide even from those they die for, since the buried people, raised on the god's lie,
 spit at their name. Their couriers drink a poison from their master's own hand, and must return for
 the next cup or die with their secrets in their throat. Above them sits the **Cuspide Nera**, whom
 no one has seen grow old. The pilgrim asked a Scorpion why they protect a people who curse them.
-The answer: "Does the rain ask?"
+"Does the rain ask?"
 
 ### The Fourth Stage — the Provincia di Cenere, Where the Ground Smokes
 
@@ -101,8 +100,7 @@ do not survive salt.
 Their defenders are the **Tigri Celesti**, the Celestial Tigers, whose mark is a tiger's claw:
 ambush-fighters who trap the great turtle-beasts and the Kappa themselves and wear the harvested
 shells to war. Under the **Grande Tigre** they fight as the sea fights — suddenly, then not at all.
-A Tiger told the pilgrim: "We cannot beat the sea. We can beat what crawls out of it." That is the
-whole strategy of the Qi-Long, said in a boat.
+A Tiger told the pilgrim: "We cannot beat the sea. We can beat what crawls out of it."
 
 ### The Sixth Stage — the Foresta Morta, Where the Innkeepers Are Dead
 
@@ -113,8 +111,8 @@ anyway: **Hēi-yīng Fēngxié**, the Black Eagle of the Malign Wind, the undead
 mellifluous, Machiavellian, the one god of the six who prefers the soft word to the fist, because
 his words rot. His court is the **Yurei**: ghosts of the great warriors who challenged him, now his
 property. By night the drowned forest grows temples and lit inns that were not there by day; those
-who enter are eaten by the hospitality. The living are few, stilted above the water, and greet
-strangers with the kindness of people who have buried many guests.
+who enter are eaten by the hospitality. The living are few, stilted above the water, kind in the
+way of people who have buried many guests.
 
 Their guardians are the **Aironi Grigi**, the Grey Herons, whose mark is a heron's wing — the
 loosest of the six societies, wanderers and jokers who gather but once in five years and fight only
@@ -129,7 +127,7 @@ the others unlaughing, and consider this the graver wound.
 North of everything human lies the **Pianura Gelata**, the Frozen Plain, a polar desert under
 mountains of ice. Its goddess is **Mò-hán Lóng**, Dragon of the Frozen Desert — savage, sadistic, a
 connoisseur of endurance. Her servants are **Rakshasa**, beast-bloods crossed with devils, who hunt
-the plain's herders for tribute and for sport. The people endure, which on the ice is a politics.
+the herders for tribute and for sport. The people endure, which on the ice is a politics.
 
 Their society is the strangest of the six: the **Manguste Bianche**, the White Mongooses, whose
 mark is a white lotus. Alone of the societies they fight *for* a god — not the ice-queen, but an
@@ -137,7 +135,7 @@ absent one. At a shrine of cut ice their master told the pilgrim what he tells e
 brother: *"We serve a Dragon-God who is not of this world — not yet. Awaiting his return, we must
 guard his realm with the greatest weapon he left us: our faith."* The other societies mock this as
 superstition; the Golden Hawks whisper darker, that the Mongooses are some enemy's unwitting tools.
-The pilgrim notes only that of all six creeds, theirs is the one that requires the dawn.
+The pilgrim notes only that of six creeds, theirs alone requires the dawn.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Consider what the lotus-bearers pray toward. The six wardens have an elder — apex of all the
@@ -199,7 +197,7 @@ Manners.
 *Climb a spiral long enough and you will meet your own back.*
 
 Of his own order's way the pilgrim will say what novices are told. That **Fato**, Fate, is the road
-and not the walker: the road does not compel your feet, it only outlasts your refusals. That the
+and not the walker: it does not compel your feet, it only outlasts your refusals. That the
 **Essenza** is water and every god a jar, and the jars quarrel over which of them is wet. That
 there are **Tre Reami**, Three Realms, and with them **il più Antico** — "the most Ancient" — of
 whom the teaching says only: *the Three Realms together with the most Ancient shine with a Wisdom
@@ -208,19 +206,18 @@ glowing with its own enchantment, borrowed by all and owned by none.
 
 There is a walk the perfected make, the **Cammino dell'Illuminato** itself, and the pilgrim has
 made it: through the Darkness of Nightmare and the Doubt of Illusion, through the tearing of the
-last Veil; past the faceless judge whose scale is broken, where you are judged with unjust judgment
-and must accept the verdict to pass. Then the spiral: six sanctuaries, one to each elemental
-divinity, each bearing a confession in the first person plural. *Sacrificing ourselves on our own
-altar, we bent the laws of the Cosmos to our will,* says the blue marble of **Hudemia**. *Life
-itself we enslaved, and it bowed at our feet,* says the obsidian of **Therios**. *Drawing on the
-Astral fire, in our Forge we recreated the Essence,* says the ruby of **Diis**. Only when every
-altar is turned toward a mirror that is not there does the seventh sanctuary open, whose confession
-is entire: *we broke every Law, posing as Legislators; we created empty simulacra, pretending they
-were alive; cracking the walls of the World, we were possessed by the elements; in our immense
-Arrogance we defiled the perfection of the Essence.* Beyond waits the Great Library of forbidden
-truth, whose guardian says: *better to live in the darkness of ignorance than perish in the flame
-of a terrible knowledge.* The pilgrim read one page. He will not say which. He walks more slowly
-since.
+last Veil; past the faceless judge whose scale is broken, where you must accept an unjust judgment
+to pass. Then the spiral: six sanctuaries, one to each elemental divinity, each bearing a
+confession. *Sacrificing ourselves on our own altar, we bent the laws of the Cosmos to our will,*
+says the blue marble of **Hudemia**. *Life itself we enslaved, and it bowed at our feet,* says the
+obsidian of **Therios**. *Drawing on the Astral fire, in our Forge we recreated the Essence,* says
+the ruby of **Diis**. Only when every altar is turned toward a mirror that is not there does the
+seventh sanctuary open, whose confession is entire: *we broke every Law, posing as Legislators; we
+created empty simulacra, pretending they were alive; cracking the walls of the World, we were
+possessed by the elements; in our immense Arrogance we defiled the perfection of the Essence.*
+Beyond waits the Great Library of forbidden truth, whose guardian says: *better to live in the
+darkness of ignorance than perish in the flame of a terrible knowledge.* The pilgrim read one page.
+He will not say which. He walks more slowly since.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Set the spiral's six divinities beside the six Dei-Drago and the correspondence is exact,
@@ -244,25 +241,24 @@ Qi-Long is a weather. The pilgrim came to the bridge; the bridge asked nothing; 
 everything east of the mountains, was the only mercy that asked no tribute in return.
 
 > *Curator's note.* One matter I record without judgment. A colleague versed in eastern ciphers
-> observes that the pilgrim's maxims scan, every one, in the courier-meter of the **Mastri
-> Cantori** — the verse-code of the Falchi Dorati. A monk who owes allegiance to none, walking all
-> six kingdoms, remembering everything, published everywhere. I have counted the shadows in this
-> chapter. The count comes out wrong. Count again. — *the Curator*
+> observes that the pilgrim's maxims scan, every one, in the courier-meter of the **Mastri Cantori**
+> — the verse-code of the Falchi Dorati. A monk owing allegiance to none, walking all six kingdoms,
+> remembering everything. I have counted the shadows in this chapter. The count comes out wrong. —
+> *the Curator*
 
 ---
 *Colophon.* Chapter IX. Narrator: **the Pilgrim of the Thundering Gate** (invented framing voice;
-`NARRATORS.md`). Drawn from `canon/geography.md` (six-kingdom present, decision **GEO-2 = A**;
-Vero Dio Drago / Capitale della Luce; Tianqi as historical label), `canon/factions.md` (La Triade;
-the Grandi Sette Imperiali, Scuola del Cancello Tonante, Raduno degli Eroi), `canon/bestiary.md`
+`NARRATORS.md`). Drawn from `canon/geography.md` (six-kingdom present, decision **GEO-2 = A**; Vero
+Dio Drago / Capitale della Luce; Tianqi as historical label), `canon/factions.md` (La Triade; the
+Grandi Sette Imperiali, Scuola del Cancello Tonante, Raduno degli Eroi), `canon/bestiary.md`
 (Dei-Drago **woke ~1900–1920 d.M.**, not born — **MAG-14**; Ouroboros above the loyal/rogue split —
-**MAG-12**), `canon/history.md` (Mah-Dhol), `canon/peoples.md` / `economy.md` (Qi-Long peoples;
-Tal-Tanoth in the Halfling niche; cash-coins, jade), and above all
+**MAG-12**), `canon/history.md` (Mah-Dhol), `canon/peoples.md` / `economy.md` (peoples; Tal-Tanoth
+in the Halfling niche; cash-coins, jade), and above all
 `sources/extracted/batch2-digests/east-qilong.md` (the six Dragon-Gods, realms, servitors, natures;
-the six societies' methods and frictions; the White Mongoose creed; the underground twin city; the
-Cammino cosmology — Fato, Essenza, Tre Reami, il più Antico, magic-as-seventh, the sanctuary
-confessions). Names use the **revised** set per **BAT-6** (2008 set noted by the Curator);
-population ~900 million per **GEO-14** (attritional stalemate among vast populations); present ≈
-3518 d.M. Margins from `canon/secret-the-great-lie.md`. **[INVENTED]**: the pilgrim himself, his
-itinerary, maxims, and encounters; the six-fold fractured form of the present Raduno; the "six
+the societies' methods and frictions; the White Mongoose creed; the underground twin city; the
+Cammino cosmology and sanctuary confessions). Names use the **revised** set per **BAT-6** (2008 set
+noted by the Curator); ~900 million souls per **GEO-14** (attritional stalemate among vast
+populations); present ≈ 3518 d.M. Margins from `canon/secret-the-great-lie.md`. **[INVENTED]**: the
+pilgrim, his itinerary, maxims, and encounters; the six-fold form of the present Raduno; the "six
 called three" quip; the Curator's cipher-suspicion (a hook, consistent with the Falchi's Mastri
 Cantori).

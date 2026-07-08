@@ -60,9 +60,9 @@ lives inside a countdown, and each of our creeds is a way of enduring the sound 
 **Then came the Anni della Discordia — the Years of Discord, near eight centuries after the
 Maelstrom — when the argument over the promise's grammar was settled with armies.** Three
 readings, three creeds. The **Chiari**, the self-styled Light Elves, looked upon Alfheim —
-one fair green splinter of a broken continent — and declared, with the modesty characteristic
-of their queen, that *this* was the Sacred Realm entire: gather there behind Inanna the
-Splendent, tend the gardens, and wait for the Messenger like tenants waiting on a landlord.
+one fair green splinter of a broken continent — and declared that *this* was the Sacred
+Realm entire: gather there behind Inanna the Splendent, tend the gardens, and wait for the
+Messenger like tenants waiting on a landlord.
 The **Illuminati** — they prefer *Rinuncianti*, the Renouncers, and for once a name is
 honest — decided the Realm was a country of the heart, and wandered off to be serene among
 the brief peoples; they made a theology of their fatigue, and call it peace. And we — the
@@ -93,24 +93,23 @@ unguided keel, so that no fleet crosses our water save at our pleasure. There my
 raised cities of a beauty your daylight races find disquieting — towers like black glass
 grown rather than built, streets that descend below the tide and continue, dry and lamplit,
 along the **undersea roads**, island bound to island by bridges of held sorcery that a word
-from the throne could unsay. Order sustains it, and I will state it plainly, since your
-travellers garble it. All that lives is **Elar**, **Nemyel**, or **Kelvar**: the true elves;
-the fallen, elf in shape only, who serve without rights; and everything else that breathes —
-the dragon, the orc, and, Curator, yourself — which we own or do not own as circumstance
-provides. The Elar are gathered into **Lyar**, the Names, and the Names into three **Nath**:
-the **Galadlyan**, the Shining Name, the imperial family alone; the **Celeblyar**, the high
-aristocracy, my own; the **Mallyar**, the lesser Names, who may climb by marriage if they
-breed carefully and bow correctly. Marriage is arranged, once, for life; beside the spouse
-stand up to five concubines of whatever race or sex the contract admits — not licence;
-dynastics, conducted more honestly than your courts manage. Each Lyar keeps its **Gash**, its
-Spirit — a craft-secret held since the Exile — and for a Gash the Names will feud for
-centuries, politely, with poison. And the children. Hear it without the shudder: every child
+from the throne could unsay. Order sustains it, and I will state it plainly. All that lives
+is **Elar**, **Nemyel**, or **Kelvar**: the true elves; the fallen, elf in shape only, who
+serve without rights; and everything else that breathes — the dragon, the orc, and, Curator,
+yourself — which we own or do not as circumstance provides. The Elar are gathered into
+**Lyar**, the Names, and the Names into three **Nath**: the **Galadlyan**, the Shining Name,
+the imperial family alone; the **Celeblyar**, the high aristocracy, my own; the **Mallyar**,
+the lesser Names, who may climb by marriage if they breed carefully and bow correctly.
+Marriage is arranged, once, for life; beside the spouse stand up to five concubines of
+whatever race or sex the contract admits — not licence; dynastics, honester than your courts.
+Each Lyar keeps its **Gash**, its Spirit — a craft-secret held since the Exile — and for a
+Gash the Names will feud for centuries, politely, with poison. And the children. Every child
 of the Elar is **Hyrul**, *unproven*, and each is put to the trial of spirit and of magic.
 The one who passes is Elar, and may lift a whole Name higher. The one who fails is Nemyel.
 Yes — often broken; sometimes mad; that is what failure *is*. You will call it cruel. I call
-it the only honest census ever taken. Every people conducts this trial, Curator; the brief
-peoples merely conduct it slowly, by hunger, war, and accident, and call the survivors
-deserving. We conduct it once, early, and do not lie about the results.
+it the only honest census ever taken. The brief peoples conduct the same trial slowly, by
+hunger, war, and accident, and call the survivors deserving. We conduct it once, early, and
+do not lie about the results.
 
 > *Curator's note.* I will not dignify this serenity with a counter-argument. I have sat in a
 > harbour tavern in Elendor with a Nemyel who escaped the Arvo-diggings — what remained of
@@ -124,13 +123,12 @@ deserving. We conduct it once, early, and do not lie about the results.
 five schools, five parties, five knives in one sheath, and above them the twin altars of
 **Valrin**, warrior god of the holy war, and **Myethel**, lady of magic and oracles. From
 Valrin the Demonologi take the name of their merchandise: the **Valrin**, the Forces — bound
-things from beyond the walls of the world, demons for the most part, sworn to the war-god and
-leased in his name. We bind them, we set them to labour, we spend them; a great Name settles
-its debts in bound Forces as Cartosa settles in silver. Beneath that runs the deeper currency:
-**Arvo**, the pulverised Essence itself, raked from the raw places of the sea by demon-gangs
-and by Nemyel who have no vote in the matter. When the Tide came and the Risonanza Magica cut
-the deep roads and thinned the veins, we did not weep; we bound harder. Scarcity, Curator, is
-merely a tax upon the unprepared.
+things from beyond the walls of the world, demons for the most part, sworn to the war-god. We
+bind them, we set them to labour, we spend them; a great Name settles its debts in bound
+Forces as Cartosa settles in silver. Beneath that runs the deeper currency: **Arvo**, the
+pulverised Essence itself, raked from the raw places of the sea by demon-gangs and by Nemyel
+who have no vote in the matter. When the Tide came and the Risonanza Magica thinned the
+veins, we did not weep; we bound harder. Scarcity, Curator, is a tax upon the unprepared.
 
 **And over all of it, Morannagul.** In the year 2550 of your reckoning a young lord of the
 Shining Name did what eighteen centuries of feuding princes could not, and folded every
@@ -151,49 +149,49 @@ repeal. He is not a king who has lived long. He is an argument that we are right
 > and the Gaerwath has paid its toll so long they have mistaken the toll for a sacrament.*
 
 **Twice we have gone to war with the garden across the water.** Of the first war, the war of
-the Sundering itself, I have spoken. The second — your chronicles' **Second Elven War**, the
-years 2080 to 2115 — was thirty-five years of fleets and sorcery between Alfheim and the
-divided princes of the Gaerwath, and I will be exact where our enemies are lyrical: it
-settled nothing, recovered nothing, and taught the Names the one lesson that mattered — a
-sundered people loses to a gathered one. Morannagul was that lesson's best student. The
-Shallak behind their queen's wards believed the matter closed. They had merely not waited
-long enough. We are good at waiting; it is the one art the Exile perfects.
+the Sundering, I have spoken. The second — your chronicles' **Second Elven War**, 2080 to
+2115 — was thirty-five years of fleets and sorcery between Alfheim and the divided princes of
+the Gaerwath, and I will be exact where our enemies are lyrical: it settled nothing, and
+taught the Names the one lesson that mattered — a sundered people loses to a gathered one.
+Morannagul was that lesson's best student. The Shallak behind their queen's wards believed
+the matter closed. They had merely not waited long enough. We are good at waiting; it is the
+one art the Exile perfects.
 
 **Then the Tide rose, and heaven itself corrected the ledger.** When the Marea Stregata broke
 over the world and the doors of the ancients opened all at once, there rose out of the deep
-time of Ymir the True Dragon God, **Ouroboros**, eldest and king of the great serpents — and
-of all the works of the age of storms he chose one: he fell upon Alfheim, and **Ost-en-Galad,
-the Shining City, the stolen house of the Shallak, went down in fire into its own gardens.**
-I was not yet born; I have handled the dispatches; I will not counterfeit grief my order does
+time of Ymir the True Dragon God, **Ouroboros**, eldest of the great serpents — and of all
+the works of the age of storms he chose one: he fell upon Alfheim, and **Ost-en-Galad, the
+Shining City, the stolen house of the Shallak, went down in fire into its own gardens.** I
+was not yet born; I have handled the dispatches; I will not counterfeit grief my order does
 not feel, nor deny that in the Drowned Athenaeum the bells were rung. Five centuries of ruin
 and rebuilding later, the Chiari creep among their scaffolds under a queen of Inanna's line,
 replanting a splinter and calling it the promise. But it is a strange dish, vindication — to
 receive at last, from the indifferent jaws of a serpent, the justice our fathers were refused
-from heaven. Towers we built stood in that city too, before the Sundering. I said I would not
-counterfeit grief. I did not say there was none in the house.
+from heaven. Towers we built stood in that city too. I said I would not counterfeit grief. I
+did not say there was none in the house.
 
 > *Curator's note.* On the fall he is accurate — the Tide's chroniclers write of a serpent
 > "older than the map." But the Alfheim of today (~3518) deserves better than his scaffolding
 > sneer: Ost-en-Galad is a city again, smaller and graver; its queen keeps both throne and
 > Council; and the Chiari will tell you, with a calm that unsettles visitors, that the dragon
-> *was the trial*, and a people still waiting after that has proven the waiting true.
-> Meanwhile the elves one actually *meets* are mostly neither of these armed theologies: the
-> Grey elves — the Sea elves — sail under every flag from Cartosa to Harbor, and the
-> Illuminati keep their contemplative houses in a dozen lands. The Sundering shouts; most
-> elves live quietly between the shouting. — *the Curator*
+> *was the trial*, and a people still waiting after that has proven the waiting true. And the
+> elves one actually *meets* are mostly neither armed theology: the Grey elves — the Sea
+> elves — sail under every flag from Cartosa to Harbor, and the Illuminati keep their quiet
+> houses in a dozen lands. The Sundering shouts; most elves live between the shouting.
+> — *the Curator*
 
 **One matter remains, and I give it to you as I would give a stranger a drawn blade: hilt
 first, and watching your hands.** The Prophecy is stirring. Since the Tide the doors of the
 world stand open that stood shut for an age, and along them comes the same rumour in a dozen
-accents: that the **Ultimo Messaggero** is coming, or is come; the harbours whisper a name,
+accents: the **Ultimo Messaggero** is coming, or is come; the harbours whisper a name,
 **Shulma**, and cannot say whose. In Alfheim they light the old lamps. In the quiet houses
 the Renouncers, for the first time in centuries, are uncertain of their serenity. And in the
 Gaerwath, Curator, we are neither lighting lamps nor doubting; we are *ready*, as only a
-people can be ready who never once, in three thousand years, unpacked. When the Messenger
-comes and the ledger of the Exile is opened, it will be asked who kept the faith whole and
-who bargained it down to a garden. Set that down exactly as I have said it, in your fine
-neutral hand, and give my regards to your Council of the brief. They have been tolerable
-neighbours, as such things are measured. It will be remembered.
+people can be who never once, in three thousand years, unpacked. When the Messenger comes
+and the ledger of the Exile is opened, it will be asked who kept the faith whole and who
+bargained it down to a garden. Set that down exactly as I have said it, in your fine neutral
+hand, and give my regards to your Council of the brief. They have been tolerable neighbours,
+as such things are measured. It will be remembered.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Two truths the whole race has hold of backwards. First: Ouroboros is no instrument of any

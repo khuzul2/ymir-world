@@ -261,4 +261,5 @@ annexed dwarf-and-human kingdom, one decline arc), **HIS-12** (Waves → Wolves 
 overlapping cascade — the Annalist's "consecutive chastisements" corrected by the Curator),
 **COS-2** (one Catastrophe seen three ways). **[INVENTED]**: the undated "gathering of the clans"
 founding of Letio (canon gives no year); the theological framing throughout; the catechism's
-*destroyed*→*bound* amendment. All dates and events are canon.
+*destroyed*→*bound* amendment; Valdis Nemertine rendered *she* (canon does not gender the last
+heir). All dates and events are canon.
