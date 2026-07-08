@@ -81,7 +81,7 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 > *It rose when the Sovereign Demons' prison cracked in the Tide: not land of Ymir at all, but a
 > slice of the demon-world, dragged up through the breach. Most of the escaping legions died in
 > the crossing. Three Sovereigns did not: **Asmodeus. Xardas. Masak.** The still fires the
-> lookouts counted were watching him back; the bruise in the sky is the seam where two skies
+> lookouts counted were watching the ship back; the bruise in the sky is the seam where two skies
 > overlap and neither yields. The sailor is right: it is a continent; grant it sea-room. And in
 > five hundred years it has not grown — patience, in such a neighbour, being the worst news of all.*
 
