@@ -4,7 +4,7 @@
 **As set down by the Pilgrim of the Thundering Gate, once an initiate of the Scuola del Cancello Tonante, now a mendicant of the Cammino dell'Illuminato, who walked the six kingdoms and paid rent in none.**
 
 > *Curator's note.* This text reached Elendor sewn into a tea-merchant's coat, copied from a
-> walking-book the pilgrim left at an inn, as his order leaves everything. The **Cammino
+> walking-book the pilgrim left behind, as his order leaves everything. The **Cammino
 > dell'Illuminato** is a mendicant way of the East that bows to no Dio-Drago; its monks write of
 > themselves in the third person, holding the self to be luggage. Of the pilgrim I know only what
 > his sandals tell: he has stood in all six kingdoms, and returned, which fewer manage. Read him
@@ -30,7 +30,7 @@ disagreed. The war does not tire.
 
 *Ask a stone about the flood. It was there, and says nothing; that is how you know it was there.*
 
-In every kingdom the old men tell it the same way, quietly, with the door shut. In the deep past
+In every kingdom the old men tell it the same way, door shut. In the deep past
 one **Vero Dio Drago** — the True Dragon-God — reigned alone from the **Capitale della Luce**, the
 Capital of Light, standing yet in the north. Then he was gone; no tale agrees where. Men filled
 the silence, built the empire of **Mah-Dhol**, and for six centuries the Qi-Long was one. When
@@ -63,8 +63,8 @@ god's order: crow-headed, cruel, fond of heights and of dropping things from the
 
 Against him stand the **Scorpioni Neri**, the Black Scorpions, whose mark is the scorpion's tail:
 assassins who hide even from those they die for, since the buried people, raised on the god's lie,
-spit at their name. Their couriers drink a poison from their master's own hand, and must return for
-the next cup or die with their secrets in their throat. Above them sits the **Cuspide Nera**, whom
+spit at their name. Their couriers drink a poison from their master's hand, and must return for
+the next cup or die with their secrets. Above them sits the **Cuspide Nera**, whom
 no one has seen grow old. The pilgrim asked a Scorpion why they protect a people who curse them.
 "Does the rain ask?"
 
@@ -76,8 +76,8 @@ South lies the **Provincia di Cenere**, the Ash Province: sulfur flats, open min
 mountains that have not finished burning. Its god is **Nanfang Huolong**, dragon of fire, despotic
 and wrathful; his priests count their sermons in brandings. His
 servants are the **Oni** — orc-blooded demon-things steeped in elemental fire, driving half-orc and
-human miners alike, for the whip here does not check ancestry. The people of the ash are blunt as
-hammers and as hard to offend twice.
+human miners alike; the whip does not check ancestry. The people of the ash are blunt as hammers
+and as hard to offend twice.
 
 Their shield is the **Cani Rossi**, the Red Dogs, whose mark is a snarling jaw. They run in packs,
 hunt Oni as Oni hunt men, and hold that a rebellion is kept alive the way a fire is: by feeding it.
@@ -151,9 +151,9 @@ Last, the **Regno del Nord**, scarcely a kingdom at all: one city so vast the pi
 days inside it — **Chéngshì**, la Capitale, the **Capitale della Luce** the Vero Dio Drago founded
 and ruled. Its mistress now is **Léilong Lìnbei**, dragon of light and of light's shadow, thunder
 in her voice — paranoid, divided against herself. Her courtiers are the **Kitsune**, fox-people of
-many faces, so that in the Capital no one is certain who anyone is, including the Kitsune. Its
-people are the most refined in the six kingdoms — half-elf poets,
-scholar-clerks, silk-brokers, and the little cat-folk **Tal-Tanoth** (there are no halfling folk
+many faces, so that no one is certain who anyone is, including the Kitsune. Its people are the most
+refined in the six kingdoms — half-elf poets, scholar-clerks, silk-brokers, and the little cat-folk
+**Tal-Tanoth** (there are no halfling folk
 east of the Sadhir; the Tal-Tanoth fill their place, and your pockets) — and every one a spy, if
 only on their neighbors.
 
@@ -177,16 +177,16 @@ believes the old men.
 *A tournament is a war that has learned table manners.*
 
 Every seventh year comes the **Raduno degli Eroi**, the Gathering of Heroes. Under Mah-Dhol it was
-held once, at the capital, before one throne; now it is held six times, before six, each Dio-Drago
-crowning champions into the **Grandi Sette** — the Great Sects that once governed provinces for an
-empire and now serve each the god of its own kingdom: the **Via della Fiamma Imperitura**, the
+held once, at the capital, before one throne; now six times, before six, each Dio-Drago crowning
+champions into the **Grandi Sette** — the Great Sects that governed provinces for an empire and now
+serve each the god of its own kingdom: the **Via della Fiamma Imperitura**, the
 **Tempio del Picco Gelato**, the **Scuola del Padiglione Dorato**, and their peers, with countless
 lesser schools beneath — the pilgrim's own **Scuola del Cancello Tonante** among the least. The
 resistance societies — men call the six together **La Triade**; do not ask why six are called
 three, the name is older than the counting — seed their finest into the lists, for a champion's
 robe passes doors rags cannot. So each god hosts, every seventh year, a festival of its own future
 assassins, and cannot stop: to cancel the games is to admit fear before the other five. The pilgrim
-watched the finals in the Capital and applauded with everyone else. Manners.
+watched the finals and applauded with everyone else. Manners.
 
 ### The Tenth Stage — the Spiral, Which Is Not on Any Map
 
@@ -200,17 +200,17 @@ there are **Tre Reami**, Three Realms, and with them **il più Antico**, "the mo
 than their madness, glowing with its own enchantment, borrowed by all and owned by none.
 
 There is a walk the perfected make, the **Cammino dell'Illuminato** itself, and the pilgrim has
-made it: through the Darkness of Nightmare and the Doubt of Illusion, through the tearing of the
-last Veil; past the faceless judge whose scale is broken, where you must accept an unjust judgment
-to pass. Then the spiral: six sanctuaries, one to each elemental divinity, each bearing a
-confession. *Life itself we enslaved, and it bowed at our feet,* says the obsidian of **Therios**.
-*Drawing on the Astral fire, in our Forge we recreated the Essence,* says the ruby of **Diis**.
-Only when every altar is turned toward a mirror that is not there does the seventh sanctuary open,
-whose confession is entire: *we broke every Law, posing as Legislators; we created empty simulacra,
-pretending they were alive; cracking the walls of the World, we were possessed by the elements; in
-our immense Arrogance we defiled the perfection of the Essence.* Beyond waits the Great Library of
-forbidden truth, whose guardian says: *better to live in the darkness of ignorance than perish in
-the flame of a terrible knowledge.* The pilgrim read one page. He walks more slowly since.
+made it: through the Darkness of Nightmare and the Doubt of Illusion, through the last Veil; past
+the faceless judge with the broken scale, whose unjust judgment you must accept to pass. Then the
+spiral: six sanctuaries, one to each elemental divinity, each bearing a confession. *Life itself we
+enslaved, and it bowed at our feet,* says the obsidian of **Therios**. *Drawing on the Astral fire,
+in our Forge we recreated the Essence,* says the ruby of **Diis**. Only when every altar is turned
+toward a mirror that is not there does the seventh sanctuary open, whose confession is entire: *we
+created empty simulacra, pretending they were alive; cracking the walls of the World, we were
+possessed by the elements; in our immense Arrogance we defiled the perfection of the Essence.*
+Beyond waits the Great Library of forbidden truth, whose guardian says: *better to live in the
+darkness of ignorance than perish in the flame of a terrible knowledge.* The pilgrim read one page.
+He walks more slowly since.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Set the spiral's six divinities beside the six Dei-Drago: the match is exact, element for
@@ -225,7 +225,7 @@ the flame of a terrible knowledge.* The pilgrim read one page. He walks more slo
 
 *Between six fires, do not warm yourself, and do not curse the burning. Walk.*
 
-The pilgrim went out as he came in, over the pass. Behind him the stalemate ground on as it has for
+The pilgrim went out as he came in. Behind him the stalemate ground on as it has for
 sixteen hundred years: six gods, each certain, none sufficient; six societies dying by inches so
 that others may die more slowly; nine hundred millions planting rice between the battle-lines,
 because rice does not care who is divine. The Qi-Long is not a war. A war ends. The Qi-Long is a
@@ -246,9 +246,9 @@ Grandi Sette Imperiali, Scuola del Cancello Tonante, Raduno degli Eroi), `canon/
 (Dei-Drago **woke ~1900–1920 d.M.**, not born — **MAG-14**; Ouroboros above the loyal/rogue split —
 **MAG-12**), `canon/history.md` (Mah-Dhol), `canon/peoples.md` / `economy.md` (Tal-Tanoth in the
 Halfling niche; cash-coins, jade), and above all
-`sources/extracted/batch2-digests/east-qilong.md` (the six Dragon-Gods, realms, servitors, natures;
-the societies; the White Mongoose creed; the underground twin city; the Cammino cosmology and
-confessions). Names per the **revised** set (**BAT-6**; 2008 set noted by the Curator); ~900
+`sources/extracted/batch2-digests/east-qilong.md` (the Dragon-Gods, realms, servitors, natures;
+the societies; the Mongoose creed; the twin city; the Cammino cosmology and confessions). Names
+per the **revised** set (**BAT-6**; 2008 set noted by the Curator); ~900
 million souls per **GEO-14** (attritional stalemate among vast populations); present ≈ 3518 d.M.
 Margins from `canon/secret-the-great-lie.md`. **[INVENTED]**: the pilgrim, his itinerary, maxims,
 and encounters; the six-fold form of the present Raduno; the "six called three" quip; the Curator's
