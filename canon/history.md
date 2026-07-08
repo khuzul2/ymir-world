@@ -199,8 +199,10 @@
 - The True Dragon God **Ouroboros** wakes and **destroys Alfheim** (brother to the six
   Qi-Long Dei-Drago). → `bestiary.md`, `secret-the-great-lie.md`
 - Per-people upheavals: Wald's dwarves mutate underground and the **Monti Bianchi** secede;
-  the Tanoth ("**I Gatti**") retake **Hagelbarn**; the Xebechani are evacuated off-world to
-  planet **X-01**; **Vespertina VonGryffen** reconciles Armora with Letia against the orcs;
+  the Tanoth ("**I Gatti**") retake **Hagelbarn**; the Xebechani are **partially evacuated**
+  off-world to planet **X-01** during the Chaos era `[RULING: partial/temporary — much of the
+  people returned or remained; Xuthal still flies and the Culto delle Stelle endures at the ~3518
+  present, as the manual attests]`; **Vespertina VonGryffen** reconciles Armora with Letia against the orcs;
   the elven **Prophecy** of the Messaggero (Shulma) stirs; the **Sohleugir** report the
   **Maelstrom may be weakening**.
 
