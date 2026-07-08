@@ -9,14 +9,22 @@
 > **arcadia.txt**, and the campaign log "The Gate to Unknown." See the digests in
 > `sources/extracted/wiki/` for the raw detail.
 
-## The one-paragraph truth
-The gods of Ymir are a lie. The beings worshipped as **Mithra, Ahriman, the six
-Elemental Twins** and the rest are — or descend from — the **Adepti**: an alien
-civilisation of tech-sorcerers who once ruled a **galactic empire**, who discovered
-and **sealed the true, sleeping "Ancient Gods,"** stole their power to make themselves
-divine, and in doing so tore reality — birthing demons and the **Maelstrom** — then
-covered it all up and had themselves worshipped. Now, in the **Era della Marea**, the
-Lie is coming apart and the real Ancient Gods are stirring.
+## The one-paragraph truth `[CANON — decision COS-1 = hybrid]`
+The gods of Ymir are **half a lie** — and that is worse than a whole one, because the divine is
+*real*. Genuine gods exist: the true, sleeping **Ancient Gods** are real, and the primal
+Essence-principles the world calls **Mithra** and **Ahriman** are real. But the **Adepti** — an
+alien civilisation of tech-sorcerers who once ruled a **galactic empire** — **discovered and
+sealed the sleeping Ancient Gods, stole their power to make themselves divine, and inserted
+themselves into the pantheon**, co-opting the names and cults of the real powers. In doing so they
+tore reality (birthing demons and the **Maelstrom**), covered it up, and had themselves worshipped
+alongside — and in place of — the genuine gods. So the worshipped pantheon is a **mix**: some of it
+points at real divinity (Mithra/Ahriman, the sealed Ancient Gods), and some is Adepti in divine
+masks. The Lie is the **usurpation, impersonation, and sealing** — not the non-existence of gods.
+Now, in the **Era della Marea**, the Lie is coming apart and the real Ancient Gods are stirring.
+
+> **Hybrid framing (COS-1 = C, COS-10 = A):** real gods *and* real usurpers coexist. Read the
+> Adepti's usurpation below as true **without** concluding the divine is fake — the Ancient Gods,
+> and the Aether/Nether principles behind Mithra & Ahriman, are genuine.
 
 ## Who the Adepti really were `[CANON — welcome-page.txt]`
 - An alien people (race unknown) of unmatched power, wielding **hyper-advanced

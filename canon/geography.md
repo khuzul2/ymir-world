@@ -97,30 +97,34 @@ of the Wolves** (3015–3024). → `factions.md`, `history.md`
   pontiff; the Dark-Elf caste order (**Lyar/Nath/Gash**) → `peoples.md`. Unified under
   **Morannagul** (2550). → `peoples.md`, `history.md`
 
-### Qi-Long — the Dragon-God empire (the wuxia East) `[CANON — Qi-Long.docx]`
-A great ancient empire, capital **Tianqi**, ruled by the hidden **Dio-Drago
-(Dragon-God)** emperor. Six provinces, each governed by one of the **Grandi Sette
-Imperiali** (Great Imperial Sects — see `factions.md`): **Pianura del Sud**,
-**Onde dell'Ovest**, **Regno Centrale**, **Barriera dell'Est**, **Nuvole del Nord**,
-**Provincia Imperiale**. Once unified under the **Mah-Dhol empire** (~1290), which
-fell (1900–1920) and split it into the six kingdoms; the **Dei-Drago** appeared then.
-Starter locale: **Hangli**, a coastal town of the Regno Centrale. Tone: honour-culture
-wuxia/xianxia with martial sects. → `factions.md`
+### Qi-Long — the six Dragon-God kingdoms (the wuxia East) `[CANON — decision GEO-2 = six kingdoms]`
+**Present day: six independent, mutually hostile kingdoms**, each ruled by its own rival
+**Dio-Drago (Dragon-God)** and resisted by one of six secret societies (collectively "**La
+Triade**" — see `factions.md`). The six warred to a centuries-long stalemate. **Ancient backstory:**
+a single **Vero Dio Drago (True Dragon-God)** once reigned over a unified empire from the **Capitale
+della Luce** (the **Tianqi** empire of the maps / *Onore e Memoria*); that unity is long gone — the
+present six Dragon-Gods are successors/usurpers. (The **Mah-Dhol** empire fell 1900–1920.) The White
+Mongoose society serves an absent Dragon-God "not yet of this world," awaiting his return. Tone:
+honour-culture wuxia/xianxia with martial sects. → `factions.md`
+`[NOTE]` Two Dragon-God name-sets exist (2008 vs. revised) — pick the revised set (BAT-6). The
+Tianqi/empire framing survives as **history**, not the present.
 
 ### Xebech — the reptilian homeland (alien East) `[CANON]`
 Jungle-city homeland of the **Xebechani**. Its lost northern part is
 **Loquitchatzotech** (Isle of Death), yielded in a 75-year undead war (2020–2095).
 Ancient, half-forgotten technology (the Pozze, the Vere Vie). → `peoples.md`
 
-### Sadhir — the Shining Desert (salt-sultanate South) `[CANON — Sadhir gazetteer]`
-Once a shallow inland sea of island kingdoms; a cataclysm dried it (~2400 d.M.) into a
-blinding **salt desert** of ruins — the **Deserto Scintillante**. Ruled by the
-**matriarchal lizardfolk Sultanate of the Sarradhi**, with **hermit-crab** subject
-folk. Cities: **Zarash-Sur** (capital, Crystalline Palace, Spiral of Transcendence),
-**Kalzharan** (mesa fortress, Order of the Burning Wheel), **Moluth-Har** (alchemy),
-**Qarsaan** (human ash-rite settlement), **Tuleph** (caravan hub), **Nashifet** (hidden
-smuggler ruin-city). Haunted by the undead remnants of the **Blue Oyster Cult** of the
-demon **Ea**. → `peoples.md`, `factions.md`, `bestiary.md`
+### Sadhir — the Shining Desert (South) `[CANON — decision GEO-1 = layered]`
+**Two eras, both canon.** Once a shallow inland sea dotted with **human island-kingdoms** — the
+**Sadhiriti**, ruled by a **human sultan** from cities like **Al-Sidath** and **Al-Jabur**, with
+**Marid djinn** and salt-wraiths (Gash-Azr). Then a cataclysm dried the sea (~2400 d.M.) into the
+blinding **salt desert** of ruins, the **Deserto Scintillante** — and in the age that followed the
+**matriarchal Sarradhi lizardfolk** rose to rule over the drowned human ruins (the Sultanate of
+Zarash-Sur, Kalzharan, the Wheel of Life; with **hermit-crab** subject folk). So the region reads
+**human-kingdoms-beneath, Sarradhi-sultanate-above**. Haunted throughout by the undead **Blue
+Oyster Cult** of the demon **Ea**. → `peoples.md`, `factions.md`, `bestiary.md`
+`[CONFLICT resolved]` The human "Leggende del Sadhir" and the English gazetteer's Sarradhi are the
+**two eras**, not rival accounts.
 
 ### The Grande Erg, Ulan-Tang & Khorish (deserts) `[CANON — il-grande-erg.txt]`
 Desert lands. **Khorish** — the "**Regno dei Faraoni Eterni**" ruled by the eternal pharaoh

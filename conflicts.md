@@ -13,12 +13,28 @@ Migrated out of `NOTES.md` and expanded by a full re-audit of the extracted corp
 - **Status:** `OPEN` → `DECIDED` (with your call recorded in **Decision**).
 - We walk these one at a time; your decisions get written into the relevant `canon/` files.
 
+## Decisions log (walkthrough)
+Recorded as you decide them. → written into `canon/`.
+
+**Batch 1 (2026-07-07):**
+- **META-3 — Source authority → DECIDED: C (case-by-case).** No fixed precedence; we judge each
+  fork on its merits; you're the final arbiter.
+- **COS-1 — The Great Lie → DECIDED: C (hybrid).** The Adepti are real usurpers **and** real
+  gods / Ancient Gods genuinely exist — both layers literally true. The Lie is the Adepti's
+  *usurpation, impersonation, and sealing of the real Ancient Gods*, **not** that "there are no
+  gods." (Implies **COS-10 = A**: Mithra/Ahriman are real Essence-principles the Adepti co-opted.)
+- **GEO-1 — Sadhir → DECIDED: C (layered).** Human island-kingdoms in the old inland sea; after
+  it dried to salt desert, the **Sarradhi** lizardfolk rose to rule the ruins. Both true, in sequence.
+- **GEO-2 — Qi-Long → DECIDED: A (six kingdoms now).** Present = six warring Dragon-God kingdoms +
+  the six resistance societies ("La Triade"); the Tianqi empire under a "Vero Dio Drago" is ancient
+  backstory.
+
 ## Status board
 _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 
 | ID | Title | Type | Sev | Status |
 |----|-------|------|-----|--------|
-| COS-1 | Public myth vs. the Great Lie — official line | conflict | high | OPEN |
+| COS-1 | Public myth vs. the Great Lie — official line | conflict | high | DECIDED:C |
 | COS-2 | Which Catastrophe account is true | conflict | high | OPEN |
 | COS-3 | Demon origin: Corrupted Essence vs. Plane of Chaos | conflict | med | OPEN |
 | COS-4 | Are the six Elemental Gods the Adepti? | conflict | med | OPEN |
@@ -32,8 +48,8 @@ _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 | HIS-3 | Morannagul's reign dates | conflict | low | OPEN |
 | HIS-4 | Cartosa's sitting prince | conflict | low | OPEN |
 | HIS-5 | Identity of the "two unnamed adventurers" | blind-spot | med | OPEN |
-| GEO-1 | Sadhir: humans vs. Sarradhi lizardfolk | conflict | high | OPEN |
-| GEO-2 | Qi-Long: six kingdoms vs. one empire | conflict | high | OPEN |
+| GEO-1 | Sadhir: humans vs. Sarradhi lizardfolk | conflict | high | DECIDED:C |
+| GEO-2 | Qi-Long: six kingdoms vs. one empire | conflict | high | DECIDED:A |
 | GEO-3 | World-map vs. prose placement | conflict | med | OPEN |
 | GEO-4 | Unnamed world-map regions | blind-spot | low | OPEN |
 | RAC-1 | Creation myths vs. engineered-race truth | conflict | med | OPEN |
@@ -44,7 +60,7 @@ _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 | MAG-3 | Magic realms: 4 realms vs. Arcano/Elementalism | unclear | med | OPEN |
 | META-1 | Spelling: Ymir vs. Yimir | conflict | low | OPEN |
 | META-2 | Currency units (ma/mb/mr/mo) undefined | blind-spot | low | OPEN |
-| META-3 | Source authority when sources fork | unclear | high | OPEN |
+| META-3 | Source authority when sources fork | unclear | high | DECIDED:C |
 | META-4 | System span: Rolemaster + D&D 4e → agnostic | unclear | low | OPEN |
 | META-5 | "la Marea" / Maelstrom / Era della Marea naming | conflict | low | OPEN |
 
