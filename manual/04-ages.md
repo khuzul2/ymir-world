@@ -49,10 +49,10 @@ fallen Ragash and wrought a ritual to banish the demons for ever, at the price o
 Something in it went beyond their governance. There came a light that was not Mithra's; the earth
 quaked for days; mountains burned, seas stood up out of their beds, and the sun was hidden. When
 the peoples crept forth, the armies of the demons were pulverised — but so was the land about
-Ragash, and where the Splendent City had been there turned, and turns yet, a storm that never
-ceases: **il Maelstrom**. From that wound the world was set apart from the common plane of
-creation, as a sickroom is set apart. Call it **La Catastrofe**; call it also judgement upon pride,
-and mercy upon the innocent, for so the Church has always read it.
+Ragash, and where the Splendent City had been there turns yet a storm that never ceases: **il
+Maelstrom**. From that wound the world was set apart from the common plane of creation, as a
+sickroom is set apart. Call it **La Catastrofe**; call it also judgement upon pride, and mercy upon
+the innocent, for so the Church has always read it.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Three tellings walk abroad: the friar's — judgement upon pride; the historian's — a banishing
@@ -154,16 +154,16 @@ holy state it built, I treat in my chapter upon Letia.
 
 The dwarves, our allies of old, had their triumph likewise: **in the Goblin Wars of 2735 to 2740
 d.M.** they retook their great hold of **Naughrith** in the White Mountains, the faithful of Letia
-aiding. But the latter days of the age darkened. I set down the sorrows in their order, for they
-came as chastisements come, one upon another: **in 3015 d.M.**, the Winter of Unrest in Helgedad,
-when the army of the **Lupi** took Nortislong in the Siege of One Day and was thrown back only when
-its generals vanished as mysteriously as they had come; **from 3018 to 3023 d.M.**, the Second War
-of the Waves in the southern seas; **from 3021 to 3024 d.M.**, the War of the Wolves, wherein that
-terror seized near half of Helgedad's isle; and **from 3025 d.M.**, in the Young Kingdoms, the
-great three-sided war that the vulgar call the **Guerra delle Macchine**, wherein Armora, Wald, and
-Zaalesha strove against Vallanya, Caeldir, and Tydriell, and the dark armies of the ancient dragon
-**Gwalgamaur** against them all. Thus did each realm that had strayed from the fold receive its
-scourge in turn; Letia, meanwhile, kept the faith and was kept.
+aiding. But the latter days of the age darkened, and the sorrows came as chastisements come, one
+upon another: **in 3015 d.M.**, the Winter of Unrest in Helgedad, when the army of the **Lupi**
+took Nortislong in the Siege of One Day and was thrown back only when its generals vanished as
+mysteriously as they had come; **from 3018 to 3023 d.M.**, the Second War of the Waves in the
+southern seas; **from 3021 to 3024 d.M.**, the War of the Wolves, wherein that terror seized near
+half of Helgedad's isle; and **from 3025 d.M.**, in the Young Kingdoms, the great three-sided war
+the vulgar call the **Guerra delle Macchine** — Armora, Wald, and Zaalesha against Vallanya,
+Caeldir, and Tydriell, and the dark armies of the ancient dragon **Gwalgamaur** against them all.
+Thus did each realm that had strayed from the fold receive its scourge in turn; Letia, meanwhile,
+kept the faith and was kept.
 
 > *Curator's note.* Three corrections. First, the wars were no tidy procession — Waves, then
 > Wolves, then Machines — but a cascade: the dates overlap, and each conflict fed the next,
@@ -176,11 +176,10 @@ scourge in turn; Letia, meanwhile, kept the faith and was kept.
 > the age the Annalist cannot bring himself to date. See his chapter on Letia, where I press the
 > point. — *the Curator*
 
-**In 3026 d.M.** a red moon rose over the world, and quakes and strange tides followed it; and a
+**In 3026 d.M.** a red moon rose over the world, and quakes and strange tides followed it; a
 nameless heresiarch at **Ulan-Tang** wrought abominations before an ancient portal; and the
 Teocrate of Letia, the Tecnocrate of Armora, and the Grande Khan of the orcs each read the omen,
-and each armed. Of the heresiarch I say no more in this place; his shame is treated where it
-belongs.
+and each armed. Of the heresiarch I say no more here; his shame is treated where it belongs.
 
 ### Of the Era della Marea, Which Is the Age of the Tide
 
@@ -188,15 +187,15 @@ Now I come to the hinge of the latter world, and I write it soberly, for I write
 the mercy of God in one event. **In the years about 3025 to 3027 d.M.** certain adventurers — I
 piously decline to name them — took up the six **Reliquie Divine** and stripped the seals from the
 ancient **Rune del Potere**. Whether they knew what they did, God knows. The **isolation of the
-Maelstrom shattered**. Every door of the ancients opened at once across the face of the world; out
-of the great storm swept a tempest of sorcery called ever after **la Marea Stregata**, the
-Bewitched Tide; the barrier about the Isle of Death fell; and the very **prison of the demons
-cracked**. Yet behold the mercy within the anger: the greater part of the demons perished in the
-breaking, and of all the Sovereigns **only three came forth into Ymir** — Asmodeus, Xardas, and
-Masak — though the fugitives, in their coming, dragged up out of the sea a whole drowned country of
-their own kind, the risen continent that sailors will not name. In those same years the Serpent
-**Ouroboros**, eldest of the Great Worms, awoke, and **Alfheim of the elves was unmade** in a
-season — Alfheim the deathless; let no people, reading this, trust in its own antiquity.
+Maelstrom shattered**. Every door of the ancients opened at once; out of the great storm swept a
+tempest of sorcery called ever after **la Marea Stregata**, the Bewitched Tide; the barrier about
+the Isle of Death fell; and the very **prison of the demons cracked**. Yet behold the mercy within
+the anger: the greater part of the demons perished in the breaking, and of all the Sovereigns
+**only three came forth into Ymir** — Asmodeus, Xardas, and Masak — though the fugitives, in their
+coming, dragged up from the sea a whole drowned country of their own kind, the risen continent that
+sailors will not name. In those same years the Serpent **Ouroboros**, eldest of the Great Worms,
+awoke, and **Alfheim of the elves was unmade** in a season — Alfheim the deathless; let no people,
+reading this, trust in its own antiquity.
 
 > *Curator's note.* Two small honesties. The Annalist "piously declines to name" the adventurers;
 > so does every record in existence — he could not name them if he wished, and piety is cheap where
@@ -207,11 +206,11 @@ season — Alfheim the deathless; let no people, reading this, trust in its own 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The Tide's true mechanism, in order. The six Reliquie were the seals; the Rune del Potere were
 > what the seals held shut; and the "isolation" the friar mourns — the campana d'isolamento, the
-> bell of quarantine over the whole world — was the last working function of the Adepti's ancient
-> ritual: the thing that kept portals dead, demons out, and Ymir in. Breaking the seals woke
+> bell of quarantine over the whole world — was the last working function of the Adepti's ritual:
+> the thing that kept portals dead, demons out, and Ymir in. Breaking the seals woke
 > Sguardo-sul-Nulla — the Observer, the red moon, first of the sealed Ancient Gods to stir — and
-> the bell did not merely crack, it ceased. The Tide was not a punishment and not a mercy. It was a
-> lock failing, and a door opening from both sides.*
+> the bell did not crack, it ceased. The Tide was neither punishment nor mercy. It was a lock
+> failing, and a door opening from both sides.*
 
 Then followed what the chronicles call **la Nuova Era del Caos, from 3026 to 3260 d.M.** — two
 centuries and a third of tribulation, wherein the world convulsed, the doors stood open, and demons
@@ -230,24 +229,24 @@ world's oldest wound were beginning to close. **I set down this chronicle in the
 Maelstrom 3518**, deep in the long calm, and I read in all of it one sentence: the night was long,
 and the morning is Mithra's.
 
-> *Curator's note.* On the reconciliation: it was a treaty between equals, proposed from the
-> Armorite side and signed under the pressure of a common orcish enemy — a Granduchess's statecraft,
-> not a penitent's return. Vespertina's line rules Armora still, and its church remains its own.
-> One may be glad of a peace without gilding its paperwork. As for the Maelstrom "closing" — read
-> the margin below before you take comfort. — *the Curator*
+> *Curator's note.* The reconciliation was a treaty between equals, proposed from the Armorite side
+> and signed under the pressure of a common orcish enemy — a Granduchess's statecraft, not a
+> penitent's return. Vespertina's line rules Armora still, and its church remains its own. One may
+> be glad of a peace without gilding its paperwork. As for the Maelstrom "closing" — read the
+> margin below before taking comfort. — *the Curator*
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The Equilibrio is not a morning. It is the eye of the storm. The Sohleugir's reports are true —
 > the Maelstrom is weakening — but the Maelstrom is the scar over the seal, and the quarantine of
-> the world, and the friar is watching the prison wall thin and calling it a sunrise. The Ancient
-> Gods are stirring; the Observer's eye is already in the sky; the calm of these two centuries is
-> the held breath between the first crack and the collapse. Every chapter of this book is written
+> the world; the friar is watching the prison wall thin and calling it a sunrise. The Ancient Gods
+> are stirring; the Observer's eye is already in the sky; the calm of these two centuries is the
+> held breath between the first crack and the collapse. Every chapter of this book is written
 > inside that breath.*
 
 So end the ages of Ymir, as far as God has unrolled them. What remains of the scroll is His; but a
 chronicler may pray at the foot of the page. *Lord of the Sun, who counted the years before we
-learned to count them: let the calm be long, and let this house of records stand, and let the next
-hand that writes in it be better than mine.* Amen.
+learned to count: let the calm be long, let this house of records stand, and let the next hand that
+writes in it be better than mine.* Amen.
 
 ---
 *Colophon.* Chapter IV. Narrator: **the Annalist of Solanthya**, Clericato di Mithra (invented

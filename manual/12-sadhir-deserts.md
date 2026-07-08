@@ -16,24 +16,23 @@
 
 Sit in the shade of my word, traveller, and I will turn the Wheel backward for you.
 
-**When the Wheel last stood here, the Sadhir was water.** Not the great salt water of the outer
-world but a shallow warm sea, an inland mirror, stitched with islands as a robe is stitched with
-beads. What swims must one day walk; what walks must one day thirst; this is not cruelty, it is the
-turning. In that turning-before-this-one the islands bore kingdoms of your kind, riddle-loving
-reader — human kingdoms, loud and brief and very beautiful, the way sparks are beautiful. They
-fished; they quarried coral; they thought the water would hold them forever. Water holds nothing
-forever. Water is only the Wheel practising to be salt.
+**When the Wheel last stood here, the Sadhir was water.** A shallow warm sea, an inland mirror,
+stitched with islands as a robe is stitched with beads. What swims must one day walk; what walks
+must one day thirst; this is not cruelty, it is the turning. In that turning-before-this-one the
+islands bore kingdoms of your kind, riddle-loving reader — human kingdoms, loud and brief and very
+beautiful, the way sparks are beautiful. They fished; they quarried coral; they thought the water
+would hold them forever. Water holds nothing forever. Water is only the Wheel practising to be
+salt.
 
 > **[Yusuf al-Marrah, caravan-scribe of Tuleph, objects.]** *"Loud and brief." My family's first
-> ledger is dated eleven hundred years before this lizard scholar's Sultanate collected its first
-> tax. The kingdoms of the sea had names, which she does not trouble to give, so I will:
-> **Al-Sidath** and **Al-Jabur**, the twin crowns, and the lesser isles between them. We were the
-> **Sadhiriti**, the masked people — the masks were for the spray then, not the salt. The **sultan
-> at Al-Sidath** — a man, note, a human man, the word* sultan *is ours, she is wearing it — kept a
-> treasury of artifacts from before the Maelstrom, each one warded by a bound **Marid**, the great
-> djinn of the waters. Galleries hundreds of miles long ran beneath the sea-bed from Al-Sidath to
-> Al-Jabur, cut by the mage-lords who hid there in the war that made the Maelstrom. That was not
-> "practising to be salt." That was a civilisation.*
+> ledger predates this lizard scholar's Sultanate by eleven hundred years. The kingdoms of the sea
+> had names, which she does not trouble to give, so I will: **Al-Sidath** and **Al-Jabur**, the
+> twin crowns. We were the **Sadhiriti**, the masked people — the masks were for the spray then,
+> not the salt. The **sultan at Al-Sidath** — a human man; the word* sultan *is ours, she is
+> wearing it — kept a treasury of artifacts from before the Maelstrom, each warded by a bound
+> **Marid**, the great djinn of the waters. Galleries hundreds of miles long ran beneath the
+> sea-bed between the twin crowns, cut by the mage-lords who hid there in the war that made the
+> Maelstrom. That was not "practising to be salt." That was a civilisation.*
 
 **Then the Wheel turned, as it must, and the sea died.** Your annalists call it **il Grande
 Prosciugamento**, the Great Drying, and set it near the year 2400 after the Maelstrom. I will not
@@ -44,57 +43,52 @@ doors. Ask me if this was a catastrophe and I will answer: it was a turning. The
 Whether it will one day inhale again is a question I put to my students to keep them humble.
 
 > **[Yusuf al-Marrah objects.]** *It was the end of the world. Write that down plainly, since she
-> will not. My ancestor Harrun al-Marrah kept the harbour-book at Tuleph in those years, and I have
-> it still: the entries go from cargoes to water-rations to names of the dead in thirty pages. The
-> boats stood in the boatyards until we burned them for the wells' windlasses. And mark this, which
-> no Sarradhi chapter will tell you: Al-Sidath and Al-Jabur* stand yet, *out in the deep salt,
-> untouched — the Salt will not enter them, no one knows why, and some of us say that what is
-> guarded inside them is the true cause of the salt-storms. The old faith of my people is that a
-> stranger will come to the desert and free us from the Salt. We are still waiting. We have grown
-> very good at waiting.*
+> will not. My ancestor Harrun al-Marrah kept the harbour-book at Tuleph in those years: the
+> entries go from cargoes to water-rations to names of the dead in thirty pages. And mark this,
+> which no Sarradhi chapter will tell you: Al-Sidath and Al-Jabur* stand yet, *out in the deep
+> salt, untouched — the Salt will not enter them, no one knows why, and some of us say that what
+> is guarded inside them is the true cause of the salt-storms. The old faith of my people is that
+> a stranger will come to the desert and free us from the Salt. We are still waiting. We have
+> grown very good at waiting.*
 
 > *Curator's note.* Lest the reader stack one disaster upon another: the Drying is **not** the
 > primordial Catastrophe of Chapter I. That elder wound, at the year nought, opened the Maelstrom
-> and broke the Gaerwath and the Silver Isles from the continent; the Sadhir sea died some
-> twenty-four centuries later, of causes no chronicle I hold will name. Two turnings, as Adhima
-> would say. Keep them apart. — *the Curator*
+> and broke the Gaerwath and the Silver Isles from the continent; the Sadhir sea died twenty-four
+> centuries later, of causes no chronicle I hold will name. Keep them apart. — *the Curator*
 
 **What the sea left behind, we call the Deserto Scintillante** — the Shining Desert — and it earns
 the name twice over, once with beauty and once with murder. The **saltflash** glare will cook your
 sight white by noon unless you ride behind saltglass lenses or a Sadhiriti mask; the
 **crystalwinds** come off the flats edged like flensing-knives; the crust of **sinkglass** rings
 sweet underfoot and then is not underfoot at all; **brine fissures** open on pools that look like
-mercy and pickle what drinks them. The **false oases** are worse than none, and the mirage that
-walks is worse than the mirage that lies still — the old Sadhiriti tales tell of a fortress of
-illusion that invites travellers in and does not open again, the house of their **Signore delle
-Illusioni**. And in certain hollows of the deep flats waits what my order names the **Calling
-Depth**: a stillness that is also a summons, a pull behind the breastbone, drawing the solitary
-walker down-slope, always down-slope, toward the old sea-floor. Rope yourself to your companions.
-The Wheel does not require you to answer every voice that knows your name.
+mercy and pickle what drinks them. The **false oases** are worse than none — the old Sadhiriti
+tales tell of a fortress of illusion that invites travellers in and does not open again, the house
+of their **Signore delle Illusioni**. And in certain hollows of the deep flats waits what my order
+names the **Calling Depth**: a stillness that is also a summons, a pull behind the breastbone,
+drawing the solitary walker down-slope, always down-slope, toward the old sea-floor. Rope yourself
+to your companions. The Wheel does not require you to answer every voice that knows your name.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *The Calling Depth is a voice, and the lore-keeper is wise to walk roped. It calls survivors
+> *The Calling Depth is a voice, and the lore-keeper is wise to walk roped. It calls the solitary
 > down through the fissures to the drowned floor where Ea's congregations still keep their office —
 > and below them, to the thing they tend. Those who answer are not eaten. They are enrolled: the
-> choirs of the Salt-Drowned are recruited, not born. See the margin below for what does the
-> calling.*
+> Salt-Drowned are recruited, not born. See below for what does the calling.*
 
 Nor is the salt empty. The **Yarhim** — the colossal crabs whose blue crystal shells your smiths
 covet — graze the flats as they once grazed the sea-floor, patient as hills. **Glass-Stalkers**
 hunt where you can least see them, which is everywhere; **Mirajids** condense out of the heat-haze
 with borrowed faces; **Cindervine Serpents** ride the storm-fronts up out of the ground; the desert
-folk harvest **Tzil beetles** for the alchemists. Over old battlefields you may hear the **Shrikes
-of the White Choir**, and you will not mistake them for birds twice. And on the darkest nights, in
-the ruins and even in living streets, walk the **Gash-Azr** — the Shadows of Salt, cloaked and
-masked in the old Sadhiriti fashion, with nothing behind the mask but darkness and salt. They drink
-the water of the body and leave the rest folded neatly, like laundry.
+folk harvest **Tzil beetles** for the alchemists; over old battlefields you may hear the **Shrikes
+of the White Choir**, and you will not mistake them for birds twice. And on the darkest nights walk
+the **Gash-Azr** — the Shadows of Salt, cloaked and masked in the old Sadhiriti fashion, with
+nothing behind the mask but darkness and salt. They drink the water of the body and leave the rest
+folded neatly, like laundry.
 
-> **[Yusuf al-Marrah objects.]** *One correction and one confirmation. The confirmation: all true,
-> and understated. The correction: she omits the largest thing in her own desert — the leviathan
-> that swims the sands as a fish swims water, whose wake is a storm. Caravan-masters do not omit
-> it. Caravan-masters who omit things are dead. Also: the Gash-Azr wear* our *masks and haunt* our
-> *ruins. Even our ghosts are the under-kingdom's. I note the Sultanate has never once been
-> haunted by anything it built itself.*
+> **[Yusuf al-Marrah objects.]** *One correction: she omits the largest thing in her own desert —
+> the leviathan that swims the sands as a fish swims water, whose wake is a storm. Caravan-masters
+> do not omit it. Caravan-masters who omit things are dead. Also: the Gash-Azr wear* our *masks
+> and haunt* our *ruins. Even our ghosts are the under-kingdom's. I note the Sultanate has never
+> once been haunted by anything it built itself.*
 
 **Above the ruin, in the age that followed, my people rose** — the **Sarradhi**, Those Who Walk
 the Cycle, whom your travellers call lizardfolk. We are matriarchal, mystical, and patient, and we
@@ -134,14 +128,13 @@ its god. Its remnants persist as the sea's unquiet dead: the **Choir of the Shel
 not surface, we do not dig for, and I commend our example to every relic-hunter reading this.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *Ea is dead — truly dead, his essence unmade, one of the first of the Sovereign Demons to fall.
-> But a church can outlive its god if it has something to incubate, and the Blue Oyster Cult left
-> its egg. Beneath the deepest brine, where the old sea's last water pooled and would not dry, the
-> cult sealed the **Deep Pearl**: a vessel of layered nacre and drowned prayer, built to gather
-> what the Abyss remembers of its Prince. It is not Ea. It is the* shape *where Ea was, slowly
-> filling. The Calling Depth is its patience made audible; the Oracle of the Brine Veil is its
-> mouthpiece; and the salt that will not release Al-Sidath and Al-Jabur is the desert holding its
-> two oldest doors shut.*
+> *Ea is dead — truly dead, his essence unmade. But a church can outlive its god if it has
+> something to incubate, and the Blue Oyster Cult left its egg. Beneath the deepest brine, where
+> the old sea's last water pooled and would not dry, the cult sealed the **Deep Pearl**: layered
+> nacre and drowned prayer, built to gather what the Abyss remembers of its Prince. It is not Ea.
+> It is the* shape *where Ea was, slowly filling. The Calling Depth is its patience made audible;
+> the Oracle of the Brine Veil is its mouthpiece; and the salt that will not release Al-Sidath and
+> Al-Jabur is the desert holding its two oldest doors shut.*
 
 **Now cross with me out of the salt, eastward and inland, into the second desert** — for the
 traveller must not confuse them, though both are thirsty. The **Grande Erg** is sand, true sand, a
@@ -166,13 +159,13 @@ sentence in the next life.
 > count my fingers after every handshake.*
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *The scribe thinks Ulan-Tang's spider is a local usurper-god. The Sarradhi think it a demon. The
+> *The scribe thinks Ulan-Tang's spider a local usurper-god; the Sarradhi think it a demon. The
 > Xebechani could correct them both: **Yogh**, the Creeping Death, god of Poison and Assassination,
 > sits in* their *dark pantheon under the same name and always has. One god, across cultures — old,
-> real, and indifferent to which tongue feeds it. Sazar-Gadash, demon-son of Asmodeus, is merely
-> its most ambitious employee; the great spider Adhal-Kibreeshi, the Whispering Lady, is nearer to
-> its true avatar. And remember what else Ulan-Tang is: an ancient portal — the very gate through
-> which the Observer's gaze, Sguardo-sul-Nulla, entered Ymir in 3026. Yogh keeps his web on a door.*
+> real, indifferent to which tongue feeds it. Sazar-Gadash, demon-son of Asmodeus, is merely its
+> most ambitious employee; the great spider Adhal-Kibreeshi, the Whispering Lady, is nearer its
+> true avatar. And remember what else Ulan-Tang is: the ancient portal through which
+> Sguardo-sul-Nulla entered Ymir in 3026. Yogh keeps his web on a door.*
 
 Of **Khorish** I will speak, since my colleague's hand is shaking too hard to hold the pen. It
 names itself the **Regno dei Faraoni Eterni**, the Kingdom of the Eternal Pharaohs; its founder
@@ -195,25 +188,25 @@ one. Everything they fear is still coming; it is merely coming slowly enough for
 > *What did the Eternal Pharaohs actually buy, and from whom? Not godhood, and not from any god.
 > Athmokethepek's bargain was struck with **Netunshiel, Lord of Crypts** — the jackal among the
 > Sovereign Demons — and the terms were a landlord's: eternity as a* tenancy*, with the corvée as
-> rent. Every soul that labours dead in Khorish is a payment forwarded to the Crypt-lord's estate.
-> Here is the joke the pharaohs have not been told: Netunshiel did not survive the Era della Marea.
-> The creditor is dead — and the contract, drafted by a demon and therefore flawless, does not
-> lapse. The rent still accrues, piling up in the dark against the day something inherits the
-> estate and comes to collect the arrears. The pharaohs think they are eternal. They are* escrow*.*
+> rent; every soul that labours dead in Khorish is payment forwarded to the Crypt-lord's estate.
+> The joke the pharaohs have not been told: Netunshiel did not survive the Era della Marea. The
+> creditor is dead — and the contract, drafted by a demon and therefore flawless, does not lapse.
+> The rent accrues in the dark, against the day something inherits the estate and comes for the
+> arrears. The pharaohs think they are eternal. They are* escrow*.*
 
 **One thing more, and the Wheel may rest.** In the deep Erg there are doors that do not open onto
-the desert. The nomads know them and rope their camels well away; the seers of Ulan-Tang — house
-Gaib keeps one, they say, a man called Faazi-Ghaib — sell the crossing to those who must. They open
-on the **Terre dei Sogni**, the Dreamlands, where the sleeping soul of every dreamer walks; and
-somewhere in that country, in a prison built as a palace and furnished as a paradise, sits the
-archmage **Mubafer**, son of the thaumaturge Nemelatekh, sealed away until he forgets the two loves
-he betrayed. He has been forgetting for a very long time. Travellers who have stood at his gate say
-he is gracious, and lonely, and knows the location of everything that was ever buried in either
-desert; and that his hospitality, like the false oasis, is worse the sweeter it looks. The desert
-teaches one lesson in salt and sand alike, riddling reader, and I will close by giving it to you
-plainly, as a gift, because you have been patient: *everything the desert takes, it keeps; and
-everything it keeps, it remembers; and everything it remembers, it will one day offer back to you,
-at a price, in the voice of something you loved.*
+the desert. The nomads rope their camels well away from them; the seers of Ulan-Tang — house Gaib
+keeps one, they say, a man called Faazi-Ghaib — sell the crossing to those who must. They open on
+the **Terre dei Sogni**, the Dreamlands, where the sleeping soul of every dreamer walks; and
+somewhere in that country, in a prison built as a palace, sits the archmage **Mubafer**, son of the
+thaumaturge Nemelatekh, sealed away until he forgets the two loves he betrayed. He has been
+forgetting for a very long time. Travellers who have stood at his gate say he is gracious, and
+lonely, and knows the place of everything ever buried in either desert; and that his hospitality,
+like the false oasis, is worse the sweeter it looks. The desert teaches one lesson in salt and sand
+alike, riddling reader, and I will close by giving it to you plainly, as a gift, because you have
+been patient: *everything the desert takes, it keeps; and everything it keeps, it remembers; and
+everything it remembers, it will one day offer back to you, at a price, in the voice of something
+you loved.*
 
 > **[Yusuf al-Marrah, last entry, in a smaller hand.]** *On the lesson, and on nothing else
 > whatsoever, the lore-keeper and I are agreed. — Y. a-M., Tuleph, written in the shade of my
@@ -222,21 +215,19 @@ at a price, in the voice of something you loved.*
 
 ---
 *Colophon.* Chapter XII. Narrators: **Adhima the Rakhama'i** of Zarash-Sur (invented framing
-voice; `NARRATORS.md`) and **Yusuf al-Marrah** of Tuleph (**[INVENTED]** — an invented rebuttal
-voice created for this chapter's duet; his family, ledgers, and grudges with him). Drawn from
+voice; `NARRATORS.md`) and **Yusuf al-Marrah** of Tuleph (**[INVENTED]** — a rebuttal voice
+created for this chapter's duet; his family, ledgers, and grudges with him). Drawn from
 `canon/geography.md` (the layered Sadhir, decision **GEO-1 = C**: human island-kingdoms beneath,
-Sarradhi Sultanate above; the Grande Erg/Ulan-Tang/Khorish as a separate sand desert per
-**GEO-10**; the two distinct upheavals — La Catastrofe ~0 vs. il Grande Prosciugamento ~2400 —
-per **GEO-11**), `canon/factions.md` (Sultanate ranks, Order of the Burning Wheel, Azar-Kalish,
-Khorish), `canon/peoples.md` (Sarradhi, hermit-crab folk), `canon/bestiary.md` (Yarhim,
-Glass-Stalkers, Mirajids, Cindervine Serpents, Tzil Beetles, Shrikes of the White Choir,
-Zaar'Qrak, Ea †1570), `canon/economy.md` (salt tokens, coral-standard, mana-salt; per **META-2**
-region-specific currency), `canon/pantheon.md` (**COS-5**: Yogh one cross-cultural god), and the
-regions digest `sources/extracted/batch2-digests/regions.md` (the human Sadhiriti legends:
-Al-Sidath, Al-Jabur, the sultan's Marid-warded treasury, the Gash-Azr, the sand-leviathan, the
-Signore delle Illusioni, the awaited deliverer; Ulan-Tang's houses and Night Market; Mubafer and
-the Terre dei Sogni). Margins per `canon/secret-the-great-lie.md` and the above. **[INVENTED]**
-flags: the **Deep Pearl** and the Calling Depth's connection to it (extrapolated from the
-gazetteer's "Spawn of the Deep Pearl" and "Calling Depth psychic lure"); the **Netunshiel
-tenancy** behind the Faraoni Eterni (extrapolated from the Crypt-lord's portfolio and the
-Sovereign Demons' Marea die-off); Harrun al-Marrah and the al-Marrah house. Present ≈ 3518 d.M.
+Sarradhi Sultanate above; the Grande Erg/Ulan-Tang/Khorish as a separate sand desert, **GEO-10**;
+La Catastrofe ~0 vs. il Grande Prosciugamento ~2400 kept distinct, **GEO-11**),
+`canon/factions.md` (Sultanate ranks, Burning Wheel, Azar-Kalish, Khorish), `canon/peoples.md`
+(Sarradhi, hermit-crab folk), `canon/bestiary.md` (desert creatures; Ea †1570),
+`canon/economy.md` (salt tokens, coral-standard, mana-salt; **META-2**), `canon/pantheon.md`
+(**COS-5**: Yogh one cross-cultural god), and the regions digest
+`sources/extracted/batch2-digests/regions.md` (the human Sadhiriti legends: Al-Sidath, Al-Jabur,
+the Marid-warded treasury, the Gash-Azr, the sand-leviathan, the Signore delle Illusioni, the
+awaited deliverer; Ulan-Tang's houses and Night Market; Mubafer and the Terre dei Sogni). Margins
+per `canon/secret-the-great-lie.md` and the above. **[INVENTED]** flags: the **Deep Pearl** and
+its link to the Calling Depth (extrapolated from the gazetteer's "Spawn of the Deep Pearl" and
+"Calling Depth psychic lure"); the **Netunshiel tenancy** behind the Faraoni Eterni; Harrun
+al-Marrah and the al-Marrah house. Present ≈ 3518 d.M.

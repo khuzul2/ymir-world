@@ -29,10 +29,9 @@ my whole people in one sentence, free of charge. Helgedad is the coldest land of
 cold is not weather. Weather changes. **Hard the land; the land's folk harder. What the ice
 takes, the ice keeps.**
 
-**Six Marches** the old Empire cut us into, and six we remain, each with its house and its city
+**Six Marches** the old Empire cut us into, and six we remain, each with its house, its city,
 and its own way of not dying. I sing in all six halls, winter by winter — a skald who cannot
-praise six rival hearths in one season starves in the seventh — so trust a man who has eaten
-everyone's bread.
+praise six rival hearths starves in the seventh — so trust a man who has eaten everyone's bread.
 
 **Kelmark**, in the south-west, is House **Rudstar**'s march, and its city **Kelmar** the
 greatest of ours — which a Tallvar man will dispute, from behind his counting-table. Kelmark
@@ -64,15 +63,15 @@ the **Norsi**, first folk of this island, whose fathers hunted the **Foresta d'I
 Winter Forest — before any keel found us. Every Norsi line keeps its totem, a beast-spirit of
 the Forest that walks with the family, wakes in its dreams, and grieves at its graves; a Norsi
 will forgive an insult to his face sooner than a joke about his wolf, his elk, his white owl.
-Nortislong was our capital once. It was taken once, in a single day. I will come to that shame
-in its right place, and not before.
+Nortislong was our capital once, and taken once, in a single day — but that shame comes in its
+place, and not before.
 
 **Grudgemark**, centre-west, is House **Tannermar**'s, seated at **Grudgeburg**, and its saga is
 written in stone flat on the ground: the roads. Tannermar's folk drove roads through country
 that eats armies, and keep them clear in winters that close the sea itself. They are the
 dwarves' oldest friends among us, which tells you their quality, and they keep the **Case di
-Guarigione**, the Healing Houses, open to any hurt thing that crawls in. Mock the leech-halls if
-you like, southlander. You will crawl to one someday. Everyone does.
+Guarigione**, the Healing Houses, open to any hurt thing that crawls in. Mock the leech-halls,
+southlander; you will crawl to one someday.
 
 **Nortmaar** is mine, and it is no house's. Free land, hill land, land of the **Vorskgen** clans
 — the old blood, first-made men, ancient when the Empire was an ambitious village. We were a
@@ -98,17 +97,17 @@ receives the drowned. The wise whisper, quietly, in the tower's lee, that Thal'K
 the Dark Lady of death and oracles, wearing a kinder face for us — and why not? A sailor would
 rather be gathered by a mother than judged by a queen of skulls. Our keels are three: the
 **drakkar**, the wave-wolf, for war; the deep-bellied **knarr**, for trade; the great oar-heavy
-**dromen**, for whatever needs a hundred backs. In them we have gone farther than your charts
+**dromen**, for whatever needs a hundred backs. We have gone farther in them than your charts
 admit.
 
 **Now the dwarves**, and here I will be fair, for they have earned it and few else have. Under
 the **Monti Aestyr** shine the **Aule Dorate**, the Golden Halls; under the Monti di Bruma
 stands **Stonebridge**, old beyond old, dwarf-work from before men wrote. Deep roads join hall
-to hall, and by those roads the Marches have been fed through sieges and armed through wars.
-Dwarves sell iron honestly and keep oaths better than kings. But mark this, for even the
-dwarves say it low: **below their deepest mines run passages that no dwarf ever dug.** The
-delvers find them, sound them, and brick them shut, and will not sing of them at any price.
-When a dwarf refuses payment for a story, the story is true.
+to hall, and by them the Marches have been fed through siege and armed through war. Dwarves
+sell iron honestly and keep oaths better than kings. But mark this, for even the dwarves say
+it low: **below their deepest mines run passages that no dwarf ever dug.** The delvers find
+them, sound them, and brick them shut, and will not sing of them at any price. When a dwarf
+refuses payment for a story, the story is true.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The under-passages are the outer coils of a **labyrinth**, and the labyrinth is a prison.
@@ -124,10 +123,10 @@ needed them. Neither time did they stay for the feast.
 
 **North of the Wall lies the Landa Gelida**, the Frozen Waste, and there my wit fails me. There
 are ruins in that ice, southlander — towers in no style any mason can name, streets of black
-stone under blue glass, leagues from any land men ever farmed. Evil things walk there and worse
-things wait, and in the Empire's twilight a sorcerer men called the **Signore dell'Oblio**
-dwelt in the Aestyr and reached his hand northward. His name means Lord of Oblivion, and it is
-the only thing about him not forgotten. We do not go north of the Wall. Write that plainly.
+stone under blue glass. Evil things walk there and worse things wait, and in the Empire's
+twilight a sorcerer men called the **Signore dell'Oblio** dwelt in the Aestyr and reached his
+hand northward. His name means Lord of Oblivion, and it is the only thing about him not
+forgotten. We do not go north of the Wall. Write that plainly.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The ruins in the ice were a watch-city, and what it watched is still there. Under the Landa
@@ -141,10 +140,9 @@ the only thing about him not forgotten. We do not go north of the Wall. Write th
 eagle-standards came we were a kingdom already, a kingdom of two crowns, stone and flesh — the
 dwarf-throne in the Aule Dorate, the man-throne at Nortislong — and we were bought, bullied,
 and blessed into a province. A thousand years of tithes and governors followed, and the Wall
-got built, so I will not say we gained nothing; I will say we were not asked. In **2600** we
-walked out. Call it secession; there is no battle in it worth a stanza. The Empire had grown
-too poor to keep us, and we too proud to be kept, and the parting was as loveless as the
-wedding.
+got built; I will not say we gained nothing, only that we were not asked. In **2600** we walked
+out. Call it secession; there is no battle in it worth a stanza. The Empire had grown too poor
+to keep us, and we too proud to be kept, and the parting was as loveless as the wedding.
 
 > *Curator's note.* The skald is precise where it stings: Helgedad before 1555 was indeed a
 > **dwarf-and-human kingdom** (seats: the Aule Dorate and Nortislong), and its road from
@@ -155,9 +153,9 @@ wedding.
 Then the **Winter of Unrest**, in **3015**, and the coming of the **Wolves**. An army out of
 nowhere and nothing — no herald, no demand, no homeland behind it — and at its head **five
 generals** whose faces no living captive ever described. In the **Siege of One Day** — one day,
-southlander; write *one day* — they took Nortislong, capital of the isle, eldest of our cities.
-And then, at the hour of their triumph, the five *vanished* — no bodies, no graves, no ransom —
-and the host broke like ice off a roof, and we threw the leavings back.
+southlander; write *one day* — they took Nortislong, our eldest city and capital. And then, at
+the hour of their triumph, the five *vanished* — no bodies, no graves, no ransom — and the host
+broke like ice off a roof, and we threw the leavings back.
 
 > Then came the wolf-winter, worst of winters:
 > not wolves of the wood but wolves of war,
@@ -209,10 +207,10 @@ of a war whose enemy we never once understood.
 winter the dead walked out of the Landa Gelida under the red moon, and the harbours burned, and
 Seamark buried more sailors than the sea ever took. Since those years — near five hundred now —
 the tale of Helgedad is the **long dwindling**: fewer keels in Harbor, fewer hearths in Kelmar,
-marches thinner, barrows fuller. The Empire's censors would weep at our numbers. Let them weep;
-counting was always their genius, not ours. We are harder than we were, emptier than we were,
-and prouder than we have ever been — and if you ask how pride feeds a people, you have never
-wintered north of the Wall.
+marches thinner, barrows fuller. The Empire's censors would weep at our numbers; counting was
+always their genius, not ours. We are harder than we were, emptier than we were, and prouder
+than we have ever been — and if you ask how pride feeds a people, you have never wintered north
+of the Wall.
 
 > Emptier now are the ale-benches,
 > prouder for that the few that fill them.
@@ -226,21 +224,19 @@ That is the song, southlander. Pay the singer.
 
 ---
 *Colophon.* Chapter VIII. Narrator: **Hrafnkel Ognirsson** of the Nortmaar (invented framing
-voice; `NARRATORS.md`), transcribed from recitation. Drawn from `canon/geography.md` (the
-island and Inferno Gelato; the six Marches and their cities; the Vallo di Aslund; the Aule
-Dorate, Stonebridge, and the non-dwarf passages; Caelebawn; the Landa Gelida and the Signore
-dell'Oblio; drakkar/knarr/dromen), `canon/factions.md` (the Marcher houses; the Ordine della
-Montagna Bianca; Tallvar's three guilds; the Army of the Wolves), `canon/history.md` (annexation
+voice; `NARRATORS.md`), taken down from recitation. Drawn from `canon/geography.md` (the isle,
+the six Marches, the Vallo di Aslund, the dwarf-holds and non-dwarf passages, Caelebawn, the
+Landa Gelida, the ship types), `canon/factions.md` (the Marcher houses, the Ordine della
+Montagna Bianca, Tallvar's guilds, the Army of the Wolves), `canon/history.md` (annexation
 1555; secession 2600; Winter of Unrest and Siege of One Day 3015; Berthrant Vaelaer 3015–3020;
-War of the Wolves 3021–3024; the Tide and the Nuovo Equilibrio), `canon/pantheon.md` (Thurms,
-Heis, the Torre Splendente triad) and `canon/peoples.md` (Norsi, Vorskgen as Primigeni); margins
-from `canon/secret-the-great-lie.md` (the Adepti substrate; the True Dragons as engineered
-weapons). Decisions applied: **HIS-11** (pre-annexation dwarf-and-human kingdom; one continuous
-decline arc), **HIS-12** (the Wolves/Waves/Machines cascade), **COS-7** (Thal'Khal = the Seamark
-mask of Kur). **[INVENTED]** and flagged: the Aslund buried-sword legend; Vorskgen name-notching
-rite texture; the "fifty winters before the Wolves" dating of the Ulding's unification; the
-five generals' number treated as fixed lore; the post-Tide sack of the harbours and the ~3518
-"harder, emptier, prouder" portrait; and the GM margins entire — the labyrinth-prison and its
-forgetting, the under-passages as its coils, the generals' allegiance to the Signore dell'Oblio,
-and **Nihoggr** the Ice Dragon (proposed as one of the twenty True Dragons) — offered as new
-GM canon.
+War of the Wolves 3021–3024; the Tide), `canon/pantheon.md` and `canon/peoples.md` (Thurms,
+Heis, the Torre Splendente triad; Norsi, Vorskgen); margins built on
+`canon/secret-the-great-lie.md` (the Adepti substrate; the True Dragons as engineered weapons).
+Decisions applied: **HIS-11** (pre-annexation dwarf-and-human kingdom; one continuous decline
+arc), **HIS-12** (the Wolves/Waves/Machines cascade), **COS-7** (Thal'Khal = the Seamark mask
+of Kur). **[INVENTED]** and flagged: the Aslund buried-sword legend; the Vorskgen name-notching
+rite; the "fifty winters before the Wolves" dating of the Ulding's unification; the five
+generals' number as fixed lore; the post-Tide sack of the harbours and the ~3518 "harder,
+emptier, prouder" portrait; and the GM margins entire — the labyrinth-prison, the
+under-passages as its coils, the generals' allegiance, and **Nihoggr** the Ice Dragon (proposed
+as one of the twenty True Dragons) — offered as new GM canon.
