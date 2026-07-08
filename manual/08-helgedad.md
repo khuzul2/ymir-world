@@ -169,9 +169,9 @@ and the host broke like ice off a roof, and we threw the leavings back.
 > gone by the grey dawn, graveless, nameless.
 
 **Berthrant Vaelaer** would not let the leavings live. From 3015 to 3020 he hunted the Wolves'
-remnants across every march, swearing to scour Evil from Helgedad root and stone, and his
-muster is the great lay of my grandsires' grandsires: **thirteen thousand and five hundred**
-answered him — rangers of the Winter Forest, dwarves in ring-mail out of both deep halls, the
+remnants across every march, sworn to scour Evil from Helgedad root and stone, and his muster
+is the great lay of my grandsires' grandsires: **thirteen thousand and five hundred** answered
+him — rangers of the Winter Forest, dwarves in ring-mail out of both deep halls, the
 White-Mountain knights of Kelmark, archers out of Caelebawn who had spoken to no man in living
 memory, and older friends still: the walking woods that southrons call **Ents**, and the
 **Great Eagles** off the high Aestyr. Against them: orc-bands and trolls of the waste,
@@ -185,12 +185,12 @@ frost-giants down from the Landa Gelida, and the dead who would not lie down.
 > Never since has the north so mustered —
 > never again may it need to. So we pray.
 
-He broke them, and we breathed — six winters. In **3021** the Wolves came again, in full
-strength, and this time no single day decided it: **three years** the War of the Wolves ground
-on, and near half the isle lay under their terror, and what was done in the taken marches is
-sung only at funerals. Then, as before — as if a hand had picked its pieces off the board — the
-generals were gone, and the packs tore themselves apart, and by **3024** we stood in the
-wreckage, victors of a war whose enemy we never once understood.
+He broke them, and we breathed — one winter. In **3021** the Wolves came again in full
+strength, and no single day decided it: **three years** the War of the Wolves ground on, near
+half the isle lay under their terror, and what was done in the taken marches is sung only at
+funerals. Then, as before — as if a hand had picked its pieces off the board — the generals
+were gone, the packs tore themselves apart, and by **3024** we stood in the wreckage, victors
+of a war whose enemy we never once understood.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Understand it here. The five generals served the **Signore dell'Oblio**, whose will still
@@ -209,14 +209,14 @@ wreckage, victors of a war whose enemy we never once understood.
 > the driest annalist and the proudest skald record the same three words: *no one knows.* —
 > *the Curator*
 
-**And then the Tide**, which you southrons date your whole age by, and which we remember mostly
-as the winter the dead walked out of the Landa Gelida while the red moon watched, and the
-harbours burned, and Seamark buried more sailors than the sea ever took. Since those years —
-and it is near five hundred now — the tale of Helgedad is the **long dwindling**: fewer keels
-in Harbor, fewer hearths lit in Kelmar, marches thinner, barrows fuller. The Empire's censors
-would weep at our numbers. Let them weep; counting was always their genius, not ours. We are
-harder than we were, emptier than we were, and prouder than we have ever been, and if you ask
-how pride feeds a people, you have never wintered north of the Wall.
+**And then the Tide**, which you southrons date your whole age by, and which we remember as the
+winter the dead walked out of the Landa Gelida under the red moon, and the harbours burned, and
+Seamark buried more sailors than the sea ever took. Since those years — near five hundred now —
+the tale of Helgedad is the **long dwindling**: fewer keels in Harbor, fewer hearths in Kelmar,
+marches thinner, barrows fuller. The Empire's censors would weep at our numbers. Let them weep;
+counting was always their genius, not ours. We are harder than we were, emptier than we were,
+and prouder than we have ever been — and if you ask how pride feeds a people, you have never
+wintered north of the Wall.
 
 > Emptier now are the ale-benches,
 > prouder for that the few that fill them.

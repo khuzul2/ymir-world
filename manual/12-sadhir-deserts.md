@@ -97,32 +97,31 @@ the water of the body and leave the rest folded neatly, like laundry.
 > haunted by anything it built itself.*
 
 **Above the ruin, in the age that followed, my people rose** — the **Sarradhi**, Those Who Walk
-the Cycle, whom your travellers call lizardfolk and whose mothers called us out of the hot stones.
-We are matriarchal, mystical, and patient, and we built the **Great Sultanate** not on the bones of
-the sea but beside them, which distinction I insist upon. The **Sultana-Mazarit**, the
-Matron-Sultana, turns at the hub; around her the **Zaharat-al-Ruh**, high viziers and readers of
-the elements; then the **Sa'idari**, governors of the provinces and their rites; the **Narazeen**,
-our warrior-mystics; my own rank, the **Rakhama'i**, keepers of lore; the **Zalim'un**,
-coral-stewards of trade and cistern and road; and the **Safrat**, the common spokes on whom the
-whole Wheel rolls. Our capital is **Zarash-Sur**, built atop an ancient temple-city, where the
-**Crystalline Palace** takes the saltflash and gives it back as glory, and the **Spiral of
-Transcendence** climbs; at **Kalzharan** the **Order of the Burning Wheel** keeps its mesa
-fortress and its vows; **Moluth-Har** in its salt canyon perfumes half the world with alchemy and
-incense and argument; **Qarsaan** is a human town of the Ash-Marked, austere as its rites;
-**Tuleph** is the human caravan-city and neutral hub of all the desert's trade; and of **Nashifet**,
-the hidden city of smugglers and relic-hunters and worse remnants, a lore-keeper officially knows
-nothing. Our trade runs on **salt tokens** and the **coral-standard** of the Zalim'un; we export
-**mana-salt crystals**, elemental corals, Yarhim-shell armour, saltglass lenses, runed ingots, and
-incense of the Cycle, and the caravans carry them to every coast of Ymir.
+the Cycle, whom your travellers call lizardfolk. We are matriarchal, mystical, and patient, and we
+built the **Great Sultanate** not on the bones of the sea but beside them, which distinction I
+insist upon. The **Sultana-Mazarit**, the Matron-Sultana, turns at the hub; around her the
+**Zaharat-al-Ruh**, high viziers and readers of the elements; then the **Sa'idari**, governors of
+provinces and rites; the **Narazeen**, our warrior-mystics; my own rank, the **Rakhama'i**, keepers
+of lore; the **Zalim'un**, coral-stewards of trade and cistern and road; and the **Safrat**, the
+common spokes on whom the whole Wheel rolls. Our capital is **Zarash-Sur**, built atop an ancient
+temple-city, where the **Crystalline Palace** takes the saltflash and gives it back as glory and
+the **Spiral of Transcendence** climbs; at **Kalzharan** the **Order of the Burning Wheel** keeps
+its mesa fortress and its vows; **Moluth-Har** in its salt canyon perfumes half the world with
+alchemy, incense, and argument; **Qarsaan** is a human town of the Ash-Marked, austere as its
+rites; **Tuleph** is the human caravan-city and neutral hub of the desert's trade; and of
+**Nashifet**, the hidden city of smugglers, relic-hunters, and worse remnants, a lore-keeper
+officially knows nothing. Our trade runs on **salt tokens** and the **coral-standard** of the
+Zalim'un; we export **mana-salt crystals**, elemental corals, Yarhim-shell armour, saltglass
+lenses, and incense of the Cycle, and the caravans carry them to every coast of Ymir.
 
-> **[Yusuf al-Marrah objects.]** *"Neutral hub." Tuleph is neutral the way a well is neutral: everyone
-> needs it, so no one is permitted to own it, and the Sultanate graciously permits what it cannot
-> prevent. Her coral-standard is sound money — I am a scribe of ledgers, I give credit where owed —
-> but under half the counting-tables of Tuleph you will still find the old sultans' coin of
-> Al-Sidath, and under certain contracts, older oaths. The hermit-crab folk she has somehow
-> forgotten to mention — the shelled people who lived in the sea before it died, who now scout and
-> dig and guide for her Sultanate because they alone can reach the deep places — they remember
-> which kingdom was theirs first, too. Ask them, when no Narazeen is standing near.*
+> **[Yusuf al-Marrah objects.]** *"Neutral hub." Tuleph is neutral the way a well is neutral:
+> everyone needs it, so no one is permitted to own it. Her coral-standard is sound money — I am a
+> scribe of ledgers, I give credit where owed — but under half the counting-tables of Tuleph you
+> will still find the old sultans' coin of Al-Sidath, and under certain contracts, older oaths. The
+> hermit-crab folk she has somehow forgotten to mention — the shelled people who lived in the sea
+> before it died, who now scout and dig and guide for her Sultanate because they alone can reach
+> the deep places — they too remember which kingdom was theirs first. Ask them, when no Narazeen is
+> standing near.*
 
 He is tart, but he is not wrong, and the Wheel loves an honest spoke: the **hermit-crab folk**
 predate us as the sea predates the salt, and the Sultanate is fortunate in their service. What

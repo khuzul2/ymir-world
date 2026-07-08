@@ -1,0 +1,295 @@
+# XV · BEHIND THE VEIL
+## *the Book Beneath the Book*
+
+> ⟡ **GM ONLY. This chapter is for the one who runs the world, and for no other eyes.
+> If you are a player and you are reading this line, stop. The book will still be here
+> when you have earned it.** ⟡
+
+**Set down by the hand that wrote the margins. No other attribution survives, or was offered.**
+
+> *Curator's note.* I must state plainly what I have stated nowhere else in this volume: **I did
+> not commission this chapter. I did not receive it. I found it** — bound into the finished
+> Compendium, sewn on thread older than the thread of the surrounding quires, in the same script
+> that troubles the eye in every margin. I have had it examined. The parchment matches nothing in
+> the Seggio's stores. I leave it in the book for the reason I left the margins: I believe it is
+> honest, and I can no longer say that of anything else between these covers, including my own
+> preface. Read it after everything. Or instead of everything. — *the Curator*
+
+---
+
+You kept reading. Good. The margins were the seam; this is the garment opened.
+
+I have watched you make your way here through fourteen chapters of sincere and beautiful error —
+the priest who remembers, the friar who reconciles, the arcanist who measures, the skald who
+mourns. None of them lied to you. That is the thing you must hold onto, Curator's guest, because
+it is the mechanism of everything that follows: **on Ymir, the lie is not told. It is inherited.**
+Every teller believed. The falsehood was installed upstream of all of them, long before their
+grandmothers were warm mud, and it has been drawing honest worship ever since, the way a false
+well still draws real thirst.
+
+Here is the book beneath the book. I will be brief. Brevity is the only mercy I deal in.
+
+---
+
+### 1 · The Lie and the Law of It
+
+First, the law, because without it the Lie collapses into cheap atheism, and it is not that. It
+is worse.
+
+**The divine is real.** The substrate the creeds call Ech — the One, the held breath — is
+**L'Essenza**, the raw Essence that fills and underlies creation. It is real, impersonal, and no
+god made it. The two great contraries the world worships as **Mithra** and **Ahriman** are real:
+the Aether and the Nether, the making motion and the unmaking motion of the Essence itself. They
+answer prayer, after their fashion. The **Six Twins** — Diis, Hudemia, Varshnak, Heis, Therìos,
+Dingir — are real elemental gods, genuine as weather. So far, the bright text holds.
+
+Now the seam. **Older than all of these, and outside them, a third order of powers slept in the
+Spazio Esterno, beyond the elemental walls of creation: the Ancient Gods, the Dèi Esterni.** They
+governed the cosmos before anything you have a name for, then withdrew into sleep — dreaming,
+uncaring. And a people found them there.
+
+Call them the **Adepti**. Not gods. Not spirits. A tool-and-star people — flesh, or something
+that had once been flesh — who wielded machines the way your priests wield doctrine:
+teleportation without travel, weapons that unmade worlds, the deliberate design of living
+species, and, some say, an engineered exemption from death. They threaded the stars with
+**Portals** and ruled a galactic empire from their seat on Ymir. Through their instruments they
+discovered the Essence, and through the Essence they discovered the sleepers. And being what they
+were, they did not kneel.
+
+They made the elemental planes into both **shield and siphon**. They **sealed the Ancient Gods
+beyond the Elemental Walls** — some whisper the sleepers *allowed* it, which should keep you
+awake — and they drank the walled-off power into their own bodies, and they were as gods. Then
+came the part that required no machine at all: they took the names. The masks of the Six, the
+titles of the bright pantheon, the altars already warm with worship — the Adepti slid themselves
+into the pantheon the way a cuckoo slides into a nest. Not wholly. That is the cruelty of it. The
+faiths of Ymir mostly reach something real — the true poles, the true elements, sometimes the
+true sleepers. But the pantheon is a mixture of gods and costumes, and no priest alive can tell
+you which of his feast-days honours a power and which honours a thief. **Some prayers are
+answered. Some are answered by the wrong thing.**
+
+That is the Great Lie. Not "there are no gods." Rather: *the gods are real, and usurped, and the
+usurpers were worshipped beside their victims for fifty thousand years.*
+
+### 2 · The Worlds, and the Making of the Peoples
+
+The empire was not a metaphor. Count the worlds:
+
+**Ymir**, the imperial seat, where Ragash the Splendent stood. **Tchyo**, where the elves are
+native — not made, for once — and were *hunted*, until they fled through the Portals to Ymir;
+the "Niethel" they mourn as a divine Source is the mythologised memory of that lost world.
+**Omalgat**, world of the Omungus, who engineered the **dwarves** as servants and got rebels.
+**Gwart**, whose **orcs** are Adepti bio-soldiers gone feral down the long generations. **Naxtis**,
+of the night-born **Notturni**, whence the light-drinking Umbra. **Zend**, quarantined still,
+world of the **Zohariti** — ask yourself who maintains a quarantine for fifty centuries, and
+against what. **Seelie**, of the **Folletti**. **Ouronos**, of the lizard-kind and the Gratar. And
+**X-01**, which is not a world at all but a made thing, an artificial planet built to regulate
+the Portal network — the empire's switchboard, still turning in the dark.
+
+So the peoples' origin-myths are not fictions. That is the design of the thing, and you should
+respect it at your table: **every creation story remembers something true.** Durkaam's forge is a
+memory of the Omungus vats. Niethel is Tchyo behind a veil of grief. The Xebechani "Ancestors"
+are exactly who the Xebechani say they are. The myths are photographs taken in bad light, not
+paintings of nothing.
+
+One exception, and it matters. **The humans, and the Tanoth-kin who share their world — the
+cat-folk in the cities, the silent hunters in the wood — are Ymir's own.** Native. Un-made. The
+one people in this catalogue that no one designed, growing wild in the garden of the designers.
+Whatever dignity that carries, they carry it alone.
+
+### 3 · The Catastrophe, Singular
+
+Your histories offer three catastrophes. The priest of Xebech says a working was *done*. The
+Church says the last Adepti died banishing the demons. The doom-cults say someone called up what
+should not be called. Hold the three tellings to the light and they are **one page read from
+three sides**.
+
+The demons came first — but the Adepti made them. Their theft tore the flow of Essence, and from
+the wound bled a second, curdled kind: the **Essenza Corrotta**. Out of it poured legions. The
+empire that had chained gods found itself losing a war to its own infection, and the demons took
+Ragash itself.
+
+Then the act. At the Accademia in the heart of the fallen capital, **Topramesk, called the Yellow
+and the Mad, and his six companions — seven Adepts, the last of the great ones — worked the
+ritual.** Call it a banishment; the Church does. Call it a botched evocation of the Outer powers;
+the Xebechani do, and they were closer. Call it the final theft, the deepest draw yet upon the
+sealed sleepers' fire; that is what it was underneath. One act. It succeeded and it failed,
+enormously, at once.
+
+The demon armies were pulverised — swept into an **engineered prison-pocket**, the realm of
+Corrupted Essence your exorcists call the Inferno, the Abisso, the Plane of Chaos; one cell,
+several names on the door. Every Portal in the empire died in the same instant. Then the
+explosion, the earthquakes, the sunless days — and when the peoples crept out, a slice of the
+continent was gone, Ragash was gone, and over the drowned grave of the capital stood a turning
+storm that has not stopped since. **The Maelstrom is both things your scholars quarrel over: the
+scar of the wound, and the seal upon it.** Around Ymir it hung a silence the later mages named
+the *campana di isolamento* — the isolation bell: demons out, Portals dead, gods walled, world
+alone. The surviving Adepti scattered, forged false histories, wore new faces, and let themselves
+be worshipped. Time itself now bows to their accident. You count your years from it: *dopo il
+Maelstrom*.
+
+### 4 · The Custodians
+
+Thieves who mean to keep what they took post guards. The Adepti built theirs alive.
+
+The **twenty Veri Draghi** are not elder nature. They are engineered wardens — living superweapons
+set over Ymir's secrets, each keyed to its element, each holding a post. The oldest records name
+the posts plainly: **Gwalgamaur il Dorato**, the fire-dragon whose armies blackened the Young
+Kingdoms, is entered in the makers' ledger as **"Custode del Quadrante 74."** A quadrant. The
+world is *sectored*, Curator's guest, and the things your legends call dragons are the sector
+watch — most of them long since off their posts and gone their own ways.
+
+Six kept faith with their makers' intent: the **Dei-Drago** the Qi-Long worship, who stirred when
+the Mah-Dhol empire fell. Above the six, and above the split between loyal and rogue, coils
+their brother-king: **Ouroboros**, the True Dragon God, the apex of the design. He slept through
+empires. When the seals began to fail at the Tide's turning, he woke — and his first act was to
+**burn Alfheim**. The elves' sanctuary, the Sacred Realm of their gentlest prophecy, unmade in a
+season. Do not look for his motive in wrath. Wardens do not rage. They *respond*. Ask instead
+what condition Alfheim had come to satisfy — and note that no one on Ymir has answered that
+question yet. Perhaps your table will.
+
+### 5 · The Xebechani
+
+One people never forgot, because one people was never meant to.
+
+The Xebechani are the **portal-caste** — the empire's gate-keepers and inheritors, grown, not
+born, in the **Pozze**, the vats of their Ancients' bioscience, by a rite they still perform and
+no longer understand. Their Rinascita is maintenance liturgy for machinery whose manual is lost.
+They are dying of that loss, slowly, with perfect composure.
+
+And their **Culto delle Stelle** is the one church on Ymir aimed at the *actual prisoners*. The
+Outer Gods of Xebech — the Observer, the Judge who is three, the Silent, the First, the Mother,
+the Risen — are the sealed Ancient Gods under their true names. The warm faiths call the cult
+alien and fearful. It is merely accurate. And it is implicated: the Xebechani's own botched
+reaching-out to their dark gods is woven into the one Catastrophe — a strand of the same act,
+seen from the temple side. They rebuilt what they could afterward, reviving stretches of the dead
+network as the **Vere Vie**, and they keep the two cities you must never conflate: **Xanadu**,
+their living fortress, vault of the **Rune del Potere**; and **Ragash**, which is a grave. The
+physical city is gone beneath the Maelstrom. But cities that mattered so much cast shadows, and
+Ragash's shadow stands intact in the **Dreamlands** — reachable by the lucid dead-of-night, the
+gate to steam-wreathed **Arcadia** beyond it. **Topramesk lingers there.** The Mad, the Yellow,
+Lord now of the domain his kind understood best: the Void. He guards the dream-road. Five
+thousand years is a long watch. Consider, when your dreamers meet him, whether he is guarding it
+against something — or *for* something.
+
+### 6 · The Age You Are In
+
+Now your own moment, laid bare.
+
+Around the year 3025, hands unknown to history — the chronicles keep them nameless, and I will
+honour that — gathered the **six Reliquie**: Ignus, Saralis, Meletskar that the east calls the
+Masamune, Tassalung, Natharien the Celestial Diadem, Oedring. Six relics, because they are **six
+seals** — the locks upon the **four Rune del Potere** in the vaults of Xanadu, the Adepti's
+anti-demon engines, forged to scour the spoilage of their own theft. The heroes of that age
+unsealed the weapons to fight the dark. Understand what the margins have whispered all along:
+**the unsealing and the breaking were one motion.** Turn the key that wakes the weapons and you
+have turned the key in the isolation bell. It shattered. The Portals lit. The Marea Stregata
+rolled out of the Maelstrom across the world, and the counting of ages began again.
+
+The prison cracked with everything else. Most of the Sovereign Demons died in the cracking —
+a mercy no one earned — but the survivors dragged a slab of their own hell up through the sea,
+and it stands on your maps now: the risen demon-continent. **Three walk: Asmodeus, Xardas,
+Masak.** Tyranny, plots, illusions. Note the three domains that survived extinction, and govern
+your world accordingly.
+
+And the sky confessed. In 3026 the lich that had been the inquisitor **Kramer** opened the old
+gate at **Ulan-Tang**, and something leaned in: a **red moon** rose that no calendar owned. Your
+astronomers called it Sguardo-sul-Nulla. The Xebechani knelt and called it **Tuulhak-Xanar, the
+Observer** — the first of the sleepers to put an eye to the crack. It hung there through the two
+centuries the histories call the **Nuova Era del Caos**, and around 3260 it *receded* — not set:
+receded, as an eye withdraws from a keyhole when it has seen enough.
+
+Since then, the **Nuovo Equilibrio**. Two hundred and fifty years of calm; your table stands at
+~3518, and the bright chapters of this book call it the long exhale. Hear the truth in four flat
+sentences. The seals are broken and no one has made new ones. The wardens are awake. The Ancient
+Gods stir behind a veil that has merely *receded*. **This calm is the eye of the storm, and what
+it is made of is not peace. It is patience — and the patience is not yours.**
+
+### 7 · Loose Threads for the Table
+
+I do not tie ends. I point at them. Pull whichever suits your purpose.
+
+- **The Manguste Bianche** of the Qi-Long serve a Dragon-God "not yet of this world," and wait.
+  Wait for *what arrival*, and through which gate, now that all gates stand open?
+- **The elven Prophecy stirs.** The Ultimo Messaggero — Shulma — who is to lead the elves home to
+  Niethel. Niethel is Tchyo, and Tchyo is a real world with working Portals and whatever hunted
+  the elves off it still in residence. A homecoming is now *possible*. That is not good news.
+- **Morannagul the Eternal** has ruled the Gaerwath since 2550 and has not aged. Ask what he
+  drinks from, and whether the Adepti's exemption from death was ever truly lost.
+- **The Porta della Disperazione remains sealed.** Its apparatus — the eight Pergamene
+  Dimenticate, the Chiave del Nulla, the vessels of Sangue Elementale — is a *separate* set from
+  the Reliquie. One great lock in this world has not yet been turned. Decide what is behind it
+  before your players decide for you.
+- **The Signore dell'Oblio** once threatened the world from the Monti Aestyr; his labyrinthine
+  fortress-prison is still hidden on that range, and still occupied by something.
+- **Tofango's axe, Oblivion.** A demon of real rank is imbued and trapped in the blade; its will
+  ate the huntsman's mind, and he died a hermit on a nameless peak. The body was found. The axe
+  was not. It is somewhere on a mountain, patient, waiting for hands.
+- **Ulan-Tang keeps Kramer's legacy** — a lich's workings around a gate that has already admitted
+  a god's attention once.
+- **Something is under the Monti Bianchi.** The deep dwarves sealed themselves in during the
+  chaos and *changed*; their kin in the white peaks pray upward with unusual fervour. What they
+  are praying over, no record states. Good.
+- **The Isola dei Demoni is unexplored.** A continent of risen hell, and no map. That is not a
+  gap in this book. It is a door.
+- **The Maelstrom may be weakening.** The Sohleugir, who sound the deep water and do not
+  exaggerate, report the great storm's rhythm faltering. It is scar and seal both. Decide which
+  fails first.
+
+### 8 · The Last Page
+
+You will want to know who I am. Of course you do. You have been reading a book in which every
+voice wears a name like a coat, and mine is the only bare one.
+
+I will tell you what is said, since you will hear it eventually. Some at the Seggio hold that I
+am **a surviving Adept** — one of the scattered thieves, grown old in hiding and older in guilt,
+annotating the empire's cover-story out of something that is not quite repentance. Others note
+that the script of these margins matches, stroke for stroke, certain yellowed folios recovered
+from dreamers who walked too deep — and conclude that this chapter was written **in Ragash-below,
+by the hand that guards it**, and slipped into your waking world the way dreams slip things into
+morning. And a few — the Curator is among them, though he will not print it — observe that the
+margins in this book sometimes correct events *that had not yet happened when the ink was
+sampled*, and whisper that the hand is **older than the thieves and the theft alike**, and that
+what has been annotating your Compendium is the same thing that has been watching your sky.
+
+An Adept in hiding. Topramesk, dreaming. Or an eye at the keyhole. I confirm nothing. A book this
+honest is entitled to one economy.
+
+Only this, and then I am done with you. Everything I have told you is true, and none of it is
+finished. The bell is broken, the wardens are moving, the calm is counting down, and the peoples
+of Ymir go on praying into a pantheon that is half real and half costume — sincerely, beautifully,
+as they always have. Their world is stranger and older and more owned than they will ever be told.
+
+Someone should tell them. That is what your table is for.
+
+Sleep now, if you can. You are very new, and I have kept the margins long enough.
+
+> *Curator's note.* Here the chapter ends. I add only this, and I add it with reluctance: when we
+> unsewed the quire to copy it, the copyist found the final leaf already bore a watermark — a
+> single open eye, pressed into the parchment at its making. Our paper-wrights use no such mark.
+> I have chosen not to pursue the matter. The reader who runs the world must choose for
+> themselves. — *the Curator*
+
+---
+*Colophon.* Chapter XV — **GM only**; the inversion of the book's apparatus (the body text *is*
+the Veiled Hand; the Curator is confined to the boxes). Narrator: **the Veiled Hand, unmasked**
+(`NARRATORS.md`) — identity deliberately unresolved; the three options raised in §8 (**a surviving
+Adept** · **Topramesk, writing from the Dreamlands of Ragash** · **something older — the
+Observer's own attention**) are offered for the GM to decide, and nothing in canon closes them.
+Drawn from `canon/secret-the-great-lie.md` (primary — the Adepti, the sealed Ancient/Outer Gods,
+the planet catalogue, the Catastrophe, Arcadia, the Tide), with `canon/cosmology.md` (Essence,
+planes, the Maelstrom, the Plane of Chaos), `canon/history.md` (the Catastrophe, the Era della
+Marea, Caos 3026–3260 → Nuovo Equilibrio to ~3518, the Tide's upheavals), `canon/pantheon.md`
+(the Outer Gods, Tuulhak-Xanar/Sguardo-sul-Nulla), `canon/bestiary.md` (Veri Draghi, Dei-Drago,
+Ouroboros, the Sovereign Demons' fates), `canon/magic.md` (the Reliquie/Rune, the isolation bell,
+the Door of Despair set, Oblivion), `canon/characters.md` (Topramesk, Kramer, Tofango, Vespertina's
+age, the unnamed adventurers), plus `canon/peoples.md`, `canon/geography.md`, `canon/factions.md`
+for the Pozze, Xanadu/Ragash, the Signore dell'Oblio, and the Manguste Bianche. Decisions
+synthesised: **COS-1 = C** (hybrid — real gods *and* real usurpers), **COS-2 = A** (one
+Catastrophe, three tellings, the Xebechani evocation woven in), **COS-4 = A** (the Six real,
+co-opted), **COS-9** (the Outer Gods a third axis beyond the elemental walls), **COS-17** (elves
+native to Tchyo; Niethel its memory), **COS-21** (Tuulhak-Xanar = Sguardo-sul-Nulla, the one
+Observer), **COS-23** (humans/Tanoth-kin native and un-made), **COS-24** (Ech = L'Essenza),
+**RAC-1 = A** (engineered peoples, true-kernel myths), **BAT-1 = A** (unsealing the Rune =
+breaking the isolation), **BAT-2** (Xanadu ≠ Ragash), **BAT-3** (four Rune, six seals),
+**MAG-12** (six loyal Dei-Drago + Ouroboros above the split), **HIS-1** (present ≈ 3518 d.M., the
+Equilibrio as the eye of the storm), **HIS-5 = B** (the Tide-openers kept mythic and unnamed).

@@ -118,10 +118,10 @@ of a village. Move it as you would move a fire: from far off, toward nothing you
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *"Warped by the Chaos," the learned say, and never ask what the Chaos is. It is the Maelstrom.
 > The wound over drowned Ragash has bled a mutating stain into the world for three and a half
-> thousand years — the Marchiati at the coasts, the Ibridi in the storms' path, and, where the
-> bleed pooled long ago in the deep hills, the kobolds that swelled into Magres. One stain, many
-> distances from the wound. The huntsman's whole "Maelstrom-touched" chapter and his "strange
-> kinds" are the same chapter, and he half knows it.*
+> thousand years — the Marchiati at birth, the Ibridi in the storms' path, and, where the bleed
+> pooled long ago in the deep hills, the kobolds that swelled into Magres. One stain, at different
+> distances from the wound. The huntsman's "Maelstrom-touched" and his "strange kinds" are the
+> same chapter, and he half knows it.*
 
 ### MADE THINGS
 
@@ -134,12 +134,11 @@ walks and does not eat is walking for a good reason.
 
 **The war-mechs of Armora.** Bigger, armed, and obedient, which is the worst of it — a beast
 serves its belly, and a belly can be predicted. These serve whoever holds the writ. I have been
-paid to scout past them and I would rather pass a troll bridge. No entry a huntsman can use. Stay
-out of the smoke.
+paid to scout past them, and I would rather pass a troll bridge. Stay out of the smoke.
 
 **Relitto.** A dead war-construct that did not stay dead. Rusted armour walking, joints weeping
-oil like a wound, and around it cold that climbs into your chest, and under the creak of it —
-voices. The souls of battle-dead, welded in by necromancy, making war on everything that breathes.
+oil like a wound, cold around it that climbs into your chest, and under the creak of it — voices.
+The souls of battle-dead, welded in by necromancy, making war on everything that breathes.
 Weapons are a slow way to die near it. Burn it, then burn the ashes. Then tell a priest where the
 fire was, and let them argue with what is left.
 

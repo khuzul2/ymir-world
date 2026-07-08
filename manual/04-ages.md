@@ -69,16 +69,15 @@ and mercy upon the innocent, for so the Church has always read it.
 ### Of the Dark Days, from the Great Fear to the Coalition
 
 **In the year 0 d.M.** fell **la Grande Paura**, the Great Fear, when the counting of years began;
-the engines and artefacts of the ancients perished, and for centuries the peoples were as children
-in a burnt house. Yet Mithra does not sow in vain. In the north — wild land then, where the
-**Tanoth** ranged first, and after them the orcs, and the dwarves delved their western mountains —
-the scattered clans of men were gathered, generation by generation, under one crown and at last
-under one creed; and so was **Letio** founded, the Empire of the faithful, whose planting no
-chronicle dates but whose harvest all the world has eaten. In the year of the Maelstrom 1320 the
-captain **Marco Cartaurelius** bore the Empire's banner across the southern seas to Punta del Toro,
-and of that seed grew **Cartosa**. And in the year 1555 d.M. the Empire of Letio stood at its full
-noon: nearly all the north of the world was Letio, and in that year **Helgedad** too was gathered
-into the fold.
+the artefacts of the ancients perished, and for centuries the peoples were as children in a burnt
+house. Yet Mithra does not sow in vain. In the north — wild land then, where the **Tanoth** ranged
+first, and after them the orcs, and the dwarves delved their western mountains — the scattered
+clans of men were gathered, generation by generation, under one crown and at last under one creed;
+and so was **Letio** founded, the Empire of the faithful, whose planting no chronicle dates but
+whose harvest all the world has eaten. In the year of the Maelstrom 1320 the captain **Marco
+Cartaurelius** bore the Empire's banner south to Punta del Toro, and of that seed grew **Cartosa**.
+And in 1555 d.M. the Empire stood at its full noon: nearly all the north of the world was Letio,
+and in that year **Helgedad** too was gathered into the fold.
 
 > *Curator's note.* "Gathered into the fold" is doing quiet work. Helgedad was a realm in its own
 > right — a kingdom of dwarves and men together, the dwarven seat at the **Aule Dorate**, the human
@@ -225,14 +224,14 @@ abandonment. The peoples endured; the Church held the north as a dyke holds the 
 Coalition of old, so long a parchment, became again a sword.
 
 And when the furnace cooled there came, **from about 3260 d.M.**, the age in which I am blessed to
-write: **il Nuovo Equilibrio**, the New Balance. The doors are watched now, and the risen continent
-is shunned; the dead keep, for the most part, to their graves. In the west the wayward daughter
+write: **il Nuovo Equilibrio**, the New Balance. The doors are watched now; the risen continent is
+shunned; the dead keep, for the most part, to their graves. In the west the wayward daughter
 returned: the Granduchess **Vespertina VonGryffen** of Armora was reconciled with holy Letia, and
 their arms joined against the Khans of the orcs — so does God write straight with crooked lines.
-The mariners of the far seas even report that the great Maelstrom itself grows gentler, as though
-the world's oldest wound were at last beginning to close. **I set down this chronicle in the year
-of the Maelstrom 3518**, in the two-hundred-and-fifty-eighth year of the calm, and I read in all of
-it one sentence: the night was long, and the morning is Mithra's.
+The mariners of the far seas even report that the great Maelstrom grows gentler, as though the
+world's oldest wound were beginning to close. **I set down this chronicle in the year of the
+Maelstrom 3518**, deep in the long calm, and I read in all of it one sentence: the night was long,
+and the morning is Mithra's.
 
 > *Curator's note.* On the reconciliation: it was a treaty between equals, proposed from the
 > Armorite side and signed under the pressure of a common orcish enemy — a Granduchess's statecraft,

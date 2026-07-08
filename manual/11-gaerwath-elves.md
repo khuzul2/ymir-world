@@ -150,22 +150,20 @@ repeal. He is not a king who has lived long. He is an argument that we are right
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *An argument, yes. Ask what feeds it. Nothing on Ymir is exempted from dying for free — not
 > the pharaoh of Khorish, not the Eternal of the Gaerwath. Consider: a realm whose children
-> are put, every one, to a trial that takes from the failed "a terrible bodily and mental
-> cost" — and a throne nine centuries old that has never once explained its arithmetic. Where
-> does it go, what the trial takes? The Loremaster calls the Hyrul an honest census. Count,
-> then: one people, one Emperor, and a subtraction performed on every generation. The Nath do
-> not name the mechanism. The Necromanti and the Demonologi were both founded within a
-> century of the unification. Morannagul's eternity is an engine, and the Gaerwath has been
-> paying its toll so long they have mistaken the toll for a sacrament.*
+> are put, every one, to a trial that takes from the failed a terrible bodily and mental
+> cost — and a throne nine centuries old that has never once explained its arithmetic. Where
+> does it go, what the trial takes? One people, one Emperor, and a subtraction performed on
+> every generation; the Nath do not name the mechanism. Morannagul's eternity is an engine,
+> and the Gaerwath has paid its toll so long they have mistaken the toll for a sacrament.*
 
 **Twice we have gone to war with the garden across the water.** Of the first war, the war of
-the Sundering itself, I have spoken. The second — your chronicles call it the **Second Elven
-War**, the years 2080 to 2115 — was thirty-five years of fleets and sorcery between Alfheim
-and the divided princes of the Gaerwath, and I will be exact where our enemies are lyrical:
-it settled nothing, recovered nothing, and taught the Names the one lesson that mattered,
-which is that a sundered people loses to a gathered one. Morannagul was that lesson's best
-student. The Shallak behind their queen's wards believed the matter closed. They had merely
-not waited long enough. We are good at waiting; it is the one art the Exile perfects.
+the Sundering itself, I have spoken. The second — your chronicles' **Second Elven War**, the
+years 2080 to 2115 — was thirty-five years of fleets and sorcery between Alfheim and the
+divided princes of the Gaerwath, and I will be exact where our enemies are lyrical: it
+settled nothing, recovered nothing, and taught the Names the one lesson that mattered — a
+sundered people loses to a gathered one. Morannagul was that lesson's best student. The
+Shallak behind their queen's wards believed the matter closed. They had merely not waited
+long enough. We are good at waiting; it is the one art the Exile perfects.
 
 **Then the Tide rose, and heaven itself corrected the ledger.** When the Marea Stregata broke
 over the world and the doors of the ancients opened all at once, there rose out of the deep
