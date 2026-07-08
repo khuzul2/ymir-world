@@ -5,11 +5,13 @@
 > **Gaerwath.doc** (not yet fully mined). Note: several entries reference Rolemaster
 > **R&C** (*Races & Cultures*); the manual will keep these system-agnostic.
 
-> ⚠️ **Secret origin:** the wiki reveals that the mortal races are largely **Adepti
-> bio-engineering**, scattered across the worlds of an ancient galactic empire (dwarves
-> built on Omalgat, orcs as degenerated bio-soldiers from Gwart, elves made on Tchyo,
-> etc.). Each people's own creation myth (Niethel, Durkaam, the Ancestors) is the
-> mythologised version. See **`secret-the-great-lie.md`**. Below is the *in-world* picture.
+> ⚠️ **Secret origin (decision RAC-1 = A — both partly true):** the Adepti **shaped and
+> bio-engineered** many peoples across the worlds of their old galactic empire (dwarves on
+> Omalgat, orcs as degenerated bio-soldiers from Gwart, elves' stock hunted off Tchyo…) — **but
+> real/older origins coexist**, so each creation myth (Niethel, Durkaam, the Ancestors) holds a
+> kernel of truth, not pure fiction. Keystone: **Humans are the native Tanoth of Ymir — NOT
+> engineered** (the one un-made people, on the Adepti homeworld; COS-23). See
+> **`secret-the-great-lie.md`**. Below is the *in-world* picture.
 
 ## The "Pure Races" (Razze Pure) `[CANON]`
 

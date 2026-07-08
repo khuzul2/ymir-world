@@ -118,6 +118,10 @@ enveloped by other planes of existence:
   (Circles)**, weakest (1st) to strongest (6th). Beings too powerful to classify
   — the **Demoni Sovrani** and some lieutenants — are "**Oltre le Cerchie**"
   (Beyond the Circles). See `pantheon.md` for the Sovereign Demons and `bestiary.md`.
+  `[CANON — decision MAG-2 = A]` This is the **single** demon hierarchy:
+  **Sovereign Demons (Beyond the Circles) › the six Circles** (which double as the
+  greater / lesser / minor power-bands) **› bound Forces (Valrin)**. Any "**Type VI**"
+  label = 6th-Circle (the D&D "Type" scheme is retired in favour of the Circles).
 
 ---
 ### Open questions

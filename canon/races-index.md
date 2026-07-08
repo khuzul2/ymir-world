@@ -59,7 +59,8 @@ Kappa, Sibert, An-Tanoth, Changeling, Hobgoblin, Uomo-Pesce, Gha-Tanoth**. Plus 
 
 ---
 ### → Decision needed from you
-Pick the **playable set** for the manual. A sensible default: the **core seven Pure
-Races** as standard PCs, with **Sohleugir, Sarradhi, Nkishi/M'Bantha, and the
-sub-stocks** flagged as "exotic / GM's discretion." Tell me if you'd widen, narrow,
-or reshuffle that. (Logged in `NOTES.md`.)
+**✅ DECIDED: wide-open `[RAC-2 = C]`.** All the peoples are standard PC options — the
+core seven Pure Races **plus** the Sarradhi, the half-races, Nkishi/M'Bantha, and the
+sub-stocks. No global "exotic-only" tier; the manual presents every people as a genuine
+option (with GM guidance where a pick is unusual). Individual campaigns may re-scope, as
+Qi-Long does.

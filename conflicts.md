@@ -41,6 +41,21 @@ Recorded as you decide them. → written into `canon/`.
 - **BAT-4 — the Planescape "Great Wheel" (`Planes2`) → DECIDED: A (shelve).** Non-canon D&D-4e
   experiment; Ymir keeps its own planar scheme (Spazio Esterno, Inferno/Abisso, the Dreamlands).
 
+**Batch 3 (2026-07-07):**
+- **RAC-2 — playable races → DECIDED: C (wide-open).** All the peoples are standard PC options —
+  the core seven **plus** Sarradhi, the half-races, Nkishi/M'Bantha, etc. (Qi-Long remains a local
+  re-scope.)
+- **MAG-3 / BAT-5 — magic realms → DECIDED: B.** **Three base realms — Essenza, Mentalismo, Flusso**
+  — with **Arcano = the union/highest realm** of the three (Rolemaster sense), and **corruption**
+  (Ahriman/Corrupted Essence) as a separate taint-axis that can affect any of them. *(Overrides the
+  batch-2 "4 peer realms" reading.)*
+- **MAG-2 / MAG-16 — demon classification → DECIDED: A.** One nested hierarchy: **Sovereign Demons**
+  ("Beyond the Circles") › **six Cerchie/Circles** (greater/lesser/minor bands) › **bound Forces
+  (Valrin)**; "Type VI" = 6th Circle (retire the D&D "Type" label).
+- **RAC-1 — creation myths vs. engineered truth → DECIDED: A (both partly true).** The Adepti
+  *shaped/engineered* peoples, but real/older origins coexist and each myth holds a kernel of truth.
+  Keystone: **Humans = the native Tanoth of Ymir, NOT engineered** (COS-23).
+
 ## Status board
 _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 
@@ -64,12 +79,12 @@ _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 | GEO-2 | Qi-Long: six kingdoms vs. one empire | conflict | high | DECIDED:A |
 | GEO-3 | World-map vs. prose placement | conflict | med | OPEN |
 | GEO-4 | Unnamed world-map regions | blind-spot | low | OPEN |
-| RAC-1 | Creation myths vs. engineered-race truth | conflict | med | OPEN |
-| RAC-2 | Playable-races set | unclear | med | OPEN |
+| RAC-1 | Creation myths vs. engineered-race truth | conflict | med | DECIDED:A |
+| RAC-2 | Playable-races set | unclear | med | DECIDED:C |
 | RAC-3 | Elf faction/sub-race taxonomy applied cleanly | unclear | low | OPEN |
 | MAG-1 | Dragon origin: Great Worms vs. Adepti-made | conflict | med | OPEN |
-| MAG-2 | Demon classification: Circles vs. Types vs. status | conflict | med | OPEN |
-| MAG-3 | Magic realms: 4 realms vs. Arcano/Elementalism | unclear | med | OPEN |
+| MAG-2 | Demon classification: Circles vs. Types vs. status | conflict | med | DECIDED:A |
+| MAG-3 | Magic realms: 4 realms vs. Arcano/Elementalism | unclear | med | DECIDED:B |
 | META-1 | Spelling: Ymir vs. Yimir | conflict | low | OPEN |
 | META-2 | Currency units (ma/mb/mr/mo) undefined | blind-spot | low | OPEN |
 | META-3 | Source authority when sources fork | unclear | high | DECIDED:C |

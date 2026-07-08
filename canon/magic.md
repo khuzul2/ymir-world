@@ -17,9 +17,11 @@ from it (→ `cosmology.md`). The raw stuff of magic is variously called **Essen
 the Maelstrom's **Risonanza** (Resonance) causes it to sediment (prized by the Dark
 Elves). → `peoples.md`
 
-## The four realms of magic `[CANON — LIBRO ROSSO, pp.9+]`
-Practitioners are called **Usufruitori** (channelers/users). The Red Book of Magic
-Control classifies the Art into **four realms**:
+## The realms of magic `[CANON — decision MAG-3 = B]`
+Practitioners are called **Usufruitori** (channelers/users). Magic has **three base realms**
+— **Essenza, Mentalismo, Flusso** — with **Arcano** as their **union/highest realm** (the
+Rolemaster "Arcane"), and **corruption** as a separate *taint-axis* (not a realm) that can
+afflict any of them. The base three:
 - **Mentalismo (Mentalism)** — magic channelled *through the mind* (the mind is a
   catalyst, not the source). Subtle and stealthy: cast without gesture or voice (only
   a faint reddening of the eyes betrays it); strong in illusion, mind-attacks,
@@ -31,12 +33,13 @@ Control classifies the Art into **four realms**:
 - **Essenza (Essence)** — the **arcane/elemental** realm, drawn from the world's
   essence; the bread and butter of the **Manti Azzurri** (esp. **Elementalisti** of
   Water & Wind). Tied to the six **Elementi** and their gods (→ `pantheon.md`).
-- **Usufruitori Corrotti (Corrupted Channelers)** — the fourth, dark category:
-  necromancers, demon-binders, and those who wield corrupted power. The chief target
-  of the anti-magic corps below.
+- **Arcano (Arcane)** — the **union** of the three base realms (the highest, most versatile
+  tradition), not a separate power source.
 
-`[INFERRED]` "**Arcano (Arcane)**" (referenced at Cartosa as a registrable realm) is
-best read as the unified/highest realm in the Rolemaster sense, above the three.
+**The corruption axis** *(not a realm)* — **Usufruitori Corrotti (Corrupted Channelers)** are
+casters of any realm whose power has been tainted by **Ahriman / Corrupted Essence**
+(necromancers, demon-binders, wielders of *Flussi Oscuri* / *Essenza Oscura*). Corruption is
+tracked separately (the **CEO** system) and is the chief target of the anti-magic corps below.
 
 The **Adepti** were the supreme masters of magic — beside them "the best mage alive
 is a raw apprentice." Their portal-craft still scars the world. → `history.md`
