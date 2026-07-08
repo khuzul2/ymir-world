@@ -96,9 +96,9 @@ pilgrim's passage in strung **cash-coins** and settled quarrels in weighed **jad
 do not survive salt.
 
 Their defenders are the **Tigri Celesti**, the Celestial Tigers, whose mark is a tiger's claw:
-ambush-fighters who trap the great turtle-beasts and the Kappa themselves and wear the harvested
-shells to war. Under the **Grande Tigre** they fight as the sea fights — suddenly, then not at all.
-A Tiger told the pilgrim: "We cannot beat the sea. We can beat what crawls out of it."
+ambush-fighters who harvest the great turtle-beasts and the Kappa themselves for armor. Under the
+**Grande Tigre** they fight as the sea fights — suddenly, then not at all. A Tiger told the
+pilgrim: "We cannot beat the sea. We can beat what crawls out of it."
 
 ### The Sixth Stage — the Foresta Morta, Where the Innkeepers Are Dead
 
@@ -252,4 +252,4 @@ confessions). Names per the **revised** set (**BAT-6**; 2008 set noted by the Cu
 million souls per **GEO-14** (attritional stalemate among vast populations); present ≈ 3518 d.M.
 Margins from `canon/secret-the-great-lie.md`. **[INVENTED]**: the pilgrim, his itinerary, maxims,
 and encounters; the six-fold form of the present Raduno; the "six called three" quip; the Curator's
-cipher-suspicion (a hook, consistent with the Falchi's Mastri Cantori).
+cipher-suspicion (a hook).

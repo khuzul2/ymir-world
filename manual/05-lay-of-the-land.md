@@ -18,7 +18,7 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 
 **Twenty-sixth of Grifone. Wind at our quarter; sea long and from no weather I could see.** Sighted Him today, at eighty leagues, which is forty nearer than I like. From the masthead at first light: a **wall of blue** on the world's rim, sea to sky's top, faintly turning. Every current of the Central Ocean bends round Him in one slow ring, the way tavern-talk bends round a debt. Two days out the compass began to lean; by evening the needle pointed at Him steady as a priest's finger, and we steered by stars and log-line. My wizard tried his scrying-bowl and got blue fire and a nosebleed — the **Offuscamento**: no divination passes that wall, and no honest needle keeps the north near it. The **Tempeste Arcane** breed there and come off Him like sparks off a grindstone; we ran before one a day and a night, the rigging singing in colours I decline to describe. Children born aboard ships that pass too close come out **Marchiati** — marked — so no woman sails a middle-passage carrying, and we nailed a silver piece to the mast for **Hudemia** and nobody whistled. Within the wall, they say, the air is dead still. Nobody says how they know.
 
-*(Here the diary carries a sketch: a flat horizon, a tall blue smudge upon it, and in the corner a small defiant brigantine, drawn very much farther away than the scale would strictly allow. — the Curator)*
+*(Here a sketch: a flat horizon, a tall blue smudge, and in the corner a small defiant brigantine, drawn much farther off than the scale allows. — the Curator)*
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Under the blue wall lies **Ragash**, the Adepti's drowned capital; the storm is the scar of
@@ -26,8 +26,8 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 > flesh. That is why the needle fails: near the scar everything leans toward the tear — iron,
 > Essence, prayer, sight. The compass does not break; it tells the truth about where the deepest
 > wrong in the world sits. The "isolation bell" shattered when the Tide came; the storm outlived
-> its purpose, and what it guarded is no longer entirely in. Topramesk keeps his door there still,
-> in the Dreamlands of Ragash. Sail wide.*
+> its purpose, and what it guarded is no longer entirely in. Topramesk keeps his door there, in
+> the Dreamlands of Ragash. Sail wide.*
 
 **Fourteenth of Salamandra. Coast of Letia; wind northerly and cold; a church on every headland.** Raised the spires of **Solanthya** at thirty leagues — gilded, ranked like masts in a rich harbour, the bells reaching you over the water before the land does. The sacred North: the **Impero Letio**, the Church of Mithra's own empire, marches and baronies past counting, three hundred million souls under the Teocrate. A priest blessed my cargo at the mole whether it wished it or not; the coin is church-minted and good; grain and salt fish cheap. Rules for masters: fly nothing they could take for a dark-elf pennant, ship no orcs, and keep your theology in the forepeak — one may not profess a strange god ashore, and they ask. They are at war with Armora over which Mithra is the true one, which is the sort of question the sea never asks.
 
