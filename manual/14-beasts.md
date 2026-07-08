@@ -233,10 +233,9 @@ with you.
 *Colophon.* Chapter XIV. Narrator: **Weck of the Long Road**, huntsman of Therìos (invented
 framing voice; `NARRATORS.md` — the two-knives provenance, the burned valley of Wald, and the
 hunting-craft of sign, season, and price are [INVENTED] colour). Creatures and rosters from
-`canon/bestiary.md` (Daretas, Reptoidi, Yarhim, the Sadhir kinds, Zaar'Qrak, Helgedad's trolls and
-Grandi Aquile, Fungalidi, Magres, Slashquark, Relitto, Automata, the Sovereign Demons and their
-post-Tide status, the twenty Veri Draghi, Gwalgamaur, Nihoggr, the Dei-Drago, Ouroboros/Alfheim)
-and `canon/cosmology.md` (the Marchio and the Ibridi; Spirits, Elementals to the Signori, Djinn,
+`canon/bestiary.md` (all fauna and constructs; the Sovereign Demons and their post-Tide status;
+the twenty Veri Draghi, Gwalgamaur, Nihoggr, the Dei-Drago, Ouroboros/Alfheim) and
+`canon/cosmology.md` (the Marchio and the Ibridi; Spirits, Elementals to the Signori, Djinn,
 Angels, the six Circles); margins from `canon/secret-the-great-lie.md` (Adepti-engineered
 dragon-custodians; the demon prison; the Maelstrom as the Chaos-bleed). Dragon roster per
 `sources/extracted/wiki/creatures-dragons.md`. Decisions applied: MAG-2 (one demon hierarchy —

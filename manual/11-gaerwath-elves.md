@@ -143,10 +143,10 @@ repeal. He is not a king who has lived long. He is an argument that we are right
 > *An argument, yes. Ask what feeds it. Nothing on Ymir is exempted from dying for free — not
 > the pharaoh of Khorish, not the Eternal of the Gaerwath. Consider: a realm whose children
 > are put, every one, to a trial that takes from the failed a terrible bodily and mental
-> cost — and a throne nine centuries old that has never once explained its arithmetic. Where
-> does it go, what the trial takes? One people, one Emperor, and a subtraction performed on
-> every generation; the Nath do not name the mechanism. Morannagul's eternity is an engine,
-> and the Gaerwath has paid its toll so long they have mistaken the toll for a sacrament.*
+> cost — and a throne nine centuries old that has never explained its arithmetic. Where does
+> it go, what the trial takes? One people, one Emperor, a subtraction performed on every
+> generation; the Nath do not name the mechanism. Morannagul's eternity is an engine, and the
+> Gaerwath has paid its toll so long they have mistaken the toll for a sacrament.*
 
 **Twice we have gone to war with the garden across the water.** Of the first war, the war of
 the Sundering, I have spoken. The second — your chronicles' **Second Elven War**, 2080 to

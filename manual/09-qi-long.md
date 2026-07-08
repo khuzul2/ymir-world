@@ -149,15 +149,15 @@ The pilgrim notes only that of six creeds, theirs alone requires the dawn.
 
 *In a city of light, count the shadows. The count will come out wrong. Count again.*
 
-Last, the **Regno del Nord**, which is scarcely a kingdom at all: it is one city so vast the
-pilgrim walked nine days inside it — **Chéngshì**, la Capitale, the **Capitale della Luce** the
-Vero Dio Drago founded and ruled. Its mistress now is **Léilong Lìnbei**, dragon of light and of
-light's shadow, thunder in her voice — paranoid, divided against herself, adored and dreaded in one
-breath. Her courtiers are the **Kitsune**, fox-people of many faces, so that in the Capital no one
-is certain who anyone is, including the Kitsune. Its people are the most refined in the six
-kingdoms — half-elf poets, scholar-clerks, silk-brokers, and the little cat-folk **Tal-Tanoth**
-(there are no halfling folk east of the Sadhir; the Tal-Tanoth fill their place, and your pockets)
-— and every one of them a spy, if only on their neighbors.
+Last, the **Regno del Nord**, scarcely a kingdom at all: one city so vast the pilgrim walked nine
+days inside it — **Chéngshì**, la Capitale, the **Capitale della Luce** the Vero Dio Drago founded
+and ruled. Its mistress now is **Léilong Lìnbei**, dragon of light and of light's shadow, thunder
+in her voice — paranoid, divided against herself, adored and dreaded in one breath. Her courtiers
+are the **Kitsune**, fox-people of many faces, so that in the Capital no one is certain who anyone
+is, including the Kitsune. Its people are the most refined in the six kingdoms — half-elf poets,
+scholar-clerks, silk-brokers, and the little cat-folk **Tal-Tanoth** (there are no halfling folk
+east of the Sadhir; the Tal-Tanoth fill their place, and your pockets) — and every one a spy, if
+only on their neighbors.
 
 Fittingly, the local society is spycraft perfected: the **Falchi Dorati**, the Golden Hawks, whose
 mark is a raptor's talon — cells that never meet, messages carried as verses by the **Mastri
@@ -182,15 +182,14 @@ believes the old men.
 Every seventh year comes the **Raduno degli Eroi**, the Gathering of Heroes. Under Mah-Dhol it was
 held once, at the capital, before one throne; now it is held six times, before six, each Dio-Drago
 crowning champions into the **Grandi Sette** — the Great Sects that once governed provinces for an
-empire and now each serve the god of its own kingdom: the **Via della Fiamma Imperitura**, the
+empire and now serve each the god of its own kingdom: the **Via della Fiamma Imperitura**, the
 **Tempio del Picco Gelato**, the **Scuola del Padiglione Dorato**, and their peers, with countless
 lesser schools beneath — the pilgrim's own **Scuola del Cancello Tonante** among the least. The
 resistance societies — men call the six together **La Triade**; do not ask why six are called
 three, the name is older than the counting — seed their finest into the lists, for a champion's
-robe passes doors a rebel's rags cannot. So the six gods host, every seventh year, a festival of
-their own future assassins, and cannot stop: to cancel the games would be to admit fear before the
-other five. The pilgrim watched the finals in the Capital and applauded with everyone else.
-Manners.
+robe passes doors a rebel's rags cannot. So each god hosts, every seventh year, a festival of its
+own future assassins, and cannot stop: to cancel the games is to admit fear before the other five.
+The pilgrim watched the finals in the Capital and applauded with everyone else. Manners.
 
 ### The Tenth Stage — the Spiral, Which Is Not on Any Map
 

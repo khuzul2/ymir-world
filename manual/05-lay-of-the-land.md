@@ -3,13 +3,12 @@
 
 **From the sea-diary of Ramiro Estioca of Cartosa, licensed navigator of the Ordine Ermetico dei Manti Azzurri (faction of the Navigatori), master of the brigantine *La Bendata*; gathered posthumously at the Seggio di Cristallo.**
 
-> *Curator's note.* The reader has now heard the world described by priests. Here it is described
-> by a man who had to get around it without drowning. Ramiro Estioca's reckonings, lodged with the
+> *Curator's note.* The reader has heard the world described by priests. Here it is described by a
+> man who had to get around it without drowning. Ramiro Estioca's reckonings, lodged with the
 > Navigatori on his return, underlie the great **geographical map of 3518** that hangs beside this
-> Compendium; every modern chart descends from them. The diary itself came to Elendor later, in a
-> sealed tin, by a sadder road (see Chapter X). He wrote for himself and his owners, not for
-> posterity — which is exactly why I trust him. I have cut only the cargo-manifests, and I am told
-> I shall be forgiven. — *the Curator*
+> Compendium; every modern chart descends from them. The diary itself reached Elendor later, in a
+> sealed tin, by a sadder road (see Chapter X). He wrote for his owners and himself, not for
+> posterity — which is exactly why I trust him. I have cut only the cargo-manifests. — *the Curator*
 
 ---
 
@@ -90,7 +89,7 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 > whole of the wisdom here: it is a continent; grant it sea-room; and note that in five hundred
 > years it has not grown — patience, in such a neighbour, being the worst news of all.*
 
-**First of Grifone, 3517. Cartosa roads on the morning tide; two years less eight days out; all hands, less none.** And a puzzle for the academies, free of charge: my log, faithfully kept, stands **one day short** of the harbour-master's calendar. We lost no day. We sailed with the sun around a round world, and the world kept the difference. Twelve thousand leagues of wake by the log-line, and the *Bendata* asks only paint. I have seen the whole ring now — the sacred North and the frozen one, the smoking coast, the dreaming fog, the sands, the sorcery, the six dragons, the city in the air, and the two shores I will not name twice — and I find the best water on Ymir is the water off my own island. Every sailor says so of his own. Every sailor is right.
+**First of Grifone, 3517. Cartosa roads on the morning tide; two years less eight days out; all hands, less none.** And a puzzle for the academies, free of charge: my log, faithfully kept, stands **one day short** of the harbour-master's calendar. We lost no day. We sailed with the sun around a round world, and the world kept the difference. Twelve thousand leagues of wake by the log-line, and the *Bendata* asks only paint. I have seen the whole ring now — the sacred North and the frozen one, the smoking coast, the dreaming fog, the sands, the sorcery, the six dragons, the city in the air, and the two shores I will not name twice — and the best water on Ymir is the water off my own island. Every sailor says so of his own. Every sailor is right.
 
 > *Curator's note.* Set against the 3518 map's scale-bar, his reckonings err nowhere by more than
 > a day's sail; and the "lost day" closed the cartographers' case for the globe. The diary's other

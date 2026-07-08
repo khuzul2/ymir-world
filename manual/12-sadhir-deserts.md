@@ -91,22 +91,21 @@ folded neatly, like laundry.
 > once been haunted by anything it built itself.*
 
 **Above the ruin, in the age that followed, my people rose** — the **Sarradhi**, Those Who Walk
-the Cycle, whom your travellers call lizardfolk. We are matriarchal, mystical, and patient, and we
-built the **Great Sultanate** not on the bones of the sea but beside them, which distinction I
-insist upon. The **Sultana-Mazarit**, the Matron-Sultana, turns at the hub; around her the
-**Zaharat-al-Ruh**, high viziers and readers of the elements; then the **Sa'idari**, governors of
-provinces and rites; the **Narazeen**, our warrior-mystics; my own rank, the **Rakhama'i**, keepers
-of lore; the **Zalim'un**, coral-stewards of trade and cistern and road; and the **Safrat**, the
-common spokes on whom the whole Wheel rolls. Our capital is **Zarash-Sur**, built atop an ancient
-temple-city, where the **Crystalline Palace** takes the saltflash and gives it back as glory and
-the **Spiral of Transcendence** climbs; at **Kalzharan** the **Order of the Burning Wheel** keeps
-its mesa fortress and its vows; **Moluth-Har** in its salt canyon perfumes half the world with
-alchemy, incense, and argument; **Qarsaan** is a human town of the Ash-Marked, austere as its
-rites; **Tuleph** is the human caravan-city and neutral hub of the desert's trade; and of
-**Nashifet**, the hidden city of smugglers, relic-hunters, and worse remnants, a lore-keeper
-officially knows nothing. Our trade runs on **salt tokens** and the **coral-standard** of the
-Zalim'un; we export **mana-salt crystals**, elemental corals, Yarhim-shell armour, saltglass
-lenses, and incense of the Cycle, and the caravans carry them to every coast of Ymir.
+the Cycle. We are matriarchal, mystical, and patient, and we built the **Great Sultanate** not on
+the bones of the sea but beside them, which distinction I insist upon. The **Sultana-Mazarit**,
+the Matron-Sultana, turns at the hub; around her the **Zaharat-al-Ruh**, high viziers and readers
+of the elements; then the **Sa'idari**, governors of provinces and rites; the **Narazeen**, our
+warrior-mystics; my own rank, the **Rakhama'i**, keepers of lore; the **Zalim'un**, coral-stewards
+of trade and cistern and road; and the **Safrat**, the common spokes on whom the whole Wheel rolls.
+Our capital is **Zarash-Sur**, built atop an ancient temple-city, where the **Crystalline Palace**
+takes the saltflash and gives it back as glory and the **Spiral of Transcendence** climbs; at
+**Kalzharan** the **Order of the Burning Wheel** keeps its mesa fortress and its vows;
+**Moluth-Har** in its salt canyon perfumes half the world with alchemy, incense, and argument;
+**Qarsaan** is a human town of the Ash-Marked, austere as its rites; **Tuleph** is the human
+caravan-city and neutral hub of the desert's trade; and of **Nashifet**, the hidden city of
+smugglers and relic-hunters, a lore-keeper officially knows nothing. Our trade runs on **salt
+tokens** and the **coral-standard** of the Zalim'un; the caravans carry our **mana-salt crystals**,
+elemental corals, Yarhim-shell armour, and incense of the Cycle to every coast of Ymir.
 
 > **[Yusuf al-Marrah objects.]** *"Neutral hub." Tuleph is neutral the way a well is neutral:
 > everyone needs it, so no one is permitted to own it. Her coral-standard is sound money — I am a
@@ -146,17 +145,16 @@ Death, six-limbed and nocturnal, of which the Erg-folk say: if you have seen one
 sentence in the next life.
 
 > **[Yusuf al-Marrah objects.]** *At last, my own office. I have crossed the Erg forty-one times;
-> her people cross it seldom and badly, sitting a camel like a sack of grievances. Two powers
-> matter there. **Ulan-Tang** on the river Tang: a free city once, and holy — the river was sacred
-> to **Ishtar**, and my ledgers still carry contracts sworn in her name — until the sorcerers of
-> **Yogh** took it. Now the spider-god's High Priest, **Sazar-Gadash**, rules by right of having
-> murdered his predecessor Azim-Mulath, and they say worse of his parentage. There are no city
-> guards. There are the five great houses instead — **Gadash** in violet, **Ishra** in red,
-> **Tyarreth** in olive, **Miraz** in blue, **Gaib** in black — and their private knives; there is
-> the **Loto Nero**, which I do not carry; there is the **Night Market**, which I do not attend and
-> you should not ask why; and behind it all the **Conclave delle Ombre**, the **Azar-Kalish**,
-> whose sign is the spider and whose invoices are paid in lives. I trade there because one must. I
-> count my fingers after every handshake.*
+> her people cross it seldom and badly, sitting a camel like a sack of grievances. Consider
+> **Ulan-Tang** on the river Tang: a free city once, and holy — the river was sacred to **Ishtar**,
+> and my ledgers still carry contracts sworn in her name — until the sorcerers of **Yogh** took it.
+> Now the spider-god's High Priest, **Sazar-Gadash**, rules by right of having murdered his
+> predecessor Azim-Mulath. There are no city guards; there are the five great houses instead —
+> **Gadash** in violet, **Ishra** in red, **Tyarreth** in olive, **Miraz** in blue, **Gaib** in
+> black — and their private knives; there is the **Loto Nero**, which I do not carry; the **Night
+> Market**, which I do not attend; and behind it all the **Conclave delle Ombre**, the
+> **Azar-Kalish**, whose sign is the spider and whose invoices are paid in lives. I trade there
+> because one must. I count my fingers after every handshake.*
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The scribe thinks Ulan-Tang's spider a local usurper-god; the Sarradhi think it a demon. The
