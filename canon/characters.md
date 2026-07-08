@@ -59,8 +59,10 @@ the "legendary PCs" you asked about — pulled from the campaign digests in
   Pablo, Raphael, Ruben, Valerio, Kiki; **Ramirez deStuba** (the disgraced admiral).
 - **The Monster Mash** (Cartosa): Raggot, Gloria Duarte, Alehandro de la Corona; the pirate
   legend **Roberto Rodrigo "l'Armorita."**
-- **The Gate to Unknown**: Tofango (cursed axe Oblivion), Gundar, Fiorentino Cipriano,
-  Vemeer "Nero", Izàr, Tarek; the seer **Obnubia**.
+- **The Gate to Unknown**: **Tofango** — bearer of the cursed axe **Oblivion**, in which a
+  **powerful demon lies imbued and trapped**; the demon's influence drove Tofango to **madness and
+  loss of control**, and he ended his life as a **hermit atop a remote mountain**. `[CANON]`
+  Also Gundar, Fiorentino Cipriano, Vemeer "Nero", Izàr, Tarek; the seer **Obnubia**. → `magic.md`
 
 ---
 ### Open questions / notes

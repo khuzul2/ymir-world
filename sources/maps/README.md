@@ -15,6 +15,7 @@ for building the manual's cartography. Originals live in `../raw/`.
 | File | Shows |
 |------|-------|
 | `world-map-ymir-3518-geographical.jpg` | **Authoritative geographical world map**, dated **3518 d.m.**, compass (N up) + scale bar. Unlabelled landmasses — the true layout to reconcile prose against. Also strong evidence the "present" is ~3518. |
+| `world-map-ymir-3518-labelled-draft.png` | **Labelled draft** over the 3518 base (GEO-3=A): Maelstrom at centre + major regions placed (first-pass, for review). |
 | `regional-young-kingdoms-true.bmp` | The "true map" of the Regni Giovani (Young Kingdoms). |
 | `regional-gaerwath-3500.jpg` | The Gaerwath archipelago, dated ~3500 d.M. |
 | `regional-obnubia-isle.png` | The isle of Obnubia (the seer Obnubia's domain). |

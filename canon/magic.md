@@ -121,8 +121,10 @@ Equilibrio. → `history.md`, `calendar.md`
   (Forgotten Scrolls)**, the **Chiave del Nulla**, and the six **Sangue Elementale** vessels
   used in the Catastrophe. → `secret-the-great-lie.md`
 - Legendary blades: **Mietianime** (forged by the death-god, wielded by **Morannagul**),
-  **La Spada di Valdis**, **Oblivion** (`[CANON — decision HIS-13]` **Tofango's** cursed axe,
-  *not* Kramer's → `characters.md`), the **Masamune** (borne by Surya), and the elemental
+  **La Spada di Valdis**, **Oblivion** (`[CANON]` **Tofango's** cursed axe — a **powerful demon is
+  imbued and trapped within it**; its malign will is what drove Tofango to **madness and loss of
+  control**, and he ended his days as a **hermit atop a remote mountain**. → `characters.md`), the
+  **Masamune** (borne by Surya), and the elemental
   blades **Hellion / Vendicatrice Oscura / Mornlosse / Frangionde**. Also the **Corona della
   Stregoneria**.
 

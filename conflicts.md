@@ -59,7 +59,9 @@ Recorded as you decide them. → written into `canon/`.
 **Batch 4 (2026-07-07):**
 - **HIS-5 — the "two unnamed adventurers" → DECIDED: B (mythic/unnamed).** History remembers the
   deed of breaking the seal, not the names; leaves room and reads more legendary.
-- **GEO-3 — canonical world map → PENDING** (you're reviewing the 3518 map before choosing A/B).
+- **GEO-3 — canonical world map → DECIDED: A.** The **3518 d.M. geographical map** is the
+  canonical base (Maelstrom at the centre); prose reconciles to it and the old hand-drawn labels are
+  placed onto it. A labelled draft is being produced for review.
 - **META-2 — currency → DECIDED: region-specific.** **No single coinage.** Each region/people has
   its **own money and economic system fitting its flavour** (e.g. Cartosa doubloons/pieces-of-eight;
   Armora industrial marks & guild scrip; Qi-Long cast cash-coins & jade; Letia church-minted coin;
@@ -146,7 +148,7 @@ _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 | HIS-5 | Identity of the "two unnamed adventurers" | blind-spot | med | DECIDED |
 | GEO-1 | Sadhir: humans vs. Sarradhi lizardfolk | conflict | high | DECIDED:C |
 | GEO-2 | Qi-Long: six kingdoms vs. one empire | conflict | high | DECIDED:A |
-| GEO-3 | World-map vs. prose placement | conflict | med | PENDING |
+| GEO-3 | World-map vs. prose placement | conflict | med | DECIDED:A |
 | GEO-4 | Unnamed world-map regions | blind-spot | low | DECIDED |
 | RAC-1 | Creation myths vs. engineered-race truth | conflict | med | DECIDED:A |
 | RAC-2 | Playable-races set | unclear | med | DECIDED:C |
