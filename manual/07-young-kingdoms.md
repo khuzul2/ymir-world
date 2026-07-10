@@ -161,4 +161,4 @@ Kingdoms as Ymir's magitech register). **[INVENTED] flags:** the present Granduc
 VonGryffen II "la Magnifica"** (name and epithet invented to fill the HIS-2 present-day gap);
 Galenia's and Tydriell's one-line flavours (realm names canon, descriptions invented); the
 Strillone's masthead, mottos, advertisements (VonHaller & Sons; Dextrius & Quill), letter-writers,
-the eight-legged cargo-walker, and the annual Palace denial as a civic ritual.
+the eight-legged cargo-walker, the annual Palace denial as a civic ritual, and the "eighty-five million souls" census figure (invented order-of-magnitude).

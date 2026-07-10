@@ -142,9 +142,7 @@ ours; the keeping of it is.*
 > Bianchi and do not say why — not to Solanthya, not to their own young. Something below the White
 > Mountains answered the Tide the way deep water answers the moon, and it has not entirely stilled
 > since. A work of the Adepti; a thing that slipped the cracked prison; something the mountain
-> always held — I have not gone down to see. Neither, yet, has anyone who came back up.
-> [INVENTED — open GM hook: the sealed galleries and the stirring are new connective tissue,
-> deliberately unresolved.]*
+> always held — I have not gone down to see. Neither, yet, has anyone who came back up.*
 
 ---
 *Colophon.* Chapter VI. Narrator: **the Annalist of Solanthya**, Clericato di Mithra (invented
@@ -158,7 +156,7 @@ Heinrich Kramer), and, in the margins, `canon/secret-the-great-lie.md` (the borr
 god). Decisions applied: **GEO-8** (Solanthya is Letia's capital-seat; the map label stands for
 greater Letia), **HIS-2** (Leonius then, Vespertina a later successor — succession, not
 contradiction), **HIS-11** (Helgedad's annexation-to-secession as one arc, per the Curator's
-cross-reference), **HIS-1** (present ≈ 3518 d.M.). **[INVENTED]** and flagged in place: the
+cross-reference), **HIS-1** (present ≈ 3518 d.M.). **[INVENTED]** (incl. the Veiled Hand's sealed-galleries-under-the-Monti-Bianchi margin — an open GM hook, deliberately unresolved) and: the
 archive-towers' furnishing, the "granaries and courts" apologia, the present-day texture of 3518,
 the sun-gate inscription, and the sealed galleries beneath the Monti Bianchi (open GM hook). The
 laws, numbers, dates, institutions, and wars are canon.

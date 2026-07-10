@@ -39,7 +39,7 @@ reading of that sentence. All our history is an argument over its grammar.
 > through the hunters' own doors. That is the Sin and the Exile: a real revolt, a real
 > flight, remembered upside-down — for the "gods" they offended were the Adepti, and the
 > crime was saying no. A tree cut from its root does not lie when it says it once stood
-> taller. See `secret-the-great-lie.md`, COS-17.*
+> taller.*
 
 **We came to this world through the doors, in the age your chronicles call the Demon Wars.**
 The portals stood open then; the Sovereign Demons were unmaking Ymir; and the elves — set this

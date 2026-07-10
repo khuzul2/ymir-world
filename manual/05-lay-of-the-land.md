@@ -77,8 +77,9 @@ flat, as sailing directions — a cat-kingdom follows a Storm across the grass; 
 called **Gazal** sells shovels to men who go under it and inns to the ones who come back up; and
 in the deep green are cities of gold with owners still in them. *"Trade the coast,"* he said.
 *"The interior trades in you."* Weighed with a full hold and one new song the crew will not stop
-singing. — For the songs themselves, the Curator tells me a keeper of them has her own leaf in
-this book; trust her over me. I only anchored there. She is *from* the morning country.
+singing. *(For the songs themselves: a keeper of them has, since these pages were gathered, a
+leaf of her own in this book — trust her over the sailor. He only anchored there; she is from the
+morning country. — the Curator)*
 
 **Third of Cervo. Standing off the Gaerwath; will not close it.** The elves' word for that water means **Sea of Sorcery**, and for once the elves undersell. An archipelago of the **Dark Elves**, the sea about it cloaked in their workings: water that lies about its depth, islands not where they stood yesterday, lights that are not lights, currents running uphill of the wind. No ship crosses but with an **elf-pilot** out of the dark cities; twice their factor rowed out to offer one, and twice I sent him back dry — the price is set in things I do not sell. A slave-country under an Emperor-pontiff; cities of black glass down there, they say, joined by roads under the sea. Beauty is not a sea-mark. We stood off forty leagues and lost only a topsail and one man's nerve.
 
