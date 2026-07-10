@@ -17,7 +17,7 @@
 | **Nani (Dwarves)** | Mountain dwarves; **Nani di Pianura** (Plains Dwarves); the **Arawak** (stone/bone, no metal). | ✔ |
 | **Elfi (Elves)** `[RAC-3/4/5/8]` | **Factions** (religious): Chiari/Light · Illuminati/Rinuncianti (moderates) · Oscuri/Dark. **Sub-races**: Alti/High · Silvani/Sylvan · **Grigi/Grey (= the Sea elves)**. Factions × sub-races are **orthogonal**; Alfheim = Chiari homeland, the Gaerwath = Oscuri exile. No "marini" sub-race. | ✔ |
 | **Folletti (Little People)** | **Fate (Fairies)** + **Gnomi (Gnomes)**; of the Silver Isles. | ✔ |
-| **Tanoth** `[RAC-3/4/5/8]` | Umbrella for **two** branches only: **Tal-Tanoth** (small feline humanoids — the "Halfling" slot) and **Ur-Tanoth** (nomad hunters). **No "Tanoth proper."** | ✔ (Tal-Tanoth) |
+| **Tanoth** `[RAC-3/4/5/8 + Additions.md]` | Umbrella for **four** branches: **Tal-Tanoth** (small feline humanoids — the "Halfling" slot), **Ur-Tanoth** (nomad hunters; the Tarkur Storm-kingdom in Ophiur), **Kor-Tanoth** (wolf/jackal-folk of Cartosa's plains & Ophiur), **Ugra-Tanoth** (solitary 3-m bear-folk of Helgedad & Ophiur). **No "Tanoth proper."** | ✔ |
 | **Sohleugir (Lizardmen)** | Undersea kingdom of Ssas'Kher; also surface traders; spring-harpoons. | ~ |
 
 ## Regional / sub-peoples `[CANON]`
@@ -33,8 +33,10 @@
 
 ## Half-races (Mezze Razze) `[CANON — mezze-razze.txt]`
 16 documented crossbreeds (each with a technical + common name and a Sterile/Fertile flag):
-**Yafysh, Ghzaak, Gurbad, Ghynr, Dwergar, Lash-Tanoth, Gremlin, Pishacha, Ugra-Tanoth,
-Kappa, Sibert, An-Tanoth, Changeling, Hobgoblin, Uomo-Pesce, Gha-Tanoth**. Plus the common
+**Yafysh, Ghzaak, Gurbad, Ghynr, Dwergar, Lash-Tanoth, Gremlin, Pishacha, ~~Ugra-Tanoth~~,
+Kappa, Sibert, An-Tanoth, Changeling, Hobgoblin, Uomo-Pesce, Gha-Tanoth**. *(Ugra-Tanoth
+struck: Additions.md redefines them as a full Tanoth branch — bear-folk — superseding the old
+"Troll + Tanoth" cross.)* Plus the common
 **Half-orcs** and **Half-elves**.
 
 ## Degenerate & hybrid races `[CANON — razze-degenerate.txt, ibridi.txt]`

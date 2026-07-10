@@ -63,6 +63,23 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 > *Curator's note.* In that hall this Compendium was gathered. The reader stands, so to speak, at
 > Ramiro's anchorage. — *the Curator*
 
+**Twentieth of Grifone. The Ophiur coast; the sun comes up like a bell rung once.** South of the
+salt and east away toward the dragon-kingdoms lies the continent our charts leave modestly blank:
+**Ophiur** — jungle, black mountains, and a gold savanna behind, all of it wearing the morning as
+its own property. The Letii aboard called the folk *i Popoli Neri* until the pilot of **Zabhula**
+came over the side and out-bargained our factor in three languages, after which they called them
+sir. The **Coalizione d'Avorio** — Zabhula, **Akhon**, **Ga'Namesh** — are free trading cities of
+the old, easy kind: what the rest of the world fights over, they simply *have* — orihalcum,
+shald, lotus in every colour — and sell at prices that make you check the scales twice because
+they are fair. Tall folk, very black, very sure; their nobles are said to carry the first
+fire-blood of Man, and their singers to hold a thousand songs of it. Inland — the pilot said it
+flat, as sailing directions — a cat-kingdom follows a Storm across the grass; a ruined capital
+called **Gazal** sells shovels to men who go under it and inns to the ones who come back up; and
+in the deep green are cities of gold with owners still in them. *"Trade the coast,"* he said.
+*"The interior trades in you."* Weighed with a full hold and one new song the crew will not stop
+singing. — For the songs themselves, the Curator tells me a keeper of them has her own leaf in
+this book; trust her over me. I only anchored there. She is *from* the morning country.
+
 **Third of Cervo. Standing off the Gaerwath; will not close it.** The elves' word for that water means **Sea of Sorcery**, and for once the elves undersell. An archipelago of the **Dark Elves**, the sea about it cloaked in their workings: water that lies about its depth, islands not where they stood yesterday, lights that are not lights, currents running uphill of the wind. No ship crosses but with an **elf-pilot** out of the dark cities; twice their factor rowed out to offer one, and twice I sent him back dry — the price is set in things I do not sell. A slave-country under an Emperor-pontiff; cities of black glass down there, they say, joined by roads under the sea. Beauty is not a sea-mark. We stood off forty leagues and lost only a topsail and one man's nerve.
 
 **Nineteenth of Viverna. The Alfheim shore; wind soft and green-smelling.** Forest to the tide-line, a green so deep it reads black under cloud, white beacon-fires on the headlands: the light elves' country, in the world's south-east corner along with everything else elvish. **Ost-en-Galad**, their Shining City, was broken in the Tide — a dragon out of the world's oldest drawer did it, the tale goes — and they have built again beside their own ruin, which is either faith or stubbornness; at sea you learn those are one thing. They take little cargo and pay in craft-work worth triple at home.

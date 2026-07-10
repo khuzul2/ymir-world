@@ -40,6 +40,7 @@ the hidden truth (the Great Lie) lies beneath, it surfaces only in the **margins
 | 10 | **Cartosa & the Southern Seas** | Ramiro Estioca (returning), with a Manti Azzurri factor's ledgers | as Ch.5 — swashbuckling, mercantile |
 | 11 | **The Gaerwath & the Elves** | **Aelryn Vhaeloth i-Celeblyar**, Dark-Elf Loremaster of Morannagul the Eternal | cold ornate hauteur; contempt for the short-lived; the exile-from-Niethel theology |
 | 12 | **The Sadhir & the Deserts** | **Adhima the Rakhama'i**, Sarradhi lore-keeper (and a human caravan-scribe's rebuttal) | cyclical, riddling, patient; the human voice interrupts to disagree |
+| 12·B | **Ophiur** *(late-bound leaf)* | **Nyema of Ga'Namesh**, Keeper of the Thousand Songs of the Ivory Coalition | praise-song cadence, call-and-response ("Ask me… and I will answer"); proud, warm, corrective — she crossed three seas to fix the Curator's blank map |
 | 13 | **The Peoples of Ymir** | **Pips Quondam**, a Tal-Tanoth traveller | gossipy, irreverent, sharp-eyed; footnotes everyone's pretensions |
 | 14 | **Beasts & Wonders** | **a huntsman's field-book** (a ranger of Therìos) | terse field-notes; tracks, spoor, danger-ratings |
 | 15 | **The Book Behind the Book (GM)** | **the Veiled Hand, unmasked** | the cold truth-teller, at last in full |

@@ -86,7 +86,40 @@ Cristallo** — the Crystal Seat at Elendor, the Council of Peoples' hall, where
 Vie** — the True Ways, the portal-roads, closed for an age and open again · **Usufruitore** — any
 wielder of magic, in the law's cold word.
 
-## Appendix E · Of This Book's Making *(out-of-world note)*
+## Appendix E · Of Herbs, Draughts, and Dusts
+
+The narrators mention the road-pharmacy of Ymir in passing; the traveller deserves the list plain.
+Effects are given as the wise use them — the doses, and the prices of misuse, I leave to apothecaries
+and to conscience. *(Bought honestly, half of these are medicine. Bought in an alley, all of them
+are stories that end badly.)*
+
+- **Distillato di Utombe** — jungle-leaf distillate; erases the *feeling* of wounds for an hour
+  (the wounds, regrettably, remain). In heavy doses a paralysing and sometimes killing poison.
+- **Radice di Qarando** — black-leaved root; the Nkishi war-draught: euphoric fearlessness, at the
+  cost of all caution. Warriors under it do not parry and do not chase; they only go *forward*.
+- **Subotan** — the violet poppy: bliss, torpor, waking dreams. Illegal in the Principato and
+  available within sight of every courthouse in it.
+- **Elin** — a red alga; for a few racing moments the body outruns itself. Sailors chew it in
+  storms and age accordingly.
+- **Amatuba** — spores of the deep fungi; brief, prodigious strength. Nkishi and Arawak warriors
+  swear by it, and their healers swear at it.
+- **Kirsemal** — dried yellow flowers, inhaled: a profound stillness and clarity, prized by the
+  Qi-adepts of the east; the body answers slowly while the spirit burns bright.
+- **Xu Ran** — a long dark leaf whose smoke steadies the mind for improvised sorcery.
+- **Rud-Tekma** — berries that sharpen a caster's art and sink the caster into trance; the
+  entranced have been known to bless — or blast — whatever stands nearest.
+- **Aljira** — bluish liquor of Black Lotus nectar: restores a mage's spent power at once, and
+  each dose is a wager with the body; lose, and it takes instead of gives.
+- **Loto Nero (Black Lotus)** — powdered petals; sorcery strengthened, every spell's grip
+  lengthened. The vice of Ulan-Tang, where it is called an economy.
+- **Loto Verde (Green Lotus)** — of the Grande Erg: a two-hour visionary coma, past and future
+  shown to the prepared and riddles to everyone else — and each dose risks the sleeper's soul
+  slipping its mooring into the **Mondo dei Sogni**, from which some do not come back for the body.
+- **Succo Juh'gad** — Gaerwath elf-alchemy, troll-gland and Moon-Wine: great strength yoked to a
+  fearful, biddable spirit. They feed it to slaves at heavy labour. Everything one needs to know
+  of the Gaerwath is in that sentence.
+
+## Appendix F · Of This Book's Making *(out-of-world note)*
 
 The Compendium is the player-facing world bible of Ymir. The body text of every chapter is an
 in-world document with an in-world author's bias; the **⟡ margins ⟡ are for the Game Master
@@ -99,5 +132,6 @@ repository. Contradictions between narrators are deliberate where the sources th
 
 ---
 *Colophon.* Appendices by the Curator (framing voice). Drawn from `canon/calendar.md`,
-`canon/history.md`, `canon/economy.md`, `canon/cosmology.md`, `canon/magic.md`, and the decisions
-log in `conflicts.md` (HIS-1, META-2, META-5, COS-6/13, COS-22).
+`canon/history.md`, `canon/economy.md`, `canon/cosmology.md`, `canon/magic.md` (Appendix E:
+the substances of `sources/raw/Additions.md`), and the decisions log in `conflicts.md`
+(HIS-1, META-2, META-5, COS-6/13, COS-22).

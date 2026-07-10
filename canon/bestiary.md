@@ -106,6 +106,26 @@ accounts are myth vs. truth. → `NOTES.md`
 - **Magositi** — a magic-borne disease (the one Ymir-original entry among the diseases). → `magic.md`
 (Full catalogue in `sources/extracted/wiki/creatures-dragons.md`.)
 
+## From Additions.md `[CANON]`
+- **Notturni** — a mysterious, furtive race few have even heard of: beings seemingly of
+  **solidified shadow**, ill-defined at the edges, with luminescent green eyes. Active by night or
+  in shade (direct sun irritates but does not harm them); at ease in shadows, which they seem to
+  command at will. Their origin and purpose are unknown: the few who have spoken with them report
+  they come from a place they call only "**Notte**" or "**Ombra**" (a physical place, a plane, or
+  perhaps a mother-entity — none can say) and are on Ymir to carry out a certain "**Lavoro**" or
+  "**Compito**" (Work/Task) they will not or cannot reveal. They appear to share a **hive-mind** —
+  individuals struggle to distinguish themselves from their kind, or even from "the Night" itself.
+  `[GM tie — secret-the-great-lie.md]` Their home is the world **Naxtis** of the Adepti's old
+  empire, the source of the light-drinking material **Umbra**; what their "Task" on Ymir is remains
+  an open hook.
+- **Zortos** — abominations **created by the Manti Azzurri** of Cartosa: goblins crossed with other
+  creatures and corrupted with elemental water and air by a secret alchemical rite. Small (~150 cm)
+  fox-headed humanoids in silver-blue fur that always looks wet; venomed claws and fangs, superb
+  scent-trackers, tireless swimmers who breathe water as easily as air, seeing by day, night, and
+  heat alike. As hybrid elementals they shrug off earth and ice but burn terribly under fire and
+  light. Bred as **hunters** — the guild looses them after dangerous criminals and renegade mages;
+  a small minority are trained in minor air- and water-magic.
+
 ## Extraplanar & mutant beings (pointers)
 - **Ibridi (Hybrids)** and **Marchiati (the Marked)** — Maelstrom-mutated life. → `peoples.md`, `cosmology.md`
 - **Spiriti Furiosi (Raging Spirits)**, **Elementals**, **Djinn**, **Angels**, and
