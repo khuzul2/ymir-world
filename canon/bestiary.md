@@ -131,6 +131,14 @@ accounts are myth vs. truth. → `NOTES.md`
 - **Spiriti Furiosi (Raging Spirits)**, **Elementals**, **Djinn**, **Angels**, and
   the six **Circles of Demons** — see `cosmology.md`.
 - **Valrin** — the "Forces"/demons the Dark Elves bind. → `peoples.md`
+- **Natharl'Nacna** — the **eldest demons, dwellers in the Void**, ancestors of the
+  demon-kind (batch2 `Demoni.txt`; digest: `sources/extracted/batch2-digests/`).
+  `[CANON — wiki-worldofymir: Scritti e Pergamene]` The forbidden tome **Il Libro degli
+  Estranei** ("The Book of Strangers") teaches a **rite to summon a Natharl'Nacna** — the
+  first source that makes them *summonable* (at what price, the wise do not ask; cf. the
+  Outsider rules of the summoning economy → `magic.md`). The tome sits in the ~100-book
+  in-world library canonised in `canon/items.md` (source:
+  `sources/extracted/wiki-worldofymir/Scritti e Pergamene.md`).
 
 ---
 ### Open questions

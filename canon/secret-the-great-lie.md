@@ -7,7 +7,8 @@
 > **welcome-page.txt** (the homepage manifesto), **cosmologia.txt**,
 > **i-piani-e-il-multiverso.txt**, **dei-esterni.txt**, **tchyo.txt**, **zohriti.txt**,
 > **arcadia.txt**, and the campaign log "The Gate to Unknown." See the digests in
-> `sources/extracted/wiki/` for the raw detail.
+> `sources/extracted/wiki/` for the raw detail. The Drive corpus adds the deepest
+> mythic stratum: **YMIR-1.0.2-Atlas.txt** (`sources/extracted/ymir-drive/`).
 
 ## The one-paragraph truth `[CANON — decision COS-1 = hybrid]`
 The gods of Ymir are **half a lie** — and that is worse than a whole one, because the divine is
@@ -58,6 +59,51 @@ Mithra & Ahriman are real). The "heresy" that "the six Elemental Gods *are* the 
 only *partly* true: the Adepti **co-opted some of their names, masks, and cults** — but the
 genuine elemental powers exist behind them. So the public myth (the Twins born of the duality)
 and the secret (Adepti wearing their faces) are both partly right.
+
+## The deepest stratum — the Atlas cosmogony `[CANON — ymir-drive: YMIR-1.0.2-Atlas]`
+The Drive corpus's **Atlas** preserves the **deepest stratum** of the myth — an older creation
+account that *corroborates* this file's secret layer rather than competing with the public
+Ech-myth (which remains the surface telling; → `cosmology.md`, HARV-4 in `conflicts.md`):
+
+- **Before the gods:** only the two **Original Elements** — **il Vuoto (the Void)** and **il
+  Mana** — in still Balance. Mana pushed into the Void, the Void pushed into Mana: **the First
+  Clash**, which birthed the four Lesser Elements (Fire, Earth, Air, Water) and **six Old Gods**.
+- **The six Old Gods, by epithet:** the **Scion of the Beginning** (kin of Mana; created Life,
+  the **Dreamlands and Astral planes**, and the **Adepts** as stewards), the **Gazer in the
+  Dark** (kin of the Void; made the **Demons** and their hidden plane of Circles), the **Lady
+  of Sorrow**, **She who Sees**, the **Gatherer of Circles** (who made **Men**), and the
+  **Daughter of Nowhere**.
+- **Mithra & Ahriman as *made* "New Gods":** the four sibling Old Gods crafted two children to
+  kill and replace the Scion and the Gazer — bodies of the Lesser Elements, **Mithra** ensouled
+  with **Essence + Aether**, **Ahriman** with **Void + Nether**. The two then **banished the Old
+  Gods** and ruled in their place.
+- **✨ The mapping — Banishment ↔ Sealing.** Six Old Gods *banished* by the New Gods ↔ our six
+  named Ancient/Outer Gods *sealed* by the Adepti (above): the counts and the arc line up, and
+  the Atlas reads naturally as the mythic memory of this file's secret. One pairing is treated
+  as firm — **the Gazer in the Dark ↔ Tuulhak-Xanar the Observer** (both the shunned watcher
+  "hidden in the shadows at the very corner of the Universe"). The rest are *suggested, not
+  locked*: Scion of the Beginning ↔ Tlahuiz'Halpantexuhtli the First; Gatherer of Circles ↔
+  Xotl-Nag'aaqe the Mother; She who Sees ↔ Xuxhul'Xhathi the Judge; Lady of Sorrow ↔
+  Xatol-Nahuactl the Silent; Daughter of Nowhere ↔ Xip-Tenalthe the Risen. *(Open end — leave
+  the five soft pairings open until decided.)*
+- **The Vanyr and the Asar — the Adepts' two orders.** After the Banishment the abandoned
+  Adepts split: the **Vanyr** kept themselves "pure, apart from other races" — and were
+  corrupted through their traffic with Demons, "Adepts no more, just Vanyr"; the **Asar** lived
+  among Men to watch over them, their blood diluted "until they were Adepts no more, just
+  Asar." Their **First War** was "fought without quarter **on all the worlds**… Many of the
+  worlds were destroyed" — a striking corroboration of the **multi-world Adepti empire** above
+  (the planet catalogue). *(The Atlas also blames this war for "the eternal Maelstrom" — a
+  variant reading against COS-2's theft-ritual; kept open under HARV-4.)*
+- **Il Mana Oscuro (Dark Mana) ↔ Corrupted Essence.** The Atlas names a third force that wants
+  to devour Mana *and* Void alike — a "virus or tumour" infecting the healthy body of the
+  universe. **Dark Mana canonises as the older/mythic name of our Essenza Corrotta.** Hence the
+  in-world dread hierarchy: sacrificing to a dark god merely feeds that god's influence, but
+  **sacrificing to a Demon infects part of the cosmos with Dark Mana and spreads it** — why
+  demon-cults are feared categorically more than dark gods.
+- **The Ahriman-heresy** *(in-world heresy, not settled truth)*: "what if Ahriman were one of
+  the Old Gods who **escaped the Banishment by corrupting his own essence** — becoming the Dark
+  Mana itself?" It would explain why he reads as alien and universally evil, "potentially
+  dangerous even to the Ancient Gods." A ready-made heresy box for the manual; **kept open**.
 
 ## La Catastrofe — what really happened `[CANON]`
 The Adepti's theft of divine power tore the flow of Essence, creating an anomaly: a

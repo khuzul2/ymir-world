@@ -64,6 +64,36 @@ the "legendary PCs" you asked about — pulled from the campaign digests in
   loss of control**, and he ended his life as a **hermit atop a remote mountain**. `[CANON]`
   Also Gundar, Fiorentino Cipriano, Vemeer "Nero", Izàr, Tarek; the seer **Obnubia**. → `magic.md`
 
+## Canon PCs & figures from the harvest (Drive + Fandom wiki)
+- **Kharim Abdul Jabbar** `[CANON — ymir-drive: PC-Mura, the Drive "Pc Graveyard"]` — the
+  **first named dead canon PC** (the fallen-PCs ledger opens with him): a Common-Man thief
+  of desert/Erg origins (he spoke the Desert tongue), Essence-touched, who carried a ring
+  of *Unseen* and went accompanied by a **Zephyr Hound (Cane delle Tempeste)** — a bound
+  storm-hound companion. *(File "(RIP) Mura_02" implies at least one earlier fallen
+  character of the same player.)*
+- **Ferdinando Montecarlos** `[CANON — wiki-worldofymir: PG di Ymir]` — freelance
+  *pathfinder*, born and raised in **Cartosa** (player: Alessio).
+- **San Dwayne l'Edificatore** `[CANON — wiki-worldofymir: Scritti e Pergamene]` — the PC
+  **Dwayne Soylen** (Thurms-paladin and temple-builder) evidently **canonised as a saint**,
+  with an in-world hagiography: *Vita di San Dwayne, l'Edificatore*. → `canon/items.md`
+  (the library).
+- **Alexander Corvinus, "Il Perfetto"** `[CANON — wiki-worldofymir]` — renegade Armorite
+  aristocrat, student of the dark arts; PC of the later "Back to war!" campaign. *(His
+  player is recorded variously as Daniel and Mura — table-history variance; keep both
+  records, don't "correct" one against the other.)*
+- **Allanon-Ra** `[CANON — wiki-worldofymir: 2011 - Back to war!]` — PC (player: Pojer);
+  the **-Ra** suffix ties him, like the returning Ulan-Tang assassin **War-Ra**
+  ("Secundus"), to an Ulan-Tang noble family "**Ra**" → HARV-10 in `conflicts.md`.
+
+> ⚠️ **GM-ONLY / FUTURE-ARC** `[wiki-worldofymir: "2011 - Back to war!" — placement undecided,
+> HARV-3]` — **M'Raker** is the **lich name Heinrich Kramer takes**: under it he leads
+> world-spanning **undead armies** in a world war (Armora besieged and falls), **banishes
+> the gods from Ymir's universe**, hides his **phylactery in the Ophiur** (reached via the
+> Ophirite coasts), and schemes to re-enter Ymir **disguised as a demigod** when the gods
+> are restored. This is the wiki's **future/alternate arc**, *not* the ~3518 present — keep
+> it out of player-facing text until its placement is ruled. *(The same page lists
+> **Tofango** as a living NPC — see HARV-8; his canon hermit-death stands.)*
+
 ---
 ### Open questions / notes
 - `[CONFLICT]` The Cartosa gazetteer names **Rodriguez XIII** as the sitting Prince
@@ -71,8 +101,9 @@ the "legendary PCs" you asked about — pulled from the campaign digests in
   in 3017. Likely the book was written just before Alberto's accession, or the two
   were composed at different in-world dates. Reconcile against a firm "campaign present."
 - Most figures are known only from a single line; famous **player characters** who
-  became part of Ymir's canon are not yet recorded — a prime thing to collect from
-  you and your friends.
+  became part of Ymir's canon are only beginning to be recorded (see the harvest
+  section above — Kharim is the first of the fallen) — still a prime thing to collect
+  from you and your friends.
 - `[CANON — decision HIS-16/META-10]` **Name-disambiguation note:** **Uglush the Supreme**
   (Horde warlord, 2015–2030) and **Ugrumuulsh One-Eye** (Grande Khan, 3026) are **two distinct
   orc leaders** a century apart — do not merge them; the variant **Uglaark** normalises onto the

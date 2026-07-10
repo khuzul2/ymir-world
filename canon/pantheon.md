@@ -143,6 +143,30 @@ Era della Marea (a wandering body distinct from **Ishtar's** silver moon; → `c
 - The **Nkishi** *Orisha*/*Mayombe* forest-spirits and **M'Bantha** shamanism →
   `peoples.md`.
 
+## Patron gifts & the dark initiation `[CANON — ymir-drive: Talents & Flaws §Path of Faith]`
+The Drive corpus's Faith-path roster names the same gods as the Player Guide (a good
+cross-check: the Atlas-era and Player-Guide pantheons agree) and adds the **signature gift**
+each patron grants the devout (mechanics stripped; the gifts are characterising lore):
+- **Mithra** — drives off *demons and corrupted creatures* (holy repulsion).
+- **Ishtar** — healing hands: wounds treated by her faithful always mend a little, and her
+  healers can never worsen a patient.
+- **Kur** — drives off **the undead** (the death-goddess is the dead's *mistress*, not their
+  friend — matching her Thal'Khal cult in Helgedad's Seamark).
+- **Thurms** — his faithful strike demons harder; even their misses bruise.
+- **Gog** — once a week the devotee may **permanently change their face** — and can never
+  return to a face once worn, not even by magic. The god of Lies as patron of the faceless.
+- **Yogh** — speech with spiders; arachnids treat the devotee as kin and obey.
+- **Heis** — a laying-on of hands that grants a **frenzy** of unknowable duration (the Mad
+  God's blessing).
+- **Ahriman** — parley-rights with all demons (even free-willed ones, or those loosed by a
+  failed summoning), an **Imp familiar**, and advancement through the **five Trials:
+  Injustice, Betrayal, Blasphemy, Sacrilege, Hate** — culminating in the inversion of
+  Mithra's gift (driving off the *un*-corrupted). **The named Trials are a complete
+  initiation ladder for any Ahriman cult** — the Alba Nera (→ `factions.md`), the
+  Letio-church-worships-Ahriman accusation (below), dark-cult NPCs generally.
+- **Clerical rank titles** (usable in-world): **Priest (First/Second/Third Order) →
+  Hierophant (Initiate → … → Legendary) / Theurgist (→ High → Supreme)**.
+
 ## Church politics `[CANON]`
 The **Church of Mithra** is fracturing: Armora's Granduke declared **Solanthya's Alto
 Teocrate** corrupt and founded the schismatic **Chiesa Armorita di Mithra**, accusing

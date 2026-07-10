@@ -63,6 +63,11 @@ former galactic empire → new GM-secret file **`canon/secret-the-great-lie.md`*
 
 ## 🕳️ Gaps / remaining extraction (after the maps + regional + LIBRO ROSSO pass)
 - ✅ **Maps.** Three extracted → `sources/maps/` (world, Cartosa, Qi-Long).
+- 🚧 **Large Drive maps — Alessandro will supply separately (do NOT re-fetch).** The
+  **130 MB print world map** (`Ymir_50x75_300dpi.psd`) and the **Letia hex map**
+  (`Letia Hexr.psd`, 130 MB — no raster fallback exists) exceed the Drive connector's
+  10 MB cap and could not be pulled. Alessandro will provide both files himself — do not
+  re-attempt via the connector. (Rasters we do hold: `sources/raw/ymir-drive/maps/`.)
 - ✅ **Regional docs + LIBRO ROSSO** — mined into canon (framing + four magic realms).
 - 🕳️ **World-map ↔ prose reconciliation.** The hand-drawn world map's labels don't all
   match the doc names (e.g. Helgedad's Talwar/Kelhar sit SE though Helgedad reads as

@@ -22,5 +22,6 @@ bridge between the raw pile in `sources/` and the polished chapters in `manual/`
 | `bestiary.md` | Creatures, monsters, notable beasts |
 | `characters.md` | Named NPCs and famous player characters |
 | `calendar.md` | Calendar, cosmological cycles, festivals |
+| `items.md` | Named weapons, relics, the in-world library (beyond magic.md's compact canon) |
 
 New topic files are added whenever the material demands one.

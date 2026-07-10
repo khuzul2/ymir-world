@@ -139,6 +139,23 @@ Recorded as you decide them. → written into `canon/`.
   jungle legends, Giardino di Xiombarg); world-map labels Gazal/Zabhola resolve to it (partially
   settles GEO-4). New manual chapter XII·B + Ch. V diary entry.
 
+**Adopted from the Drive session (Alessandro, decisions of 2026-07-07; merged 2026-07-10):**
+- **DRV-1 — Forgiven Lands → DECIDED: EXCLUDED from Ymir canon.** The "Campagna Estate 2014"
+  is a separate **AD&D2 "Forgiven Lands"** campaign (own map, *The Forgiven Lands*; villain
+  *Duca di Nimard*) — **not Ymir**; excluded per Alessandro. **Verified in our tree:** no
+  Forgiven-Lands content exists anywhere in the corpus — it survives only as a link-only
+  catalogue entry in `sources/raw/ymir-drive/DRIVE-MANIFEST.md` and the README note.
+- **DRV-2 — "No fixed campaign present" → RECONCILED with HIS-1.** Their principle: the manual
+  is a **world/setting book, not a metaplot** — it presents the **full timeline**, and each
+  table decides when to set its campaign. Our **HIS-1 (present ≈ 3518 d.M.)** stands as the
+  **Curator's vantage** — the far end of recorded lore / the 3518 map-date — **not a metaplot
+  lock**. The two phrasings are one rule. (Adopt their corollary too: the Rodriguez-XIII vs
+  Alberto-V "who reigns in Cartosa" fork dissolves — *"the gazetteer depicts Cartosa before
+  3017, the timeline carries past it — not a contradiction."*)
+- *(Operational, logged in `NOTES.md`: **Alessandro will supply the 130 MB print world map
+  (`Ymir_50x75_300dpi`) and the Letia hex map separately** — do not re-fetch via the Drive
+  connector.)*
+
 ## Status board
 _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 
@@ -760,3 +777,90 @@ Purely-additive new lore (new regions Wald/Xebech-Xuthal/Kyria detail; the two c
 *L'Occhio di Kzorr* & *Il Sole Nero*; the Qi-Long "Triade" sects; Armora's war-mechs; dozens of new
 NPCs; the Xebechani dark-god cities) is captured in `sources/extracted/batch2-digests/` and will be
 folded into `canon/` after the conflict decisions (many canon edits depend on those decisions).
+
+---
+
+# HARVEST CONFLICTS (Drive + Fandom wiki)
+New conflicts surfaced by the 2026-07-10 harvest of the two parallel-session reports
+(`sources/extracted/ymir-drive/HARVEST-REPORT.md`,
+`sources/extracted/wiki-worldofymir/HARVEST-REPORT.md`). Compact BAT-style entries; all
+**OPEN** — logged, not resolved. Nothing below overrides a decided item.
+
+- **HARV-1** `high` — **Qi-Long: the wiki's 2023 rewrite vs decision GEO-2 = A.** The Fandom
+  `Qi-Long` page (last edited **2023-05-24** — the newest authorial statement in the corpus)
+  **replaced** the six-warring-kingdoms text outright and presents the **unified Tianqi empire**
+  (six provinces under the Grandi Sette, the unseen Dio-Drago emperor) **as the present**; our
+  GEO-2 = A makes the empire ancient backstory. → **Rec:** **surface to Alessandro** — the
+  rewrite *post-dates* the six-kingdoms text, so latest intent may be the empire model; note the
+  sequential out ("six kingdoms → dragons reunited → one dragon-led empire," cf. HARV-3) that
+  would let both be true. Do not silently keep GEO-2.
+- **HARV-2** `med` — **Al'Fehim vs Alfheim.** Wiki 2023 `Alfheim` rewrite: "**Al'Fehim**" = a
+  **protectorate of the Gaerwath** on the NW border of Qi-Long, a major **Loto Nero** producer
+  (~6.5M, mostly elves). Canon: Alfheim = independent light-elf realm, capital Ost-en-Galad,
+  anchored SE near the Gaerwath (GEO-12); Ouroboros destroys it in the Era della Marea.
+  → **Rec:** read the 2023 text as the **post-Ouroboros-resettlement snapshot** (the broken
+  realm taken as a Dark-Elf protectorate and lotus plantation) — it *fills* history.md's
+  "fall and resettlement" gap; the NW-of-Qi-Long location vs the SE anchor still needs a ruling.
+- **HARV-3** `med` — **The 2011 world war / M'Raker arc vs the ~3518 calm present.** Wiki
+  campaign *2011 - Back to war!*: a **world war** (M'Raker's undead vs Federazione Letia vs
+  dragon-led Cani del Qi-Long), **Armora falls**, the **gods are banished** by the lich M'Raker
+  (= Kramer), phylactery in the Ophiur, fake-demigod return plan. Canon HIS-1: present ≈ 3518,
+  "an uneasy, ominous calm." → **Rec:** treat as a **possible-future / alternate arc — GM
+  material** (the war the 3518 calm is ominously pregnant with); no 2011-derived event enters
+  `history.md` as present-canon without a placement ruling. → `characters.md` (M'Raker box),
+  `factions.md` (post-present polities).
+- **HARV-4** `med` — **Two cosmogonies: Atlas (Void + Mana) vs Ech.** Drive Atlas: Void + Mana →
+  First Clash → six **Old Gods** → made "New Gods" Mithra & Ahriman → the Banishment. Canon
+  public myth: **Ech, the One** splits into Mithra/Ahriman; six Divine Twins (COS-24: Ech = the
+  mythologised L'Essenza). → **Rec:** **Atlas = the deeper stratum** — already integrated as
+  *corroborating* GM-layer lore in `secret-the-great-lie.md` (Old Gods ↔ sealed Ancient Gods;
+  Gazer ↔ Tuulhak-Xanar firm, five pairings open); **Ech-myth = the surface telling**. Still
+  open under this entry: the five soft god-pairings; the Atlas's "the First War created the
+  eternal Maelstrom" variant vs COS-2's theft-ritual (could be absorbed as a *fourth* seen-way);
+  and the Atlas plane-set (eight Elemental Planes incl. Aether/Nether; Dreamlands/Astral as
+  Scion-made) vs decisions **COS-15/COS-16** — the plane-set stays a *mythic* claim, not
+  adopted structure.
+- **HARV-5** `med` — **Two polar Maelstroms vs one central.** Drive maps [MAP-Y/MAP-E] draw a
+  **Cold Maelstrom** (north) and a **Hot Maelstrom** (south) as ringed island-scatters, with
+  **no central vortex**; canon (GEO-13, GEO-3) has **one central Maelstrom** over Ragash.
+  → **Rec:** keep the central Maelstrom canon; decide a frame for the polar rings (secondary
+  vortices, Tide-era phenomena, or in-world cartographic heresy) before the clean map is drawn.
+- **HARV-6** `low` — **Seven Pales/Circles vs six Circles.** The Atlas gives the Gazer's demons
+  a "plane of the **Seven Demonic Circles**" (and made them the Gazer's work); canon MAG-2 = A:
+  **six Circles**, demons from Ahriman/Corrupted Essence. The summoning framework's Pales run
+  First→**Sixth** (consistent with six). → **Rec:** keep six; treat "seven Circles" as an
+  archaic/Atlas variant count. *Rider:* pick the **Ecatombe** size (10 souls [M&S] vs 100
+  [Summ]) when the term is canonised.
+- **HARV-7** `med` — **Atlas race-origins vs the decided COS-23/RAC framework.** Atlas: **Men
+  made by the Gatherer of Circles**; **Tanoth descended from Maelstrom-Marked Men** (Ur- =
+  children of Tanoth, Tal- = children of mutated humans); **Dwergar = the dwarves themselves**
+  ("Men gone underground"); their session resolved **Primigeni = Asar**. Canon: **COS-23 —
+  Humans are the native Tanoth of Ymir, NOT engineered** (the derivation arrow runs the other
+  way); **ADD-2 — Primigeni = Iperborei** (fire-made; Vorskgen/Ophiriti/Leti Sanguepuro);
+  **Nani** are their own race and "**Dwergar**" is one of the 16 mezze-razze (name collision).
+  → **Rec:** keep the decided framework; file the Atlas origins as the myth's **deepest
+  in-world stratum** (RAC-1: each myth holds a kernel); keep **Asar** as a distinct
+  near-human strain *without* the Primigeni equation.
+- **HARV-8** `low` — **Tofango alive as NPC vs his canon hermit-death.** *2011 - Back to war!*
+  lists **Tofango** among the living NPCs of the later era; canon (`characters.md`, `magic.md`):
+  the demon-axe Oblivion drove him mad and he **ended his life as a hermit** atop a remote
+  mountain. → **Rec:** the campaign either predates his hermit end or belongs to the HARV-3
+  future-arc; **do not rewrite his ending**.
+- **HARV-9** `low` — **"Two Wars of the Waves" numbering.** Item-lore (Frangionde & the lost
+  twin **Tessionde**, Bulusture, the Armatura delle Profondità) implies a *mythic elemental*
+  **Guerra delle Onde**; canon `history.md` already numbers two **mundane naval** Wars of the
+  Waves (Cartosa–Meridian **2320–2350**; the **Second**, 3018–3023). → **Rec:** decide whether
+  the elemental war is the first naval war *mythologised* or a **third, older** war — then fix
+  the numbering. → `canon/items.md`.
+- **HARV-10** `low` — **The Ulan-Tang "famiglia nobiliare dei Ra" vs the five houses.** *PG di
+  Ymir* assigns **War-Ra** (and by pattern **Allanon-Ra**) to a noble family "**Ra**"; canon
+  `geography.md` lists **five** Ulan-Tang houses — Ishra, Tyarreth, Miraz, Gaib, Gadash.
+  → **Rec:** "Ra" = a short form of **Ishra** (name-pattern Bal-**Ishra**) or a sixth family —
+  pick when Ulan-Tang is next touched. Minor.
+- **HARV-11** `med` — **Sadhiriti salt-symbiosis vs the GEO-1 layering.** Drive [Rules-1.0.0]:
+  living "**Sadhiriti**" are **immune to — and physiologically dependent on — the Salt
+  (Al'Sawgdam)** of the Deserto Scintillante (they waste away without contact); canon GEO-1 = C
+  makes the **Sadhiriti the pre-Drying human people** (the ruins-beneath), the desert now ruled
+  by the **Sarradhi** lizardfolk. → **Rec:** GEO-1's layering stands; rule **who carries the
+  symbiosis** — surviving human Sadhiriti remnants (desert-adapted descendants), or the
+  Sarradhi under an older name. → `magic.md` (Al'Sawgdam entry).

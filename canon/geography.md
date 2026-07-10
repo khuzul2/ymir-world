@@ -23,6 +23,33 @@ Readable world-map labels include: **Armora** (central), **Khorish**, **Xuthal**
 **Cariba**, and a southern desert-continent (**Al-Jou, Al-Sidah, Gazal, Zabhola,
 Tema-li, Ost-en-Mano, Dalkis, Thulos**).
 
+### The Drive world-map layer `[CANON — ymir-drive: MAP-YMIR, MAP-ymirexplored (rasters in sources/raw/ymir-drive/maps/)]`
+The Drive corpus contributes two large world maps (4429×2953 px, 2000 km scale bar) whose
+**west→east layout** is canon map data:
+- **Letia** — the large **western** continent; the **Regni Belligeranti** labelled as its
+  **northern region** and the **Regni Giovani** as its **south-western arm** (both read as
+  sub-regions of the Letia landmass — matching their history as Letio breakaways).
+- **Cartosa & Meridian** — paired small islands **in the sea between Letia and Erg**.
+- **Helgedad** — a **north-central** peninsula/isle (fits "coldest place on Ymir").
+- **Erg** — the large **central** continent, with **Sadhir labelled as its southern
+  region** (Grande Erg north + Sadhir desert south as one landmass).
+- **Gaerwath** — a **ring/rose-shaped archipelago** in the central ocean **east of Erg**.
+- **Qi-Long** — the large **north-eastern/eastern** landmass.
+- **Ophiur** — an **east/south-east** landmass between Qi-Long and Xebech.
+- **Xebech** — labelled **twice**: a small far-western island AND the large south-eastern
+  landmass. A genuine map mystery, kept as such (colony? error? two Xebechs?).
+- **Climate frame:** the north margin is banded "**Frozen Lands**" and the south margin
+  "**Obsidian Lands**" — two named off-map world-edge regions; the world runs **cold
+  (north) → hot (south)**.
+
+`[NOTE]` The Drive maps also draw **two polar Maelstroms** (a **Cold Maelstrom** ring in the
+north-central sea, a **Hot Maelstrom** ring in the south) and **no central vortex** — this is
+**NOT adopted**: canon keeps **one central Maelstrom** (GEO-13); the claim is logged as
+**HARV-5** in `conflicts.md`. Likewise, where this layer diverges from decided prose
+placements (Cartosa/Meridian in the "warm southern seas"; GEO-12's SE Alfheim anchor; the
+Sadhir on the southern desert-continent per the ADD-3 reconciliation), reconcile under the
+GEO-3 clean-map project — do **not** silently re-anchor regions to this layer.
+
 ## The world at large `[CANON]`
 `[CANON — decision GEO-13]` Ymir is a **globe** — a spherical world — dominated by one great
 **Central Ocean (Oceano Centrale)** with the **Maelstrom** at its heart (→ `cosmology.md`).
@@ -100,12 +127,32 @@ anchored **near the Gaerwath and the Isole d'Argento**, in that SE island cluste
 north). → world-map reconciliation, open questions.
 - **Alfheim** — realm of the **light elves**; capital **Ost-en-Galad** ("the Shining
   City"); ruled by a queen (the line of **Inanna the Splendent**) and a Council.
+  `[CONFLICT → HARV-2]` The wiki's 2023 rewrite instead describes "**Al'Fehim**" as a
+  **Gaerwath protectorate** and Loto-Nero producer — possibly the *post-Ouroboros
+  resettlement* snapshot; logged, not adopted.
 - **Gaerwath** (Elvish "**Sea of Sorcery**") — an **archipelago** of the **Dark Elves**,
   where they were exiled after the schism; treacherous magic-cloaked seas crossable
   only with elven guidance; cities of "dark beauty" linked by undersea roads and magic
   bridges; a slave society (orcs, humans). Ruled by an **Emperor** who is also supreme
   pontiff; the Dark-Elf caste order (**Lyar/Nath/Gash**) → `peoples.md`. Unified under
   **Morannagul** (2550). → `peoples.md`, `history.md`
+  `[CANON — ymir-drive: MAP-Gaerwath-3500dM]` The Drive corpus holds a full **national map
+  of the Gaerwath dated "c.a. 3500 p.M."** — essentially the manual-present (~3518 d.M.,
+  HIS-1), and the only *dated* national map in the corpus:
+  - **Ten named islands**: **Cn'ethyr** (north — holds the capital **G'nethyr**),
+    **Kh'myr**, **Yr'thyr**, **Wag'myr**, **Daarwyr**, **Moloch**, **N'ysyr**, **Gh'yrst**,
+    **Dr'hakyr**, and the bare, settlement-less **Isola del Caos**; plus a small unnamed
+    isle holding **Gh'anuss / Selva Ignota / L'ykry**.
+  - **Thirteen stepped Ziggurat temples** (Hywon, Golog, Thelog, Ghom'a, Hr'yth, Wyaya,
+    Agar, Mooloch, **A'rwo**, Gh'yrst, T'alan, Wag'myr, Ah'rkan) — a temple-building,
+    death-worship register; the **A'rwo Ziggurat** (on N'ysyr) is apparently named for
+    **Arvo**, the Dark Elves' Essence-dust currency (→ `magic.md`, `economy.md`).
+  - **Soul/dream/death toponymy** confirming the culture: *Fiume dei Pensieri*, *Fiume di
+    Anime*, *Lago degli Infanti*, *Foresta dei Sedici Pianti*, *Canale di Sangue*, and the
+    **Palazzo delle Aule dei Sogni** (Palace of the Halls of Dreams — a Dreamlands hook);
+    a **Medusa/Gorgon-head compass medallion** serves as the national emblem. Dozens more
+    settlement names in the transcript (`sources/extracted/ymir-drive/MAP-Gaerwath-3500dM.txt`)
+    — ready place-name stock.
 
 ### Qi-Long — the six Dragon-God kingdoms (the wuxia East) `[CANON — decision GEO-2 = six kingdoms]`
 **Present day: six independent, mutually hostile kingdoms**, each ruled by its own rival

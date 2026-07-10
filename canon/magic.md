@@ -67,6 +67,61 @@ licensed). Forbidden arts — **necromancy** and **demon-summoning** — are cap
 matters (though whispered of in houses like Gibraleon and mastered by the Dark Elves).
 → `factions.md`
 
+## The summoning economy `[CANON — ymir-drive: Summoning recap, Skills, Magic-and-Sorcery, Talents & Flaws]`
+The corpus's summoning lore is a complete in-world **economy of calling and binding** —
+the skeleton behind the Dark Elves' **Valrin/Arvo** trade and demon-pact evil generally
+(mechanics stripped; concepts kept):
+- **Four kinds of summonable entity** — **Demoni, Elementali, Spiriti**, and the
+  **Estranei/Outsiders** ("esseri del Vuoto," beings of the Void/Beyond). Traffic with
+  each taints differently: demons breed **Dark** corruption, elementals **Elemental**,
+  spirits none — and Outsiders breed **Follia (Madness)**: "creatures that alter reality
+  by their very presence and feed on the mental stability of the unfortunates who meet
+  them." Exposure to the Beyond costs sanity — the Lovecraft axis of our Outer-God lore.
+  → `bestiary.md`, `secret-the-great-lie.md`
+- **Five effects** — **Evoke** (bring it here), **Contact** (speak without moving it),
+  **Bind** (into a ritually prepared object), **Vessel** (imbue it in the caster's own
+  body), **Possess** (send it into a target's body).
+- **The Pales** — entities dwell in ranked **Pales, First → Sixth** (consonant with the
+  six demon **Circles** of MAG-2; the Atlas's variant "Seven Demonic Circles" is logged,
+  not adopted — HARV-6 in `conflicts.md`).
+- **The Price of Service ladder**, rising with the Pale: **Offering** (an item of worth)
+  → **Mark** (the summoner is indelibly marked by the entity — a mark that "tends to show
+  itself at the least opportune moments") → **Service** (a task: build a shrine, or kill
+  a sorcerer who knows the entity's **True Name**) → **Submission** (yield part of
+  yourself — even a limb) → **Soul** (your own, a volunteer's, or a ritually prepared
+  victim's) → **Ecatombe / Hecatomb** (many souls — ten or a hundred, the sources
+  disagree; see HARV-6 rider). A summoner too deep in corruption may be **devoured, soul
+  and all, at the end of the service**.
+- **True Names** — knowing an entity's True Name lets a caster **summon it instantly,
+  without ritual**; names are won by luck, by quest, or by the **Speaker of Names**
+  discipline.
+- **Circles & sweeteners** — summoning circles of **Confinement** (keep it in — or out)
+  and **Weakening** (sap its will in negotiation); sacrifices sweeten the bargain (the
+  grimdark price-lists rate a common soul below an infant's).
+- **What bound entities do**, by rank: fight, guard a place (days → **decades** as rank
+  rises), carry things and people, scry and answer questions, teleport — and at the
+  highest ranks carry passengers **across the planes** and enchant (or unmake enchanted)
+  objects.
+- **Arvo as currency** — summoners may pay entities in **Arvo** (pulverised physical
+  Essence) **instead of their own Essence** — the literal coin of the trade. → `economy.md`
+- **The summoners' ladder** — **Acolyte → Cabalist → Conjurer → Evoker → Summoner →
+  Master Summoner**, specialising as **Demonologist / Elementalist / Animist** (spirits)
+  / **"Mad Summoner"** (Outsiders) — a ready spine for any conjurers' guild. → `factions.md`
+
+## Cronomanzia & the Vlatch `[CANON — wiki-worldofymir: Vlatch — rare/GM-facing]`
+**Cronomanzia** — "the **supreme arcane art** of time-manipulation" — is named in only one
+source and should stay **rare and GM-facing**. Its one dossier is the **Vlatch**, a
+triple-natured mystery (all three readings are in-world theories):
+1. **Entities** — implacable, chronomancy-infused agents the **Xebechani will create in a
+   distant future** to repel an ultimate great Demon Invasion; their time-paradoxes are said
+   to change Ymir's history. *(Prophecy-grade; pairs with `secret-the-great-lie.md`.)*
+2. **Phenomenon** — a rare, unexplained **parasitic energy** appearing at extreme Essence
+   concentrations, feeding on ambient mana and substituting itself for it; dismissed as
+   fantasy by most arcanists.
+3. **Artifacts** — per heretical manuscripts in the deepest crypts of the **Alto Clericato
+   di Solanthya** (→ `factions.md`), one or more bizarre **machines from the Adepti era — or
+   from a possible far future** — able to **show past and future events**; none ever recovered.
+
 ## Anti-magic & the magitech of the Young Kingdoms `[CANON — LIBRO ROSSO, Maraviglie]`
 - **Sezione di Controllo Magico (S.C.M.)** — Armora's military **anti-magic corps**,
   which trains ordinary (non-caster) soldiers to counter each realm of magic. Its
@@ -139,6 +194,23 @@ Equilibrio. → `history.md`, `calendar.md`
 - **Succo Juh'gad** — Gaerwath elf-alchemy (troll pineal extract in pure Moon-Wine): great
   strength joined to fearful docility; fed to slaves at heavy labour.
 
+`[CANON — ymir-drive: Rules-1.0.0 §Substances]` New substances from the Drive corpus:
+- **Al'Sawgdam (the Sadhir Salt)** — the Salt that covers much of the **Deserto
+  Scintillante**: a bizarre blend of **Essence, True Earth and Void**. Pure, it is lethally
+  toxic (death by dehydration, or Elemental-Earth corruption) — the **Sadhiriti alone are
+  immune to it, yet waste away without constant contact** (→ HARV-11 in `conflicts.md`);
+  **diluted, it is a prized ingredient of potent alchemical compounds**. The named substance
+  behind the economy's "mana-salt crystals." → `geography.md`, `economy.md`
+- **Vino di Luna (Moon Wine)** — a prized liquor **distilled by the elves of the Gaerwath**:
+  blissful torpor, the world grows distant and unreal (dulls pain and perception alike).
+  Previously attested only inside the Succo Juh'gad recipe — its own entry now.
+- **Lacrime di Davedars (Tears of Davedars)** — a **mana-burning poison** refined from the
+  white sap of the aloe-like **Davedars** plant: it drains a caster's power. The signature
+  tool of the **Cacciamaghi** (Mage-Hunters). → `factions.md`
+- **Polvere di Notte (Night Powder)** — a blue mineral powder that **erases the victim's
+  last ten minutes of memory** (ingested or inhaled) — the perfect thieves' and
+  conspirators' tool.
+
 ## Named artifacts `[CANON — oggetti-vari.txt, scritti-e-pergamene.txt]`
 - **La Porta della Disperazione (Door of Despair)** and the **eight Pergamene Dimenticate
   (Forgotten Scrolls)**, the **Chiave del Nulla**, and the six **Sangue Elementale** vessels
@@ -150,6 +222,11 @@ Equilibrio. → `history.md`, `calendar.md`
   **Masamune** (borne by Surya), and the elemental
   blades **Hellion / Vendicatrice Oscura / Mornlosse / Frangionde**. Also the **Corona della
   Stregoneria**.
+- **The in-world library** `[CANON — wiki-worldofymir: Scritti e Pergamene]` — roughly **a
+  hundred named books and tomes** circulate on Ymir (sacred scriptures, forbidden grimoires,
+  Adepti treatises, histories). Canonised standouts and the makers/owners checklist:
+  → `canon/items.md`; full catalogue in the source file
+  `sources/extracted/wiki-worldofymir/Scritti e Pergamene.md` (do not re-transcribe).
 
 ## Corruption & the Elemental Lords `[CANON — corruzione.txt, divinit-elementali.txt]`
 - **Corruzione da Essenza Oscura (CEO)** — a corruption system tied to **Ahriman/Corrupted

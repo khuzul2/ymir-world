@@ -15,6 +15,11 @@
   **Letio Empire**, which it came to fully command (2610 d.M.), led by the
   **Teocrate**. Missionary and expansionist (e.g. the resented Mithran mission near
   Cartosa). The lich-cultist **Kramer** was a *former* Mithran inquisitor. → `pantheon.md`
+  - **The heretical crypt-archive of the Alto Clericato di Solanthya** `[CANON —
+    wiki-worldofymir: Vlatch]` — the Letian high clergy **curates heretical manuscripts
+    in its deepest crypts** (the **Vlatch** dossier among them — → `magic.md`,
+    Cronomanzia). The first attestation that the Church *keeps* forbidden knowledge
+    rather than burning it — a strong GM hook onto the Inclusivist/Popolare schism.
 
 ## Magical orders `[CANON]`
 
@@ -136,8 +141,24 @@ Thurms), Tallvar's Merchant/Warriors'/Thieves' guilds, and the dwarven holds of 
   based in Armora.
 - **La Fratellanza (the Brotherhood)** — mage-hunters founded by **Tholaer il Prode** (symbol:
   the Falcon).
+- **I Cacciamaghi (the Mage-Hunters)** `[CANON — ymir-drive: Rules-1.0.0 §Poisons]` — a
+  profession/organisation that **hunts spellcasters**, armed with the mana-burning poison
+  **Lacrime di Davedars** (→ `magic.md`). Natural sibling to Armora's S.C.M. and Tholaer's
+  Fratellanza; how the three relate (rivals? one tradition under different names?) is an
+  open hook.
 - **Il Concilio delle Genti** and the magical/regional orders above remain the great
   counterweights. Full org catalogue: `sources/extracted/wiki/magic-items-society.md`.
+
+## Post-present / future-arc polities `[wiki-worldofymir: "2011 - Back to war!" — GM/future material]`
+> ⚠️ **Not the ~3518 present.** These polities belong to the wiki's later "world at war"
+> arc (the M'Raker campaign), whose placement is undecided — treat as **possible-future /
+> alternate-arc** material until ruled (→ `conflicts.md` HARV-1, HARV-3; `characters.md`
+> M'Raker note). Do **not** present them as current powers.
+- **Federazione Letia** — a **federal** form of the Letian polity (canon knows Impero →
+  Church rule → schism, never a "Federation"); a belligerent of that later world war.
+- **I Cani del Qi-Long** ("the Dogs of the Qi-Long") — the Qi-Long war machine of the same
+  war, led by the **Dragons "destati e riuniti"** (awakened *and reunited*) — which, if it
+  ever becomes canon, would post-date GEO-2's six-kingdoms present, not replace it.
 
 ---
 ### Open questions
