@@ -35,14 +35,35 @@ engineer-**Adepti**), which is why no living Xebechani fully understands them. �
 Worship their own pantheon (chief god **Quetzalcoatl**). → `pantheon.md`
 
 ### Tanoth
-`[CANON — decision RAC-3/4/5/8]` **"Tanoth" is an umbrella** for **two** branches only —
-**Ur-Tanoth** and **Tal-Tanoth**. There is **no separate "Tanoth proper"** third branch.
+`[CANON — updated by Additions.md]` **"Tanoth" is an umbrella** for **four** branches —
+Tal-, Ur-, Kor-, and Ugra-Tanoth. (This supersedes the earlier two-branch ruling; there is
+still no separate "Tanoth proper.")
 - **Tal-Tanoth** — small **feline humanoids** (cat-folk) who live cheerfully off
   humans in the cities; "a plague to some, a nuisance to most"; the only ones able to
   deal with the shy Ur-Tanoth. `[CANON — Qi-Long.docx]` Ymir has **no Halflings**;
   the Tal-Tanoth fill that niche.
 - **Ur-Tanoth** — nomad hunter communities who shun humans and civilisation; peerless
   woodworkers and gatherers of natural materials (healing herbs, furs, rarities).
+  `[CANON — Additions.md]` In Ophiur's savanna they hold a true kingdom, the **Grande Regno di
+  Tarkur**, whose whole life turns on **la Tempesta** (the Storm): an energy present in all
+  creation, an eternal cycle of birth and destruction, which all races are touched by but only
+  the Ur can perceive. They follow its wanderings across the savanna as their mission, ordered
+  in three castes — the **Cercatori** (who scent the Storm and lead the migrations), the
+  **Sacerdoti** (who see, hear, and touch it), and the rest of the tribe. → `geography.md`
+- **Kor-Tanoth** `[CANON — Additions.md]` — **canine humanoids** (wolf- or jackal-like), of
+  human height but heavier build, furred head to foot. Less common than the Ur; found on the
+  central plains of Cartosa and in Ophiur. Nomadic hunter-tribes; not warlike but fiercely
+  territorial — most clashes come from strangers straying onto their hunting grounds.
+- **Ugra-Tanoth** `[CANON — Additions.md; SUPERSEDES the mezze-razze "Troll+Tanoth" listing]` —
+  the largest and most solitary of the Tanoth: mighty **bear-like humanoids**, three metres
+  tall even at their smallest, strong enough to lift a man one-handed. They dwell far from
+  civilisation, in Helgedad's frozen wastes or deep in Ophiur's jungles — and, unlike their
+  kin, are **sedentary**: they make homes in caves and rarely stray more than a few dozen
+  kilometres. Their lives pass in solitude, in contemplation of nature and tending the land
+  around their dens; even meetings with their own kind are rare (great annual gatherings
+  excepted). Not aggressive — their bulk usually suffices — but formidable if provoked. Rarely
+  one leaves its den (often after some upheaval) and wanders the world; such itinerant Ugra
+  soften with the road and form lasting friendships among the other peoples.
 
 ### Nani (Dwarves)
 Widespread across Ymir (especially **Letia**, the **Young Kingdoms**, **Helgedad**,
@@ -63,9 +84,17 @@ Found in every climate and region. `[CANON — decision RAC-12]` Broad stocks:
   people of every region.
 - **Uomini Misti (Mixed Men)** — a **cosmopolitan minority** (the mixed-ancestry, "PC-build"
   stock, e.g. much of Cartosa) — *not* the majority.
-- **Primigeni (Primeval)** — an older human stock, linked to Xebechani mysticism. The
-  **Vorskgen** (Nortmaar hill-clans, ancestor-worshipping berserkers) are **Primigeni**, not
-  generic Men.
+- **Primigeni (Primeval) / Iperborei (Hyperboreans)** `[CANON — Additions.md]` — the legendary
+  **progenitors of the human race**, created with **Fire** (one of the two elemental energies) —
+  whence, some say, humanity's restless pace and impulsiveness. Over the ages they mingled their
+  blood with other races, slowly becoming the Uomini Comuni; only a few of pure spirit survive,
+  in three lines: the **Vorskgen** (the barbarian tribes of frozen Helgedad and northern Letia —
+  "the last true representatives of the ancient stock," of uncommon strength of will; Nortmaar
+  hill-clans, ancestor-worshipping berserkers); the **Ophiriti** (the tall, massive, black-skinned
+  humans of **Ophiur**, whose aristocracy is largely Hyperborean and hands down its ancestors'
+  arcane wisdom in songs and legends); and the **Leti Sanguepuro** (the oldest noble families of
+  Letia, of pure Hyperborean descent — regal bearing and a natural magnetism that marks them
+  instantly among other Leti).
 - Other regional "kinds of Men" named in Helgedad `[CANON — Helgedad.doc]`: **Uomini Alti**
   (High Men), **Uomini dei Boschi** (Woodmen), **Uomini delle Colline** (Hillmen); the
   **Norsi** (indigenous Helgedad folk of the Winter Forest, totem-spirit tradition).

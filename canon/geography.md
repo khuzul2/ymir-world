@@ -156,6 +156,35 @@ Hermana, Vila Loca, Madeira, Cay, La Roca, Forte León, Puerto Esperanza, Suapon
 Matinica, Punta del Toro, Costa Sileña, Capo Estello. Rivers: Rio Grande, Rio Tapajero,
 Rio Plata, Xingu.
 
+### Ophiur — the wild continent (far South) `[CANON — Additions.md]`
+A largely wild, unexplored continent **south of the Qi-Long**, part lush tangled jungle, part
+towering mountains (the **Monti Bui** and **Monti Tartaruga**), part broad savanna. Its peoples are
+lumped together by Letii and Cartosani as "**I Popoli Neri**," but Ophiur holds many kingdoms and
+cultures. Major settlements sit on the coasts or on the Sadhir/Qi-Long borders.
+- **La Coalizione d'Avorio (Ivory Coalition)** — allied but independent mercantile city-states,
+  chiefly coastal: **Zabhula**, **Akhon**, **Ga'Namesh**. Rich on resources scarce elsewhere but
+  abundant in Ophiur: precious minerals, **orihalcum**, **shald**, **loto** and other substances.
+- **Grande Regno di Tarkur** — an **Ur-Tanoth kingdom** spanning most of the savanna, whose whole
+  culture turns on **la Tempesta** (the Storm): an energy present in all creation, an eternal cycle
+  of birth and destruction. All races are touched by it, the Ur hold, but only they can perceive it;
+  they follow its wanderings across the savanna as their mission. Three castes: the **Cercatori**
+  (who "scent" the Storm and guide the migrations), the **Sacerdoti** (who see, hear, and touch it),
+  and the rest of the tribe. → `peoples.md`
+- **Libera Città di Gazal** — ancient free city at the feet of the Monti Bui; said to be the former
+  capital of a great empire, now largely ruined; magnet for merchants, adventurers, thieves and
+  brigands seeking Ophiur's riches and, above all, the vast mysterious **undercity** beneath it.
+- **Horatli** — a city in a half-hidden valley beneath **Mount Horat**, highest peak of the Monti
+  Tartaruga; seat of a mysterious conclave of mages and arcanists.
+- **The unexplored jungle** — the deep interior, where legend places fantastic cities of gold and
+  jewels, inhabited by vampires and foul demons.
+Legends: creatures of the **most ancient races**, on Ymir since the world's origins, surviving the
+Wars of the Mages in the deep jungle; demons and vampires haunting the old ruins (some tribes pay
+them regular sacrifice for protection); and the **Giardino di Xiombarg**, hidden in Ophiur's heart —
+warded by ancient guardians, its miraculous plants said to cure any disease or affliction.
+`[INFERRED — map reconciliation]` The old hand-drawn world map's southern desert-continent labels
+**Gazal** and **Zabhola (=Zabhula)** now resolve to Ophiur — the great southern landmass holds the
+Sadhir on its western reach and Ophiur eastward toward the Qi-Long (partially resolves GEO-4).
+
 ### Isole d'Argento (Silver Isles) `[CANON]`
 Island realm of the **Folletti**; capital **Elendor**, seat of the **Council of
 Peoples** (the **Seggio di Cristallo**, built 2590–2595). Broken from the continent by

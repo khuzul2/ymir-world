@@ -127,6 +127,18 @@ Recorded as you decide them. → written into `canon/`.
   - **BAT-2** **Xanadu** (Xebechani fortress housing the Rune) ≠ **Ragash** (the Adepti capital → the
     Maelstrom). **BAT-3** **four Rune, six seals.** **BAT-6** adopt the **revised** Qi-Long name-set.
 
+**Additions.md pass (2026-07-10):**
+- **ADD-1 — Ugra-Tanoth redefined → DECIDED (source supersede).** `Additions.md` describes the
+  Ugra-Tanoth as a **full Tanoth branch** (solitary 3-m bear-folk of Helgedad & Ophiur), superseding
+  the old mezze-razze "Troll + Tanoth" cross. Tanoth umbrella now = **four** branches (Tal/Ur/Kor/Ugra;
+  updates RAC-8). Applied to `canon/peoples.md`, `races-index.md`, manual Ch. XIII.
+- **ADD-2 — Iperborei = the Primigeni.** The fire-made progenitors of humanity now carry their
+  proper name; surviving pure lines: Vorskgen, Ophiriti, **Leti Sanguepuro** (new). Applied to canon
+  + Ch. XIII.
+- **ADD-3 — Ophiur.** Full continent canonised (Ivory Coalition, Tarkur/la Tempesta, Gazal, Horatli,
+  jungle legends, Giardino di Xiombarg); world-map labels Gazal/Zabhola resolve to it (partially
+  settles GEO-4). New manual chapter XII·B + Ch. V diary entry.
+
 ## Status board
 _(filled in as we go; IDs are grouped COS / HIS / GEO / RAC / MAG / META)_
 

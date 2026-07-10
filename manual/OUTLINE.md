@@ -19,6 +19,7 @@ in the **Veiled Hand's margins**. Narrator register and conventions: `NARRATORS.
 | `10-cartosa.md` | X · Cartosa, Meridian & the Southern Seas | Ramiro Estioca's sea-diary |
 | `11-gaerwath-elves.md` | XI · The Gaerwath, and the Long Exile of the Elves | Aelryn Vhaeloth i-Celeblyar |
 | `12-sadhir-deserts.md` | XII · The Salt and the Sand | Adhima the Rakhama'i & Yusuf al-Marrah |
+| `12b-ophiur.md` | XII·B · Ophiur, the Continent of the Morning *(late-bound)* | Nyema of Ga'Namesh |
 | `13-peoples.md` | XIII · The Peoples of Ymir | Pips Quondam, Tal-Tanoth traveller |
 | `14-beasts.md` | XIV · A Huntsman's Book of Beasts | Weck of the Long Road |
 | `15-behind-the-veil.md` | XV · Behind the Veil ⟡ **GM ONLY** ⟡ | the Veiled Hand |

@@ -116,6 +116,29 @@ Equilibrio. → `history.md`, `calendar.md`
   Steel — mined beneath the Dream World; a belief-based bonus). Others: **Lagorak**, **Vetro
   Abissale**, **Guscio di Yarhim**, **Bulusture**, **Galvorn**, **Adamantio**, **Eog**.
 
+## Herbs, drugs & alchemical substances `[CANON — Additions.md; effects kept qualitative]`
+- **Distillato di Utombe** — jungle-leaf analgesic: erases the felt pain of wounds for an hour
+  (the wounds remain); in heavy doses a paralytic, sometimes lethal, poison.
+- **Radice di Qarando** — black-leaved jungle root; a war-drug of euphoric exaltation used by
+  Nkishi warriors — dulled pain and fearlessness at the cost of reckless, unguarded fighting.
+- **Subotan** — violet poppy-like flower; wellbeing, torpor, hallucinations; illegal in Cartosa
+  yet everywhere in its slums.
+- **Elin** — a red alga; wildly accelerates the metabolism for moments of blinding speed.
+- **Amatuba** — spores of underground fungi (Nkishi & Arawak warriors): brief prodigious strength.
+- **Kirsemal** — dried yellow flowers, inhaled: profound concentration and inner peace; prized by
+  Qi-adepts of the east, at the price of slowed reflexes.
+- **Xu Ran** — a long dark leaf; burned, its smoke steadies improvised sorcery.
+- **Rud-Tekma** — berries that sharpen spellcasting for a time while sinking the eater into a
+  trance; the entranced sometimes loose their magic at whatever stands nearest.
+- **Aljira** — bluish liquor of **Black Lotus** nectar, coveted by magic-users: restores arcane
+  power at once, but each dose gambles the body's tolerance — fail, and it drains instead.
+- **Loto Nero (Black Lotus)** — powdered petals: heightens sorcery and lengthens every spell's
+  hold; the vice of Ulan-Tang. **Loto Verde (Green Lotus)** — of the Grande Erg: opens the mind to
+  visions of past and future in a deep two-hour coma; the unprepared see only riddles, and each
+  dose risks the soul slipping loose into the **Mondo dei Sogni**, never to wake.
+- **Succo Juh'gad** — Gaerwath elf-alchemy (troll pineal extract in pure Moon-Wine): great
+  strength joined to fearful docility; fed to slaves at heavy labour.
+
 ## Named artifacts `[CANON — oggetti-vari.txt, scritti-e-pergamene.txt]`
 - **La Porta della Disperazione (Door of Despair)** and the **eight Pergamene Dimenticate
   (Forgotten Scrolls)**, the **Chiave del Nulla**, and the six **Sangue Elementale** vessels

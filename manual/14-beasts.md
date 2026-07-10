@@ -139,6 +139,14 @@ oil like a wound, cold that climbs into your chest, and under the creak of it �
 souls, welded in by necromancy, making war on everything that breathes. Weapons are a slow way to
 die near it. Burn it, then burn the ashes. Then tell a priest where the fire was.
 
+**Zortos.** Made, but made of meat — the Cartosan mage-guild's hunting stock, bred from goblins
+and worse by a rite they do not publish. Waist-high, fox-headed, silver-blue fur that looks wet
+and is. Claws and fangs carry venom; the nose beats any hound I have run; they swim like otters,
+breathe water like air, and see by day, dark, and the heat of your blood. Sign: none. That is the
+sign. If the Manti Azzurri have set Zortos on a man, the kindest thing you can do for him is not
+be standing near him. They ignore earth and ice, and hate fire and clean light — a torch buys you
+steps, not safety. I do not hunt what was built to hunt. Professional courtesy.
+
 ### SPIRITS AND THE SUMMONED
 
 I hunt none of these. I write them so you will know when to stop hunting and start praying.
@@ -160,6 +168,23 @@ the letter, and only to the letter. Say nothing near one that you would not sign
 **Angels.** Servants of the Good, they say, in three shining spheres. Never seen one. Keep it so.
 Men who see angels are standing where the war of the gods is being fought, and no hide from that
 country was ever worth the tanning.
+
+**Notturni.** Once. Forty years on the roads, and once. A man-shape of standing shadow, edges
+that would not hold still, two green lamps for eyes, watching me across my own fire — and my fire
+threw no light on it. It did not touch me. It was *counting* something; I do not know what. They
+walk by night or shade — sun vexes them but does not bite — and the shadows move to suit them.
+Those who claim to have spoken with one say they come from a place they call only Night, or
+Shadow, and are here about a Task they will not name, and that each talks as if it were all of
+them — one water in many jugs. I have no advice. I moved my camp at dawn, and the prints it left
+were mine.
+
+> ⟡ **IN THE MARGIN (GM)** ⟡
+> *The huntsman met one and was inventoried; be glad his ledger balanced. The Notturni's "Night"
+> has a name in the makers' catalogue: **Naxtis**, the dark world of the old empire, whence the
+> light-drinking Umbra is carried. They are that world's stock as the dwarves are Omalgat's — and
+> alone among the made peoples they still speak of their Task in the present tense, as if the
+> makers' last instruction were not yet complete. No one has established what the instruction was.
+> Whoever does will want to sit down first.*
 
 **Demons.** Spirits corrupted whole and sworn to the Evil. Here they cannot well hide what they
 are — the greater the demon, the worse the shape fits. The learned rank them in six Circles,
