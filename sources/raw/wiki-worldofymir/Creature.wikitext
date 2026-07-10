@@ -1,0 +1,143 @@
+[[File:Placeholder|right|300px]]
+
+
+'''Fungalidi'''
+
+Lvl: 15°         Tag: Large
+
+PF: 180          TA(BD): 1(60)
+
+Attachi: 140Large Claw [Acid]/ Poison
+
+Iniziativa: +12             
+
+
+
+
+I Fungalidi sono bizzarri esseri fungoidi, vagamente somiglianti a dei giganteschi rospi senza bocca, ricoperti da una strana sostanza spugnosa grigiastra. Al posto delle zampe hanno due lunghi tentacoli che terminano con delle affilate protuberanze ossee, inoltre sono dotati di robuste ali da libellula. La loro natura gli permette di ignorare tutti i colpi critici da Void, Nether, Taglio e Acido,  rigenerano 3PF al round finché non sono morti. La loro pelle fungosa secerne un potente acido e per questo infliggono un colpo critico addizionale da Acido quando colpiscono. Come se non bastasse, i loro artigli iniettano un potente veleno paralizzante (TR oppure paralisi per 1 round ogni 10% di fallimento). 
+
+
+
+
+'''Magres'''
+
+Lvl: 35°         Tag: Super Large
+
+PF: 500          TA(BD): 9(35)
+
+Attachi: 220 Huge Trample/ 215 Huge Bite
+
+Iniziativa: +4        
+
+
+
+
+Un Magres è un abominio creato dal caos. Ha l’aspetto di un torreggiante ammasso di carne grigiastra pelosa a squamosa, alto circa 7 metri. Ha una bocca esageratamente grande fornita di migliaia di piccoli denti aguzzi, minuscoli occhi porcini e due mani pateticamente piccole che si agitano inutilmente circa a metà corpo. Si muove grazie alle decine di piccoli piedi che spuntano dal lato inferiore del suo corpo. 
+
+Secondo gli studiosi i Magres sono coboldi che hanno subito una mutazione radicale causata dall’esposizione prolungata al Caos. È difficile stabilire se ci sia qualcosa di vero nelle loro parole, resta il fatto che i fortunatamente poco numerosi Magres sono un flagello vivente. Si tratta in definitiva di creature stupide, che vagano per il mondo senza una reale percezione di ciò che avviene attorno a loro. Sono incredibilmente codardi e spesso fuggono non appena vengono feriti o incontrano qualcosa che possa apparire loro come un pericolo (fondamentalmente, qualsiasi cosa di dimensioni umane o maggiori). Il problema è che, facendolo, tendono a travolgere qualsiasi cosa si pari loro davanti, seminando terrore e distruzione.
+
+
+
+
+
+
+
+'''Ombra dell'Ostrica Blu (Blue Oyster Shadow)'''
+
+'''Minore'''
+
+Lvl: 8°         Tag: II#
+
+PF: 80          TA(BD): 1(40)
+
+Attachi: Speciale
+
+Iniziativa: +12  
+
+
+
+
+'''Maggiore'''          
+
+Lvl: 20°         Tag: Large#
+
+PF: 150          TA(BD): 9(40)
+
+Attachi: Speciale
+
+Iniziativa: +12            
+
+
+
+
+Le Ombre dell'Ostrica Blu sono i resti spettrali dei folli cultisti che tentarono di evocare il Signore Demoniaco Ea su Ymir, e che morirono nel catastrofico fallimento del rituale che avrebbe dovuto convocare il loro signore. Ne esistono di due tipi: minori e maggiori. Le prime appaiono come dei teschi evanescenti che emanano una tenue luce bluastra e galleggiano a mezz'aria. Non hanno attacchi fisici e non possono essere colpite da armi non magiche. Il loro unico attacco consiste nel risucchiare 1d10+10 PF e 1 punto Costituzione (a chi fallisce un TR-15) a tutti gli esseri viventi nel raggio di 3m. Le Ombre Maggiori, invece, sono gli spiriti dei cultisti più potenti, appaiono come figure incappucciate in lunghe tuniche blu, di cui non si scorge il viso. Sono circondate da una tenue aura azzurra. Oltre a risucchiare 1d10+20 pf e 1d4 di punti Costituzione (-20 al TR), questi orrori conoscono le liste dell'Essenza Oscura (o degli Stregoni) fino al loro livello e dispongono di 6 PM per livello. A causa della loro natura eterea possono essere colpite solo da armi magiche.
+
+
+
+
+'''Phlegetauro'''
+
+Lvl: 25° (VI tipo)      Tag: Large#
+
+PF: 300                    TA(BD): 12(60)
+
+Attachi: 120 Large Claw/ 120Large Bite (x3)/ 60Fire Breath
+
+Iniziativa: +8           
+
+  
+
+I Phlegetauri sono un raro tipo di demoni maggiori, che abitano oscuri piani esterni dall'atmosfera infuocata. Possono anche essere trovati su Ymir in ambienti sotterranei o vicino a dei vulcani.''' '''Sono figure umanoidi scure, come fatte di carbone, alte più di tre metri e mezzo,con tre teste cornute poste su altrettanti colli serpentini. Sono avvolti da fiamme imperiture che infliggono un colpo critico "C" da calore a chiunque nel raggio di 2 metri e sono in grado di emettere coni di fuoco da ognuna delle loro bocche. Conoscono la lista "Fire Law" fino al loro livello e possono lanciare un incantesimo al round senza spesa di PM. Possono attaccare sia con i loro tre soffi (ogni testa può soffiare una volta ogni 6 round) che con i loro poderosi artigli o col morso. Inoltre, quando vengono uccisi, esplodono in una Palla di Fuoco +60 centrata su di loro. Sono ovviamente immuni al fuoco e al calore ma subiscono doppi danni dall'acqua e dal gelo (i colpi critici da gelo sono considerati "Slaying"). 
+
+
+
+
+'''Relitto'''
+
+Lvl: 12°             Taglia/Crit: Grande/Grande#<br />PF: 250             TA(BD): 20(30)<br />Attacchi: 100 Arma [Gelo](x2)/ Speciale''' '''
+
+Iniziativa: +0
+
+
+
+
+Corazze vuote e corrose dalla ruggine, giunture meccaniche scricchiolanti, che gocciolano olio come sangue dalle ferite di un soldato morente, una tetra e oscura aura di rabbia e dolore... I Relitti sono costrutti posseduti, resti di antiche armi da guerra abbandonate nei campi di battaglia assieme ai corpi dei caduti. Accade che gli imperi più facoltosi e avanzati assoldino maestri alchimisti perchè forgino per loro esseri di ferro e acciaio, guerrieri instancabili ed inarrestabili per schiacciare completamente i loro nemici. Costruiti per uccidere, anche quando i loro corpi metallici vengono abbattuti e gli incantesimi che li animano vengono dispersi, attorno ad essi permea un eco di morte. Ciò fa sì che, a volte, essi attirino a sé gli spiriti dei guerrieri morti in battaglia, che possiedono il loro corpo per guerreggiare di nuovo... questa volta contro tutti i viventi!<br />Ogni Relitto ha un aspetto diverso dagli altri, che rispecchia quello con cui è stato creato (anche se si ha notizia di Relitti formati dai resti di diversi costrutti saldati insieme dalle energie necromantiche). Anche le armi che usano variano dunque di caso in caso. Tutti sono però accomunati dalla tipica aurea gelida dei non morti, che permette ai loro attacchi di infliggere un colpo critico addizionale da Gelo, di un livello in meno di quello inflitto con l'attacco ("A" diventa "A-20"). Inoltre, ogni creatura vivente entro 3 metri di raggio da un Relitto deve fare ogni round un TR sulla Costituzione o perdere 1-5 punti Co. Se una persona perde tutta la sua Co in questo modo la sua anima viene risucchiata nel Relitto, ed esso guadagna 3PF per livello della vittima.<br />Per concludere, chiunque si trovi vicino a un Relitto inizia a sentire sussurri, maledizioni e lamenti soffocati: sono le anime intrappolate al suo interno che piangono la loro condizione. Chiunque le senta deve fare un TR contro la Paura o venir preso dallo sconforto (-10 alle azioni ogni 10% di fallimento: se la penalità è di -100 o più la vittima si accascia a terra inerme).''' '''
+
+''' '''
+
+'''Slashquark '''
+
+Lvl: 15°      Tag: Large
+
+PF: 150       TA(BD): 11(40)
+
+Attachi: 120 Huge Bite/Special
+
+Iniziativa: +16           
+
+
+
+
+Gli Slashquark appaiono come grossi maiali verdi dal collo grinzoso e la bocca simile ad una ventosa; hanno due file di zanne. Attaccano estendendo di scatto il loro collo (fino a 3 metri) e azzannando la loro vittima. Quando hanno afferrato la preda con le zanne, la seconda fila scatta all’indietro asportando la carne dalle ossa. Si dice che prendano il loro nome dal rumore che fanno le loro vittime durante quest’operazione. Essa viene trattata come un secondo attacco da morso, che tiene conto solo di eventuali difese magiche. 
+
+
+
+
+'''Zaar'Qrak'''
+
+Lvl: 20°      Tag: Large@
+
+PF: 250       TA(BD): 12(40)
+
+Attachi: 100 Huge Claw (x4)/ 160 Large Bite
+
+
+Iniziativa: +16  
+
+
+
+
+Gli Zaar'Qrak (in linguaggio dell'Erg il loro nome significa qualcosa di simile a "Morte Squartatrice") sono i più temuti predatori del deserto. Bestie vagamente umanoidi, alte più di tre metri e mezzo, coperte di ispido pelo nero e durissime placche ossee, questi orrori si muovono prevalentemente di notte (vedono perfettamente in ogni tipo di oscurità). Queste belve fameliche sono dotate di sei arti: due più robusti che usano solo come gambe, e altri quattro che possono utilizzare sia per muoversi che come braccia. Tutti e sei gli arti terminano in zampe con dita piuttosto abili (come quelle delle scimmie) e artigli lunghi come pugnali e altrettanto affilati. In combattimento usano soprattuto gli arti superiori, riuscendo ad attaccare anche 4 bersagli diversi nello stesso round, ma se affamati o messi alle strette possono anche usare le loro lunghe zanne. 
+
+Gli Zaar'Qrak sono cacciatori abili ed astuti: non temono l'uomo ma conoscono le armi (anche se non le usano mai) e preferiscono rapidi agguati ad assalti frontali. Nel loro ambiente naturale hanno l'equivalente di un +100 di skill a Stalking e Hiding. I loro possenti muscoli gli consentono di compiere balzi incredibili (come per l'incantesimo Leap) e di solito usano queste abilità combinate per atterrare in mezzo alle carovane, maciullare qualche persona e fuggire nuovamente portandosi dietro qualche vittima come spuntino. Come se non bastasse, se pressati diventano straordinariamente feroci e i loro movimenti si fanno veramente fulminei (Come se avessero 120 di skill Adrenal Speed). Tutte queste caratteristiche combinate fanno sì che la maggior parte degli abitanti dell'Erg sbianchi anche al solo sentirli nominare... fortunatamente si tratta di creature solitarie, a meno di non essere tanto sfortunati da incappare in una madre coi cuccioli!
+[[Category:Creatures]]

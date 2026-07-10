@@ -1,0 +1,169 @@
+[[File:Placeholder|right|300px]]
+
+
+'''XUDRA'''
+
+
+
+
+Gli Xudra sono la casta guerriera degli xebechani, sono utilizzati come soldati oppure per svolgere lavori pesanti. Massicci e dotati di robuste squame sono forse gli Xebechani dall'aspetto meno umano, somigliando vagamente a delle anaconde umanoidi. Anche la loro testa, fra tutti gli Xebechani, è quella che più ricorda i rettili, essendo piccola e allungata. Nonostante siano di gran lunga la Casta più numerosa (più della metà degli Xebechani sono Xudra) è difficile incontrarli al di fuori delle loro città. Gli Xudra sono molto legati ai loro compiti e alla loro terra natale e viaggiano molto raramente. Una delle poche occasioni in cui è possibile vedere uno Xudra in viaggio è come scorta di un membro di una casta più alta.
+
+
+
+===='''ASPETTO FISICO'''====
+====='''Corporatura: '''Alti e robusti, in media pesano circa 100kg=====
+{| align="left" border="1" cellpadding="7" cellspacing="0" dir="ltr" hspace="5" width="445"
+| colspan="4" height="8" valign="top" width="429"|
+<p style="text-align:center">'''            XUDRA'''</p>
+|- valign="top"
+| colspan="2" rowspan="2" width="132"|
+'''Modificatori'''
+
+'''Caratteristiche'''
+| height="6" width="133"|
+'''Modifiche TR'''
+| width="137"|
+'''Sviluppo'''
+|- valign="top"
+| width="133"|
+'''Flusso'''
+| width="137"|
+'''Sviluppo Corporeo'''
+|- valign="top"
+| height="2" width="55"|
+'''AG'''
+| width="63"|
++3
+| width="133"|
++0
+| width="137"|
+0.6.5.2.1
+|- valign="top"
+| height="3" width="55"|
+'''CO'''
+| width="63"|
++2
+| width="133"|
+'''Essenza'''
+| width="137"|
+'''PM Arcani'''
+|- valign="top"
+| height="2" width="55"|
+'''ME'''
+| width="63"|
++0
+| width="133"|
++20
+| width="137"|
+0.2.1.1.1
+|- valign="top"
+| height="3" width="55"|
+'''RA'''
+| width="63"|
++0
+| width="133"|
+'''Mentalismo'''
+| width="137"|
+'''PM Essenza'''
+|- valign="top"
+| height="2" width="55"|
+'''AC'''
+| width="63"|
++0
+| width="133"|
++20
+| width="137"|
+0.5.3.2.2
+|- valign="top"
+| height="2" width="55"|
+'''EM'''
+| width="63"|
+-3
+| width="133"|
+'''Arcano'''
+| width="137"|
+'''PM Flusso'''
+|- valign="top"
+| height="3" width="55"|
+'''IN'''
+| width="63"|
++0
+| width="133"|
++0
+| width="137"|
+0.6.5.4.3
+|- valign="top"
+| height="2" width="55"|
+'''PR'''
+| width="63"|
+-3
+| width="133"|
+'''Veleno'''
+| width="137"|
+'''PM Mentalismo'''
+|- valign="top"
+| height="3" width="55"|
+'''RF'''
+| width="63"|
++4
+| width="133"|
++50
+| width="137"|
+0.5.3.2.2
+|- valign="top"
+| height="2" width="55"|
+'''FO'''
+| width="63"|
++3
+| width="133"|
+'''Malattia'''
+| width="137"|
+'''Tipo di Razza'''
+|- valign="top"
+| height="2" width="55"|
+'''AS'''
+| width="63"|
+-30
+| width="133"|
++25
+| width="137"|
+3
+|- valign="top"
+| colspan="2" height="3" width="132"|
+'''Dipartenza Anima'''
+| width="133"|
+'''Paura'''
+| width="137"|
+'''Molt. Guarigione'''
+|- valign="top"
+| colspan="2" height="2" width="132"|
+9 round
+| width="133"|
++10
+| width="137"|
+x0.5
+|- valign="top"
+| colspan="2" height="3" width="132"|
+'''Linguaggi'''
+| colspan="2" width="284"|
+'''Opzioni Background (Punti Talento)'''
+|- valign="top"
+| colspan="2" height="1" width="132"|
+2
+| colspan="2" width="284"|
+3(30
+|}
+==========
+'''Colorito:''' Hanno squame resistenti al posto della pelle, di solito di color bruno o verde scuro sul dorso, giallo sulla pancia. I loro occhi sono solitamente gialli, con pupilla verticale.
+
+'''Resistenza: '''Molto resistenti, +20 Punti Fatica
+
+'''Altezza:''' In media attorno ai 190cm
+
+'''Durata della vita:''' 80-100 anni
+
+'''Resistenze:''' Sono molto resistenti ai veleni e alle malattie.
+
+'''Abilità Speciali:''' Oltre alle normali caratteristiche comuni a tutti gli Xebechani, gli Xudra sono dotati di un'armatura naturale costituita dalle loro squame (''Pelle Resistente:'' TA3 naturale), inoltre sono incredibilmente rapidi considerata la loro mole, riuscendo spesso a prendere di sorpresa i propri avversari (''Riflessi Fulminei:'' tirano 3d10 invece che 2d10 all'iniziativa, tenendo i due risultati migliori).
+
+'''Abilità:'''''Everyman: ''Power Striking

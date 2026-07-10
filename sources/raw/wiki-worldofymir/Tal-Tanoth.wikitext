@@ -1,0 +1,185 @@
+[[File:Placeholder|right|300px]]
+
+
+I Tal-Tanoth sono simili agli Ur-Tanoth ma decisamente più minuti, somigliano all’incrocio fra un gatto ed un uomo. Al contrario degli Ur-Tanoth non temono l’uomo e spesso vivono in città. 
+
+
+
+
+'''ASPETTO FISICO'''
+
+'''Corporatura: '''piccola e snella, i maschi pesano 45Kg, le femmine 40Kg.
+
+'''Colorito:''' il loro pelo può essere di qualsiasi colore. Occhi azzurri, verdi o gialli.
+
+'''Resistenza: '''Normale, devono dormire almeno 8 ore al giorno.
+
+'''Altezza:''' Maschi 120cm, Femmine 115cm.
+
+'''Durata della vita:''' 60-80 anni
+
+'''Resistenze:''' +15 contro i Veleni, +10 contro le Malattie; +10 TR e BD contro il Freddo
+
+'''Abilità Speciali:''' Tough Skin (TA3) 
+======'''MODIFICATORI CULTURA'''======
+'''Linguaggi:''' Tanoth (8/4); Comune Occidentale (8/4)
+
+'''Pregiudizi:''' odiano gli orchetti e reputano gli uomini dei grossi tonti, ma per il resto vanno d’accordo con la maggior parte delle altre razze. A causa della loro natura incostante e burlona, tuttavia, il sentimento non è sempre ricambiato e molti ritengono i Tal-Tanoth quantomeno una seccatura.
+
+'''Religione:''' i Tal-Tanoth non si preoccupano tanto di questioni religiose, la maggior parte di loro si attiene a qualche pratica superstiziosa oppure al culto principale del popolo presso cui vivono. 
+
+'''Professioni Preferite:''' i Tal-Tanoth sono Ladri eccellenti e buoni Zingari. I più vagabondi diventano Ranger o Esploratori. Di rado scelgono altre professioni. 
+
+'''Abilità:''' ''Everyman:'' Muoversi Silenziosamente.
+
+'''Culture Preferite:''' Usano la cultura presso la quale vivono, di solito del sotto tipo Urbano (classe inferiore). 
+
+
+
+
+
+
+
+
+
+{| align="left" border="1" cellpadding="7" cellspacing="0" dir="ltr" hspace="5" width="446"
+| colspan="4" height="8" valign="top" width="430"|
+'''TAL-TANOTH'''
+|- valign="top"
+| colspan="2" rowspan="2" width="132"|
+'''Modificatori'''
+
+'''Caratteristiche'''
+| height="6" width="133"|
+'''Modifiche TR'''
+| width="138"|
+'''Sviluppo'''
+|- valign="top"
+| width="133"|
+'''Flusso'''
+| width="138"|
+'''Sviluppo Corporeo'''
+|- valign="top"
+| height="2" width="55"|
+'''AG'''
+| width="63"|
++6
+| width="133"|
++0
+| width="138"|
+0.6.5.2.1
+|- valign="top"
+| height="2" width="55"|
+'''CO'''
+| width="63"|
++2
+| width="133"|
+'''Essenza'''
+| width="138"|
+'''PM Arcani'''
+|- valign="top"
+| height="2" width="55"|
+'''ME'''
+| width="63"|
++0
+| width="133"|
++0
+| width="138"|
+0.5.3.2.2
+|- valign="top"
+| height="2" width="55"|
+'''RA'''
+| width="63"|
++0
+| width="133"|
+'''Mentalismo'''
+| width="138"|
+'''PM Essenza'''
+|- valign="top"
+| height="2" width="55"|
+'''AC'''
+| width="63"|
+-4
+| width="133"|
++5
+| width="138"|
+0.5.3.2.2
+|- valign="top"
+| height="2" width="55"|
+'''EM'''
+| width="63"|
++0
+| width="133"|
+'''Arcano'''
+| width="138"|
+'''PM Flusso'''
+|- valign="top"
+| height="2" width="55"|
+'''IN'''
+| width="63"|
++0
+| width="133"|
++0
+| width="138"|
+0.6.5.4.3
+|- valign="top"
+| height="2" width="55"|
+'''PR'''
+| width="63"|
+-4
+| width="133"|
+'''Veleno'''
+| width="138"|
+'''PM Mentalismo'''
+|- valign="top"
+| height="2" width="55"|
+'''RF'''
+| width="63"|
++5
+| width="133"|
++15
+| width="138"|
+0.4.3.2.1
+|- valign="top"
+| height="2" width="55"|
+'''FO'''
+| width="63"|
+-6
+| width="133"|
+'''Malattia'''
+| width="138"|
+'''Tipo di Razza'''
+|- valign="top"
+| height="2" width="55"|
+'''AS'''
+| width="63"|
++0
+| width="133"|
++10
+| width="138"|
+3
+|- valign="top"
+| colspan="2" height="2" width="132"|
+'''Dipartenza Anima'''
+| width="133"|
+'''Paura'''
+| width="138"|
+'''Molt. Guarigione'''
+|- valign="top"
+| colspan="2" height="2" width="132"|
+12 round
+| width="133"|
++0
+| width="138"|
+X0,5
+|- valign="top"
+| colspan="2" height="2" width="132"|
+'''Linguaggi'''
+| colspan="2" width="284"|
+'''Opzioni Background (Punti Talento)'''
+|- valign="top"
+| colspan="2" height="1" width="132"|
+5
+| colspan="2" width="284"|
+5 (50)
+|}

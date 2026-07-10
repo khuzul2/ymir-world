@@ -1,0 +1,258 @@
+SOURCE: Google Drive — Map - Gaerwath CA 3500 d.M..jpg (nation map) (fileId 0B51K1jhM2wrFTlVyRGZOSU8wZ1k)
+
+NOTE ON EXTRACTION: The Google Drive read_file_content tool returned an EMPTY string for this
+file (it provides no OCR/description for this particular image). The file was therefore downloaded
+as raw bytes (image/jpeg, 3,720,724 bytes, 6667 x 6667 px, created 2017-01-17, owner
+alessandro.petri@gmail.com, Drive title "Map+-+Gaerwath_CA_3500d.M.jpg") and read visually by
+decoding the JPEG and tiling it into a 4x4 grid at near-native resolution. The description and
+label list below are transcribed directly from that visual reading.
+
+=== DESCRIPTION / VISUAL READING ===
+
+This is a hand-drawn, antique-style fantasy nation map of an ARCHIPELAGO titled "Gaerwath",
+dated "c.a. 3500 p.M" (circa 3500 post-something; likely an in-world dating era). It is rendered
+in sepia/greyscale on aged parchment with torn/burned edges over a slate-grey sea.
+
+Cartographic furniture:
+- Top-left: a large capital letter "N" (north indicator) above an ornate circular compass-rose
+  medallion depicting a MEDUSA / GORGON female head with flowing hair and blank white eyes.
+  Below the medallion is the map title "Gaerwath" and subtitle "c.a. 3500 p.M".
+- Top-right: a decorative distance SCALE BAR shaped like a stone plaque flanked by a winged
+  female (angel/harpy) figure, marked 100 / 200 / 300 / 400 / 500 (units unlabeled).
+
+The land is a scatter of many separate ISLANDS across the grey ocean. Faint large watermark
+letters spell each island's name across its body. Islands identified (watermark names):
+- Isola Cn'ethyr (north; the island of the capital G'nethyr) — watermark reads roughly
+  "Isola C...ethyr"
+- Isola Kh'myr (large western island)
+- Isola Yr'thyr (large central island)
+- Isola Wag'myr (large south-central island)
+- Isola Daarwyr (small island of D'wyss / Daarwyr)
+- Isola Moloch (eastern-central island of the Mooloch Ziggurat)
+- Isola del Caos (bare central island, no settlements labeled)
+- Isola N'ysyr (eastern island of N'yisyr / F'alass)
+- Isola Gh'yrst (far-eastern elongated island)
+- Isola Dr'hakyr (south-eastern island)
+- one small unnamed-watermark island holds Gh'anuss / Selva Ignota / L'ykry
+
+Settlement style: named towns are drawn as little walled towers/keeps; larger cities as
+castle/temple clusters; many sites are stepped pyramid "Ziggurat" temples; watchtowers are all
+prefixed "Torre"; strongholds are "Bastione" / "Forte" / "Presidio" / "Castello" / "Palazzo".
+Physical features use Italian generic terms: Monti/Picchi/Catena/Denti/Punte (mountains/peaks/
+range/teeth/points), Foresta/Selva/Bosco/Riserva (forest/wood/reserve), Lago (lake), Fiume/Corso/
+Percorso/Flusso/Canale (river/course/path/flow/channel). Place-names are mostly apostrophe-laden
+Welsh/Elvish-style constructions (Kh'myr, Yr'thyr, Wag'myr, W'ardyr, G'nethyr, N'yisyr, etc.).
+
+The naming reveals a THEME of dreams, souls, the dead and lost things: "Fiume dei Pensieri"
+(River of Thoughts), "Percorso delle Anime" / "Fiume di Anime" (Path/River of Souls), "Lago dei
+Sensi" (Lake of the Senses), "Lago degli Infanti" (Lake of the Infants), "Bosco dei Perduti"
+(Wood of the Lost), "Foresta dei Sedici Pianti" (Forest of the Sixteen Weepings), "Canale di
+Sangue" (Channel of Blood), "Palazzo delle Aule dei Sogni" (Palace of the Halls of Dreams),
+"Catenaccio degli Antichi Saperi" (Bolt/Bar of the Ancient Knowledges), "Selva della Perdizione"
+(Wood of Perdition), "Corso dei Tempi" (Course of the Ages), "Bastione Malevolo" (Malevolent
+Bastion), "Selva Ignota" (Unknown Wood), "Flusso Inverso" (Reverse Flow), "Forte della Forgia"
+(Fort of the Forge), "Foresta di Caccia dei Nobili Wag'myr" (Hunting Forest of the Wag'myr
+Nobles), "Picchi senza Nome" (Peaks Without Name), "Picchi delle molte Pire" (Peaks of the Many
+Pyres). No player-characters, gods, spells or weapons are named on the map itself; the recurring
+"Ziggurat" pyramid-temples (Hywon, Golog, Thelog, Ghom'a, Hr'yth, Wyaya, Agar, Mooloch, A'rwo,
+Gh'yrst, T'alan, Wag'myr, Ah'rkan) imply a temple-building / possibly death-worship culture, in
+keeping with the Medusa emblem and soul/dream toponymy.
+
+=== LABELS READ ===
+
+Title & decorative furniture:
+- Gaerwath
+- c.a. 3500 p.M
+- N (north letter, atop a Medusa/gorgon-head compass medallion)
+- Scale bar figures: 100, 200, 300, 400, 500 (winged-female plaque)
+
+Island names (faint body watermarks):
+- Isola Cn'ethyr (northern; island of G'nethyr — watermark partly legible)
+- Isola Kh'myr
+- Isola Yr'thyr
+- Isola Wag'myr
+- Isola Daarwyr
+- Isola Moloch
+- Isola del Caos
+- Isola N'ysyr
+- Isola Gh'yrst
+- Isola Dr'hakyr
+
+Northern island (G'nethyr / Cn'ethyr):
+- Wy'lid
+- Torre H'rynn
+- Picchi delle molte Pire
+- Thelmar
+- Hywon Ziggurat
+- Corso di Hywon
+- Foresta di Hywon
+- Torre A'shwar
+- Monti Gelog
+- Golog Ziggurat
+- Lago Gelog
+- Fiume dei Pensieri
+- Monti Thelog
+- Thelog Ziggurat
+- Torre H'eyl
+- Torre G'dansk
+- Yannis
+- Torre Wn'egh
+- Denti di Gn'ethyr
+- Themys
+- Fiume Themys
+- G'nethyr
+- G'yrsh
+- Foresta dei Sedici Pianti
+
+Isola Kh'myr (western island):
+- Torre H'wys
+- Torre Gwy'e
+- Catena del Kh'myr Superiore
+- Catena del Kh'myr Inferiore
+- Bastione Ly'shtar
+- Selva del Ghom
+- Ghom'a Ziggurat
+- Gh'ynss
+- Lago Gh'ynss
+- My'sha
+- Fiume W'ardyr
+- W'ardyr
+- Dente W'ardyr
+- Dente Bn'egss
+- Thykra
+- Foresta di Wyaya
+- Wyaya Ziggurat
+- Eskra
+- W'thass
+- Lago dei Sensi
+- Percorso delle Anime
+- Kh'myr
+- Torre Yrrkyt
+- Tan'ban
+- L'Interminabile Selva
+- Bn'egss
+- Torre N'a
+- Canale di Sangue
+- Gh'eod
+
+Isola Daarwyr (D'wyss):
+- D'wyss
+- Daarwyr
+- Lago Daarwyr
+- M'yko
+- Agar Ziggurat
+
+Isola Moloch:
+- Picchi senza Nome
+- Mooloch Ziggurat
+- Fiume Moloch
+
+Isola del Caos:
+- (no settlements labeled; watermark only)
+
+Small central island (with Gh'anuss):
+- Selva Ignota
+- Gh'anuss
+- Torre N'aan
+- Lago H'y
+- Fiume H'y
+- L'ykry
+
+Isola Gh'yrst (far-east, elongated):
+- Gh'yrst Ziggurat
+- Torre Gha'shk
+
+Isola N'ysyr / N'yisyr (eastern):
+- G'halgo
+- K'yo
+- Palazzo delle Aule dei Sogni
+- Osh'ka
+- Riserva di N'ysyr
+- A'rwo Ziggurat
+- N'yisyr
+- Denti di N'ysyr
+- H'alass
+- W'rrky
+- Torre E'og
+- U'mno
+- Y'nsh
+- F'alass
+- Torre W'yrr
+
+Isola Yr'thyr (central island):
+- Torre Z'bass
+- Z'bass
+- Hr'yth Ziggurat
+- H'rwan
+- Sh'yo
+- R'lynn
+- Ghan'sh
+- Catenaccio degli Antichi Saperi
+- Bosco dei Perduti
+- Eo
+- Sh'alass
+- Torre Sh'alass
+- Fiume Sh'alass
+- Yeo'gh
+- D'kah
+- Denti di Yeo'gh
+- Fiume Qi'rass
+- Qi'rass
+- N'Athor
+- Torre M'ghan
+- Yr'thyr
+- Lago degli Infanti
+- Selva dei Creoli (uncertain reading)
+- Punte di gh'eed
+- Corso dei Tempi
+- Fyan
+- Hlaa'a
+- W'laag
+- Bastione Malevolo
+- Hla's
+- Fiume di Anime
+- T'nyss
+- Foresta di Felci di Thyss
+- Bastione di T'nyss
+- Torre Ashka
+
+Isola Wag'myr (south-central island):
+- Wynt'hss
+- W'ghan
+- Flusso Inverso
+- M'kaer
+- T'alan Ziggurat
+- Wag'myr Ziggurat
+- Theno
+- Th'o
+- Palazzo Wag'myr
+- Selva di Wag'myr
+- D'hyss
+- Foresta di Caccia dei Nobili Wag'myr
+- Wag'myr
+- Selva dei Fauni
+- Th'ey
+- E'rengh
+- Forte della Forgia
+- Ah'rkan Ziggurat
+- K'hymass
+- Fiume Theli
+- Gh'za
+- Th'l'myr
+- Presidio di S'than
+- Z'daar
+- Whygh'a
+- Torre H'ass
+- Selva della Perdizione
+- Torre Ra'kyr
+
+Isola Dr'hakyr (south-eastern island):
+- Picchi di L'ykry
+- Dr'hakyr
+- Tah'rnyr
+- Castello Krynn
+- Picchi di Krynn
+- Gyrm'yr
+- Has'myr
+- Thy'ss
+- Torre Fhayz

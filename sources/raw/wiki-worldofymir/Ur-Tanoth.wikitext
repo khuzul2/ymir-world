@@ -1,0 +1,192 @@
+[[File:Placeholder|right|300px]]
+
+
+Gli Ur-Tanoth sono simili all’incrocio tra un grosso felino predatore ed un uomo.
+
+Non tutti hanno lo stesso aspetto, alcuni sono simili a pantere, altri a tigri, altri ancora a leoni. In generale, i membri della stessa tribù sono tutti simili fra loro. Nonostante il loro aspetto poco rassicurante, si tratta di una razza normalmente pacifica e schiva, poco incline alla violenza.
+
+
+
+
+'''ASPETTO FISICO'''
+
+'''Corporatura: '''Alti e massicci. I maschi pesano in media 100 Kg, le femmine 80 Kg.
+
+'''Colorito:''' il loro corpo è interamente coperto da una folta pelliccia, che può essere di qualsiasi colore. Hanno occhi gialli oppure verdi, di rado rossi.
+
+'''Resistenza: '''Incredibile, +20 Punti Fatica
+
+'''Altezza:''' Maschi 200cm, femmine 185cm.
+
+'''Durata della vita:''' 60-70 anni
+
+'''Resistenze:''' +15 contro i Veleni, +10 contro le Malattie, +20 contro la Paura; +10 TR e BD contro il Freddo
+
+'''Abilità Speciali:''' Tough Skin (TA4); Artigli Medi 
+
+
+
+======'''MODIFICATORI CULTURA'''======
+'''Linguaggi:''' Tanoth (8/4); Comune Occidentale (8/4)
+
+'''Paure & Incapacità:''' Più di ogni altra cosa, gli Ur-Tanoth temono l’imprigionamento e la perdita della propria libertà. La loro repulsione è tale che un Tanoth imprigionato si ammalerà e morirà in poco tempo. Inoltre, la maggior parte degli Ur-Tanoth rifugge dai luoghi chiusi, che trova soffocanti.
+
+'''Religione:''' Gli Ur-Tanoth hanno una religione di tipo totemico/animistico. 
+
+'''Pregiudizi:''' Odiano Orchetti e Troll e si tengono lontani dalle città, che reputano rumorose, puzzolenti e claustrofobiche.
+
+'''Professioni Preferite:''' Gli Ur-Tanoth diventano buoni Guerrieri, Barbari o Ranger, ma anche ottimi Ladri. Hanno problemi, invece, con i reami dell’Essenza e del Mentalismo. 
+
+'''Abilità:''' ''Everyman:'' Artigli, Sopravvivenza (Clima di Provenienza) ''Occupational:'' Cacciare
+
+'''Culture Preferite:''' A seconda del clima: Artica Nomadica; Altopiano Barbarica; Pianura Nomadica o Silvana Nomadica.
+
+
+
+
+
+
+
+
+
+{| align="left" border="1" cellpadding="7" cellspacing="0" dir="ltr" hspace="5" width="442"
+| colspan="4" height="9" valign="top" width="426"|
+'''UR-TANOTH'''
+|- valign="top"
+| colspan="2" rowspan="2" width="130"|
+'''Modificatori'''
+
+'''Caratteristiche'''
+| height="6" width="131"|
+'''Modifiche TR'''
+| width="136"|
+'''Sviluppo'''
+|- valign="top"
+| width="131"|
+'''Flusso'''
+| width="136"|
+'''Sviluppo Corporeo'''
+|- valign="top"
+| height="2" width="54"|
+'''AG'''
+| width="62"|
++6
+| width="131"|
++0
+| width="136"|
+0.7.4.2.1
+|- valign="top"
+| height="3" width="54"|
+'''CO'''
+| width="62"|
++2
+| width="131"|
+'''Essenza'''
+| width="136"|
+'''PM Arcani'''
+|- valign="top"
+| height="2" width="54"|
+'''ME'''
+| width="62"|
++0
+| width="131"|
++5
+| width="136"|
+0.5.3.2.2
+|- valign="top"
+| height="3" width="54"|
+'''RA'''
+| width="62"|
++0
+| width="131"|
+'''Mentalismo'''
+| width="136"|
+'''PM Essenza'''
+|- valign="top"
+| height="2" width="54"|
+'''AC'''
+| width="62"|
++0
+| width="131"|
++5
+| width="136"|
+0.4.3.2.1
+|- valign="top"
+| height="2" width="54"|
+'''EM'''
+| width="62"|
+-2
+| width="131"|
+'''Arcano'''
+| width="136"|
+'''PM Flusso'''
+|- valign="top"
+| height="3" width="54"|
+'''IN'''
+| width="62"|
++0
+| width="131"|
++0
+| width="136"|
+0.6.5.4.3
+|- valign="top"
+| height="2" width="54"|
+'''PR'''
+| width="62"|
+-4
+| width="131"|
+'''Veleno'''
+| width="136"|
+'''PM Mentalismo'''
+|- valign="top"
+| height="3" width="54"|
+'''RF'''
+| width="62"|
++4
+| width="131"|
++15
+| width="136"|
+0.4.3.2.1
+|- valign="top"
+| height="2" width="54"|
+'''FO'''
+| width="62"|
++4
+| width="131"|
+'''Malattia'''
+| width="136"|
+'''Tipo di Razza'''
+|- valign="top"
+| height="2" width="54"|
+'''AS'''
+| width="62"|
+-25
+| width="131"|
++10
+| width="136"|
+3
+|- valign="top"
+| colspan="2" height="3" width="130"|
+'''Dipartenza Anima'''
+| width="131"|
+'''Paura'''
+| width="136"|
+'''Molt. Guarigione'''
+|- valign="top"
+| colspan="2" height="2" width="130"|
+12 round
+| width="131"|
++20
+| width="136"|
+X0,5
+|- valign="top"
+| colspan="2" height="3" width="130"|
+'''Linguaggi'''
+| colspan="2" width="282"|
+'''Opzioni Background (Punti Talento)'''
+|- valign="top"
+| colspan="2" height="1" width="130"|
+2
+| colspan="2" width="282"|
+4 (40)
+|}

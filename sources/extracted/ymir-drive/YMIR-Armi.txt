@@ -1,0 +1,11 @@
+SOURCE: Google Drive — Armi.doc — weapons (Italian) (fileId 0B51K1jhM2wrFR0RGTmRCMkwzMm8)
+
+ARMI
+
+Danno: il danno inflitto dall’arma
+
+Taglia: la Taglia dell’arma.
+
+Allungo: da 0 (disarmato) a 5 (arma da asta). L’arma a Reach più alta fra due combattenti ha un bonus di +20 al BO, fino a che quello con la Reach più bassa non riesce a sferrargli un colpo. Da quel momento quello con la Reach più bassa ha il +20, fino a che l'altro non lo colpisce e così via.
+
+Ingombro: il valore di Ingombro viene sottratto all’iniziativa del combattente, ed è mitigato dalla sua Forza (o da una volta e mezzo la sua Forza se viene impugnata a due mani).

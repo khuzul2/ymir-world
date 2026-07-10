@@ -1,0 +1,714 @@
+SOURCE: Google Drive — YMIR 1.0.7 - Talents and Flaws.docx (fileId 0B51K1jhM2wrFYmJqTG0wV0xnSzg)
+
+YMIR – Talents and Flaws
+
+YMIR
+
+Talents and Flaws
+
+
+
+# Table of Contents
+
+[Table of Contents ](#_Toc366160908)[2](#_Toc366160908)
+
+[General ](#_Toc366160909)[3](#_Toc366160909)
+
+[Path of Combat ](#_Toc366160910)[5](#_Toc366160910)
+
+[Path of Summoning ](#_Toc366160911)[10](#_Toc366160911)
+
+[Path of Magic ](#_Toc366160912)[13](#_Toc366160912)
+
+[Magician Specialties ](#_Toc366160913)[15](#_Toc366160913)
+
+[Path of Corruption ](#_Toc366160914)[16](#_Toc366160914)
+
+[Path of Faith ](#_Toc366160915)[18](#_Toc366160915)
+
+
+Talents
+
+Talents are special attributes of characters that are acquired during the game. Talents define the characters and why they are unique or special.
+
+Each Talent is structured as follows
+
+Level
+
+DP Cost
+
+Description
+
+Each of the talents in the same table has the talent right before it as an additional prerequisite.
+
+## General
+
+### Sex Appeal
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 3 | 20 | If you fail an Influence maneuver you can make a Luck Roll. It it succeeds, treat your attempt as a successful, but you have to insert a romance-based twist to it. |
+
+### Golden Tongue
+
+Prerequisites: Charisma 40
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 8 | 40 | If you succeed in a Falsehood maneuver, treat one of your target as if it where charmed for one hour. If you or your allies take offensive actions against them, this effect end and cannot be used again against the same creatures. |
+
+### Lightning Reflexes
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 25 | When you use the React Action, you roll Initiative normally and suffer no penalty for the subsequent chosen Action. |
+| 20 | 50 | You reveal the React Action after rolling Initiative instead than before. |
+
+### Extraordinary Luck
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 15 | Get 60 Luck base luck points instead of 50 |
+| 10 | 30 | Open rolls start from 95 |
+| 20 | 60 | Open rolls start from 94 |
+
+### Child of Chaos
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 10 | Open rolls start from 05 and 95 |
+| 10 | 20 | Open rolls start from 06 and 94 |
+| 20 | 30 | Open rolls start from 07 and 93 |
+
+### Talented Artist
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | \+30 to skill rolls to entertain someone when you perform arts |
+
+### Wandering Scholar
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | Whenever you enter a new important location, you my ask the GM for one historical fact about that location. You must tell how did you learn this piece of lore. |
+
+### Legends & Lore
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | Whenever you find or hear about a new magical or arcane item, you may ask the GM for one legend or rumor about it. You must tell how did you learn this piece of lore. |
+
+### Faceless
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 30 | When you fail a maneuver made to blend or disappear into a crowd, you still succeed in your intent, but you’ll have a random encounter. |
+
+### Arcane Research
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 2 | 10 | You learn a First Order spell of your choice without having to make a Spell Acquisition roll, and even if you don’t have access to a tome describing it.  |
+| 4 | 10 | You learn a Second Order spell of your choice without having to make a Spell Acquisition roll, and even if you don’t have access to a tome describing it. |
+| 6 | 20 | You learn a Third Order spell of your choice without having to make a Spell Acquisition roll, and even if you don’t have access to a tome describing it. |
+| 8 | 20 | You learn a Fourth Order spell of your choice without having to make a Spell Acquisition roll, and even if you don’t have access to a tome describing it. |
+| 10 | 30 | You learn a Fifth Order spell of your choice without having to make a Spell Acquisition roll, and even if you don’t have access to a tome describing it. |
+| 13 | 30 | You learn a Sixth Order spell of your choice without having to make a Spell Acquisition roll, and even if you don’t have access to a tome describing it. |
+| 15 | 40 | You learn a Seventh Order spell of your choice without having to make a Spell Acquisition roll, and even if you don’t have access to a tome describing it. |
+| 17 | 50 | You learn a Eight Order spell of your choice without having to make a Spell Acquisition roll, and even if you don’t have access to a tome describing it. |
+
+## Path of Combat
+
+### Adrenal Speed
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 20 | Once per combat, you can gain two additional Actions Passes (up to a total of three) and a +5 bonus to Initiative for one round. You must declare Adrenal Speed at the beginning of the round, if you want to use it. |
+
+### Berserker
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 30 | Spend one Action getting into frenzy. Frenzied from the next Action. |
+
+### Adrenal Dodge
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 3 | 30 | Once per round when someone attacks you, you can choose to Avoid, even if it's not you turn. If you do, you lose your next action. |
+
+### Quick Mind
+
+Cannot be combined with Whipping Body
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 15 | Can perform up to 2 Action Passes per Round. The second pass can be used to perform Mental Actions only. You can’t cast spells using this extra pass. |
+| 10 | 30 | Can perform up to 3 Action Passes per Round. The second and third passes can be used to perform Mental Actions only. You can’t cast spells using these extra passes. |
+
+### Whipping Body
+
+Cannot be combined with Quick Mind
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 20 | Can perform up to 2 Action Passes per Round. The second pass can be used to perform Physical Actions only. |
+| 10 | 40 | Can perform up to 3 Action Passes per Round. The second and third passes can be used to perform Physical Actions only. |
+
+### Exceptional Reflexes
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 8 | 30 | Can perform up to 2 Action Passes per Round. You can’t cast spells using this extra pass. |
+| 15 | 50 | Can perform up to 3 Action Passes per Round. You can’t cast spells using these extra passes. |
+
+### Battle Awareness
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 3 | 15 | Once per battle, you may ask the GM how many Body hp one of your enemies has left, or what’s his OB, or what’s his Initiative bonus, or how much damage does his most powerful attack deals. |
+
+### Tenacity
+
+Prerequisites: Constitution 30
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 30 | You gain 5 Vitality Points. |
+| 10 | 40 | You gain an additional 5 Vitality Points. |
+| 20 | 50 | You gain an additional 10 Vitality Points. |
+
+### Steel Grip
+
+Prerequisites: Strenght 60
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 80 | You can wield Two Handed weapons with one hand. |
+
+### Ambush
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | Your first attack against a Surprised enemy deals 1d6 extra damage. |
+| 10 | 20 | Your first attack against a Surprised enemy deals 2d6 extra damage. |
+| 20 | 40 | Your first attack against a Surprised enemy deals 3d6 extra damage. |
+
+### Armor Mastery
+
+Prerequisites: Strength 30
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 4 | 30 | Whenever you wear armor, increase its armor value by 1 point on all locations it covers.  |
+| 12 | 40 | You get no penalties for wearing heavy armors. |
+
+### Dual Wield
+
+Prerequisites: Dexterity 30 (first 2 levels); Dexterity 40 (level 3); Dexterity 50 (level 4)
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 2 | 30 | Once per round, if you’re wielding two weapons and one of them is Small, you can gain an additional action, which can be used only to attack or block with your off-hand weapon. When you’re using both weapons, you get a special -40 penalty to your OB. |
+| 5 | 30 | You can use Medium weapons in your off-hand when Dual Wielding. Additionally, if the weapon in your off-hand is Small, reduce the OB penalty for Dual Wielding to -20. |
+| 10 | 30 | You get no penalty to your OB for Dual-Wielding if your off-hand weapon is Small, and just a -20 penalty if it’s Medium.  |
+| 15 | 50 | You can use your Dual Wield ability once per Pass, instead of once per round. |
+
+### Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 2 | 20 | Choose a single weapon. You never fumble with that weapon and you gain a special +2 bonus to Initiative when you’re wielding it. |
+
+### Wipe Out
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 10 | 40 | Can hit a maximum of 2 adjacent enemies with each melee Attack when using your pole arm or two handed weapon of choice. |
+| 20 | 100 | You can choose to hit all enemies in melee range with each melee Attack, when using your pole arm or two handed weapon of choice. |
+
+### Precision
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 20 | You can ignore up to 2 points of Armor if you attack with your Small weapon of choice. |
+| 10 | 40 | You can ignore Armor if you attack with your Small weapon of choice and your enemy is Surprised. |
+
+### Cleave
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 30 | Once per round, if you kill an opponent using your Two-Handed weapon of choice, you can immediately make an attack against an adjacent foe. |
+| 12 | 50 | You can use your Cleave ability once per Pass. |
+
+### Defender
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 10 | You can Block attacks made against adjacent allies if the Shield is your weapon of choice. |
+| 10 | 40 | Once per Pass, when you successfully Block an attack with you shield, you can immediately make a Shield bash attack against your attacker, using you degree of success as you OB. |
+
+### Martial Artist
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 3 | 20 | Treat your natural attacks as if they were one size larger if Unarmed is your weapon of choice. |
+| 8 | 30 | Your natural attacks deal Stun secondary damage.  |
+| 12 | 40 | You have learned to use your enemies’ strength against them: when you successfully hit an opponent with an Unarmed attack, you can choose to use his own Weapon damage, instead of your normal Unarmed damage. |
+
+### Adrenal Deflection
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 3 | 30 | You can Block missile attacks using your weapon of choice as if it were a shield |
+| 8 | 50 | You can Deflect missile attacks using your weapon of choice. |
+
+### Riposte
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 40 | Once per round, when you Deflect completely or Block an opponent melee attack with your one-handed weapon of choice, you can immediately make a counter-attack against him, using your margin of success as you OB. Riposte cannot be used with Shields. |
+| 10 | 40 | You can use your Riposte ability once per Pass. |
+| 20 | 50 | You can use your Riposte ability every time you Deflect or Block |
+
+### Dirty Tricks
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 40 | When you Deflect completely an opponent melee attack with your weapon of choice, if you have one hand free you can Stun him until his next Action. |
+| 10 | 40 | When you Deflect completely an opponent melee attack with your weapon of choice, if you have one hand free you can force him to Kneel. |
+| 15 | 60 | When you Deflect completely an opponent melee attack with your weapon of choice, if you have one hand free you can Blind him until his next Action. |
+
+### Footwork
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 30 | If you hit your opponent or Deflect completely his melee attack with your Polearm of choice, you can move up to your weapon length as a free action. |
+| 15 | 60 | If you hit your opponent or Deflect completely his melee attack with your Polearm of choice, you can push your enemy your weapon length in any direction. |
+
+### Ricochet
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 30 | Once per round, if you hit an opponent with your Ranged weapon of choice, you can immediately make an attack against another foe within 6m from the original target. Use the same attack roll of the first attack, but add only half of your OB and halve the damage dealt by this attack. |
+| 10 | 50 | If you hit the secondary target, you can immediately make an attack against another foe within 6m from him. This attack uses the same attack roll, OB and deals the same damage of your second attack. |
+
+### Hit and Run
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 3 | 30 | Once per round, you can move 3m after making an attack with your Ranged weapon of choice. |
+| 10 | 50 | Once per pass, you can move 3m after making an attack with your Ranged weapon of choice. |
+| 15 | 70 | Once per round, you can move your Move after making an attack with your Ranged weapon of choice. |
+
+### Pinning Strike
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 30 | When you attack with your Puncturing weapon of choice, you can choose to perform a Pinning Strike instead of your normal attack (declare it before rolling the dice). If you Pinning Strike hits it deals no damage, but your foe will be unable to move for one round. |
+| 10 | 50 | Your Pinning Strike also deals half of your normal damage. |
+
+### Twin Strike
+
+Prerequisites: Weapon Mastery
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 30 | Once per round, you can hit two separate targets with the same Action, when using your Ranged weapon of choice. Split your OB as you prefer between the targets, then make an attack against each of them. Each attack deals half damage. |
+| 10 | 50 | Each of your Twin strike attacks deals full damage. |
+| 15 | 60 | You can use your Twin Strike ability once per Pass. |
+
+## Path of Summoning
+
+### Summoner
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Acolyte | 1 | 5 | You can access entities from the First Pale |
+| Cabalist | 5 | 20 | You can access entities from the Second Pale |
+| Conjurer | 10 | 25 | You can access entities from the Third Pale |
+| Evoker | 15 | 30 | You can access entities from the Fourth Pale |
+| Summoner | 20 | 35 | You can access entities from the Fifth Pale |
+| Master Sumoner | 25 | 40 | You can access entities from the Sixth Pale |
+
+### Demonologist
+
+Prerequisites: Summoner
+
+Incompatible with: Elementalist, Animist, Mad Summoner
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Apprentice | 2 | 20 | You can summon Demons without rising your Summoning roll difficulty.In addition, you can choose to use Summoning to contact Demons and talk to them without physically bringing them to the physical plane. They are limited to providing you information when you contact them this way, but their price is automatically one level lower. |
+| Master | 8 | 30 | You can bind demons you summon to ritually prepared objects. Preparing an object is part of the summoning ritual and costs 1sp/Pale of the demon in exotic materials. Once bound, the demon will remain within the object for 1 week, plus one/10 points of margin of success. A bound demon may be released at any time to serve you normally. |
+| Lord | 16 | 40 | When you summon or contact a demon of the Third Pale or less, you can make a Luck roll. If you’re successful, you automatically get to know its True Name.Additionally, if you know the True Name of a demon, you may summon it instantly, without any summoning ritual (you still need a successful Summoning roll to do it, though) |
+
+### Elementalist
+
+Prerequisites: Summoner
+
+Incompatible with: Demonologist, Animist, Mad Summoner
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Apprentice | 2 | 20 | You can choose to summon Elementals without rising your Summoning roll difficulty. In addition, if you know its name you can choose to try, once per level, to befriend that elemental and avoid paying the prices for its services. (Befriend by making an Influence vs Influence contest and by roleplaying). Can have at most 1 befriended elemental per level. |
+| Caller | 5 | 20 | You can choose to summon a befriended elemental in one round by adding 50 to the summoning difficulty |
+| Master | 8 | 30 | You can bind elementals you summon to ritually prepared objects. Preparing an object is part of the summoning ritual and costs 1sp/Pale of the elemental in exotic materials. Once bound, the elemental will remain within the object for 1 week, plus one/10 points of margin of success. A bound elemental may be released at any time to serve you normally. |
+| Lord | 15 | 40 | When you summon or contact an Elemental of the Third Pale or less, you can make a Luck roll. If you’re successful, you automatically get to know its True Name.Additionally, if you know the True Name of an elemental, you may summon it instantly, without any summoning ritual (you still need a successful Summoning roll to do it, though) |
+
+### Animist
+
+Prerequisites: Summoner
+
+Incompatible with: Demonologist, Elementalist, Mad Summoner
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Apprentice | 2 | 20 | You can choose to summon Spirits without rising your Summoning roll difficulty. |
+
+### Mad Summoner
+
+Prerequisites: Summoner
+
+Incompatible with: Demonologist, Elementalist, Animist
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Apprentice | 2 | 20 | You can choose to summon Outsiders without rising your Summoning roll difficulty. |
+
+### Speaker of Names
+
+Prerequisites: Summoner
+
+Incompatible with: None
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 2 | 20 | You learn the True Name of an entity of the First Pale |
+| 6 | 30 | You learn the True Name of an entity of the Second Pale |
+| 11 | 40 | You learn the True Name of an entity of the Third Pale |
+| 16 | 50 | You learn the True Name of an entity of the Fourth Pale |
+| 21 | 60 | You learn the True Name of an entity of the Fifth Pale |
+
+
+
+## Path of Magic
+
+### Magician
+
+Prerequisites: None
+
+Incompatible with: None
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Magician of the First Order | 1 | 10 | You can learn up to IN/10 Arcane spells with a maximum Power of 10 or less |
+| Magician of the Second Order | 3 | 25 | You can learn up to IN/5 Arcane spells with a maximum Power of 12 or less |
+| Magician of the Third Order | 5 | 30 | You can learn up to IN/4 Arcane spells with a maximum Power of 15 or less |
+
+### Sorcerer
+
+Prerequisites: Magician of the Third Order
+
+Incompatible with: Wizard, Theurgist
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Apprentice Sorcerer | 7 | 30 | You can learn up to IN/3 Arcane spells with a maximum Power of 17 or less |
+| Sorcerer | 9 | 30 | You can learn up to IN/2 Arcane spells with a maximum Power of 19 or less |
+| Master Sorcerer | 12 | 40 | You can learn up to INx0.6 Arcane spells with a maximum Power of 21 or less |
+| Lord Sorcerer | 14 | 40 | You can learn up to INx0.8 Arcane spells with a maximum Power of 22 or less |
+| Supreme Sorcerer | 16 | 50 | You can learn up to IN Arcane spells with a maximum Power of 24 or less |
+| Legendary Sorcerer | 18 | 80 | You can learn up to IN Arcane spells of any Power |
+
+
+
+### Wizard
+
+Prerequisites: Magician of the Third Order
+
+Incompatible with: Sorcerer, Hierophant
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Apprentice Wizard | 8 | 40 | You can learn up to IN/3 Arcane spells of any Power. When you fail a spell casting maneuver, add the Power of the spell you were casting to your Spell Failure roll.Additionally, whenever you roll doubles on a spell casting maneuver, you’ll be affected by an Arcane Surge. |
+| WIzard | 10 | 40 | You can learn up to IN/2 Arcane spells of any Power. When you fail a spell casting maneuver, add the Power of the spell you were casting to your Spell Failure roll.Additionally, whenever you roll doubles on a spell casting maneuver, you’ll be affected by an Arcane Surge. |
+| Master Wizard | 14 | 60 | You can learn up to INx0.6 Arcane spells of any Power. When you fail a spell casting maneuver, add the Power of the spell you were casting to your Spell Failure roll.Additionally, whenever you roll doubles on a spell casting maneuver, you’ll be affected by an Arcane Surge. |
+| Lord Wizard | 16 | 80 | You can learn up to IN spells of any Power. When you fail a spell casting maneuver, add the Power of the spell you were casting to your Spell Failure roll.Additionally, whenever you roll doubles on a spell casting maneuver, you’ll be affected by an Arcane Surge. |
+| Supreme Wizard | 20 | 120 | You can learn up to INx0.8 spells of any Power.Whenever you roll doubles on a spell casting maneuver, you’ll be affected by an Arcane Surge. |
+
+
+
+## Magician Specialties
+
+### Blood Magic
+
+Prerequisites: Magician of the First Order
+
+Incompatible with: Other Magician Specialties talents
+
+You have learned how to channel the power of blood and suffering to aid your spell casting attempts.
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Blood-letter | 3 | 10 | When you cast a spell you may choose to injure yourself with a sharp object to gain a bonus to your spell casting maneuver: for each point of damage you inflict to yourself you gain a +5 bonus to your attempt (note that you must actually roll for the damage you deal to yourself, you cannot choose how many Hit Points you lose). |
+| Torturer | 5 | 30 | You can torture others to gain a bonus to you spell casting maneuvers: inflicting a Crippling wound gives you a +10 bonus, while a Destroying wound gives you a +30 bonus. This bonus last a day, or until you cast your first spell. You can gain up to a +50 bonus to a single spell casting attempt this way. Note that you must ritually torture your victims to gain the bonus, merely hurting them won’t be enough. If you victim dies in the process, the bonus is lost. |
+
+### Compartmentalized Mind
+
+Prerequisites: None
+
+Incompatible with: None
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 10 | 30 | You can perform the Spell Cast Action more than once per round.You must split your Spell Casting total bonus among the Spell Cast Actions you choose to perform in the round. |
+| 15 | 50 | You can perform the Spell Cast Action more than once per round.You use your whole Spell Casting total bonus for each Spell Cast Action. |
+
+
+
+## Path of Corruption
+
+### Dark Mage
+
+Prerequisites: Magician of the First Order
+
+Incompatible with: None
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 2 | 10 | You can use Dark Power Points to cast spells. When concentrating, you can choose to raise your Dark Power Points instead of you PPs. |
+
+### Dark Rage
+
+Prerequisites: Dark Mage
+
+Incompatible with: None
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 3 | 10 | Whenever you cast an attack spell that deals damage using your Dark PPs, that spell deals 1 more point of damage per damage die rolled (i.e. a spell normally dealing 2d4+2 points of damage will deal 2d4+4 points of damage, and a spell dealing 3d6 points of damage will deal 3d6+3 points of damage instead). |
+
+### Dark Eloquence
+
+Prerequisites: Dark Mage
+
+Incompatible with: None
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 2 | 10 | You ignore penalties for not being able to speak when you cast a spell using you Dark PPs. |
+| 8 | 20 | You also ignore penalties for not being able to gesture when you cast a spell using your Dark PPs. You can cast spell even if silenced and unable to move. |
+
+### Dark Quickening
+
+Prerequisites: Dark Mage
+
+Incompatible with: None
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 5 | 20 | When you cast a spell using your Dark PPs, you gain a bonus of +30 to you casting maneuver if you prepare the spell for 1 round, instead of the normal preparation bonus (this bonus isn’t cumulative with the normal preparation bonus). |
+| 10 | 30 | You can cast spells during your extra Action Passes if you use your Dark PPs, even if you normally couldn’t. |
+
+### Dark Power
+
+Prerequisites: Dark Mage
+
+Incompatible with: None
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 10 | 30 | Whenever you cast a spell using your Dark PPs, you can choose to double the base number of targets of that spell, or to double the base Area of Effect of that spell. |
+
+
+
+## Path of Faith
+
+Patron
+ Priest
+ Hierophant
+ Theurgist
+
+### Patrons
+
+#### Patron: Mithra
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | By spending 10PPs and holding your holy symbol, you can try to drive off corrupted creatures. Make an attack, using your Attunement bonus. Every demon and corrupted creature within a 3m radius must pass a Magical RR or suffer 1d8 holy area damage that ignores armor and be forced to run away for 1rnd/10 points of margin of failure. Missed creatures still suffer half of that damage, but are not forced to flee. |
+
+#### Patron: Ishtar
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | Your Medicine maneuvers made to treat someone’s wound always heal an additional 1d6 hp (distributed as you wish among his locations), even if your maneuver fails. Each creature can benefit from this additional healing once a day.Your failed Medicine maneuvers never worsen your patient’s condition. |
+
+#### Patron: Kur
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | By spending 10PPs and holding your holy symbol, you can try to drive off undead. Make an attack, using your Attunement bonus. Every undead within a 3m radius must pass a Magical RR or suffer 1d8 holy area damage that ignores armor and be forced to run away for 1rnd/10 points of margin of failure. Missed creatures still suffer half of that damage, but are not forced to flee. |
+
+#### Patron: Thurms
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | You can add your level to all melee damage you deal to demons and corrupted creatures. Additionally, if you make a melee attack against a demon and miss it, you still deal Body damage equal to half your level (rounded up) to it. |
+
+#### Patron: Gog
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | Once per week, you can permanently change your appearance, altering your facial features and hairs color. You cannot change sex, race, height or weight, nor you can choose to mimic the aspect of a specific individual, but you can otherwise alter your look as you prefer. Once you’ve changed your face, you can never go back to back to that particular look, not even by magic. |
+
+#### Patron: Yogh
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | You can communicate with spiders (both monstrous and natural animals), and arachnids will see you as one of their kind.Additionally, you can concentrate for one round to issue a command to a spider of animal intelligence that you can see. The animal will be compelled to follow you instructions at the best of its capabilities. |
+
+#### Patron: Heis
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | Once per day, you can impart Heis blessing on a willing target, by laying your hands on him. He will be frenzied for 1d4 rounds. Neither you nor the target will be able to tell how long this status will last. |
+
+#### Patron: Ahriman
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Level | DP Cost | Description |
+| 1 | 10 | Whenever you gain Dark CPs, you gain an additional CP. By showing allegiance to your Master, you can always parley with demons, even free-willed ones or those summoned via a failed summoning attempt. Note that this doesn’t mean they’ll accept your offer, it just grants you a chance of speaking with them.Additionally, you gain an Imp familiar. |
+| 4 | 0 | You must pass the Trial of Injustice to buy this Talent. You can spend 10 Luck Points to redirect a spell cast against yourself to another target of your choice within range.  |
+| 8 | 0 | You must pass the Trial of Betrayal to buy this Talent. Once per day, if you fail a RR you can have an adjacent ally suffer the failure effects in your stead. |
+| 12 | 0 | You must pass the Trial of Blasphemy to buy this Talent. You gain 20 Base PPs. |
+| 16 | 0 | You must pass the Trial of Sacrilege to buy this Talent. By concentrating and spending 10PPs, you can try to command a demon you can see. Make an attack, using your Attunement bonus against its Magical RR. If you succeed, the demon must follow your orders for 1h/10 points of failure. |
+| 20 | 0 | You must pass the Trial of Hate to buy this Talent. By spending 10PPs and holding your holy symbol, you can try to drive off non-corrupted creatures. Make an attack, using your Attunement bonus. Every non-corrupted creature within a 3m radius must pass a Magical RR or suffer 1d6 unholy area damage that ignores armor and be forced to run away for 1rnd/10 points of margin of failure. Missed creatures still suffer half of that damage, but are not forced to flee. |
+
+### Priest
+
+Prerequisites: Patron
+
+Incompatible with: None
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Priest of the First Order | 1 | 10 | You can learn up to IN/10 Divine spells with a maximum Power of 10 or less |
+| Priest of the Second Order | 3 | 25 | You can learn up to IN/5 Divine spells with a maximum Power of 12 or less |
+| Priest of the Third Order | 5 | 50 | You can learn up to IN/4 Divine spells with a maximum Power of 15 or less |
+
+Each of these talents has the talent right before it as an additional prerequisite (except for Initiate of the First Order).
+
+### Hierophant
+
+Prerequisites: Priest of the Third Order
+
+Incompatible with: Theurgist, Wizard
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Hierophant Initiate | 7 | 50 | You can learn up to IN/3 Divine spells with a maximum Power of 17 or less |
+| Hierophant | 9 | 60 | You can learn up to IN/2 Divine spells with a maximum Power of 19 or less |
+| Master Hierophant | 12 | 60 | You can learn up to INx0.6 Divine spells with a maximum Power of 21 or less |
+| High Hierophant | 14 | 70 | You can learn up to INx0.8 Divine spells with a maximum Power of 22 or less |
+| Supreme Hierophant | 16 | 70 | You can learn up to IN Divine spells with a maximum Power of 24 or less |
+| Legendary Hierophant | 18 | 100 | You can learn up to IN Divine spells of any Power |
+
+### Theurgist
+
+Prerequisites: Priest of the Third Order
+
+Incompatible with: Hierophant, Sorcerer
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Name | Level | DP Cost | Description |
+| Theurgist | 10 | 50 | You can learn up to IN/2 Divine spells with a maximum Power of 15 or less |
+| High Theurgist | 15 | 80 | You can learn up to IN Divine spells with a maximum Power of 20 or less |
+| Supreme Theurgist | 20 | 120 | You can learn up to INx2 Divine spells of any Power |

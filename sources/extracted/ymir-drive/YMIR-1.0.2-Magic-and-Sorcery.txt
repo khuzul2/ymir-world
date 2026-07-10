@@ -1,0 +1,839 @@
+SOURCE: Google Drive — YMIR 1.0.2 - Magic and Sorcery.docx (fileId 0B51K1jhM2wrFdWJvM0pjVERPNkU)
+
+YMIR
+
+of magic and sorcery
+
+
+
+# Table of Contents
+
+[Table of Contents ](#_Toc345444483)[2](#_Toc345444483)
+
+[The Pillars ](#_Toc345444484)[3](#_Toc345444484)
+
+[Leagues ](#_Toc345444485)[4](#_Toc345444485)
+
+[Quests ](#_Toc345444486)[Error\! Bookmark not defined.](#_Toc345444486)
+
+[Actions ](#_Toc345444487)[5](#_Toc345444487)
+
+[Characters ](#_Toc345444488)[6](#_Toc345444488)
+
+[Character Creation ](#_Toc345444489)[6](#_Toc345444489)
+
+[Stats ](#_Toc345444490)[8](#_Toc345444490)
+
+[Permanent Attributes ](#_Toc345444491)[9](#_Toc345444491)
+
+[Temporary Attributes ](#_Toc345444492)[16](#_Toc345444492)
+
+[Skills ](#_Toc345444493)[19](#_Toc345444493)
+
+[Talents ](#_Toc345444494)[28](#_Toc345444494)
+
+[Character Development ](#_Toc345444495)[34](#_Toc345444495)
+
+[Developing Skills ](#_Toc345444496)[34](#_Toc345444496)
+
+[When all points are spent, the marks are cleared from the character sheet. ](#_Toc345444497)[34](#_Toc345444497)
+
+[Developing Stats ](#_Toc345444498)[34](#_Toc345444498)
+
+[Acquiring Talents ](#_Toc345444499)[35](#_Toc345444499)
+
+[Limitations to Character Development ](#_Toc345444500)[35](#_Toc345444500)
+
+[Magic ](#_Toc345444501)[36](#_Toc345444501)
+
+[Casting Spells ](#_Toc345444502)[36](#_Toc345444502)
+
+[Entity summoning and contracting ](#_Toc345444503)[40](#_Toc345444503)
+
+[Combat ](#_Toc345444504)[42](#_Toc345444504)
+
+[Example of Combat ](#_Toc345444505)[43](#_Toc345444505)
+
+[Combat Actions ](#_Toc345444506)[44](#_Toc345444506)
+
+[Positioning ](#_Toc345444507)[50](#_Toc345444507)
+
+[Battle Fields ](#_Toc345444508)[50](#_Toc345444508)
+
+[Generic Weapons and Attacks ](#_Toc345444509)[51](#_Toc345444509)
+
+[Wounds, Healing and Recovery ](#_Toc345444510)[52](#_Toc345444510)
+
+[Hit Points ](#_Toc345444511)[52](#_Toc345444511)
+
+[Penalties ](#_Toc345444512)[52](#_Toc345444512)
+
+[Soul Damage ](#_Toc345444513)[53](#_Toc345444513)
+
+[Stats Degradation ](#_Toc345444514)[53](#_Toc345444514)
+
+[Suffocation ](#_Toc345444515)[53](#_Toc345444515)
+
+[Adventuring ](#_Toc345444516)[54](#_Toc345444516)
+
+[Travelling ](#_Toc345444517)[54](#_Toc345444517)
+
+[Substances: Herbs, Drugs and Poison ](#_Toc345444518)[58](#_Toc345444518)
+
+[Alchemic Composites ](#_Toc345444519)[58](#_Toc345444519)
+
+[Poisons ](#_Toc345444520)[58](#_Toc345444520)
+
+
+
+# Magic
+
+## Domains and Spells
+
+### Learning
+
+In order to cast spells, character must be acquainted with one or more Domains, by having access to the appropriate knowledge in form of a willing teacher.
+
+After he accessed the knowledge, the character can get acquainted to the Domain by purchasing the talent Sorcery (Domain) at the cost of 10 Development Points.
+
+The character can learn Spells from Domains he is acquainted with. In order to learn a spell, the character must have access to the appropriate Spell Tome and purchase the talent Arcane Arts (Spell – Domain) at the cost of 5 Development Points.
+
+## Casting Spells
+
+### Outside combat
+
+Casting spells outside combat is straightforward. Every spells takes some time to be cast during which the caster performs the appropriate ritual.
+
+The casting time is 1 minute per Level of the spell
+
+While casting a spell, the character can take no other action. At the end of the casting time, the caster performs the appropriate Spell Casting roll.
+
+If the roll successful the spell works as intended, otherwise nothing happens. In the case of a fumble, which is a natural 01 on the die roll or if the roll totals below zero, the caster must take a Spell Failure Roll.
+
+If the spell level is above the caster’s level, a Spell Failure Roll must be taken whenever the roll is not successful.
+
+### During combat
+
+Casting spells during combat is a very demanding activity. Everything must be hurried, and the caster needs to access his inner energy reserve in form of Power Points. The Power Point cost of a spell is equal to the spell level.
+
+Casting a spell is accomplished by taking a Cast a Spell Action, and thus performing a Spell Casting roll.
+
+If the roll is successful the spell works as intended, otherwise the caster must take a Spell Failure Roll.
+
+### Casting Standard Spells
+
+Spell Casting Roll
+
+Spell Works as intended
+
+Spell Failure Roll
+
+FAIL
+ SUCCESS
+
+
+
+### Casting Force Spells
+
+Spell Casting Roll
+
+Spell Works as intended
+
+Spell Failure Roll
+
+FAIL
+ FAIL
+ Target Resistance Roll
+
+FUMBLE
+ SUCCESS
+ Spell Resisted
+
+SUCCESS
+ FAIL
+
+### Casting Directed Spells
+
+Spell Casting Roll
+
+Spell works as a Combat – Ranged Attack
+
+Spell Failure Roll
+
+SUCCESS
+ FAIL
+
+
+
+### Spell Casting Roll
+
+Spell Casting roll difficulty is 100 + 10 per level of the spell.
+
+There may be modifiers to base difficulty:
+
+|  |  |
+| :-: | :-: |
+| Spell Casting Difficulty Modifiers |  |
+| Modifier | Option |
+| 25 | not talking |
+| 25 | no gestures |
+| 10 | Whispering |
+| 10 | subtle gestures |
+
+### Spell Failure Roll
+
+Apply all the eventual modifiers and roll on the appropriate Spell Failure Table.
+
+### Spell Attack Roll
+
+Make a Magic – Spell Attack skill roll against the target’s Resistance – Magical roll.
+
+### Directed Spells Roll
+
+Make a Magic – Directed Spells against the target’s Defensive Bonus on the appropriate attack table.
+
+
+
+## Entity summoning and contracting
+
+Spells and Rituals can be used to contact or transport entities from other planes. Some spells grant control over the summoned entity, while others just call the entity on the caster’s plane without granting any control.
+
+In the second case, it’s up to the summoner to communicate with the entity in order to make some deal. The entity will behave as its nature suggests, and will react to the summoner’s proposals according to the Game Master.
+
+### Dealing with Entities
+
+Usually, the Game Master will ask for an Influence Roll against a base DC of 100 for Mundane entities, altered by the kind of entity summoned and by its League.
+
+Influencing Heroic entities has a base DC of 125, Exemplary ones have DC 150, Lord entities have DC 200 and Epic entities have DC 250.
+
+Depending on how successful the Influence Roll has been, the entity will ask for a Price for the demanded service. If the Price is too high for the character, he may either not reach a deal with the entity, letting it free do to as it wishes, typically returning to its plane. Otherwise he may try to subdue the entity into giving him the Service by fighting it.
+
+### Leagues and Services
+
+Mundane entities sono relativamente facili da convocare e piegare ai propri voleri, ma hanno delle capacità piuttosto limitate. In genere sono in grado di combattere contro i nemici dell'evocatore; custodire un luogo per un periodo limitato (un numero di giorni pari ai ranghi in Stregoneria dell'evocatore); trasportare fisicamente cose e persone da un luogo all'altro (nei limiti delle loro capacità) o raccogliere informazioni esplorando il mondo materiale di persona, usando i propri sensi. Molte entità della prima cerchia hanno un'intelligenza limitata, di poco superiore a quella animale.
+
+Heroic entities are more versatile: oltre a poter svolgere le stesse funzioni degli esseri di cerchie inferiori con maggior efficienza, spesso hanno accesso a qualche limitato potere magico e possono individuare la posizione di cose senza doversi muovere fisicamente (un'abilità condivisa anche dagli spiriti superiori, la cui percentuale di successo dipende dalla cerchia di appartenenza: per quelle della terza è pari al 10%, per la quarta al 30%, quinta 60% e sesta 90%).
+
+Exemplary entities can offer all of the lesser Leagues services, il più delle volte conoscono diversi incantesimi; sono in grado di teletrasportare singole persone od oggetti attraverso spazi limitati nel mondo materiale (in genere, 100 metri per livello); possono custodire luoghi per un numero di settimane pari ai ranghi di stregoneria dell'evocatore e possono rispondere a fino a tre domande sì/no riguardo ad un argomento (con accuratezza identica a quella di trovare gli oggetti).
+
+Lord entities are extremelu powerful, dispongono di numerose formule e spesso di altre conoscenze o capacità arcane precluse ai mortali. Possono teletrasportare diverse (una per livello) persone od oggetti attraverso spazi limitati nel mondo materiale o un numero minore attraverso lunghe distanze (fino a 10km per livello per piccoli gruppi di 3-4 individui) o custodire luoghi per un numero di anni pari ai ranghi di Stregoneria dell'evocatore.
+
+Epic entities are the most powerful and dangerous. Oltre alle capacità elencate prima, sono in grado di trasportare persone ed oggetti attraverso i piani, custodire luoghi per un numero di decenni pari ai ranghi di Stregoneria dell'evocatore; conferire poteri magici ad oggetti; distruggere oggetti incantati e molto altro.
+
+### Paying the Price
+
+L'effettiva natura del prezzo richiesto dipende dall'origine dell'entità evocata: i demoni pretenderanno offerte molto diverse da quelle chieste dagli elementali o dalle creature del Vuoto. Nel caso in cui il prezzo includa un guadagno di punti Corruzione, è sottointeso che si tratta di Corruzione Oscura nel caso l'entità evocata sia un demone; Corruzione Elementale se invece è un elementale e Follia se si tratta di un essere del Vuoto.
+
+Mundane: l'evocatore paga il servigio consegnando all'entità un oggetto magico o di valore.
+
+Heroic: l'evocatore deve portare il marchio indelebile dell'entità o del suo padrone sul suo corpo, in un luogo ben visibile. Il marchio in seguito può essere coperto (anche se tenderà a mostrarsi nei momenti meno opportuni) ma non può essere cancellato. Nel momento in cui accetta un marchio, il personaggio riceve 1d10 punti Corruzione.
+
+Exemplary: l'evocatore paga il servigio con un altro servigio, come la costruzione di un santuario in nome dell'entità o l'uccisione di un suo nemico (ad esempio, uno stregone che conosce il suo Vero Nome).
+
+Lord: l'evocatore cede parte della propria Essenza all'entità, in segno di sottomissione o come pagamento. In termini di gioco, ciò significa che il personaggio guadagna 5d10 punti Corruzione. Se ciò basta a portare i suoi PC sopra il 100, l'entità potrà divorare la sua anima a termine del servigio.
+
+Epic: l'evocatore offre un'anima all'entità. Può essere la propria, quella di un altro essere senzienta che la offre spontaneamente, oppure quella di una vittima inerme e ritualmente preparata. Offrire la propria anima equivale a guadagnare immediatamente 100 punti Corruzione.
+
+Ecatombe: l'evocatore offre 10 o più anime all'entità, secondo le modalità descritte nel prezzo precedente.
+
+## Domains
+
+Domains represent the spheres of Magic.
+
+
+
+### Elemental Domains
+
+#### Fire
+
+Heat critical hits
+
+#### Ice
+
+Frost critical hits
+
+#### Air
+
+Impact critical hits
+
+#### Earth
+
+Impact critical hits
+
+#### Water
+
+Impact critical hits
+
+#### Light
+
+Electricity critical hits
+
+#### Darkness
+
+Void critical hits
+
+#### Æther
+
+Aether critical hits
+
+#### Nether
+
+Nether critical hits
+
+
+
+### Natural Domains
+
+#### Plant
+
+Aa
+
+#### Animal
+
+Aa
+
+#### Poison
+
+Poison Critical Hits
+
+#### Time
+
+Rot/Decay/Age/Flesh/(Un)death Critical Hits
+
+#### Life
+
+Aa
+
+#### Death
+
+Rot/Decay/Age/Flesh/(Un)death Critical Hits
+
+### Planar Domains
+
+#### Demonic
+
+Aaa
+
+#### Spiritual
+
+Spirit/Soul Critical Hits
+
+#### Astral
+
+Aa
+
+
+
+### Humane Domains
+
+#### Mental
+
+Mind/Sanity Critical Hits
+
+#### Physical
+
+Rot/Decay/Age/Flesh/(Un)death Critical Hits
+
+## Spells
+
+Spells represent specific formulas that work in one or more Domains.
+
+Each spell is structured as follows:
+
+Spell Name
+
+Aaa
+
+Domain(s)
+
+Aaa
+
+Base Cost
+
+Aaa
+
+Duration
+
+Aaa
+
+Range
+
+Defines how far from the caster the point of effect of the spell can be.
+
+Effects
+
+Aaa
+
+Area/Target(s)
+
+Aaa
+
+A spell might have one or more options that increase its cost in PP and, consequently, its level and casting difficulty.
+
+
+
+### Direct Magical Attack
+
+This spell enables the caster to directly attach one or more targets by using one domain’s Magic to disrupt the body, the mind or both.
+
+Domain(s)
+
+Elemental Domains (All)
+
+Natural Domains (Poison, Time, Death)
+
+Planar Domains (Spiritual)
+
+Humane Domains (Mental, Physical)
+
+Base Cost
+
+0 PP (difficulty 100)
+
+Duration
+
+1 Action (1 sec)
+
+\+3PP for each additional Action (1 sec)
+
+Range
+
+Touch
+
+\+1 PP for every 10 Actions (30m)
+
+Effects
+
+Spell Casting roll as a Combat-Ranged Attack. Base damage is caster's IN
+
+\+2 PP for each additional d10, max 10d10
+
+Critical hits based on the Domain
+
+Area/Target(s)
+
+1 target
+
+\+2PP for all in melee range with primary target (1 Action/3m), +2PP for each additional Action (3m) of additional range
+
+
+
+### Entity Summon
+
+This spell enables the caster to summon an entity.
+
+Domain(s)
+
+Elemental Domains (All)
+
+Natural Domains (Plant, Animal, Death)
+
+Planar Domains (Demonic, Spiritual, Astral)
+
+Base Cost
+
+0 PP (difficulty 100)
+
+Area/Target(s)
+
+1 target
+
+\+2PP for all in melee range with primary target (1 Action/3m), +2PP for each additional Action (3m) of additional range
+
+Duration
+
+Summoned entity appears at 3m from the caster over the course of 1 Round/3 Actions
+
+Range
+
+Summon from same plane: +1PP for 1Km, +2PP for 10Km, +3PP for 100Km, +4PP for 1000Km, +5PP for whole Planet
+
+Summon from other plane: +5PP for Demonic, Spiritual, Astral or Elemental, based on Domain
+
+Effects
+
+Spell Casting roll as a Combat-Ranged Attack. Base damage is caster's IN
+
+\+2 PP for each additional d10, max 10d10
+
+Critical hits based on the Domain
+
+
+
+### Soul Extirpation
+
+This spell enables the caster to forcedly extirpate a target soul from its natural or artificial vessel. The soul is disembodied for a limited time, then returns to its original vessel.
+
+This spell is considered evil and unnatural by most.
+
+Domain(s)
+
+Natural Domains (Death, Life)
+
+Planar Domains (Demonic, Spiritual)
+
+Base Cost
+
+5 PP (difficulty 150)
+
+Area/Target(s)
+
+\+0 PP: 1 soul
+
+\+ 5 PP: 1 additional soul
+
+Duration
+
+\+0 PP: The effect takes place over the course of 1 Minute (60 Rounds)
+
+\+3 PP: The effect takes place over the course of 1 Round (3 Actions)
+
+\+5 PP: The effect takes place over the course of 1 Action
+
+\+0 PP: The soul is disembodied for 3 Seconds/1 Round/3 Actions.
+
+\+2 PP: The soul is disembodied for additional 3 Seconds/1 Round/3 Actions
+
+\+10 PP: The soul is disembodied for 10 minutes
+
+Range
+
+\+0 PP: Touch
+
+\+1 PP for each 3m (1 Action), max 30m
+
+
+
+### Soul Transfer
+
+This spell enables the caster to transfer a target disembodied soul to an empty vessel. The soul is no longer disembodied and takes control of the vessel.
+
+This spell is considered evil and unnatural by most when used for aims different than returning a soul to its original body.
+
+Domain(s)
+
+This spell in the Demonic Domain only affects souls of Demons.
+
+Natural Domains (Death, Life)
+
+Planar Domains (Demonic, Spiritual)
+
+Base Cost
+
+5 PP (difficulty 150)
+
+Area/Target(s)
+
+1 disembodied soul
+
+Duration
+
+Effect on affected soul(s) is permanent.
+
+\+0 PP: The effect takes place over the course of 1 Minute (60 Rounds)
+
+\+3 PP: The effect takes place over the course of 1 Round (3 Actions)
+
+\+5 PP: The effect takes place over the course of 1 Action
+
+Range
+
+Touch
+
+\+1 PP for each 3m (1 Action), max 30m
+
+
+
+### Soul Exchange
+
+This powerful spell allows the caster to exchange two souls, effectively switching the control of their vessels or bodies.
+
+Perform a Magic – Spell Casting vs Resistance – Magical of both targets to transfer the soul from one target to the other and vice-versa.
+
+This spell is often considered evil and unnatural.
+
+Domain(s)
+
+Natural Domains (Death)
+
+Planar Domains (Spiritual)
+
+Base Cost
+
+10 PP (difficulty 200)
+
+Area/Target(s)
+
+2 targets
+
+Duration
+
+Effect on affected soul(s) is permanent.
+
+\+0 PP: The effect takes place over the course of 1 Minute (60 Rounds)
+
+\+3 PP: The effect takes place over the course of 1 Round (3 Actions)
+
+\+5 PP: The effect takes place over the course of 1 Action
+
+Range
+
+Touch
+
+\+1 PP for each 3m (1 Action), max 30m
+
+
+
+### Soul Trap
+
+This spell enables the caster to put a disembodied soul into an inanimate object.
+
+Domain(s)
+
+Natural Domains (Plant, Animal, Death, Life)
+
+Planar Domains (Demonic, Spiritual)
+
+Base Cost
+
+10 PP (difficulty 200)
+
+Area/Target(s)
+
+1 disembodied
+
+\+2PP for all in melee range with primary target (1 Action/3m), +2PP for each additional Action (3m) of additional range
+
+Duration
+
+\+ 0 PP: Effect on affected soul(s) is permanent.
+
+\+ 0 PP: The effect takes place over the course of 1 Action
+
+Range
+
+\+0 PP: Touch
+
+\+1 PP: Add 3m (1 Action), max 30m
+
+
+
+### Soul Banishment
+
+This spell enables the caster to manipulate souls.
+
+Domain(s)
+
+Natural Domains (Death)
+
+Planar Domains (Spiritual)
+
+Base Cost
+
+0 PP (difficulty 100)
+
+Area/Target(s)
+
+1 target
+
+\+2PP for all in melee range with primary target (1 Action/3m), +2PP for each additional Action (3m) of additional range
+
+Duration
+
+Effect on affected soul(s) is permanent.
+
+\+0 PP: The effect takes place over the course of 1 Minute (60 Rounds)
+
+\+3 PP: The effect takes place over the course of 1 Round (3 Actions)
+
+\+5 PP: The effect takes place over the course of 1 Action
+
+Range
+
+Touch
+
+\+1 PP for each 3m (1 Action), max 30m
+
+Effects
+
+Plant and Animal Domains:
+
+Targets must be Plants or Animals, depending on the Domain
+
+Soul Transfer (+5PP): Magic – Spell Casting vs Resistance – Magical to transfer the soul from the target to an object.
+
+Soul Switch (+10PP): Magic – Spell Casting vs Resistance – Magical of both targets to transfer the soul from one target to the other and vice-versa.
+
+Soul Trap (+10PP): Magic – Spell Casting roll vs Resistance – Magical to transfer the soul from the target to an object, leaving the target disembodied.
+
+Soul Banishment (+15PP): Magic – Spell Casting roll vs Resistance – Magical to banish the soul from the target to the Astral plane.
+
+Soul Destruction (+15PP): Magic – Spell Casting roll vs Resistance – Magical to destroy target’s soul, leaving a soulless body in vegetating state.
+
+Life Domain:
+
+Soul Switch (+10PP): Magic – Spell Casting vs Resistance – Magical of both targets to transfer the soul from one target to the other and vice-versa.
+
+Soul Trap (+10PP): Magic – Spell Casting roll vs Resistance – Magical to transfer the soul from the target to an object, leaving the target disembodied.
+
+Soul Preservation (+10PP): Anchors the soul to a body, thus preventing it from leave it unless the body is utterly destroyed. Grants an additional Resistance – Magical roll against other soul manipulation spells.
+
+Soul Restore (+20PP): Restores the original Soul of the targeted dead body into the body itself. If the body can sustain life, which means it is healed and not rotting or decayed, it is brought back to life.
+
+Death Domain:
+
+Soul Switch (+10PP): Magic – Spell Casting vs Resistance – Magical of both targets to transfer the soul from one target to the other and vice-versa.
+
+Soul Trap (+10PP): Magic – Spell Casting roll vs Resistance – Magical to transfer the soul from the target to an object, leaving the target disembodied.
+
+Soul Banishment (+15PP): Magic – Spell Casting roll vs Resistance – Magical to banish the soul from the target to the Astral plane.
+
+Soul Destruction (+15PP): Magic – Spell Casting roll vs Resistance – Magical to destroy target’s soul, leaving a soulless body in vegetating state.
+
+Soul Force (+20PP): Magic – Spell Casting roll vs Resistance – Magical to forces target soul into target dead, soulless body. The targeted soul takes control of it, creating a sentient undead depending on the nature of the soul and the body that have been united.
+
+Demonic Domain:
+
+Primary target must be a Demon, secondary target can vary depending on the chosen effect.
+
+Spiritual Domain:
+
+Soul Merge
+
+Soul Healing
+
+Area/Target(s)
+
+1 or 2 targets, depending on effect.
+
+### Soul Destruction
+
+This spell enables the caster to manipulate souls.
+
+Domain(s)
+
+Natural Domains (Death)
+
+Planar Domains (Spiritual)
+
+Base Cost
+
+0 PP (difficulty 100)
+
+Area/Target(s)
+
+1 target
+
+\+2PP for all in melee range with primary target (1 Action/3m), +2PP for each additional Action (3m) of additional range
+
+Duration
+
+Effect on affected soul(s) is permanent.
+
+\+0 PP: The effect takes place over the course of 1 Minute (60 Rounds)
+
+\+3 PP: The effect takes place over the course of 1 Round (3 Actions)
+
+\+5 PP: The effect takes place over the course of 1 Action
+
+Range
+
+Touch
+
+\+1 PP for each 3m (1 Action), max 30m
+
+Effects
+
+Soul Destruction (+15PP): Magic – Spell Casting roll vs Resistance – Magical to destroy target’s soul, leaving a soulless body in vegetating state.
+
+Area/Target(s)
+
+1 or 2 targets, depending on effect.
+
+### Soul Merge
+
+This spell enables the caster to manipulate souls.
+
+Domain(s)
+
+Planar Domains (Spiritual)
+
+Base Cost
+
+0 PP (difficulty 100)
+
+Area/Target(s)
+
+1 target
+
+\+2PP for all in melee range with primary target (1 Action/3m), +2PP for each additional Action (3m) of additional range
+
+Duration
+
+Effect on affected soul(s) is permanent.
+
+\+0 PP: The effect takes place over the course of 1 Minute (60 Rounds)
+
+\+3 PP: The effect takes place over the course of 1 Round (3 Actions)
+
+\+5 PP: The effect takes place over the course of 1 Action
+
+Range
+
+Touch
+
+\+1 PP for each 3m (1 Action), max 30m
+
+Effects
+
+Soul Destruction (+15PP): Magic – Spell Casting roll vs Resistance – Magical to destroy target’s soul, leaving a soulless body in vegetating state.
+
+Area/Target(s)
+
+1 or 2 targets, depending on effect.
+
+### Soul Healing
+
+This spell enables the caster to manipulate souls.
+
+Domain(s)
+
+Planar Domains (Spiritual)
+
+Base Cost
+
+0 PP (difficulty 100)
+
+Area/Target(s)
+
+1 target
+
+\+2PP for all in melee range with primary target (1 Action/3m), +2PP for each additional Action (3m) of additional range
+
+Duration
+
+Effect on affected soul(s) is permanent.
+
+\+0 PP: The effect takes place over the course of 1 Minute (60 Rounds)
+
+\+3 PP: The effect takes place over the course of 1 Round (3 Actions)
+
+\+5 PP: The effect takes place over the course of 1 Action
+
+Range
+
+Touch
+
+\+1 PP for each 3m (1 Action), max 30m
+
+Effects
+
+Soul Destruction (+15PP): Magic – Spell Casting roll vs Resistance – Magical to destroy target’s soul, leaving a soulless body in vegetating state.
+
+Area/Target(s)
+
+1 or 2 targets, depending on effect.
+
+### Create Soul Vessel
+
+This spell prepares a soulless body or an artificial construct for hosting a soul, thus becoming a vessel.

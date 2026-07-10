@@ -1,0 +1,53 @@
+[[File:Placeholder|right|300px]]
+
+<p style="text-align:justify">'''CORAZZA A PIASTRE DEL DIFENSORE: '''Una corazza indossata da paladini e guerrieri buoni per combattere il male.</p>
+
+<p style="text-align:justify">POTERI: Corazza a piastre completa (TA20) +5 , ingombra come TA17, +20 ai TR contro la Paura.</p>
+
+
+
+
+<p style="text-align:justify">'''SCUDO DEL DRAGO: '''Secondo la leggenda questo scudo fu forgiato col calore del fuoco di un drago.</p>
+
+<p style="text-align:justify">POTERI: Scudo Medio di Mithril +20, +10 al BD contro gli attacchi elementali, il portatore può spendere il 10% dell’azione per parare un attacco addizionale, praticamente indistruttibile.</p>
+
+
+
+===ELMO DEL LUPO: Elmo magico a forma di testa di lupo.===
+<p style="text-align:justify">POTERI: protegge come un elmo completo ma non impone penalità alle percezioni. Permette di lanciare “Paura” o “Sensi del Lupo” un volta al giorno.</p>
+
+
+
+
+<p style="text-align:justify">'''PELLE DI LUPO: ''' una corazza di maglia con attaccato un mantello di pelle di lupo.</p>
+
+<p style="text-align:justify">POTERI: TA13, +10 al BD, dimezza le penalità dovute alla mancanza di riparo quando si cerca di nascondersi all’aperto, se si fallisce il tiro di Nascondersi e si è all’aperto esiste il 20% di probabilità di essere scambiati per un lupo. </p>
+
+
+
+
+<p style="text-align:justify">'''CORAZZA DELL’IMMORTALE: '''una corazza a piastre finemente lavorata, le spalliere sembrano artigli e il pettorale raffigura la testa di un drago.</p>
+
+<p style="text-align:justify">POTERI: TA20 (+5) permette di ignorare un critico subito una volta all’anno.</p>
+
+
+
+
+<p style="text-align:justify">'''VESTE D’OSSA:''' una strana corazza fatta d’ossa e cuoio nero, pare sia appartenuta al Re Morto, alto sacerdote di Tuchulcha .</p>
+
+<p style="text-align:justify">POTERI: TA12 (ingombra come TA9), raddoppia il raggio dell’incantesimo “Undead Mastery” lanciato dal portatore, rende immuni al risucchio di energia dei Non Morti.</p>
+
+
+
+
+<p style="text-align:justify">'''ARMATURA DEL DESTINO OSCURO:''' Armatura da campo fatta di un metallo talmente nero da assorbire la luce, foggiata a forma di demone.</p>
+
+<p style="text-align:justify">POTERI: TA20 (ingombra come TA17), +20 al BD, riduce di un livello tutti i critici subiti, +25 ai TR e al BD contro la Luce e l’Elettricità, +10 a Sviluppo Corporeo.</p>
+
+
+
+
+<p style="text-align:justify">'''ARMATURA DELLE PROFONDITA’:''' armatura a piastre completa fatta di Bulusture, metallo corrotto dall’Acqua elementale. Armature di questo genere erano utilizzate da grandi guerrieri durante la Guerra delle Onde.</p>
+
+<p style="text-align:justify">POTERI: TA20 (ingombra come TA17), permette di muoversi liberamente sott’acqua e di respirare acqua come aria.</p>
+[[Category:Items]]

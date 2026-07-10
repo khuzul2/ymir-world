@@ -1,0 +1,65 @@
+SOURCE: Google Drive — Incantesimi.doc (Italian) (fileId 0B51K1jhM2wrFYll6WDIzVEpEWHc)
+
+SCUOLE DI MAGIA
+
+SCUOLE DI MAGIA
+
+DOMINIO ELEMENTALE
+
+Nota: è necessario imparare una versione diversa di questa scuola per ogni elemento che il mago vuole manipolare.
+
+Crea Elemento
+
+Potenza: 3
+
+Tipo: Utilità
+
+Raggio: 1m
+
+Bersaglio: speciale
+
+Durata: 1 ora
+
+Il mago crea una piccola quantità di elemento di fronte a sé. La quantità creata non è sufficiente a danneggiare od ostacolare alcuna creatura, ma può essere usata normalmente per la durata dell’incantesimo.
+
+Dardo Elementale
+
+Potenza: 5
+
+Tipo: Attacco Diretto
+
+Raggio: 30 m
+
+Bersaglio: 1 bersaglio
+
+Durata: -
+
+Il mago scaglia un dardo dell’elemento appropriato, causando 1d10 danni al bersaglio colpito. La Potenza di questo incantesimo può essere aumentata di 2 punti per incrementare il danno inflitto di 1d10 (fino ad un massimo di 5d10) e/o per aumentare di 30m il Raggio.
+
+Sfera Elementale
+
+Potenza: 8
+
+Tipo: Attacco Diretto
+
+Raggio: 30 m
+
+Bersaglio: 3m di raggio
+
+Durata: -
+
+Il mago crea un’esplosione di elemento nell’area designata, causando 1d8 di danni su ogni zona ad ogni creatura al suo interno. La Potenza di questo incantesimo può essere aumentata di 5 punti per incrementare il danno inflitto di 1d8 (fino ad un massimo di 5d8) aumentarne l’area di 1m e/o aumentare di 30m il Raggio.
+
+Muro Elementale
+
+Potenza: 6
+
+Tipo: Attacco
+
+Raggio: 30 m
+
+Bersaglio: Muro con 6m di lato
+
+Durata: 1 rnd/livello
+
+Il mago crea un sottile velo di sostanza elementale turbinante nel luogo indicato, con un lato di 6 metri e spesso pochi centimetri. Qualsiasi essere che attraversi il velo subisce 2d6 danni del tipo appropriato su ogni zona del corpo, senza possibilità di resistenza. Se il mago crea il muro in un punto occupato da delle creature, ognuna di esse ha diritto ad un TR contro la Magia: se lo supera può scegliere di posizionarsi immediatamente prima o dopo il muro. La Potenza di questo incantesimo può essere aumentata di 3 punti per incrementare il danno inflitto di 1d6 (fino ad un massimo di 6d6), aumentare la lunghezza del muro di 3m, o la durata di 1rnd/lvl.

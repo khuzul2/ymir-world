@@ -1,0 +1,35 @@
+SOURCE: Google Drive — Generatore di Situazioni Bifolche (Google Sheet) (fileId 1WRjJHdb5HS-5LCQd7sXFosk-2_W0sjD3XWPvCiiipHs)
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | \[merged\] Generatore di situazioni bifolche | \[merged\] Generatore di situazioni bifolche | \[merged\] Generatore di situazioni bifolche | \[merged\] Generatore di situazioni bifolche | \[merged\] Generatore di situazioni bifolche | \[merged\] Generatore di situazioni bifolche | \[merged\] Generatore di situazioni bifolche | \[merged\] Generatore di situazioni bifolche | \[merged\] Generatore di situazioni bifolche | \[merged\] Generatore di situazioni bifolche | \[merged\] Generatore di situazioni bifolche |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Count\_Suffisso | 1 |  |  |  |  |  |  |  |  |  |  |  |
+|  | Lookup\_Suffisso | tir1 |  |  |  |  |  |  |  |  |  |  |  |
+|  | Masch/fem/sing/pl | 5 |  |  |  |  |  |  |  |  |  |  |  |
+| luogo | soggetto1 | soggetto2 | soggetto3 | aggettivo1 | aggettivo2 | verbo1 | verbo2 | come | suffisso | chi |  |  |  |
+| In canonica | alcune | ragazz | e | gigant | i | tir | ano | sospettosamente | qualcosa a | un PG |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG | \[merged\] In canonica, alcune ragazze giganti tirano sospettosamente qualcosa a un PG |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | \[merged\] Generatore di PNG umanoidi | \[merged\] Generatore di PNG umanoidi | \[merged\] Generatore di PNG umanoidi | \[merged\] Generatore di PNG umanoidi | \[merged\] Generatore di PNG umanoidi | \[merged\] Generatore di PNG umanoidi | \[merged\] Generatore di PNG umanoidi | \[merged\] Generatore di PNG umanoidi | \[merged\] Generatore di PNG umanoidi | \[merged\] Generatore di PNG umanoidi | \[merged\] Generatore di PNG umanoidi |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Masch/fem | 1 |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | M/F | Agg1 | Sogg | Dim |  | Att1 |  | Att2 |  | Look1 | Look2 |  | Look3 |
+|  | un | affamato | gnomo | basso | , | dalle labbra carnose | e | particolarmente attento | , | vestito in abiti scuri | impugna un braccio mozzato | e | è adornato di gingilli senza valore |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore | \[merged\] un affamato gnomo basso, dalle labbra carnose e particolarmente attento, vestito in abiti scuri impugna un braccio mozzato e è adornato di gingilli senza valore |  |  |

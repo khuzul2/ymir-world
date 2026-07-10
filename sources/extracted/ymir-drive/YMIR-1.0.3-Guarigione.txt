@@ -1,0 +1,27 @@
+SOURCE: Google Drive — YMIR 1.0.3 - Guarigione.doc (Italian, healing) (fileId 0B51K1jhM2wrFdDdQQUd1THg3ODA)
+
+GUARIGIONE
+
+GUARIGIONE
+
+FIRST AID
+
+Una manovra di First Aid impiega 3 Azioni in combattimento (in cui si chi opera, sia il paziente devono rimanere fermi) e può:
+
+Guarire 1d4 pf a una location che non sia Crippled o Destroyed.
+
+Fermare tutto il sanguinamento, che però riprende se il paziente compie azioni brusche entro 10 minuti.
+
+Stabilizzare un personaggio morente. Non guarisce alcun pf se usato in questo modo, evita solamente che il PG muoia.
+
+Portare i PF di una location Crippled ad 1 sopra il quantitativo che la rende Crippled.
+
+Una volta applicato il First Aid ad una location, quella stessa location non può più essere curata in questo modo fino a che non si riprende completamente (torna a pieni pf).
+
+GUARIGIONE NATURALE
+
+Tutte le location non Crippled recuperano CO/10 pf al giorno se il personaggio non compie attività fisiche pesanti (come correre, combattere, nuotare, trasportare pesi, etc).
+
+Tutte le location Crippled recuperano 1pf al giorno se il personaggio non compie attività fisiche pesanti.
+
+Le location Destroyed possono essere guarite solo dalla magia.

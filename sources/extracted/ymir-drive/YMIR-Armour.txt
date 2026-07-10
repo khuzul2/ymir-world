@@ -1,0 +1,37 @@
+SOURCE: Google Drive — Armour.doc (fileId 0B51K1jhM2wrFb2h2TV9ITC1WX3c)
+
+Armour
+
+Armour
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Armour |  |  |
+| Type | Damage Resistance | Penalties |
+| Cloth | 1d4\* | 0 |
+| Leather | 3 | 0(-10) |
+| Hide | 4 | 0(-20) |
+| Scale | 5 | \-20(-30) |
+| Chainmail | 6 | \-20(-30) |
+| Plate | 7 | \-40(-50) |
+| \*see below |  |  |
+
+Armour Penalties
+
+Penalties in brackets are used for social actions, if armour is overtly worn in an inappropriate environment.
+
+Other penalties are applied to all character’s physical manoeuvres involving the location covered by the armor.
+
+Cloth Armour
+
+A character wearing only plain clothing can opt to reduce by 1d4 the damage dealt by a single attack against him. If he does, his clothing is torn and ragged in the process, and will offer no further protection.
+
+Stacking Armour
+
+If a character is wearing different layers of armour over a location, only the best one will be taken into account when computing damage.
+
+Damage Resistance coming from natural armour, on the other hand, is always added to that of worn armour.
+
+Special Materials
+
+Armour made of special materials can have a DR higher (or lower\!) than the listed one. For example, a Mithril Chainmail could have a DR of 8, or a Bronze Plate could have a DR of 6.

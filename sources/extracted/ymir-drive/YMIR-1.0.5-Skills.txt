@@ -1,0 +1,247 @@
+SOURCE: Google Drive — Ymir 1.0.5 Skills.doc (fileId 0B51K1jhM2wrFSUtXQ2pjZl9oa1U)
+
+Description of Skills
+
+YMIR – Basic Rules
+
+Description of Skills
+
+Resistances
+
+Resistances represent a Character’s ability to avoid adverse effects from various attacks. There are two resistances: Mental and Physical.
+
+Mental
+
+Mental resistance is 2xMR + 5 per level of the character and is used whenever a character must resist a mental attack spell or other magical forces that act against its mind.
+
+Mental resistance is also used whenever a character must resist madness and fear provoking situations, for example when she makes contact with alien minds such as demons or other extra planar creatures, or when she sees very fearful and disturbing things like massacres, some undead and some other monstrous creatures.
+
+The maximum bonus for Mental resistance is 250.
+
+Physical
+
+Physical resistance is 2xPR + 5 per level of the character and is used whenever a character must resist to poison, disease and other health impairing attacks, even from magical sources.
+
+The maximum bonus for Physical resistance is 250.
+
+General Skills
+
+Combat
+
+Melee (Type)
+
+Stats: ST/DE
+
+Is the ability to use one melee weapon group such as axes, swords, knives, maces and so on.
+
+Ranged (Type)
+
+Stats: DE/SD
+
+Is the ability to use one ranged weapon type such as bows, crossbows, directed spells and so on
+
+Thrown (Type)
+
+Stats: ST/SD
+
+Is the ability to throw objects at targets, it represents the ability to use directly thrown weapons such as rocks, axes, spears and so on.
+
+Unarmed
+
+Stats: ST/DE
+
+Is the ability to use one’s body as a weapon to attack and parry using sweeps, throws, strikes and so on.
+
+Dodge
+
+Stats: IN/DE
+
+It’s the ability to avoid incoming attacks by performing evasive movements, feints and such.
+
+
+Utility
+
+Acrobatics
+
+Stats: DE/SD
+
+It represents the ability to perform acrobatic maneuvers such as backflips, jumps, walking on ropes and so on.
+
+Easy Jump 2m horizontally, 1m vertically, Tumble on flat ground. Roll against 50
+
+Medium Roll against 100
+
+Hard Roll against 150
+
+Very Hard Roll against 200
+
+Sheer Folly Roll against 250
+
+Absurd Jump 10m horizontally, 3m vertically, perform a full gymnastic routine with a broken wrist, walk on a rope while fighting melee combat. Roll against 300
+
+Adventuring
+
+Stats: CO/SD
+
+Represents the ability to recognize animals and plants, search for particular herbs, train and deal with animals and so on. It’s also the ability to find water, food and shelter in generally wild and hostile environments, as well as to orienteer in unknown places.
+
+Athletics
+
+Stats: ST/SD
+
+It represents the ability to perform physical strength and power feats as lifting heavy weights, pushing and pulling and so on.
+
+General Lore
+
+Stats: IN/SD
+
+General Lore represents the general level of knowledge of the character. It is used to see if any information on interesting topics is known.
+
+Medicine
+
+Stats: IN/SD
+
+It’s the ability to know how to heal people and be able to assess one’s health and so on.
+
+Perception
+
+Stats: IN/SD
+
+It’s the ability to perceive traps, ambushes, hidden objects and entities and in general to hear, smell and see things that normally go unnoticed or search for things.
+
+Magic
+
+Attunement
+
+Stats: IN/SD
+
+Attunement is used to identify and use magical items, to understand magical symbols, read runic and magical languages, identify and use Scrolls and Tomes.
+
+Spell Casting
+
+Stats: IN/SD
+
+It is the ability of understanding and casting spells according to known formulas. It also represents the attack bonus for using spells that must be directed against a target to physically harm him in some way, like elemental bolts and projectile spells. Additionally, it is the ability to direct the force of non-projectile attack spells like mental control and impairment, raw channeling, sleep and stun spells and so on.
+
+Summoning
+
+Stats: SD/CH
+
+Summoning is the skill for calling entities from other planes and either transport them to the caster or contact them. It is one of the most complex and varied skills in Ymir, but its usage comes with great dangers.
+
+Summoning Effects
+
+A Summoner can either Evoke an entity, Contact it, Bind it to an object, become himself a Vessel for the entity or make the entity Possess somebody else.
+
+In order to attempt to perform these Actions, a character must have developed the talents that allow him to perform the rituals. See Talents and Flaws for details on how to access these abilities.
+
+Evoke
+
+Evoking an entity requires one hour of preparation followed by a summoning skill roll that, if successful, grants the materialization of the entity over the course of one round in the chosen spot.
+
+If unspecified, evoke calls a random Demon, Elemental, Spirit or Outsider from a random Pale between the ones the character can access by his Summoner talent.
+
+The difficulty of the summoning skill roll is 80, plus 20 per Pale of the entity.
+
+Specifying the type of entity that is evoked between Demon, Elemental, Spirit and Outsider grants a -20 to the summoning skill roll, while specifying also the sub-type, like a Wolf Spirit or a Fire Elemental or a Buzzer Demon grants an additional -20 to the roll.
+
+Specifying the Pale also grants a -20 to the roll.
+
+After the entity appears, it’s up to the character to deal with it, either by bargaining with it, by befriending it or by forcing the entity with spells or in any other way.
+
+Alchemy
+
+Stats: IN/SD
+
+This skill is used to identify alchemical compounds, to decipher recipes, to create new compounds and so on.
+No tools are needed to identify alchemical substances and compounds (but access to a proper laboratory gives a +20 bonus in this case). Standard difficulty is 100, or 150 if the character is trying to identify something either incredibly rare, completely new, or alien to him. Is the roll is successful, the GM will tell the player what the substance is and what its general effects are. If the roll is successful by 50 points or more, the GM will also tell the player all of the substance’s actual in-game mechanical effects. Failing this roll means no useful information are gathered.
+
+For all other usages of the Alchemy skill, one needs access to a laboratory (building one will cost a minimum of 500sp, plus supplies). Working on improvised gear (like a simple cauldron or using kitchenware) will impart a -50 penalty on all Alchemy rolls, while working without tools is simply impossible.
+
+With a laboratory, a character will be able to create simple compounds or artifacts, like weak acids (1d4 points of damage/dose), antidotes (giving a second RR with a +20 bonus against a specific poison), Leyden jars, light crystals or alchemic fire (1d4 area damage/dose). Standard difficulty is 100 if the character already have the ingredients needed ready, or 200 if he has to improvise, collecting them from the surrounding area. A failure means the alchemist will have to roll on the Alchemic Failure Table, adding his margin of failure to the roll.
+
+Additionally, Alchemy can be used to synthesize Formulas, powerful compounds and artifacts that need specific recipes and hard to find ingredients. Each Formula has different effects, requirements and difficulty.
+Formula can be found in play or Researched by characters. The player of a character wishing to Research a Formula must discuss it with the GM, describing what he wants to obtain. The GM will determine if it’s feasible and will assign a difficulty to the project.
+Research requires a library (costing at least 400sp to build) and two weeks of uninterrupted study. After this period, the character will have to make an Alchemy check against the determined difficulty. If the check is successful, the character will acquire the new Formula. A failure means that the character needs more time to study the subject. He’ll be able to check again after another week of work. A critical failure (margin of failure of 50 or more) means his formula is faulty and will never work as intended. Every week of research costs 50sp in books, ingredients and other supplies.
+
+Arcane Reading
+
+Stats: IN/SD
+
+This skill is specifically for properly using magical objects that require reading, such as Scrolls.
+
+
+
+Social
+
+Falsehood
+
+Stats: CH/IN
+
+It’s the ability to convince people of something the speaker knows is blatantly false.
+
+Influence
+
+Stats: CH/IN
+
+It’s the ability to convince people of one’s true point of view by talking to them and make sense of things.
+
+Subterfuge
+
+Stealth
+
+Stats: DE/SD
+
+Stealth is used to hide oneself from the sight, to stalk somebody, to hide objects and traps. It rolls against others Perception.
+
+Specific Lore (Type)
+
+Stats: IN/SD
+
+Specific Lore represents the character’s specific knowledge of one topic. Example of Specific Lore types can be demons, herbs, arts, a specific region, a specific culture, tales, and so on.
+
+Swimming
+
+Stats: CO/SD
+
+It’s the ability to swim in liquids and fluids, difficulty varies depending on the density of the liquid, the flows, the temperature and so on.
+
+Climbing
+
+Stats: DE/ST
+
+It’s the ability to climb trees, walls, rocks and such.
+
+Crafting (Material)
+
+Stats: DE/IN
+
+Is the ability to create and repair physical objects (e.g. golems, swords, chairs, armor…) of the chosen material
+
+Social
+
+Intimidate
+
+Stats: ST/IN
+
+It’s the ability to impose one’s will on people by the means of fear.
+
+Streetwise
+
+Stats: CH/IN
+
+It’s the ability to find what’s needed, may that be information, people or items to buy through contacts and society.
+
+Subterfuge
+
+Mechanisms
+
+Stats: DE/IN
+
+Mechanisms skill is used to understand how mechanisms work, to activate and use them, to pick locks, to build or deactivate traps.
+
+Pickpocket
+
+Stats: DE/IN
+
+Pickpocket is used to steal objects from the victim, and rolls against others Perception.

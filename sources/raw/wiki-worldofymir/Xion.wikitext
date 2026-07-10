@@ -1,0 +1,168 @@
+[[File:Placeholder|right|300px]]
+
+
+Gli Xion sono la Casta sacerdotale degli Xebechani, si occupano del culto agli dei, di officiare i riti principali e servono gli Xattva come scribi e consiglieri. In teoria dovrebbero essere loro ad occuparsi della manutenzione delle Pozze ma, visto che la scienza necessaria è stata dimenticata, si limitano a custodirle e ad assistere gli Xattva nei loro esperimenti. Può accadere che uno Xion lasci la sua città in cerca di nuove conoscenze, oppure per accompagnare uno Xidhe in missione diplomatica come guida e supervisore.
+
+
+
+
+
+
+====ASPETTO FISICO====
+=====Corporatura: Fragile, in media pesano fra i 50 e i 60 kg=====
+'''Colorito:''' Pelle bianco-giallognola (tranne che per le squame colorate sulla schiena), capelli neri e occhi gialli o viola, a pupilla verticale.
+
+
+
+{| align="left" border="1" cellpadding="7" cellspacing="0" dir="ltr" hspace="5" width="454"
+| colspan="4" height="8" valign="top" width="438"|
+'''XION'''
+|- valign="top"
+| colspan="2" rowspan="2" width="136"|
+'''Modificatori'''
+
+'''Caratteristiche'''
+| height="2" width="137"|
+'''Modifiche TR'''
+| width="138"|
+'''Sviluppo'''
+|- valign="top"
+| height="2" width="137"|
+'''Flusso'''
+| width="138"|
+'''Sviluppo Corporeo'''
+|- valign="top"
+| height="2" width="56"|
+'''AG'''
+| width="65"|
++0
+| width="137"|
+-5
+| width="138"|
+0.6.4.2.1
+|- valign="top"
+| height="3" width="56"|
+'''CO'''
+| width="65"|
++0
+| width="137"|
+'''Essenza'''
+| width="138"|
+'''PM Arcani'''
+|- valign="top"
+| height="2" width="56"|
+'''ME'''
+| width="65"|
++0
+| width="137"|
++0
+| width="138"|
+0.5.3.2.2
+|- valign="top"
+| height="3" width="56"|
+'''RA'''
+| width="65"|
++2
+| width="137"|
+'''Mentalismo'''
+| width="138"|
+'''PM Essenza'''
+|- valign="top"
+| height="2" width="56"|
+'''AC'''
+| width="65"|
++3
+| width="137"|
++0
+| width="138"|
+0.6.4.3.2
+|- valign="top"
+| height="2" width="56"|
+'''EM'''
+| width="65"|
++2
+| width="137"|
+'''Arcano'''
+| width="138"|
+'''PM Flusso'''
+|- valign="top"
+| height="3" width="56"|
+'''IN'''
+| width="65"|
++6
+| width="137"|
++0
+| width="138"|
+0.6.6.4.3
+|- valign="top"
+| height="2" width="56"|
+'''PR'''
+| width="65"|
++0
+| width="137"|
+'''Veleno'''
+| width="138"|
+'''PM Mentalismo'''
+|- valign="top"
+| height="3" width="56"|
+'''RF'''
+| width="65"|
++0
+| width="137"|
++20
+| width="138"|
+0.5.3.2.2
+|- valign="top"
+| height="2" width="56"|
+'''FO'''
+| width="65"|
+-2
+| width="137"|
+'''Malattia'''
+| width="138"|
+'''Tipo di Razza'''
+|- valign="top"
+| height="2" width="56"|
+'''AS'''
+| width="65"|
++0
+| width="137"|
++20
+| width="138"|
+3
+|- valign="top"
+| colspan="2" height="3" width="136"|
+'''Dipartenza Anima'''
+| width="137"|
+'''Paura'''
+| width="138"|
+'''Molt. Guarigione'''
+|- valign="top"
+| colspan="2" height="2" width="136"|
+9 round
+| width="137"|
++0
+| width="138"|
+x1
+|- valign="top"
+| colspan="2" height="3" width="136"|
+'''Linguaggi'''
+| colspan="2" width="288"|
+'''Opzioni Background (Punti Talento)'''
+|- valign="top"
+| colspan="2" height="1" width="136"|
+2
+| colspan="2" width="288"|
+3(30)
+|}
+'''Resistenza: '''Normale
+
+'''Altezza:''' In media attorno ai 160-170 cm
+
+'''Durata della vita:'''  250-300 anni
+
+'''Resistenze:''' Discreta resistenza a Veleno e Malattie.
+
+'''Abilità Speciali:''' Oltre a possedere tutte le normali abilità comuni ad ogni Xebechano, gli Xion sono in grado di percepire intuitivamente la presenza di energie magiche nell'aria (''Senso Arcano:'' concentrandosi possono percepire la presenza di incantesimi attivi nel raggio di 10m. Capiscono anche la direzione e la lontananza dell'incantesimo ma non il Reame di appartenenza); inoltre, grazie alla loro innata affinità con le energie magiche, sono relativamente poco impacciati da armature e simili ostacoli nel lancio di incantesimi (''Trascendenza: ''+25 all'abilità Trascendere Armatura).
+
+'''Abilità: '''''Everyman: ''Ingegneria, Biologia

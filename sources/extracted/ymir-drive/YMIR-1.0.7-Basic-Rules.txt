@@ -1,0 +1,538 @@
+SOURCE: Google Drive — YMIR 1.0.7 - Basic Rules.docx (fileId 0B51K1jhM2wrFdy1QVkZ5ZXBDdDA)
+
+YMIR – Basic Rules
+
+YMIR
+
+Basic Rules
+
+
+
+# Table of Contents
+
+[Table of Contents ](#_Toc366159126)[2](#_Toc366159126)
+
+[The Pillars ](#_Toc366159127)[3](#_Toc366159127)
+
+[Levels ](#_Toc366159128)[4](#_Toc366159128)
+
+[Actions ](#_Toc366159129)[4](#_Toc366159129)
+
+[Characters ](#_Toc366159130)[5](#_Toc366159130)
+
+[Character Creation ](#_Toc366159131)[5](#_Toc366159131)
+
+[Character Development ](#_Toc366159132)[7](#_Toc366159132)
+
+[Stats ](#_Toc366159133)[9](#_Toc366159133)
+
+[Permanent Attributes ](#_Toc366159134)[10](#_Toc366159134)
+
+[Temporary Attributes ](#_Toc366159135)[17](#_Toc366159135)
+
+[Skills ](#_Toc366159136)[19](#_Toc366159136)
+
+
+
+## Levels
+
+The first pillar of Ymir is the concept of level, around which the whole game is based. Levels are a general measure of experience, power and difficulty.
+
+All of the things in Ymir have a level. Skills have a level based on the total skill bonus, spells have levels that determine their difficulty to cast and acquire. Even the characters themselves have, at any given time, a level.
+
+One level corresponds to:
+
+A +10 bonus to a skill
+
+A total of 100 skill tests taken by a character
+
+1 Additional Action Point
+
+1 Additional Power Point
+
+Additional Hit Points and Resistances corresponding to appropriate character’s stats.
+
+## Actions
+
+The other pillar of Ymir is constituted by the Actions. Actions are performed by character by using their skills to overcome challenges and difficulties. Choosing to performing the right actions in the right order, and doing so successfully will lead to positively accomplished quests, which will lead to rewards in form of talents, treasure and character growth.
+
+### Time
+
+In game, time is divided in Rounds of one second each. Characters can take a number of Actions each round determined by their stat. Normally, a character can take one Action each round. During combat, things speed up and character can take a number of Actions determined by their Stats and their Talents.
+
+### Versus Actions
+
+Sometimes a character will use a skill to contrast a foe’s skill directly, like for example using Subterfuge – Stealth against General – Perception to sneak behind a foe. In these situations, versus roll is required. The attacker wins if his skill roll is greater than the defender’s.
+
+# Characters
+
+## Character Creation
+
+### Determine Starting Stats
+
+Distribute 120 Points among your Stats: each Stat can have a minimum of 0 points and a maximum of 50 points assigned in this phase
+
+### Choose Race
+
+Choose the Race and apply racial bonuses
+
+### Determine Attributes
+
+You have 50 Luck points
+
+### Determine Attitude
+
+Choose:
+
+Five Primary Professional Skills with a Development Cost of 5 DPs for each Development step
+
+### Choose Training
+
+Choose:
+
+One Specialization Skill which get a Special Bonus of +30
+
+One Foundation Skill which get a Special Bonus of +20
+
+One Youth Skill which get a Special Bonus of +10
+
+Background (Choose 5, multiple choices allowed)
+
+2d10 Gold Pieces
+
+One Spell Tome
+
+Access to a Domain Teacher
+
+One +10 Magical Item
+
+Two +5 Magical Items
+
+One +5 Spell Adder
+
+### Develop
+
+The Game Master will tell you at which Level your character starts. If you start at a character level above 0, you will have 100 Development Points to spend for each level to buy skills, talents and stats.
+
+### Determine the Totals
+
+Determine the Total Bonus for each Stat, Skill and Attribute by summing all other Bonuses.
+
+## Character Development
+
+Characters develop by helping their companions, facing dangers and reaching their goals.
+
+At the end of each Session a character gets a certain number of Development Points (DPs), based on his activities during the game session:
+
+5 points, for participating to the game session. That is, every PC gain 5 DPs just for being there.
+
+10 additional points, if the character faced serious danger during the game session .
+
+5 additional points, if the character was badly hurt or someone in his party died facing said dangers.
+
+10 additional points, if the character reach one of his goals during the game session.
+
+Additionally, a character can gain DPs by training or carousing.
+
+For every 2 silver pieces spent in training, a character gains 1 DP, but he must spend half a day training with a master for each DP gained this way.
+
+Every gold piece spent in carousing, parties, orgies or similar celebrations, will award 1 DP to the character, but every time a character gains DPs this way, he has to make a Luck Roll. On a failure, the GM gets to inflict him a complication arisen by his mindless carousing.
+
+Development Points can be spent to improve skills, acquire talents or better his stats.
+
+Every 100 Development Points the character has spent, he advances to the next Level.
+
+### Developing Skills
+
+Skills can be developed every time the character advances to the next level.
+
+Each skill can be developed by a maximum of 3 Development Steps (DS) each level
+
+The normal cost for a Development Step is 10 DP
+
+Professional skills cost 5 DP for each DS
+
+Each character has cheaper skills to develop, those are chosen when creating the character.
+
+The first 10 DS grant a +5 skill bonus each, the next 10 grant a +4, the third 10 grand a +3 each, the fourth 10 grant a +2 each, the fifth 10 grant a +1 each and from the 51st development step, each one grants a +0.5 skill bonus.
+
+Some skills have an automatic advancement that grants free maximum development each level. Those skills are Resistance – Physical and Resistance – Mental.
+
+### Developing Stats
+
+Stats can be developed by spending DPs in order to grant them a Development Stat Bonus, as follows:
+
+|  |  |
+| :-: | :-: |
+| DPs Spent | Stat Development Bonus |
+| 1st to 200th | \+1 to stat for every 20 DPs spent |
+| 201st onwards | \+1 to stat for every 40 DPs spent |
+
+So, for example, a stat with 100DP spent on it has a Development Bonus of +10, while 200s DP spent grant a +15, 300 DPs grant +20 and so on.
+
+### Acquiring Talents
+
+When the player finds a Talent he wants his character to gain, first of all he must check the Talent’s Level to be equal or below his character’s Level.
+
+The Game Master then decides whether the chosen Talent is suitable for the character, if it is, the character can spend the appropriate number of DPs to acquire the Talent.
+
+### Resetting Luck
+
+Every time a character passes to the next level, his Luck is reset to its starting value (usually 50).
+
+
+
+## Stats
+
+Each Character is defined by six Stats. While Skills determine what a character learned during the span of her life, Stats indicate her innate capabilities.
+
+Stats influence Skills, Attributes and some in-game rolls.
+
+#### Physical - Power (PP)
+
+Physical Power gives a measure of the Character’s strength.
+
+Strength also determines a Character’s Base Damage, which represents the damage dealt in unarmed combat by the character and that is used as the base when using weapons.
+
+Strength also determines the size and weight of weapons that can be used.
+
+#### Physical - Quickness (PQ)
+
+Indicates character’s reactivity and ability to act quickly and measures the Character’s ability to coordinate his movements and move fast and precisely.
+
+#### Physical - Resistance (PR)
+
+Indicates character’s reactivity and ability to act quickly and measures the Character’s ability to coordinate his movements and move fast and precisely.
+
+#### Mental - Power (MP)
+
+Mental Power represents the reasoning capability and logical intelligence.
+
+#### Mental - Quickness (MQ)
+
+Mental Nimbleness indicates the character’s natural attitude for being quick of mind, drawing attention and fast-talking
+
+#### Mental - Resistance (MR)
+
+Mental Nimbleness indicates the character’s natural attitude for being quick of mind, drawing attention and fast-talking
+
+
+
+## Permanent Attributes
+
+Attributes are secondary parameters that indicate some of the Character’s capabilities.
+
+### Luck
+
+Each Character starts the game with 5 Luck, this value can never be exceeded. Luck can be used to avoid extreme adverse effects that may occur during the game and gained by performing certain actions.
+
+Some situations (such as gambling) may require a Character to perform a Luck roll.
+
+Spend one Luck to:
+
+Re-roll a single die roll either performed by the Character or against it
+
+Ignore a death causing effect, like a critical hit result, a deadly fall, a deadly poison
+
+Stabilize a wound. It will then heal according to normal rules.
+
+Gain 1 Luck by:
+
+Accomplishing a quest in your league or above grants you one Luck.
+
+Accepting an incredibly unlucky result by avoiding to spend Luck to ignore its consequences
+
+### Action Passes
+
+Action Passes represent how many Actions a character can perform every round. Characters start with one Action Pass.
+
+### Power Points
+
+Power Points represent how much magical energy a character has to cast her spells in stressful situations, for example during Combat. Characters have a number of Power Points equal to their Mental – Resistance total bonus.
+
+### Initiative
+
+Mental Initiative is 1d10 plus your Mental – Quickness dived by 10, rounded up.
+
+Mental Initiative is 1d10 plus your Physical – Quickness dived by 10, rounded up.
+
+### Corruption
+
+An incautious Character might incur in one or more forms of Corruption, by facing powerful forces beyond their comprehension. Corruption can be of three types: Dark, Elemental or Mental. Corruption is measured by a value that gets from 0, no corruption, to 100, totally corrupted.
+
+#### Dark Corruption
+
+Dark Corruption represents the influence of Dark Essence on Characters, and can be gained by using Evil Spells and Artifacts, by making pacts with Demons and wandering through Evil Lands.
+
+Gain Dark Corruption by:
+
+Casting from an Evil Spell List. If her Dark Corruption is less than the level of the spell, it immediately reaches that value.
+
+Making Pacts with Demons. In the case a Demon asks for a part of one's Soul as a payment, the Character gains Dark Corruption accordingly.
+
+Using Evil Artifacts makes gain 1 Dark Corruption each week. Single use objects give 1d10 Dark Corruption when used.
+
+Being in Evil Lands grants 1 Dark Corruption each day unless a Resistance - Magical roll is made
+
+If you have 25 or more Dark Corruption, you have become evil and are treated as such for all game purposes.
+
+If you reach 100 Dark Corruption, you are damned.
+
+Every 10 Dark Corruption you acquire, a roll on the Dark Corruption Effects table must be made, to see how Evil Essence influences you.
+
+
+
+Dark Corruption Effects Table
+
+|  |  |
+| :-: | :-: |
+| Roll | Effect |
+| 01-05 | Il personaggio si perde in una spirale di corruzione: riceve 1d10 di PC addizionali |
+| 06-10 | Il personaggio diventa un mannaro del tipo scelto dal GM. Non è in grado di controllare in alcun modo le proprie trasformazioni |
+| 11-15 | 1-5 pallidi occhi ciechi compaiono in zone casuali del corpo del personaggio |
+| 16-20 | Il personaggio è scosso da continui tremiti, che gli causano una penalità permanente di -10 alle azioni, a meno che non assuma un particolare tipo di droga o sostanza. |
+| 21-25 | Il personaggio non può recuperare PP a meno che non consumi il sangue di qualche essere senziente ogni 24h |
+| 26-30 | La lingua del personaggio diventa un lungo tentacolo vermiforme |
+| 31-35 | La pelle del personaggio assume una tinta oscura ed innaturale |
+| 36-40 | Gli occhi del personaggio assumono una colorazione o un'aspetto innaturale |
+| 41-45 | I denti del personaggio diventano corte zanne affilate (utilizzabili per compiere attacchi Medi) |
+| 46-50 | La lingua del personaggio diventa biforcuta |
+| 51-55 | Il personaggio assume un aspetto cadaverico, estremamente difficile da occultare |
+| 56-60 | Il personaggio è circondato da un'aura malevola, che mette a disagio infanti ed animali |
+| 61-65 | Il personaggio riceve un marchio, che lo identifica come un seguace dell'Oscurità, in una locazione casuale del suo corpo. Il marchio può essere coperto, ma non cancellato o camuffato in altro modo |
+| 66-70 | Il personaggio si attira l'inimicizia di una potente entità planare oscura, che comincia a vederlo come potenziale rivale o intralcio ai suoi piani  |
+| 71-75 | Un servitore di una divinità nemica ad Ahriman o di una simile società viene a conoscenza della corruzione del personaggio, ed inizia a dargli la caccia |
+| 76-80 | Il personaggio tende ad attirare l'attenzione di cultisti e cercatori di sapere oscuro, che tentano di reclutarlo o estorcergli le sue conoscenze. Ogni sessione, c'è il 10% che incontri uno di questi individui |
+| 81-85 | Il personaggio viene occasionalmente visitato da un demone, che cerca di strappargli favori (con inganni o minacce), o di proporgli patti di dubbia utilità |
+| 86-90 | Il personaggio viene a conoscenza dell'ubicazione di una potente reliquia corrotta |
+| 91-95 | La corruzione del personaggio viene ricompensata con una goccia di sapere proibito: il personaggio riceve un bonus di +10 alle manovre riguardanti una specifica conoscenza oscura (demoni, non morti, divinità maligne,...) |
+| 96-00 | Gli dei oscuri sono compiaciuti della corruzione del personaggio. Nessun effetto. |
+
+
+
+#### Elemental Corruption
+
+Elemental Corruption represents the influence of True Elements on Characters, and can be gained by various means.
+
+Gain Elemental Corruption by:
+
+Being damaged by the True Element grants one point of Elemental Corruption for every 10 points of damage inflicted by the True Element.
+
+Being targeted by a non-offensive Elemental Spell grants one point of Elemental Corruption if a Resistance – Magical roll is failed.
+
+Failing to cast an elemental spell by more than 25 grants one point of Elemental Corruption to the caster.
+
+Visiting Elemental planes grants 1 point of Elemental Corruption per full day spent on the plane.
+
+If you have 25 or more Elemental Corruption, you will be detected as an Elemental and will be immune to natural manifestations of the element, but you will suffer from double damage by the dominating element.
+
+At 50 or more Elemental Corruption, you will be immune to magical manifestation of the corrupting element, but will suffer triple damage from the dominating element. Attacks by the corrupting element are treated as natural solid attacks, that deal normal damage and impact critical hits.
+
+At 75 or more Elemental Corruption, you will receive half damage from physical attacks but receive four times the damage from the dominating element.
+
+If you reach 100 Elemental Corruption, you become a pure elemental entity and are subject to the rules for those entities.
+
+Every 10 Elemental Corruption you acquire, a roll on the Elemental Corruption Effects table must be made, to see how the True Element influences you.
+
+
+
+Elemental Corruption Effects Table
+
+|  |  |
+| :-: | :-: |
+| Tiro del dado | Effetto |
+| 01-05 | Il personaggio ha una bassa resistenza all’elemento: guadagna 1d10 PC addizionali |
+| 06-10 | Il personaggio acquisisce un tratto caratteriale tipicamente associato al proprio elemento, da trattare come una patologia o una sorta di alienazione mentale.  |
+| 11-15 | Mutazione del metabolismo: il personaggio deve ingerire ad ogni pasto almeno 2/3 del proprio elemento o subire gli effetti della malnutrizione  |
+| 16-20 | Simbiosi elementale: il personaggio è vittima di uno strano meccanismo simbiotico. Se non riposa avvolto (o immerso o circondato) dal proprio elemento, non recupera PV  |
+| 21-25 | Radiazione elementale: il personaggio è infetto e può trasmettere la corruzione elementale ad altri esseri viventi tramite il contatto diretto come se fosse un oggetto contaminato |
+| 26-30 | La corruzione influenza direttamente una delle caratteristiche del personaggio (quella più aliena al proprio elemento) modificandola di -1 in modo permanente |
+| 31-35 | Mutazione del corpo: un arto a caso prende la forma che avrebbe un elementale del tipo appropriato. |
+| 36-40 | Bocca e gola del personaggio mutano e il personaggio riesce a esprimersi solo con suoni che ricordano il proprio elemento.  |
+| 41-45 | Il personaggio trasuda elemento: ogni giorno c’è il 10+ (totale PC)% di possibilità che si verifichino incontrollate manifestazioni di elemento (non Vero Elemento) |
+| 46-50 | Tocco elementale: i palmi delle mani del personaggio causano al semplice tocco un critico A -50 del tipo appropriato. Se il personaggio supera i 50 PC totali, il critico diviene un A senza malus |
+| 51-55 | Aura elementale: attorno al personaggio si crea un’aura di circa 30cm in cui ha luogo una manifestazione naturale dell’elemento che lo ha corrotto (calore intenso, brina, brezza, ecc…) |
+| 56-60 | Sangue caustico: il sangue del personaggio diviene caustico e contaminante come quello di un drago giovane. |
+| 61-65 | La pelle del personaggio assume i tratti caratteristici (colore, consistenza, temperatura) dell’elemento appropriato. |
+| 66-70 | I capelli e gli occhi del personaggio assumono il colore dell’elemento appropriato. |
+| 71-75 | Affinità Elementale: il personaggio guadagna un bonus alla Riflessi uguale ai suoi PC totali contro attacchi elementali diretti del tipo appropriato. |
+| 76-80 | Il personaggio acquisisce la capacità di usare il proprio corpo, una volta al giorno, come un portale mistico verso il piano elementale appropriato.  |
+| 81-85 | Durante il sonno o la meditazione, se si trova in un luogo totalmente affine al proprio elemento, il personaggio ha l’1% ogni 10 PC di possibilità di ricevere una visione o entrare in contatto con una potente forza elementale. |
+| 86-90 | La corruzione influenza direttamente una delle caratteristiche del personaggio (quella più legata al proprio elemento) modificandola di +1 in modo permanente |
+| 91-95 | Arma a soffio: il personaggio guadagna un attacco a soffio giornaliero (1d10 danni dell’elemento appropriato, il bonus di attacco è pari ai PC totali). |
+| 96-00 | Il personaggio riesce a sintonizzarsi con le fonti di Vero elemento (elementali, oggetti magici, minerali, portali…) che rileva automaticamente in un raggio di 1km ogni 10 PC |
+
+
+
+#### Mental Corruption
+
+Gli eroi di Ymir (ed i maghi in particolare) sono abituati ad avere a che fare con esperienze che spingerebbero sull'orlo della pazzia una persona comune in pochi minuti. Esistono tuttavia forze in grado di incrinare persino la loro incredibile forza di volontà; creature che alterano la realtà con la loro stessa presenza e che si nutrono della stabilità mentale degli infelici che hanno la sfortuna di incontrarle; rituali talmente assurdi e blasfemi da avere effetti nefasti sulla mente di chi li officia.
+
+Mental Corruption Points
+
+Quando un Personaggio è esposto ad uno di questi elementi, acquisisce dei Punti Follia, che rappresentano l'erodersi delle sue capacità mentali.
+I Punti Follia vengono guadagnati solamente in situazioni molto particolari, come risultato di alcuni specifici incantesimi o attacchi speciali.
+
+Madness
+
+Man mano che un Personaggio vede aumentare i propri Punti Follia, attraversa diversi stadi di turbamento mentale, descritti nella tabella sottostante. Quando un Personaggio ha accumulato 100 o più Punti Follia, impazzisce completamente, diventa un PNG ed il suo controllo viene passato al GM fino a che non muore o non viene trovato un modo per curarlo.
+
+
+
+Mental Corruption Effects Table
+
+|  |  |
+| :-: | :-: |
+| Punti Follia | Effetto |
+| 10+ | Turbato: la stabilità mentale del Personaggio è stata incrinata, ma tutto sommato è ancora integra. Di tanto in tanto il Personaggio manifesterà qualche sintomo del proprio turbamento (saltuari tic nervosi, balbettamenti o comportamenti lievemente anomali), ma si tratta di casi isolati e poco incidenti sulla sua vita quotidiana. |
+| 25+ | Scosso: il Personaggio comincia a mostrare evidenti segni di squilibrio mentale. Parole o oggetti comuni lo fanno rabbrividire, il suo sguardo si fa vacuo per lunghi momenti, a volte si ritrova a parlare da solo o ad avere un attaccamento morboso a determinati oggetti. Subisce uno Svantaggio a tutte le sue interazioni sociali. Tranne che ad Intimidire, per cui invece guadagna un Vantaggio, visto che le persone sane tendono a trovarlo decisamente inquietante. |
+| 50+ | Disturbato: il comportamento del Personaggio diventa selvaggio e incontrollabile, prono a repentini mutamenti d'umore o ad atti illogici. Oltre agli effetti di Scosso, il giocatore deve scegliere fra: Rabbia, Ilarità, Apatia, Depressione e Desiderio. Ogni volta che il suo Personaggio fallisce una Manovra o ottiene un Tocco del Fato, dovrà agire di conseguenza:Rabbia: il Personaggio incolpa una persona a caso o un oggetto del suo fallimento, e lo attacca con tutte le sue forze finché non viene distrutto o per un'intera Scena.Ilarità: il Personaggio trova il suo fallimento impossibilmente divertente e passerà un'intera Scena a riderne a crepapelle, raccontando nel dettaglio cosa gli è accaduto ad ogni persona che gli capita a tiro. Sarà incapace di fare altro per tutta la durata della Scena.Apatia: il Personaggio cade in uno stato di profonda apatia, per un'intera Scena non eseguirà nessuna azione, nemmeno se forzato, e non si muoverà dal proprio posto a meno di non venir trascinato con la forza.Depressione: il Personaggio incolpa sé stesso del suo fallimento e passa una Scena a punirsi corporalmente per esso. Al termine della Scena subisce 1d10 danni e un critico A del tipo appropriato.Desiderio: il Personaggio prova un intenso e incontrollabile desiderio per un oggetto o una persona presenti a scelta del GM. Per una Scena non potrà far altro che tentare di entrarne in possesso in tutti i modi possibili. |
+| 75+ | Al Limite: la mente del Personaggio è ormai al limite ed egli è un pericolo per sé e per le persone che lo circondano. Oltre agli effetti degli altri due stadi, una volta per sessione, in un qualsiasi momento a scelta del GM, il Personaggio agirà secondo la reazione che ha scelto per Disturbato (anche se non ha fallito o effettuato alcuna Manovra). |
+| 100+ | Mwahahaha\!: il Personaggio è completamente andato, il suo controllo passa al GM fino a che il suo totale di Punti Follia non scende sotto il 100. |
+
+## Temporary Attributes
+
+Temporary Attributes are attributes that can be gained in game and last a limited amount of time.
+
+### Addicted \[substance\]
+
+If a character takes more than one dose in a week of any substance that causes addiction, he will be addicted.
+
+An addicted character will be at -10 to everything. One dose of the substance will remove the penalty but will have none of the other substance effects. So, if the character wants to have the full effect, he will need to take another dose.
+
+Addiction is cumulative so, if a character assumes more than one dose a week of the substance, his addiction worsens: he is at another -10 to everything and will need another dose to avoid it.
+
+When penalty from a single addiction reaches -100, the character falls into a catatonic state and is unable to take any action.
+
+Any addicted character finds himself in a situation where he can buy and take the substance, or is offered a dose, he must make a Resistance – Mental roll against 100 or take the substance.
+
+### Bleeding \[hits per round\]
+
+Bleeding characters lose a number of Hit Points at the end of each Round
+
+### Crippled \[part/ penalty\]
+
+Crippled characters have a fixed negative modifier that applies to every roll involving the hit body part. A penalty of 100 means the part is amputated.
+
+Other modifiers are subject to GM’s discretion. For example, a character with an amputated tongue will be muted, one with an amputated head will be dead.
+
+### Damned
+
+A damned character is no longer in control of her soul. She will mutate into a completely corrupted being and become a non-playing character in 1d10 days unless she loses some corruption.
+
+### Dead
+
+A dead character has no action and can take no action, and her soul departs from her body in 1d10 rounds.
+
+### Disembodied
+
+A disembodied character has it’s conscious soul trapped somewhere instead than in his own body. He can think and is conscious but can take no physical action. Mental actions suffer a -100 modifier.
+
+### Dying \[time\]
+
+A dying character will be dead after the specified time has passed.
+
+### Evil
+
+An evil character is recognized as such and is affected by all the spells and effects that affect evil creatures. Being evil should also be played in game by the player.
+
+### Frenzied
+
+Frenzied characters have a +30 bonus to their Combat – Melee and Combat – Unarmed skills and their attacks deal double damage.
+
+They also ignore the stunned attribute and don’t get unconscious when Hit Points reach 0. They must enter melee combat against the nearest foe, if there are no foes they must enter melee combat against the nearest living being.
+
+While engaged in combat the only other action that can be normally taken is attack. If held he will try to escape the hold, if not standing he will reposition till he will be standing again.
+
+A frenzied character my try to exit frenzy by taking a special combat action that is Calm Down.
+
+Frenzy automatically ends where there is no living being standing in sight.
+
+When the frenzy ends, the character is stunned for one round.
+
+### Frightened
+
+A frightened character can only stand and take no action, flee or try to calm down.
+
+### Hasted
+
+Hasted characters have their action points doubled for one round.
+
+### Held \[penalty\]
+
+An held character has a penalty.
+
+If the penalty is equal or above 100, the character is fully held and can take no action besides speaking or trying to free himself.
+
+If holding penalty is less than 100, the character is partially held and the negative modifier applies to every Action that is taken, besides trying to free himself.
+
+In order to escape the hold and free himself he must succeed in a Subterfuge-Stealth or Strength versus the Combat-Unarmed or Strength of who is holding him or versus a fixed difficulty set by the Game Master if he’s tied or held by other means.
+
+### Helpless \[time\] or Surprised
+
+Characters can take no active action while helpless or surprised. Characters are still conscious and their senses work normally, so they can make General – Perception, Resistance and other passive rolls. Surprise always lasts one round.
+
+### Poisoned \[penalty\]
+
+The poisoned attribute describes a general, progressive adverse effect that is usually by being exposed to a toxic substance. A poisoned character suffers a penalty that affects the character and worsens over time. The penalty is applied after each full day the character spends in the poisoned status. The character dies if the penalty reaches a value of -100 or more.
+
+### Sleeping
+
+Sleeping characters have no action and can take no action. When a character is waken from sleep in any way, she is stunned for one round.
+
+### Slowed \[time\]
+
+Slowed characters have their action points halved for one round.
+
+### Strengthened \[time\]
+
+Strengthened characters have a +10 bonus to their Combat – Melee and Combat – Unarmed skills and their attacks deal double damage.
+
+### Stunned \[time\]
+
+Stunned characters are at -30 to all rolls and their Actions cost double Action Point. A stunned character can’t take any offensive action nor cast spells.
+
+### Unconscious \[time\]
+
+Unconscious characters have no action and can take no action and can’t be waken unless cured. Unconsciousness lasts for the specified time unless action is taken to wake the character from the state. When a wakens from unconsciousness, she is stunned for one round.
+
+### Weakened \[time\]
+
+Weakened characters have a -10 bonus to their Combat – Melee and Combat – Unarmed skills and their attacks deal half damage.
+
+## Skills
+
+### Using Skills
+
+Skill rolls can be fixed rolls or versus rolls
+
+Fixed rolls are successful if total skill bonus plus roll is equal or above the given difficulty
+
+Versus rolls are successful if total skill bonus plus roll is above the defending total skill bonus plus roll
+
+A natural 100 on the die roll is an automatic success.
+
+A natural 01 on the die roll is an automatic fumble.
+
+Open rolls: on a 01-04 reroll and subtract, on a 96-100 reroll and add.
+
+Chaos: Each natural 66 on a die roll that is performed outside combat leads to a random or bizarre result, at the Game Master’s discretion.
+
+The difficulty of a skill roll determines its level, and represents the number the Character has to beat with a d100 roll summed to his Total Skill Bonus.
+
+Difficulty for fixed rolls is set by the Game Master as follows:
+
+Easy Roll against 50
+
+Medium Roll against 100
+
+Hard Roll against 150
+
+Very Hard Roll against 200
+
+Sheer Folly Roll against 250
+
+Absurd Roll against 300
+
+
+

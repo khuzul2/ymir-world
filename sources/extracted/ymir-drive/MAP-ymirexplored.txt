@@ -1,0 +1,51 @@
+SOURCE: Google Drive — ymirexplored.png (world map) (fileId 0B51K1jhM2wrFdlNxMzRUb1JfQkE)
+
+NOTE ON EXTRACTION METHOD: The Google Drive read_file_content endpoint returned empty
+content for this image (no OCR/description was produced by the service). The raw PNG
+(706,382 bytes, 4429x2953 px) was instead downloaded via download_file_content, decoded
+from base64 to disk, and read/transcribed visually. The description and label list below
+are transcribed directly from the image.
+
+IMAGE DESCRIPTION:
+This is a world map of Ymir titled by its filename as the "explored" world (ymirexplored).
+It is a rectangular political/geographic map. Landmasses are rendered in tan/brown and the
+oceans/seas in a pale teal. A set of named regions is overlaid with translucent tints in two
+shades — a lighter periwinkle/blue and a darker violet/purple — which appear to distinguish
+categories of territory (e.g., different powers, spheres of influence, or degrees of
+exploration/settlement). Some tinted regions sit over land, others extend over adjacent
+coastal water, and a few (Cartosa) are drawn as square/rectangular map insets over an
+archipelago.
+
+Rough geography (reading the layout):
+- The top edge is polar/arctic: labeled "Frozen Lands" at the top-left and top-right corners,
+  with a "Cold Maelstrom" (a ring-shaped/spiral scatter of small islands or reef) at top center.
+- The bottom edge is the hot/southern extreme: "Obsidian Lands" at both bottom corners with a
+  "Hot Maelstrom" at bottom center. The map thus runs cold (north) to hot (south).
+- The central band contains the main tinted (settled/explored) realms. From west to east across
+  the large central continent: Regni Giovani and Regni Belligeranti (far west), Letia and Cartosa
+  (west-central), Erg (center-south), Helgedad (a northern coastal/peninsular point), then across
+  a strait to Gaerwath (center-east, containing a distinctive swirled/knotted terrain feature —
+  possibly a mountain massif, forest, or labyrinth) and Qi-Long (far east).
+- Southern and eastern landmasses that are NOT tinted (unclaimed/wilderness or merely charted):
+  Sadhir (large south-central continent), Ophiur and Xebech (south-east), plus the Obsidian Lands.
+- A small tinted island realm sits at the far west/southwest edge (unlabeled, violet), below
+  Regni Giovani.
+
+LABELS READ:
+- Frozen Lands (top-left corner)
+- Cold Maelstrom (top-center)
+- Frozen Lands (top-right corner)
+- Helgedad (upper-center, on a northern tan peninsula)
+- Regni Belligeranti (west, over tinted region)
+- Letia (west-central, darker violet region)
+- Qi-Long (far east, violet region)
+- Gaerwath (center-east, blue region with a swirled terrain feature)
+- Regni Giovani (far west, violet region)
+- Cartosa (west-central, blue rectangular inset over an archipelago)
+- Erg (center-south, violet region)
+- Ophiur (east-center, untinted tan land)
+- Sadhir (south-central, large untinted tan continent)
+- Xebech (south-east, untinted tan land)
+- Obsidian Lands (bottom-left corner)
+- Hot Maelstrom (bottom-center)
+- Obsidian Lands (bottom-right corner)

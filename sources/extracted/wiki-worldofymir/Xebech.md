@@ -1,0 +1,11 @@
+# Xebech
+
+- **Source:** https://worldofymir.fandom.com/wiki/Xebech
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2010-10-30T13:11:42Z
+
+---
+
+Demografia: Popolazione: 50 Milioni. Razze Prevalenti: Xebechani
+
+Le lussureggianti giungle dello Xebech sono la patria della più antica civiltà esistente su Ymir, quella degli Xebechani. Le loro millenarie città-tempio, veri capolavori di architettura, sembrano quasi emergere direttamente dal fitto fogliame, oppure crescere sui fianchi delle montagne. Ogni città Xebechana è dotata di almeno una Vera Via, ovvero un portale magico che permette di viaggiare da un punto all’altro in pochissimo tempo, quasi istantaneamente. Si dice che esistano molte altre Vere Vie nascoste in tutto il resto di Ymir e che un tempo fosse possibile utilizzarle per spostarsi da un capo all’altro del mondo. Xebech comprende anche un vastissimo territorio abbandonato, chiamato Loquitchatzotech (Xebechano: Isola della Morte) ed evitato da tutti. L’intera isola è coperta da una fetida palude sulfurea. Al centro sorge una piccola catena vulcanica, fra le cui rocce si trovano le antiche rovine della Città Senza Nome. L’intera isola è maledetta, popolata da mostri orrendi e creature non morte che si cibano di chiunque vi metta piede.

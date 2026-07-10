@@ -1,0 +1,40 @@
+# Xebechani
+
+- **Source:** https://worldofymir.fandom.com/wiki/Xebechani
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2010-10-30T12:47:54Z
+
+---
+
+**XEBECHANI**
+
+Gli Xebechani sono una razza antica e misteriosa di umanoidi dalla pelle pallida, con alcuni tratti da rettile, di indubbia origine magica. Secondo alcuni gli xebechani sono collegati ai Draghi o ai Grandi Serpenti dell'antichità ma nessuno conosce cono certezza le origini di questa specie, che sono avvolte dal mistero.
+
+Anche grazie al loro aspetto bizzarro, gli Xebechani risultano spesso stranamente “ipnotici” ai membri delle altre razze, probabilmente a causa dell’aura incantata che li circonda. Sempre calmi, freddi e distaccati, pare che osservino il mondo da grande distanza e non siano per nulla interessati agli eventi che accadono intorno a loro. Non sono, ovviamente, privi di emozioni, ma sono molto abili nel nasconderle e ciò li rende ancora più enigmatici agli occhi delle altre razze.
+
+Non tutti gli Xebechani sono uguali, all'interno di questo popolo esistono 4 diverse Caste con caratteristiche e funzioni diverse: gli Xudra (guerrieri/lavoratori); gli Xidhe (mercanti/diplomatici); gli Xion (saggi/sacerdoti) e gli Xattva (nobili/maghi). Ogni casta è una vera e propria sottorazza, diversa dalle altre sia per quanto riguarda le capacità fisiche che quelle intellettuali. Alcune caratteristiche, tuttavia, sono comuni a tutti gli Xebechani:
+
+  * **Termovisione:** Tutti gli Xebechani sono in grado di “vedere” il calore emesso dagli oggetti intorno a loro in maniera limitata. Ciò conferisce loro un bonus di +5 a Percepire Bugie e un bonus di +10 a Seguire Tracce (se le tracce hanno meno di 30 minuti). Inoltre, consente loro di muoversi al buio con relativa destrezza, utilizzando la Termovisione per percepire il mondo intorno a loro (fino a 20 metri di distanza). Ciò li rende però vulnerabili agli sbalzi improvvisi di temperatura (come quelli causati da una Fireball o da una Coldball), che possono confonderli e stordirli momentaneamente. Nota che la Termovisione è sempre attiva (assieme alla vista normale), non è possibile “disattivarla”.
+  * **Elasticità:** Gli Xebechani sono dotati di giunture particolarmente elastiche e snodabili. Ciò conferisce loro un bonus di +10 a tutte le manovre di Contorsionismo e un bonus di +5 a tutti gli attacchi di Martial Arts: Locking Holds.
+  * **Passivi:** Anche il più vivace degli Xebechani appare freddo e distaccato ai membri delle altra razze. In alcune situazioni ciò può comportare una penalità (da -10 a -20) alle abilità di Influenza, a discrezione del Master.
+  * **Asessuati:** Gli Xebechani non si riproducono in modo normale e sono privi di organi sessuali funzionanti. L'abilità Seduzione è ristretta per loro.
+
+**ASPETTO FISICO** Vedi la descrizione delle diverse Caste.
+
+**CULTURA E SOCIETA'**
+
+La società xebechana è rigidamente gerarchica: in cima alla scala sociale c'è la Casta degli Xattva (che è anche le meno numerosa) e in fondo quella degli Xudra (la più numerosa). L'appartenenza ad una Casta viene decisa alla nascita e non può essere cambiata (anche se uno xebechano può sempre sperare in una “rinascita” in una Casta migliore, vedi sotto). Fin da appena nato, ogni Xebechano ha sulla schiena delle sottili squame colorate, che formano disegni simili agli occhiali di un cobra. A seconda del colore e della complessità di questi disegni, gli Xebechani determinano non solo la casta, ma anche il ruolo sociale e la futura occupazione del neonato. La maggior parte della vita di uno Xebechano viene quindi decisa alla sua nascita.
+
+Come detto sopra gli Xebechani sono asessuati e non si riproducono come le altre razze, piuttosto, i giovani Xebechani sono creati attraverso un particolare procedimento magico, del quale pochi conoscono l'esistenza. In ogni grande città xebechana, custodito all'interno del tempio principale, si trova un colossale macchinario organico, creato migliaia di anni fa con potenti formule alchemiche. Questi macchinari sono chiamati semplicemente “le Pozze” dagli Xebechani. Quando uno Xebechano muore, il suo corpo viene immesso nel macchinario, che lo assorbe e ne utilizza le particelle organiche e spirituali per creare un nuovo Xebechano neonato. Questo processo viene chiamato “la Rinascita” ed è l'unico modo che gli Xebechani hanno per riprodursi. Purtroppo però, questi macchinari sono molto antichi e gli Xebechani hanno dimenticato la scienza necessaria a comprendere appieno il loro funzionamento, o anche solo a ripararli (se mai l'hanno conosciuta!). Per questo motivo di recente capita sempre più spesso che si verifichino dei malfunzionamenti, e che qualche Xebechano nasca morto o con qualche deformità. I sacerdoti-alchimisti xebechani cercano di comprendere i motivi dei malfunzionamenti ma brancolano nel buio e sull'intera razza si staglia minacciosa l'ombra dell'estinzione...
+
+###### **MODIFICATORI CULTURA**[]
+
+**Linguaggi:** Xebechano (8/6); Seconda Lingua (8/6); Terza Lingua (8/6)[1]
+
+**Vestiti & Decorazioni:** Gli Xebechani usano vestiti leggeri, spesso di seta, che lasciano scoperte spalle e schiena. Portano spesso e volentieri monili d’oro ornati con piume e pietre preziose. Quando si avventurano al di fuori dei loro luoghi natii di solito indossano lunghe tuniche munite di ampi cappucci.
+
+**Pregiudizi:** Tendono a trattare i membri delle altre razze come bambini, dato che si reputano in generale superiori intellettualmente.
+
+**Religione:** Gli Xebechani hanno un proprio pantheon di divinità (detti "Dei Esterni"), ma il loro culto si incentra soprattutto sulla riverenza nei confronti dei loro antenati (chiamati “gli Antichi” e ritenuti depositari di grandi conoscenze) e sulla pratica di rituali al fine di garantirsi una Rinascita in una Casta migliore.
+
+**Culture Preferite:** Gli Xebechani vivono in grandi città, solitamente nel mezzo della giungla, oppure sulle cime di montagne inaccessibili, isolati dal resto del mondo. Per i primi la cultura Silvana è quella che si adatta meglio, per gli altri usa quella Aerea (se non hai il Races & Cultures usa lo sviluppo per l'adolescenza degli Elfi per gli Xebechani).

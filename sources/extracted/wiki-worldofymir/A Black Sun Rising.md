@@ -1,0 +1,76 @@
+# A Black Sun Rising
+
+- **Source:** https://worldofymir.fandom.com/wiki/A_Black_Sun_Rising
+- **Wiki:** World of Yimir (worldofymir.fandom.com)
+- **Last edited:** 2023-05-24T14:31:24Z
+- **Categories:** Campaign Report
+
+---
+
+**PROLOGO: Un viaggio Sfortunato**
+
+Il mago umano Alfonso e i due nani Don Pablo e Raphael sono gli unici sopravvissuti del naufragio della nave mercantile “Fortuna”. Un misterioso uomo di nome Leon, prima di spirare, affida loro un pacchetto, implorandoli di consegnarlo a Martinez, un mercante della capitale.
+
+I nostri aprendo il pacchetto, scoprono che contiene un frammento d’oro con delle strane incisioni in una lingua sconosciuta. I misteri sono appena iniziati; giunti a Cartosa, trovano Martinez morto, ucciso da un misterioso assassino che ha lasciato dietro di sé solo un pugnale marchiato da un sole nero.
+
+Indagando, Alfonso, con l’aiuto del vecchio tutore dei Manti Azzurri Tobias, scopre che le incisioni sul frammento sono in Ragashano, l’antica lingua degli Adepti, e che sono parte di un complesso rituale per l’evocazione di un demone.
+
+Nel frattempo, gli altri collegano il delitto all’organizzazione malavitosa conosciuta col nome di “Incappucciati” e scoprono che esso non è che l’ultimo di una lunga serie.
+
+Durante le indagini, incontrano l’enigmatica Kiki, una Tal-Tanoth che vive di espedienti nella Città Vecchia. La “gattina” decide di aiutare il gruppo nelle sue indagini ed esso la accetta perplessamente fra i suoi ranghi.
+
+Infine, i nostri eroi, riescono a scoprire che dietro agli omicidi c’è un gruppo segreto di cultisti che ha intenzione di evocare un qualche tipo di demone tramite il rituale descritto nei frammenti della tavoletta d’oro. Con l’aiuto del Sergente Oleandro e delle guardie cittadine riescono a impedire gli oscuri propositi dei loschi figuri e ad assicurarli alla giustizia.
+
+Misteriosamente come era arrivata, Kiki scompare senza lasciare alcuna traccia di sé.
+
+**CAPITOLO I: Il Sole Nero**
+
+Pochi giorni dopo questi avvenimenti, il gruppo viene contattato da un altro misterioso individuo: un Tal-Tanoth dai modi galanti di nome Derreck, detto “lo svelto”. Questi propone loro un affare, li pagherà 100 mo se indagano ulteriormente sulle attività del gruppo di cultisti in cui si sono imbattuti. Rivela loro che si tratta di una costola degli Incappucciati conosciuta col nome di “Alba Nera”, che agisce per conto suo sfruttando in qualche modo il rumore provocato dai disordini cittadini. Questo gruppo pare molto interessato a antichi reperti collegati agli Adepti e alle loro magie dimenticate
+
+Il gruppo accetta l’incarico e, dopo aver lasciato per qualche giorno la città per lasciar calmare le acque, riprende le indagini.
+
+Si viene così a scoprire che questa “Alba Nera” ha recentemente assoldato parecchi mezzi orchetti, che si rintanano nella Città Vecchia, dove fanno lavori di manovalanza. Infatti, pare che l’Alba Nera sia invischiata in un grosso giro di contrabbando di ferro, che viene acquistato o trafugato dalle navi nel porto di Cartosa.
+
+I nostri fanno anche conoscenza con Oloban, un bizzarro goblin M’Bantha che li conduce dalla vecchia maga Millennia, un Manto Azzurro rinnegato. Nonostante il suo evidente stato di confusione mentale, Millennia si rivela una preziosa fonte di informazioni. Parla di alcuni libri blasfemi, di cui l’Alba Nera è alla ricerca, che contengono la fonte della rovina degli Adepti. Racconta poi di essere stata la maestra (e probabilmente l’amante) di Tobias e di averli insegnato tutto ciò che sa sul Ragashano e gli Adepti.
+
+Per dare una svolta alle indagini, i nostri valorosi accettano una missione per la marina che li dovrebbe portare alla cattura di alcuni contrabbandieri di ferro e, quindi, più vicini all’Alba Nera.
+
+Sfortunatamente, cadono vittima di una complicata trappola. La loro nave viene arrembata dal famigerato pirata Bagrat il Mezz’orco e, nonostante oppongano una valorosa resistenza, vengono fatti prigionieri.
+
+A salvarli è l’Ammiraglio di Squadra della Marina Ramirez deStuba, che li libera e mette in fuga i pirati.
+
+Ben presto, però, i nostri eroi scoprono che, in verità dietro la facciata da perfetto gentiluomo di Ramirez, si cela un perfido traditore, per di più affiliato con l’Alba Nera. Egli, assieme ad un misterioso figuro incappucciato, aveva pianificato l’attacco dei pirati ed il conseguente salvataggio per accrescere il suo prestigio agli occhi del principe. Allo stesso tempo sta tramando per assassinare l’attuale Ammiraglio, in modo da prendere il suo posto. Il delitto è pianificato per la fine del mese successivo.
+
+Purtroppo, i nostri sfortunati amici, vengono scoperti mentre spiano i due e sono costretti a fuggire in mare. Finiscono così su una minuscola isola deserta nel mezzo delle Coste Gemelle.
+
+**CAPITOLO II: Corsa contro il Tempo**
+
+Abbandonato a sé stesso, con scarse speranze di rivedere la civiltà, il gruppo riesce comunque ad inviare un uccello messaggero a Derreck, per avvisarlo del complotto.
+
+Dopo qualche giorno di inattività, la fortuna pare finalmente sorridere ai nostri quando una nave approda alla loro isoletta. Si tratta dell’Indomabile, la piccola caravella di Inigo (detto “lo sbarbato”) un mezz’elfo pirata dallo spirito avventuroso e l’animo nobile.
+
+Egli li conduce alla città segreta “Ombra del Mar”, porto franco e ritrovo dei pirati di tutto il Principato. Qui scoprono di essere diventati dei fuorilegge ricercati e Alfonso decide di abbandonare le vesti da Manto Azzurro e rinnegare il suo ordine per evitare di rendere troppo riconoscibile il gruppo.
+
+Con un altro colpo di fortuna, Don Pablo si imbatte in un agente dell’Alba Nera e, con un astuto raggiro, riesce a trafugargli la mappa per la perduta città di Cumbre de Oro. Questa pare infatti la meta di una spedizione dell’Alba Nera che i nostri audaci decidono di anticipare, avvalendosi dell’aiuto del loro amico Inigo.
+
+Si inoltrano così nella giungla vergine e, dopo mille peripezie, giungono nella perduta Cumbre de Oro, che scoprono non essere altro che la città di Taremorn, maledetta millenni addietro da uno dei Principi Demoni. La città è coperta d’oro, ma la maledizione di cupidigia che la affligge trasforma tutti coloro che si fanno stregare dall’illusione di un facile guadagno in scheletri senz’anima, confinati per sempre entro le sue tristi mura.
+
+Ingaggiando una furiosa lotta contro i loro spettrali nemici, i nostri riescono a guadagnarsi il centro della città, dove si trovano anche gli uomini dell’Alba Nera, all’entrata di un monumentale edificio. Si tratta del mausoleo di Lorith, l’antico re della città, al suo interno si trova il leader della spedizione dell’Alba Nera che, con grande sorpresa di tutti, si rivela essere l’affabile Tobias.
+
+Gettando la sua maschera d’ipocrisia, il mago corrotto cerca di portare dalla sua anche Alfonso ma non ci riesce. Inizia così una battaglia a colpi di spada e magia nelle catacombe di Lorith, durante la quale Inigo viene ferito gravemente e scampa da morte certa solo grazie all’intervento della sua amata. Sconfitto dal gruppo e costretto alla ritirata, Tobias riesce in ogni modo ad impossessarsi di un potente e maligno artefatto, lo Scettro di Lorith, e a fuggire con esso. Il furto risveglia dal suo sonno millenario lo spettro furioso del re, che si scaglia contro i nostri disperati eroi.
+
+Dando prova di grande coraggio e spirito di abnegazione, il prode Raphael ingaggia la mortale ombra del re in combattimento, in modo da consentire la fuga al gruppo. Il nano perde la mano nel combattimento ma il gruppo riesce finalmente a scappare, lasciandosi la città morta alle spalle.
+
+**CAPITOLO III: Resa dei Conti a El Paso**
+
+Nella giungla, sulla strada di ritorno per Ombra del Mar, il gruppo incontra Ruben, detto “Morte in Vita”, uno Xion dal corpo coperto di cicatrici, seguace di Heis, il folle dio del Caso e del Vento. Quando egli scopre che essi stanno indagando sull’Alba Nera decide di unirsi alla loro causa. Lo Xion pare aver già avuto a che fare con l’organizzazione in passato e sembra deciso a vendicarsi di essa. Egli rivela al gruppo molte informazioni preziose, e così si scopre che l’Alba è in realtà un’organizzazione molto più potente di quanto non si potesse immaginare, con basi in tutto il mondo. Alfonso decide che la vita dell’avventuriero non fa per lui e lascia il gruppo, stabilendosi definitivamente a Ombra del Mar. I membri rimanenti, assieme a Ruben, sono convocati dall’enigmatico Derreck, che gli affida un nuovo compito: recarsi nella cittadina di El Paso per scoprire che fine fa il metallo trafugato dall’Alba. Dietro suggerimento di Ruben, Don Pablo acquista una barca: la “Cortigiana dei Mari”, con la quale il gruppo salperà alla volta di El Paso. Prima della partenza, però, a loro si unisce anche Valerio Luiz, uno Sidhe dal fascino misterioso, noto ciarlatano e truffatore impenitente. I nostri, bisognosi di braccia in più, infine cedono alle sue richieste di unirsi all’impresa e lo accolgono, pur con qualche riserva, fra le loro fila.
+
+In mare, l’equipaggio della Cortigiana dei Mari deve affrontare tempeste e mostri marini, ma incontra anche uno strano gruppo di naufraghi, che finiscono per lavorare come membri permanenti della ciurma. Dopo qualche giorno di navigazione i nostri vengono sfortunatamente fatti prigionieri dalla marina, che li conduce nella città-fortezza di Nevarrez, da dove riescono a fuggire per il rotto della cuffia grazie alle doti della new entry Valerio e ai suoi misteriosi contatti.
+
+Il gruppo riesce infine ad arrivare alla cittadina di El Paso, che si scopre essere governata dal malvagio Tobias, il quale schiavizza gli abitanti per estrarre il ferro e costruire orridi costrutti animati da energia demoniaca. Dopo una serie di scontri furiosi e fughe precipitose, i nostri eroi riescono ad intrufolarsi nella villa di Tobias, ingaggiando un mortale combattimento con il mago e i suoi scagnozzi.
+
+**CAPITOLO IV: Un Sapere Pericoloso**
+
+**CAPITOLO V: Di Nuovo in Città**
+
+**CAPITOLO VI: Un Alba Color Sangue**
