@@ -13,8 +13,8 @@ FILES = [
     "00-front-matter.md", "01-cosmogonia.md", "02-gods.md", "03-magic.md",
     "04-ages.md", "05-lay-of-the-land.md", "06-letia.md", "07-young-kingdoms.md",
     "08-helgedad.md", "09-qi-long.md", "10-cartosa.md", "11-gaerwath-elves.md",
-    "12-sadhir-deserts.md", "13-peoples.md", "14-beasts.md", "15-behind-the-veil.md",
-    "16-appendices.md",
+    "12-sadhir-deserts.md", "12b-ophiur.md", "13-peoples.md", "14-beasts.md",
+    "15-behind-the-veil.md", "16-appendices.md",
 ]
 
 # short narrator lines for the table of contents, keyed by file
@@ -31,6 +31,7 @@ NARRATOR = {
     "10-cartosa.md": "Ramiro Estioca, with a factor's ledgers",
     "11-gaerwath-elves.md": "Aelryn Vhaeloth i-Celeblyar, Dark-Elf Loremaster",
     "12-sadhir-deserts.md": "Adhima the Rakhama'i & Yusuf al-Marrah",
+    "12b-ophiur.md": "Nyema of Ga'Namesh, Keeper of the Thousand Songs",
     "13-peoples.md": "Pips Quondam, a Tal-Tanoth traveller",
     "14-beasts.md": "Weck of the Long Road, huntsman of Therìos",
     "15-behind-the-veil.md": "the Veiled Hand — GAME MASTER ONLY",
