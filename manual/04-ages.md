@@ -100,7 +100,7 @@ peace followed — the longest the fallen world has known — and with them the 
 > age's greatest peace to worshippers it privately accounts heathen, and its chroniclers have
 > declined the debt ever since. — *the Curator*
 
-### Of the Fiery Days, and the Chastisements of the East
+### Of the Burning Days, and the Chastisements of the East
 
 Peace is a loan, and the interest fell due. **Between 1900 and 1920 d.M.** the heathen empire of
 **Mah-Dhol** in the Qi-Long fell asunder into six kingdoms, and there appeared the **Dragon-Gods**,

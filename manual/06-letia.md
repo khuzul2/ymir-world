@@ -66,14 +66,14 @@ slaves and binds demons for statecraft; charity does not require us to import th
 law of the open cult is a law of the *open* only — no man's hearth is searched — for a bulwark
 cannot be built of two stones that refuse to sit together. Within the household of the faith we
 quarrel freely enough, God knows: the **Inclusivists** would honour the neutral gods — Ishtar,
-Thurms, and their kin — within Mithra's own liturgy, and the **Popularists** would keep the rite pure
+Thurms, and their kin — within Mithra's own liturgy, and the **Populars** would keep the rite pure
 and the folk-shrines folk. It is a quarrel of scholars, and it will pass, as such quarrels do.
 
 > *Curator's note.* Three corrections, gently. The excluded peoples note that a law which bars a
 > race is felt by shepherds and midwives who never bound a demon in their lives. "No hearth is
 > searched" is the law's letter; its practice has varied with the zeal of the sitting inquisitors —
 > a profession of which this Church has had some notable alumni, on which see the margin below. And
-> the Inclusivist–Popularist "quarrel of scholars" is the sharpest division in the Church since
+> the Inclusivist–Popular "quarrel of scholars" is the sharpest division in the Church since
 > Armora walked out; synods have been suspended over it. It may pass. It has not passed yet. —
 > *the Curator*
 
@@ -149,7 +149,7 @@ ours; the keeping of it is.*
 framing voice, returning from Chapter IV; `NARRATORS.md`). Drawn from `canon/geography.md` (the
 Letia section: ~300 million souls, marches and baronies, the race-laws, the White Mountains and
 Naughrit/Naughrith, the lost east and the secessions), `canon/factions.md` and `canon/pantheon.md`
-(the Church of Mithra, the Theocrat, the Inclusivist–Popularist schism, the Armorite Church),
+(the Church of Mithra, the Theocrat, the Inclusivist–Popular schism, the Armorite Church),
 `canon/history.md` (2563, 2600, 2610, the Goblin Wars 2735–40, the schism and the Vespertina
 reconciliation), `canon/characters.md` (Valdis Nemertine, Leonius and Vespertina VonGryffen,
 Heinrich Kramer), and, in the margins, `canon/secret-the-great-lie.md` (the borrowed faces of the

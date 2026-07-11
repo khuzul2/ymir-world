@@ -164,7 +164,7 @@ answers fit my tables. Every other god on Ymir, however strange, is a face of so
 love. These are not faces. The Xebechani say they are what was there *before* — and when I ask,
 gently, before *what*, they look at me the way I look at my novices. And there is this: for two
 centuries after the Tide a **second moon** wandered where no moon was — red, unscheduled,
-answering no calendar — and the star-priests name it **the Gaze-upon-the-Void**, and say it
+answering no calendar — and the star-priests name it **the Gaze-upon-Nothing**, and say it
 was the Observer, stirring; and that around the year 3260 it did not set, but
 *withdrew*, which they insist is a different thing. The Church called it vulgar superstition
 about an errant heavenly body. The Church also, I observe, has never restored the night
@@ -175,7 +175,7 @@ processions it suspended while that moon stood overhead.
 > **Ancient Gods** — the true, eldest divinities, whom the Adepts found sleeping, sealed beyond
 > the elemental walls, and robbed to fill their own new thrones. They do not fit his Concordance
 > because the Concordance is the cover-story, and they are what it covers. The red moon is
-> exactly what the star-priests say: **the Gaze-upon-the-Void is Tuulhak-Xanar, the Observer**, the
+> exactly what the star-priests say: **the Gaze-upon-Nothing is Tuulhak-Xanar, the Observer**, the
 > seal's first failure — it walked the sky from the Tide until it *receded*, two and a half
 > centuries past: withdrawn, not set — and Xhulhu and Heichpyel, the two
 > "gods" the friar could not file, are that one Observer's exoteric masks: the dreaming face and
@@ -270,7 +270,7 @@ Decisions applied: **COS-1** (hybrid — real gods *and* the Adepts' masks; the 
 it), **COS-4** (the Six real; names and cults co-opted), **COS-5** (one Yogh, Xebech =
 Ulan-Tang), **COS-7** (Thal'Khal = the Seamark Kur), **COS-8** (Valrin the god; the Forces
 his), **COS-20** (the Lesser Gods taxonomy; neutral gods the Inclusivist/Popular flashpoint),
-**COS-21** (one Observer; the Gaze-upon-the-Void = Tuulhak-Xanar; Xhulhu and Heichpyel his masks),
+**COS-21** (one Observer; the Gaze-upon-Nothing = Tuulhak-Xanar; Xhulhu and Heichpyel his masks),
 **MAG-2** (one demon hierarchy: Sovereigns › six Circles › bound Forces). **[INVENTED]**
 connective tissue: Teodabir's biography, Concordance, and "forty-one temples"; the Thal'Khal
 identification staged as his own finding (the equation is canon); his Tezcatlipoca speculation

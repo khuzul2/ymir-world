@@ -94,7 +94,7 @@ The **Oneiroscope** — the College's celebrated dream-engine — remains the ma
 
 Other lands fear their wizards or worship them. Armora *files* them. Behold the four Permits, the alphabet of civilisation: **Permit A**, honest practice without guild dues; **Permit B**, temporary leave for the restricted arts — or for walking your summoned entity through the city gates like a respectable pet; **Permit C**, the same, for longer and broader; **Permit D**, the near-total licence, granted only by a reigning prince and about as common as a modest wizard. Over it all watch the **College of the Seventh Circle**, whose archmages wrote the book — literally: the famous *Red Book* — and the **Section for Magical Control**, plain soldiers trained to look a sorcerer in the eye and ask for his paperwork. Order, dear reader, is the true magic; the rest is merely lightning.
 
-*— ADVERTISEMENT — **DEXTRIUS & QUILL, ADVOCATES BEFORE THE PERMIT BOARD.** Permit B refused? Familiar impounded at the gate? Essence-Meter evidence "ringing" against you? We have argued before the S.C.M. for four generations. Discretion, dispatch, dignity. First consultation free; exorcisms extra. Offices: Merchant District, above the Casino (fittingly).*
+*— ADVERTISEMENT — **DEXTRIUS & QUILL, ADVOCATES BEFORE THE PERMIT BOARD.** Permit B refused? Familiar impounded at the gate? Essence-meter evidence "ringing" against you? We have argued before the S.C.M. for four generations. Discretion, dispatch, dignity. First consultation free; exorcisms extra. Offices: Merchant District, above the Casino (fittingly).*
 
 > *Curator's note.* The permit alphabet is real, and the pride is earned; but the reader of the
 > southern chapters will smile — Cartosa's Blue Mantles run the same licence under a different
@@ -145,7 +145,7 @@ Five centuries past (3025, say the plaques), the Young Kingdoms fell out among t
 *Colophon.* Chapter VII. Narrator: **"The Armora Crier"** (invented framing voice; `NARRATORS.md`).
 Drawn from `canon/geography.md` (the Young Kingdoms and the roster of realms per `sources/raw/regni-giovani.txt`;
 Armora's seven districts), `canon/factions.md` (the Grand Duchy, the Armorite Church, the College of
-the Seventh Circle, S.C.M., the Guild of Artificers), `canon/magic.md` (permits A–D, the Essence-Meter,
+the Seventh Circle, S.C.M., the Guild of Artificers), `canon/magic.md` (permits A–D, the Essence-meter,
 the Oneiroscope, Leyden-jar Automata, vehicles, the *Red Book*), `canon/history.md` (the War of the
 Princes 2200–2230; the War of the Machines 3025–; VonGryffen succession; the ~3518 New Equilibrium present),
 `canon/economy.md` (industrial marks / guild scrip), with colour from

@@ -214,7 +214,7 @@ The quartermaster's page. Commit these to memory; the examinations are not gentl
 - **Orihalcum** — nullifies all magic, without appeal. An Orihalcum-lined cell is worth forty
   interrogators; the Section's manacles have it at the wrist.
 - **Thalaras** — the opposite number: amplifier and conductor of the Essence, priced accordingly.
-- **Umbra** — a light-devouring material from another world, come to us through the Night Folk. It
+- **Umbra** — a light-devouring material from another world, come to us through the Night-Ones. It
   corrupts toward the Dark. We do not stock it. Do not bring me any.
 - **Demon Steel** — which taints its bearer toward Ahriman; and **Dream Steel** — mined
   beneath the Dream World, whose virtue waxes with the

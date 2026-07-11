@@ -157,6 +157,42 @@ Rud-Tekma, Aljira, Al'Sawgdam); relics & blades already non-Italian (Ignus, Sara
 Tassalung, Natharien, Oedring, Masamune, Oblivion, Tessionde); Qi-Long kingdom names (Qiángdà
 Shéshān…); the abbreviation **d.M.**
 
+## G · Terms settled during the pass (not in the original map)
+| Italian | English |
+|---|---|
+| Sguardo-sul-Nulla | the Gaze-upon-Nothing (parallels "Key of Nothing") |
+| Notturni | the Night-Ones |
+| Antichi Dei / il Disastro / La Catastrofe | the Ancient Gods / the Disaster / the Catastrophe |
+| Ultimo Messaggero / La Fonte / Anni della Discordia | the Last Messenger / the Source / the Years of Discord |
+| Spazio Esterno / Abisso / Mondo Spirituale | the Outer Void / the Abyss / the Ethereal Plane |
+| Spiriti Furiosi / Draghi (elemental hybrids) | Raging Spirits / the Dragons |
+| Inclusivisti / Popolari | the Inclusivists / the Populars |
+| Alto Teocrate / Grande Khan | High Theocrat / Great Khan |
+| Topramesk il Giallo / Gwalgamaur il Dorato / Tholaer il Prode | Topramesk the Yellow / Gwalgamaur the Golden / Tholaer the Valiant |
+| il Pacificatore (Armora engine) | the Pacificator (avoids collision with Vespertina "the Peacemaker") |
+| Cuspide Nera / Mastino Scarlatto / Grande Tigre / Fenice Rossa | the Black Sting / the Scarlet Mastiff / the Great Tiger / the Red Phoenix |
+| Essenziometro / Oniroscopio / Aeronave | Essence-meter / Oneiroscope / airship |
+| Elementalisti / Meccanisti / Demonologi / Biomanti / Necromanti | Elementalists / Mechanists / Demonologists / Biomancers / Necromancers |
+| Accademia (Arcana) / Rinascimento Magico | the (Arcane) Academy / a Magical Renaissance |
+| Essenza Corrotta / Risonanza Magica | the Corrupted Essence / the Magical Resonance |
+| Alti / Silvani (elf branches) | the High / the Sylvan |
+| Primigeni / Nani di Pianura / Mezze Razze | the Primeval stock / the Plains Dwarves / the half-peoples |
+| Ibridi / Reptoidi / Fungalidi / Uomo-Pesce / Relitto / Furioso | Hybrids / Reptoids / Fungalids / the Fish-Man / Derelict / Raging |
+| Grande Erg / Forra Gelida / Bosco di Rhems / Altopiano delle Nuvole | the Great Erg / the Frozen Gorge / the Rhems Wood / the Plateau of the Clouds |
+| Foresta Morta / Pianura Gelata / Coste Gemelle | the Dead Forest / the Frozen Plain / the Twin Coasts |
+| Porto Vecchio / Porto Nuovo / il Faro (Meridian) | the Old Port / the New Port / the Lighthouse |
+| Palazzo Ducale / il Corso / Piazza delle Scienze | the Ducal Palace / the Promenade / the Square of the Sciences |
+| Signore dell'Oblio / Signore delle Illusioni / Conclave delle Ombre | the Lord of Oblivion / the Lord of Illusions / the Conclave of Shadows |
+| Frecce d'Argento / Arcano Ordine degli Artefici / Fratellanza | the Silver Arrows / the Arcane Order of Artificers / the Brotherhood |
+| Vetro Abissale / Adamantio / Guscio di Yarhim / Acciaio Demoniaco / Acciaio Onirico | Abyssal Glass / Adamantine / Yarhim-shell / Demon Steel / Dream Steel |
+| il Groviglio / Cuore del Caos / La Spada di Valdis | the Tangle / the Heart of Chaos / the Sword of Valdis |
+| Viaggiatori / Sognatori / sotterranei / campana d'isolamento | the Travellers / the Dreamers / the undercity / the isolation bell |
+| Guerre delle Onde | the Wars of the Waves (Annalist) / "the Wave Wars" (Ramiro's salt-register — deliberate) |
+
+Deliberate register survivals kept (one each): *l'Essenza* at the book's opening; the *Lo Strillone*
+masthead note; the skald's *Signore dell'Oblio*; the Curator's reported slur *i Popoli Neri*; the
+CEO abbreviation's old-tongue expansion; d.M.'s *dopo il Maelstrom*; Appendix A/B/D old stylings.
+
 ## Editorial rules applied with the map
 1. Where the text had "Italian (English gloss)", the gloss becomes the term and the doubling is
    collapsed; the Italian may survive **once per book** in italics at a natural first-mention.

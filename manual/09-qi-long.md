@@ -132,7 +132,7 @@ lotus. Alone of the societies they fight *for* a god — not the ice-queen, but 
 absent one. At a shrine of cut ice their master told the pilgrim what he tells every despairing
 brother: *"We serve a Dragon-God who is not of this world — not yet. Awaiting his return, we must
 guard his realm with the greatest weapon he left us: our faith."* The other societies mock this as
-superstition; the Golden Hawks whisper darker, that the Mongooses are some enemy's unwitting tools.
+superstition; the Golden Falcons whisper darker, that the Mongooses are some enemy's unwitting tools.
 The pilgrim notes only that of six creeds, theirs alone requires the dawn.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
@@ -140,7 +140,7 @@ The pilgrim notes only that of six creeds, theirs alone requires the dawn.
 > True Dragons, above loyal and rogue alike: **Ouroboros**, the True Dragon God, who has woken once
 > already, in the Age of the Tide, and **Alfheim** burned for it. If the "god not yet of this
 > world" is the lost True Dragon-God, the Mongooses keep a vigil. If it is Ouroboros — or if those
-> were ever two names for one appetite — they are kneeling on a fuse. The Hawks' suspicion is the
+> were ever two names for one appetite — they are kneeling on a fuse. The Falcons' suspicion is the
 > sanest sentence in the Qi-Long.*
 
 ### The Eighth Stage — the Capital of Light, and What Is Under It
@@ -157,9 +157,9 @@ refined in the six kingdoms — half-elf poets, scholar-clerks, silk-brokers, an
 east of the Sadhir; the Tal-Tanoth fill their place, and your pockets) — and every one a spy, if
 only on their neighbors.
 
-Fittingly, the local society is spycraft perfected: the **Golden Hawks**, whose
+Fittingly, the local society is spycraft perfected: the **Golden Falcons**, whose
 mark is a raptor's talon — cells that never meet, messages carried as verses by the
-**Master-Singers**, spymasters who never fight, and at the summit a **Red Phoenix** so secret some Hawks
+**Master-Singers**, spymasters who never fight, and at the summit a **Red Phoenix** so secret some Falcons
 doubt it exists. And beneath it all, the old men say, lies a second
 city, entire and inhabited, ruled by the **twin** of the goddess above; which sister holds the
 throne of light and which the shadow, no tale dares settle. The pilgrim, who counts shadows,
@@ -234,7 +234,7 @@ the mountains, was the only mercy that asked no tribute in return.
 
 > *Curator's note.* One matter I record without judgment. A colleague versed in eastern ciphers
 > observes that the pilgrim's maxims scan, every one, in the courier-meter of the **Master-Singers**
-> — the verse-code of the Golden Hawks. A monk owing allegiance to none, walking all six kingdoms,
+> — the verse-code of the Golden Falcons. A monk owing allegiance to none, walking all six kingdoms,
 > remembering everything. I have counted the shadows in this chapter. The count comes out wrong. —
 > *the Curator*
 
