@@ -7,12 +7,11 @@ facsimile — the censors' strokes preserved as they fell.**
 
 > *Curator's note.* When I pressed the Annalist on his chapter, he replied — with a pride I found
 > touching — that the rolls of Solanthya stand open to any honest scholar. I applied; the Clericate
-> obliged; and in due season came this extract, fair-copied, sealed, and certified by its covering
-> letter to be *complete*. The reader may judge the completeness. I have bound the leaf in
-> facsimile rather than in copy, because the strokes are the most instructive writing on it; and I
-> did not attempt to read beneath them — it would have been discourteous, and, as the reader will
-> see, unnecessary. The censors of Solanthya are thorough. Their jurisdiction, like all
-> jurisdiction, ends at the edge of the text. — *the Curator*
+> obliged; and in due season came this extract, sealed, and certified *complete* by its covering
+> letter. The reader may judge. I have bound it in facsimile rather than in copy, for the strokes
+> are the most instructive writing on it; I did not try to read beneath them — discourteous, and,
+> as the reader will see, unnecessary. The censors of Solanthya are thorough. Their jurisdiction,
+> like all jurisdiction, ends at the edge of the text. — *the Curator*
 
 ---
 
@@ -48,21 +47,20 @@ stricken: let the copyist not enquire after the strokes, for such enquiry is its
 examination. Given under the seal of the Office of the Censors of Solanthya.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *The name beneath the strokes is **Heinrich Kramer**. It is the same name all three times, and
-> the censors of Solanthya are diligent, which is a kind of confession: one stroke says* error,
-> *three identical strokes say* memory. *They struck even the synod's year, so that no reader may
-> set it beside 3026 and count. What he was and what he became — inquisitor, twice commended; the
-> fall, the flight, the lich at the ancient gate of Ulan-Tang, the red moon his own Church read
-> for an omen — stands written once already, in the margin of the sixth chapter; the dead do not
-> improve with repetition. Attend instead to what the leaf itself shows. To strike a man from a
-> roll they must first find him on it. To decree him nameless they must name him in the decree —
-> and then strike the decree's own sentence, a Church biting its tongue in the middle of the word.
-> And nothing here was burned: Solanthya burns nothing; ask, some other night, where the unstruck
-> copies sleep. Last of all, hold the page at arm's length. Every bright leaf in this book has
-> passed some office of censors — a church's, a crown's, a narrator's own careful heart. This is
-> only the one where the strokes were left showing. They struck the name from the rolls, from the
-> acts, from the friar's whole loving chapter. They could not strike it from the margin. Nothing
-> strikes the margin. Now you know what the margins are for.*
+> *The name beneath the strokes is **Heinrich Kramer** — the same name all three times, and the
+> censors of Solanthya are diligent, which is a kind of confession: one stroke says* error,
+> *three identical strokes say* memory. *They struck even the synod's year, so no reader may set
+> it beside 3026 and count. For the man himself — inquisitor, twice commended; the fall, the
+> flight, the lich at the ancient gate of Ulan-Tang, the red moon his own Church read for an omen
+> — see the margin of the sixth chapter; the dead do not improve with repetition. Attend to what
+> the leaf shows. To strike a man from a roll they must first find him on it. To decree him
+> nameless they must name him in the decree — then strike the decree's own sentence, a Church
+> biting its tongue in the middle of the word. And nothing was burned: Solanthya burns nothing;
+> ask where the unstruck copies sleep. Now hold the page at arm's length. Every bright leaf in
+> this book has passed some office of censors — a church's, a crown's, a narrator's own careful
+> heart. This is only the one where the strokes were left showing. They struck the name from the
+> rolls, from the acts, from the friar's whole loving chapter. They could not strike it from the
+> margin. Nothing strikes the margin. Now you know what the margins are for.*
 
 ---
 *Colophon.* Unnumbered facsimile leaf, bound between Chapters VI and VII. Drawn from
