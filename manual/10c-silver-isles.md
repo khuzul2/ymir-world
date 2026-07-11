@@ -16,9 +16,8 @@
 ---
 
 I have spent this book at the edge of other people's pages, and the middle of a page is a windier
-place than the notes ever showed me. Very well: one small country, from a clerk — and watch the
-clerk work against the grain, for I have promised cracks, and I am a native, and natives count
-windows.
+place than the notes ever showed me. Very well: one small country, from a clerk working against
+the grain — for I have promised cracks, and I am a native, and natives count windows.
 
 **Of the Isles.** East away from the sailor's home waters, mid-ocean, green and silver (Chapter V;
 I cannot better him), lies the archipelago the charts call the **Silver Isles**. Of the name the learned offer
@@ -27,9 +26,8 @@ dusk, which is not scholarship.
 
 Know the older fact under the pretty one: **the Isles are old land and new islands.** Before the
 year 0 they were the high shoulders of the continent the Catastrophe drowned — the rim of the
-country whose heart is now the Maelstrom's water. When the working broke the world, the sea came in
-between the high ground and the body of it; we are, exactly, the coastline of a country that no
-longer exists. On the western shores at low spring tide a paved road walks down into the water and
+country whose heart is now the Maelstrom's water. The sea came in between the high ground and the
+body of it; we are, exactly, the coastline of a country that no longer exists. On the western shores at low spring tide a paved road walks down into the water and
 keeps going, in good repair, toward a horizon with nothing on it. The oldest songs of the Tylweth
 Teg name the year 0 the Day the Road Drowned, and do not sing it for visitors.
 
@@ -90,12 +88,11 @@ d.M.** the **First Council of Peoples** convened, on the evidence that Ea's kind
 in **1735** the peoples swore the **Coalition of Peoples** — one oath, against the Sovereign
 Demons, in two clauses: the *sword-clause*, that the Enemy of one is the Enemy of all; and the
 *lamp-clause*, that what any people learns of the Enemy is owed to every people, at once and
-unpriced. Two hundred years of peace followed. From **2590 to 2595** the Second Council renewed the
-oath and raised the **Crystal Seat** above my harbour, and the **Council of Peoples** has sat here
-since — the nearest thing Ymir has to a united government, a famous sentence whose halves both bear
-weight: *nearest thing*; and *has*. I noted in the Ages chapter that Xebechani diplomacy summoned
-the First Council, star-priests going embassy by embassy, and that the Church's chroniclers have
-declined the debt ever since. Let the host's chapter pay it: in eighteen hundred years the
+unpriced. From **2590 to 2595** the Second Council renewed the oath and raised the **Crystal Seat**
+above my harbour, and the **Council of Peoples** has sat here since — the nearest thing Ymir has to
+a united government, a famous sentence whose halves both bear weight: *nearest thing*; and *has*. I
+noted in the Ages chapter that Xebechani diplomacy summoned the First Council, and that the
+Church's chroniclers have declined the debt ever since. Let the host's chapter pay it: in eighteen hundred years the
 Xebechani chair in this hall has never once stood empty. It is the only attendance they have ever
 cared to keep perfect. I have not learned why.
 
@@ -113,8 +110,8 @@ map beside this book inside it. The crystal of its walls was quarried in no pit 
 name; it takes the evening light and holds it the way deep water holds pressure, and in the great
 chamber a whisper walks the whole ring of chairs. I have read the minutes of the building years —
 I read everything. Four pages are
-missing from 2592, the year the foundations were cut. I record the fact. The reader may file it
-with the derivations of "Silver."
+missing from 2592, the year the foundations were cut. I record the fact, and file it with the
+derivations of "Silver."
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The four pages were dig-notes. The masons cut for foundations and stopped early, on a floor that
@@ -135,17 +132,14 @@ third time — the *three askings* — so the Council moves at the speed of its 
 Still, I promised cracks. The **Long Question** — a chair for the half-peoples — was moved in 2601
 and resolved in 2642, by carpentry: a bench, which seated everybody and satisfied nobody, the
 Council's characteristic success. The Gaerwath keeps its chair as a duellist
-keeps a glove, and sends, when it sends anyone, proxies chosen with care to insult. The Sohleugir
-attend once in a generation, decline the chair — chairs, they observe, are for drying — deliver
-their soundings in exact weights, and are gone by the tide. And the Belligerent Kingdoms have asked
-for a chair once in three centuries, through an envoy who spat first; the asking is still on the
-order-paper, which at our pace signifies interest.
+keeps a glove, and sends, when it sends anyone, proxies chosen with care to insult. And the
+Sohleugir attend once in a generation, decline the chair — chairs, they observe, are for drying —
+deliver their soundings in exact weights, and are gone by the tide.
 
 **Of what the oath still binds.** What is an alliance against the Sovereign Demons *for*, most of
 the Sovereigns being dead? I answer as the Seat answers new envoys: three walk; a continent stands
 on the southern charts that stood on no chart before the Tide; and the lamp-clause has never
-lapsed — the reports of the risen coast are read at every Great Sitting, in a chamber that goes
-quiet for them. The sword-clause has been paid in full twice: once in the swearing generation, and
+lapsed — the reports of the risen coast are read at every Great Sitting. The sword-clause has been paid in full twice: once in the swearing generation, and
 once in the Chaos, when the Coalition, so long a parchment, became again a sword. No signatory has
 ever denounced the treaty. It binds the way an old debt binds: nobody pays, and nobody burns the
 paper.
@@ -185,12 +179,12 @@ instruction is harder. The cracks of my country, counted: we live by being every
 so belong not quite to ourselves; our parliament's patience is indistinguishable, in a bad decade,
 from paralysis; our smallest people carries a hatred the rest of us call charming because we do not
 understand it; and under the fairest hall on Ymir four pages are missing that I have stopped asking
-after, which is not the same as ceasing to think about. The windows I leave to the reader. There
+after. The windows I leave to the reader. There
 are a great many; the evening light through them is silver; and I am not able to be exact about it,
 which is how the reader may know that I am home.
 
-They tell me this chapter, too, has margins now, in the hand the copyists could not copy. I have
-not read them. Everything else in this book I have read twice; but a man may decline to read what
+They tell me this chapter, too, has margins now. I have not read them. Everything else in this
+book I have read twice; but a man may decline to read what
 has been written about his mother's house in a script the eye does not like to rest upon. If they
 contradict me, trust them. That rule of mine survives its author — and I find I have nothing
 further to add; which, in a writer of notes, the reader may take for peace.
@@ -220,8 +214,8 @@ off Chapter I's jailer's-servant margin and Chapter IV's note). Decisions applie
 Breaking of the Isles a shore of the single event). **[INVENTED]**, flagged the more thoroughly
 because canon gives the Council's existence, seat, and oath but not its workings: the whole
 procedure (the nine chairs of Men, the Great Sitting, the Table of Residents, the "three askings,"
-the Long Question's bench, the Gaerwath proxies, the Sohleugir refusals, the Belligerent envoy);
-the named sword- and lamp-clauses; the commissioning minute of 3502 and the subscriptions in kind;
+the Long Question's bench, the Gaerwath proxies, the Sohleugir refusals); the named sword- and
+lamp-clauses; the commissioning minute of 3502 and the subscriptions in kind;
 **Master Fennick**, Gnome bookkeeping, and every accounts line (the fifteenth-quire entry restates
 Chapter XV's finding; the goat squares Chapter XIII's); the Curator's person and biography
 (Elendor birth, Lantern Row, the boom-chain, the mother's house); the "rim of the drowned

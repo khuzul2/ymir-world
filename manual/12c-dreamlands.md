@@ -4,15 +4,14 @@
 **From the retirement memoir of Hesper Vaneck of Armora, thirty years dream-pilot of the licensed house at the sign of the Bell & Candle, Glassharp Lane, the New City; styled on her licence — No. 114 in the registry of the College of the Seventh Circle — Conductor of Assisted Sleep, second grade. Deposited at the Crystal Seat, unasked, beneath fifty-one volumes of descent-logs.**
 
 > *Curator's note.* This leaf was not commissioned. It arrived two winters after the book was
-> sewn, in a deal crate under the log-volumes of a licensed Armorite dream-house — each page
-> ruled, each waking-time entered before each fee; the arithmetic reconciles to the minute
-> across thirty years, which nothing else in this Compendium can claim. The covering letter
-> asked only that the logs be kept somewhere that does not burn. The memoir lay underneath them,
-> unmentioned. I bind it among the late leaves because the desert chapter ends standing at a
-> door into this same country, and because the late leaves are where this book keeps the
-> accounts that came in after the accounts were closed. The reader will notice the narrator's
-> tenses misbehave. I queried one passage and received her only reply: *"It is not a slip. It is
-> the tense the country keeps."* — *the Curator*
+> sewn, in a deal crate under the log-volumes of a licensed Armorite dream-house; the arithmetic
+> of their waking-times reconciles to the minute across thirty years, which nothing else in this
+> Compendium can claim. The covering letter asked only that the logs be kept somewhere that does
+> not burn. The memoir lay underneath them, unmentioned. I bind it among the late leaves because
+> the desert chapter ends standing at a door into this same country, and because the late leaves
+> are where this book keeps the accounts that came in after the accounts were closed. The reader
+> will notice the narrator's tenses misbehave. I queried one passage and received her only
+> reply: *"It is not a slip. It is the tense the country keeps."* — *the Curator*
 
 ---
 
@@ -72,15 +71,15 @@ earnest, for the Meadows are *shared*. You know a thing is not yours by the way 
 you — an inn that goes on standing when no one dreams in it. A pilot learns the fixed
 **landfalls** as a coastwise master learns his marks — not by star or needle, for there are
 none, but by *conviction*: you steer by what you can hold yourself certain of, which is why the
-trade takes calm persons and ruins vain ones. The Guild even assays a metal mined, they say,
-under that country — **Dream Steel**; I have held a knife of it, and it weighed exactly what I
-believed it weighed.
+trade takes calm persons and ruins vain ones. Consider **Dream Steel**, the metal mined, they
+say, under that country: I have held a knife of it, and it weighed exactly what I believed it
+weighed.
 
 Below the Meadows — in the plainest tram-language I own — lie **the deeper shores**, and the
 deeper shores are not priced in marks. Nothing down there wants your gold. The far country
 trades in waking things, and names its own price: hours first, for time there runs as it pleases
 — a forty-minute sitting can cost a day and a half; then the fine grain of memory, so that a man
-comes home whole but can no longer say his mother's smell; then names. I watched a colleague pay
+comes home whole but can no longer say his mother's smell; then names. A colleague of mine paid
 a name once. He is well. He is *called* something now, the way a shop is called something. That
 is the tariff of the deep, and no bell rings there softly.
 
@@ -114,9 +113,8 @@ swear, small things that fit in a closed hand — and these are the **Travellers
 Permit Office's alphabet keeps no page, which tells you its whole opinion of them.
 
 > *Curator's note.* For these doors from the waking side, see the desert chapter before this
-> leaf, whose lore-keeper ends standing at the same threshold; for the parlours as their own
-> city sees them, the Crier's notice in Chapter VII, tariffs and condolences included. — *the
-> Curator*
+> leaf, whose lore-keeper ends standing at the same threshold; for the parlours as their city
+> sees them, the Crier's notice in Chapter VII. — *the Curator*
 
 **From the log of Descent 3,441, ninth of Serpent, 3502; client a College man, Permit C,
 question not stated; down at the third bell of night, waking-bell the sixth.** *We go deep. Past
@@ -222,37 +220,34 @@ hold a bell so it does not ring. And if the answer is still *not yet*, then file
 *there: the lamp is in the window. The stair is under my foot. The mist is opening the way a
 hand opens. I am not asleep, reader; I am early. Hold the bell.*
 
-> *Curator's note.* The crate bore no return address; the carter's bill named a fishing village
-> on the Young Kingdoms' north-western coast, the last with sight of the fog-bank. I wrote once,
-> with a question about tariffs. The answer came in a neighbour's hand: the pilot sleeps longer
-> each month, wakes cheerful, and asks that her waking-time be left unset. I have entered the
-> leaf accordingly. — *the Curator*
+> *Curator's note.* The crate bore no address; the carter's bill named a fishing village on the
+> north-western coast, the last with sight of the fog-bank. I wrote once. The answer came in a
+> neighbour's hand: the pilot sleeps longer each month, wakes cheerful, and asks that her
+> waking-time be left unset. I have entered the leaf accordingly. — *the Curator*
 
 ---
 *Colophon.* Chapter XII·C (late-bound). Narrator: **Hesper Vaneck** of Armora (invented framing
 voice; `NARRATORS.md`). Drawn from `canon/cosmology.md` (the Dream World a region of the Spirit
 World, **COS-16**; the Outer Gods a third axis, **COS-9**), `canon/geography.md` (Kyria the
-mist-isle, untouched by the Catastrophe; Thonis and its refugees; the Dream World reached by
-Armora's Oneiroscope), `canon/magic.md` (the Oneiroscope; Green Lotus and the soul slipping
-loose; Dream Steel; the permit alphabet), `canon/history.md` (Kyria's Mists ~1710; **HIS-15**:
-the "sleeping Ragash" a Dream-World mirror of the destroyed city; **HIS-1/HIS-2**: the ~3518
-present, the Vespertina succession), `canon/characters.md` (Vespertina the Peacemaker), and in
-the margins `canon/secret-the-great-lie.md` (the Dreamlands under the Outer Gods; the conscious
-Dreamers/Travellers; Topramesk the Yellow at the dream-gate of Ragash; **Arcadia**, the Kraeva,
-the Van Argan Stones), with regional detail from `sources/extracted/batch2-digests/regions.md`
-(Kyria's veil against the Sovereign Demons, the Dreaming Legion, Gildiss; the Erg's dream-gates,
-the seer of Ulan-Tang, Mubafer's palace-prison) and
-`sources/extracted/wiki/cosmology-religion.md` §16 (the Desert of Lost Dreams, the Crystal
-Empire, the Prophecy of the Return, "wearing the White," Banite). **[INVENTED]:** the narrator
-herself — name, biography, the Bell & Candle house, Glassharp Lane, the fifty-one log-volumes,
-all descent-numbers and dates; the licence style "**Conductor of Assisted Sleep, second grade**"
-and all parlour procedure (the waking-bell rite, the log-before-fee creed, the two-pilot rule,
-the ninety-mark tariff); the trade's navigation practice and toponymy (the Stair, **the Hem**,
-**the Meadows**, landfalls, the unlit Lighthouse, finger-counting, "north-by-sleep"); the deep
-shores' price-list (hours, memory-grain, names), a systematisation of canon's qualitative
-dangers; her Kyria landing and the sentence "Not you; not yet" (the veil's reading-and-keeping
-is established in Ch. V's margin; her case is new); her unlicensed descent and its costs; the
-**Vespertina bargain** of the third margin — contract, terms, and the "College's first engine"
-are new connective tissue paying off Chapter VII's weeping-garden margin, deliberately
+mist-isle, untouched by the Catastrophe; Thonis and its refugees), `canon/magic.md` (the
+Oneiroscope; Green Lotus and the soul slipping loose; Dream Steel; the permit alphabet),
+`canon/history.md` (Kyria's Mists ~1710; **HIS-15**: the "sleeping Ragash" a Dream-World mirror;
+**HIS-1/HIS-2**: the ~3518 present, the Vespertina succession), `canon/characters.md`
+(Vespertina the Peacemaker), and in the margins `canon/secret-the-great-lie.md` (the Dreamlands
+under the Outer Gods; the conscious Dreamers/Travellers; Topramesk the Yellow at the dream-gate
+of Ragash; **Arcadia**, the Kraeva, the Van Argan Stones), with regional detail from
+`sources/extracted/batch2-digests/regions.md` (Kyria's veil, the Dreaming Legion, Gildiss; the
+Erg's dream-gates, Mubafer) and `sources/extracted/wiki/cosmology-religion.md` §16 (the Desert
+of Lost Dreams, the Crystal Empire, the Prophecy of the Return, Banite). **[INVENTED]:** the
+narrator herself — name, biography, the Bell & Candle house, Glassharp Lane, the fifty-one
+log-volumes, all descent-numbers and dates; the licence style "**Conductor of Assisted Sleep,
+second grade**" and all parlour procedure (the waking-bell rite, the log-before-fee creed, the
+two-pilot rule, the ninety-mark tariff); the trade's navigation practice and toponymy (the
+Stair, **the Hem**, **the Meadows**, landfalls, the unlit Lighthouse, finger-counting,
+"north-by-sleep"); the deep shores' price-list (hours, memory-grain, names), systematising
+canon's qualitative dangers; her Kyria landing and "Not you; not yet" (the veil's
+reading-and-keeping is Ch. V's margin; her case is new); her unlicensed descent and its costs;
+the **Vespertina bargain** of the third margin — contract, terms, and "the College's first
+engine" are new connective tissue paying off Chapter VII's weeping-garden margin, deliberately
 unresolved; the fourth margin's reading of Thonis's refugees as the Legion's recruiting and of
 "not yet" as a posting-order. Present ≈ 3518 d.M.

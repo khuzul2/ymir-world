@@ -17,8 +17,8 @@ To the Reverend Fathers Examiners; and to my successor upon this shelf, whomever
 with the appointment.
 
 Renown is a road, and roads carry pilgrims or plague; the Office must know the traffic. The
-common man swears by these names, christens his sons with them, hangs them on his inn-signs, and
-will take doctrine from a dead hero sooner than from a living homilist. Hence this Register:
+common man swears by these names, christens his sons with them, and takes doctrine from a dead
+hero sooner than from a living homilist. Hence this Register:
 first what the charters attest; then what common report adds, marked as report; last the Verdict
 of the Office, which is the purpose of the exercise. And let my successor mark it early: the
 Office burns less than the world believes. The lowest shelves are locked, not empty. What follows
@@ -46,16 +46,7 @@ which is, the Office observes, what exiles always say.
 the demonolaters is nonetheless entered with an approval the Office is not, strictly, entitled to
 feel.
 
-**III. Marco Cartaurelius** — captain of the Empire; landed 1320 d.M., died 1339. He bore the
-banner south, landed at Punta del Toro in 1320, raised a fort, and governed the province he had
-made until his death in 1339, whereupon Cartoris took the name Cartosa in his memory — and, in
-the fullness of centuries, a crown. The chronicles record that he heard the offices daily aboard
-ship, and I choose to believe them. That his heirs' realm now tithes chiefly to the sea-god is
-not chargeable to the dead.
-*Verdict of the Office:* PIOUS; died at his post; a province for a monument. The Office observes
-that this is more than several saints have managed, and withdraws the observation.
-
-**IV. Aslund, called the Swordless** — legionary of the Tenth; Helgedad, in the Empire's day.
+**III. Aslund, called the Swordless** — legionary of the Tenth; Helgedad, in the Empire's day.
 Builder of the wall that bears his name: four hundred kilometres of stone from sea to sea across
 the Kelmark, raised against the northern barbarians while Helgedad was yet of the Empire — the
 year itself the northern rolls do not condescend to give. The north says he laid his own sword in
@@ -64,48 +55,46 @@ doctrine of works, and the Wall of Aslund is the largest single prayer in the wo
 *Verdict of the Office:* PIOUS, after the frontier fashion; a wall being a psalm in stone, he is
 entered among the devout — the more readily as he can no longer be examined on particulars.
 
-**V. Uglush, called the Supreme** — warlord of the Great Orc Horde; 2015–2030 d.M. The scourge of
+**IV. Uglush, called the Supreme** — warlord of the Great Orc Horde; 2015–2030 d.M. The scourge of
 the east. In fifteen years of fire his Horde carved from the Empire's living body the realms now
 called Belligerent, where the Khans squabble upon Letian bones. Of his end the chronicles are
 silent, orcs keeping no registry that Mithra would audit. Anathema was pronounced while the
 marches still burned and is renewed at every synod since; my predecessors note, with the honesty
 this Register requires, that the anathema has to date recovered no province.
 *Verdict of the Office:* BLASPHEMER; ANATHEMA, pronounced and perpetually renewed. See the
-caution at entry XI below, and let no novice merge the files.
+caution at entry X below, and let no novice merge the files.
 
-**VI. Morannagul, styled the Eternal** — unifier of the Gaerwath; 2550 d.M. to this present
+**V. Morannagul, styled the Eternal** — unifier of the Gaerwath; 2550 d.M. to this present
 writing. In 2550 a young Dark-Elf lord unified the Gaerwath; in 3518 the same lord rules it
 still, unaged, over an empire that keeps our kind for slaves and binds demons for statecraft.
-This registry holds nine hundred years of findings against him, and he has outlived every hand
-that wrote them — including the anathema as renewed by Theocrat after Theocrat, which he is
-nowhere reported to have noticed.
+This registry holds nine hundred years of findings against him; he has outlived every hand that
+wrote them, and the anathema, renewed by Theocrat after Theocrat, he is nowhere reported to have
+noticed.
 *Verdict of the Office:* DEMONOLATER; ANATHEMA, many times renewed and demonstrably not
 inconvenienced. The Office persists. So, regrettably, does he.
 
-**VII. Valdis Nemertine** — last heir of the throne of Letia; fell 2563 d.M. In that year the
-Sovereign Demon Saxul, Lord of All Fevers and Pestilence, manifested in the imperial capital
-under a black cloud, and at the Battle of the Broken Land was destroyed — the second of his kind
-ever slain — and Valdis Nemertine gave her life in the destroying. The crown ascended with her;
-the crozier, in God's season, took up what the crown had laid down. Her cause of sainthood is the
-largest file in this registry. Of the Sword of Valdis: three shrines display a sword apiece; the
-Office has authenticated none and — the pilgrims being devout and the offerings regular — has
-closed none.
+**VI. Valdis Nemertine** — last heir of the throne of Letia; fell 2563 d.M. In that year the
+Sovereign Demon Saxul, Lord of All Fevers and Pestilence, manifested in the imperial capital, and
+at the Battle of the Broken Land was destroyed — the second of his kind ever slain — Valdis
+giving her life in the destroying. The crown ascended with her; the crozier, in God's season,
+took up what the crown had laid down. Her cause of sainthood is the largest file in this
+registry. Of the Sword of Valdis: three shrines display a sword apiece; the Office has
+authenticated none and — the pilgrims being devout and the offerings regular — has closed none.
 *Verdict of the Office:* MARTYRDOM CONFIRMED; SAINTHOOD PENDING, these nine hundred and fifty
 years. Heaven is not slow. Heaven is thorough.
 
-**VIII. The house of Carrillo** — princes of Cartosa; 1906 d.M. to this present. The princely line
+**VII. The house of Carrillo** — princes of Cartosa; 1906 d.M. to this present. The princely line
 of the daughter-colony since a governor was raised to Prince in 1906. Of their deeds: Rodriguez
 XI reduced Meridian and annexed it in the War of the Red Sea, 2817–2830; Alberto V took the
 throne in the Year of the Black Sun, 3017, having — so every southern telling insists — held his
-own palace stair against the Black Dawn. Note that Cartosa's own heralds cannot agree in which
-years the thirteenth Rodriguez reigned and the fifth Alberto succeeded; the Office files both
-accounts and trusts neither, the correct posture toward all Cartosan paperwork. The house tithes
-chiefly to Orum, invokes Mithra at coronations, and remits to Solanthya with commendable
-punctuality.
+own palace stair against the Black Dawn. Cartosa's heralds cannot even agree in which years the
+thirteenth Rodriguez reigned and the fifth Alberto succeeded; the Office files both accounts and
+trusts neither. The house tithes chiefly to Orum, invokes Mithra at coronations, and remits to
+Solanthya with commendable punctuality.
 *Verdict of the Office:* LAX, the line entire — the sea-god at table, the sun-god on feast-days;
 funds however accepted.
 
-**IX. Berthrant Vaelaer** — champion; Helgedad, 3015–3020 d.M. When the army of the Wolves took
+**VIII. Berthrant Vaelaer** — champion; Helgedad, 3015–3020 d.M. When the army of the Wolves took
 Nortislong in a single day and was as suddenly gone, it was Berthrant Vaelaer who would not let
 the leavings live: five years he hunted the remnant, sworn to scour Evil from that island root
 and stone, with a muster at his back that the north still sings. Helgedad left the Empire's fold
@@ -115,7 +104,7 @@ shown.
 *Verdict of the Office:* SCHISMATIC BY GEOGRAPHY; RIGHTEOUS BY WORKS. Entered as PIOUS, if
 lamentably armed, and lamentably elsewhere.
 
-**X. Tobias** — captain of the Black Dawn; Cartosa, 3017 d.M. Master of the cult called the
+**IX. Tobias** — captain of the Black Dawn; Cartosa, 3017 d.M. Master of the cult called the
 Black Dawn — Ahriman's, and the Sovereign Demons', its seal a sun eclipsed — and author of the
 failed coup that gave the Year of the Black Sun its name. The coup broke; the cult burned. The
 Office's experience of burned cults may be summarised: cults do not burn, they cure, like ill-cut
@@ -124,7 +113,7 @@ strength of smoke.
 *Verdict of the Office:* DEMONOLATER; UNREPENTANT, twice invited. The invitations stand
 cancelled. The watch does not.
 
-**XI. Ugrumuulsh, called One-Eye** — Great Khan of the orcs; fl. 3026 d.M. Great Khan of the
+**X. Ugrumuulsh, called One-Eye** — Great Khan of the orcs; fl. 3026 d.M. Great Khan of the
 Belligerent Kingdoms in the year the red moon rose, when he read the omen as the Theocrat and the
 Technocrat read it, and armed as they armed — the single recorded instance of doctrinal agreement
 between Solanthya and an orc. CAUTION FOR EXAMINERS, in my own hand and underscored: this is not
@@ -133,12 +122,12 @@ smell. The files have been merged three times by novices and unmerged three time
 *Verdict of the Office:* BLASPHEMER, in his own right and not his predecessor's. The distinction
 is doctrine. See that it stays seen.
 
-**XII. Of the Heresiarch of Ulan-Tang** — the name struck from this and every roll, by decree;
+**XI. Of the Heresiarch of Ulan-Tang** — the name struck from this and every roll, by decree;
 fl. 3026 d.M. He was ours. The Register is commanded to forget him and commanded to warn of him,
 and I have written this entry seven times to make it do both. ████████ ██████ was received into
-the Office in ████; served as inquisitor, commendations twice entered — struck, though their
-stubs remain in a ledger that is locked, not empty; fell — the manner of his falling is struck;
-and fled. And in 3026 d.M., before the ancient portal at Ulan-Tang, being by then a lich and a
+the Office in ████; served as inquisitor, commendations twice entered and twice struck; fell —
+the manner of his falling is struck; and fled. And in 3026 d.M., before the ancient portal at
+Ulan-Tang, being by then a lich and a
 cultist of the outer dark, he wrought the abomination that drew down upon the world the red moon
 that owned no calendar — the heathens have a name for it, which I will not copy. That moon was
 two hundred years and more in the withdrawing. The Theocrat of that age struck his name from the
@@ -150,14 +139,13 @@ sentence is being served.
 > *The struck name was **Heinrich Kramer**, inquisitor of this same Office, and the striking was
 > tidier than the truth. Nothing at Ulan-Tang is recorded destroyed: a lich ends at its
 > phylactery, and no account claims one was found. His workings remain around a gate that has
-> already admitted a god's attention once. And on the lowest shelf — the one the frater says is
-> locked, not empty — certain proscribed pages give a name for what the lich intends to become,
-> **M'Raker**, and describe a war the world has not yet had: dead armies spanning continents,
-> Armora besieged, the gods barred from the sky. Prophecy, forgery, or a nightmare with good
-> handwriting — no other record says. If you open that door at your table, know what you are
-> arming.*
+> already admitted a god's attention once. And on the lowest shelf — locked, not empty —
+> proscribed pages give a name for what the lich intends to become, **M'Raker**, and describe a
+> war the world has not yet had: dead armies, Armora besieged, the gods barred from the sky.
+> Prophecy, forgery, or a nightmare with good handwriting — no other record says. If you open
+> that door at your table, know what you are arming.*
 
-**XIII. Obnubia** — a seer; the years of the Tide. A seer of the Tide's eve, whose sight — common
+**XII. Obnubia** — a seer; the years of the Tide. A seer of the Tide's eve, whose sight — common
 report insists, and sober captains confirm — found true where the Obscuring should have blinded
 her. Doctrine is settled that no honest divination reaches far under the Maelstrom; Obnubia's did
 not trouble to be dishonest, merely correct. The Register records, because it must, that the
@@ -166,7 +154,7 @@ shelf, and both came true, which is why the shelf is the lowest.
 *Verdict of the Office:* NEITHER PIOUS NOR IMPIOUS BUT INCONVENIENT; not to be consulted;
 consulted twice; see the previous clause, and do not see it again.
 
-**XIV. Tofango** — axeman; bearer of Oblivion; the years of the Tide. The greatest axeman of his
+**XIII. Tofango** — axeman; bearer of Oblivion; the years of the Tide. The greatest axeman of his
 age, and the saddest file in the house. In his hands was Oblivion, a two-handed axe of purest
 Demon Steel, within which a mighty demon lies imbued and trapped; the thing's will gnawed him by
 inches — madness, loss of governance, deeds his companions would not repeat under seal — until
@@ -178,22 +166,21 @@ disputed forty years whether such affliction is sin, and concluded, for once, in
 being at large, the mercy is under review.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *The verdict is kinder than the Office knows it is being. Oblivion was forged at Hagelbarn by
-> the alchemist Hans Schlecht, vowed to Ahriman, its demon set to wake as the bearer's corruption
-> deepened — and the commission was placed, and paid, by an inquisitor of this very Office: the
-> name struck two entries above. It was built as a lure for the paladin Urikal; it found Tofango
-> instead. The instrument that ate the greatest axeman of his age was Church-commissioned work,
-> and the register that absolves him was written in the house that ordered the axe. It is on a
-> mountain somewhere still, patient, waiting for hands.*
+> *The verdict is kinder than the Office knows. Oblivion was forged at Hagelbarn by the alchemist
+> Hans Schlecht, vowed to Ahriman, its demon set to wake as the bearer's corruption deepened —
+> and the commission was placed, and paid, by an inquisitor of this very Office: the name struck
+> two entries above. Built as a lure for the paladin Urikal, it found Tofango instead; the
+> register that absolves him was written in the house that ordered the axe. It is on a mountain
+> somewhere still, patient, waiting for hands.*
 
-**XV. Surya** — bearer of the Masamune; the Machines' war, from 3025 d.M. An easterner, named
+**XIV. Surya** — bearer of the Masamune; the Machines' war, from 3025 d.M. An easterner, named
 among the heroes of the great war of the Young Kingdoms, and bearer of the blade the east calls
 the Masamune — which the doctors of magic identify with Meletskar, one of the six Relics of the
-histories. The bearer is reported brave, temperate, merciful in victory, and wholly unbaptised.
+histories. The bearer is reported brave, temperate, and wholly unbaptised.
 *Verdict of the Office:* PAGAN; INSTRUMENT, notwithstanding, OF PROVIDENCE. The Office does not
 canonise foreigners, and declines to say how near it came.
 
-**XVI. Isidoro VonGraven** — of Armora; the Machines' war. A hero of the same war, of the
+**XV. Isidoro VonGraven** — of Armora; the Machines' war. A hero of the same war, of the
 Armorite line VonGraven — and here the clerk's pen must slow: VonGraven, not VonGryffen; the
 ducal house is the other; those files too have been married and annulled twice. Of Isidoro the
 attested part is valour. The reported part is stranger: that he was not born but made, in the
@@ -203,7 +190,7 @@ hearsay.
 *Verdict of the Office:* SCHISMATIC (Armorite); also, per report, TWICE-MADE. A man may be made
 twice; he is christened once; the Office was consulted on neither occasion, and remembers.
 
-**XVII. Leonard** — adversary of the Machines' war. The great adversary of that war after the
+**XVI. Leonard** — adversary of the Machines' war. The great adversary of that war after the
 dragon itself: a lord among the undead — a vampire, the sober accounts agree — who moved behind
 the Black Sorcerers and behind worse. He was destroyed. The Office would enjoy ending the entry
 there. But reports of his destruction have been filed more than once, which is once more than the
@@ -211,7 +198,7 @@ arithmetic of destruction allows.
 *Verdict of the Office:* DAMNED; DESTROYED, per the accounts; the accounts, per the Office,
 PENDING. The file is chained open.
 
-**XVIII. Vespertina VonGryffen, the Peacemaker** — Grand Duchess of Armora; after the Tide.
+**XVII. Vespertina VonGryffen, the Peacemaker** — Grand Duchess of Armora; after the Tide.
 Successor to Leonius, who brought the wayward daughter back to Letia's side against the Khans — a
 treaty of equals, her chancery insists; a return, our pulpits prefer; the orcs, who were the
 occasion, were not consulted on the wording. Her line rules Armora still, and its church remains
@@ -220,7 +207,7 @@ joint thanksgiving, and declined — thrice, and graciously — to convert.
 *Verdict of the Office:* SCHISMATIC, LAMENTABLY; FAITHFUL TO HER WORD, UNDENIABLY. The Office
 prays for her house, accepts her garrisons, and keeps the file in the drawer marked BOTH.
 
-**XIX. Roberto Rodrigo, called the Armorite** — pirate; the southern seas. The pirate legend of
+**XVIII. Roberto Rodrigo, called the Armorite** — pirate; the southern seas. The pirate legend of
 the Cartosan waters: northern-named, southern-crewed, and by every account unhanged. Two lives of
 him circulate — *The Legend*, which is affectionate, and *The True History*, compiled by a bard
 of Cartosa, which is meticulous and reads, examiners will note, less like a biography than like a
@@ -231,7 +218,7 @@ save, both lives agree, his word once given over cards.
 absentia, the absentia persisting. If his second biographer is right, not baptisable in any case,
 which would simplify the file wonderfully.
 
-**XX. Dwayne Soylen, called Saint Dwayne the Builder** — paladin of Thurms. A paladin of the
+**XIX. Dwayne Soylen, called Saint Dwayne the Builder** — paladin of Thurms. A paladin of the
 thunder-god who raised temples the way other soldiers raise camps, and whom the south has
 canonised by acclamation — there is a written *Life*, and there are shrines — without reference
 to any calendar of ours. The Office has ruled three times that there is no Saint Dwayne; the
@@ -240,7 +227,7 @@ the roofs, my correspondents report with regret, hold.
 *Verdict of the Office:* SAINT BY ACCLAMATION, IN A COMMUNION NOT OURS; which is to say, NOT A
 SAINT; see the previous clause. Suppression pending; funding for suppression pending longer.
 
-**XXI. The Two of the Tide** — names wanting; Year 0 of the Age of the Tide. And last, the entry
+**XX. The Two of the Tide** — names wanting; Year 0 of the Age of the Tide. And last, the entry
 that shames the registry. Two adventurers, in the years about 3025 to 3027, took up the six
 Divine Relics and stripped the seals from the Runes of Power; the isolation of the Maelstrom
 shattered, every door of the ancients opened, and this age began. Every consequence in the
@@ -257,16 +244,15 @@ has waited four hundred and ninety years. The Office is patient.
 > *The Office may be waiting for a defendant it has already tried. Strip the accounts to what
 > they attest, and the candidates for the two names reduce to these: the company that gathered
 > the six Relics — whose bearers this register names without knowing it — or the vampire Leonard,
-> filed above with his file chained open; or one of each. No record decides, and each answer
-> poisons a different sermon. The blank the frater measured is a door left open at the exact
-> centre of the age, and whoever walks two names through it decides what this era was* for. *No
-> prize in this book is larger.*
+> his file chained open above; or one of each. No record decides, and each answer poisons a
+> different sermon. The blank the frater measured is a door left open at the exact centre of the
+> age; whoever walks two names through it decides what the era was* for. *No prize in this book
+> is larger.*
 
 Here end the extracts. My successor will add names; the world does not stop minting them. Let him
-keep the files distinct, the verdicts dry, and the lowest shelf locked; and let him remember,
-when some new figure of renown sets the world alight, that our duty is not to admire the light
-but to record what it consumes. Mithra keep the Register; the Register, God willing, will help
-keep Mithra's house.
+keep the files distinct, the verdicts dry, and the lowest shelf locked; and let him remember that
+our duty is not to admire the light of renown but to record what it consumes. Mithra keep the
+Register; the Register, God willing, will help keep Mithra's house.
 
 > *Curator's note.* The attentive reader will have noticed that the Office's writ ends exactly
 > where its approval begins, and its files open exactly where its fears do. Read the verdicts,
