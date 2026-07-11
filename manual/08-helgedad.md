@@ -23,7 +23,7 @@ sing you Helgedad, and a man cannot hear Helgedad warm.
 > Southrons named it the frozen hell.
 > We name it home, and hold it dearer.
 
-Your mapmakers write **Inferno Gelato** beside our island and think it wit. The wit is older
+Your mapmakers write **the Frozen Hell** beside our island and think it wit. The wit is older
 than they are, and it is ours: a hell should burn, and ours froze, and we stayed anyway. That is
 my whole people in one sentence, free of charge. Helgedad is the coldest land of Ymir, and the
 cold is not weather. Weather changes. **Hard the land; the land's folk harder. What the ice
@@ -36,9 +36,9 @@ praise six rival hearths starves in the seventh — so trust a man who has eaten
 **Kelmark**, in the south-west, is House **Rudstar**'s march, and its city **Kelmar** the
 greatest of ours — which a Tallvar man will dispute, from behind his counting-table. Kelmark
 breeds horse-knights sworn to **Thurms**, the Thunder-Lord who leads the just to victory: the
-**Ordine della Montagna Bianca**, the Knights of the White Mountain, white cloaks on winter
-horses, the only chivalry in the north worth the iron it rusts in. And Kelmark keeps the Wall.
-The **Vallo di Aslund** runs four hundred thousand strides against the north, stone from sea to
+**Order of the White Mountain**, white cloaks on winter horses, the only chivalry in the
+north worth the iron it rusts in. And Kelmark keeps the Wall.
+The **Wall of Aslund** runs four hundred thousand strides against the north, stone from sea to
 sea, raised in the Empire's day by **Aslund the Swordless** of the Tenth Legion. They say he
 broke his blade and buried it beneath the first stone — *let the wall be my sword* — and never
 bore steel after; the knights swear he walks the rampart still when the north-lights burn.
@@ -59,8 +59,8 @@ their own guilds. Of those there are three — merchants, warriors, and thieves 
 which is richest only if you already know the answer.
 
 **Nortislong**, on the west coast, is House **Geidmund**'s, and the eldest of us, for there live
-the **Norsi**, first folk of this island, whose fathers hunted the **Foresta d'Inverno** — the
-Winter Forest — before any keel found us. Every Norsi line keeps its totem, a beast-spirit of
+the **Norsi**, first folk of this island, whose fathers hunted the **Winter Forest**
+before any keel found us. Every Norsi line keeps its totem, a beast-spirit of
 the Forest that walks with the family, wakes in its dreams, and grieves at its graves; a Norsi
 will forgive an insult to his face sooner than a joke about his wolf, his elk, his white owl.
 Nortislong was our capital once, and taken once, in a single day — but that shame comes in its
@@ -69,8 +69,8 @@ place, and not before.
 **Grudgemark**, centre-west, is House **Tannermar**'s, seated at **Grudgeburg**, and its saga is
 written in stone flat on the ground: the roads. Tannermar's folk drove roads through country
 that eats armies, and keep them clear in winters that close the sea itself. They are the
-dwarves' oldest friends among us, which tells you their quality, and they keep the **Case di
-Guarigione**, the Healing Houses, open to any hurt thing that crawls in. Mock the leech-halls,
+dwarves' oldest friends among us, which tells you their quality, and they keep the **Healing
+Houses** open to any hurt thing that crawls in. Mock the leech-halls,
 southlander; you will crawl to one someday.
 
 **Nortmaar** is mine, and it is no house's. Free land, hill land, land of the **Vorskgen** clans
@@ -90,8 +90,8 @@ mad-brave, the bear-shirted, you have heard of; pray you never see them.
 
 **Seamark**, last and to me first, is House **Ognir**'s — my father's fathers — and its port is
 called **Harbor**, plainly, for we spend our poetry on ships and not on towns. Seamark men are
-the sailors of Helgedad, and above their mast-forest stands the **Torre Splendente**, the
-Shining Tower, temple of the triple goddess: **Hudemia** the Just Mother of Waters, who weighs;
+the sailors of Helgedad, and above their mast-forest stands the **Shining Tower**,
+temple of the triple goddess: **Hudemia** the Just Mother of Waters, who weighs;
 **Diis** the Lady of Flames, who warms and takes; and third, the Veiled One, **Thal'Khal**, who
 receives the drowned. The wise whisper, quietly, in the tower's lee, that Thal'Khal is **Kur**,
 the Dark Lady of death and oracles, wearing a kinder face for us — and why not? A sailor would
@@ -101,7 +101,7 @@ rather be gathered by a mother than judged by a queen of skulls. Our keels are t
 admit.
 
 **Now the dwarves**, and here I will be fair, for they have earned it and few else have. Under
-the **Monti Aestyr** shine the **Aule Dorate**, the Golden Halls; under the Monti di Bruma
+the **Aestyr Mountains** shine the **Golden Halls**; under the Mountains of Mist
 stands **Stonebridge**, old beyond old, dwarf-work from before men wrote. Deep roads join hall
 to hall, and by them the Marches have been fed through siege and armed through war. Dwarves
 sell iron honestly and keep oaths better than kings. But mark this, for even the dwarves say
@@ -111,17 +111,17 @@ refuses payment for a story, the story is true.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The under-passages are the outer coils of a **labyrinth**, and the labyrinth is a prison.
-> The **Signore dell'Oblio** did not die and did not leave: he is sealed in the Aestyr's roots,
-> in a maze of Adepti workmanship that holds its prisoner not with doors but with forgetting —
+> The **Lord of Oblivion** did not die and did not leave: he is sealed in the Aestyr's roots,
+> in a maze of the Adepts' workmanship that holds its prisoner not with doors but with forgetting —
 > walk it, and the way out unravels behind you in the mind. The Lord of Oblivion is locked in
 > oblivion. Miners who enter the coils come back not knowing their own names — or knowing his.*
 
 **Of the elves of Caelebawn** I can tell you little, which is exactly what they intend. Sylvan
-folk, hidden in the **Bosco di Caelebawn**; you will not find them, though they will assuredly
+folk, hidden in the **Caelebawn Wood**; you will not find them, though they will assuredly
 find you. Twice in our history their grey bows have come out of the wood unasked. Both times we
 needed them. Neither time did they stay for the feast.
 
-**North of the Wall lies the Landa Gelida**, the Frozen Waste, and there my wit fails me. There
+**North of the Wall lies the Frozen Waste**, and there my wit fails me. There
 are ruins in that ice, southlander — towers in no style any mason can name, streets of black
 stone under blue glass. Evil things walk there and worse things wait, and in the Empire's
 twilight a sorcerer men called the **Signore dell'Oblio** dwelt in the Aestyr and reached his
@@ -129,23 +129,23 @@ hand northward. His name means Lord of Oblivion, and it is the only thing about 
 forgotten. We do not go north of the Wall. Write that plainly.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *The ruins in the ice were a watch-city, and what it watched is still there. Under the Landa
-> Gelida sleeps **Nihoggr**, the Ice Dragon — one of the twenty True Dragons the Adepti forged
+> *The ruins in the ice were a watch-city, and what it watched is still there. Under the Frozen
+> Waste sleeps **Nihoggr**, the Ice Dragon — one of the twenty True Dragons the Adepts forged
 > as living weapons — coiled about the island's root since the Catastrophe. Helgedad is not
-> cold by chance: **Inferno Gelato is literal** — the cold is the dragon's breath in sleep. The
-> Signore dell'Oblio's crime, the one the labyrinth answers, was this: he sought to wake it.*
+> cold by chance: **the Frozen Hell is literal** — the cold is the dragon's breath in sleep. The
+> Lord of Oblivion's crime, the one the labyrinth answers, was this: he sought to wake it.*
 
 **Now the wars, in their order, the shames with the glories.** In the year the southrons count
-**1555**, at the Empire's greediest girth, **Letio annexed us**. Hear it straight: before the
+**1555**, at the Empire's greediest girth, **Letia annexed us**. Hear it straight: before the
 eagle-standards came we were a kingdom already, a kingdom of two crowns, stone and flesh — the
-dwarf-throne in the Aule Dorate, the man-throne at Nortislong — and we were bought, bullied,
+dwarf-throne in the Golden Halls, the man-throne at Nortislong — and we were bought, bullied,
 and blessed into a province. A thousand years of tithes and governors followed, and the Wall
 got built; I will not say we gained nothing, only that we were not asked. In **2600** we walked
 out. Call it secession; there is no battle in it worth a stanza. The Empire had grown too poor
 to keep us, and we too proud to be kept, and the parting was as loveless as the wedding.
 
 > *Curator's note.* The skald is precise where it stings: Helgedad before 1555 was indeed a
-> **dwarf-and-human kingdom** (seats: the Aule Dorate and Nortislong), and its road from
+> **dwarf-and-human kingdom** (seats: the Golden Halls and Nortislong), and its road from
 > annexation through the 2600 secession to the Wolves is **one continuous arc of decline**. The
 > Annalist of Solanthya (Ch. VI) sings the annexation as a gift of civilisation to grateful
 > barbarians. The two accounts agree on the date. — *the Curator*
@@ -171,7 +171,7 @@ him — rangers of the Winter Forest, dwarves in ring-mail out of both deep hall
 White-Mountain knights of Kelmark, archers out of Caelebawn who had spoken to no man in living
 memory, and older friends still: the walking woods that southrons call **Ents**, and the
 **Great Eagles** off the high Aestyr. Against them: orc-bands and trolls of the waste,
-frost-giants down from the Landa Gelida, and the dead who would not lie down.
+frost-giants down from the Frozen Waste, and the dead who would not lie down.
 
 > Thirteen thousand and half a thousand:
 > rime-wood rangers, ring-mailed delvers,
@@ -189,7 +189,7 @@ were gone, the packs tore themselves apart, and by **3024** we stood in the wrec
 of a war whose enemy we never once understood.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *Understand it here. The five generals served the **Signore dell'Oblio**, whose will still
+> *Understand it here. The five generals served the **Lord of Oblivion**, whose will still
 > seeps out of the labyrinth in dreams. The Wolves' wars were never conquest — they were
 > **excavations**: Nortislong, the Wall, and the deep roads all stand over ways down to the
 > maze's heart or the dragon's grave, and the terror was a spade. The generals "vanished"
@@ -204,7 +204,7 @@ of a war whose enemy we never once understood.
 > proudest skald record the same three words: *no one knows.* — *the Curator*
 
 **And then the Tide**, which you southrons date your whole age by, and which we remember as the
-winter the dead walked out of the Landa Gelida under the red moon, and the harbours burned, and
+winter the dead walked out of the Frozen Waste under the red moon, and the harbours burned, and
 Seamark buried more sailors than the sea ever took. Since those years — near five hundred now —
 the tale of Helgedad is the **long dwindling**: fewer keels in Harbor, fewer hearths in Kelmar,
 marches thinner, barrows fuller. The Empire's censors would weep at our numbers; counting was
@@ -225,13 +225,13 @@ That is the song, southlander. Pay the singer.
 ---
 *Colophon.* Chapter VIII. Narrator: **Hrafnkel Ognirsson** of the Nortmaar (invented framing
 voice; `NARRATORS.md`), taken down from recitation. Drawn from `canon/geography.md` (the isle,
-the six Marches, the Vallo di Aslund, the dwarf-holds and non-dwarf passages, Caelebawn, the
-Landa Gelida, the ship types), `canon/factions.md` (the Marcher houses, the Ordine della
-Montagna Bianca, Tallvar's guilds, the Army of the Wolves), `canon/history.md` (annexation
+the six Marches, the Wall of Aslund, the dwarf-holds and non-dwarf passages, Caelebawn, the
+Frozen Waste, the ship types), `canon/factions.md` (the Marcher houses, the Order of the
+White Mountain, Tallvar's guilds, the Army of the Wolves), `canon/history.md` (annexation
 1555; secession 2600; Winter of Unrest and Siege of One Day 3015; Berthrant Vaelaer 3015–3020;
 War of the Wolves 3021–3024; the Tide), `canon/pantheon.md` and `canon/peoples.md` (Thurms,
-Heis, the Torre Splendente triad; Norsi, Vorskgen); margins built on
-`canon/secret-the-great-lie.md` (the Adepti substrate; the True Dragons as engineered weapons).
+Heis, the Shining Tower triad; Norsi, Vorskgen); margins built on
+`canon/secret-the-great-lie.md` (the Adepts' substrate; the True Dragons as engineered weapons).
 Decisions applied: **HIS-11** (pre-annexation dwarf-and-human kingdom; one continuous decline
 arc), **HIS-12** (the Wolves/Waves/Machines cascade), **COS-7** (Thal'Khal = the Seamark mask
 of Kur). **[INVENTED]** and flagged: the Aslund buried-sword legend; the Vorskgen name-notching

@@ -22,8 +22,8 @@ broad prints in double rows, dust-wallows. Placid; carries half its weight up a 
 complains less than you do. Worth: meat tender as veal, hide that turns a sword — the Cartosans
 make shields of it. An honest animal. Treat it honestly.
 
-**Reptoidi.** Horse-sized riding reptiles, farmed across Cartosa; most southern leather is
-Reptoide. Steadier than horses near fire. Sign, where feral: claw-drag in mud, sunning-flats worn
+**Reptoids.** Horse-sized riding reptiles, farmed across Cartosa; most southern leather is
+Reptoid. Steadier than horses near fire. Sign, where feral: claw-drag in mud, sunning-flats worn
 smooth. Worth: hide, and a live one broken to saddle is worth three dead.
 
 **The northern game.** Elk, red deer, boar, hare, the grouse of the pine country. I will not
@@ -40,15 +40,15 @@ the way you open a mussel. Sign: furrows up from the tide-line, a wet-glass glit
 the small ones from land, with barbed lines and patience. Do not hunt the great ones. Worth: the
 shell — armourers pay a farm for a whole one. Legendary harness comes of it. So do widows.
 
-**Ibridi.** The general name for what the Maelstrom's storms make of living things. No two alike.
+**Hybrids.** The general name for what the Maelstrom's storms make of living things. No two alike.
 Two rules keep you alive: count the joints — too many, leave. Look at the eyes — wrong number, or
 wrong places, leave. Worth: nothing is worth it.
 
-**The Marchiati.** Some fool asked me to put the Marked in this book, and I will say this once:
+**The Marked.** Some fool asked me to put them in this book, and I will say this once:
 they are people, born of women, and they go in no bestiary of mine.
 
 > *Curator's note.* I have let that sentence stand exactly as written, and commend it to certain
-> rival compendia. For the Marchiati, see the chapter on the Peoples. — *the Curator*
+> rival compendia. For the Marked, see the chapter on the Peoples. — *the Curator*
 
 ### DESERT KINDS — the Sadhir and the Great Erg
 
@@ -84,18 +84,18 @@ hair, a smell like a flooded grave. Strong past reason, stupid past belief, and 
 comfort you at arm's length. Fire is your friend; so is daylight; so are eleven other men. Worth:
 the Nortmaar pay bounty by the head. Earn it in company.
 
-**The Grandi Aquile.** The Great Eagles of the Monti di Bruma. Write this in your own book: they
+**The Great Eagles.** Of the Mountains of Mist. Write this in your own book: they
 are allies, not game. They are wiser than half the men I have guided, and they hold those passes
 against worse than trolls. Never draw on one. Never go near the nests. If one stoops low over you
 and cries, something is on your trail. Thank it, and check.
 
-**The Landa Gelida.** Goblins in the ruins, kobolds under them, and a third kind of track I found
+**The Frozen Waste.** Goblins in the ruins, kobolds under them, and a third kind of track I found
 one grey morning — long, wrong, and melted into the ice as if the foot had been hot. I never
-stayed to learn what makes it. In the Landa, that is not cowardice. That is craft.
+stayed to learn what makes it. In the Waste, that is not cowardice. That is craft.
 
 ### STRANGE KINDS
 
-**Fungalidi.** Fungoid flyers — a mouthless grey toad on dragonfly wings, walking on two barbed
+**Fungalids.** Fungoid flyers — a mouthless grey toad on dragonfly wings, walking on two barbed
 tentacles. Damp caves, rotting forest. The skin weeps acid; the claws carry a poison that stops
 your limbs while it eats; and they mend as fast as you cut — blades are an argument with mud. Oil
 and fire, from upwind, or leave them their cave. Worth: alchemists want the acid glands. Charge
@@ -116,7 +116,7 @@ you would move a fire: from far off, toward nothing you love.
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *"Warped by the Chaos," the learned say, and never ask what the Chaos is. It is the Maelstrom.
 > The wound over drowned Ragash has bled a mutating stain into the world for three and a half
-> thousand years — the Marchiati at birth, the Ibridi in the storms' path, and, where the bleed
+> thousand years — the Marked at birth, the Hybrids in the storms' path, and, where the bleed
 > pooled long ago in the deep hills, the kobolds that swelled into Magres. One stain, at different
 > distances from the wound. The huntsman's "Maelstrom-touched" and his "strange kinds" are the
 > same chapter, and he half knows it.*
@@ -134,7 +134,7 @@ walking for a good reason.
 serves its belly, and a belly can be predicted. These serve whoever holds the writ. I have scouted
 past them; I would rather pass a troll bridge. Stay out of the smoke.
 
-**Relitto.** A dead war-construct that did not stay dead. Rusted armour walking, joints weeping
+**Derelict.** A dead war-construct that did not stay dead. Rusted armour walking, joints weeping
 oil like a wound, cold that climbs into your chest, and under the creak of it — voices. Battle-dead
 souls, welded in by necromancy, making war on everything that breathes. Weapons are a slow way to
 die near it. Burn it, then burn the ashes. Then tell a priest where the fire was.
@@ -143,7 +143,7 @@ die near it. Burn it, then burn the ashes. Then tell a priest where the fire was
 and worse by a rite they do not publish. Waist-high, fox-headed, silver-blue fur that looks wet
 and is. Claws and fangs carry venom; the nose beats any hound I have run; they swim like otters,
 breathe water like air, and see by day, dark, and the heat of your blood. Sign: none. That is the
-sign. If the Manti Azzurri have set Zortos on a man, the kindest thing you can do for him is not
+sign. If the Blue Mantles have set Zortos on a man, the kindest thing you can do for him is not
 be standing near him. They ignore earth and ice, and hate fire and clean light — a torch buys you
 steps, not safety. I do not hunt what was built to hunt. Professional courtesy.
 
@@ -152,11 +152,11 @@ steps, not safety. I do not hunt what was built to hunt. Professional courtesy.
 I hunt none of these. I write them so you will know when to stop hunting and start praying.
 
 **Spirits.** Everywhere, the way wind is everywhere. Mostly harmless; the wellspring of magic.
-But a spirit that stays too long in the world goes sour — Furioso, raging — and a raging spirit
-is weather with a grudge. Cold hollows where birds will not sing: camp elsewhere.
+But a spirit that stays too long in the world goes sour — Raging, the learned call it — and a
+raging spirit is weather with a grudge. Cold hollows where birds will not sing: camp elsewhere.
 
 **Elementals.** From wisps you could cup in two hands, up rank by rank — servants, mounts,
-guardians, giants, the true ones — to the Signori Elementali, one lord to each element. The small
+guardians, giants, the true ones — to the Elemental Lords, one lord to each element. The small
 ones run a mage's errands. The great ones are the weather taking a personal interest. There is no
 hunting entry for a thing that is also the river; make your grandmother's offering and cross
 somewhere else.
@@ -169,7 +169,7 @@ the letter, and only to the letter. Say nothing near one that you would not sign
 Men who see angels are standing where the war of the gods is being fought, and no hide from that
 country was ever worth the tanning.
 
-**Notturni.** Once. Forty years on the roads, and once. A man-shape of standing shadow, edges
+**The Night-Ones.** Once. Forty years on the roads, and once. A man-shape of standing shadow, edges
 that would not hold still, two green lamps for eyes, watching me across my own fire — and my fire
 threw no light on it. It did not touch me. It was *counting* something; I do not know what. They
 walk by night or shade — sun vexes them but does not bite — and the shadows move to suit them.
@@ -179,7 +179,7 @@ them — one water in many jugs. I have no advice. I moved my camp at dawn, and 
 were mine.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *The huntsman met one and was inventoried; be glad his ledger balanced. The Notturni's "Night"
+> *The huntsman met one and was inventoried; be glad his ledger balanced. The Night-Ones' "Night"
 > has a name in the makers' catalogue: **Naxtis**, the dark world of the old empire, whence the
 > light-drinking Umbra is carried. They are that world's stock as the dwarves are Omalgat's — and
 > alone among the made peoples they still speak of their Task in the present tense, as if the
@@ -193,7 +193,7 @@ By the fourth, you burn the village to save the parish. Of the sixth: I have see
 ground where one stood, years after, and nothing grows there and nothing ever will. Above the six
 they say *beyond the Circles*, and mean the Sovereigns.
 
-**The Demoni Sovrani.** Nineteen names in the old lists, each with a title and a mark — the black
+**The Sovereign Demons.** Nineteen names in the old lists, each with a title and a mark — the black
 dragon of Asmodeus, Lord of Tyranny; the spiderweb of Xardas, called the Puppeteer; the mask of
 Masak, Lord of Illusions; the coin, the dagger, the bull's skull, the rest. I list them as legend;
 legend keeps farmboys from drawing the marks for a dare. Most are dead. Ea of the Abysses was
@@ -203,7 +203,7 @@ hope they are right. Three walk: Asmodeus. Xardas. Masak. No sign to read, no se
 you meet one, your book is done. Give this one to someone who lived.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *The prison is the Adepti's oldest cell — the pocket of Corrupted Essence men call Inferno — and
+> *The prison is the Adepts' oldest cell — the pocket of Corrupted Essence men call Inferno — and
 > its law was always: none cross unless summoned. The Tide broke that law once. When the isolation
 > shattered, the crack hurled the Sovereigns at the crossing unsummoned, and the crossing killed
 > most of them; a single exception, not a new rule, and the cell resealed around the lesser
@@ -220,15 +220,15 @@ A wyvern is winged malice with a sting; a drake is a forge with legs. Take them 
 in moult, with ballistae, poisoned carcasses, and more men than your pride wants. Worth: hide,
 teeth, and glands enough to pay off a farm — fitting, as the beast has usually eaten one.
 
-**The Veri Draghi.** There are twenty. This is not a hunting entry. This is a warning.
+**The True Dragons.** There are twenty. This is not a hunting entry. This is a warning.
 
 I have tracked everything that walks, and forty years taught me this: the True Dragons do not
 track like animals. An animal wants food, a mate, its own ground, and you can read all three in
 the mud. A True Dragon wants something I have no word for. They *watch*. Nothing honest watches
-like that. Gwalgamaur il Dorato sleeps in Wald, and the Young Kingdoms pay him the courtesy of
+like that. Gwalgamaur the Golden sleeps in Wald, and the Young Kingdoms pay him the courtesy of
 silence. Nihoggr the Solitary lies under the Helgedad ice, and the Nortmaar do not fish certain
-lakes. In the east the Qi-Long kneel to six of them as Dei-Drago, gods in dragon flesh — and I
-will not argue the word. Above them all the eastern priests set Ouroboros, the True Dragon God,
+lakes. In the east the Qi-Long kneel to six of them as Dragon-Gods, gods in dragon flesh — and I
+will not argue the word. Above them all the eastern priests set Ouroboros, the True Dragon-God,
 who in the age of the Tide rose and unmade Alfheim entire. A country. In days.
 
 I crossed a valley below Wald where the Golden One had once been thorough. Sixty years before,
@@ -240,10 +240,10 @@ Stay out of the valley.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The huntsman's instinct is exactly right: the True Dragons are not animals. They are the
-> Adepti's living superweapons — twenty engineered custodians set to guard Ymir's secrets, charged
+> Adepts' living superweapons — twenty engineered custodians set to guard Ymir's secrets, charged
 > to watch for any people climbing too near the Truth, and to burn the ladder. That is the wanting
 > he has no word for. Most drifted from the charge into agendas of their own; only the six
-> Dei-Drago of Qi-Long kept the faith. Above loyalist and rogue alike stands Ouroboros — the apex
+> Dragon-Gods of Qi-Long kept the faith. Above loyalist and rogue alike stands Ouroboros — the apex
 > of the design, "Leviathan" his element, not a twenty-first dragon — and Alfheim died because the
 > wardens' king judged that someone there had climbed too high. When a True Dragon watches you, an
 > old protocol is deciding whether you are prey. Prey is the better outcome.*
@@ -257,9 +257,9 @@ with you.
 framing voice; `NARRATORS.md` — the two-knives provenance, the burned valley of Wald, and the
 hunting-craft of sign, season, and price are [INVENTED] colour). Creatures and rosters from
 `canon/bestiary.md` (all fauna and constructs; the Sovereign Demons and their post-Tide status;
-the twenty Veri Draghi, Gwalgamaur, Nihoggr, the Dei-Drago, Ouroboros/Alfheim) and
-`canon/cosmology.md` (the Marchio and the Ibridi; Spirits, Elementals to the Signori, Djinn,
-Angels, the six Circles); margins from `canon/secret-the-great-lie.md` (Adepti-engineered
+the twenty True Dragons, Gwalgamaur, Nihoggr, the Dragon-Gods, Ouroboros/Alfheim) and
+`canon/cosmology.md` (the Mark and the Hybrids; Spirits, Elementals to the Elemental Lords, Djinn,
+Angels, the six Circles); margins from `canon/secret-the-great-lie.md` (Adept-engineered
 dragon-custodians; the demon prison; the Maelstrom as the Chaos-bleed). Dragon roster per
 `sources/extracted/wiki/creatures-dragons.md`. Decisions applied: MAG-2 (one demon hierarchy —
 Sovereigns Beyond the Circles over the six Circles), MAG-12/MAG-13 (Ouroboros above the

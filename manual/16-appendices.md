@@ -8,45 +8,46 @@
 
 ## Appendix A · The Reckoning of Years
 
-All civilised dating counts from the birth of the Maelstrom: **d.M.**, *dopo il Maelstrom*. Year 0
-is the **Grande Paura**, the Great Fear. (You will hear provincials expand d.M. as *dopo Mithra*;
-they are wrong, and the Church has given up correcting them.)
+All civilised dating counts from the birth of the Maelstrom: **d.M.**, *dopo il Maelstrom* —
+"after the Maelstrom." Year 0 is the **Great Fear** (*Grande Paura*, in the old styling). (You
+will hear provincials expand d.M. as *dopo Mithra* — "after Mithra"; they are wrong, and the
+Church has given up correcting them.)
 
-The ages, as the historians now divide them:
+The ages, as the historians now divide them, with the old styling of each in parentheses:
 
 | Age | Years (d.M.) | In brief |
 |-----|--------------|----------|
-| I Tempi Dimenticati | before reckoning | The making; the Grandi Vermi; the world before peoples' memory |
-| I Giorni Antichi | before 0 | The reign of the Adepti; the Demon Wars; La Catastrofe |
-| I Giorni Oscuri | 0 – ~1900 | Recovery; the rise of Letio; the Councils of the Peoples |
-| I Giorni Infuocati | ~1900 – ~2590 | The Horde; the Young Kingdoms' secession; Saxul's fall |
-| I Giorni Nuovi | ~2590 – ~3025 | The Second Council; the cascade of wars |
-| **L'Era della Marea** | ~3025 – present | The Tide (~3025–27) · la Nuova Era del Caos (3026–3260) · **il Nuovo Equilibrio (3260 – now)** |
+| The Forgotten Times (*I Tempi Dimenticati*) | before reckoning | The making; the Great Worms; the world before peoples' memory |
+| The Ancient Days (*I Giorni Antichi*) | before 0 | The reign of the Adepts; the Demon Wars; the Catastrophe |
+| The Dark Days (*I Giorni Oscuri*) | 0 – ~1900 | Recovery; the rise of the Letian Empire; the Councils of the Peoples |
+| The Burning Days (*I Giorni Infuocati*) | ~1900 – ~2590 | The Horde; the Young Kingdoms' secession; Saxul's fall |
+| The New Days (*I Giorni Nuovi*) | ~2590 – ~3025 | The Second Council; the cascade of wars |
+| **The Age of the Tide** (*L'Era della Marea*) | ~3025 – present | The Tide (~3025–27) · the New Era of Chaos (3026–3260) · **the New Equilibrium (3260 – now)** |
 
-**The present of this Compendium is ~3518 d.M.** — two and a half centuries into the Equilibrio's
+**The present of this Compendium is ~3518 d.M.** — two and a half centuries into the Equilibrium's
 calm. Distinguish three things the careless conflate: **the Maelstrom** (the storm itself, standing
-since year 0), **the isolation** (the seal upon the world that broke at the Tide), and **the
-Marea** (the age we live in, named for the Marea Stregata that opened it).
+since year 0), **the isolation** (the seal upon the world that broke at the Tide), and **the Age
+of the Tide** (the age we live in, named for the Bewitched Tide that opened it).
 
 ## Appendix B · The Year of Ymir
 
 One day is 24 hours (one dawn, eleven of day, one dusk, eleven of night). One month is 30 days;
-twelve months make one **Ciclo** of 360 days. The months, with their seasons and birth-signs:
+twelve months make one **Cycle** of 360 days. The months, with their seasons and birth-signs:
 
-| # | Month | Season | The sign's temper (bright / shadowed) |
-|---|-------|--------|----------------------------------------|
-| 1 | Grifone | Spring | bold, quick / rash, cutting |
-| 2 | Cinghiale | Spring | steadfast / stubborn |
-| 3 | Salamandra | Spring | clever, fluent / prying, shallow |
-| 4 | Cervo | Summer | gentle, wary / fearful, scheming |
-| 5 | Viverna | Summer | generous, bright / vain, dogmatic |
-| 6 | Unicorno | Summer | exact, noble / anxious, cruel |
-| 7 | Serpente | Autumn | charming / vain, sliding |
-| 8 | Falco | Autumn | frank, far-seeing / reckless |
-| 9 | Ragno | Autumn | patient, loyal / contrary |
-| 10 | Chimera | Winter | quick-witted / aimless |
-| 11 | Gazza | Winter | curious, deft / grasping |
-| 12 | Tartaruga | Winter | wise, enduring / slow, timid |
+| # | Month | Old styling | Season | The sign's temper (bright / shadowed) |
+|---|-------|-------------|--------|----------------------------------------|
+| 1 | Griffon | *Grifone* | Spring | bold, quick / rash, cutting |
+| 2 | Boar | *Cinghiale* | Spring | steadfast / stubborn |
+| 3 | Salamander | *Salamandra* | Spring | clever, fluent / prying, shallow |
+| 4 | Stag | *Cervo* | Summer | gentle, wary / fearful, scheming |
+| 5 | Wyvern | *Viverna* | Summer | generous, bright / vain, dogmatic |
+| 6 | Unicorn | *Unicorno* | Summer | exact, noble / anxious, cruel |
+| 7 | Serpent | *Serpente* | Autumn | charming / vain, sliding |
+| 8 | Hawk | *Falco* | Autumn | frank, far-seeing / reckless |
+| 9 | Spider | *Ragno* | Autumn | patient, loyal / contrary |
+| 10 | Chimera | *Chimera* | Winter | quick-witted / aimless |
+| 11 | Magpie | *Gazza* | Winter | curious, deft / grasping |
+| 12 | Tortoise | *Tartaruga* | Winter | wise, enduring / slow, timid |
 
 Of moons: **Ishtar's** silver moon keeps her courses as she always has. The **red wanderer** that
 troubled the sky from ~3026 receded from sight around 3260; the astronomers call it a comet, the
@@ -58,33 +59,37 @@ Ymir has never kept one coin, and the reader should distrust any book that price
 single currency. What the trader must know:
 
 - **Cartosa & Meridian** — struck **doubloons** and pieces-of-eight; letters of credit honoured in
-  every honest port and several dishonest ones; the Manti Azzurri tax magic like a cargo.
+  every honest port and several dishonest ones; the Blue Mantles tax magic like a cargo.
 - **Armora & the Young Kingdoms** — industrial **marks** and guild scrip; permits and licences are
   themselves a currency; never buy a Leyden jar second-hand.
-- **Letia** — church-minted coin under the Clericato; the tithe is not optional.
+- **Letia** — church-minted coin under the Clericate; the tithe is not optional.
 - **Helgedad** — hacksilver, arm-rings, and the memory of who owes whom; coin is for foreigners.
 - **Qi-Long** — strung cash-coins, jade and silk for great sums; a sect's favour outbuys them all.
 - **The Sadhir** — salt tokens and the Sultanate's coral-standard; mana-salt for the discerning.
 - **The Gaerwath** — the elves trade in **Arvo** (powdered Essence) and, it is said, in bound
   Forces; do not trade there.
 - **Between realms** — weight of metal, Shald, and letters of credit; the portals move goods for
-  those who can pay the Vere Vie tolls.
+  those who can pay the tolls of the True Ways.
 
 ## Appendix D · Small Glossary of Terms the Narrators Assume
 
-**Adepti** — the sorcerer-lords of the world before the Maelstrom; vanished. (See the margins, if
-your copy has them.) · **Arvo** — powdered Essence, the Gaerwath's currency and drug of power ·
-**Cerchie** — the six Circles by which demons are ranked; the Sovereigns stand beyond them ·
-**Essenza** — the raw stuff of magic; called *mana* by the vulgar · **Flusso** — the divine realm
-of magic, the priests' channel · **Marchiati** — those the Maelstrom marks in the womb ·
-**Maelstrom** — the standing storm at the world's heart, over drowned Ragash · **Marea Stregata**
-— the tide of wild magic that opened the present age · **Mentalismo** — the mind's realm of magic
-· **Nath** — the three tiers of Names into which the Dark-Elf aristocracy (the Elar) is gathered · **Reliquie / Rune Magiche** — the six seals
-and the four sealed works of the Adepti, whose opening ended the old world's quiet · **Seggio di
-Cristallo** — the Crystal Seat at Elendor, the Council of Peoples' hall, where this book was bound
-· **Sovereign Demons (Demoni Sovrani)** — the great demons; most now dead; three walk · **Vere
-Vie** — the True Ways, the portal-roads, closed for an age and open again · **Usufruitore** — any
-wielder of magic, in the law's cold word.
+*(Where an old-tongue form survives in older copies, it follows the term in italics.)*
+
+**Adepts** (*Adepti*) — the sorcerer-lords of the world before the Maelstrom; vanished. (See the
+margins, if your copy has them.) · **Arvo** — powdered Essence, the Gaerwath's currency and drug
+of power · **Bewitched Tide** (*Marea Stregata*) — the tide of wild magic that opened the present
+age · **Channeler** (*Usufruitore*) — any wielder of magic, in the law's cold word · **Circles**
+(*Cerchie*) — the six ranks by which demons are ordered; the Sovereigns stand beyond them ·
+**Crystal Seat** (*Seggio di Cristallo*) — the Council of Peoples' hall at Elendor, where this
+book was bound · **Essence** (*Essenza*) — the raw stuff of magic; called *mana* by the vulgar ·
+**Flow** (*Flusso*) — the divine realm of magic, the priests' channel · **Maelstrom** — the
+standing storm at the world's heart, over drowned Ragash · **Marked** (*Marchiati*) — those the
+Maelstrom marks in the womb · **Mentalism** (*Mentalismo*) — the mind's realm of magic ·
+**Nath** — the three tiers of Names into which the Dark-Elf aristocracy (the Elar) is gathered ·
+**Relics / Magic Runes** (*Reliquie / Rune Magiche*) — the six seals and the four sealed works of
+the Adepts, whose opening ended the old world's quiet · **Sovereign Demons** (*Demoni Sovrani*) —
+the great demons; most now dead; three walk · **True Ways** (*Vere Vie*) — the portal-roads,
+closed for an age and open again.
 
 ## Appendix E · Of Herbs, Draughts, and Dusts
 
@@ -93,11 +98,11 @@ Effects are given as the wise use them — the doses, and the prices of misuse, 
 and to conscience. *(Bought honestly, half of these are medicine. Bought in an alley, all of them
 are stories that end badly.)*
 
-- **Distillato di Utombe** — jungle-leaf distillate; erases the *feeling* of wounds for an hour
+- **Utombe Distillate** — distilled from a jungle leaf; erases the *feeling* of wounds for an hour
   (the wounds, regrettably, remain). In heavy doses a paralysing and sometimes killing poison.
-- **Radice di Qarando** — black-leaved root; the Nkishi war-draught: euphoric fearlessness, at the
+- **Qarando Root** — black-leaved; the Nkishi war-draught: euphoric fearlessness, at the
   cost of all caution. Warriors under it do not parry and do not chase; they only go *forward*.
-- **Subotan** — the violet poppy: bliss, torpor, waking dreams. Illegal in the Principato and
+- **Subotan** — the violet poppy: bliss, torpor, waking dreams. Illegal in the Principality and
   available within sight of every courthouse in it.
 - **Elin** — a red alga; for a few racing moments the body outruns itself. Sailors chew it in
   storms and age accordingly.
@@ -110,12 +115,12 @@ are stories that end badly.)*
   entranced have been known to bless — or blast — whatever stands nearest.
 - **Aljira** — bluish liquor of Black Lotus nectar: restores a mage's spent power at once, and
   each dose is a wager with the body; lose, and it takes instead of gives.
-- **Loto Nero (Black Lotus)** — powdered petals; sorcery strengthened, every spell's grip
+- **Black Lotus** — powdered petals; sorcery strengthened, every spell's grip
   lengthened. The vice of Ulan-Tang, where it is called an economy.
-- **Loto Verde (Green Lotus)** — of the Grande Erg: a two-hour visionary coma, past and future
+- **Green Lotus** — of the Great Erg: a two-hour visionary coma, past and future
   shown to the prepared and riddles to everyone else — and each dose risks the sleeper's soul
-  slipping its mooring into the **Mondo dei Sogni**, from which some do not come back for the body.
-- **Succo Juh'gad** — Gaerwath elf-alchemy, troll-gland and Moon-Wine: great strength yoked to a
+  slipping its mooring into the **Dream World**, from which some do not come back for the body.
+- **Juh'gad Draught** — Gaerwath elf-alchemy, troll-gland and Moon-Wine: great strength yoked to a
   fearful, biddable spirit. They feed it to slaves at heavy labour. Everything one needs to know
   of the Gaerwath is in that sentence.
 

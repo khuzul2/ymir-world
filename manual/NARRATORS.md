@@ -14,11 +14,11 @@ the hidden truth (the Great Lie) lies beneath, it surfaces only in the **margins
   the connective tissue that makes twelve voices one book.
 - A shared **apparatus**: every chapter has a title, an attribution line, the narrator's text,
   Curator's footnotes, GM margins, and a closing colophon. Same furniture, different tenant.
-- A shared **object**: all texts are presented as gathered *into* the Compendium at the **Seggio di
-  Cristallo** (Elendor) in the present age (~3518 d.M.), looking back.
+- A shared **object**: all texts are presented as gathered *into* the Compendium at the **Crystal
+  Seat** (Elendor) in the present age (~3518 d.M.), looking back.
 
 ## The three editorial voices (run through the whole book)
-- **The Curator** — *Magister-Compiler of the Seggio di Cristallo*, the Council of Peoples' seat at
+- **The Curator** — *Magister-Compiler of the Crystal Seat*, the Council of Peoples' seat at
   Elendor. Wry, exact, neutral. Writes the preface, introduces each narrator, footnotes disagreements.
 - **The Veiled Hand** — an anonymous annotator whose notes appear **in the margins**, "in a script
   that troubles the eye." The truths beneath the tales — **GM-only**. Terse, cold, knowing. (The
@@ -28,16 +28,16 @@ the hidden truth (the Great Lie) lies beneath, it surfaces only in the **margins
 ## Chapter narrators
 | Ch. | Chapter | Narrator & seat | Voice / tone |
 |-----|---------|-----------------|--------------|
-| 1 | **The Cosmogony** | **Xochiyayotl**, Xattva Loremaster of Xuthal, Star-Priest of the *Culto delle Stelle* (Xebech) — the eldest people | glacial, serene, deep-time; speaks of the gods with unsettling intimacy; "the brief warm peoples"; crystalline sentences; genderless self |
-| 2 | **The Gods & the Sacred** | **Fra' Teodabir**, torch-priest of **Hokhmah** (Confraternita della Torcia, Armora) — a comparativist of creeds | ecumenical, cataloguing, gently ironic; tries to reconcile every faith and can't quite |
-| 3 | **Magic — the Essence** | **Sir Drusilde**, Arcimaga of the *Settimo Circolo* (Armora), once pupil of Xochiyayotl | precise, technical, faintly proud; a magitech scholar dissecting a mystery |
-| 4 | **The Ages of Ymir** | **the Annalist of Solanthya**, of the Clericato di Mithra | pious, grand, tendentious; omits what the Church dislikes (Curator restores it) |
-| 5 | **The Lay of the Land** | **the sea-diary of Ramiro Estioca**, Cartosan navigator of the Manti Azzurri | salty, first-person, practical; wonder undercut by ledgers and weather |
+| 1 | **The Cosmogony** | **Xochiyayotl**, Xattva Loremaster of Xuthal, Star-Priest of the *Cult of the Stars* (Xebech) — the eldest people | glacial, serene, deep-time; speaks of the gods with unsettling intimacy; "the brief warm peoples"; crystalline sentences; genderless self |
+| 2 | **The Gods & the Sacred** | **Fra' Teodabir**, torch-priest of **Hokhmah** (the Brotherhood of the Torch, Armora) — a comparativist of creeds | ecumenical, cataloguing, gently ironic; tries to reconcile every faith and can't quite |
+| 3 | **Magic — the Essence** | **Sir Drusilde**, Archmage of the *Seventh Circle* (Armora), once pupil of Xochiyayotl | precise, technical, faintly proud; a magitech scholar dissecting a mystery |
+| 4 | **The Ages of Ymir** | **the Annalist of Solanthya**, of the Clericate of Mithra | pious, grand, tendentious; omits what the Church dislikes (Curator restores it) |
+| 5 | **The Lay of the Land** | **the sea-diary of Ramiro Estioca**, Cartosan navigator of the Blue Mantles | salty, first-person, practical; wonder undercut by ledgers and weather |
 | 6 | **Letia** | the Annalist of Solanthya (returning) | as Ch.4 — reverent toward the Empire, blind to its rot |
-| 7 | **The Young Kingdoms & Armora** | **"Lo Strillone di Armora"** — a broadsheet-man | breezy, boosterish, faintly propagandistic; loves an invention and a scandal |
+| 7 | **The Young Kingdoms & Armora** | **"The Armora Crier"** — a broadsheet-man | breezy, boosterish, faintly propagandistic; loves an invention and a scandal |
 | 8 | **Helgedad** | **Hrafnkel Ognirsson**, a skald of the Nortmaar | alliterative, oral-epic, grim; kennings and cold humour |
-| 9 | **Qi-Long** | **the Pilgrim of the Thundering Gate**, a monk of the *Cammino dell'Illuminato* | aphoristic, parable-laden, spare; speaks in the third person |
-| 10 | **Cartosa & the Southern Seas** | Ramiro Estioca (returning), with a Manti Azzurri factor's ledgers | as Ch.5 — swashbuckling, mercantile |
+| 9 | **Qi-Long** | **the Pilgrim of the Thundering Gate**, a monk of the *Path of the Enlightened* | aphoristic, parable-laden, spare; speaks in the third person |
+| 10 | **Cartosa & the Southern Seas** | Ramiro Estioca (returning), with a Blue Mantles factor's ledgers | as Ch.5 — swashbuckling, mercantile |
 | 11 | **The Gaerwath & the Elves** | **Aelryn Vhaeloth i-Celeblyar**, Dark-Elf Loremaster of Morannagul the Eternal | cold ornate hauteur; contempt for the short-lived; the exile-from-Niethel theology |
 | 12 | **The Sadhir & the Deserts** | **Adhima the Rakhama'i**, Sarradhi lore-keeper (and a human caravan-scribe's rebuttal) | cyclical, riddling, patient; the human voice interrupts to disagree |
 | 12·B | **Ophiur** *(late-bound leaf)* | **Nyema of Ga'Namesh**, Keeper of the Thousand Songs of the Ivory Coalition | praise-song cadence, call-and-response ("Ask me… and I will answer"); proud, warm, corrective — she crossed three seas to fix the Curator's blank map |

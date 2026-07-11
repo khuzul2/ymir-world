@@ -16,7 +16,7 @@ narrators (the Annalist, Ramiro) are assets rather than repetitions, and the GM 
 evenly distributed (2–4 per chapter; none starved, none flooded). Dates reconcile everywhere I
 checked them — Morannagul's 968th regnal year lands exactly on 3518; Drusilde's "two years
 since the Tide" matches her 3027 dateline; the huntsman's "nineteen names in the old lists"
-matches the bestiary roster; the Vallo's 400 km survives translation into the skald's
+matches the bestiary roster; the Wall of Aslund's 400 km survives translation into the skald's
 "four hundred thousand strides." Chapter X's brevity is formally motivated (the diary ends
 because the diarist does) and is not a defect.
 
@@ -37,22 +37,22 @@ the proposals below do.
 ## Proposals — HIGH value
 
 ### P-1 · Kyria & the Dreamlands — "The Book of the Sleeping Shore" · [new-chapter] · [L] · [high]
-**What.** A full chapter on La Terra dei Sogni and Kyria: the geography of dream (the veiled
-mist-isle and Thonis as the one waking anchorage; the parlours of Città Nuova as the paying
-door; Loto Verde as the desert door; the deep Erg's dream-gates and Mubafer's palace-prison as
-cross-references), the Sognatori/Viaggiatori, what the deeper shores cost — and, in the
+**What.** A full chapter on the Dreamlands and Kyria: the geography of dream (the veiled
+mist-isle and Thonis as the one waking anchorage; the parlours of the New City as the paying
+door; Green Lotus as the desert door; the deep Erg's dream-gates and Mubafer's palace-prison as
+cross-references), the Dreamers/Travellers, what the deeper shores cost — and, in the
 margins, the whole hidden architecture: the Outer Gods as the Dreamlands' landlords, Ragash-
 below and the gate to steam-wreathed **Arcadia** (Kraeva, Van Argan Stones — canon that
 currently appears in *no* player-facing or GM chapter beyond two sentences of Ch.XV),
 Topramesk as gatekeeper, the weeping mechanical "Vespertina" of Ch.VII's margin given its
 payoff.
 **Why.** This is the single largest canon-rich blank. The Dreamlands are the one other plane
-players actually visit (Oniroscopio, Loto Verde, Kyria's veil), the book *sells* them four
+players actually visit (the Oneiroscope, Green Lotus, Kyria's veil), the book *sells* them four
 times (Ch.V, VII, XII, XV) and never delivers; Arcadia and the Kraeva are entirely unspent
-canon. Also the strongest campaign-space the Equilibrio era offers (nothing in the calm
+canon. Also the strongest campaign-space the Equilibrium era offers (nothing in the calm
 forbids dreaming). OUTLINE already lists it as planned.
 **Where.** Bind after XII·B (as XII·C, another "late leaf") or between XIV and XV.
-**Narrator & voice.** *The Ipnologa* — a retired dream-pilot of a licensed Armorite parlour,
+**Narrator & voice.** *The Hypnologist* — a retired dream-pilot of a licensed Armorite parlour,
 thirty years of logged descents and one unlicensed one she is still paying for. Waking prose
 that slides into present tense whenever the dream comes near; scrupulous about waking-times
 the way Ramiro is about weather. She has "landed" on Kyria — in sleep, once, and was sent
@@ -63,9 +63,9 @@ lacks: hypnagogic.
 ### P-2 · Xebech, the Land — "A Letter to a Dead Pupil" · [new-chapter] · [L] · [high]
 **What.** The missing regional chapter for the eldest people: Xuthal the flying city as a
 *place* (streets, castes at home, the Xudra the world never sees), **Xanadu** the fortress of
-the Rune (named in Ch.III and XV, never walked), the **Vere Vie** as Xebechani statecraft, the
-75-year war for **Loquitchatzotech** (2020–2095) told from the side that lost it, the Culto
-delle Stelle's calendar and rites, the failing Pozze as lived grief rather than gossip.
+the Runes (named in Ch.III and XV, never walked), the **True Ways** as Xebechani statecraft, the
+75-year war for **Loquitchatzotech** (2020–2095) told from the side that lost it, the Cult of
+the Stars' calendar and rites, the failing Pools as lived grief rather than gossip.
 Margins: the portal-caste truth, X-01 and the partial evacuation ("the far sanctuary"), the
 jailer's-servant patience of Ch.I's margin brought home.
 **Why.** Ch.I gives Xebech's cosmogony, Ch.XIII its biology, Ch.V one dawn from a masthead —
@@ -75,22 +75,22 @@ chapter.
 **Where.** After Ch.IX (the East cluster) or as IX·B.
 **Narrator & voice.** **Xochiyayotl, returning** — but in a new form that doubles as the
 book's promised narrator-to-narrator letter: *a letter to Sir Drusilde*, its pupil, five
-centuries dead, deposited unasked at the Seggio. The Ch.I voice (glacial, deep-time,
+centuries dead, deposited unasked at the Crystal Seat. The Ch.I voice (glacial, deep-time,
 genderless) bent by the one thing that bends it: a student it outlived. "You asked me once
 what Xuthal stands on. You were the only one who asked *on*, and not *how*." The Curator's
 note can frame the impossibility of the address; the Veiled Hand can note who else reads
 letters to the dead. Reuses a registered narrator (no register inflation) and cashes the
 teacher–pupil thread Ch.III set up.
 
-### P-3 · The Isole d'Argento & the Council — the Curator's own chapter · [new-chapter] · [M] · [high]
-**What.** Elendor, the Folletti at home (Tylweth Teg and Gnomi beyond Ch.XIII's thumbnail),
-the Seggio di Cristallo as a working institution — how the Council of Peoples actually sits,
+### P-3 · The Silver Isles & the Council — the Curator's own chapter · [new-chapter] · [M] · [high]
+**What.** Elendor, the Little Folk at home (Tylweth Teg and Gnomes beyond Ch.XIII's thumbnail),
+the Crystal Seat as a working institution — how the Council of Peoples actually sits,
 votes, stalls; what the Coalition treaty still binds; how this very Compendium was
 commissioned, gathered, and paid for (the goat of Ch.XIII settled from "the Compendium's
-purse" implies an accounts-book — show it). The Catastrofe's breaking of the Isles from the
-continent. Margins: why the Fate hate everything Maelstrom-touched "out of all proportion to
+purse" implies an accounts-book — show it). The Catastrophe's breaking of the Isles from the
+continent. Margins: why the Fae hate everything Maelstrom-touched "out of all proportion to
 their size"; what the Council's founding owed Xebechani diplomacy (Ch.IV's margin, paid off);
-optionally a flagged-INVENTED hook on what the Seggio was built over.
+optionally a flagged-INVENTED hook on what the Crystal Seat was built over.
 **Why.** The frame of the entire book has no floor under it: the Curator's own ground is the
 one region with no chapter, and the Council — "the nearest thing Ymir has to a united
 government" (canon/factions.md) — is nowhere explained. And there is a joke the book has
@@ -107,13 +107,13 @@ one of them.)
 
 ### P-4 · "Doors into Ymir" — running a campaign in each era · [apparatus] · [M] · [high]
 **What.** A GM appendix (suggested: Appendix G, or a Veiled-Hand postscript to Ch.XV) giving
-five playable frames on the 0–3518 line: **(i)** the Fiery Days (Horde, secessions, Saxul);
+five playable frames on the 0–3518 line: **(i)** the Burning Days (Horde, secessions, Saxul);
 **(ii)** the eve of the Tide, 3015–3027 — the cascade of Wolves/Waves/Machines, i.e. the very
 years the source campaigns were played in; **(iii)** the Tide itself, 3025–27; **(iv)** the
-Nuova Era del Caos, 3026–3260 (red moon overhead, doors open, dead walking); **(v)** the
-Nuovo Equilibrio default, ~3518. For each: who reigns, which institutions exist yet, what is
+New Era of Chaos, 3026–3260 (red moon overhead, doors open, dead walking); **(v)** the
+New Equilibrium default, ~3518. For each: who reigns, which institutions exist yet, what is
 common knowledge vs. not yet true, and — crucially — *which chapters of this book lie in that
-era* (in 3020 Drusilde's treatise is unwritten; in the Caos the Strillone's golden age is
+era* (in 3020 Drusilde's treatise is unwritten; in the Chaos the Crier's golden age is
 propaganda about the future).
 **Why.** The timeline is the setting's deepest asset and the book fixes the camera at 3518
 without ever saying a table may move it. Ch.XV §6 explains the age; nothing helps a GM *use*
@@ -129,7 +129,7 @@ entries (Topramesk — *"alive."* Morannagul — *"ask."* The two unnamed advent
 with no name, which is itself the point). Sweep in the unspent riches of canon/characters.md:
 Berthrant Vaelaer, Aslund, Inanna, Valdis, Tofango, Uglush *and* Ugrumuulsh (kept distinct per
 HIS-16), the Carrillo line, Tobias, Leonard, Surya and the Masamune, Isidoro VonGraven, the
-pirate legend **Roberto Rodrigo "l'Armorita"** and the seer **Obnubia** (both currently absent
+pirate legend **Roberto Rodrigo "the Armorite"** and the seer **Obnubia** (both currently absent
 from the manual entirely).
 **Why.** Seventeen chapters, ~120 proper names, no index. This is the single highest-leverage
 reader aid, it doubles as the "Figures of Renown gallery" at a third of the cost, and it
@@ -145,8 +145,8 @@ faces / stakes / complication. Gather the hooks currently scattered through fift
 margins so no GM has to re-mine the book: Naughrith's sealed galleries (VI), the Oyster's
 water and Taremorn (X), the Deep Pearl and the Calling Depth (XII), the Netunshiel escrow
 (XII), Shulma hunt-or-homecoming (XI), the Wald's changed dwarves (VII/XIII), Oblivion on its
-mountain (III/XV), Gazal's undercity and the Giardino di Xiombarg (XII·B), the labyrinth of
-the Signore dell'Oblio (VIII), the Pilgrim's cipher (IX). Give **Ulan-Tang a featured
+mountain (III/XV), Gazal's undercity and the Garden of Xiombarg (XII·B), the labyrinth of
+the Lord of Oblivion (VIII), the Pilgrim's cipher (IX). Give **Ulan-Tang a featured
 double-spread** here — five houses, Night Market, Azar-Kalish, Kramer's legacy on the god-
 touched gate — rather than a chapter of its own (see Rejected, below).
 **Why.** Ch.XV §7 is excellent but deliberately terse ("I do not tie ends. I point at them");
@@ -155,7 +155,7 @@ latent to usable. Keep Ch.XV §7 untouched as the in-fiction version.
 **Where.** After Ch.XV, clearly GM-flagged.
 
 ### P-7 · Fix the Ch.V Ophiur interpolation (a true continuity slip) · [fix] · [S] · [high]
-**What.** In Ch.V (entry "Twentieth of Grifone [3516], the Ophiur coast"), Ramiro's diary
+**What.** In Ch.V (entry "Twentieth of Griffon [3516], the Ophiur coast"), Ramiro's diary
 says: *"— For the songs themselves, the Curator tells me a keeper of them has her own leaf in
 this book; trust her over me. I only anchored there. She is *from* the morning country."*
 This is voiced as Ramiro — but Ramiro was lost in 3518, his tin came home "two winters later,"
@@ -178,7 +178,7 @@ note).
 
 ## Proposals — MEDIUM value
 
-### P-8 · A voice for the Regni Belligeranti — "The Speaker of the Tally" · [new-chapter] · [M] · [med]
+### P-8 · A voice for the Belligerent Kingdoms — "The Speaker of the Tally" · [new-chapter] · [M] · [med]
 **What.** A short late-bound leaf (XII·B length, not a full chapter) giving the orc lands a
 voice at last: the Khanates a century after Ugrumuulsh, the hundred banners, the captive
 Letian east *as the captors tell it* ("the burnt marches" from the other side of the smoke),
@@ -192,7 +192,7 @@ is ~70% new invention — more than any other proposal. Hence medium, despite hi
 value.
 **Where.** After Ch.VI or with the late leaves.
 **Narrator & voice.** Avoid a fourth rebuttal-duet. Suggest a **transcript**: *Marghuz,
-speaker-of-the-tally, envoy of a Khan's tribute-court, her words taken down at the Seggio
+speaker-of-the-tally, envoy of a Khan's tribute-court, her words taken down at the Crystal Seat
 through two interpreters* — with the interpreters' bracketed disagreements about what she
 actually said doing the double-voice work in a new shape. Terse, numerical, contemptuous of
 adjectives; the Curator confines himself to procedure.
@@ -230,14 +230,14 @@ and an explicit promised-vs-delivered mismatch should not survive an editorial p
 
 ### P-11 · Register of Instruments & Materials · [apparatus] · [S] · [med]
 **What.** A Curator's register of named things, each with one line and a **"last credibly
-seen"** column (which quietly makes it an adventure generator): the six Reliquie *and where
-they now stand* — note that Ch.III's Curator promises "Where the four Rune stand now, and in
+seen"** column (which quietly makes it an adventure generator): the six Relics *and where
+they now stand* — note that Ch.III's Curator promises "Where the four Runes stand now, and in
 whose keeping, is matter for the historical chapters," **and no chapter ever delivers**; this
 register should answer or explicitly refuse in character — the named blades the manual never
-mentions (Hellion, Vendicatrice Oscura, Mornlosse, Frangionde, La Spada di Valdis), the Corona
-della Stregoneria, Oblivion, Mietianime, the Masamune, the Door of Despair set (eight
-Pergamene Dimenticate, Chiave del Nulla, Sangue Elementale vessels), and the materials Ch.III
-omits (Lagorak, Vetro Abissale, Bulusture, Galvorn, Adamantio, Eog, Guscio di Yarhim).
+mentions (Hellion, the Dark Avenger, Mornlosse, Wave-Breaker, the Sword of Valdis), the Crown
+of Sorcery, Oblivion, Soul-Reaper, the Masamune, the Door of Despair set (eight
+Forgotten Scrolls, the Key of Nothing, Elemental Blood vessels), and the materials Ch.III
+omits (Lagorak, Abyssal Glass, Bulusture, Galvorn, Adamantine, Eog, Yarhim-shell).
 **Why.** canon/magic.md is measurably richer than Ch.III §VII–VIII; a register spends the rest
 without bloating Drusilde's treatise, and closes Ch.III's dangling cross-reference.
 **Where.** New appendix, cross-referenced from Ch.III and Ch.XV §7.
@@ -255,13 +255,13 @@ veils, containment); this leaf spends exactly the canon that exists, gives the f
 merchants their own words, and puts the setting's doomsday gauge in-world. Rejecting the full
 chapter, proposing the leaf.
 **Where.** Bound near Ch.X (their trade waters) or before Ch.XV (their report is the
-Equilibrio's countdown).
+Equilibrium's countdown).
 
 ### P-13 · The Censored Leaf of Solanthya · [apparatus/in-fiction] · [S] · [med]
-**What.** A facsimile page: an extract of the Clericato's rolls — or a draft leaf of the
+**What.** A facsimile page: an extract of the Clericate's rolls — or a draft leaf of the
 Annalist's own chapter — as passed by the Solanthya censors, strike-throughs visible, with the
 Veiled Hand restoring the struck words in the margin. The natural subject is the one the book
-already loads: the name **Kramer**, "struck from the rolls of the Clericato" (Ch.VI margin),
+already loads: the name **Kramer**, "struck from the rolls of the Clericate" (Ch.VI margin),
 restored in a hand the censors could not strike. One page, no new lore, pure conceit-payoff.
 **Why.** The anthology's unexploited trick #3 (after letters and the index): a censored page
 makes the two reading-layers *visible as an artifact* — the book's whole thesis in one image.
@@ -277,7 +277,7 @@ makes the two reading-layers *visible as an artifact* — the book's whole thesi
    are new connective tissue, deliberately unresolved.]"* inside the Veiled Hand's voice — the
    colophon already carries this flag; delete the in-margin bracket (no other margin
    self-flags).
-3. **Ch.VII**: the Strillone's *"eighty-five million souls"* for the Regni Giovani appears in
+3. **Ch.VII**: the Crier's *"eighty-five million souls"* for the Young Kingdoms appears in
    no canon file and is not flagged in the chapter's otherwise scrupulous [INVENTED] list —
    add it (the colophons' reliability is a load-bearing feature of the whole project).
 4. Decide the margin file-reference convention once (margins may cite canon files, never
@@ -288,13 +288,13 @@ slips.
 
 ### P-15 · Matters Unbound — sweep of unused canon · [amendment] · [S] · [med]
 **What.** Five canon items appear nowhere in the manual and deserve at least a sentence in an
-existing chapter (not new chapters): **il Groviglio and the Cuore del Caos** (1600 d.M. — a
+existing chapter (not new chapters): **the Tangle and the Heart of Chaos** (1600 d.M. — a
 named world-wonder wholly absent; one huntsman's entry in Ch.XIV, "I do not enter the Tangle,
-and I have no bounty high enough to change that," would do it); **La Fratellanza** mage-hunters
-of Tholaer il Prode (a line in Ch.III §VI beside the S.C.M., or in the seeds folio);
+and I have no bounty high enough to change that," would do it); **the Brotherhood** mage-hunters
+of Tholaer the Valiant (a line in Ch.III §VI beside the S.C.M., or in the seeds folio);
 **Hagelbarn** and the Tanoth's retaking of it in the Tide years (a Pips aside in Ch.XIII);
-the **Complotto dei Cinque** (a Strillone historical whisper, Ch.VII); the **Zortos** are in
-Ch.XIV but their Manti Azzurri makers get no Curator cross-note in Ch.X — add one.
+the **Conspiracy of the Five** (a Crier historical whisper, Ch.VII); the **Zortos** are in
+Ch.XIV but their Blue Mantle makers get no Curator cross-note in Ch.X — add one.
 **Why.** Cheap stitches; each is one narrator-voiced sentence, and together they close the
 canon-coverage ledger.
 **Where.** As listed per item.
