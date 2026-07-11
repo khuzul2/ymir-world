@@ -1,5 +1,5 @@
 # XII · THE SALT AND THE SAND
-## *Of the Sadhir, the Grande Erg, and the Kingdoms of Thirst*
+## *Of the Sadhir, the Great Erg, and the Kingdoms of Thirst*
 
 **As set down by Adhima the Rakhama'i, lore-keeper of the Wheel of Life at Zarash-Sur, in the Great Sultanate of the Sarradhi; with the rebuttals of Yusuf al-Marrah, caravan-scribe of Tuleph, which the Curator has declined to scrape away.**
 
@@ -34,8 +34,7 @@ salt.
 > sea-bed between the twin crowns, cut by the mage-lords who hid there in the war that made the
 > Maelstrom. That was not "practising to be salt." That was a civilisation.*
 
-**Then the Wheel turned, as it must, and the sea died.** Your annalists call it **il Grande
-Prosciugamento**, the Great Drying, and set it near the year 2400 after the Maelstrom. I will not
+**Then the Wheel turned, as it must, and the sea died.** Your annalists call it **the Great Drying**, and set it near the year 2400 after the Maelstrom. I will not
 tell you what caused it; I do not know, and the Rakhama'i are forbidden the comfort of inventing.
 In a generation the mirror clouded, shrank, and crusted; the fish became memory; the islands became
 hills in a plain of white; the hundred kingdoms became one ruin with a hundred doors. Was it a
@@ -56,14 +55,14 @@ I put to my students to keep them humble.
 > and broke the Gaerwath and the Silver Isles from the continent; the Sadhir sea died twenty-four
 > centuries later, of causes no chronicle I hold will name. Keep them apart. — *the Curator*
 
-**What the sea left behind, we call the Deserto Scintillante** — the Shining Desert — and it earns
+**What the sea left behind, we call the Shimmering Desert**, and it earns
 the name twice over, once with beauty and once with murder. The **saltflash** glare will cook your
 sight white by noon unless you ride behind saltglass lenses or a Sadhiriti mask; the
 **crystalwinds** come off the flats edged like flensing-knives; the crust of **sinkglass** rings
 sweet underfoot and then is not underfoot at all; **brine fissures** open on pools that look like
 mercy and pickle what drinks them. The **false oases** are worse than none — the old Sadhiriti
 tales tell of a fortress of illusion that invites travellers in and does not open again, the house
-of their **Signore delle Illusioni**. And in certain hollows of the deep flats waits what my order
+of their **Lord of Illusions**. And in certain hollows of the deep flats waits what my order
 names the **Calling Depth**: a stillness that is also a summons, a pull behind the breastbone,
 drawing the solitary walker down-slope, always down-slope, toward the old sea-floor. Rope yourself
 to your companions. The Wheel does not require you to answer every voice that knows your name.
@@ -130,10 +129,10 @@ not dig for, and I commend our example to every relic-hunter reading this.
 > release Al-Sidath and Al-Jabur is the desert holding its two oldest doors shut.*
 
 **Now cross with me out of the salt, eastward and inland, into the second desert** — for the
-traveller must not confuse them, though both are thirsty. The **Grande Erg** is sand, true sand, a
+traveller must not confuse them, though both are thirsty. The **Great Erg** is sand, true sand, a
 dry sea that was never a wet one; and it is not ours — the Sultanate's writ fades where the salt
 does. I speak of the Erg as a guest speaks of a neighbour's house: politely, briefly, and without
-going upstairs. There are nomads there, and caravans, and raiders, and the **Distesa Arida** where
+going upstairs. There are nomads there, and caravans, and raiders, and the **Arid Expanse** where
 even those give out; and there is the **Zaar'Qrak**, the Rending Death, six-limbed and nocturnal,
 of which the Erg-folk say: if you have seen one, finish the sentence in the next life.
 
@@ -144,8 +143,8 @@ of which the Erg-folk say: if you have seen one, finish the sentence in the next
 > Now the spider-god's High Priest, **Sazar-Gadash**, rules by right of having murdered his
 > predecessor Azim-Mulath. There are no city guards; there are the five great houses instead —
 > **Gadash** in violet, **Ishra** in red, **Tyarreth** in olive, **Miraz** in blue, **Gaib** in
-> black — and their private knives; there is the **Loto Nero**, which I do not carry; the **Night
-> Market**, which I do not attend; and behind it all the **Conclave delle Ombre**, the
+> black — and their private knives; there is the **Black Lotus**, which I do not carry; the **Night
+> Market**, which I do not attend; and behind it all the **Conclave of Shadows**, the
 > **Azar-Kalish**, whose sign is the spider and whose invoices are paid in lives. I trade there
 > because one must. I count my fingers after every handshake.*
 
@@ -156,10 +155,10 @@ of which the Erg-folk say: if you have seen one, finish the sentence in the next
 > real, indifferent to which tongue feeds it. Sazar-Gadash, demon-son of Asmodeus, is merely its
 > most ambitious employee; the great spider Adhal-Kibreeshi, the Whispering Lady, is nearer its
 > true avatar. And remember what else Ulan-Tang is: the ancient portal through which
-> Sguardo-sul-Nulla entered Ymir in 3026. Yogh keeps his web on a door.*
+> Gaze-upon-Nothing entered Ymir in 3026. Yogh keeps his web on a door.*
 
 Of **Khorish** I will speak, since my colleague's hand is shaking too hard to hold the pen. It
-names itself the **Regno dei Faraoni Eterni**, the Kingdom of the Eternal Pharaohs; its founder
+names itself the **Kingdom of the Eternal Pharaohs**; its founder
 **Athmokethepek I** united the tribes of the Erg in the years 2160 to 2180, and he rules it still,
 his wife **Nefthi** beside him, neither of them having consented to die. Their monuments are raised
 by the dead: a necromantic corvée, in which the labourer's obligation to the crown survives the
@@ -180,15 +179,14 @@ coming; merely slowly enough for them to watch.
 > Athmokethepek's bargain was struck with **Netunshiel, Lord of Crypts** — the jackal among the
 > Sovereign Demons — and the terms were a landlord's: eternity as a* tenancy*, with the corvée as
 > rent; every soul that labours dead in Khorish is payment forwarded to the Crypt-lord's estate.
-> The joke the pharaohs have not been told: Netunshiel did not survive the Era della Marea. The
+> The joke the pharaohs have not been told: Netunshiel did not survive the Age of the Tide. The
 > creditor is dead — and the contract, drafted by a demon and therefore flawless, does not lapse.
 > The rent accrues in the dark, against the day something inherits the estate and comes for the
 > arrears. The pharaohs think they are eternal. They are* escrow*.*
 
 **One thing more, and the Wheel may rest.** In the deep Erg there are doors that do not open onto
 the desert. The nomads rope their camels well away; the seers of Ulan-Tang — house Gaib keeps one,
-they say, a man called Faazi-Ghaib — sell the crossing to those who must. They open on the **Terre
-dei Sogni**, the Dreamlands; and somewhere in that country, in a prison built as a palace, sits the
+they say, a man called Faazi-Ghaib — sell the crossing to those who must. They open on the **Dreamlands**; and somewhere in that country, in a prison built as a palace, sits the
 archmage **Mubafer**, son of the thaumaturge Nemelatekh, sealed away until he forgets the two loves
 he betrayed. He has been forgetting for a very long time. Those who have stood at his gate say he
 is gracious, and lonely, and knows the place of everything ever buried in either desert; and that
@@ -208,12 +206,12 @@ of something you loved.*
 voice; `NARRATORS.md`) and **Yusuf al-Marrah** of Tuleph (**[INVENTED]** — a rebuttal voice
 created for this chapter's duet; his family, ledgers, and grudges with him). Drawn from
 `canon/geography.md` (the layered Sadhir, decision **GEO-1 = C**: human island-kingdoms beneath,
-Sarradhi Sultanate above; the Grande Erg/Ulan-Tang/Khorish a separate sand desert, **GEO-10**; La
-Catastrofe ~0 vs. il Grande Prosciugamento ~2400 kept distinct, **GEO-11**), `canon/factions.md`,
+Sarradhi Sultanate above; the Great Erg/Ulan-Tang/Khorish a separate sand desert, **GEO-10**; the
+Catastrophe ~0 vs. the Great Drying ~2400 kept distinct, **GEO-11**), `canon/factions.md`,
 `canon/peoples.md`, `canon/bestiary.md` (Ea †1570), `canon/economy.md` (salt tokens,
 coral-standard, mana-salt; **META-2**), `canon/pantheon.md` (**COS-5**: Yogh one cross-cultural
 god), and the regions digest `sources/extracted/batch2-digests/regions.md` (the human Sadhiriti
 legends; Ulan-Tang; Mubafer). Margins per `canon/secret-the-great-lie.md` and the above.
 **[INVENTED]** flags: the **Deep Pearl** and its link to the Calling Depth (extrapolated from the
 gazetteer's "Spawn of the Deep Pearl" and "Calling Depth psychic lure"); the **Netunshiel
-tenancy** behind the Faraoni Eterni; Harrun al-Marrah and the al-Marrah house. Present ≈ 3518 d.M.
+tenancy** behind the Eternal Pharaohs; Harrun al-Marrah and the al-Marrah house. Present ≈ 3518 d.M.

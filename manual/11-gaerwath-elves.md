@@ -18,7 +18,7 @@ peoples need the truth, but because a lie repeated for seven-and-twenty centurie
 certain smell, and I am weary of breathing it. Your anthology will be read in Alfheim. Let
 them read this.
 
-**Begin where we began: in Niethel, which is La Fonte, the Source.** Before this world;
+**Begin where we began: in Niethel, which is the Source.** Before this world;
 before the storm from which you count your little years — the elves dwelt in Niethel, in the
 presence of the gods, and we did not die. Understand me: I do not say we lived long. I say
 death had no name among us, as drowning has none among the fish of the air. We were the
@@ -27,17 +27,16 @@ one day give the Shallak their splendid queen raised her hand against the gods �
 pride, our doctors teach; out of love, her apologists whimper; the sentence was the same. We
 were cast out, the innocent with the guilty; and one promise was flung after us into the
 dark, as a gaoler flings bread: that there is prepared for the elves a **Sacred Realm**, and
-that when we have found it and proved worthy, the **Ultimo Messaggero** — the Last
-Messenger — will come and lead us home, and we shall not die any more. Every elf alive is a
+that when we have found it and proved worthy, the **Last Messenger** will come and lead us home, and we shall not die any more. Every elf alive is a
 reading of that sentence. All our history is an argument over its grammar.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *Niethel has coordinates. The elves are native to **Tchyo**, a green world of the Adepti's
+> *Niethel has coordinates. The elves are native to **Tchyo**, a green world of the Adepts'
 > old star-empire — native, be precise: grown from that soil, not built like the dwarves or
-> the orcs. When the Adepti came harvesting, the elves refused them, and for refusing were
+> the orcs. When the Adepts came harvesting, the elves refused them, and for refusing were
 > **hunted** — driven from their own world like deer from a burning wood; the survivors fled
 > through the hunters' own doors. That is the Sin and the Exile: a real revolt, a real
-> flight, remembered upside-down — for the "gods" they offended were the Adepti, and the
+> flight, remembered upside-down — for the "gods" they offended were the Adepts, and the
 > crime was saying no. A tree cut from its root does not lie when it says it once stood
 > taller.*
 
@@ -57,32 +56,32 @@ inside a countdown, and each of our creeds is a way of enduring the sound it mak
 > in print, whether elves have souls at all. Having corresponded with this one for eleven
 > years, I consider the question settled. — *the Curator*
 
-**Then came the Anni della Discordia — the Years of Discord, near eight centuries after the
+**Then came the Years of Discord — near eight centuries after the
 Maelstrom — when the argument over the promise's grammar was settled with armies.** Three
-readings, three creeds. The **Chiari**, the self-styled Light Elves, looked upon Alfheim —
+readings, three creeds. The self-styled **Light Elves** looked upon Alfheim —
 one fair green splinter of a broken continent — and declared that *this* was the Sacred
 Realm entire: gather there behind Inanna the Splendent, tend the gardens, and wait for the
 Messenger like tenants waiting on a landlord.
-The **Illuminati** — they prefer *Rinuncianti*, the Renouncers, and for once a name is
+The **Illuminati** — they prefer *the Renouncers*, and for once a name is
 honest — decided the Realm was a country of the heart, and wandered off to be serene among
 the brief peoples; they made a theology of their fatigue, and call it peace. And we — the
-**Oscuri**, the faithful, whom the others named Dark as though fidelity were a stain — read
+**Dark Elves**, the faithful, whom the others so named as though fidelity were a stain — read
 the sentence as written. The Realm prepared for the elves is not a garden. It is **all
 Ymir** — the whole world our blood bought — and the other races dwell in it as the ox dwells
 in the field: suffered, useful, and not consulted. To hold less is to haggle with heaven. For
 saying so we were driven from Alfheim at spear-point by Inanna's hosts, naming as we went:
-the Chiari we named **Shallak**, Betrayers of Brothers, and worse — **Nemyel**, Non-Elves —
+the Light Elves we named **Shallak**, Betrayers of Brothers, and worse — **Nemyel**, Non-Elves —
 for an elf who bars his kin from the promise has resigned from the race. The princes swore
 vengeance eternal on the beaches of the Gaerwath. I have read the oath. It has no expiry in
 it.
 
-> *Curator's note.* Fair voice, as promised. The **Chiari** tell it thus: the Oscuri reading
+> *Curator's note.* Fair voice, as promised. The **Light Elves** tell it thus: the Dark Elves' reading
 > sanctified the enslavement of every other people on Ymir, and Inanna the Splendent — the
 > race's saviour, not its usurper — fought so that the elves would not await their Messenger
 > with whips in their hands; Alfheim was refuge, not larceny. The **Illuminati** answer both
 > camps in one sentence I have never bettered: *"They went to war over the address of
 > paradise."* And a point of order: these are **creeds, not breeds**. The three sub-races —
-> **Alti** (High), **Silvani** (Sylvan), **Grigi** (Grey, who are the Sea elves) — are found
+> the **High**, the **Sylvan**, the **Grey** (who are the Sea elves) — are found
 > in *all three* factions; there is no bodily difference between a Light Elf and a Dark one.
 > The Sundering runs through the elven soul, not the elven blood. — *the Curator*
 
@@ -118,15 +117,15 @@ do not lie about the results.
 > myself in anger. — *the Curator*
 
 **Our sorcery is our commonwealth.** Five great factions divide the arts among the Elar — the
-**Meccanisti**, the **Demonologi**, the **Biomanti**, the **Sognatori**, the **Necromanti** —
+**Mechanists**, the **Demonologists**, the **Biomancers**, the **Dreamers**, the **Necromancers** —
 five schools, five parties, five knives in one sheath, and above them the twin altars of
 **Valrin**, warrior god of the holy war, and **Myethel**, lady of magic and oracles. From
-Valrin the Demonologi take the name of their merchandise: the **Valrin**, the Forces — bound
+Valrin the Demonologists take the name of their merchandise: the **Valrin**, the Forces — bound
 things from beyond the walls of the world, demons for the most part, sworn to the war-god. We
 bind them, we set them to labour, we spend them; a great Name settles its debts in bound
 Forces as Cartosa settles in silver. Beneath that runs the deeper currency: **Arvo**, the
 pulverised Essence itself, raked from the raw places of the sea by demon-gangs and by Nemyel
-who have no vote in the matter. When the Tide came and the Risonanza Magica thinned the
+who have no vote in the matter. When the Tide came and the Magical Resonance thinned the
 veins, we did not weep; we bound harder. Scarcity, Curator, is a tax upon the unprepared.
 
 **And over all of it, Morannagul.** In the year 2550 of your reckoning a young lord of the
@@ -155,14 +154,14 @@ taught the Names the one lesson that mattered — a sundered people loses to a g
 Morannagul was that lesson's best student. The Shallak believed the matter closed. They had
 merely not waited long enough. We are good at waiting; it is the one art the Exile perfects.
 
-**Then the Tide rose, and heaven itself corrected the ledger.** When the Marea Stregata broke
+**Then the Tide rose, and heaven itself corrected the ledger.** When the Bewitched Tide broke
 over the world and the doors of the ancients opened all at once, there rose out of the deep
 time of Ymir the True Dragon God, **Ouroboros**, eldest of the great serpents — and of all
 the works of the age of storms he chose one: he fell upon Alfheim, and **Ost-en-Galad, the
 Shining City, the stolen house of the Shallak, went down in fire into its own gardens.** I
 was not yet born; I have handled the dispatches; I will not counterfeit grief my order does
 not feel, nor deny that in the Drowned Athenaeum the bells were rung. Five centuries later,
-the Chiari creep among their scaffolds under a queen of Inanna's line, replanting a splinter
+the Light Elves creep among their scaffolds under a queen of Inanna's line, replanting a splinter
 and calling it the promise. But it is a strange dish, vindication — to receive at last, from
 the indifferent jaws of a serpent, the justice our fathers were refused from heaven. Towers
 we built stood in that city too. I said I would not counterfeit grief. I did not say there
@@ -171,7 +170,7 @@ was none in the house.
 > *Curator's note.* On the fall he is accurate — the Tide's chroniclers write of a serpent
 > "older than the map." But the Alfheim of today (~3518) deserves better than his scaffolding
 > sneer: Ost-en-Galad is a city again, smaller and graver; its queen keeps both throne and
-> Council; and the Chiari will tell you, with a calm that unsettles visitors, that the dragon
+> Council; and the Light Elves will tell you, with a calm that unsettles visitors, that the dragon
 > *was the trial*, and a people still waiting after that has proven the waiting true. And the
 > elves one actually *meets* are mostly neither armed theology: the Grey elves — the Sea
 > elves — sail under every flag from Cartosa to Harbor, and the Illuminati keep their quiet
@@ -180,8 +179,7 @@ was none in the house.
 
 **One matter remains, and I give it to you as I would give a stranger a drawn blade: hilt
 first, and watching your hands.** The Prophecy is stirring. Since the Tide the doors of the
-world stand open, and along them comes the same rumour in a dozen accents: the **Ultimo
-Messaggero** is coming, or is come; the harbours whisper a name, **Shulma**, and cannot say
+world stand open, and along them comes the same rumour in a dozen accents: the **Last Messenger** is coming, or is come; the harbours whisper a name, **Shulma**, and cannot say
 whose. In Alfheim they light the old lamps. In the quiet houses the Renouncers, for the
 first time in centuries, are uncertain of their serenity. And in the Gaerwath, Curator, we
 are neither lighting lamps nor doubting; we are *ready*, as only a people can be who never
@@ -193,8 +191,8 @@ are measured. It will be remembered.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Two truths the whole race has hold of backwards. First: Ouroboros is no instrument of any
-> elven heaven — he is the Adepti's custodian-king, a living weapon set to guard this world's
-> secrets. When the Tide flung the old doors open, the Chiari's long vigil became, in an
+> elven heaven — he is the Adepts' custodian-king, a living weapon set to guard this world's
+> secrets. When the Tide flung the old doors open, the Light Elves' long vigil became, in an
 > instant, a **beacon** — a whole nation calling* Home? Home? *down the reopened ways toward
 > Tchyo. The custodian did what custodians do to unauthorised signals: he silenced it.
 > Second, and worse: the prophecy has the direction of travel wrong. Doors open both ways.
@@ -211,11 +209,11 @@ and the Curator's tavern Nemyel are **[INVENTED]** furniture around canon). Draw
 `canon/peoples.md` (Niethel, the Sin/Exile/prophecy, the schism, ~200-year mortality, the
 Dark-Elf order: Elar/Nemyel/Kelvar, Lyar/Nath/Gash, Hyrul, the five concubines, Valrin
 Forces, Arvo); `canon/geography.md` (Gaerwath, Alfheim/Ost-en-Galad); `canon/factions.md`
-(the five sorcerous factions); `canon/history.md` (arrival in the Demon Wars, Discordia
+(the five sorcerous factions); `canon/history.md` (arrival in the Demon Wars, the Years of Discord
 ~800 d.M., Second Elven War 2080–2115, unification 2550, Alfheim's fall in the Tide,
 the Prophecy/Shulma, present ≈ 3518 d.M.); `canon/pantheon.md` (Niethel, Valrin, Myethel);
 margins from `canon/secret-the-great-lie.md`. Decisions applied: **RAC-3/4/5** (factions
-Chiari/Illuminati/Oscuri orthogonal to sub-races Alti/Silvani/Grigi = the Sea elves);
+Light/Illuminati/Dark orthogonal to sub-races High/Sylvan/Grey = the Sea elves);
 **COS-17** (elves **native** to Tchyo, hunted off it — not engineered); **HIS-3**
 (unification 2550 within Morannagul's undying reign). **[INVENTED, margin speculation
 consistent with canon]:** the Hyrul-fed mechanism of Morannagul's eternity; Ouroboros's
