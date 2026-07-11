@@ -1,7 +1,7 @@
 # II · THE GODS & THE SACRED
 ## *Of the One and the Many; the Faiths of Ymir Set Side by Side; and the Orders of the Unseen*
 
-**As set down by Fra' Teodabir, torch-priest of Hokhmah, of the Confraternita della Torcia at Armora — called by his brothers, not always kindly, the Collector of Gods.**
+**As set down by Fra' Teodabir, torch-priest of Hokhmah, of the Brotherhood of the Torch at Armora — called by his brothers, not always kindly, the Collector of Gods.**
 
 > *Curator's note.* After the cold of Xochiyayotl I wanted a warm room, and Fra' Teodabir keeps
 > the warmest in Armora: a priest of Wisdom who has spent forty years praying, courteously and
@@ -64,13 +64,13 @@ going, this far. It always is, this far.
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Here is the seam the friar will spend the chapter almost finding. Mithra and Ahriman are real
 > — the true polar principles of the Essence — and the Six are real elemental divinities, old
-> and potent. **But not everything that answers to their names is them.** The Adepti, when they
+> and potent. **But not everything that answers to their names is them.** The Adepts, when they
 > made themselves gods, co-opted names, masks, and whole cults of the true powers, and seated
 > themselves inside the liturgy like cuckoos. Part of the worship catalogued here reaches real
 > divinity; part feeds usurpers wearing its face — and no priest on Ymir can tell from inside
 > which is which. See `secret-the-great-lie.md`.*
 
-**Beneath the Two and the Six the schoolmen rank the Dèi Minori, the "lesser" gods** — and
+**Beneath the Two and the Six the schoolmen rank the Lesser Gods** — and
 never say "lesser" inside their temples, for several are greater *in cult* than half the Six;
 the taxonomy measures cosmic seniority, not the length of the processions. As my tables hold
 them:
@@ -100,18 +100,18 @@ them:
   often prayed to. Sign: a hammer.
 
 **Now to the Church of Mithra, and its two great tearings.** The old rupture is political:
-nearly five centuries gone, the Granduke of Armora declared Solanthya's **Alto Teocrate**
-corrupt — accusing the Letio Church of secretly worshipping Ahriman behind the golden sun — and
-raised the **Chiesa Armorita di Mithra**, still the only licensed clergy of my city, in open
+nearly five centuries gone, the Grand Duke of Armora declared Solanthya's **High Theocrat**
+corrupt — accusing the Letian Church of secretly worshipping Ahriman behind the golden sun — and
+raised the **Armorite Church of Mithra**, still the only licensed clergy of my city, in open
 schism — and, for its first bloody generation, open war — with Solanthya. The guns have been
 quiet since the Peacemaker's treaty; the schism has not. On the truth of the accusation I say nothing,
 chiefly because I would like to keep saying things in general.
 
 The younger quarrel is doctrinal and cuts across both obediences: the schism of the
-**Inclusivisti** and the **Popolari**, and its flashpoint is the *neutral* gods — Kur, Ranin,
+**Inclusivists** and the **Populars**, and its flashpoint is the *neutral* gods — Kur, Ranin,
 Heis, my own Hokhmah, and the rest who serve neither sun. May they be honoured *within* the
 faith of Mithra? The Inclusivist party says yes: all lawful worship is one worship, every god a
-window on the same Absolute. The Popolare party says the windows are a wall with holes in it,
+window on the same Absolute. The Popular party says the windows are a wall with holes in it,
 and a church that admits every god will shortly be a market. I am, you will have guessed, an
 Inclusivist in all but membership. And what I notice, as a collector, is this: the deeper I
 file the faiths of this world, the more they *fit*. Names translate. Symbols rhyme. Domains
@@ -121,7 +121,7 @@ will owe it to you again.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The Inclusivists are accidentally right, and righter than they would enjoy. The faiths of
-> Ymir reconcile because they were **reconciled** — one cover-story, drafted by the Adepti, who
+> Ymir reconcile because they were **reconciled** — one cover-story, drafted by the Adepts, who
 > standardised the masks and let the local names vary. "Every god a window on one Absolute" is
 > very nearly true: the Absolute is the Essence, real and impersonal, and the windows were
 > glazed by the same guild. The friar's Concordance keeps almost closing because one hand drew
@@ -154,28 +154,28 @@ have no column at all. They are not translations of anything we pray to. They ar
 translations of something else.
 
 **Which brings me, reluctantly, to the eldest cult, and the one I understand least.** The
-Xebechani — openly, and certain quieter congregations less openly — worship the **Dèi
-Esterni**, the Outer Gods, said to sleep in the dark beyond the last walls of the world: the
+Xebechani — openly, and certain quieter congregations less openly — worship the **Outer
+Gods**, said to sleep in the dark beyond the last walls of the world: the
 **Observer**; the **Judge**, a trichotomy of Good and Evil and Nothing; the **Silent**; the
 **First**; the **Mother**; and the **Risen**. Their own priests say that to worship one of
-them, once, wrongly, caused *il Disastro*. I have prayed in forty-one temples, honest reader; I
+them, once, wrongly, caused *the Disaster*. I have prayed in forty-one temples, honest reader; I
 entered this one, asked my questions, wrote down the answers, and I will not pretend the
 answers fit my tables. Every other god on Ymir, however strange, is a face of something I can
 love. These are not faces. The Xebechani say they are what was there *before* — and when I ask,
 gently, before *what*, they look at me the way I look at my novices. And there is this: for two
 centuries after the Tide a **second moon** wandered where no moon was — red, unscheduled,
-answering no calendar — and the star-priests name it **Sguardo-sul-Nulla**, the Gaze upon the
-Void, and say it was the Observer, stirring; and that around the year 3260 it did not set, but
+answering no calendar — and the star-priests name it **the Gaze-upon-the-Void**, and say it
+was the Observer, stirring; and that around the year 3260 it did not set, but
 *withdrew*, which they insist is a different thing. The Church called it vulgar superstition
 about an errant heavenly body. The Church also, I observe, has never restored the night
 processions it suspended while that moon stood overhead.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The friar's instincts are a compass needle: watch where they tremble. The Outer Gods are the
-> **Antichi Dei** — the true, eldest divinities, whom the Adepti found sleeping, sealed beyond
+> **Ancient Gods** — the true, eldest divinities, whom the Adepts found sleeping, sealed beyond
 > the elemental walls, and robbed to fill their own new thrones. They do not fit his Concordance
 > because the Concordance is the cover-story, and they are what it covers. The red moon is
-> exactly what the star-priests say: **Sguardo-sul-Nulla is Tuulhak-Xanar, the Observer**, the
+> exactly what the star-priests say: **the Gaze-upon-the-Void is Tuulhak-Xanar, the Observer**, the
 > seal's first failure — it walked the sky from the Tide until it *receded*, two and a half
 > centuries past: withdrawn, not set — and Xhulhu and Heichpyel, the two
 > "gods" the friar could not file, are that one Observer's exoteric masks: the dreaming face and
@@ -183,7 +183,7 @@ processions it suspended while that moon stood overhead.
 > continents, no missionaries.*
 
 **The provinces of faith are no less rich.** In Helgedad's **Seamark**, at the temple called
-the **Torre Splendente**, they honour a triad of mothers: Hudemia, Diis, and a third lady,
+the **Shining Tower**, they honour a triad of mothers: Hudemia, Diis, and a third lady,
 **Thal'Khal**, whom the locals hold to be theirs alone. I sat with her priestesses, heard the
 offices, and will state that Thal'Khal is our **Kur** — the skull beneath the sea-veil: death,
 the deep, and above all the *oracles*, which are the whole trade of her tower. The priestesses,
@@ -210,15 +210,15 @@ taught me more about reverence than several faiths with very good ones.
 **Last, the orders of the unseen** — for the sacred does not end at the gods, and a survey that
 omitted the servants would be a palace with no staff.
 
-**The Spirits** are first and eldest: immaterial dwellers of the **Mondo Spirituale**, the
-Ethereal Plane, and the wellspring of all magic — older, the Xebechani insist, than the gods
-themselves. Lingering too long in our material world corrupts them into **Spiriti Furiosi**,
-raging and past reason: a wisdom that stayed too long at the fair.
+**The Spirits** are first and eldest: immaterial dwellers of the **Ethereal Plane**,
+and the wellspring of all magic — older, the Xebechani insist, than the gods
+themselves. Lingering too long in our material world corrupts them into **Raging Spirits**,
+furious and past reason: a wisdom that stayed too long at the fair.
 
 **The Elementals** issue from the elemental planes in a long ladder of dignities — from the
 littlest wisplings through servitors, mounts, and guardians, past the giants and the true and
-higher elementals, to the **Draghi**, mightiest of the hybrid kind — and, above all, the six
-**Signori Elementali**, one throne to an element, semi-divine, honoured by the elemental cults
+higher elementals, to the **Dragons**, mightiest of the hybrid kind — and, above all, the six
+**Elemental Lords**, one throne to an element, semi-divine, honoured by the elemental cults
 just below the Six Twins. Where a Lord Elemental ends and a small god begins, my tables decline
 to say.
 
@@ -234,8 +234,8 @@ afterward.
 
 **And the Demons** — Spirits wholly corrupted and enslaved to the god of Evil, whose distorted
 true forms can scarcely be hidden on our plane; the mightier the demon, the worse the disguise
-sits. They are ranked in **six Cerchie**, the Circles, weakest to strongest; beyond the sixth,
-unclassifiable, stand the **Demoni Sovrani**, *Oltre le Cerchie* — near-gods bent solely on our
+sits. They are ranked in **six Circles**, weakest to strongest; beyond the sixth,
+unclassifiable, stand the **Sovereign Demons**, *Beyond the Circles* — near-gods bent solely on our
 unmaking, of whom the chroniclers now count most, Ech be thanked, destroyed, and still whisper
 three names: **Asmodeus**, **Xardas**, **Masak**. And at the ladder's base, its strangest
 annex: the bound **Forces** of the Dark Elves, leashed and sworn under Valrin's name to
@@ -254,25 +254,25 @@ keep asking. She has never once scorched my hand for it.
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Give the old man his due: "a seam where two things have been sewn together and called one
 > cloth" is the truest sentence a priest utters in this whole book, and he does not know it.
-> The cloth is the pantheon — real gods and Adepti masks stitched into one liturgy. The seam
+> The cloth is the pantheon — real gods and the Adepts' masks stitched into one liturgy. The seam
 > runs exactly where his tables jam: through the unmapped gods, through the eldest cult, under
 > the red moon. His Concordance will close on the day the Lie finishes coming apart, and he
 > would not survive the closing. Pray, if you pray, that he never finishes it.*
 
 ---
-*Colophon.* Chapter II. Narrator: **Fra' Teodabir** of the Confraternita della Torcia, Armora
+*Colophon.* Chapter II. Narrator: **Fra' Teodabir** of the Brotherhood of the Torch, Armora
 (invented framing voice; `NARRATORS.md`). Drawn from `canon/pantheon.md` (monolatry, the
-Duality, the Six Twins, the Dèi Minori, the Xebechani pantheon, the Outer Gods, the regional
+Duality, the Six Twins, the Lesser Gods, the Xebechani pantheon, the Outer Gods, the regional
 cults, the Church schisms, the Sovereign Demons), `canon/cosmology.md` (the extraplanar
-taxonomy), `canon/factions.md` (Confraternita; Chiesa Armorita), and `canon/peoples.md`
+taxonomy), `canon/factions.md` (the Brotherhood of the Torch; the Armorite Church), and `canon/peoples.md`
 (Dark-Elf exile-theology; Sarradhi; Nkishi); in the margins, `canon/secret-the-great-lie.md`.
-Decisions applied: **COS-1** (hybrid — real gods *and* Adepti masks; the narrator ignorant of
+Decisions applied: **COS-1** (hybrid — real gods *and* the Adepts' masks; the narrator ignorant of
 it), **COS-4** (the Six real; names and cults co-opted), **COS-5** (one Yogh, Xebech =
 Ulan-Tang), **COS-7** (Thal'Khal = the Seamark Kur), **COS-8** (Valrin the god; the Forces
-his), **COS-20** (Dèi Minori taxonomy; neutral gods the Inclusivist/Popolare flashpoint),
-**COS-21** (one Observer; Sguardo-sul-Nulla = Tuulhak-Xanar; Xhulhu and Heichpyel his masks),
+his), **COS-20** (the Lesser Gods taxonomy; neutral gods the Inclusivist/Popular flashpoint),
+**COS-21** (one Observer; the Gaze-upon-the-Void = Tuulhak-Xanar; Xhulhu and Heichpyel his masks),
 **MAG-2** (one demon hierarchy: Sovereigns › six Circles › bound Forces). **[INVENTED]**
 connective tissue: Teodabir's biography, Concordance, and "forty-one temples"; the Thal'Khal
 identification staged as his own finding (the equation is canon); his Tezcatlipoca speculation
-(canon maps that god to no common deity); the Inclusivist/Popolare quarrel framed as younger
-than the Armorita rupture; the lapsed night processions; the Seamark midwife.
+(canon maps that god to no common deity); the Inclusivist/Popular quarrel framed as younger
+than the Armorite rupture; the lapsed night processions; the Seamark midwife.

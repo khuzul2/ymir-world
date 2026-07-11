@@ -1,7 +1,7 @@
 # I · THE COSMOGONY
 ## *Of the Silence, the Sundering, and the Making of the World*
 
-**As set down by Xochiyayotl, Xattva Loremaster of Xuthal, Star-Priest of the *Culto delle Stelle*, eldest of the reckoners of Xebech.**
+**As set down by Xochiyayotl, Xattva Loremaster of Xuthal, Star-Priest of the Cult of the Stars, eldest of the reckoners of Xebech.**
 
 > *Curator's note.* Of all who might tell the world's beginning I chose the coldest voice. The
 > Xebechani are the eldest people still drawing breath, and Xochiyayotl is old even among them; it
@@ -22,8 +22,8 @@ and of grief. Understand this first, warm reader, for your priests forget it: **
 older than the gods.** The gods are only the largest of the changes.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *The priest calls it Ech and calls it the One. It is neither one nor a person. It is **L'Essenza**
-> — the raw Essence that fills and underlies creation, impersonal as the sea. The Spirits are its
+> *The priest calls it Ech and calls it the One. It is neither one nor a person. It is **the Essence**
+> (*l'Essenza*, in the old tongue) — the raw substance that fills and underlies creation, impersonal as the sea. The Spirits are its
 > foam. Every creed on Ymir has drawn a face on the sea and knelt to the face. That much of the
 > cosmogony is true: there is a substrate, and it is real, and no god made it. Remember that. It is
 > the one honest sentence in the chapter.*
@@ -61,18 +61,18 @@ say a demon is a Spirit gone wrong. They simply do not know how *early* the wron
 > lying. Mithra and Ahriman and the Six are **real** enough; they are the great motions of the
 > Essence, and they will answer a prayer. But they are **not the eldest powers, and they did not
 > make this world.** Older than all of them slept the true gods — the ones this very priest and all
-> its kind worship, and call the **Outer Gods** — until a people of tool-and-star, the **Adepti**,
+> its kind worship, and call the **Outer Gods** — until a people of tool-and-star, the **Adepts**,
 > found them sleeping, **sealed them beyond the elemental walls**, drank their power, and set
 > themselves up in the empty thrones wearing the old names. Much of what the warm faiths adore is
-> the Adepti in a mask. The Ancient Gods are not dead. They are locked out. And in this present age
+> the Adepts in a mask. The Ancient Gods are not dead. They are locked out. And in this present age
 > the lock is failing — which is why, when the Tide broke, a red eye opened in the night sky and
 > kept its watch there for two hundred years before withdrawing. But of that, the priest
 > will speak only sideways, and only because its people never forgot whom they truly serve.*
 
 **Now hear the part the warm peoples do not keep**, for it is ours, and older. Before the sundering,
 before Ech learned to have two hands — there *were already watchers.* We do not say they made Ech;
-we say they were there, as the deep is there before the diver. We name them the **Dèi Esterni**, the
-Outer Gods, the Elder Ones who slept in the Dark past the last wall of the world: the **Observer**,
+we say they were there, as the deep is there before the diver. We name them the **Outer Gods**,
+the Elder Ones who slept in the Dark past the last wall of the world: the **Observer**,
 who is the eye and the red star; the **Judge**, who is three things at once, Good and Evil and
 Nothing; the **Silent**; the **First**; the **Mother**; and the **Risen**. The warm faiths think our
 worship strange, and call our temples fearful. Let them. We are the eldest, and we remember that the
@@ -101,7 +101,7 @@ it. You perhaps should fear it a little.
 That is the making of the world. Sleep now, warm reader. You are very new, and the night is long.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
-> *The "something done" was the Adepti's own ritual — the theft that sealed the Ancient Gods, drank
+> *The "something done" was the Adepts' own ritual — the theft that sealed the Ancient Gods, drank
 > their fire, and tore the Essence so badly that a second, curdled Essence bled out and became the
 > demons; the backlash drowned their shining capital and left the Maelstrom over its grave. Priest,
 > historian, and doom-preacher each saw one face of the single act and named it a different
@@ -112,7 +112,7 @@ That is the making of the world. Sleep now, warm reader. You are very new, and t
 *Colophon.* Chapter I. Narrator: **Xochiyayotl** of Xebech (invented framing voice; `NARRATORS.md`).
 Drawn from `canon/cosmology.md` and `canon/pantheon.md` (the public cosmogony: Ech → Mithra/Ahriman
 → the Six Twins → the shaping, the Void, the demons; the Spirits/Essence; the Maelstrom as an
-unnatural wound) and, in the margins, `canon/secret-the-great-lie.md` (the Adepti, the sealed
-Ancient/Outer Gods, Ech = L'Essenza, the one-event Catastrophe, the waking / the red moon). Xebechani
+unnatural wound) and, in the margins, `canon/secret-the-great-lie.md` (the Adepts, the sealed
+Ancient/Outer Gods, Ech = the Essence, the one-event Catastrophe, the waking / the red moon). Xebechani
 divine-names and the Outer Gods per `pantheon.md`. Decisions applied: COS-1 (hybrid), COS-2, COS-4,
 COS-9, COS-24, COS-21.

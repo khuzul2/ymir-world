@@ -1,6 +1,6 @@
 # THE YMIR COMPENDIUM
 ### being a true gathering of the tales, histories, and doctrines of the world of Ymir, as its own peoples tell them
-#### assembled at the Seggio di Cristallo of Elendor, in the years of the Nuovo Equilibrio
+#### assembled at the Crystal Seat of Elendor, in the years of the New Equilibrium
 
 ---
 
@@ -19,7 +19,7 @@ single scholar declares it to be; it is the quarrel of everyone who has ever tri
 have let them quarrel.
 
 We stand now near **three thousand five hundred and eighteen years after the Maelstrom** — deep in
-the calm the histories call the **Nuovo Equilibrio**, the long exhale after the age of storms. From
+the calm the histories call the **New Equilibrium**, the long exhale after the age of storms. From
 this quiet shore the narrators look back, and so shall you.
 
 ### How to read this book
