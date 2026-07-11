@@ -91,8 +91,8 @@ ambushed. The attributions are the narrators' own; the small judgements are mine
 - *(Here follows an unnumbered closing leaf: **A Note Left Unanswered.** It is mine, and I will
   say nothing else about it.)*
 - **Appendices A–K** — *the Curator's own.* Of the years (A); of the calendar (B); of monies
-  (C); a register of persons (D); a glossary (E); of the tongues (F); of herbs, smokes &
-  draughts (G); a register of instruments & materials (H); doors into Ymir, for the one who runs
+  (C); a register of persons (D); a glossary (E); of the tongues (F); of herbs, draughts &
+  dusts (G); a register of instruments & materials (H); doors into Ymir, for the one who runs
   the world (I — GM); of the plates, and an index of places (J); and of the making of this book
   (K).
 
