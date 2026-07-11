@@ -5,15 +5,14 @@
 
 > *Curator's note.* This leaf was not commissioned. It arrived two winters after the book was
 > sewn, in a deal crate under the log-volumes of a licensed Armorite dream-house — each page
-> ruled, each waking-time entered before each fee. I had the arithmetic checked, from habit; it
-> reconciles to the minute across thirty years, which nothing else in this Compendium can claim.
-> The covering letter asked only that the logs be kept somewhere that does not burn. The memoir
-> lay underneath them, unmentioned. I bind it among the late leaves, after the deserts, for two
-> reasons: the desert chapter ends standing at a door into this same country, and the late
-> leaves are where this book keeps the accounts that came in after the accounts were closed. The
-> reader will notice that the narrator's tenses misbehave. I queried one such passage, and
-> received the only reply she ever sent me: *"It is not a slip. It is the tense the country
-> keeps."* — *the Curator*
+> ruled, each waking-time entered before each fee; the arithmetic reconciles to the minute
+> across thirty years, which nothing else in this Compendium can claim. The covering letter
+> asked only that the logs be kept somewhere that does not burn. The memoir lay underneath them,
+> unmentioned. I bind it among the late leaves because the desert chapter ends standing at a
+> door into this same country, and because the late leaves are where this book keeps the
+> accounts that came in after the accounts were closed. The reader will notice the narrator's
+> tenses misbehave. I queried one passage and received her only reply: *"It is not a slip. It is
+> the tense the country keeps."* — *the Curator*
 
 ---
 
@@ -21,77 +20,73 @@ I was thirty years on the night-lists of the **Bell & Candle**, a licensed dream
 New City, and in those years I made four thousand nine hundred and six logged descents into the
 country this leaf concerns. The trade calls me a **dream-pilot**. My licence — I have it before
 me; it wants dusting — calls me a **Conductor of Assisted Sleep, second grade**, which is what
-the Permit Office believes a dream is: a conveyance respectable persons may be assisted into and
+the Permit Office believes a dream is: a conveyance respectable persons are assisted into and
 out of, like a tram. Both names are honest. Neither is sufficient. I will keep to the
-tram-language as long as I am able, because it is the language of my log-books, and my log-books
-are the only part of me that has never lied.
+tram-language as long as I am able; it is the language of my log-books, and my log-books are the
+only part of me that has never lied.
 
-Understand one thing first and the rest of my testimony will sit straight. The Compendium's
-other chapters describe countries you may decline to visit. Not this one. **You go every
-night.** Every sleeper on Ymir — the Theocrat on his cushions, the galley-hand on her bench,
-you, reader, some hours from now — goes down into the **Dream World** as water goes downhill,
-and comes back at dawn with wet hair and no memory. The learned say the country is a province of
-the Spirit World, folded against our waking one like silk against a lining; I believe them, for
-I have felt the fold. So mark it: passage is free, universal, and wasted on everyone. What a
-licensed parlour sells is not passage but **arrival** — to go down awake behind your own eyes,
-with a pilot beside you who knows the way home, and a bell already set for your return.
+Understand one thing first and the rest will sit straight. The Compendium's other chapters
+describe countries you may decline to visit. Not this one. **You go every night.** Every sleeper
+on Ymir — the Theocrat on his cushions, you, reader, some hours from now — goes down into the
+**Dream World** as water goes downhill, and comes back at dawn with wet hair and no memory. The
+learned say the country is a province of the Spirit World, folded against our waking one like
+silk against a lining; I believe them, for I have felt the fold. So passage is free, universal,
+and wasted on everyone. What a licensed parlour sells is **arrival**: going down awake behind
+your own eyes, with a pilot who knows the way home, and a bell already set for your return.
 
-Here is what four thousand nine hundred and six descents were like, so you may weigh the rest.
-The client takes the couch; I take the chair; between us the **Oneiroscope**, warm, smelling
-faintly of rain on brass; at the wall the house wizard watches the Essence-meter and nods. I
-enter the waking-time in the log — the waking-time *first*, before the client's name, before the
-tariff; a pilot who enters the fee before the bell is a pilot I will not sit with. The lamp is
-lowered. The bell above the couch is struck once, softly, so the sleeping ear will know its
-voice again at the far end. And then — forgive me; this is the tense the country keeps — *then
-we are on the Stair. There is always a stair, or a gangway, or a ladder; the mind will not go
-down without a metaphor to hold. Below, the water of sleep lies black and warm and lit from
-underneath, and the first shore shows itself the way it always shows: a lamp you remember from
-childhood, in a window you cannot possibly remember. We step off. The sand takes the weight of
-two. I count my fingers — the oldest exercise of the trade — and there are five, and we have
-arrived, and the whole enormous, kindly treachery of the place opens in front of my client like
-a garden.*
+Here is what those descents were like, so you may weigh the rest. The client takes the couch; I
+take the chair; between us the **Oneiroscope**, warm, smelling faintly of rain on brass; at the
+wall the house wizard watches the Essence-meter. I enter the waking-time in the log — the
+waking-time *first*, before the name, before the tariff; a pilot who enters the fee before the
+bell is a pilot I will not sit with. The lamp is lowered. The bell above the couch is struck
+once, softly, so the sleeping ear will know its voice at the far end. And then — forgive me;
+this is the tense the country keeps — *then we are on the Stair. There is always a stair, or a
+gangway; the mind will not go down without a metaphor to hold. Below, the water of sleep lies
+black and warm and lit from underneath, and the first shore shows itself the way it always
+shows: a lamp you remember from childhood, in a window you cannot possibly remember. We step
+off. The sand takes the weight of two. I count my fingers — the oldest exercise of the trade —
+and there are five, and we have arrived, and the whole enormous, kindly treachery of the place
+opens in front of my client like a garden.*
 
-Then the bell, and tea. Ninety marks the sitting, waking-times observed to the minute. It is a
-good trade, and the licence is not a tax but a tether. The Crier printed the number of tourists
-lost last season to houses promising more than the tariff-board — eleven — and I invite you to
-note that all eleven sat at unlicensed couches. In thirty years the Bell & Candle lost nobody.
-Nobody, I should write, but one; and I will come to her.
+Then the bell, and tea. Ninety marks the sitting, waking-times observed to the minute. The
+licence is not a tax but a tether: the Crier counted eleven tourists lost last season to houses
+promising more than the tariff-board, and all eleven sat at unlicensed couches. In thirty years
+the Bell & Candle lost nobody. Nobody, I should write, but one; and I will come to her.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The pilot believes the fee ends at the tariff-board. It does not. The Dreamlands are a
-> province, and provinces have rulers: the **Outer Gods** hold this one. The sealed Ancient
-> Gods, walled out of waking creation, were never walled out of sleep — sleep is the one border
-> the Adepts could not close — and they govern it as landlords, patient as tide: every night the
-> whole world crosses into their reach and comes back unremembering, which is the arrangement
-> working, not failing. The parlours' little bells ring because something tolerates the ringing.
-> And the road has a keeper: **Topramesk the Yellow**, last of the seven who broke the world,
-> holds the dream-gate of drowned Ragash and polices every lucid crossing out of Ymir — for the
-> dreamers' safety, say the deep records, without saying against what, or for whose eventual
-> use. Ninety marks the sitting. No one has ever asked what the toll is, or to whom the door is
-> actually paid.*
+> province, and provinces have rulers: the **Outer Gods** hold this one. Sealed out of waking
+> creation, the Ancient Gods were never sealed out of sleep — the one border the Adepts could
+> not close — and they keep it as landlords, patient as tide: every night the whole world
+> crosses into their reach and comes back unremembering. That is the arrangement working, not
+> failing; the parlours' little bells ring because something tolerates the ringing. And the road
+> has a keeper: **Topramesk the Yellow**, last of the seven who broke the world, holds the
+> dream-gate of drowned Ragash and polices every lucid crossing out of Ymir — for the dreamers'
+> safety, the records say, without saying against what. No one has asked what the true toll is,
+> or to whom the door is paid.*
 
 **Now the geography, as far as a second-grade licence runs.** The near country the trade calls
 **the Hem** — the shallows just under the surface of sleep, where everything is sewn out of the
 sleeper. The Crier's advertisement is for once exact: gardens no gardener planted, cities of
 brass, skies you will not describe at breakfast. The Hem is safe the way a mirror is safe:
-nothing in it but what you brought. Below the Hem lie **the Meadows**, and there the trade
-begins in earnest, for the Meadows are *shared*. You know a thing is not yours by the way it
-fails to need you — an inn that goes on standing when no one dreams in it; a road with other
-traffic on it; polite small persons of no particular species who will trade news for names, a
-commerce I never once permitted. A pilot learns the fixed **landfalls** as a coastwise master
-learns his marks — not by star or needle, for there are none, but by *conviction*: you steer by
-what you can hold yourself certain of, which is why the trade takes calm persons and ruins vain
-ones. The Guild even assays a metal said to be mined under that country — **Dream Steel**; I
-have held a knife of it, and it weighed exactly what I believed it weighed.
+nothing in it but what you brought. Below it lie **the Meadows**, and there the trade begins in
+earnest, for the Meadows are *shared*. You know a thing is not yours by the way it fails to need
+you — an inn that goes on standing when no one dreams in it; a road with other traffic; polite
+small persons of no particular species who trade news for names, a commerce I never permitted.
+A pilot learns the fixed **landfalls** as a coastwise master learns his marks — not by star or
+needle, for there are none, but by *conviction*: you steer by what you can hold yourself certain
+of, which is why the trade takes calm persons and ruins vain ones. The Guild even assays a metal
+mined, they say, under that country — **Dream Steel**; I have held a knife of it, and it weighed
+exactly what I believed it weighed.
 
-And below the Meadows — I will say this in the plainest tram-language I own — lie **the deeper
-shores**, and the deeper shores are not priced in marks. Nothing down there wants your gold. The
-far country trades in waking things, and it names its own price: hours first, for time on those
-shores runs as it pleases — I have logged a forty-minute sitting that cost the client a day and
-a half of his calendar; then the fine grain of memory, so that a man comes home whole but can no
-longer say his mother's smell; then names. I watched a colleague pay a name once. He is well. He
-is *called* something now, the way a shop is called something. That is the tariff of the deep,
-and no bell rings there softly.
+Below the Meadows — in the plainest tram-language I own — lie **the deeper shores**, and the
+deeper shores are not priced in marks. Nothing down there wants your gold. The far country
+trades in waking things, and names its own price: hours first, for time on those shores runs as
+it pleases — I have logged a forty-minute sitting that cost the client a day and a half; then
+the fine grain of memory, so that a man comes home whole but can no longer say his mother's
+smell; then names. I watched a colleague pay a name once. He is well. He is *called* something
+now, the way a shop is called something. That is the tariff of the deep, and no bell rings there
+softly.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Past the deeper shores, in order: **Ragash-below** — the drowned capital's shadow, standing
@@ -100,65 +95,63 @@ and no bell rings there softly.
 > Lost Dreams**, which everyone who has tried it calls infinite. It is not infinite. On its far
 > side hangs **Arcadia**: a steam-wreathed world of islands suspended in an ocean of air, where
 > the Essence blows in Winds and is bottled in **Van Argan Stones** — batteries of refined
-> Banite that burn indefinitely, the engine-heart of a civilisation of gliders, rotor-ships, and
-> steam-jets. Its great power is the **Crystal Empire** of the **Kraeva** — grey-skinned,
-> bloodlessly courteous, certain they are Arcadia's only rightful people — who prosecute an
-> armed peace under a **Prophecy of the Return**; their battle-captives "wear the White" and
-> serve unarmed. No dreamer of Ymir has ever crossed the Desert, and almost none suspects it has
-> a far side. **Topramesk is the only being who certainly knows Arcadia exists** — and a
-> prophecy of Return, in a world reachable only through his gate, deserves a long look: a Return
-> would have to come out through something.*
+> Banite that burn indefinitely, the engine-heart of a civilisation of gliders and rotor-ships.
+> Its great power is the **Crystal Empire** of the **Kraeva** — grey-skinned, bloodlessly
+> courteous, certain they are Arcadia's only rightful people — prosecuting an armed peace under
+> a **Prophecy of the Return**; their battle-captives "wear the White" and serve unarmed. No
+> dreamer of Ymir has crossed the Desert; almost none suspects a far side. **Topramesk is the
+> only being who certainly knows Arcadia exists** — and a prophecy of Return, in a world
+> reachable only through his gate, deserves a long look: a Return would have to come out through
+> something.*
 
-**The parlour is the paying door, but it is not the only door.** In the south sands they do
-without engines: the **Green Lotus** of the Great Erg opens the mind in a two-hour coma, and
-every dose gambles the soul slipping loose into the Dream World with no bell set — the flower
-does for a copper what my house did for ninety marks, the way a flood does the work of a ferry.
-In the deep Erg the nomads rope their camels away from **dream-gates** that do not open onto the
-desert, and a seer of Ulan-Tang sells the crossing to those who must; and somewhere past those
-gates, in a prison built as a palace, the archmage **Mubafer** keeps the sweetest parlour of
-all. The pilots' rule for him is one sentence long: drink nothing, envy nothing, and do not let
-him show you the library. And some need no door at all. Some are born arriving — they wake
-behind their own eyes on the first shore as children, engine-less, flower-less; the trade calls
-them **Dreamers**, half in envy. A few go further still, and learn to walk out of their own
-sleep into the common deep and home again, carrying — knowledge, mostly; some swear, small
-things that fit in a closed hand — and these are the **Travellers**, for whom the Permit
-Office's alphabet keeps no page, which tells you its whole opinion of them.
+**The parlour is the paying door, but it is not the only door.** In the south they do without
+engines: the **Green Lotus** of the Great Erg opens the mind in a two-hour coma, and every dose
+gambles the soul slipping loose into the Dream World with no bell set — the flower does for a
+copper what my house did for ninety marks, the way a flood does the work of a ferry. In the deep
+Erg the nomads rope their camels away from **dream-gates** that do not open onto the desert, and
+a seer of Ulan-Tang sells the crossing to those who must; somewhere past those gates, in a
+prison built as a palace, the archmage **Mubafer** keeps the sweetest parlour of all — the
+pilots' rule for him is one sentence: drink nothing, envy nothing, and do not let him show you
+the library. And some need no door. Some are born arriving — awake behind their own eyes on the
+first shore as children; the trade calls them **Dreamers**, half in envy. A few learn to walk
+out of their own sleep into the common deep and home again, carrying — knowledge, mostly; some
+swear, small things that fit in a closed hand — and these are the **Travellers**, for whom the
+Permit Office's alphabet keeps no page, which tells you its whole opinion of them.
 
 > *Curator's note.* For these doors from the waking side — the Lotus, the roped-off gates of the
-> deep Erg, Mubafer's too-gracious palace — see the desert chapter that precedes this leaf,
-> whose lore-keeper ends standing at the same threshold; for the parlours as their own city sees
-> them, the Crier's notice in Chapter VII, tariffs and condolences included. — *the Curator*
+> deep Erg, Mubafer's too-gracious palace — see the desert chapter before this leaf, whose
+> lore-keeper ends standing at the same threshold; for the parlours as their own city sees them,
+> the Crier's notice in Chapter VII, tariffs and condolences included. — *the Curator*
 
 **From the log of Descent 3,441, ninth of Serpent, 3502; client a College man, Permit C,
 question not stated; down at the third bell of night, waking-bell the sixth.** *We go deep. Past
-the last landfall I hold certain — the unlit Lighthouse, which every pilot knows and no pilot
-has climbed — the water of sleep changes colour, and there is the garden. Hedges of black glass;
-white gravel; no wind. At the centre a woman made of brass and porcelain sits with her own
-winding-key in her lap. She is weeping. The tears are crystal, and they fall with the sound of
-very small bells, and the gravel is white with them — drifts of them, years of them. She says,
-to no one, in the voice of a public clock: "I am Vespertina. It is not yet paid." My client
-opens his mouth to ask what is not paid. I strike the bell myself.* — In that log's
-incident-column my own hand has written: *none*. That was the one cowardice of my licensed life,
-and I mend it here, in a book instead. Every deep pilot knows the garden. No licensed log
-carries it. And the name is the name on the Peacemaker's monuments — a Grand Duchess four
-centuries and a half dead, who ended the Great War and gave this calm age its calm — and what
-her name is doing on the lips of a weeping engine at the bottom of sleep I do not know. I know
-only that the men who might know have made very sure it is nobody's trade to ask.
+the last landfall I hold certain — the unlit Lighthouse, which every pilot knows and none has
+climbed — the water of sleep changes colour, and there is the garden. Hedges of black glass; no
+wind. At the centre a woman made of brass and porcelain sits with her own winding-key in her
+lap. She is weeping. The tears are crystal, and fall with the sound of very small bells, and the
+gravel is white with them — drifts of them, years of them. She says, to no one, in the voice of
+a public clock: "I am Vespertina. It is not yet paid." My client opens his mouth to ask what is
+not paid. I strike the bell myself.* — In that log's incident-column my own hand has written:
+*none*. That was the one cowardice of my licensed life, and I mend it here, in a book instead.
+Every deep pilot knows the garden; no licensed log carries it. And the name is the name on the
+Peacemaker's monuments — a Grand Duchess four centuries and a half dead, who ended the Great War
+and gave this calm age its calm. What her name is doing on the lips of a weeping engine at the
+bottom of sleep I do not know; I know only that the men who might know have made very sure it is
+nobody's trade to ask.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The garden is real, and the log's "none" was the lie. **Vespertina VonGryffen**, the
 > Peacemaker, ended the Great War and reconciled Armora with Letia; the histories say by
 > statecraft. Say instead: by contract. She went down — by the College's first engine, before
-> the parlours, before the tariffs — to treat with the far country's landlords for the calm of
-> the world above; and the far shores take only the coin the pilot names, waking things. Her
-> line got the age its peace. The dream got her: kept, wound, running down against a term. The
-> country remembers her as a machine because that is what the bargain made of her — an engine of
-> the calm, ticking. She weeps because she has read the lease; "it is not yet paid" is not a
-> complaint but a countdown. Set this beside the Veiled Hand's verdict on the age — that its
-> calm is patience, and the patience not ours — and ask whether the Peacemaker's purchase and
-> the landlords' patience are two names for one instrument. What she bought, what falls due, and
-> in which year are left open on purpose: a calm with a due-date is the best clock a campaign
-> can keep.*
+> the parlours — to treat with the far country's landlords for the calm of the world above; and
+> the far shores take only the coin the pilot names, waking things. Her line got the age its
+> peace. The dream got her: kept, wound, running down against a term. The country remembers her
+> as a machine because that is what the bargain made of her — an engine of the calm, ticking.
+> She weeps because she has read the lease; "it is not yet paid" is not a complaint but a
+> countdown. Set this beside the Veiled Hand's verdict that the age's calm is patience, and the
+> patience not ours — and ask whether the Peacemaker's purchase and the landlords' patience are
+> two names for one instrument. What she bought, and in which year it falls due, are left open
+> on purpose: a calm with a due-date is the best clock a campaign can keep.*
 
 **Last, the island — and the island is why any of this is written.** Sailors know **Kyria** as
 fifty leagues of fog that a full gale will not move; they sound it, find no gap, and stand away.
@@ -183,22 +176,21 @@ mother folds a child's arms into a coat — and I am on my own couch at the Bell
 into the smell of rain on brass, and the waking-bell has not yet been struck.*
 
 I logged it — *landfall; inhabited; turned back* — and the College lifted the page within the
-month, and I have not seen it since. No matter. I have it by heart, which is where they cannot
-file it.
+month. No matter. I have it by heart, which is where they cannot file it.
 
 > *Curator's note.* Compare the navigator's entry off this same fog in Chapter V: three of his
 > crew, asleep in one middle watch, dreamed one town — lamps, mist, beast-faced folk "kind as
 > aunts" — in the very words this pilot chooses for her landing. Two trades, one border. I have
 > altered neither. — *the Curator*
 
-Thirty licensed years I steered for that fog. Every deep sitting trimmed a little
-north-by-sleep, always with the bell set, always home to the minute; and I never raised it
+Thirty licensed years I steered for that fog — every deep sitting trimmed a little
+north-by-sleep, always with the bell set, always home to the minute — and I never raised it
 again. But mark what an old pilot marks. Thonis shelters refugees — humans, elves, remnants of
 the old wars; on this every trader agrees. And no ship lands there. No ship has *ever* landed
-there. I have asked myself for thirty years by what road a refugee reaches an island the sea is
-not permitted to touch, and there is one road only that does not mind water. **They arrived
-asleep.** Which means the island keeps some. Which means there is a list, and a door, and a
-doorkeeper; and I have met her; and she said *not yet*.
+there. By what road does a refugee reach an island the sea is not permitted to touch? There is
+one road only that does not mind water. **They arrived asleep.** Which means the island keeps
+some. Which means there is a list, and a door, and a doorkeeper; and I have met her; and she
+said *not yet*.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *All true, and truer than she dares. The fog is a veil of the Dreamlands, drawn over Kyria
@@ -231,14 +223,12 @@ waking things — and I keep the instalments punctually, every night. I was alwa
 I am old now; I sleep more than I wake; and the trade taught me exactly one prayer, which is a
 waking-time. So let this leaf stand as my petition, filed where the fog can read it — for it
 reads; I have felt the thumb at the corner of the page. To whom it concerns, in Thonis or above
-Thonis: the references are enclosed, fifty-one volumes of them. Thirty years; four thousand nine
-hundred and six descents; every sleeper brought home to the minute but one, and the one was
-myself, and on that account I have paid nightly ever since without missing a night. I am quiet.
-I am punctual. I know how to sit beside the sleeping, and how to hold a bell so it does not
-ring. And if the answer is still *not yet*, then file me, and I will wait as the trade taught
-me, for the pilot's patience is the bell's patience — and *there: the lamp is in the window. The
-stair is under my foot. The mist is opening the way a hand opens. I am not asleep, reader; I am
-early. Hold the bell.*
+Thonis: the references are enclosed, fifty-one volumes of them. Thirty years; every sleeper
+brought home to the minute but one, and the one was myself, and on that account I have paid
+nightly ever since. I am quiet. I am punctual. I know how to sit beside the sleeping, and how to
+hold a bell so it does not ring. And if the answer is still *not yet*, then file me, and I will
+wait as the trade taught me — and *there: the lamp is in the window. The stair is under my foot.
+The mist is opening the way a hand opens. I am not asleep, reader; I am early. Hold the bell.*
 
 > *Curator's note.* The crate bore no return address; the carter's bill named a fishing village
 > on the Young Kingdoms' north-western coast, the last with sight of the fog-bank. I wrote once,
@@ -249,32 +239,30 @@ early. Hold the bell.*
 ---
 *Colophon.* Chapter XII·C (late-bound). Narrator: **Hesper Vaneck** of Armora (invented framing
 voice; `NARRATORS.md`). Drawn from `canon/cosmology.md` (the Dream World a region of the Spirit
-World, **COS-16**; the Outer Gods a third axis beyond the elemental walls, **COS-9**),
-`canon/geography.md` (Kyria the mist-isle, untouched by the Catastrophe; Thonis and its
-refugees; the Dream World reached by Armora's Oneiroscope), `canon/magic.md` (the Oneiroscope;
-Green Lotus and the soul slipping loose; Dream Steel; the permit alphabet), `canon/history.md`
-(Kyria wrapped in the Mists ~1710; **HIS-15**: the "sleeping Ragash" a Dream-World mirror of the
-destroyed city; **HIS-1/HIS-2**: the ~3518 present, the Vespertina succession),
-`canon/characters.md` (Vespertina VonGryffen the Peacemaker), and in the margins
-`canon/secret-the-great-lie.md` (the Dreamlands ruled by the Outer Gods; the conscious
-Dreamers/Travellers; Topramesk the Yellow guarding the dream-gate of Ragash; **Arcadia**, the
-Kraeva, the Van Argan Stones), with regional detail from
+World, **COS-16**; the Outer Gods a third axis, **COS-9**), `canon/geography.md` (Kyria the
+mist-isle, untouched by the Catastrophe; Thonis and its refugees; the Dream World reached by
+Armora's Oneiroscope), `canon/magic.md` (the Oneiroscope; Green Lotus and the soul slipping
+loose; Dream Steel; the permit alphabet), `canon/history.md` (Kyria wrapped in the Mists ~1710;
+**HIS-15**: the "sleeping Ragash" a Dream-World mirror of the destroyed city; **HIS-1/HIS-2**:
+the ~3518 present, the Vespertina succession), `canon/characters.md` (Vespertina VonGryffen the
+Peacemaker), and in the margins `canon/secret-the-great-lie.md` (the Dreamlands ruled by the
+Outer Gods; the conscious Dreamers/Travellers; Topramesk the Yellow at the dream-gate of Ragash;
+**Arcadia**, the Kraeva, the Van Argan Stones), with regional detail from
 `sources/extracted/batch2-digests/regions.md` (Kyria: the veil against the Sovereign Demons, the
-Dreaming Legion, Gildiss the Dream Dragon and his cleansing of Corrupted Essence; the Erg's
-dream-gates, the seer of Ulan-Tang, Mubafer's palace-prison) and
-`sources/extracted/wiki/cosmology-religion.md` §16 (Arcadia: the Desert of Lost Dreams, the
-Crystal Empire and the Kraeva's Prophecy of the Return, "wearing the White," Banite and the Van
-Argan Stones, Topramesk as sole knower). **[INVENTED]:** the narrator herself — name, biography,
-the Bell & Candle house and Glassharp Lane, the fifty-one log-volumes, all descent-numbers and
-dates; the licence style "**Conductor of Assisted Sleep, second grade**" and the whole of
-parlour procedure (the waking-bell rite, the log-before-fee creed, the two-pilot rule, the
-ninety-mark tariff, the College registry number); the trade's dream-navigation practice and
-toponymy (the Stair, **the Hem**, **the Meadows**, landfalls, the unlit Lighthouse,
-finger-counting, "north-by-sleep"); the deep shores' price-list (hours, memory-grain, names) as
-a systematisation of canon's qualitative dangers; her Kyria landing, the reading at the border,
-and the sentence "Not you; not yet" (the veil's reading-and-keeping behaviour is established in
-Ch. V's margin; her case is new); her unlicensed descent and its costs (the fine, the dreamless
-sleep); the **Vespertina bargain** in the third margin — the Peacemaker's contract, its terms,
-and the "College's first engine" are new connective tissue giving Chapter VII's weeping-garden
-margin its payoff, deliberately unresolved; and the fourth margin's reading of Thonis's refugees
-as the Legion's recruiting and of "not yet" as a posting-order. Present ≈ 3518 d.M.
+Dreaming Legion, Gildiss the Dream Dragon; the Erg's dream-gates, the seer of Ulan-Tang,
+Mubafer's palace-prison) and `sources/extracted/wiki/cosmology-religion.md` §16 (Arcadia: the
+Desert of Lost Dreams, the Crystal Empire and the Prophecy of the Return, "wearing the White,"
+Banite and the Van Argan Stones, Topramesk as sole knower). **[INVENTED]:** the narrator herself
+— name, biography, the Bell & Candle house and Glassharp Lane, the fifty-one log-volumes, all
+descent-numbers and dates; the licence style "**Conductor of Assisted Sleep, second grade**" and
+the whole of parlour procedure (the waking-bell rite, the log-before-fee creed, the two-pilot
+rule, the ninety-mark tariff); the trade's dream-navigation practice and toponymy (the Stair,
+**the Hem**, **the Meadows**, landfalls, the unlit Lighthouse, finger-counting,
+"north-by-sleep"); the deep shores' price-list (hours, memory-grain, names) as a systematisation
+of canon's qualitative dangers; her Kyria landing and the sentence "Not you; not yet" (the
+veil's reading-and-keeping is established in Ch. V's margin; her case is new); her unlicensed
+descent and its costs (the fine, the dreamless sleep); the **Vespertina bargain** of the third
+margin — the Peacemaker's contract, its terms, and the "College's first engine" are new
+connective tissue giving Chapter VII's weeping-garden margin its payoff, deliberately
+unresolved; and the fourth margin's reading of Thonis's refugees as the Legion's recruiting and
+of "not yet" as a posting-order. Present ≈ 3518 d.M.
