@@ -3,6 +3,7 @@
 from the Markdown chapters in manual/.  A4, two-column, black-on-white,
 restrained 'illuminated manuscript' styling."""
 import re, html, os, sys
+from datetime import datetime, timezone
 
 SRC = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(SRC)
@@ -301,8 +302,10 @@ def build():
     if cover_subs:
         cover.append('<p class="cover-sub">%s</p>' % inline(cover_subs[0]))
     cover.append('<div class="cover-rule">❦ ✵ ❧</div>')
-    cover.append('<p class="cover-imprint">Assembled at the Seggio di Cristallo of Elendor<br>'
-                 'in the years of the Nuovo Equilibrio &middot; ~3518 <span class="sc">d.M.</span></p>')
+    cover.append('<p class="cover-imprint">Assembled at the Crystal Seat of Elendor<br>'
+                 'in the years of the New Equilibrium &middot; ~3518 <span class="sc">d.M.</span></p>')
+    stamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+    cover.append('<p class="cover-stamp">this impression last edited %s</p>' % stamp)
     cover.append('</div></section>')
     sections.append('\n'.join(cover))
 
@@ -420,6 +423,7 @@ body{
 .cover-sub2{font-size:11pt;color:var(--muted);margin:0 0 10mm;font-style:italic;}
 .cover-rule{color:var(--gilt);font-size:15pt;letter-spacing:.5em;margin:6mm 0 9mm;}
 .cover-imprint{font-size:10.5pt;color:var(--muted);line-height:1.7;letter-spacing:.02em;}
+.cover-stamp{margin-top:2.2em;font-size:8pt;color:var(--muted);opacity:.75;font-style:italic;letter-spacing:.04em;}
 .sc{font-variant:small-caps;letter-spacing:.05em;}
 
 /* ---- table of contents ---- */
