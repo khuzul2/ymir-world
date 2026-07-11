@@ -11,30 +11,42 @@ OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(MANUAL, "ymir-compendiu
 
 FILES = [
     "00-front-matter.md", "01-cosmogonia.md", "02-gods.md", "03-magic.md",
-    "04-ages.md", "05-lay-of-the-land.md", "06-letia.md", "07-young-kingdoms.md",
-    "08-helgedad.md", "09-qi-long.md", "10-cartosa.md", "11-gaerwath-elves.md",
-    "12-sadhir-deserts.md", "12b-ophiur.md", "13-peoples.md", "14-beasts.md",
-    "15-behind-the-veil.md", "16-appendices.md",
+    "04-ages.md", "05-lay-of-the-land.md", "06-letia.md", "06b-censored-leaf.md",
+    "07-young-kingdoms.md", "08-helgedad.md", "09-qi-long.md", "09b-xebech.md",
+    "10-cartosa.md", "10b-sounding-report.md", "10c-silver-isles.md",
+    "11-gaerwath-elves.md", "12-sadhir-deserts.md", "12b-ophiur.md",
+    "12c-dreamlands.md", "12d-belligerent-kingdoms.md", "13-peoples.md",
+    "14-beasts.md", "14b-figures-of-renown.md", "15-behind-the-veil.md",
+    "15b-workbook.md", "15c-coda.md", "16-appendices.md",
 ]
 
 # short narrator lines for the table of contents, keyed by file
 NARRATOR = {
     "01-cosmogonia.md": "Xochiyayotl of Xebech, Star-Priest of the eldest people",
     "02-gods.md": "Fra' Teodabir, torch-priest of Hokhmah",
-    "03-magic.md": "Sir Drusilde, Arcimaga of the Settimo Circolo",
+    "03-magic.md": "Sir Drusilde, Archmage of the Seventh Circle",
     "04-ages.md": "the Annalist of Solanthya",
     "05-lay-of-the-land.md": "the sea-diary of Ramiro Estioca of Cartosa",
     "06-letia.md": "the Annalist of Solanthya",
-    "07-young-kingdoms.md": "Lo Strillone di Armora, a broadsheet",
+    "06b-censored-leaf.md": "the Clericate's rolls, strikes showing",
+    "07-young-kingdoms.md": "The Armora Crier, a broadsheet",
     "08-helgedad.md": "Hrafnkel Ognirsson, skald of the Nortmaar",
     "09-qi-long.md": "the Pilgrim of the Thundering Gate",
+    "09b-xebech.md": "Xochiyayotl, returning — a letter to a dead pupil",
     "10-cartosa.md": "Ramiro Estioca, with a factor's ledgers",
+    "10b-sounding-report.md": "the Sohleugir, rendered by Sirvaneth of Elendor",
+    "10c-silver-isles.md": "the Curator, in body-text at last",
     "11-gaerwath-elves.md": "Aelryn Vhaeloth i-Celeblyar, Dark-Elf Loremaster",
     "12-sadhir-deserts.md": "Adhima the Rakhama'i & Yusuf al-Marrah",
     "12b-ophiur.md": "Nyema of Ga'Namesh, Keeper of the Thousand Songs",
+    "12c-dreamlands.md": "Hesper Vaneck of Armora, dream-pilot",
+    "12d-belligerent-kingdoms.md": "Marghuz, through two disagreeing interpreters",
     "13-peoples.md": "Pips Quondam, a Tal-Tanoth traveller",
     "14-beasts.md": "Weck of the Long Road, huntsman of Therìos",
+    "14b-figures-of-renown.md": "Frater Remigius Falx, Canon-Historian of the Holy Office",
     "15-behind-the-veil.md": "the Veiled Hand — GAME MASTER ONLY",
+    "15b-workbook.md": "the Veiled Hand's Workbook — GAME MASTER ONLY",
+    "15c-coda.md": "a note left unanswered",
     "16-appendices.md": "the Curator",
 }
 

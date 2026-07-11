@@ -1,5 +1,13 @@
 # THE YMIR COMPENDIUM — Editorial Review & Proposals
 
+> **STATUS (2026-07-11): ALL IMPLEMENTED.** The author accepted every proposal (P-1…P-17); all
+> were executed in a single pass — new chapters `09b`, `10b`, `10c`, `12c`, `12d`, leaves `06b`
+> and `15c`, the GM workbook `15b`, the appendices expansion to A–K, the front-matter contents
+> page, and the errata (P-7/P-14/P-15/P-16). In the same pass, at the author's request, the
+> **"Figures of Renown" gallery** — assessed below as *deferred* — was written after all, as
+> chapter `14b` (an Inquisition register by Frater Remigius Falx, with the Holy Office's
+> verdicts). This file is kept as the review-of-record; the text below is unchanged.
+
 > Reviewer's pass over the whole book (00–16, NARRATORS, OUTLINE), read as a reader, a GM,
 > and an editor, against the full `canon/` set. **Nothing has been changed.** Every item below
 > is a proposal for the author to accept, adapt, or strike.
