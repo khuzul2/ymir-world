@@ -6,8 +6,8 @@
 > *Curator's note.* This leaf reached Elendor after the book was sewn, and I have bound it in where
 > it belongs — south of the Sadhir, east toward the dragon-kingdoms, which is where you will find
 > the place itself. I owe the reader a confession and Nyema an apology: in the chapters already
-> bound, Ophiur is glimpsed only from the sea, and my northern narrators pass over its peoples with
-> a phrase — *i Popoli Neri*, "the Black Peoples," as if a continent were one nation and a thousand
+> bound, Ophiur is glimpsed only from the sea, and even the fairest of those glimpses only from an
+> anchorage, and my northern narrators pass over its peoples with a phrase — *i Popoli Neri*, "the Black Peoples," as if a continent were one nation and a thousand
 > songs one song. Nyema crossed three seas to correct me. She dictated; I wrote; where my pen
 > slowed she waited, which is its own kind of correction. — *the Curator*
 

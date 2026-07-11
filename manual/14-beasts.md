@@ -121,6 +121,10 @@ you would move a fire: from far off, toward nothing you love.
 > distances from the wound. The huntsman's "Maelstrom-touched" and his "strange kinds" are the
 > same chapter, and he half knows it.*
 
+**The Tangle.** The forest with the **Heart of Chaos** grown at its middle — nineteen centuries of
+it now, say the learned — and here is the whole of my entry: I do not enter the Tangle, and I have
+no bounty high enough to change that.
+
 ### MADE THINGS
 
 A thing with no smell has no honesty. I distrust every entry below.
@@ -259,7 +263,9 @@ hunting-craft of sign, season, and price are [INVENTED] colour). Creatures and r
 `canon/bestiary.md` (all fauna and constructs; the Sovereign Demons and their post-Tide status;
 the twenty True Dragons, Gwalgamaur, Nihoggr, the Dragon-Gods, Ouroboros/Alfheim) and
 `canon/cosmology.md` (the Mark and the Hybrids; Spirits, Elementals to the Elemental Lords, Djinn,
-Angels, the six Circles); margins from `canon/secret-the-great-lie.md` (Adept-engineered
+Angels, the six Circles); the **Tangle** and the **Heart of Chaos** at its centre (1600 d.M.) from
+`canon/geography.md` + `canon/history.md` — the huntsman's refusal to enter is [INVENTED] colour;
+margins from `canon/secret-the-great-lie.md` (Adept-engineered
 dragon-custodians; the demon prison; the Maelstrom as the Chaos-bleed). Dragon roster per
 `sources/extracted/wiki/creatures-dragons.md`. Decisions applied: MAG-2 (one demon hierarchy —
 Sovereigns Beyond the Circles over the six Circles), MAG-12/MAG-13 (Ouroboros above the

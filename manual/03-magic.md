@@ -198,6 +198,10 @@ governance takes two great forms:
   at greater breadth and duration; **D** — near-total licence — which only a prince of the Young
   Kingdoms may grant, and which I have countersigned exactly three times.
 
+Outside both models there hunts a blunter remedy: **the Brotherhood**, the mage-hunters Tholaer
+the Valiant raised under the sign of the Falcon, who register nothing, license nothing, and bill
+no one — I name them so that no recruit of mine mistakes their trade for ours.
+
 And beneath both stands my own house: the **Section for Magical Control**, Armora's anti-magic
 corps, which takes ordinary soldiers — not one caster among them, by design — and trains them to
 recognise, disrupt, and survive each realm in turn. The S.C.M. is the reason the *Red Book*
@@ -287,8 +291,9 @@ letters to the Academy — and *Red Book* quotations are **[INVENTED]** colour).
 d.M. per the *Red Book* (`canon/magic.md`, HIS-1); Curator's notes update to the ~3518 present.
 Drawn from `canon/magic.md` (Essence/mana/Arvo; realms; corruption/CEO; regulation, S.C.M.,
 permits, the Blue Mantles; materials; the Relics, blades), `canon/cosmology.md` (Maelstrom effects,
-planes), with `canon/factions.md`, `canon/peoples.md`, and the Maraviglie digest (magitech,
-Black Powder, Alchemical Coal); margins from `canon/secret-the-great-lie.md` (Ech = the Essence;
+planes), with `canon/factions.md` (incl. **the Brotherhood** of Tholaer the Valiant, symbol the
+Falcon — undated in canon; its standing by 3027 is **[INVENTED]** inference), `canon/peoples.md`,
+and the Maraviglie digest (magitech, Black Powder, Alchemical Coal); margins from `canon/secret-the-great-lie.md` (Ech = the Essence;
 the Adepts' machine-worked Essence and theft-ritual; Corrupted Essence as spoilage; the Runes as
 anti-demon weapons, the bell as their seal). Decisions applied: **MAG-3 = B** (three base realms +
 the Arcane as union), **MAG-4** (six Elements + Storm/Nether/Spectral/Umbra derivations), **MAG-6**

@@ -107,6 +107,8 @@ Five centuries past (3025, say the plaques), the Young Kingdoms fell out among t
 
 **"MERE SUPERSTITION," SAYS PALACE.** — And while we are remembering: to the perennial whisper that the ancients buried a **Magic Rune** — a "rune of power," no less — beneath this very city, and another under lost Waldenheim, and that this is what the dragon truly came for, the Office of the Grand Duchess replies, as it has replied for five hundred years: *mere superstition, unworthy of a modern people.* The Crier concurs, and reminds treasure-diggers that the sewers are patrolled.
 
+**THE WHISPER OF THE FIVE.** — As for the old story that a **Conspiracy of the Five** stood behind the brothers' quarrel — five names, never printed, never proved — the Crier observes only that its founders, who printed everything, did not print these.
+
 > *Curator's note.* Set beside the annals, the Remembrance page is a marvel of subtraction: three
 > armies became "a quarrel among brothers," and the war that opened the Age of the Tide became an
 > anniversary. The wars of those years — Meridian's, Helgedad's, and this one — fell like dominoes,
@@ -147,7 +149,8 @@ Drawn from `canon/geography.md` (the Young Kingdoms and the roster of realms per
 Armora's seven districts), `canon/factions.md` (the Grand Duchy, the Armorite Church, the College of
 the Seventh Circle, S.C.M., the Guild of Artificers), `canon/magic.md` (permits A–D, the Essence-meter,
 the Oneiroscope, Leyden-jar Automata, vehicles, the *Red Book*), `canon/history.md` (the War of the
-Princes 2200–2230; the War of the Machines 3025–; VonGryffen succession; the ~3518 New Equilibrium present),
+Princes 2200–2230; the War of the Machines 3025– and the **Conspiracy of the Five** behind its
+opening; VonGryffen succession; the ~3518 New Equilibrium present),
 `canon/economy.md` (industrial marks / guild scrip), with colour from
 `sources/extracted/batch2-digests/mechanics.md` (YonkerMecha, the Mechanical Slayer) and
 `…/campaigns-b.md` (the Armora war, the Technocrat, the Resurrection Engine, the Frozen Gorge,
@@ -161,4 +164,4 @@ Kingdoms as Ymir's magitech register). **[INVENTED] flags:** the present Grand D
 VonGryffen II "the Magnificent"** (name and epithet invented to fill the HIS-2 present-day gap);
 Galenia's and Tydriell's one-line flavours (realm names canon, descriptions invented); the
 Crier's masthead, mottos, advertisements (VonHaller & Sons; Dextrius & Quill), letter-writers,
-the eight-legged cargo-walker, the annual Palace denial as a civic ritual, and the "eighty-five million souls" census figure (invented order-of-magnitude).
+the eight-legged cargo-walker, the annual Palace denial as a civic ritual, the "eighty-five million souls" census figure (invented order-of-magnitude), and the Crier's whisper-column treatment of the Conspiracy of the Five (the conspiracy is canon; the "never printed, never proved" framing is invented).
