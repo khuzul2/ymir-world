@@ -27,6 +27,8 @@ Peoples* and think they have said something. It is as if I called all the north 
 and claimed thereby to know a Letian friar from a Helgedad skald. I have met both. The difference
 is considerable.
 
+> ✒ **Nyema of Ga'Namesh** · *at Elendor, 3519* — I have read the leaf back in the Curator's own hand, and he wrote "the Black Peoples" once more where I had told him not to — though he wrote it only to unwrite it, so I let it stand. One thing I withheld in the telling and now give freely: in Ga'Namesh a song is never sung the same way twice, and a book that fixes one telling has caught a single bird and called it the flock. Read me aloud, and read me differently, and you will read me right.
+
 **Hear the coast first, for the coast is mine.** We are the **Ivory Coalition** —
 free cities allied and independent, sisters who share a table and keep separate
 houses: **Zabhula** of the hundred quays, **Akhon** of the deep bells, and my own **Ga'Namesh**,
@@ -36,6 +38,8 @@ minerals of the Dark Mountains, **orihalcum** that drinks magic silent, **shald*
 lotus in all its colours. The caravans come up from the Sadhir salt and down from the
 dragon-kingdoms' passes, and the ships come from everywhere ships are made. We sell to all of
 them. We are rich the way our sun is strong — natively, and without apology.
+
+> ✒ **a quay-hand of Zabhula** · *3520* — The Keeper sings the hundred quays; I have loaded eighty of them. Tell your captains this and they will thank me by the third port: pay the porters' guild the extra token and your cargo walks ashore, skip it and your cargo learns to swim. And whatever the shald-brokers promise, weigh it yourself in daylight — the Coalition is honest, but daylight is cheaper than a lawsuit.
 
 **Hear the savanna, which is not ours and never will be.** The gold grass belongs to the **Great
 Kingdom of Tarkur**, the kingdom of the **Ur-Tanoth**, and it is a kingdom without one city, without

@@ -67,6 +67,8 @@ The Guild's new cargo-walker took its first stroll down the Promenade this month
 
 As for the persistent rumour of steel walkers of quite another temper — the many-legged **"Mechanical Slayers"** your uncle swears he saw in the war — the Crier reminds its readers that the Guild has *never* licensed such a pattern, and that unlicensed things do not, officially, exist.
 
+> ✒ **L.** · *3519, reckoned from the second burning* — "Unlicensed things do not, officially, exist." My sympathies to the clerks: I have been unlicensed and officially non-existent above two centuries, and it has never once interrupted my existing. The Office keeps my file open, and I return the courtesy — we are the two institutions in this city that grasp that "destroyed" is a process, not an event.
+
 *— ADVERTISEMENT — **VONHALLER & SONS, ORNITHOPTER DEALERS**, Industrial District, third gasometer on the left. Rise above the fog and your neighbours! New and reconditioned wings, easy terms, tram-tokens taken in part exchange. No permit required below steeple height. Ask about our widows' discount.*
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
@@ -81,6 +83,8 @@ As for the persistent rumour of steel walkers of quite another temper — the ma
 
 The **Oneiroscope** — the College's celebrated dream-engine — remains the marvel of the age and the ruin of the careless. Licensed dream-parlours in the New City will show you the Dream World for a fistful of marks: gardens no gardener planted, cities of brass, skies you will not describe at breakfast. The Palace asks us to remind readers: *patronise licensed parlours only*, observe the posted waking-times, and report any establishment promising "the deeper shores." Eleven tourists last season did not observe the waking-times. The Crier wishes their families every comfort.
 
+> ✒ **a widow of the New City** · *3525* — My Tomas paid for the gardens and did not come back to the waking-bell, and the Palace's word for it was "regrettable." Reader, spend the extra on the parlours nearest the College, where the wardens count heads at the door and again at the waking. It is not superstition; it is the one thing that would have brought him home.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The Oneiroscope is not a projector; it is a door. What the parlours sell as scenery is **the
 > Dreamlands**, the plane where the souls of all dreamers walk — and it is not empty and it is not
@@ -94,6 +98,8 @@ The **Oneiroscope** — the College's celebrated dream-engine — remains the ma
 
 Other lands fear their wizards or worship them. Armora *files* them. Behold the four Permits, the alphabet of civilisation: **Permit A**, honest practice without guild dues; **Permit B**, temporary leave for the restricted arts — or for walking your summoned entity through the city gates like a respectable pet; **Permit C**, the same, for longer and broader; **Permit D**, the near-total licence, granted only by a reigning prince and about as common as a modest wizard. Over it all watch the **College of the Seventh Circle**, whose archmages wrote the book — literally: the famous *Red Book* — and the **Section for Magical Control**, plain soldiers trained to look a sorcerer in the eye and ask for his paperwork. Order, dear reader, is the true magic; the rest is merely lightning.
 
+> ✒ **a clerk of the Permit Office, second window** · *3523* — Twenty years at the second window, and I have refused more Permit B's than this paper has printed corrections. What they never tell you upstairs: a summoned creature walked through the gate on a lapsed permit is the clerk's neck, not the wizard's — so I check the dates, and I have kept my neck.
+
 *— ADVERTISEMENT — **DEXTRIUS & QUILL, ADVOCATES BEFORE THE PERMIT BOARD.** Permit B refused? Familiar impounded at the gate? Essence-meter evidence "ringing" against you? We have argued before the S.C.M. for four generations. Discretion, dispatch, dignity. First consultation free; exorcisms extra. Offices: Merchant District, above the Casino (fittingly).*
 
 > *Curator's note.* The permit alphabet is real, and the pride is earned; but the reader of the
@@ -106,6 +112,8 @@ Other lands fear their wizards or worship them. Armora *files* them. Behold the 
 Five centuries past (3025, say the plaques), the Young Kingdoms fell out among themselves — Armora, the Wald, and Zaalesha on the one part; Vallanya, Caeldir, and Tydriell on the other — and while the brothers quarrelled, a third party ancient and golden invited itself to the estate. The histories call it the **War of the Machines**. The Crier's founders called it circulation. We prefer to remember the heroism: the YonkerMecha line unbroken before the gates; the airship pickets over the Frozen Gorge; the Silver Arrows, who did not come back from the Rhems Wood. The dragon is gone. The city is not. Print that on the monument.
 
 **"MERE SUPERSTITION," SAYS PALACE.** — And while we are remembering: to the perennial whisper that the ancients buried a **Magic Rune** — a "rune of power," no less — beneath this very city, and another under lost Waldenheim, and that this is what the dragon truly came for, the Office of the Grand Duchess replies, as it has replied for five hundred years: *mere superstition, unworthy of a modern people.* The Crier concurs, and reminds treasure-diggers that the sewers are patrolled.
+
+> ✒ **The Armora Crier** *(pasted clipping)* · *3529* — STOP PRESS: the "peaceful runes" the Palace denies for the ninth year running have, this morning, denied the Palace a whole district. See our evening edition. Widows' discount as always.
 
 **THE WHISPER OF THE FIVE.** — As for the old story that a **Conspiracy of the Five** stood behind the brothers' quarrel — five names, never printed, never proved — the Crier observes only that its founders, who printed everything, did not print these.
 
@@ -165,3 +173,4 @@ VonGryffen II "the Magnificent"** (name and epithet invented to fill the HIS-2 p
 Galenia's and Tydriell's one-line flavours (realm names canon, descriptions invented); the
 Crier's masthead, mottos, advertisements (VonHaller & Sons; Dextrius & Quill), letter-writers,
 the eight-legged cargo-walker, the annual Palace denial as a civic ritual, the "eighty-five million souls" census figure (invented order-of-magnitude), and the Crier's whisper-column treatment of the Conspiracy of the Five (the conspiracy is canon; the "never printed, never proved" framing is invented).
+Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

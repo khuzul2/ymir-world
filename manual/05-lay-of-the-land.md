@@ -50,6 +50,8 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 
 **Fifth of Chimera. South down the western rim; heat returning; sand on the wind a day before the land.** Made **Sathe**, the caravan port under the **Great Erg** — the last honest water before the sand takes over. Here the camel-masters load for **Ulan-Tang** on the river Tang and for **Khorish**, and here is my rule for every young master: carry any cargo *to* Sathe, and none past it. Ulan-Tang is a spider-god's town now, five coloured houses and the **Black Lotus** trade; Khorish is worse — the **Kingdom of the Eternal Pharaohs**, where the pharaoh has been dead longer than my family has had a name, and dead men do the hauling, and the wages ashore are not paid in anything you would want. The Erg's dunes come down to the tide-line gold as a cheat's smile. Watered, traded, gone.
 
+> ✒ **Beltran, bosun of *La Gaviota*** · *3521* — Sound advice, but here is the rest of it: water at Sathe from the north mole, never the town well, which turns brackish by Magpie. Anchor a cable east of the caravan quay in four fathoms, good holding and out of the camel-stink, and ask the port-master for "the Blue Mantle's berth" — two coppers and a civil word, and he keeps it for you in the worst of the sand-wind.
+
 > *Curator's note.* Sailors lump the southern sands together. They are distinct countries: the
 > central **Great Erg**, with Ulan-Tang and Khorish at its edges, and farther south the **Sadhir**
 > salt-waste — younger, and stranger. Ramiro, to his credit, prices them separately. — *the Curator*
@@ -89,6 +91,8 @@ morning country. — the Curator)*
 
 **Ninth of Spider, at dawn. Xebech; and I will be called a liar.** Jungle coast, heat like a laundry, rivers the colour of tea, and the **Xebechani** trading cold and correct — no haggling, no small talk, which after the east I found restful. And at first light I saw **Xuthal**: their city, **standing in the air** above the green, dawn catching its undersides, a city with a shadow that falls on cloud. I set it against the foreyard to measure it and gave up. The oldest people in the world, and their machines are older than they are; and no man aboard — not the wizard, not I — said one word for the better part of an hour. That dawn is the thing I shall be lying about least when I tell it.
 
+> ✒ **a caulker's mate of Portejo** · *3526* — I have read this one dawn aloud to my children four winters running, and my wife says I go quiet at the same place every time. A city with a shadow that falls on cloud. I will never see it, and I am glad past saying that it is there.
+
 *(A sketch here: a skyline hanging above hatched jungle, a gull drawn beside it for scale, and the gull scratched out. — the Curator)*
 
 **First of Chimera. The dead coast; standing well off.** North about Xebech runs the shore they lost: **Loquitchatzotech**, the Isle of Death, yielded after seventy-five years of war against the dead. Hear the one mark that matters, landsman: **no birds.** Every coast in the world has birds. Grey beach, standing jungle with nothing moving in it, and a temple-tower above the trees, its doorway open these thousand years. The men asked about water. I said no. **I will not anchor there** — not for water, not for shelter, not with the Maw's own written leave. We ran two days on short rations instead, the cheapest thing bought this voyage.
@@ -104,6 +108,9 @@ morning country. — the Curator)*
 > five hundred years it has not grown — patience, in such a neighbour, being the worst news of all.*
 
 **First of Griffon, 3517. Cartosa roads on the morning tide; two years less eight days out; all hands, less none.** And a puzzle for the academies, free of charge: my log, faithfully kept, stands **one day short** of the harbour-master's calendar. We lost no day. We sailed with the sun around a round world, and the world kept the difference. Twelve thousand leagues of wake by the log-line, and the *Bendata* asks only paint. I have seen the whole ring now, and the best water on Ymir is the water off my own island. Every sailor says so of his own. Every sailor is right.
+
+> ✒ **a curious reader of La Roca** · *3529* — The lost day kept me from sleep until the schoolmaster drew a ball and walked a bead round it against the sun. Then I had it: sail east with the sun and you cheat him of one turning, and the world collects the debt at the quay. A round world keeps honest accounts, which is more than the harbour-master does.
+> ✒ **an old shipmate, of Santa Hermana** · *3524* — He writes that the best water on Ymir is off his own island, and it was the home water that took him in the end, not the whole ring — his last page breaks off unfinished, as you will find. I stood two voyages under Ramiro. Fair tides, master; the *Bendata* asks only paint, and there is no one left now to give her any.
 
 > *Curator's note.* Set against the 3518 map's scale-bar, his reckonings err nowhere by more than a
 > day's sail, and the "lost day" closed the cartographers' case for the globe. The diary's other
@@ -122,3 +129,4 @@ seal's scar; the Dreamlands veil; the demon-continent and the three Sovereigns).
 **META-2** (region-specific currencies). [INVENTED]: the brigantine *La Bendata*, her crew,
 itinerary, dates, distances, sketches; **Sathe** as the Erg's caravan port (canon map-label,
 gap-fill role); the by-name *the Maw* (the sailors' *il Gorgo*); all weather.
+Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

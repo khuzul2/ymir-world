@@ -85,6 +85,8 @@ it.
 > in *all three* factions; there is no bodily difference between a Light Elf and a Dark one.
 > The Sundering runs through the elven soul, not the elven blood. — *the Curator*
 
+> ✒ **Morannagul** · *the nine-hundred-and-eleventh year of my reign* — The Curator gives "both sides" as though time had two. There is my account, and there is the account of those who did not last to give one. I have read every anathema written against me by men now four centuries in the ground. I keep them. They are the only letters that still arrive.
+
 **Of the Gaerwath itself, our exile and our empire.** The name in our tongue means the **Sea
 of Sorcery**, and it earns it: islands wrapped in seas that lie to compasses and eat the
 unguided keel, so that no fleet crosses our water save at our pleasure. There my people
@@ -116,6 +118,8 @@ do not lie about the results.
 > galleys were never even offered the exam. This is the only note in this book I permit
 > myself in anger. — *the Curator*
 
+> ✒ **Aelryn Vhaeloth i-Celeblyar** · *the nine hundred and seventy-first year of the reign of Morannagul* — You swore not one syllable of mine would be altered, and you have kept it, and then hung your grief in every white space like laundry set out to shame the house that fed you. A margin is not a rebuttal; it is the confession that the text left you none. Permit your anger, Curator; do not mistake it for a correction.
+
 **Our sorcery is our commonwealth.** Five great factions divide the arts among the Elar — the
 **Mechanists**, the **Demonologists**, the **Biomancers**, the **Dreamers**, the **Necromancers** —
 five schools, five parties, five knives in one sheath, and above them the twin altars of
@@ -127,6 +131,9 @@ Forces as Cartosa settles in silver. Beneath that runs the deeper currency: **Ar
 pulverised Essence itself, raked from the raw places of the sea by demon-gangs and by Nemyel
 who have no vote in the matter. When the Tide came and the Magical Resonance thinned the
 veins, we did not weep; we bound harder. Scarcity, Curator, is a tax upon the unprepared.
+
+> ✒ **a Nemyel child of the Arvo-diggings** · *(no date — down in the diggings there is no day to number)* — I did not pass the trial, so I have a number now, and the number rakes the Arvo. When the raw veins thinned it was we they sent deeper, not the Names who "bound harder." I write this very small, in the place they do not look.
+>> ✒ **the last Curator** · *(no year)* — Of all the hands I gathered, this is the one I sat longest over before letting it stand: a child's, in a slave's cramped script, the kind the Loremaster's people scrape out as they scrape out the failed. I have scraped nothing. Someone thought this leaf worth the keeping; I only keep the someone.
 
 **And over all of it, Morannagul.** In the year 2550 of your reckoning a young lord of the
 Shining Name did what eighteen centuries of feuding princes could not, and folded every
@@ -218,3 +225,4 @@ Light/Illuminati/Dark orthogonal to sub-races High/Sylvan/Grey = the Sea elves);
 (unification 2550 within Morannagul's undying reign). **[INVENTED, margin speculation
 consistent with canon]:** the Hyrul-fed mechanism of Morannagul's eternity; Ouroboros's
 beacon-silencing motive; the hunt-or-homecoming reading of Shulma.
+Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

@@ -42,6 +42,8 @@ shows forty-one windows to the quay. I know because I counted them as a boy, fro
 waiting out my father's shift at the boom-chain. I notice I have just counted them again, and not
 one crack. I begin again.
 
+> ✒ **the last Curator** · *(no year; I have given up the habit)* — Three fair copies say forty-one windows on Lantern Row; the Solanthya copy says forty-two, in a corrector's red, "amended for symmetry." I have let it stand at forty-one, which is the number the boy counted from the water, and struck nothing through. A man may miscount his own street; he does not permit another to round it up.
+
 **Of the Tylweth Teg.** The registers abroad call the Isles the kingdom of the **Little Folk**;
 the Little Folk call the Isles home and keep the kingdom in a cupboard for treaties. (There is a
 crown. It is small. It travels in a hatbox. I have carried the hatbox.) They are **two peoples**,
@@ -169,6 +171,8 @@ exact and unthanked. What follows is the bursar's hand, not mine.
 I have queried the last line for sixteen years. Master Fennick regards the query as settled by the
 entry.
 
+> ✒ **a clerk of Master Fennick's counting-house** · *3521* — The Magister has queried the last line of these accounts for sixteen years; Master Fennick regards it as settled by the entry, and I am directed to inform any reader who queries it further that the further query is now itself entered under ink. We do not lose money, and we do not lose arguments. Good day.
+
 **Last, the house.** My mother's house stands third from the corner where Lantern Row turns up the
 hill — a Tall Folk house of the harbour rows, four rooms, boom-chain wages. It has eleven windows.
 I knew that before I knew my letters; I counted them from the quay, evenings, and the counting was
@@ -225,3 +229,4 @@ dwarf-embassy of 3419, the harbour-wardens' pearl-rule; the first margin's readi
 hatred as a made sensitivity to Corrupted Essence (extending the Seelie seeding); the second
 margin's fence-around-the-prison reading; and the third margin entire — the floor beneath the
 Seat, the grown crystal, the missing dig-notes — **an open GM hook, deliberately unresolved**.
+Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

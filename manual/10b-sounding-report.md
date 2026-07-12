@@ -49,6 +49,8 @@ shelf of the land that rose. The kingdom set that station in the cycle of the ri
 absent within 40 leagues of that shore. Things that have come down that shore into the water: 10.
 Stopped: 9. Not stopped: 1. That entry stands open.
 
+> ✒ **a diver of the shallow marks** *(rendered by Sirvaneth)* · *3519, of your count* — My brother is one of the hundred and eighteen at the Oyster station; to you he is a figure in the third sounding, to me he is the one who taught me to hold my breath. The report keeps numbers and not names, which is the kingdom's mercy and its coldness at once. I keep his name; it weighs nothing, and I carry it down with me anyway.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Read the third sounding rightly and you have the Sohleugir entire: the walls that were never
 > breached belong to a people who have never besieged anything. Their art is not the keeping-out
@@ -83,6 +85,8 @@ and one quarter. In 3499: 12 days and one half. In this cycle: 13 days. Beats mi
 4. The newest missed beat stands 41 days before this delivery. Entry: **the rhythm of the
 Maelstrom is faltering.** The kingdom does not interpret. The kingdom has counted. The report is
 ended.
+
+> ✒ **a sub-clerk of the Council registry** · *3520* — I copied this into the trade-ledger as ordered, under "S — soundings, filed," and my hand shook the whole entry through. The deep people count the heartbeat of the world and tell us to our faces that it slows, and the table thanked them and reached for the sand-caster. If this is a trade-document I am in the wrong office; I keep my own tally now, at home, where no one files it.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The sound that stood in the deep until 3025 was the isolation bell — the Adepts' quarantine
@@ -121,3 +125,4 @@ leaf's escaped tribute-taker, itself flagged there), the death-tallies and the t
 service, the doubled steel, the rope and the weight as units; the sound and the beat-count, which
 dramatise canon's one sentence — *the Sohleugir report the Maelstrom's rhythm faltering* — as a
 measurement, and extend the margins' isolation-bell canon by letting one people have heard it.
+Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

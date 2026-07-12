@@ -12,6 +12,8 @@
 > the ground floor; so I have set his rebuttals into the text where he wrote them, indented, like
 > the under-kingdom itself. Read them both. Both are right. — *the Curator*
 
+> ✒ **Yusuf al-Marrah, of Tuleph** · *fourth of Wyvern, 3521* — The Curator kept my objections; I am told this is unheard-of, and I am not grateful, I am vindicated. Yet he has still set the Rakhama'i's name above mine on the door, as every mapmaker lays the sand over the city. Read the small hand. The small hand kept the ledgers.
+
 ---
 
 Sit in the shade of my word, traveller, and I will turn the Wheel backward for you.
@@ -99,6 +101,8 @@ smugglers and relic-hunters, a lore-keeper officially knows nothing. Our trade r
 tokens** and the **coral-standard** of the Zalim'un; the caravans carry our **mana-salt crystals**,
 elemental corals, Yarhim-shell armour, and incense of the Cycle to every coast of Ymir.
 
+> ✒ **Ghisha bint-Oqba, caravan-master** · *first of Spider, 3517* — Useful, since the lore-keeper offers none: from Tuleph to Moluth-Har hold the star-road by the old coral cairns, and do not take the short cut past the sinkglass whatever your guide swears on his mother. Water at the Zalim'un cisterns runs three salt-tokens the skin in a wet year and nine in a dry one; carry your own and pay only for the last day. When a camel rings the crust wrong underfoot it has already told you it is dying — listen to the camel before the guide.
+
 > **[Yusuf al-Marrah objects.]** *"Neutral hub." Tuleph is neutral the way a well is neutral:
 > everyone needs it, so no one is permitted to own it. Her coral-standard is sound money — I give
 > credit where owed — but under half the counting-tables of Tuleph you will still find the old
@@ -167,6 +171,8 @@ colder than horror: they have not escaped the turning, they have only stopped th
 the rim, and a stopped wheel is not a saved one — it is a broken one. Everything they fear is still
 coming; merely slowly enough for them to watch.
 
+> ✒ **Nefthi, by grace undying** · *the eight-hundredth year of Our first reign* — The scribe writes "necromancy" as a southern man writes "weather" — a thing that happens to other people. Come to Khorish and see whose hands built the road you complain of. Then complain to them. They are still working.
+
 > **[Yusuf al-Marrah objects.]** *Cold comfort from a cold-blooded scholar. I have seen the corvée.
 > I have watched a dead woman carry water-jars along the terrace of a tomb that will never be
 > occupied — and I recognised the gait of a porter I had hired living, twenty years before, and
@@ -201,6 +207,8 @@ of something you loved.*
 > grandfather's counting-house, which stands on my ancestors' harbour wall, which stands where the
 > sea was, which will hear about all of this when it returns.*
 
+> ✒ **Yusuf al-Marrah, of Tuleph** · *sixth of Chimera, 3522* — I have the bound book at last, and read my own last entry set in the Curator's fair type, and would change one word: not "when" the sea returns but "if" — and I strike even that, for hope is the one cargo I will not insure against. My son keeps the harbour-book at Tuleph now. The wall still stands where the sea was.
+
 ---
 *Colophon.* Chapter XII. Narrators: **Adhima the Rakhama'i** of Zarash-Sur (invented framing
 voice; `NARRATORS.md`) and **Yusuf al-Marrah** of Tuleph (**[INVENTED]** — a rebuttal voice
@@ -215,3 +223,4 @@ legends; Ulan-Tang; Mubafer). Margins per `canon/secret-the-great-lie.md` and th
 **[INVENTED]** flags: the **Deep Pearl** and its link to the Calling Depth (extrapolated from the
 gazetteer's "Spawn of the Deep Pearl" and "Calling Depth psychic lure"); the **Netunshiel
 tenancy** behind the Eternal Pharaohs; Harrun al-Marrah and the al-Marrah house. Present ≈ 3518 d.M.
+Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

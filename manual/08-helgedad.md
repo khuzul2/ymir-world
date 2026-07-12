@@ -73,6 +73,8 @@ dwarves' oldest friends among us, which tells you their quality, and they keep t
 Houses** open to any hurt thing that crawls in. Mock the leech-halls,
 southlander; you will crawl to one someday.
 
+> ✒ **Sigrún, midwife of the Healing Houses at Grudgeburg** · *3527* — The leech-halls the skald mocks pulled two of my mothers back from the white fever and took no coin, only the promise we keep the deep road open for the next sled. Carry a labouring woman north in winter and make for the Tannermar houses and no other — they alone keep the birthing-stove lit through the black months. I have caught four hundred children under that roof; the skald has caught a cold.
+
 **Nortmaar** is mine, and it is no house's. Free land, hill land, land of the **Vorskgen** clans
 — the old blood, first-made men, ancient when the Empire was an ambitious village. We were a
 quarrelling of clans until some fifty winters before the Wolves came, when the **Ulding** — the
@@ -99,6 +101,10 @@ rather be gathered by a mother than judged by a queen of skulls. Our keels are t
 **drakkar**, the wave-wolf, for war; the deep-bellied **knarr**, for trade; the great oar-heavy
 **dromen**, for whatever needs a hundred backs. We have gone farther in them than your charts
 admit.
+
+> ✒ **the Censor of Solanthya** · *3523* — ~~Thal'Khal is Kur, the Dark Lady of death and oracles~~ *Thal'Khal is a mercy of the Waters, and the Church owns no such Dark Lady.* A drowning sailor may name his comfort what he likes; a copyist may not write the queen of skulls into a catechism. The under-censor who let this pass has been spoken to.
+
+> ✒ **an oar-man of the dromen, out of Harbor** · *3531* — "A hundred backs," he sings, and never once counts the hundred. I have pulled the great oar to coasts his charts do call impossible, and I buried my bench-brother over the rail on the way home, and the song keeps no verse for him. We do the far-going; the skald gets the ale.
 
 **Now the dwarves**, and here I will be fair, for they have earned it and few else have. Under
 the **Aestyr Mountains** shine the **Golden Halls**; under the Mountains of Mist
@@ -212,6 +218,8 @@ always their genius, not ours. We are harder than we were, emptier than we were,
 than we have ever been — and if you ask how pride feeds a people, you have never wintered north
 of the Wall.
 
+> ✒ **[transcribed for Hrafnkel Ognirsson, who still refuses the pen — set down by a clerk of Nortcastle]** · *3525* — He bids me write that he will not have "dwindling" stand for the last word, and that a southerner who counts hearths has mistaken a people for a granary. He then sang nine more verses I was too slow to catch, and threw the cup, and said the cup was for the margin as well. I have left the cup out of the record; I have not left it out of the floor.
+
 > Emptier now are the ale-benches,
 > prouder for that the few that fill them.
 > The Wall still stands. The Tower still shines.
@@ -240,3 +248,4 @@ generals' number as fixed lore; the post-Tide sack of the harbours and the ~3518
 emptier, prouder" portrait; and the GM margins entire — the labyrinth-prison, the
 under-passages as its coils, the generals' allegiance, and **Nihoggr** the Ice Dragon (proposed
 as one of the twenty True Dragons) — offered as new GM canon.
+Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.
