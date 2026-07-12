@@ -7,6 +7,7 @@ in the **Veiled Hand's margins**. Narrator register and conventions: `NARRATORS.
 | File | Chapter | Narrator |
 |------|---------|----------|
 | `00-front-matter.md` | Preface of the Curator | the Curator |
+| `00b-the-last-curator.md` | A Word from the Last Curator *(the Postils edition)* | the last Curator |
 | `01-cosmogonia.md` | I · The Cosmogony | Xochiyayotl of Xebech |
 | `02-gods.md` | II · The Gods & the Sacred | Fra' Teodabir, torch-priest of Hokhmah |
 | `03-magic.md` | III · Of the Essence — a Treatise on Magic | Sir Drusilde of the Seventh Circle |

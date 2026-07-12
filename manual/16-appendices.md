@@ -687,8 +687,10 @@ in-world document with an in-world author's bias; the **⟡ margins ⟡ are for 
 only** and carry the campaign's hidden truths. In its present binding the book comprises the
 front matter (with the contents page, "The Order of This Book"), Chapters I–XV with their late
 leaves (IX·B, X·B, X·C, XII·B, XII·C, XII·D, XIV·B, XV·B), two unnumbered leaves (the censored
-facsimile after Chapter VI, and the closing note), and **eleven appendices, A through K** — of
-which Appendix I, like Chapter XV and its Workbook, is GM-only. The narrators are inventions; the
+facsimile after Chapter VI, and the closing note), the last Curator's prefatory leaf and its
+**Postils** (the reader-hands gathered in the margins across the years since the binding), and
+**twelve appendices, A through L** — of which Appendix I, like Chapter XV and its Workbook, is
+GM-only, and Appendix L is the table of the marginal hands. The narrators are inventions; the
 world they describe is drawn from the canon files in `canon/` (which cite the original source
 documents), with connective inventions flagged chapter by chapter — and appendix by appendix — in
 each colophon. The register of narrators lives in `NARRATORS.md`; the full lore-reference and its
@@ -697,9 +699,52 @@ deliberate where the sources themselves disagreed — the decisions that reconci
 in `conflicts.md`.
 
 ---
-*Colophon.* Appendices A–C, E, G, and K by the Curator (framing voice). Drawn from
-`canon/calendar.md`, `canon/history.md`, `canon/economy.md`, `canon/cosmology.md`,
+
+## Appendix L · Of the Hands in the Margins *(a table of the postils)*
+
+The last Curator set this table before the book, that a reader might know a hand when he meets it.
+The notes crawling these margins — the **postils** — were gathered from the many marked copies of the
+Compendium as they came home over the years since the binding. Learn the ink and the sign, and you
+will know who is speaking over your shoulder; but trust each hand only so far as you would trust its
+owner, for a margin is where a book is *argued with*, and the arguing is not always right. A note's
+**date** is its most important word: the ones dated *after* the book was finished are the ones to read
+twice.
+
+**The deathless hands** — one pen, many lifetimes; the ink does not change though the centuries do:
+| Sign | Hand | Who, and how to read them |
+|---|---|---|
+| ✧ | **Xochiyayotl** of Xebech | the palest ink in the book; the eldest reckoner, who taught the Directress and outlived her; cold, exact, and to be believed |
+| ❈ | **Morannagul the Eternal** | black and unfading; dates by his own reign; the deathless emperor of the Gaerwath — truthful, and never for your sake |
+| ◐ | **a hand in yellow** | shows through from the wrong side of the leaf; courteous; offers you employment; do not accept |
+| ✝ | **the struck hand** | begins as a young inquisitor's clean note and darkens, over four centuries, into something that no longer needs a name. Watch the ink age |
+| ▬ | **the Night** | letters that seem cut from the page, never dated; writes as *we*; it is reading this table now |
+| ☥ | **the Eternal Pharaohs** of Khorish | dry gold; bored; very old; measure their patience against your lifespan and lose |
+
+**The keepers** — those who owned or copied or censored the book in their turn:
+| Sign | Hand | Who |
+|---|---|---|
+| ✠ | **the Censor of Solanthya** | red corrections and black strikes; strikes the truth and writes the doctrine over it; the strike is the confession |
+| ⌘ | **the last Curator** | the neutral hand that gathered these copies; speaks rarely, and only to reconcile the dead or to grieve |
+| ✎ | **a cadet of the Seventh Circle** | pencil; crams for examinations, draws rude pictures, and now and then writes down something you can actually use |
+| ▤ | **the Armora Crier** | print and paste-ins; sells you a clipping; discount for widows |
+| § | **Messer Crovos Bravaso** | the pompous supervisor of the Red Book; official, and no help |
+
+**The named who wrote upon their own portraits**, and the vast anonymous rest:
+| Sign | Hand | Who |
+|---|---|---|
+| ‡ | **Yusuf al-Marrah** of Tuleph | small, furious, dated; corrects the desert chapters and threatens to correct more |
+| ⟐ | **Drusilde**, Directress of the Seventh Circle | a fine viridian hand that annotates her own chapter — and, in one place, **stops mid-word**, and does not go on, and no one will say why |
+| ✒ | **the many** | tax-clerks, midwives, oar-men, pilgrims, slave-children, a soldier before a battle, a child who later owned a copy — the commonplace ink, undyed and mostly nameless, in which the greater part of any real book is written |
+
+*The living narrators of the chapters also reach back into their own leaves (Nyema, Aelryn, Marghuz,
+Hesper, the reigning Prince of Cartosa); they write in their own known voices, and need no sign.*
+
+---
+*Colophon.* Appendices A–C, E, G, K, and L by the Curator / the last Curator (framing voices). Drawn
+from `canon/calendar.md`, `canon/history.md`, `canon/economy.md`, `canon/cosmology.md`,
 `canon/magic.md` (Appendix G: the substances of `sources/raw/Additions.md`), and the decisions
-log in `conflicts.md` (HIS-1, META-2, META-5, COS-6/13, COS-22). Appendices D, F, H, I, and J
-carry their own colophons above. Re-lettering note: the glossary (formerly D) is now E; the
-herbs (formerly E) are now G; this note (formerly F) is now K.
+log in `conflicts.md` (HIS-1, META-2, META-5, COS-6/13, COS-22). Appendix L (the table of hands)
+draws on `HANDS-REGISTER.md`; the postils it indexes are **[INVENTED]** reader-voices, in-character
+and not canon unless independently attested. Appendices D, F, H, I, and J carry their own colophons
+above. Re-lettering note: the glossary (formerly D) is now E; the herbs (formerly E) are now G; the
+book's-making note (formerly F) is now K; the table of hands (L) is new with the Postils edition.

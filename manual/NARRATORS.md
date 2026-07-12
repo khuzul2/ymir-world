@@ -62,6 +62,11 @@ tongues, herbs, the Register of Instruments & Materials, plates & the index of p
 - **Main text** — the narrator's own words (beliefs, era-knowledge, bias intact).
 - **`> Curator's note:`** — dry cross-references; "elsewhere it is told otherwise."
 - **`> ⟡ IN THE MARGIN (GM) ⟡`** — the Veiled Hand's true account; never shown to players.
+- **`> ✒ **hand** · *date* — …`** — a **Postil**: a reader-annotation left in the margin over the
+  years since the binding (the *Postils edition*, framed by **the last Curator** in `00b-the-last-curator.md`
+  and tabulated in Appendix L). Player-facing, diegetic, and often unreliable; threaded replies use
+  `>> ✒`. The full cast, inks, and marquee threads live in **`HANDS-REGISTER.md`**. Postils never
+  confirm a `⟡ GM ⟡` secret — at most they *guess* at one.
 - **`Colophon.`** — closes each chapter: provenance + which `canon/` files it draws on.
 - **File-reference convention:** margins may cite `canon/` files, never workshop decision-IDs
   (COS-, HIS-, GEO-…) — those live only in colophons, together with the `[INVENTED]` flags.

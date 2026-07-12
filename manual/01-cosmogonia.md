@@ -78,6 +78,8 @@ Nothing; the **Silent**; the **First**; the **Mother**; and the **Risen**. The w
 worship strange, and call our temples fearful. Let them. We are the eldest, and we remember that the
 gods you kneel to are *young*. When the Observer's eye is fully open, you will remember it too.
 
+> ✒ **the Censor of Solanthya** · *3524* — ~~the gods you kneel to are young~~ *the gods are eternal, and this leaf is watched.* Passed for the learned only. The under-censor who passed it is himself now a matter of enquiry.
+
 > *Curator's note.* The reader from Letia or Cartosa will find much here familiar and much of it
 > upside-down. In the common telling — the one the Church of Mithra prints — it is **Mithra** who is
 > Creator and eldest, and Ech only His first name; the Six are called the **Divine Twins**, said to
@@ -98,7 +100,13 @@ it — and the sea has not healed since, and the walls of the world were cracked
 those cracks, slowly, patiently, the Elder Ones are waking. We do not fear this. We have waited for
 it. You perhaps should fear it a little.
 
+> ✒ **Morannagul** · *the nine-hundred-and-sixty-second year of my reign* — "Something was done." Something was *stolen*, and I am among the few left who remember being robbed. The child of Xebech flatters the thieves because it studied under them.
+> ✒ **a hand in yellow** · *(no date; the ink shows through from the far side of the leaf)* — The city under the storm is not drowned. It is only asleep, and I keep its gate, and the post is always open. Turn the page over, little reckoner. I have written you a door.
+
 That is the making of the world. Sleep now, warm reader. You are very new, and the night is long.
+
+> ✒ **a pilgrim of the Wyvern road** · *3491* — I could not read the hard parts, but I copied the six names of the Twins off this page to say over my mother when she passed, and it eased her, and me. Whoever you grand hands are, quarrelling up and down these margins — thank you for the names, and be quiet.
+> ✒ **a cadet of the Seventh Circle** · *3506* — third copy I've read and every one has a different set of ghosts scribbling in it. this one has a KING — a deathless king, dating his notes by his own reign. we are so small. back to the examination.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The "something done" was the Adepts' own ritual — the theft that sealed the Ancient Gods, drank

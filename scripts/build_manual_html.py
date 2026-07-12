@@ -11,7 +11,8 @@ MANUAL = sys.argv[1] if len(sys.argv) > 1 else os.path.join(REPO, "manual")
 OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(MANUAL, "ymir-compendium.html")
 
 FILES = [
-    "00-front-matter.md", "01-cosmogonia.md", "02-gods.md", "03-magic.md",
+    "00-front-matter.md", "00b-the-last-curator.md",
+    "01-cosmogonia.md", "02-gods.md", "03-magic.md",
     "04-ages.md", "05-lay-of-the-land.md", "06-letia.md", "06b-censored-leaf.md",
     "07-young-kingdoms.md", "08-helgedad.md", "09-qi-long.md", "09b-xebech.md",
     "10-cartosa.md", "10b-sounding-report.md", "10c-silver-isles.md",
@@ -23,6 +24,7 @@ FILES = [
 
 # short narrator lines for the table of contents, keyed by file
 NARRATOR = {
+    "00b-the-last-curator.md": "the last Curator — who gathered the marked copies",
     "01-cosmogonia.md": "Xochiyayotl of Xebech, Star-Priest of the eldest people",
     "02-gods.md": "Fra' Teodabir, torch-priest of Hokhmah",
     "03-magic.md": "Sir Drusilde, Archmage of the Seventh Circle",
@@ -64,6 +66,7 @@ def inline(text):
     text = re.sub(r'\*\*\*(.+?)\*\*\*', r'<strong><em>\1</em></strong>', text)
     text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
     text = re.sub(r'\*(.+?)\*', r'<em>\1</em>', text)
+    text = re.sub(r'~~(.+?)~~', r'<del>\1</del>', text)
     text = re.sub('\x00(\\d+)\x00', lambda m: '<code>' + codes[int(m.group(1))] + '</code>', text)
     return text
 
@@ -122,6 +125,8 @@ def tokenise(md):
 def classify(qlines):
     full = ' '.join(x for x in qlines if x)
     low = full.lower()
+    if any(x and x.lstrip('> ').startswith('✒') for x in qlines):
+        return 'postil'
     if 'in the margin' in low or 'gm only' in low:
         return 'margin'
     if "curator's note" in low or low.rstrip().endswith('the curator*') or low.rstrip().endswith('the curator'):
@@ -145,8 +150,63 @@ def split_paras(qlines):
     if cur: paras.append(' '.join(cur))
     return paras
 
+# reader-marginalia ("postils") — per-hand sigil + ink class, matched by a keyword
+# in the byline. Order matters: more specific keys first.
+HANDS = [
+    ('xochiyayotl', '✧', 'xochi'),
+    ('morannagul', '❈', 'moran'),
+    ('yellow', '◐', 'yellow'),
+    ('barely a hand', '✝', 'struck'), ('the same hand', '✝', 'struck'),
+    ('kramer', '✝', 'struck'), ('m——', '✝', 'struck'),
+    ('the night', '▬', 'night'),
+    ('nefthi', '☥', 'pharaoh'), ('pharaoh', '☥', 'pharaoh'),
+    ('leonard', '▽', 'leonard'), ('**l.**', '▽', 'leonard'),
+    ('censor', '✠', 'censor'),
+    ('last curator', '⌘', 'keeper'),
+    ('cadet', '✎', 'cadet'),
+    ('crier', '▤', 'crier'),
+    ('bravaso', '§', 'bravaso'),
+    ('al-marrah', '‡', 'yusuf'), ('yusuf', '‡', 'yusuf'),
+    ('drusilde', '⟐', 'drusilde'),
+]
+
+def hand_style(meta_low):
+    for key, sigil, cls in HANDS:
+        if key in meta_low:
+            return sigil, cls
+    return '✒', 'humble'
+
+def render_postils(qlines):
+    out = ['<div class="postils">']
+    for raw in qlines:
+        if not raw.strip():
+            continue
+        m = re.match(r'^((?:>\s*)*)', raw)
+        depth = raw[:m.end()].count('>')
+        line = raw[m.end():].lstrip()
+        if not line.startswith('✒'):
+            out.append('<div class="postil-cont">%s</div>' % inline(line))
+            continue
+        line = line[1:].strip()
+        if ' — ' in line:
+            meta, body = line.split(' — ', 1)
+        else:
+            meta, body = line, ''
+        sigil, cls = hand_style(meta.lower())
+        depth_cls = ' postil-reply' if depth >= 1 else ''
+        indent = ' style="margin-left:%dmm"' % (6 * depth) if depth else ''
+        inner = ('<span class="postil-sigil">%s</span> '
+                 '<span class="postil-by">%s</span>' % (sigil, inline(meta)))
+        if body:
+            inner += ' <span class="postil-text">%s</span>' % inline(body)
+        out.append('<div class="postil hand-%s%s"%s>%s</div>' % (cls, depth_cls, indent, inner))
+    out.append('</div>')
+    return '\n'.join(out)
+
 def render_quote(qlines):
     kind = classify(qlines)
+    if kind == 'postil':
+        return render_postils(qlines)
     if kind == 'verse':
         rows = []
         for l in qlines:
@@ -560,6 +620,35 @@ body{
 }
 .aside.margin .aside-label::before{content:"\27E1";font-size:11pt;font-style:normal;}
 .aside.margin p{color:#2b2b33;}
+
+/* postils — reader-marginalia accreted over time (a hand per ink) */
+.postils{margin:2.4mm 0;}
+.postil{
+  font-family:var(--serif);font-style:italic;font-size:8.8pt;line-height:1.42;
+  margin:1.5mm 0;padding:.6mm 0 .6mm 3mm;border-left:2px solid currentColor;
+  color:var(--muted);
+}
+.postil-reply{border-left-style:dotted;}
+.postil-sigil{font-style:normal;font-weight:700;margin-right:.35em;}
+.postil-by{font-weight:700;font-style:normal;}
+.postil-by em{font-weight:400;font-style:italic;opacity:.75;}
+.postil-cont{font-style:italic;font-size:8.8pt;color:var(--muted);padding-left:3mm;}
+.postil del{color:var(--rubric);text-decoration:line-through;}
+.hand-xochi{color:#7f8ba0;}
+.hand-moran{color:#5b4a86;}
+.hand-yellow{color:#a9801a;}
+.hand-struck{color:#6e4f3a;}
+.hand-night{color:#3a3d44;}
+.hand-pharaoh{color:#9c7c2e;}
+.hand-leonard{color:#9a3f45;}
+.hand-censor{color:#a12f2c;}
+.hand-keeper{color:#6f6650;}
+.hand-cadet{color:#5f6b78;}
+.hand-crier{color:#5f5a4f;}
+.hand-bravaso{color:#7a6444;}
+.hand-yusuf{color:#8a6a3d;}
+.hand-drusilde{color:#2f8a80;}
+.hand-humble{color:#8a7a63;}
 
 /* verse (the skald) */
 .verse{
