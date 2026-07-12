@@ -28,7 +28,7 @@ in the **Veiled Hand's margins**. Narrator register and conventions: `NARRATORS.
 | `12d-belligerent-kingdoms.md` | XII·D · The Speaker of the Tally *(late leaf)* | Marghuz, through two disagreeing interpreters |
 | `13-peoples.md` | XIII · The Peoples of Ymir | Pips Quondam, Tal-Tanoth traveller |
 | `14-beasts.md` | XIV · A Huntsman's Book of Beasts | Weck of the Long Road |
-| `14b-figures-of-renown.md` | XIV·B · Figures of Renown | Frater Remigius Falx, Canon-Historian of the Holy Office |
+| `14b-figures-of-renown.md` | XIV·B · Figures of Renown *(Pt. I the Inquisition's register; Pt. II the Companies of the Turning Age)* | Frater Falx + the book's regional narrators (the Crier, the Nightingale of Cartosa, Aelryn, Hrafnkel, Pips, the Curator, the Veiled Hand) |
 | `15-behind-the-veil.md` | XV · Behind the Veil ⟡ **GM ONLY** ⟡ | the Veiled Hand |
 | `15b-workbook.md` | XV·B · The Veiled Hand's Workbook ⟡ **GM ONLY** ⟡ | the Veiled Hand |
 | `15c-coda.md` | — · A Note Left Unanswered *(unnumbered closing leaf)* | the Curator |
