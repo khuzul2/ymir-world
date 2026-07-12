@@ -22,6 +22,8 @@ broad prints in double rows, dust-wallows. Placid; carries half its weight up a 
 complains less than you do. Worth: meat tender as veal, hide that turns a sword — the Cartosans
 make shields of it. An honest animal. Treat it honestly.
 
+> ✒ **a ranger out of Cartosa** · *3526* — Weck has the Daretas sign as broad prints in double rows, and so it is — in dust. On hard scree the beast sets one foot in the last print to save its footing, and the trail runs single-file; I read it as a lone yearling and lost half a day's stalk to the mistake. Read Weck, but read the ground twice.
+
 **Reptoids.** Horse-sized riding reptiles, farmed across Cartosa; most southern leather is
 Reptoid. Steadier than horses near fire. Sign, where feral: claw-drag in mud, sunning-flats worn
 smooth. Worth: hide, and a live one broken to saddle is worth three dead.
@@ -71,6 +73,8 @@ than any man, six-limbed, black-bristled, plated in bone; it sees in full dark a
 It leaps out of the night into a caravan's middle, kills, and is gone with a body before the
 guards turn. Solitary, the Hunter be thanked; the worst thing in the Erg is a mother with cubs. Do
 not track it. Do not avenge anyone. Leave the country.
+
+> ✒ **a caravan-guard of the Erg** · *3529* — Weck says leave the country, and Weck is right; but if the Rending Death is already in your camp, know this and live: it takes one and is gone, so the caravan that bunches loses many, and the caravan that scatters wide into the dark loses one. It is cruel arithmetic, and the only kind the Erg keeps. Scatter, drop your load, and do not go back for whoever it took.
 
 **The Shrikes of the White Choir.** Not beasts. Leavings — dead things kept walking as carrion
 spirits, singing over the dunes in white rags. Necromancy. Whoever first sang the Choir up broke
@@ -182,6 +186,8 @@ Shadow, and are here about a Task they will not name, and that each talks as if 
 them — one water in many jugs. I have no advice. I moved my camp at dawn, and the prints it left
 were mine.
 
+> ✒ **the Night** · *(no date; the letters seem cut from the page rather than inked)* — You write "creature." We are not one and not many. We came for the Work. Your book is a small part of the Work. We are reading it. We have read the part where you notice us. We are still reading.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The huntsman met one and was inventoried; be glad his ledger balanced. The Night-Ones' "Night"
 > has a name in the makers' catalogue: **Naxtis**, the dark world of the old empire, whence the
@@ -271,4 +277,6 @@ dragon-custodians; the demon prison; the Maelstrom as the Chaos-bleed). Dragon r
 Sovereigns Beyond the Circles over the six Circles), MAG-12/MAG-13 (Ouroboros above the
 loyal/rogue split; "Leviathan" his type, not a twenty-first dragon), MAG-17 (the Magres' "Chaos" =
 the Maelstrom's mutation), MAG-18 (the prison-crack as a mass involuntary manifestation — the
-stated exception to "none cross unsummoned").
+stated exception to "none cross unsummoned"). *Postils:* the marginal hands are [INVENTED]
+reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless
+independently attested.
