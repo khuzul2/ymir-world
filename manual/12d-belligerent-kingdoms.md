@@ -16,6 +16,8 @@
 > ninety-one by the clerk's count, said the number was correct, and began. She spoke one hour by
 > the glass, took no questions, and was gone before the sand was. — *the Curator*
 
+> ✒ **Marghuz, speaker-of-the-tally** · *your 3519* — I asked to be in the page; you gave me a leaf, and I have read it, and it miscounts me in the first breath [*the first interpreter renders "miscounts"; the second insists the word is "slanders"*]. I did not *decline* the chair. I counted it: one chair against ninety-one standing, and a speaker who sits above a standing count has begun to lie; correct it, for a count read back wrong is an entry that will not close.
+
 ---
 
 I am **Marghuz**. I hold the tally of the **Fourth Banner**: the count is the Khan's, the mouth is
@@ -101,6 +103,8 @@ it.
 [*Here the envoy ended; and the interpreters, for the one time in the hour, agreed without being
 asked.*]
 
+> ✒ **a counter of the Ninth Banner** · *cycle 3520* — I keep the tally of one banner of the hundred: 74,318 souls this cycle, and I have every one by name, down to the child born the morning I write this. The speaker asked to be put in the page; I have set my banner's number here in my own hand, so that this copy at least, whatever the rest of the book forgets, will have counted us true. Read it, and know we were here, and were counted.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Two consequences, one hook. First: One-Eye read the red moon correctly — it was the Observer,
 > and soldier-stock feels the makers' sky in its blood; of the three powers that armed in 3026,
@@ -142,4 +146,6 @@ Counter (a crooked-mirror creation-myth built to RAC-1's rule — no source reco
 creation-myth); the session, its protocol, both interpreters, and all their disagreements; the
 margins' "resumed count" hook. The wars, the dates, the two warlords, and the laws made *against*
 this people are canon; nearly everything said *by* them here is not, because no source has yet let
-them speak — which is this leaf's reason for existing.
+them speak — which is this leaf's reason for existing. *Postils:* the marginal hands are [INVENTED]
+reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless
+independently attested.

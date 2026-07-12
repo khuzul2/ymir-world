@@ -135,6 +135,8 @@ guard his realm with the greatest weapon he left us: our faith."* The other soci
 superstition; the Golden Falcons whisper darker, that the Mongooses are some enemy's unwitting tools.
 The pilgrim notes only that of six creeds, theirs alone requires the dawn.
 
+> ✒ **a courier of the Golden Falcons** · *3512* — I carry verses and am never told their meaning; I have delivered warnings I did not know I held. My masters made me sing one line forty times before the gate would open to me: a faith that requires the dawn will one day open a door for it, and forget to ask whose dawn comes through. I sang it, did not understand it, and have thought of little else since.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The six wardens have an elder — apex of all the
 > True Dragons, above loyal and rogue alike: **Ouroboros**, the True Dragon God, who has woken once
@@ -212,6 +214,8 @@ Beyond waits the Great Library of forbidden truth, whose guardian says: *better 
 darkness of ignorance than perish in the flame of a terrible knowledge.* The pilgrim read one page.
 He walks more slowly since.
 
+> ✒ **a novice of the Frozen Peak** · *3515* — This is close to what we are told, and I copied it into a stranger's book to see whether the words look truer in another hand; they do not. When I asked my master what the seventh sanctuary's confession meant, he set me to carrying water, and three years on I carry it still, and I begin to think the pail is where the meaning is kept. The pilgrim read the page; we are given the water.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Set the spiral's six divinities beside the six Dragon-Gods: the match is exact, element for
 > element — Diis to the fire-throne of the Ash Province, Hudemia to the drowned kingdom, Therìos to the
@@ -231,6 +235,8 @@ that others may die more slowly; nine hundred millions planting rice between the
 because rice does not care who is divine. The Qi-Long is not a war. A war ends. The Qi-Long is a
 weather. The pilgrim came to the bridge; the bridge asked nothing; and that, of everything east of
 the mountains, was the only mercy that asked no tribute in return.
+
+> ✒ **the Pilgrim of the Thundering Gate** · *3510* — The pilgrim set down six kingdoms and left one leaf blank on purpose, and asks the copyist to keep it blank. The pilgrim read a single page in the Great Library and will not carry its sentence into a stranger's hands; let the reader write on the blank leaf whatever the reader can bear to know, which for most is nothing, and that is the mercy. The pilgrim walks on.
 
 > *Curator's note.* One matter I record without judgment. A colleague versed in eastern ciphers
 > observes that the pilgrim's maxims scan, every one, in the courier-meter of the **Master-Singers**
@@ -252,4 +258,5 @@ per the **revised** set (**BAT-6**; 2008 set noted by the Curator); ~900
 million souls per **GEO-14** (attritional stalemate among vast populations); present ≈ 3518 d.M.
 Margins from `canon/secret-the-great-lie.md`. **[INVENTED]**: the pilgrim, his itinerary, maxims,
 and encounters; the six-fold form of the present Gathering; the "six called three" quip; the Curator's
-cipher-suspicion (a hook).
+cipher-suspicion (a hook). *Postils:* the marginal hands are [INVENTED] reader-voices per
+`HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

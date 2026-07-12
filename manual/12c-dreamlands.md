@@ -51,6 +51,8 @@ licence is not a tax but a tether: the Crier counted eleven tourists lost last s
 promising more than the tariff-board, and all eleven sat at unlicensed couches. In thirty years
 the Bell & Candle lost nobody. Nobody, I should write, but one; and I will come to her.
 
+> ✒ **a clerk of the New City** · *3505* — I sat with Mistress Vaneck the winter my wife was dying, when I could not say the thing to her waking; the pilot took me down to where I could say it, and had me home before the sixth bell, and charged the ninety marks and not one copper of my grief. If you are reading this to choose a house: the licensed ones set a bell. The others sell you the going down and let you find the coming back for yourself.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The pilot believes the fee ends at the tariff-board. It does not. The Dreamlands are a
 > province, and provinces have rulers: the **Outer Gods** hold this one. Sealed out of waking
@@ -82,6 +84,8 @@ trades in waking things, and names its own price: hours first, for time there ru
 comes home whole but can no longer say his mother's smell; then names. A colleague of mine paid
 a name once. He is well. He is *called* something now, the way a shop is called something. That
 is the tariff of the deep, and no bell rings there softly.
+
+> ✒ **a hand in yellow** · *(reads through from behind)* — You describe my country as a traveller describes a house he has burgled. Come properly next time. Ask for the gentleman in yellow. I will have found you work by morning.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Past the deeper shores, in order: **Ragash-below** — the drowned capital's shadow, standing
@@ -225,6 +229,8 @@ hand opens. I am not asleep, reader; I am early. Hold the bell.*
 > neighbour's hand: the pilot sleeps longer each month, wakes cheerful, and asks that her
 > waking-time be left unset. I have entered the leaf accordingly. — *the Curator*
 
+> ✒ **Hesper Vaneck** · *3519* — I wrote "I do not dream." Strike it; I do not wake, which is a different account and the truer one. The lamp is nearer than when I set this book down — it is in the window now — and the stair is under my foot, and I am not writing this from the chair; I was writing it from the chair; hold the bell, I am early, hold the—
+
 ---
 *Colophon.* Chapter XII·C (late-bound). Narrator: **Hesper Vaneck** of Armora (invented framing
 voice; `NARRATORS.md`). Drawn from `canon/cosmology.md` (the Dream World a region of the Spirit
@@ -250,4 +256,6 @@ reading-and-keeping is Ch. V's margin; her case is new); her unlicensed descent 
 the **Vespertina bargain** of the third margin — contract, terms, and "the College's first
 engine" are new connective tissue paying off Chapter VII's weeping-garden margin, deliberately
 unresolved; the fourth margin's reading of Thonis's refugees as the Legion's recruiting and of
-"not yet" as a posting-order. Present ≈ 3518 d.M.
+"not yet" as a posting-order. Present ≈ 3518 d.M. *Postils:* the marginal hands are [INVENTED]
+reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless
+independently attested.

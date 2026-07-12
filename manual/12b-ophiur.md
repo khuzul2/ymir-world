@@ -132,3 +132,4 @@ Xiombarg), `canon/peoples.md` (Hyperboreans/Ophiriti; the Ur-Tanoth castes), and
 her telling (the Seeker's answer, the map-seller aphorism); the margin readings of the Storm
 (uncorrupted Essence-perception), the interior as uncatalogued native lines, and the Garden's
 purpose — all consistent with, but extending, the source.
+Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.
