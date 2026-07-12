@@ -41,12 +41,14 @@ your last leaf — pressed at the paper's making. Before the question was writte
 to understand, it was asked. I have sat with it an hour. I am not taking another sheet. If the
 answer was in the paper before the question, then the question was well chosen. It stays.
 
+> ✒ **the last Curator** · *(no year; I have stopped keeping them)* — I come back to this leaf more than to any other, and I add nothing to it, and I take nothing away. The silence is not empty; I have decided to call it an answer, because a man must call the last thing something. Let it be the last thing.
+
 ---
 *Colophon.* Unnumbered coda leaf, bound after Chapter XV and before the appendices. Voices per
 `NARRATORS.md`: **the Curator**, writing in his own person; **the Veiled Hand**, who does not
 appear and must not — the silence is the content, and no reply exists in canon or should be
 supplied. The open-eye watermark recurs from the closing note of Chapter XV (its first
 attestation); what may stand behind it is the matter of `canon/secret-the-great-lie.md`, which
-resolves it into no identity. **[INVENTED]**: the leaf entire — the letter, the postscript, and
+resolves it into no identity. Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested. **[INVENTED]**: the leaf entire — the letter, the postscript, and
 the watermark's recurrence on this sheet. And, this once, one line of colophon in the leaf's own
 hand: *I certify nothing on this page except the paper, and I was wrong about the paper. — the C.*

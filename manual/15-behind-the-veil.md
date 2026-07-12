@@ -67,8 +67,12 @@ true sleepers. But the pantheon is a mixture of gods and costumes, and no priest
 you which of his feast-days honours a power and which honours a thief. **Some prayers are
 answered. Some are answered by the wrong thing.**
 
+> ✒ **the Censor of Solanthya** · *3524* — ~~the pantheon is a mixture of gods and costumes~~ *the pantheon is the household of Heaven, entire and undivided.* There: the blasphemy is lifted and the leaf is clean. That the sentence beneath it still says some prayers are answered by the wrong thing is a matter of tone, not doctrine, and tone is not my office.
+
 That is the Great Lie. Not "there are no gods." Rather: *the gods are real, and usurped, and the
 usurpers were worshipped beside their victims for fifty thousand years.*
+
+> ✒ **Xochiyayotl** · *undated* — You have written the truth and dressed it as a secret. We of Xebech kept it the other way: in plain sight, where no warm eye lingers long enough to read.
 
 ### 2 · The Worlds, and the Making of the Peoples
 
@@ -170,6 +174,8 @@ gate to steam-wreathed **Arcadia** beyond it. **Topramesk lingers there.** The M
 Lord now of the domain his kind understood best: the Void. He guards the dream-road. Three and
 a half thousand years is a long watch. Consider, when your dreamers meet him, whether he is guarding it
 against something — or *for* something.
+
+> ✒ **a hand in yellow** · *(no date; the ink shows through from the far side of the leaf)* — You name me on this page as though I were a rumour on your side of the paper. I am on the other side, reading your true chapter with great interest, and I see you have found me work to do. Turn the leaf. The post is open.
 
 ### 6 · The Age You Are In
 
@@ -292,4 +298,4 @@ Observer), **COS-23** (humans/Tanoth-kin native and un-made), **COS-24** (Ech = 
 **RAC-1 = A** (engineered peoples, true-kernel myths), **BAT-1 = A** (unsealing the Runes =
 breaking the isolation), **BAT-2** (Xanadu ≠ Ragash), **BAT-3** (four Runes, six seals),
 **MAG-12** (six loyal Dragon-Gods + Ouroboros above the split), **HIS-1** (present ≈ 3518 d.M., the
-Equilibrium as the eye of the storm), **HIS-5 = B** (the Tide-openers kept mythic and unnamed).
+Equilibrium as the eye of the storm), **HIS-5 = B** (the Tide-openers kept mythic and unnamed). Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

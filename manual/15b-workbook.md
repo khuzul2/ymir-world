@@ -359,6 +359,8 @@ remembers everything. *Stakes:* the artefact that ate the mind of the age's grea
 *Complication:* the axe does not need to be swung. It needs to be *carried down* — and it will pay
 in victories, and the first several are genuine.
 
+> ✒ **a reader who runs a table** · *3531* — I ran the axe on the mountain and did exactly as this leaf advised: I paid my players in real victories first. We are three sessions past where I could take it back, and last night the quiet one asked — in character, and not — whether he might keep it. I begin to think the seed was planted in the reader.
+
 ---
 
 That is the workbook: the margins' ends, pointed and now sharpened. Pull the ones your table
@@ -400,4 +402,4 @@ succession plot; the honest map and its receipts; the Garden's seed-price; the S
 and Horatli's purchases; the missing sounding-report; the chartered survey; the Curator's quiet
 investigation of Chapter XV; the accepted "situation"; the unfixed mountain. The ground beneath
 every one — the places, powers, prisoners, and prices — is canon as cited. Present ≈ 3518 d.M.,
-except where tagged.
+except where tagged. Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

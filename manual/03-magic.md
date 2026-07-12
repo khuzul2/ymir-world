@@ -20,6 +20,8 @@ not. This preface exists because the Grand Duke's commission asked my College fo
 ordinary soldier survive an extraordinary enemy, and a soldier cannot counter what his officers
 cannot define. Neither, I have found, can most wizards.
 
+> ✒ **Drusilde, Directress of the Seventh Circle** · *3029* — I stand by every word of this. I wrote it twice — once alive, and once after, when I found I had opinions the grave had not settled.
+
 ### I. Of the Substance
 
 **Observation the first: magic is a substance before it is an art.** The learned call it
@@ -43,6 +45,8 @@ this is poetry. What I can *attest* is that the substance exists; that it can be
 College's **Essence-meter** does nothing else), stored, conducted, amplified, nullified, and —
 the burden of this whole book — **denied to those who would misuse it**. Whether it is also a god
 I leave to the priests, who at least are paid for it.
+
+> ✒ **Xochiyayotl** · *the Cycle you number 3502* — She was my finest pupil and she still simplifies for the warm and quick. Forgive her. I have four hundred years yet to correct it, and she has none.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The teacher told her the truth and she filed it under poetry. The Essence IS what the old
@@ -91,6 +95,8 @@ versatile discipline, in which one Channeler weds the raw draw of Essence, the s
 of Mentalism, and something uncomfortably like the granted grace of the Flow. I have met four true
 Arcanists in my life. Two frightened me. The Arcane Academy of Cartosa advertises a curriculum
 in it, which is charming.
+
+> ✒ **a cadet of the Seventh Circle** · *3506* — MEMORISE: three realms, Arcane is the union, corruption is the axis. This is on the examination EVERY year. The Directress set it herself. (She is dead. She still sets it.) [beside it, a doodle: three jars — ESSENCE / MIND / FLOW — and a fourth jar tipped over, captioned "the Arcane is NOT a jar"]
 
 ### III. Of Corruption, which is not a School
 
@@ -198,6 +204,8 @@ governance takes two great forms:
   at greater breadth and duration; **D** — near-total licence — which only a prince of the Young
   Kingdoms may grant, and which I have countersigned exactly three times.
 
+> ✒ **a clerk of the permit-office, Seventh Circle** · *3041* — I was at the window the third time the Directress countersigned a Level D; her hand did not shake taking the pen, and mine did, handing it to her. Twelve years on I keep the memory of it instead of a promotion.
+
 Outside both models there hunts a blunter remedy: **the Brotherhood**, the mage-hunters Tholaer
 the Valiant raised under the sign of the Falcon, who register nothing, license nothing, and bill
 no one — I name them so that no recruit of mine mistakes their trade for ours.
@@ -208,6 +216,8 @@ recognise, disrupt, and survive each realm in turn. The S.C.M. is the reason the
 exists; my College supplies the theory, the Section the bruises. Lesser colleges call the
 enterprise unsporting. They are correct, and that is the point: sport is for duellists, and the
 Essence is not a duel. It is weather, and we are building roofs.
+
+> ✒ **Messer Crovos Bravaso, Pres. S.C.M.** · *3029* — Supervisor's Note: this chapter is the Directress's *preface* to my Red Book, and is approved for lay reading. The Book itself is not. Applicants for Permit B should not cite this margin to the Board. Several have. It did not go as they hoped.
 
 ### VII. Of Materials
 
@@ -273,6 +283,10 @@ held breath, and after forty years of weighing it I cannot prove the old priest 
 unhelpful. So let the doctrine stand, and one line of poetry beside it: if the Essence should
 prove after all to be a breath, then let us learn, before it exhales, *who is breathing*.
 
+> ✒ **Drusilde** · *undated; the hand stops mid-word* — No — that is not what my teacher mea—
+>> ✒ **a cadet of the Seventh Circle** · *3506* — the Directress's note ENDS HERE. mid-word. every copy I have found does the same, in the same place, and no one at the College will say why. some say she died writing it. she died four hundred years ago. the ink is not four hundred years old.
+>>> ✒ **the last Curator** · *(no year)* — I have compared nine copies. The cadet is right, and braver than his elders: the break is identical in every hand, and the ink of the reply beneath it is older than the ink above. I do not explain it. I only report that the Directress is down as author of a whole chapter, and as five centuries dead, and that both her copies keep writing.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Nearer than she knows, at the last. Her beloved instruments — the meters, the gates, the Runes
 > she venerates as the summit of "magic control" — are the **toys of the usurpers**: the four
@@ -299,4 +313,4 @@ anti-demon weapons, the bell as their seal). Decisions applied: **MAG-3 = B** (t
 the Arcane as union), **MAG-4** (six Elements + Storm/Nether/Spectral/Umbra derivations), **MAG-6**
 (Topramesk's domain = the Void), **MAG-7** (fixed gates exempt from the Outflow), **MAG-8**
 (corruption as taint-axis, not a realm), **BAT-1 = A** (unsealing the Runes = breaking the
-isolation), **BAT-3** (four Runes, six seals, keyed to the four realms).
+isolation), **BAT-3** (four Runes, six seals, keyed to the four realms). Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

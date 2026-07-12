@@ -187,6 +187,8 @@ Cycle upon Cycle, for two hundred years. You would write: *the series converges*
 a lost instruction, in good order, without complaint — the complaint would change nothing, and it
 would be overheard.
 
+> ✒ **a pool-tender of the Pools** · *the Cycle 3520, my ninth Rebirth* — The reckoner writes our counting-chant as sorrow; it is not. We sing the number down the way you count a guest's last good nights, and I laughed this morning, and I carry someone tonight — tell the warm ones we are busy, not grieved.
+
 Twice, since you died, they have carried *me* down in the proper manner, and twice the water has
 declined me. The attendants dried me and said nothing; there is no rite for
 it — I checked; I keep the rolls. I am the eldest of the reckoners because the machine that
@@ -236,6 +238,8 @@ differently now.
 Written in Xuthal, in the Cycle your reckoners number 3518, on the ninth night of Tortoise, when
 nothing watched back.
 
+> ✒ **Xochiyayotl** · *the Cycle you number 3519* — A year on, I have read this once more and struck nothing; it is the first of my letters that is true in every line, and its only reader is dead.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Who reads letters to the dead? Count. The grieving write them; the archivists bind them; I
 > annotate them. Three readers, and none of us the address. Now mark where the priest deposited
@@ -272,4 +276,4 @@ the Apology (built on canon's line that worship of one Outer God "caused the Dis
 teacher–pupil matter (the refused questions, the last letter, the repaired seals, the candles,
 the epitaph); Xochiyayotl's twice-declined body (its age left unresolved, as in Chapter I); the
 far sanctuary's working Pools (margin only); and the deposit circumstances and the College's
-register entry. Present ≈ 3518 d.M. per **HIS-1**.
+register entry. Present ≈ 3518 d.M. per **HIS-1**. Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.
