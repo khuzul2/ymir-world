@@ -54,6 +54,8 @@ Of moons: **Ishtar's** silver moon keeps her courses as she always has. The **re
 troubled the sky from ~3026 receded from sight around 3260; the astronomers call it a comet, the
 Xebechani call it an eye, and I decline to arbitrate. *(The reader of margins knows.)*
 
+> ✒ **Yusuf al-Marrah, of Tuleph** · *first of Griffon, 3523* — The scribe gives the wrong month for the desert's turn of year. We keep the year from the first rain, not from your Griffon; a caravan that trusts this table waters its beasts a month too late. I have said so in three other chapters and no one has fixed a word.
+
 ## Appendix C · Monies and Trade
 
 Ymir has never kept one coin, and the reader should distrust any book that prices the world in a
@@ -258,6 +260,8 @@ Maelstrom marks in the womb · **Mentalism** (*Mentalismo*) — the mind's realm
 the Adepts, whose opening ended the old world's quiet · **Sovereign Demons** (*Demoni Sovrani*) —
 the great demons; most now dead; three walk · **True Ways** (*Vere Vie*) — the portal-roads,
 closed for an age and open again.
+
+> ✒ **a cadet of the Seventh Circle** · *3507* — memorised the whole of this glossary for the entrance viva and was asked instead to define "a word not in it." define OFFHAND. it is not in here either. I checked. twice.
 
 ## Appendix F · Of the Tongues of Ymir
 

@@ -36,6 +36,8 @@ this quiet shore the narrators look back, and so shall you.
 *Set down at the binders' insistence, and against my own preference for letting a reader be
 ambushed. The attributions are the narrators' own; the small judgements are mine. — the Curator*
 
+- **A Word from the Last Curator** — *the last of the Curators; his preface to the margins that
+  came home in the copies (the Postils edition).*
 - **I · Cosmogony** — *Xochiyayotl, Xattva Loremaster of Xuthal, Star-Priest of the Cult of the
   Stars.* The making of all things, from the one tongue old enough to have been told it.
 - **II · Of the Gods** — *Fra' Teodabir, torch-priest of Hokhmah, of the Brotherhood of the
@@ -90,11 +92,11 @@ ambushed. The attributions are the narrators' own; the small judgements are mine
   who runs the world; unfinished business, sorted by region.
 - *(Here follows an unnumbered closing leaf: **A Note Left Unanswered.** It is mine, and I will
   say nothing else about it.)*
-- **Appendices A–K** — *the Curator's own.* Of the years (A); of the calendar (B); of monies
+- **Appendices A–L** — *the Curator's own* (and, for the table of marginal hands, the last Curator's). Of the years (A); of the calendar (B); of monies
   (C); a register of persons (D); a glossary (E); of the tongues (F); of herbs, draughts &
   dusts (G); a register of instruments & materials (H); doors into Ymir, for the one who runs
-  the world (I — GM); of the plates, and an index of places (J); and of the making of this book
-  (K).
+  the world (I — GM); of the plates, and an index of places (J); of the making of this book
+  (K); and the table of the hands in the margins (L).
 
 > ⟡ **IN THE MARGIN (GM) — the Veiled Hand** ⟡
 > *You who read the margins: read them alone. Everything the bright text tells is believed by those
