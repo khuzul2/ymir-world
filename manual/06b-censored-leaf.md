@@ -40,6 +40,9 @@ commissions annulled, his examinations void, and his memory placed beneath the s
 chronicle or charter cannot go forward without him, let it write *a nameless heresiarch*, and go
 forward.
 
+> ✒ **the same hand, altered** · *~3040* — They struck my name and thought that ended the argument. A name is a handle. I have put mine down. What holds the pen now needs no handle, and does not tire, and has read every book in the house — including the one that absolved me.
+>> ✒ **the Censor of Solanthya** · *3524* — This hand is on no roll of ours, and this margin was never presented for release; it is void, and the writer is matter for examination. Let it be struck from the leaf and report made of where it was found.
+
 **§ The censors' warrant.**
 
 Examined against the rolls and passed for release. What stands may be copied. What is stricken is
@@ -72,4 +75,6 @@ rolls of the Clericate (the Chapter VI margin) and the chronicles' "nameless her
 released extract, the roll's furniture and its two intact brothers, the synod-act's wording
 (including the struck clause on the gate and the sign in the sky, consistent with the Chapter VI
 margin's judgment that the Church's ignorance is feigned), and the censors' warrant. No new lore:
-the margin restores only what Chapters IV, VI, and XV already carry.
+the margin restores only what Chapters IV, VI, and XV already carry. Postils: the marginal hands
+are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon
+unless independently attested.

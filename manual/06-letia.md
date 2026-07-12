@@ -25,6 +25,8 @@ keeps whose stones remember the Horde. The dwarves of the mountains are our olde
 little folk, and travellers of every honest people walk our roads in peace. Three only are turned
 away at the gates, and I shall defend the turning in its place.
 
+> ✒ **a pilgrim of the sword-roads** · *3499* — Two shrines a week apart each keep "the true sword of blessed Valdis," and their monks will not so much as nod to one another. I walked to both and prayed at both, reckoning the martyr is one even where her relics are two. The inn below the second shrine is the cleaner, and the second sword the longer — for whatever a footsore man's judgement is worth.
+
 **Of Solanthya the holy city.** At the heart of the Empire stands **Solanthya**, seat of the
 **High Priest of Mithra** — the **High Theocrat**, whom the world calls simply the Theocrat of
 Letia. Here are the great sun-temple, the synod-halls, and the **archive-towers** in which I have
@@ -32,6 +34,8 @@ spent my life, wherein is kept every charter, chronicle, and confession of the f
 Great Fear. Foreign map-makers, in an error I have ceased correcting, often write *Solanthya*
 across the whole north — and I have come to think the error a compliment: the city is the Empire,
 as the heart is the man.
+
+> ✒ **a novice of the archive, Solanthya** · *3526* — I am set to fair-copy this chapter, and the sub-cantor's first rule is: do not write in the book. I am writing in the book. You spent your whole life in these towers, Brother Annalist, and never once made them sound like a place where a boy could be homesick — and I am, and now the margin knows it too.
 
 > *Curator's note.* The map-makers' habit is canon on the world map itself, where the label
 > "Solanthya" stands for greater Letia entire. The Annalist's "archive-towers" I cannot document in
@@ -58,6 +62,8 @@ peasants blinder than any tithe. I answer only: come and walk it. The roads are 
 are full against famine, the courts hear the poor. No government of the fallen world is clean; ours
 is at least *aimed*.
 
+> ✒ **the Censor of Solanthya** · *3522* — ~~No government of the fallen world is clean~~ *The government of Mithra is without stain, being His.* The friar's humility becomes a cell and disgraces a chronicle. Passed, with the stroke; let the copyist not enquire after it.
+
 And now the laws that the south loves to recite against us. It is true: **no orc may pass our
 gates, nor any dark elf, nor any who serves the Dark; and none may openly profess a cult that is
 not Mithra's.** I defend it without joy. The orc I need not argue — the Belligerent Kingdoms are
@@ -76,6 +82,8 @@ and the folk-shrines folk. It is a quarrel of scholars, and it will pass, as suc
 > the Inclusivist–Popular "quarrel of scholars" is the sharpest division in the Church since
 > Armora walked out; synods have been suspended over it. It may pass. It has not passed yet. —
 > *the Curator*
+
+> ✒ **Fr. H. Kramer, of Solanthya** · *2563* — I was there when the Fever fell. I set this down so my own doubt would have a witness: Heaven used us, and I was clean, and I mean to stay so. Whoever reads this in a better year — pray I did.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *What the theocracy's founding covered: 2610 was not a coronation but a filling of a vacuum —
@@ -136,6 +144,8 @@ have buried provinces, kings, and one entire age of the world — and we are sti
 last line of the chapter be the one carved over the sun-gate of the holy city: *The light is not
 ours; the keeping of it is.*
 
+> ✒ **the last Curator** · *(no year; I have stopped keeping them)* — The leaf that follows this chapter came to me already struck, and certified complete under the same seal. I have bound it as it fell rather than mend it, for the strokes say more than the words they were laid over. Read it; then read what a stroke cannot reach.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *One thing the watchful Empire does not watch, because it does not know to. Since the years of
 > the Chaos, the dwarves of Naughrith have quietly sealed their deepest galleries beneath the White
@@ -159,4 +169,6 @@ contradiction), **HIS-11** (Helgedad's annexation-to-secession as one arc, per t
 cross-reference), **HIS-1** (present ≈ 3518 d.M.). **[INVENTED]** (incl. the Veiled Hand's sealed-galleries-under-the-White-Mountains margin — an open GM hook, deliberately unresolved) and: the
 archive-towers' furnishing, the "granaries and courts" apologia, the present-day texture of 3518,
 the sun-gate inscription, and the sealed galleries beneath the White Mountains (open GM hook). The
-laws, numbers, dates, institutions, and wars are canon.
+laws, numbers, dates, institutions, and wars are canon. Postils: the marginal hands are [INVENTED]
+reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless
+independently attested.

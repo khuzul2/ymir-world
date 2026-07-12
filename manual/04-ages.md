@@ -43,6 +43,8 @@ of the Abyss poured through the breach that pride had opened. In those days the 
 Ymir through doors between the worlds, and to their everlasting honour stood with the peoples of
 the earth against the Sovereigns.
 
+> ✒ **Morannagul** · *the nine-hundred-and-fifty-fourth year of my reign* — "Came to Ymir through doors." I came through one of them, and have not aged since, and I recall which of us the chroniclers chose to call honourable. The doors are shut now; ask your friar who shut them, and watch a learned man discover he does not know.
+
 And when all was nearly lost, the last of the Adepts — led by the archmage **Topramesk**, whom the
 chronicles call the Yellow, and the kinder ones the Mad — went into the Academy at the heart of
 fallen Ragash and wrought a ritual to banish the demons for ever, at the price of their own lives.
@@ -78,6 +80,8 @@ whose harvest all the world has eaten. In the year of the Maelstrom 1320 the cap
 Cartaurelius** bore the Empire's banner south to Punta del Toro, and of that seed grew **Cartosa**.
 And in 1555 d.M. the Empire stood at its full noon: nearly all the north of the world was Letia,
 and in that year **Helgedad** too was gathered into the fold.
+
+> ✒ **a clerk of the hearth-tax, Lower March** · *3488* — "Gathered, generation by generation," he writes. In my ledgers it is household by household, and I keep the assessment-rolls for three villages the Great Fear left as ash and the crown taxed even so. Someone paid for the gold leaf on this page; I am the one who filed the receipts.
 
 > *Curator's note.* "Gathered into the fold" is doing quiet work. Helgedad was a realm in its own
 > right — a kingdom of dwarves and men together, the dwarven seat at the **Golden Halls**, the human
@@ -181,6 +185,8 @@ nameless heresiarch at **Ulan-Tang** wrought abominations before an ancient port
 Theocrat of Letia, the Technocrat of Armora, and the Great Khan of the orcs each read the omen,
 and each armed. Of the heresiarch I say no more here; his shame is treated where it belongs.
 
+> ✒ **a cadet of the Seventh Circle** · *3506* — every deathless thing scribbling in this book mentions the red moon the way my aunt mentions a hard winter — weather they lived through. a KING three margins back, a pharaoh nearer, and me the only mortal in the argument. examination friday; back to it.
+
 ### Of the Age of the Tide
 
 Now I come to the hinge of the latter world, and I write it soberly, for I write of the anger and
@@ -196,6 +202,8 @@ coming, dragged up from the sea a whole drowned country of their own kind, the r
 sailors will not name. In those same years the Serpent **Ouroboros**, eldest of the Great Worms,
 awoke, and **Alfheim of the elves was unmade** in a season — Alfheim the deathless; let no people,
 reading this, trust in its own antiquity.
+
+> ✒ **the Censor of Solanthya** · *3522* — ~~the very prison of the demons cracked~~ *the bonds of the demons held, save three whom Mithra suffered to come forth.* The catechism is thus amended; let the older word not be copied, and let it be known who copied it.
 
 > *Curator's note.* Two small honesties. The Annalist "piously declines to name" the adventurers;
 > so does every record in existence — he could not name them if he wished, and piety is cheap where
@@ -218,6 +226,8 @@ and the unquiet dead walked among the living. I will not soften it: the faithful
 faithless died. But I read those years as Scripture reads the furnace — a testing, not an
 abandonment. The peoples endured; the Church held the north as a dyke holds the sea; and the
 Coalition of old, so long a parchment, became again a sword.
+
+> ✒ **Nefthi, by grace undying** · *the nine-hundredth year of Our second reign* — Your scribe writes "the unquiet dead walked among the living" as though it were calamity; in Khorish they always have. They carry the water, mind the gates, and never once complain of the hours. Two centuries of such company unmanned the north — We call it a working week.
 
 And when the furnace cooled there came, **from about 3260 d.M.**, the age in which I am blessed to
 write: **the New Equilibrium**. The doors are watched now; the risen continent is
@@ -248,6 +258,9 @@ chronicler may pray at the foot of the page. *Lord of the Sun, who counted the y
 learned to count: let the calm be long, let this house of records stand, and let the next hand that
 writes in it be better than mine.* Amen.
 
+> ✒ **a hand that came after** · *3574* — The friar prayed the calm be long; it was not. In the winter of 3561 the Maelstrom brightened and a door in the east stood open a whole season, and I set it here so no reader is told only the peaceful half.
+>> ✒ **the last Curator** · *(no year; I have stopped keeping them)* — I have found this same addition in four copies, and each names a different year — 3561, 3559, 3570, and once "the year the red moon came back," which it has not while I draw breath. One hand asserts, another doubts; I set them side by side and choose neither. Nothing past the Annalist's last page is proven, only feared.
+
 ---
 *Colophon.* Chapter IV. Narrator: **the Annalist of Solanthya**, Clericate of Mithra (invented
 framing voice; `NARRATORS.md`; he returns for Chapter VI). Drawn from `canon/history.md` (the
@@ -262,4 +275,5 @@ overlapping cascade — the Annalist's "consecutive chastisements" corrected by 
 **COS-2** (one Catastrophe seen three ways). **[INVENTED]**: the undated "gathering of the clans"
 founding of Letia (canon gives no year); the theological framing throughout; the catechism's
 *destroyed*→*bound* amendment; Valdis Nemertine rendered *she* (canon does not gender the last
-heir). All dates and events are canon.
+heir). All dates and events are canon. Postils: the marginal hands are [INVENTED] reader-voices
+per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

@@ -99,6 +99,8 @@ them:
 - **Ranin**, the Merchant — transactions, artisans, commerce; the god most often paid and least
   often prayed to. Sign: a hammer.
 
+> ✒ **a fishwife of the Seamark** · *3494* — I never learned the friar's high tables, but I say the shell over the door for Orum before the boats go out, and the skull for Thal'Khal when one does not come back. Both have heard me. That is all the theology a wet coast needs.
+
 **Now to the Church of Mithra, and its two great tearings.** The old rupture is political:
 nearly five centuries gone, the Grand Duke of Armora declared Solanthya's **High Theocrat**
 corrupt — accusing the Letian Church of secretly worshipping Ahriman behind the golden sun — and
@@ -153,6 +155,8 @@ the gods, keeper of secrets that must not be revealed, whose sign is an owl — 
 have no column at all. They are not translations of anything we pray to. They are, I think,
 translations of something else.
 
+> ✒ **a torch-priest of Hokhmah, Armora** · *3521* — Brother Teodabir files Xhulhu and Heichpyel under "something else" and sleeps well. I have read that column too many times; I do not file them, and I do not read it after the lamp is trimmed. Wisdom is also knowing which book to close.
+
 **Which brings me, reluctantly, to the eldest cult, and the one I understand least.** The
 Xebechani — openly, and certain quieter congregations less openly — worship the **Outer
 Gods**, said to sleep in the dark beyond the last walls of the world: the
@@ -169,6 +173,8 @@ was the Observer, stirring; and that around the year 3260 it did not set, but
 *withdrew*, which they insist is a different thing. The Church called it vulgar superstition
 about an errant heavenly body. The Church also, I observe, has never restored the night
 processions it suspended while that moon stood overhead.
+
+> ✒ **the Censor of Solanthya** · *3523* — ~~the star-priests name it the Gaze-upon-Nothing, and say it was the Observer, stirring~~ *an errant star, of no account, and now set.* The night processions were suspended for the repair of temple roofs. Let the copyist enquire no further; the enquiry is itself matter for examination.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The friar's instincts are a compass needle: watch where they tremble. The Outer Gods are the
@@ -251,6 +257,8 @@ one cloth. On bright mornings I believe the first. On dark nights — the sort t
 owned — I take out the sheet, and look at the gods that do not map, and trim the torch, and
 keep asking. She has never once scorched my hand for it.
 
+> ✒ **Fra' Teodabir, in my own copy** · *3519* — I have found a forty-second temple since I set this chapter down, and it did not close my circle either. Good. Let the Concordance stay one god short of whole; a book that finishes is a book that has stopped, and I am not done kneeling.
+
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *Give the old man his due: "a seam where two things have been sewn together and called one
 > cloth" is the truest sentence a priest utters in this whole book, and he does not know it.
@@ -275,4 +283,6 @@ his), **COS-20** (the Lesser Gods taxonomy; neutral gods the Inclusivist/Popular
 connective tissue: Teodabir's biography, Concordance, and "forty-one temples"; the Thal'Khal
 identification staged as his own finding (the equation is canon); his Tezcatlipoca speculation
 (canon maps that god to no common deity); the Inclusivist/Popular quarrel framed as younger
-than the Armorite rupture; the lapsed night processions; the Seamark midwife.
+than the Armorite rupture; the lapsed night processions; the Seamark midwife. Postils: the
+marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character
+and not canon unless independently attested.
