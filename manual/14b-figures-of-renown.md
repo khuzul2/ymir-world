@@ -86,6 +86,8 @@ authenticated none and — the pilgrims being devout and the offerings regular �
 *Verdict of the Office:* MARTYRDOM CONFIRMED; SAINTHOOD PENDING, these nine hundred and fifty
 years. Heaven is not slow. Heaven is thorough.
 
+> ✒ **a pilgrim of the three swords** · *3502* — I have knelt at all three: at Solanthya, at the Broken Land, and at the little chapel the high road forgets, and said the same prayer over each blade, and each time she heard me. Let the Office authenticate what it pleases. A saint is not kept in the steel; my knees know which of the three swords is the true one, which is all of them.
+
 **VII. The house of Carrillo** — princes of Cartosa; 1906 d.M. to this present. The princely line
 of the daughter-colony since a governor was raised to Prince in 1906. Of their deeds: Rodriguez
 XI reduced Meridian and annexed it in the War of the Red Sea, 2817–2830; Alberto V took the
@@ -137,6 +139,9 @@ two hundred years and more in the withdrawing. The Theocrat of that age struck h
 rolls of the Clericate; the striking binds this Register, and me.
 *Verdict of the Office:* HERESIARCH; DEGRADED; STRUCK. The blank is the sentence, and the
 sentence is being served.
+
+> ✒ **[a hand that is barely a hand]** · *undated, but the ink is younger than it should be* — Falx wrote me well. He filed a heresiarch and missed a *tenant*. I am still in the house, examiners. I read the register each generation to see whether you have learned to spell my new name yet. You have not. Try M——.
+>> ✒ **a novice of the copying-room** · *3547* — They set me to recopy this leaf before the old one burns, as they set someone each generation. The note above says it reads the register each generation. I am this generation. The Sub-Prior tells me to finish the page and stop shaking; I have finished the page, and I have not stopped.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The struck name was **Heinrich Kramer**, inquisitor of this same Office, and the striking was
@@ -201,6 +206,8 @@ arithmetic of destruction allows.
 *Verdict of the Office:* DAMNED; DESTROYED, per the accounts; the accounts, per the Office,
 PENDING. The file is chained open.
 
+> ✒ **L.** · *filed the year they burned me the third time* — The Office keeps my file open. Considerate. I keep the Office's the same way. We are the only two institutions in this book that understand that "destroyed" is a *process*, not an event.
+
 **XVII. Vespertina VonGryffen, the Peacemaker** — Grand Duchess of Armora; after the Tide.
 Successor to Leonius, who brought the wayward daughter back to Letia's side against the Khans — a
 treaty of equals, her chancery insists; a return, our pulpits prefer; the orcs, who were the
@@ -242,6 +249,8 @@ have left it. It is the only humility this Register contains, and it was not vol
 *Verdict of the Office:* VERDICT SUSPENDED, FOR WANT OF AN ACCUSED. The deed is condemned and
 absolved daily, in every pulpit, according to the preacher. The Office waits for a defendant. It
 has waited four hundred and ninety years. The Office is patient.
+
+> ✒ **the last Curator** · *(no year; I have stopped keeping them)* — The frater measured this blank and left it, and, having measured it after him, so do I. I fill a great many spaces in the Part that follows, and guess at more than I care to confess; this one I will not fill. The two names belong to whoever reopens the door — I am only the man who kept it from being painted shut.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The Office may be waiting for a defendant it has already tried. Strip the accounts to what
@@ -414,6 +423,8 @@ Now here, Compilers, is a company the Crier will put up against any the southern
 **Surya, called the Yellow Demon** — The easterner: an **Ur-Tanoth** swordsman who fled the far **Qi-Long** carrying the blade the east names the **Masamune**, which the College identifies with the Relic **Meletskar** — Dragon-God assassins baying at his heels the length of his flight. He cut down the dragon-lord **Vorak** and fell into a killing coma of it; and — this being an Armoran story — he got up again. (Register, entry XIV.)
 
 **Drusilde** — An exiled **Xattva** archmage, once a teacher at our Academy, afterward foundress of her own celebrated school, the **Seventh Circle**; a scholar of such standing she is set down as author of a whole chapter of this very Compendium — the third, which the Crier's busy presses have not yet reached. Killed — the Crier reports it plainly — by a dwarf's own bomb bursting a hand's-breadth too near; and returned to the living, the accounts murmur, by a pact struck with an entity they take great care not to name.
+
+> ✒ **Drusilde** · *undated* — The Crier says I came back "on a pact I will not name." I will not name it because I have not finished paying it, and a debt read aloud comes due faster. Ask me again in a chapter where I am still writing.
 
 **Yonker, called Dwalor** — Our celebrated dwarf artificer, a genius of powder and the explosive charge, whose bronze war-walker stands garlanded in the Square of the Sciences — the beloved **YonkerMecha**. A dwarf-firster in his private heart, if the Ghetto's talk is to be trusted; hailed for his war-merits as heir of the Wald's own **Dwalor** clan, whose ring he took up over its murdered bearer and swore to avenge.
 
@@ -667,6 +678,8 @@ In the year the southrons write **3015** came the **Winter of Unrest**, and the 
 
 **Dwayne Soylen, the Builder** — a paladin of Thurms, thunder's sworn, who raised temples where other war-men raise camps: wherever he wintered, a roof went up to the storm-father, and the roofs — curse the man — held. The south has since hallowed him **Saint Dwayne** by their own acclaim, with a written *Life* and shrines, and roof-beams brought to be blessed (their clerk files him at his nineteenth leaf, and grinds a tooth to do it). A heathen names a foreign folk's saint the way he names foreign weather: real enough where it falls on other men, and no god of ours.
 
+> ✒ **a sapper of the Kelmark garrison** · *3524* — They tell us there is no Saint Dwayne, that Solanthya struck him three times over. We set the footings by his name regardless, for the man's roofs held and ours hold, and a soldier prays to whatever kept the last roof up over the last man who slept dry under it. Strike him a fourth time, reverend fathers. The beams do not hear you.
+
 **Kamal, called the Mad** — high priest of mad Heis on the isle, and once, if you credit it, a dwarf: a stone-blooded delver no taller than your two-hand sword. He swallowed a seed of the **Tree of Chaos**, and the seed kept his god's faith with him — it swelled him past all shape into a thing deformed and holy, a fane of flesh his own priests knelt to and dreaded. Heis loves no jest so well as the one that eats the jester. Kamal is his fondest.
 
 **Kronen Vorab** — a paladin of grim Gog, the self-coiled Serpent, god of the Damned and of Lies and Thurms's ancient enemy; and I give him honest, for a skald who prettifies is a liar with a tune. Two things made his name, neither kind: a cruelty that wanted no cause, and a tongue so sweet it could coax a widow out of her grief and her grain in one breath. Men followed the honey down onto the knife. Gog is patron of the faceless, and the Wolves' five wore no faces; make of that a shiver and no more.
@@ -857,3 +870,5 @@ Kamal's swallowed seed as a bud of the Tangle; Varg as a lesser echo of the Adep
 Kramer → M'Raker throughline). Figures attested in the logs but absent from the wider canon files
 (Fèl Fenor, the House of Ra, Alturia, the dragon Gildiss) are carried from the campaign stratum as
 given. **The figures, their deeds, and every date remain canon.**
+
+Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; the struck hand's corruption arc (entries in 06, 06b, XI) and Leonard's and Drusilde's notes are in-character and not canon.
