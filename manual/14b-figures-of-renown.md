@@ -261,6 +261,100 @@ has waited four hundred and ninety years. The Office is patient.
 > age; whoever walks two names through it decides what the era was* for. *No prize in this book
 > is larger.*
 
+---
+
+## § A SUPPLEMENT, ENTERED OUT OF ITS SEASON
+### *the Adepts, and certain names lately come to the Office from a seized catalogue of the heathen*
+
+**A supplement, and a caution folded into it.** Since the extracts above were fair-copied, the
+Office has taken into the house a thing it long lacked and never wanted: a heathen **catalogue of
+the Adepts**, compiled in the deep past by one **Tarogald of Mileus** in six-and-twenty books he
+titled *De Daemonomachia*, the most of them lost, and glossed since by a living hand that has hunted
+the remainder. It names the sorcerer-lords of the world-before as *individuals* — and worse, as
+*gods*. By their floruit these names stand at the very head of this Register, before Topramesk
+himself; but a roll the whole house cites by its numbers is not to be re-sorted for a heretic's
+bookkeeping, and I will not have the first entries renumbered and five centuries of cross-references
+broken to flatter a pagan chronology. I enter them here, at the tail, out of their season, and I
+command my successor as I commanded him at entry X: **do not merge them forward.** Let them sit
+apart, as the thing they describe set itself apart — above the world, and answerable to none of it.
+
+**XXI. Ört di Xand, called the Shadowed** — an Adept; the Ancient Days, before reckoning. The Fifth
+of the sorcerer-lords the catalogue numbers, and by its account a *god-king*: ruler of the
+south-eastern marches of the land the old texts name **Mandolia**, in the reaches of the Sadhir and
+Ophiur, in an age the fallen calendars keep by a "**Sun of the Golden Dragon**" this Office does not
+reckon. He is said to have wrought a **Gem** — a working, the catalogue insists, and not a stone —
+able to summon and command seven stars of some heathen sky; and, that labour done, to have
+"**ascended into the sky**," which the doctors of Mithra read as the eldest blasphemy a creature can
+commit: a man who made himself a god. Report gives his pupil vanished in the northern mists; report
+is this catalogue's whole substance, and the catalogue is a heathen's.
+*Verdict of the Office:* BLASPHEMER OF THE FIRST MAGNITUDE, and of the first *kind* — not a man who
+knelt to a false god but a man who *decreed himself* one; ANATHEMA upon the name, though the name
+predates the Office, the Empire, and the Church, and every court that might have tried it save the
+one that broke the world. The file is opened at the head of all guilt, and kept, on principle,
+without end.
+
+**XXII. Svelos** — an Adept; the Ancient Days. Set down in the same catalogue among the greatest of
+the sorcerer-lords: the Adept who, the heathen say, stood at Topramesk's side to drive back the
+demon **Gol Sauthaur** in the Demon Wars, and who bound his arts into a book the tellers call the
+**Iron Tome**. That he warred upon demons the Office does not doubt; that he did it as a self-made
+god it does not pardon, the *good* end of a blasphemer being the most dangerous kind. His pupil
+Taros follows.
+*Verdict of the Office:* BLASPHEMER OF THE FIRST MAGNITUDE; a defender of the world who held the
+world in a usurper's hand. ANATHEMA. The Office notes, and buries in the noting, that the age owes
+him a battle: a debt to a false god is discharged in his fall, never in his honour.
+
+**XXIII. Taros** — pupil of Svelos; the Ancient Days. Of him the catalogue keeps little but his
+master's name and a vault — the **Halls of Taros**, said to lie in the southern reach beneath a peak
+called **Ulmar**, where he laid up his works and his dead behind runes and the signs of ancient
+kings. The relic-hunters of the south pursue it yet; the Office pursues the relic-hunters.
+*Verdict of the Office:* BLASPHEMER, as his master and his master's whole breed; DISCIPLE, which in
+this matter is neither excuse nor mitigation. Watch entered upon his vault — and upon any examiner
+who is found to have developed an interest in its door.
+
+> ✒ **the Adept-hunter** · *3501* — I named forty of these and catalogued thirteen; the Office will file the few it can bear to believe in under *blasphemer*, which is the word a church keeps for a god it has outlived. Ört, Svelos, Taros — arch-heretics to the frater, thrones to me, and the same men to the sky, which took them up and asked no examiner's leave.
+
+> ⟡ **IN THE MARGIN (GM)** ⟡
+> *The frater files arch-blasphemers and does not see that two of them are worshipped on his own
+> Church's altars. **Ört di Xand** and **Svelos** are among the seven god-kings of the **Great Lie**
+> (→ `secret-the-great-lie.md`): the Adepts who broke the world, then seated themselves inside its
+> liturgy and are venerated in it yet, under names the friar's own colleagues bless on feast-days —
+> Topramesk of entry I being a third of that seven, already in the roll. "Ascended into the sky" is
+> exact; Ört took a stolen throne up there, as his peers did. **Taros**, Svelos's pupil, is of the
+> same breed, and his master's **Iron Tome** and the sealed vault under Ulmar are real instruments of
+> the theft. So the Office has pronounced anathema upon the faces on its own altars, and entered them
+> at the tail of the roll to spare the numbering — which is the whole Church in one gesture: it will
+> re-sort heaven sooner than its index.*
+
+**XXIV. King Teran X of Cartosa** — a tyrant of legend; the southern seas, the century disputed. The
+tavern-chronicles of Cartosa give a *King Teran, tenth of the name*, tyrant of the southern seas,
+who read an ancient chart to its edge and sailed south after the **Gem of Ört**, and was seen no
+more — which delivered his colony of him. The Office observes, for its examiners' comfort, that
+Cartosa crowned no kings: it kept governors, and then the princes of the house of **Carrillo**
+(entry VII), and no Teran stands anywhere in that line. A legend, then; but legends recruit, and
+this one sends living men south after an Adept's relic, which is why it is filed and not merely
+laughed at.
+*Verdict of the Office:* APOCRYPHAL; NO SUCH SOVEREIGN ATTESTED — struck from the regnal reckoning
+of Cartosa, in which he was never entered to begin with. Filed under *tales that send men to their
+deaths*, a drawer the Office keeps larger than it would wish.
+
+**XXV. Tarogald of Mileus** — a historian; the deep past. Author of the *De Daemonomachia*, the
+six-and-twenty books, the most of them lost, from which nearly all the Office now holds of the
+Adepts-as-persons is drawn. A pagan chronicler of a pagan age, whose sober account of the demon-wars
+the doctors credit, and whose reverence for the sorcerer-lords they do not. He is dead these ages
+and cannot be examined, which the Office counts, in a chronicler, among his merits.
+*Verdict of the Office:* HEATHEN; UNBAPTISED; and — the register sets it down with distaste —
+ACCURATE, a combination the Office finds more troubling than plain error. Cited as an authority;
+canonised as nothing.
+
+**XXVI. Loregar** — a treasure-hunter; lately, and not of the ancient roll but entered beside it. A
+dying seeker of the Halls of Taros, whose testament — a route, an **amulet** left with one **Belthan**
+at a temple of Ishtar, and a confession that he meant to go back and did not — passes among the
+relic-hunters of the south the way a map passes, which is to say fatally. The Office holds no charge
+against a man for dying poor and curious. It holds his leaf against everyone who reads it.
+*Verdict of the Office:* NEITHER PIOUS NOR IMPIOUS, BUT DANGEROUS TO OTHERS; the man beyond
+judgement, the leaf not. Suppression of the leaf ordered; the leaf, like every such, copied faster
+than it is burned.
+
 Here end the extracts. My successor will add names; the world does not stop minting them. Let him
 keep the files distinct, the verdicts dry, and the lowest shelf locked; and let him remember that
 our duty is not to admire the light of renown but to record what it consumes. Mithra keep the
@@ -870,5 +964,19 @@ Kamal's swallowed seed as a bud of the Tangle; Varg as a lesser echo of the Adep
 Kramer → M'Raker throughline). Figures attested in the logs but absent from the wider canon files
 (Fèl Fenor, the House of Ra, Alturia, the dragon Gildiss) are carried from the campaign stratum as
 given. **The figures, their deeds, and every date remain canon.**
+
+**Fragments addendum (Part One supplement, entries XXI–XXVI).** The Adepts **Ört di Xand** (the
+Fifth, "the Shadowed"), **Svelos**, and his pupil **Taros**; the demon **Gol Sauthaur**; the **Iron
+Tome**; the **Gem of Ört**; the **Halls of Taros** beneath the Peak of Ulmar; **King Teran X** of
+Cartosan legend; and the scholars **Tarogald of Mileus** (*De Daemonomachia*) and **Loregar** are
+drawn from `sources/raw/Fragments.pdf` (Fragments A and C). They are entered as a supplement, out of
+floruit-order, so that the existing numbering I–XX and five centuries of cross-references stay
+undisturbed; the Adepts receive the Office's harshest verdicts, and the Veiled Hand's new margin
+carries the Great-Lie truth (Ört and Svelos among the seven god-kings; Topramesk a third;
+"ascension" = a stolen throne in the sky) per `secret-the-great-lie.md`. **King Teran X** is staged
+as a Cartosan tall-tale, expressly not of the Carrillo line (entry VII), per the same source's
+disputed-legend decision. The **Adept-hunter** is a Band-V Fragment-scholar postil-hand per
+`HANDS-REGISTER.md`; **Loregar**'s marquee is placed in Chapter XII, not here. The source's
+game-mechanical matter is stripped.
 
 Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; the struck hand's corruption arc (entries in 06, 06b, XI) and Leonard's and Drusilde's notes are in-character and not canon.

@@ -34,7 +34,10 @@ salt.
 > wearing it — kept a treasury of artifacts from before the Maelstrom, each warded by a bound
 > **Marid**, the great djinn of the waters. Galleries hundreds of miles long ran beneath the
 > sea-bed between the twin crowns, cut by the mage-lords who hid there in the war that made the
-> Maelstrom. That was not "practising to be salt." That was a civilisation.*
+> Maelstrom. That was not "practising to be salt." That was a civilisation. And it wore a name
+> older than her Wheel: the eldest charters my house keeps do not write **Sadhir** at all, but
+> **Mandolia** — the whole southern land, salt and sand and the drowned sea between, under one old
+> word the scholars let fall and the ledgers kept.*
 
 **Then the Wheel turned, as it must, and the sea died.** Your annalists call it **the Great Drying**, and set it near the year 2400 after the Maelstrom. I will not
 tell you what caused it; I do not know, and the Rakhama'i are forbidden the comfort of inventing.
@@ -132,6 +135,45 @@ not dig for, and I commend our example to every relic-hunter reading this.
 > recruited, not born. The Oracle of the Brine Veil is its mouthpiece; and the salt that will not
 > release Al-Sidath and Al-Jabur is the desert holding its two oldest doors shut.*
 
+**And there are older doors than the sea's.** The relic-hunters of Nashifet keep a fever I will
+name and not feed, riddle-loving reader. In the very middle of the Shimmering Desert, in the deep
+south-east where even the hermit-crab folk step softly, stands a temple to **Jerbal** — a god so
+old the Wheel has forgotten which spoke was his — kept yet by a small monastic order who guard a
+thing older than their own god: a **manuscript from before the Maelstrom**, which the hunters swear
+names the hiding-places of the **four fragments of the Gem of Ört**. The Gem, they will tell you
+over their fires, was a jewel of the Adepts, or a working of theirs — the tellers cannot agree
+which — broken into four and scattered by the sorcerer who made it, that no single hand should ever
+hold the whole. And there is an elder rumour still, which no map I trust will carry: that somewhere
+in the southern reach, beneath a peak the old tongue calls **Ulmar**, lie the **Halls of Taros**, a
+vault of the Adepts sealed with the runes of dead kings, where one of that vanished breed laid up
+his works and his dead. My counsel is my order's: the Wheel offers every buried thing back to you
+in its turning, and charges nothing; what you dig for, you pay for twice. Leave the fragments in
+their four dark rooms. Leave Taros his door.
+
+> **[Yusuf al-Marrah objects.]** *The temple stands; I have taken a hunter's fee to point the way
+> to it, and taken a second, gladly, to refuse the last day's march myself. The monks of Jerbal
+> turn back every seeker with the same courtesy and the same locked door, and have done so longer
+> than my house has kept books — which is longer than her Sultanate, as I may have mentioned. As
+> for the Gem in its four pieces: I have carried strange cargo across this desert, and the one
+> freight I will not book is a map to an Adept's grave. The men who commission such maps do not
+> live to dispute the rate, and a scribe lives on disputes.*
+
+> ✒ **Loregar** · *(undated; the hand is unsteady)* — Whoever reads this and means the Halls of Taros: the amulet is with Belthan, at the Temple of Ishtar, and she gives it to whoever holds this leaf. Follow the Sign of Vor and press the seventh. I meant to go back. I did not.
+
+> ⟡ **IN THE MARGIN (GM)** ⟡
+> *The lore-keeper counsels well and guesses low. **Jerbal's** monks guard exactly what the hunters
+> say — a manuscript of the deep past — but its author was no mere sorcerer: **Ört di Xand**, the
+> Fifth of the Adepts and a god-king of the Great Lie (→ `secret-the-great-lie.md`), who ruled these
+> southern marches when the old texts still called them **Mandolia**, and who "ascended into the
+> sky" — the pious phrase for taking a stolen throne up there under a name not his own. The **Gem of
+> Ört** is not a jewel but his **ritual**, carved on a round stone tablet he broke into four — two
+> fragments hidden by Ört, two by his pupil — the manuscript at Jerbal's temple being the only map
+> to all four. The **Halls of Taros** are as real: the vault of **Taros**, pupil of the great Adept
+> **Svelos**, under the Peak of Ulmar, its door worked with the same runes that once adorned the
+> Crown of the Four Kings. Loregar's leaf above is a true sailing-direction into it — the amulet, the
+> Sign of Vor, the seventh stone. Everything the desert offers back it offers at a price; these doors
+> were shut by the very hands that broke the world.*
+
 **Now cross with me out of the salt, eastward and inland, into the second desert** — for the
 traveller must not confuse them, though both are thirsty. The **Great Erg** is sand, true sand, a
 dry sea that was never a wet one; and it is not ours — the Sultanate's writ fades where the salt
@@ -223,4 +265,11 @@ legends; Ulan-Tang; Mubafer). Margins per `canon/secret-the-great-lie.md` and th
 **[INVENTED]** flags: the **Deep Pearl** and its link to the Calling Depth (extrapolated from the
 gazetteer's "Spawn of the Deep Pearl" and "Calling Depth psychic lure"); the **Netunshiel
 tenancy** behind the Eternal Pharaohs; Harrun al-Marrah and the al-Marrah house. Present ≈ 3518 d.M.
+**Fragments addendum:** the temple of the forgotten god **Jerbal** and its manuscript-keeping order in
+the deep Shimmering Desert, the **four fragments of the Gem of Ört** as a relic-hunters' rumour, the
+**Halls of Taros** / **Peak of Ulmar** as a southern Adept-vault of legend, and **Mandolia** as the
+archaic name of the southern land are drawn from `sources/raw/Fragments.pdf` (Fragments A and C); the
+GM margin's identifications (Ört di Xand the Fifth Adept; the Gem as a broken ritual-tablet; Taros,
+pupil of Svelos; the Crown of the Four Kings) follow `secret-the-great-lie.md`. **Loregar** is a new
+Fragment-scholar postil-hand per `HANDS-REGISTER.md` (Band V), his marquee placed here verbatim.
 Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

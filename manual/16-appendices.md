@@ -30,6 +30,16 @@ since year 0), **the isolation** (the seal upon the world that broke at the Tide
 of the Tide** (the age we live in, named for the Bewitched Tide that opened it). *(The one who runs
 the world, and would set a table in some other year than mine, is directed to Appendix I.)*
 
+**Of the reckonings before the reckoning.** The Ancient Days kept calendars of their own, and the
+Great Fear swept nearly all of them into the same silence it swept the Adepts. One survives, in the
+deep-past texts the antiquaries quarrel over: dates given by **the Sun of the Golden Dragon** — as,
+*"the 624th year of the Sun of the Golden Dragon."* It is a **pre-Maelstrom era**, its zero unknown
+to me and its golden dragon I will not pretend to name (the reader who wishes it to be one of the
+Dragon-Gods is welcome to the guess, and to the argument that follows it). Where an old source dates
+itself so, understand only this: it speaks from *before* year 0, out of the world the Maelstrom
+ended, and no table of mine can carry it across the gap. I set it down because a chronicle that omits
+the calendars it cannot read is worse than one that admits them.
+
 ## Appendix B · The Year of Ymir
 
 One day is 24 hours (one dawn, eleven of day, one dusk, eleven of night). One month is 30 days;
@@ -100,6 +110,8 @@ Appendix H.*
   2160–2180; reigning yet, in the manner of Khorish · XII
 - **Azim-Mulath** · High Priest of Ulan-Tang; predecessor of Sazar-Gadash, who did not wait for
   him to resign · floruit unrecorded · XII
+- **Belthan** · keeper, at a temple of Ishtar, of the amulet to the Halls of Taros; she yields it,
+  the dying leaf swears, to whoever brings it · floruit unrecorded · XII, XIV·B
 - **de Cadenas, Federigo** · one of the ten Archmages of the Blue Mantles; head of House Cadenas ·
   fl. about the Year of the Black Sun · —
 - **Carrillo, Alberto V, called the Steady** · Prince of Cartosa; held the palace stair in the
@@ -111,6 +123,8 @@ Appendix H.*
   took its name at his death · fl. 1320, d. 1339 · IV, X
 - **de Contreras, Fernando Hidalgo** · Admiral and Grand Dragon of the Cartosan navy · fl. about
   the Year of the Black Sun · —
+- **Cresius** · a mage-antiquary of the deep past who dug up a buried stone against all counsel, and
+  was, ever after, another matter than the man who set out · floruit unrecorded · —
 - **the Crier** · broadsheet-man of Armora; the masthead is the only name he wears · writing at
   this binding · VII
 - **the Curator** · Magister-Compiler of the Crystal Seat · living, and busy · the small type
@@ -145,6 +159,8 @@ Appendix H.*
   better · fl. ~3025 · VII†, XIV·B
 - **the Lord of Oblivion** · sorcerer of the Aestyr Mountains; sealed in his own labyrinth — no
   kin to the axe of the same name (Appendix H) · floruit unrecorded · VIII, XV
+- **Loregar** · a treasure-hunter who died of the Halls of Taros without ever reaching them, and
+  left the road to them in a margin · floruit unrecorded; the hand is late and unsteady · XII, XIV·B
 - **Morannagul, the Eternal** · Emperor and Supreme Pontiff of the Elar; unified the Gaerwath in
   2550 and has ruled the nine hundred and sixty-eight years since · fl. 2550 – now · III, XI, XV
 
@@ -161,6 +177,9 @@ Appendix H.*
   binding · XII·B, XIII
 - **Obnubia** · a seer; deposed in the inquiries that followed the Ulan-Tang affair · fl. ~3026 ·
   XIV·B
+- **Ört di Xand, called the Shadowed** · the Fifth of the Adepts by the heathen catalogue; a
+  sorcerer-lord of old Mandolia who made a Gem and, they say, made himself a god · the Ancient Days,
+  before reckoning · XII†, XIV·B
 - **the Pilgrim of the Thundering Gate** · mendicant monk of the Path of the Enlightened; walked
   the six kingdoms · living at this binding · IX
 - **Pips Quondam** · Tal-Tanoth traveller; guide, and dealer in goods of variable legality ·
@@ -175,8 +194,17 @@ Appendix H.*
   the register admits it on the elves' insistence · floruit: not yet · XI, XV
 - **Surya** · bearer of the Masamune in the War of the Machines (for the blade, Appendix H) ·
   fl. ~3025 · XIV·B
+- **Svelos** · an Adept of the deep past; stood with Topramesk against the demon Gol Sauthaur, and
+  bound his arts into the Iron Tome · the Ancient Days · XII†, XIV·B
+- **Tarogald of Mileus** · historian of the deep past; author of the *De Daemonomachia*, whence the
+  Office draws its Adepts · floruit unrecorded, and long before the Office that cites him · XIV·B
+- **Taros** · pupil of Svelos; the Halls of Taros beneath the Peak of Ulmar are said to be his
+  vault · the Ancient Days · XII, XIV·B
 - **Teodabir, Fra'** · torch-priest of Hokhmah, of the Brotherhood of the Torch at Armora; the
   collector of gods · living at this binding · II
+- **Teran, King, tenth of the name** · tyrant of Cartosan legend who sailed south after the Gem of
+  Ört and vanished; no prince of the Carrillo line, and in no roll but the taverns' · floruit
+  disputed, if he had one at all · V, X, XIV·B
 - **Tobias** · mage; captain of the Black Dawn in the Year of the Black Sun · fl. 3017 · X†, XIV·B
 - **Tofango** · the greatest axeman of his age; bearer of Oblivion; ended a hermit on a nameless
   peak · fl. the Tide's years · III, XV
@@ -239,7 +267,10 @@ an unbroken reign), **HIS-4** (Alberto V crowned 3017), **HIS-5 = B** (the two T
 nameless), **HIS-13** (Oblivion is Tofango's). **[INVENTED]**: the floruit phrasings where canon
 gives no dates (Aslund, Azim-Mulath, Mubafer, Nemelatekh, Saint Dwayne, Mugraash, the Crier's
 dynasts); the filing conceits and the Curator's asides; the epithet "the Steady" is Chapter X's.
-The three one-word margins are the Veiled Hand's, and are GM-only.
+The three one-word margins are the Veiled Hand's, and are GM-only. **Fragments addendum:** **Ört di
+Xand**, **Svelos**, **Taros**, **King Teran X**, **Tarogald of Mileus**, **Loregar**, **Cresius**,
+and **Belthan** are drawn from `sources/raw/Fragments.pdf` (Fragments A–D), one dry line each — Teran
+and Cresius among the souls the narrators dispute or omit, and so filed with the long dash where owed.
 
 ## Appendix E · Small Glossary of Terms the Narrators Assume
 
@@ -253,11 +284,15 @@ age · **Channeler** (*Usufruitore*) — any wielder of magic, in the law's cold
 **Crystal Seat** (*Seggio di Cristallo*) — the Council of Peoples' hall at Elendor, where this
 book was bound · **Essence** (*Essenza*) — the raw stuff of magic; called *mana* by the vulgar ·
 **Flow** (*Flusso*) — the divine realm of magic, the priests' channel · **Maelstrom** — the
-standing storm at the world's heart, over drowned Ragash · **Marked** (*Marchiati*) — those the
+standing storm at the world's heart, over drowned Ragash · **Mandolia** — the archaic name, in the
+deep-past texts, of the whole southern land (the Sadhir and Ophiur together); the ground the Adept
+Ört di Xand is said to have ruled · **Marked** (*Marchiati*) — those the
 Maelstrom marks in the womb · **Mentalism** (*Mentalismo*) — the mind's realm of magic ·
 **Nath** — the three tiers of Names into which the Dark-Elf aristocracy (the Elar) is gathered ·
 **Relics / Magic Runes** (*Reliquie / Rune Magiche*) — the six seals and the four sealed works of
-the Adepts, whose opening ended the old world's quiet · **Sovereign Demons** (*Demoni Sovrani*) —
+the Adepts, whose opening ended the old world's quiet · **the Seven Stars** (of the Sky of Destiny) — the seven
+powers — Enchantment, Gifts, Life, Death, the Divine World, Mind, and Dominion — that the Gem of Ört
+is said to summon and command; for the Gem, Appendix H · **Sovereign Demons** (*Demoni Sovrani*) —
 the great demons; most now dead; three walk · **True Ways** (*Vere Vie*) — the portal-roads,
 closed for an age and open again.
 
@@ -420,6 +455,26 @@ the hundred titled books that circulate with opinions of their own — the catal
 itself, and in fact several; the makers (Kellar, Droan, Tshot, Urkhramest the Devout, and their
 kind) survive chiefly as possessive cases, and I have let them rest there.*
 
+**v · The instruments of the Adepts** *(lately entered, from the heathen catalogue the Office would
+not keep and I would)*
+
+| The thing | What it is | Last credibly seen |
+|---|---|---|
+| **The Gem of Ört**, and the **Seven Stars of the Sky of Destiny** | not a jewel but a *working* of the Adept Ört di Xand — a ritual that summons and commands seven powers (Enchantment, Gifts, Life, Death, the Divine World, Mind, Dominion); carved, the catalogue says, on a round tablet Ört broke into four | nowhere whole. The tablet's four fragments were hidden — two by Ört, two by his pupil — and mapped in a single manuscript at Jerbal's temple in the Sadhir (Chapter XII). Many have sought it; the catalogue names none who found it, and I decline to be the first name it wants. |
+| **The Iron Tome** (*Tomo di Ferro*) | the book of the Adept Svelos, wherein he set down his arts | no account I would underwrite. A book that old is likelier ash than shelf; the tellers put it, hopefully, in the Halls of Taros beside its author's pupil. |
+| **The Crown of the Four Kings** | an ancient regalia said to have borne the Runes of Power, graven with the runes of the Four Kings — whence, the tale runs, the Runes of the treatise (sub-table i) take their very form | no account. Whether it is a true elder crown or a story grown up around the four Runes, the register cannot say, and, characteristically, says so. |
+| **The amulet of the Halls of Taros** | a small key-charm that opens the vault of Taros beneath the Peak of Ulmar; set in the socket at the Stele of the Martyr and turned a half-turn to the right | with one **Belthan**, at a temple of Ishtar, per the dying leaf of the hunter Loregar (Chapter XII; and the register of persons); given, that leaf swears, to whoever brings it. I have not sent for it. You may. |
+
+> ⟡ **IN THE MARGIN (GM)** ⟡
+> *These four are the Fragments-catalogue's true prizes, and, unlike most of this register, they are
+> not scattered by mere accident. The **Gem of Ört** is the ritual that evokes the Seven Stars; its
+> tablet's four fragments and their locating manuscript are the whole of the treasure-hunt, and the
+> manuscript sits at Jerbal's temple (Ch. XII). The **Crown of the Four Kings** is the soft answer to
+> a question Chapter III left open: the four Runes of Power were once set in it, which is why the
+> Stele of the Martyr wears "the runes that adorned the Crown of the Kings of ancient times." The
+> **amulet** and Loregar's route (the Sign of Vor, the seventh stone) are a working mechanism — open
+> that door at your table only knowing whose vault it is.*
+
 ---
 *Colophon (Appendix H).* The register of instruments and materials, by the Curator. Drawn from
 `canon/magic.md` (the six Relics and four Runes at Xanadu — **BAT-1 = A**, **BAT-3**; the Door of
@@ -435,7 +490,12 @@ the Letian reliquary (Saralis), the unnamed queen (Natharien), the dwarves' sols
 (Oedring), the Sword of Valdis's translation to Solanthya, the resting-places of Hellion, the
 Dark Avenger, and Mornlosse, the Sea Dragons' vault (Wave-Breaker and the Bulusture plate), the
 two purchased forgeries, and the entire fourth table's natures and sightings save Bulusture's
-water-corruption (canon). The margin's remark on the axe is a deliberate open GM hook.
+water-corruption (canon). The margin's remark on the axe is a deliberate open GM hook. **Fragments
+addendum:** sub-table **v** — the **Gem of Ört** / **Seven Stars**, the **Iron Tome**, the **Crown of
+the Four Kings**, and the **Halls-of-Taros amulet** — is drawn from `sources/raw/Fragments.pdf`
+(Fragments A and C); the Crown's soft-tie to the four Runes follows `secret-the-great-lie.md` (paying
+a second of Chapter III's dangling debts), and the sub-table's GM margin routes the hidden matter.
+The source's game-mechanical numbering is stripped.
 
 ## Appendix I · Doors into Ymir *(GM only)*
 
@@ -738,7 +798,7 @@ twice.
 |---|---|---|
 | ‡ | **Yusuf al-Marrah** of Tuleph | small, furious, dated; corrects the desert chapters and threatens to correct more |
 | ⟐ | **Drusilde**, Directress of the Seventh Circle | a fine viridian hand that annotates her own chapter — and, in one place, **stops mid-word**, and does not go on, and no one will say why |
-| ⊕ | **the Adept-hunter** | a cramped umber hand; an old scholar who catalogued the Adepti and looked too long; right on his facts and reaching in his conclusions |
+| ⊕ | **the Adept-hunter** | a cramped umber hand; an old scholar who catalogued the Adepts and looked too long; right on his facts and reaching in his conclusions |
 | ⌖ | **Loregar** | an unsteady hand that left, in one margin, the road to a buried hall and the name of the friend who keeps its key; a treasure-hunter, and out of time |
 | ✒ | **the many** | tax-clerks, midwives, oar-men, pilgrims, slave-children, a soldier before a battle, a child who later owned a copy — the commonplace ink, undyed and mostly nameless, in which the greater part of any real book is written |
 
@@ -751,6 +811,10 @@ from `canon/calendar.md`, `canon/history.md`, `canon/economy.md`, `canon/cosmolo
 `canon/magic.md` (Appendix G: the substances of `sources/raw/Additions.md`), and the decisions
 log in `conflicts.md` (HIS-1, META-2, META-5, COS-6/13, COS-22). Appendix L (the table of hands)
 draws on `HANDS-REGISTER.md`; the postils it indexes are **[INVENTED]** reader-voices, in-character
-and not canon unless independently attested. Appendices D, F, H, I, and J carry their own colophons
+and not canon unless independently attested. **Fragments addendum:** the **Sun of the Golden Dragon**
+pre-Maelstrom reckoning (Appendix A) and the glossary terms **Mandolia** and **the Seven Stars**
+(Appendix E) are drawn from `sources/raw/Fragments.pdf` (Fragment A); the archaic era is adopted as
+deep-past, its link to the Dragon-Gods left deliberately vague per the approved default. Appendices
+D, F, H, I, and J carry their own colophons
 above. Re-lettering note: the glossary (formerly D) is now E; the herbs (formerly E) are now G; the
 book's-making note (formerly F) is now K; the table of hands (L) is new with the Postils edition.

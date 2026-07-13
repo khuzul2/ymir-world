@@ -203,7 +203,12 @@ a theology of banishment, and much that you fear in them follows from it. (Their
 servants, also called *Valrin* — the god's Forces, sworn to his war — I defer to the foot of
 this chapter, where such beings belong.) — In the deserts of the **Sadhir** the Sarradhi, Those
 Who Walk the Cycle, keep the creed of the **Wheel of Life**: the eternal return of souls, with
-priestess and sultana one office, for the Wheel does not distinguish the realm from the rite. —
+priestess and sultana one office, for the Wheel does not distinguish the realm from the rite. — And deeper in that same Sadhir,
+past where the Wheel's processions turn, a last few monks still keep the offices of **Jerbal**, a
+god so forgotten that his own celebrants cannot tell me what he was lord of; theirs is the only
+temple in forty-one that sent me away, courteously, without an answer — for they guard a book older
+than the Maelstrom that they will show to no collector, and a god remembered chiefly by his
+locksmiths is a melancholy entry even for me. —
 And in the far forests the **Nkishi** *Bokkor* serve the ancestor-spirits and the dark forest
 gods, the **Orisha**, fiercest among them the **Mayombe** — a faith without temples, which
 taught me more about reverence than several faiths with very good ones.
@@ -283,6 +288,9 @@ his), **COS-20** (the Lesser Gods taxonomy; neutral gods the Inclusivist/Popular
 connective tissue: Teodabir's biography, Concordance, and "forty-one temples"; the Thal'Khal
 identification staged as his own finding (the equation is canon); his Tezcatlipoca speculation
 (canon maps that god to no common deity); the Inclusivist/Popular quarrel framed as younger
-than the Armorite rupture; the lapsed night processions; the Seamark midwife. Postils: the
+than the Armorite rupture; the lapsed night processions; the Seamark midwife. **Fragments addendum:** the forgotten desert god
+**Jerbal** and his manuscript-keeping monks are drawn from `sources/raw/Fragments.pdf` (Fragment A);
+the friar reports the cult and its unshowable book without knowing either is an Adept-relic — the
+deeper matter is left to Chapter XII and the margins there. Postils: the
 marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character
 and not canon unless independently attested.

@@ -60,6 +60,10 @@ Know this first, landsman: **Ymir is a ball.** Sailors have known it since the f
 
 **Thirtieth of Tortoise. Home.** Raised the **Sierra Plata** at dawn, the Twin Coasts by noon; half the ring behind us. Refit at Cartosa; the crew paid enough to become a civic problem. Men ask why I do not take the **gates** — the **True Ways**, the old portals, open again since the Tide: step through at Armora and be in the east before your pipe goes out. Three answers. The toll would buy my ship twice; a hold of hides does not fit through a doorway politely; and I have heard what came *out* of gates in my great-grandfather's day. **Gates are for the rich; the sea is for honest men.**
 
+Ashore for the refit an old yard-tale went round, as one does when Cartosans have money and rum together: **King Teran, tenth of the name**, that the tellers style *tyrant of the southern seas*, in a century no honest chronicle will fix. He read some ancient chart down to its last inch and sailed south past the end of it, hunting a jewel of the Adepts the tale calls **the Gem of Ört** — and was never raised again, which rid Cartosa of him and gave the taverns a song. Now, I have myself sailed south past the last of the chart. There is nothing down there that gives a man a jewel; there is only the thing that takes the ship. Whether Teran ever wore a crown I leave to the heralds, who deny him one loudly and to a man. But the sea keeps his account open, and the sea has been right about worse.
+
+> ✒ **a chart-clerk of Portejo** · *3527* — I set out once to fix King Teran in the Carrillo rolls, for a wager, and lost the wager: he is in no roll, no charter, no tax-list, and a prince who paid no tithe never lived in Cartosa. Yet three bilge-songs give his end the same latitude, and it is a latitude I would not sail on a bet twice the first. Some men the archives lose; some men the archives never had; and the sea, which keeps no archive, remembers both alike.
+
 **Eleventh of Griffon, 3516. East away; wind fair.** The **Silver Isles**, green and silver, and **Elendor** of the **Little Folk**, the prettiest harbour on the ring. Above the town stands the **Crystal Seat** — where the Council of Peoples sits — a building like weather persuaded to stop. Every people's flag flies somewhere in that road. The little folk victual you honestly and cheat at dice in ways no marked deck accounts for; I lost four doubloons and my bosun's hat, and count both well spent.
 
 > *Curator's note.* In that hall this Compendium was gathered. The reader stands, so to speak, at
@@ -128,5 +132,8 @@ seal's scar; the Dreamlands veil; the demon-continent and the three Sovereigns).
 **GEO-9** (Meridian an island-republic, in passing), **GEO-10** (the Great Erg / Sadhir distinct),
 **META-2** (region-specific currencies). [INVENTED]: the brigantine *La Bendata*, her crew,
 itinerary, dates, distances, sketches; **Sathe** as the Erg's caravan port (canon map-label,
-gap-fill role); the by-name *the Maw* (the sailors' *il Gorgo*); all weather.
+gap-fill role); the by-name *the Maw* (the sailors' *il Gorgo*); all weather. **Fragments addendum:** the yard-tale of
+**King Teran X**, the vanished tyrant who sailed south after the **Gem of Ört**, is drawn from
+`sources/raw/Fragments.pdf` (Fragment A) and staged as a disputed Cartosan legend — expressly not a
+prince of the Carrillo line (see Chapters X and XIV·B); the chart-clerk's postil is [INVENTED].
 Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.
