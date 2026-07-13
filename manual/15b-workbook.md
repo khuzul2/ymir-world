@@ -230,6 +230,37 @@ older oath. *Stakes:* what the drowned kingdoms were sealed against. Or sealed *
 *Complication:* everything the desert takes it keeps, and offers back at a price, in the voice of
 something you loved. The lore-keeper was not being lyrical.
 
+**The four fragments.** *Situation:* the greatest lost working of the Adepts, the **Gem of Ört**, was
+never a jewel but a **ritual**, cut on a stone tablet its maker broke into **four fragments** and
+scattered — two he trusted to his pupil **Valamor** to hide, two he hid himself before he "ascended
+into the sky." The one thing that maps all four is a single **manuscript**, and it has surfaced:
+kept, the desert says, by a forgotten monastic order at the **temple of Jerbal**, in the deep of the
+Shimmering Desert. *Faces:* the last monk of a god no one prays to, who will read the manuscript to a
+pilgrim but not part with it; a Nashifet relic-broker already selling the temple's location; a
+southern prince or archmage bankrolling the hunt, who wants the Seven Stars and does not care what a
+whole Gem would cost the world. *Stakes:* whoever gathers all four fragments and works the ritual can
+summon and command the **Seven Stars of the Sky of Destiny** — enchantment, gift, life, death, the
+divine, mind, and dominion. Kings have sailed south after it for an age and not come home.
+*Complication:* the manuscript maps four hiding-places; it does not promise four fragments still lie
+in them. Ört broke the tablet so no one hand should hold the whole — and something has been keeping
+the count for him.
+
+**The Halls of Taros.** *Situation:* a dying treasure-hunter's diary has reached your table with a
+route drawn on it: from the south slope of the **Peak of Ulmar**, half a day north-east to the Plain
+of the Stelae, and the **Stele of the Martyr**, which bears the old **Runes of Power** that once
+adorned the Crown of the Kings. Set the right **amulet** in the circle at its base, among the signs
+of the **Four Kings**, turn it a half-turn to the right, and the way opens down into the **Crypts of
+Audin**, beneath the **Halls of Taros** — the vault of Taros, pupil of the great Adept **Svelos**.
+*Faces:* **Belthan**, keeper of the amulet at the **Temple of Ishtar**, who gives it to whoever holds
+the diary and to no one else; a rival company that has the route but not the amulet; whatever has
+kept the Halls since their maker died. *Stakes:* the sealed tomb-vault of an Adept's own pupil,
+opened by no one since the deep past — which is either the finest reason to go down or the finest
+reason not to. *Complication:* the diarist warns of one particular trap, which he read of in the
+**Imperial Library of Valentia** and died before he could name; follow the **Sign of Vor** through
+the crypts and press the seventh stone, and pray he was not the trap's first and last reader.
+
+> ✒ **Loregar** · *(undated; the hand is unsteady)* — Whoever reads this and means the Halls of Taros: the amulet is with Belthan, at the Temple of Ishtar, and she gives it to whoever holds this leaf. Follow the Sign of Vor and press the seventh. I meant to go back. I did not.
+
 ### THE DOUBLE LEAF · ULAN-TANG
 
 The Curator's reviewers refused this town a chapter, and they were right: readers do not need it.
@@ -412,6 +443,15 @@ Shulma's rumour; the Nemyel ledger; the scaffolds at beacon-height; the Oracle a
 the claimant at Khorish; the Tuleph dig; Ulan-Tang's turned instruments, lot-numbers, and
 succession plot; the honest map and its receipts; the Garden's seed-price; the Storm's circling
 and Horatli's purchases; the missing sounding-report; the chartered survey; the Curator's quiet
-investigation of Chapter XV; the accepted "situation"; the unfixed mountain. The ground beneath
+investigation of Chapter XV; the accepted “situation”; the unfixed mountain. The three
+Fragments seeds — **the warning stele** (§5), and **the four fragments of the Gem of Ört** and **the
+Halls of Taros** (§7), with Loregar's marginal route — are drawn from `sources/raw/Fragments.pdf`
+(its four in-world "Fragment" documents); their ground — the Gem as a ritual broken into four
+fragments, Ört and his pupil **Valamor**, the locating-manuscript at the **temple of Jerbal** in the
+Shimmering Desert, the **Peak of Ulmar** / **Crypts of Audin** / **Halls of Taros** and **Taros**
+pupil of **Svelos**, **Belthan** and the amulet at the **Temple of Ishtar**, the **Sign of Vor**, the
+trap at the **Imperial Library of Valentia**, and **Ea's** warning stele and buried prison — is the
+source's; their situating in the calm-year south (**D5**), the named faces, and every trigger are
+**[INVENTED]**. The ground beneath
 every one — the places, powers, prisoners, and prices — is canon as cited. Present ≈ 3518 d.M.,
 except where tagged. Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.
