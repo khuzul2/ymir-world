@@ -28,6 +28,48 @@
 - **The two unnamed adventurers** — who used the six Divine Relics to break the seals
   and open the **Era della Marea** (Year 0). Their identities are an open canon hook.
 
+## The Adepti & the scholars of the Fragments (deep past) `[CANON — source: sources/raw/Fragments.pdf]`
+Named figures from the "Fragments" — the mortal-scholar catalogue of the Adepti (→
+`secret-the-great-lie.md`). The Adepti here are the **usurper god-kings of the Great Lie**; the
+scholars are the later voices who catalogued them.
+
+- **Ört di Xand, "the Shadowed" (l'Adombrato)** `[CANON — decision FRAG-2; Fragment A]` — the
+  **Fifth Adept**, one of the **seven god-kings**; touchy-tempered, ruled south-east **Mandolia**
+  (Sadhir/Ophiur → `geography.md`). Author of the **Gem of Ört** ritual (→ `items.md`); broke its
+  tablet into four fragments, hid them, and "**ascended into the sky**" (took godhood →
+  `secret-the-great-lie.md`).
+- **Svelos** `[CANON — Fragment C]` — a **great Adept**, famed for helping **Topramesk drive back
+  the demon Gol Sauthaur** in the Demon Wars and for writing the **Iron Tome (Tomo di Ferro)** (→
+  `history.md`, `items.md`, `bestiary.md`).
+- **Valamor of the Aleth-thaar dynasty** `[CANON — Fragment A]` — **pupil of Ört**; entrusted with
+  two of the four tablet-fragments; **vanished in the misty far North** "in the 624th year of the
+  Sun of the Golden Dragon" (→ `calendar.md`).
+- **Taros** `[CANON — Fragment C]` — **pupil of Svelos**; the deep-south **Halls of Taros** are
+  named for him (→ `geography.md`). `[INFERRED]` Possibly the same **Taros "the great charmer"**
+  recorded in `items.md`'s makers-checklist, or a namesake — left open.
+- **King Teran X of Cartosa** `[CANON — decision FRAG-6/D6; Fragment A]` — "**tyrant of the
+  southern seas**," who sailed south on an old map to find the Gem of Ört and **vanished** (his
+  disappearance freeing Cartosa of his tyranny). Treated as a **legendary / apocryphal early
+  tyrant** whose very existence **Cartosan chroniclers dispute** (fitting the south's love of tall
+  tales). **Deliberately NOT slotted into the Carrillo princely line** — canon Cartosa is a Letian
+  colony → Principality of governors then Carrillo princes, with **no kings** (→ the Carrillo
+  section below; decision FRAG-6). A tall-tale ancestor-tyrant, not a historical prince.
+- **Tarogald of Mileus** `[CANON — Fragment A]` — the historian, author of *De Daemonomachia* (26
+  books, most lost), chief record of the Adepti's Gem against the Void-demons. → `items.md`,
+  `geography.md` (Mileus).
+- **Zarog lo Stifeo** `[CANON — Fragment A]` — a scholar who claimed the Gem of Ört passed to the
+  treasury of **Hasl'Aret** (none was ever found there).
+- **Cresius** `[CANON — Fragment B]` — a **mage-antiquarian** who answered the sealed **Ea's** call
+  across space and time, unsealed his tomb-stone, and was **possessed** — Ea took his body and
+  trapped his soul in the stone (→ `history.md`, `bestiary.md`). The cautionary scholar who ignored
+  the warning stele.
+- **Loregar** `[CANON — Fragment C]` — the **dying diarist** whose *Diary of Loregar* maps the route
+  to the Halls of Taros; he left the keying **amulet** with Belthan for whoever brings his diary.
+  → `items.md`.
+- **Belthan** `[CANON — Fragment C]` — Loregar's old friend, **keeper of the Halls-of-Taros amulet
+  at the Temple of Ishtar**, charged to give it to whoever presents Loregar's diary. → `items.md`,
+  `pantheon.md` (Ishtar).
+
 ## The house of Carrillo & Cartosan notables `[CANON — Cartosa Guida]`
 - **Rodriguez Carrillo XIII** — reigning **Prince of Cartosa**.
 - **Alberto Carrillo V** — heir to the throne; took the throne in the Anno del Sole

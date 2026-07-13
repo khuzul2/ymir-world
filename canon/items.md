@@ -134,10 +134,77 @@ theorist), **J-Ckva'Nce** (the *Grande Compendio delle Arti Magiche*; a
 Xebechani-register name), **Dreyfus il Sadhirita**, **Tara Mandika Ratnam** (*Amare e
 Legare*; plausibly the PC Tara, the deposed Ophirite princess), **Mugraash lo skrifano**.
 
+## Relics & writings of the Adepti (the Fragments) `[CANON — source: sources/raw/Fragments.pdf]`
+Deep-past artefacts and in-world books surfaced by the four "Fragments" leaves (the named-Adepti
+catalogue → `secret-the-great-lie.md`, `characters.md`). Rolemaster mechanics stripped
+(META-4/META-7); the flavour is kept.
+
+- **The Gem of Ört / the Seven Stars of the Sky of Destiny** `[CANON — decision FRAG-2; Fragment A]`
+  — the **signature working of Ört di Xand, the Fifth Adept**. Its bearer can **summon and command
+  the Seven Stars of the Sky of Destiny** — the Stars of **Enchantment, Gifts, Life, Death, the
+  Divine World, Mind, and Dominion**. The catalogue-scholar's conclusion, treated as
+  canon: **the "Gem" is not an object but a ritual** — a working that gathers energy to evoke the
+  seven Stars into a gem-like focus. The Adepti used it to break the demon-armies pouring from the
+  **Void** in the Demon Wars (per Tarogald's *De Daemonomachia*, below).
+  - **The four tablet-fragments.** The ritual is carved on **a round stone tablet Ört broke into
+    four fragments**: two he gave his pupil **Valamor** to hide, two he hid himself, before he
+    "ascended into the sky." `[INFERRED]` Reuniting the four is the implied precondition to working
+    the ritual — a ready four-part treasure hunt.
+  - **The locating-manuscript.** Before ascending, Ört left **a manuscript recording where all four
+    fragments lie**, entrusted to the monastic order of the far Sadhir — **the temple of the
+    forgotten god Jerbal**, in the Shimmering Desert (SE Sadhir; → `pantheon.md`, `geography.md`).
+  - **Later fate `[CANON — Fragment A]`.** Unknown. **Zarog lo Stifeo** claimed the Gem passed to
+    the royal **treasury of Hasl'Aret** (the source's *Hasl'Af*, normalised — decision FRAG-7), but
+    none was ever found there; the legendary tyrant **King Teran X of Cartosa** sailed south on an
+    old map to seek it and vanished (→ `characters.md`). Many have sought it; none have succeeded.
+
+- **The Iron Tome (Tomo di Ferro)** `[CANON — Fragment C]` — the great work of the Adept **Svelos**,
+  set down after he helped **Topramesk drive back the demon Gol Sauthaur** in the Demon Wars (→
+  `history.md`, `bestiary.md`). Demon-war lore of the Adepti; contents otherwise unrecorded.
+
+- **The Crown of the Four Kings** `[CANON — decision FRAG-4/D4; Fragment C]` — an ancient regalia of
+  "**the Kings of old times**," which the sources say bore the **Runes of Power** (the four **Rune
+  del Potere / Rune Magiche**, → `magic.md`) that also mark the **Stele of the Martyr** in the Plain
+  of the Stelae. **Soft tie (do not over-commit):** the four Runes were **once set in this Crown**
+  before they were sealed — enriching the Runes' backstory without contradicting canon (the Runes
+  remain the Adepti anti-demon weapons unsealed at the Tide by the six Reliquie). The **"symbols of
+  the Four Kings"** recur at the base of the Stele as a lock-motif. `[INFERRED]` Whether the Crown
+  itself survives is open — only its Runes are attested downstream.
+
+- **The Halls-of-Taros amulet** `[CANON — Fragment C]` — a keying **amulet** that opens the way into
+  the **Crypts of Audin beneath the Halls of Taros** (→ `geography.md`): set into the circle at the
+  base of the **Stele of the Martyr** and given a half-turn to the right, it drops a passage down
+  into the crypts (thence the stones bearing the **Sign of Vor** — press the seventh). The dying
+  diarist **Loregar** left the amulet with **Belthan**, an old friend, at the **Temple of Ishtar**,
+  to be handed to whoever presents his diary (→ `characters.md`). `[INFERRED]` Amulet and diary are
+  a matched key-and-map pair; neither works without the other.
+
+- **Ea's warning stele** `[CANON — Fragment B]` — the **warning stele** raised over the buried stone
+  that sealed the demon **Ea**, foretelling doom should the tomb be disturbed (→ `history.md`,
+  `bestiary.md`). The classic ignored curse: the antiquary **Cresius** disturbed the stone anyway
+  and was possessed.
+
+### In-world books of the Fragments `[CANON — Fragments.pdf]`
+Additions to the ~100-book in-world library (→ the *Scritti e Pergamene* section above):
+- **De Daemonomachia** — the history of the demon-wars by **Tarogald of Mileus**, a work of **26
+  books, most now lost**; the chief source for the Adepti's use of the **Gem of Ört** against the
+  Void-demons. → `characters.md`
+- **The Diary of Loregar** — the dying diarist's transcribed **treasure-route to the Halls of
+  Taros** (the Peak of Ulmar → the Plain of the Stelae → the Crypts of Audin), naming the amulet,
+  the Four Kings' symbols, and the Sign of Vor; it warns of a particular trap Loregar read of in
+  the **Imperial Library of Valentia** (→ `geography.md`). → `characters.md`
+- **The Iron Tome (Tomo di Ferro)** — Svelos's work, catalogued above.
+
+`[NOTE]` The makers-checklist "**Taros** (the great charmer)" above may be **this same Taros** —
+the pupil of Svelos for whom the Halls are named — or a distinct namesake; left as an open identity.
+
 ---
 ### Open questions
 - **The three demon lieutenants** of the demon-forged triad are unnamed — bestiary/history
   hook.
+- **The Gem of Ört's four fragments** and its locating-manuscript at Jerbal's temple are a live
+  treasure-hunt seed; where the fragments actually lie is deliberately unfixed. → `characters.md`,
+  `geography.md`.
 - **Where is Tessionde?** (And HARV-9: which War of the Waves do the elemental arms belong
   to?)
 - The **"Elemental Lords were still mortal"** reading in the Sangue Elementale lore is

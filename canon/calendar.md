@@ -47,6 +47,15 @@ Maelstrom*)** for dates (drop the "EM = d.M. − 3025" numeric offset). The age 
 (~3025–3027) → Nuova Era del Caos (3026–3260) → Nuovo Equilibrio (3260–~3518)**; the
 **manual's present ≈ 3518 d.M.** → `history.md`. → `history.md`.
 
+`[CANON — decision FRAG-3/D3; source: sources/raw/Fragments.pdf, Fragment A]` **Archaic
+deep-past reckoning — "il Sole del Drago d'Oro" (the Sun of the Golden Dragon).** Old texts date
+events from before the Maelstrom by the **Sun of the Golden Dragon** — the reckoning of the
+**pre-Maelstrom / Adepti era** (e.g. the Adept-pupil Valamor vanished "in the **624th year of the
+Sun of the Golden Dragon**"). It is the archaic counterpart to **d.M.** for deep-past dates, long
+predating Year 0. `[INFERRED]` Its link to the **Dragon-Gods** (or a specific golden dragon such as
+Gwalgamaur "il Dorato") is **left deliberately vague** — the name is old and its origin unrecorded.
+→ `history.md` (the Reign of the Adepti), `secret-the-great-lie.md`.
+
 `[CONFLICT]` The Cartosa gazetteer once spells the world "**Yimir**" and elsewhere
 "**Ymir**"; the Player Guide also has one "Yimir". Treating **Ymir** as canonical
 spelling. Logged for the ledger.

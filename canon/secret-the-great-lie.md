@@ -126,6 +126,42 @@ handling of Outer-God power) is precisely what **tore the seal and let the demon
 The **Corrupted Essence** and the **Piano del Caos** are likewise one thing under two names
 (the Plane of Chaos = the realm of Corrupted Essence — see COS-3).
 
+## The named Adepti — the seven god-kings behind the masks `[CANON — decision FRAG-2/D2; source: sources/raw/Fragments.pdf, Fragment A]`
+The four in-world leaves called the **"Fragments"** (`sources/raw/Fragments.pdf`) are a mortal
+scholar's numbered **catalogue of the Adepti as named individuals** — the first source to give the
+usurper-"gods" faces, tempers, dynasties, and personal histories. Read against this file, they
+resolve the Adepti from a faceless cabal into persons.
+
+- **The frame `[CANON — decision FRAG-2/D2]`:** the named Adepti of the catalogue **are the seven
+  god-kings of the Great Lie** — the Adepti-usurpers who took the **sealed Old / Ancient Gods'**
+  thrones and names and had themselves worshipped as sky-gods. **Topramesk il Giallo** (who worked
+  the final Catastrophe ritual, above) is **among the seven**; the catalogue *numbers* them, and
+  **Ört di Xand is the Fifth**.
+- **"Ascended into the sky" = took godhood `[INFERRED — FRAG-2/D2]`.** Where the pious catalogue
+  says an Adept "**ascended into the sky**," the secret reading is that he **became one of the false
+  sky-gods** — stepped into a sealed elder power's throne. Reconciling this with the Catastrophe:
+  the **seven who worked the *final* ritual at Ragash died** there; **others "ascended" — took
+  godhood — earlier.** `[CONFLICT — left open]` Exactly which named Adepti died in the ritual and
+  which ascended before it is **not forced** here; the overlap is an in-world uncertainty. What is
+  firm is the *frame*: **the named Adepti are the god-kings wearing the masks.**
+- **Ört di Xand, "the Shadowed" (l'Adombrato) — the Fifth Adept `[CANON — Fragment A]`.** Touchy of
+  temper; **ruled the south-east of Mandolia** (the archaic name of the southern landmass — the
+  **Sadhir** and **Ophiur**; → `geography.md`, decision FRAG-7). His **signature working is the
+  *Gem of Ört*** — an Adept's characteristic magic, and (the catalogue's scholar concludes) **a
+  ritual, not an object** (full entry → `items.md`). His pupil
+  **Valamor, of the Aleth-thaar dynasty**, vanished in the misty far North "**in the 624th year of
+  the Sun of the Golden Dragon**" (the archaic reckoning → `calendar.md`, decision FRAG-3). Ört
+  himself "**ascended into the sky**" — i.e. took godhood — but first hid the four fragments of his
+  ritual-tablet and left a locating-manuscript at the **temple of Jerbal** in the Sadhir (→
+  `pantheon.md`, `geography.md`).
+- **Svelos — a great Adept `[CANON — Fragment C]`.** Famous for helping **Topramesk drive back the
+  demon Gol Sauthaur in the Demon Wars** (→ `history.md`, `bestiary.md`), and for writing the
+  **Iron Tome (Tomo di Ferro)** (→ `items.md`). His pupil was **Taros** — for whom the **Halls of
+  Taros** in the southern lands are named (→ `geography.md`).
+- **The pupils are the next tier `[INFERRED]`.** Valamor and Taros are **Adepts of the god-kings'
+  own making**, a generation below — apprentice-archmages of the deep past, not themselves among the
+  seven enthroned. Their vanishings and tombs seed the deep-past treasure-hunts of the south.
+
 ## The planet catalogue — the Adepti's empire & the engineered races `[CANON — i-piani-e-il-multiverso.txt]`
 The mortal "races" of Ymir are largely **Adepti bio-engineering**, scattered across the
 worlds of their old empire:

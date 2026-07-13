@@ -864,3 +864,54 @@ New conflicts surfaced by the 2026-07-10 harvest of the two parallel-session rep
   by the **Sarradhi** lizardfolk. → **Rec:** GEO-1's layering stands; rule **who carries the
   symbiosis** — surviving human Sadhiriti remnants (desert-adapted descendants), or the
   Sarradhi under an older name. → `magic.md` (Al'Sawgdam entry).
+
+---
+
+# FRAGMENTS merge (source: `sources/raw/Fragments.pdf`)
+The four in-world "Fragments" leaves (the named-Adepti catalogue; digest + merge plan:
+`sources/extracted/fragments/FRAGMENTS.md`) were merged **2026-07-13** on the author's approval of
+all ★ defaults. The seven decisions are logged here **as RESOLVED** so the record is honest.
+FRAG-1…FRAG-7 map 1:1 to the plan's D1…D7. All merges keep the existing **Great Lie** framing (the
+Adepti are the alien usurper-gods; the sealed Old/Outer Gods are the true elder powers).
+
+- **FRAG-1 (= D1) — Where does *Sith* sit? → RESOLVED: ★(a).** **Sith = a great (ruling) Sovereign
+  Demon**, one of the ruling ones, of whom **Ea was a vassal**; patron of the Blue-Oyster clerics.
+  His exact slot in the Player-Guide roster is left open (possible by-name of a great living
+  Sovereign, or an unrecorded ruling one) — the firm point is rank + lordship over Ea. **The name
+  "Sith" is kept** (the setting borrows freely; the Star-Wars echo is intentional-by-permission).
+  → `bestiary.md`, `pantheon.md`, `factions.md`, `history.md`.
+- **FRAG-2 (= D2) — Named Adepti vs. the seven-Adept ritual → RESOLVED: ★(a).** The catalogue's
+  **named Adepti ARE the seven god-kings of the Great Lie** — the usurpers who took the sealed Old
+  Gods' thrones/names; **Ört di Xand is the Fifth**, **Topramesk** is among the seven, **Svelos** a
+  great Adept, **Valamor & Taros** their pupils. **"Ascended into the sky" = took godhood.**
+  *Reconciliation (left as an in-world uncertainty):* the seven who worked the **final** Ragash
+  ritual **died**; others "**ascended**" earlier — the exact overlap is **not forced**; the frame
+  is that the named Adepti are the god-kings behind the masks. → `secret-the-great-lie.md`,
+  `cosmology.md`, `characters.md`.
+- **FRAG-3 (= D3) — The "Sun of the Golden Dragon" calendar → RESOLVED: ★(a).** Adopted as the
+  **archaic pre-Maelstrom / Adepti-era reckoning** for deep-past dates (e.g. "624 of the Sun of the
+  Golden Dragon"); its link to the Dragon-Gods left **deliberately vague**. → `calendar.md`,
+  `history.md`.
+- **FRAG-4 (= D4) — Crown of the Four Kings & the Runes of Power → RESOLVED: ★(a).** **Soft tie:**
+  the four **Runes of Power** were **once set in an ancient Crown of the Four Kings** — enriches the
+  Runes' backstory without contradicting canon (they remain the Adepti anti-demon weapons unsealed
+  at the Tide by the six Reliquie; → BAT-1/BAT-3, `magic.md`). → `items.md`.
+- **FRAG-5 (= D5) — Where are the Halls of Taros / Peak of Ulmar? → RESOLVED: ★(a).** Placed in the
+  **southern lands (Sadhir / Ophiur / old Mandolia)**, near the Adepti's old southern seat and
+  Jerbal's temple; exact coordinates left unfixed (a "lost site"). → `geography.md`, `items.md`.
+- **FRAG-6 (= D6) — King Teran X of Cartosa → RESOLVED: ★(a).** A **legendary / apocryphal early
+  tyrant** whose historicity **Cartosan chroniclers dispute**; **NOT** slotted into the Carrillo
+  princely list (canon Cartosa has governors then Carrillo princes, no kings; cf. HIS-4). →
+  `characters.md`.
+- **FRAG-7 (= D7) — Minor normalizations → RESOLVED (all as listed).** **Hasl'Af → Hasl'Aret** (one
+  royal city with a treasury); **Ophith → Ophiur**; **Mandolia** = the **archaic name of the
+  southern landmass** (Sadhir + Ophiur) used in old texts (no map redraw); **Gol Sauthaur** spelling
+  kept. **Rolemaster mechanics stripped** (the Blue-Oyster floor-plan numbers, PF/TR/Drain
+  Life/Vampiric Embrace, etc. — META-4/META-7) — flavour kept. → `geography.md`, `factions.md`,
+  `bestiary.md`, `items.md`.
+
+**Residual open threads (logged, not blocking):** which named Adepti *died in* the final ritual vs.
+*ascended* before it (FRAG-2, intentionally open); Sith's precise roster identity (FRAG-1); whether
+"Taros the great charmer" (`items.md`) is Svelos's pupil Taros or a namesake; the true location of
+Valentia/Mileus and of the Gem's four fragments; and whether the Crown of the Four Kings itself
+still survives (only its Runes are attested downstream).

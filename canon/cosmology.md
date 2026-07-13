@@ -149,5 +149,10 @@ of the Plane of Chaos.
   (Later "Dei-Drago"/Dragon-Gods appear in Qi-Long ~1900 d.M.) → `bestiary.md`.
 - What exactly are the **Adepti**, and where did they go? (The Player Guide flags
   this as an explicit in-world mystery — "quello degli Adepti".) → `history.md`.
+  `[CANON — decision FRAG-2/D2; Fragments.pdf, Fragment A]` A mortal scholar's **catalogue of
+  the Adepti as named persons** now survives (the "Fragments"): the named Adepti are the **seven
+  god-kings of the Great Lie** — **Ört di Xand the Fifth** ("the Shadowed"), **Svelos**, and
+  **Topramesk** among them; where the pious account says an Adept "**ascended into the sky**," the
+  secret is that he **took godhood** (became a false sky-god). Full frame → `secret-the-great-lie.md`.
 - Relationship between **Niethel** (the elves' divine place of origin) and this
   cosmology — the elves came "from another world through dimensional portals."

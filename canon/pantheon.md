@@ -140,6 +140,12 @@ Era della Marea (a wandering body distinct from **Ishtar's** silver moon; → `c
   to be confused with **Niethel**, the elves' divine place of origin.)*
 - **The Wheel of Life (il Ciclo)** — the Sarradhi lizardfolk creed of the Sadhir;
   eternal reincarnation, blending spiritual and temporal rule. *(Sadhir gazetteer.)*
+- **Jerbal** `[CANON — decision FRAG-2; source: sources/raw/Fragments.pdf, Fragment A]` — a
+  **forgotten god** of the deep south, remembered now only by a small monastic order that keeps his
+  **temple in the Shimmering Desert (SE Sadhir)**. That order's charge is to guard the **manuscript
+  of the Adept Ört di Xand** locating the four fragments of the **Gem of Ört** (→ `items.md`,
+  `geography.md`, `secret-the-great-lie.md`). His cult, rites, and domains are otherwise lost — a
+  fittingly dwindled god for a dwindled order.
 - The **Nkishi** *Orisha*/*Mayombe* forest-spirits and **M'Bantha** shamanism →
   `peoples.md`.
 
@@ -182,6 +188,11 @@ updated]` by the Era della Marea their prison cracks and **most of the rest die 
 the fullest roster marks all but **three** as *Defunto*, leaving only **Asmodeus**
 (Tyranny), **Xardas** (the Puppeteer), and **Masak** (Illusions) to walk Ymir. Full
 ranked roster and status in `bestiary.md`; the prison's cracking is in `history.md`.
+
+`[CANON — decision FRAG-1/D1; Fragments.pdf, Fragment B]` **Sith** — a **dark power** invoked by
+the **clerics of the Blue Oyster**: a **great (ruling) Sovereign Demon**, the old **overlord of Ea**
+who betrayed and destroyed him. Worshipped as a demon-patron rather than a god; **full entry in
+`bestiary.md`**, the cult in `factions.md`.
 
 ## Known institutional religions (pointer)
 

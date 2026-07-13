@@ -24,11 +24,23 @@
 - **The Reign of the Adepti** — an empire of god-like archmages, "Masters/Lords
   of Magic," centred on the great capital **Ragash the Splendent**. Scholars
   reckon it lasted **~50,000 years**.
+  `[CANON — decision FRAG-3/D3; source: sources/raw/Fragments.pdf, Fragment A]` **Deep-past dates**
+  in the old texts are reckoned by the **"Sun of the Golden Dragon" (il Sole del Drago d'Oro)** — an
+  archaic **pre-Maelstrom / Adepti-era** reckoning (e.g. Valamor vanished "in the **624th year of
+  the Sun of the Golden Dragon**"). Its link to the **Dragon-Gods** is left deliberately vague. →
+  `calendar.md`.
 - The Adepti learn to summon and bind demons into objects — starting small, then
   the mightiest: they evoke the **Demoni Sovrani** (Sovereign Demons — perhaps
   corrupted Spirits of great power). The **Demon Wars** follow; many creatures
   are corrupted by Evil. The demons pour through the opened breach and rout the
   Adepti, bent on conquering the whole planet.
+  `[CANON — decision FRAG-2/D2; source: sources/raw/Fragments.pdf, Fragment C]` **A named
+  Demon-Wars episode:** the great Adept **Svelos** helped **Topramesk** drive back the demon
+  **Gol Sauthaur** — one of the demon-host's captains — and Svelos recorded the war-lore in his
+  **Iron Tome (Tomo di Ferro)** (→ `bestiary.md` Gol Sauthaur, `characters.md`, `items.md`). This
+  is also the era of the **Gem of Ört**, the ritual-working the Adepti used to break demon-armies
+  pouring from the Void (→ `items.md`). Both corroborate the canon Demon Wars from the
+  Adepti side.
 - **The Elves arrive** from another world through dimensional portals; they side
   with the peoples of Ymir and fight the Sovereign Demons. → `peoples.md`, `pantheon.md` (Niethel)
 - **La Catastrofe.** With Ymir all but lost, the last Adepti — led by the
@@ -75,6 +87,19 @@
   freed, tries to seize Ymir through the **Cult of the Blue Oyster** (Culto
   dell'Ostrica Blu); he is thwarted and his essence destroyed. **Ea: first
   Sovereign Demon slain.**
+  `[CANON — decision FRAG-1/D1; source: sources/raw/Fragments.pdf, Fragment B]` **The deep-past
+  prequel to this event.** Long before the Demon Wars and the Letian Empire, **Ea was a mighty
+  vassal of the demon-lord Sith** (a great Sovereign Demon → `bestiary.md`). Ea coveted Ymir,
+  meaning to **drain its power, rise to Sovereign rank, and dethrone Sith**. **Sith saw through the
+  plot, feigned being duped, lent Ea legions — then abandoned him at the crucial hour.** Ea was
+  defeated; the forces of good **killed him and sealed his spirit in a magic stone, buried deep**,
+  set over with a **warning stele** foretelling doom if the tomb were disturbed (→ `items.md`,
+  Ea's warning stele). Ages later Ea's imprisoned spirit **sent a call across space and time**; the
+  mage-antiquarian **Cresius** answered it, found the stone, and was **possessed — Ea took his body
+  and trapped Cresius's spirit in the stone** (→ `characters.md`). Weakened, Ea sought to **return
+  to Sith's service and be forgiven** — the thread that runs into the **1570 Blue-Oyster
+  resurgence** and his final destruction above. `[INFERRED]` The freed-by-accident wording of the
+  1570 entry and the Fragment's Cresius-possession are two ends of the same arc.
 - **1600 d.M.** — the **Cuore del Caos** (Heart of Chaos) grows at the centre of
   the forest thereafter called **il Groviglio** (the Tangle).
 - **~1700 d.M.** — under Xebechani diplomacy, the **First Council of Peoples

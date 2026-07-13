@@ -183,6 +183,41 @@ Zarash-Sur, Kalzharan, the Wheel of Life; with **hermit-crab** subject folk). So
 Oyster Cult** of the demon **Ea**. → `peoples.md`, `factions.md`, `bestiary.md`
 `[CONFLICT resolved]` The human "Leggende del Sadhir" and the English gazetteer's Sarradhi are the
 **two eras**, not rival accounts.
+`[CANON — decision FRAG-5/FRAG-7; source: sources/raw/Fragments.pdf, Fragment A]` **Deep-past
+southern lore.** In the old texts the whole southern landmass — the **Sadhir** and **Ophiur**
+together — is called **Mandolia**, an **archaic name used in Adepti-era writings** (no map redraw;
+the modern names stand). It was the old southern seat of the Adepti: **Ört di Xand, the Fifth
+Adept, ruled south-east Mandolia** from **Xand** (his home-region/city, in the SE — the Sadhir /
+Ophiur reach). In the far SE Sadhir, deep in the **Deserto Scintillante** (Shimmering Desert),
+stands the **temple of the forgotten god Jerbal** (→ `pantheon.md`) — a small monastic order that
+guards Ört's **manuscript** locating the four fragments of the **Gem of Ört** (→ `items.md`). An
+old royal city, **Hasl'Aret** — the source's variant *Hasl'Af*, normalised — kept a **treasury**
+where the Gem was rumoured (falsely) to have ended up. `[INFERRED]` The archaic **Ophith** spelling
+of the Fragments normalises to **Ophiur** (decision FRAG-7).
+
+### Deep-past dungeon-sites of the south (the Halls of Taros) `[CANON — decision FRAG-5/D5; source: sources/raw/Fragments.pdf, Fragment C]`
+A cluster of ruin-sites in the **southern lands** (Sadhir / Ophiur / old Mandolia), placed near the
+Adepti's old southern seat and Jerbal's temple — the deep-past dungeon the **Diary of Loregar**
+maps (→ `items.md`, `characters.md`):
+- **The Peak of Ulmar** — a mountain whose **south slope** is the route's starting landmark.
+- **The Plain of the Stelae** — reached ~half a day north-east of Ulmar's south slope; a field of
+  standing stones holding the **Stele of the Martyr**, which bears the **Runes of Power** that once
+  adorned the **Crown of the Four Kings** (→ `items.md`), with the **symbols of the Four Kings** at
+  its base (the lock the Halls-of-Taros amulet keys).
+- **The Crypts of Audin** — the passage beneath the Stele opens down into these crypts, threaded by
+  stones marked with the **Sign of Vor** (press the seventh).
+- **The Halls of Taros** — the deep goal above the Crypts, named for **Taros, pupil of the Adept
+  Svelos** (→ `secret-the-great-lie.md`, `characters.md`). `[INVENTED — decision FRAG-5]` Exact
+  coordinates are deliberately left unfixed (a "lost site" the map does not mark); the south is the
+  ruled placement, not a surveyed point.
+
+**Two imperial cities of the Fragments (placement soft) `[CANON — Fragments.pdf; INFERRED placement]`:**
+- **Valentia** — an **imperial city** whose great **Imperial Library** holds records of the deep
+  past (the diarist Loregar read there of a trap in the Halls of Taros). `[INFERRED]` "Imperial"
+  most naturally reads as the **Letian Empire**, but the Fragments do not fix it — it may be a seat
+  of an older empire; left unplaced pending a source.
+- **Mileus** — home city of the historian **Tarogald of Mileus**, author of *De Daemonomachia* (→
+  `items.md`, `characters.md`). Location unfixed by the source.
 
 ### The Grande Erg, Ulan-Tang & Khorish (deserts) `[CANON — il-grande-erg.txt]`
 Desert lands. **Khorish** — the "**Regno dei Faraoni Eterni**" ruled by the eternal pharaoh

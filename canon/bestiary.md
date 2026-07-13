@@ -42,6 +42,34 @@ prison cracks in the Era della Marea, **most of the rest die as well**. The full
 marks all but **three** as *Defunto* — only **Asmodeus** (Tyranny), **Xardas** (the
 Puppeteer), and **Masak** (Illusions) survive to reach Ymir. → `history.md`, `pantheon.md`
 
+## Demons named in the Fragments `[CANON — source: sources/raw/Fragments.pdf]`
+
+- **Sith** `[CANON — decision FRAG-1/D1; Fragment B]` — **a great Sovereign Demon**, one of the
+  **ruling** ones ("Beyond the Circles"), of whom **Ea was a vassal** before his rebellion. It was
+  Sith who **feigned being duped by Ea's scheme, lent him legions, then abandoned him** at the
+  crucial hour, so that the forces of good could destroy and seal him (→ `history.md` 1570 prequel).
+  Sith is the true **patron of the clerics of the Blue Oyster** — the cult's inner "priests of Sith"
+  answer to him, not to the fallen Ea (→ `factions.md`). Cold, treacherous, jealous of his own
+  rank: he devours vassals who reach for it. `[INFERRED]` His exact slot in the canonical Sovereign
+  roster is **left open** — he may be an unrecorded by-name of one of the great living Sovereigns
+  (e.g. Asmodeus/Xardas), or a ruling Sovereign the Player-Guide roster simply does not name; the
+  firm point is his **rank (great/ruling Sovereign) and his lordship over Ea**. `[NOTE — author]`
+  The name **"Sith"** reads as a *Star Wars* echo; it is **kept deliberately** (the setting borrows
+  freely). → `pantheon.md`, `factions.md`, `history.md`
+- **Ea †** `[CANON — Fragment B; expands the roster line above]` — **Lord of the Abysses**, symbol
+  the kraken; **the first Sovereign Demon slain** (1570 d.M.). Fuller history: a **vassal of Sith**
+  who coveted Ymir, planning to **drain the world's power, ascend to Sovereign rank in his own
+  right, and dethrone his master**. Betrayed by Sith and destroyed, his spirit was **sealed in a
+  buried magic stone** under a warning stele. His imprisoned spirit sent **a call across space and
+  time** that the antiquary **Cresius** answered; Ea **possessed Cresius's body and caged his soul
+  in the stone**, then — weakened — sought to buy back Sith's favour, driving the **Cult of the
+  Blue Oyster** resurgence that ended in his final unmaking. → `history.md`, `factions.md`,
+  `characters.md`, `items.md`
+- **Gol Sauthaur** `[CANON — decision FRAG-7/D7 (spelling kept); Fragment C]` — a demon of the
+  **Demon Wars**, a captain of the demon-host, **driven back by the Adept Topramesk with the help
+  of Svelos** (who set the deed down in his **Iron Tome**). One of the named foes that corroborate
+  the Demon Wars from the Adepti side. → `history.md`, `characters.md`, `items.md`
+
 ## The True Dragons (Veri Draghi) `[CANON — draghi.txt]`
 **Twenty** True Dragons, each elemental in nature, **engineered by the Adepti** as living
 superweapons to guard Ymir's secrets (→ `secret-the-great-lie.md`). `[CANON — decision

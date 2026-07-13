@@ -120,7 +120,8 @@ Thurms), Tallvar's Merchant/Warriors'/Thieves' guilds, and the dwarven holds of 
 
 - **The Sovereign Demons** and their cults — e.g. the **Culto dell'Ostrica Blu**
   (Cult of the Blue Oyster), through which the demon **Ea** nearly seized Ymir
-  (thwarted 1570). → `pantheon.md`, `bestiary.md`, `history.md`
+  (thwarted 1570); its temple and priesthood are detailed below. → `pantheon.md`,
+  `bestiary.md`, `history.md`
 - **The Orc Hordes / Regni Belligeranti (Belligerent States)** — born of the Great
   Horde of the Supreme **Uglush** (2015–2030); a standing threat under a **Grande
   Khan** (Ugrumuulsh One-Eye in 3026).
@@ -133,6 +134,28 @@ Thurms), Tallvar's Merchant/Warriors'/Thieves' guilds, and the dwarven holds of 
 - **Azar-Kalish / Conclave delle Ombre** — Ulan-Tang sorcerer-assassins (symbol: the Spider),
   serving the spider-god Yogh. → `geography.md`
 - The **Regno dei Faraoni Eterni (Khorish)** — a necromantic slave-empire. → `geography.md`
+
+### The Cult of the Blue Oyster (Culto dell'Ostrica Blu) `[CANON — decision FRAG-7/D7 (mechanics stripped), FRAG-1/D1 (clerics of Sith); source: sources/raw/Fragments.pdf, Fragment D]`
+The demon-cult through which **Ea** nearly seized Ymir (thwarted 1570; → `history.md`,
+`bestiary.md`), haunting the southern seas and the drowned Sadhir. Its shrines follow a **typical
+temple plan** (mechanics stripped per META-4/META-7 — the numbers on the source floor-plan were
+Rolemaster; the flavour is kept):
+- **The purification basin** — a font at the entrance where worshippers ritually cleanse before the
+  rite.
+- **The "Sacred Mosaic"** — a great floor-mosaic of a **blue oyster** that is secretly a
+  **life-draining enchantment**: it siphons the worshippers' own vitality as they pray over it,
+  channelling the stolen life into a **hidden vessel** for the cult's masters. The faithful feed the
+  demon with their own lives and never know it. `[INFERRED]` The undead **Ombra dell'Ostrica Blu**
+  (Blue Oyster Shadows, → `bestiary.md`) are what such draining and failed summonings leave behind.
+- **The Tower** — at whose summit sits **the great Blue Oyster**, the shrine's central idol/relic.
+- **The hidden priests' meditation room** — a concealed chamber off the sanctuary from which the
+  cult's "priests" **work illusions during the rites**, staging false miracles to overawe the flock.
+
+**The priesthood** `[CANON — Fragment D]` — the **Priests of the Blue Oyster** are mostly **evil
+mages and illusionists**, with **mystics** and some **mentalists** among them, all **led by true
+clerics of Sith** (→ `bestiary.md`). So the cult wears the mask of Ea's oyster while its inner
+command answers to the greater demon-lord **Sith** — Ea's old master. The illusionists supply the
+"miracles"; the clerics of Sith supply the purpose.
 
 ## Sorcerous orders & societies (wiki) `[CANON]`
 - **The five factions of the Gaerwath** (Dark-Elf schools of power): **Meccanisti,
