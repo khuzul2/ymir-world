@@ -738,6 +738,8 @@ twice.
 |---|---|---|
 | ‡ | **Yusuf al-Marrah** of Tuleph | small, furious, dated; corrects the desert chapters and threatens to correct more |
 | ⟐ | **Drusilde**, Directress of the Seventh Circle | a fine viridian hand that annotates her own chapter — and, in one place, **stops mid-word**, and does not go on, and no one will say why |
+| ⊕ | **the Adept-hunter** | a cramped umber hand; an old scholar who catalogued the Adepti and looked too long; right on his facts and reaching in his conclusions |
+| ⌖ | **Loregar** | an unsteady hand that left, in one margin, the road to a buried hall and the name of the friend who keeps its key; a treasure-hunter, and out of time |
 | ✒ | **the many** | tax-clerks, midwives, oar-men, pilgrims, slave-children, a soldier before a battle, a child who later owned a copy — the commonplace ink, undyed and mostly nameless, in which the greater part of any real book is written |
 
 *The living narrators of the chapters also reach back into their own leaves (Nyema, Aelryn, Marghuz,

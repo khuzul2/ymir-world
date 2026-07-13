@@ -168,6 +168,8 @@ HANDS = [
     ('bravaso', '§', 'bravaso'),
     ('al-marrah', '‡', 'yusuf'), ('yusuf', '‡', 'yusuf'),
     ('drusilde', '⟐', 'drusilde'),
+    ('adept-hunter', '⊕', 'adepthunter'), ('adept hunter', '⊕', 'adepthunter'),
+    ('loregar', '⌖', 'loregar'),
 ]
 
 def hand_style(meta_low):
@@ -648,6 +650,8 @@ body{
 .hand-bravaso{color:#7a6444;}
 .hand-yusuf{color:#8a6a3d;}
 .hand-drusilde{color:#2f8a80;}
+.hand-adepthunter{color:#6b4a2f;}
+.hand-loregar{color:#566b6b;}
 .hand-humble{color:#8a7a63;}
 
 /* verse (the skald) */

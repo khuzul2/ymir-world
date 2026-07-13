@@ -174,6 +174,24 @@ at least one region a note that is purely *useful* (a route, a price, a dose, a 
 
 ---
 
+### Band V — the Fragment-scholars *(added with the Fragments merge)*
+
+**⊕ the Adept-hunter** — dense umber ink, a cramped obsessive hand, dated · the anonymous old scholar
+whose life's work is a catalogue of the Adepti (the source's Fragment A); a New-Equilibrium reader who
+fills the deep-past margins with his findings · *learned and largely right on fact, but his
+conclusions reach; he has looked too long* · **haunts:** 01, 03, 15, 14b.
+- Anchor 01 (the Adepti / "ascended into the sky"): `> ✒ **the Adept-hunter** · *3496* — The priest names no Adept but Topramesk. I have named forty and catalogued thirteen. The Fifth was Ört di Xand, who ruled the southern marches and "ascended into the sky" — which is the pious way of saying he took a throne up there, and a name that was not his.`
+- Anchor 03 (the Adepti's works / Runes / artifacts): `> ✒ **the Adept-hunter** · *3498* — The Gem of Ört is not a gem. It is a ritual; the ritual is a tablet; the tablet is four fragments. I spent nineteen years learning that much, and one more learning to stop hunting the fifth fragment there is not.`
+- Anchor 15 (the Great Lie): `> ✒ **the Adept-hunter** · *3501* — You call it the Great Lie. My catalogue calls it "the Ascensions" — the same event under a kinder word, because the men who file it still have to sleep at night.`
+
+**⌖ Loregar** — a shaky, urgent grey-teal hand · a dying treasure-hunter (the source's Fragment C);
+leaves one marginal route and a hook · *sincere, and out of time* · **haunts:** one of 12 / 14b / 15b.
+- Marquee (place once, near the Halls of Taros / an Adepti-vault reference): `> ✒ **Loregar** · *(undated; the hand is unsteady)* — Whoever reads this and means the Halls of Taros: the amulet is with Belthan, at the Temple of Ishtar, and she gives it to whoever holds this leaf. Follow the Sign of Vor and press the seventh. I meant to go back. I did not.`
+
+*Kept as cited authorities, NOT postil hands (too ancient to have read this book):* **Tarogald of
+Mileus** (*De Daemonomachia*) and **Zarog lo Stifeo** — cite them in body text / colophons, never as
+a marginal hand.
+
 ## Placement summary (which hands per file — for the fan-out)
 
 - **01 cosmogony** [deep]: Xochiyayotl (anchor), Morannagul (anchor), the Yellow Postillant, a pilgrim (humble), 1 cadet-style wonderer, 1 censor strike.
