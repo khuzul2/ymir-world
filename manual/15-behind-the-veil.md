@@ -74,6 +74,19 @@ usurpers were worshipped beside their victims for fifty thousand years.*
 
 > ✒ **Xochiyayotl** · *undated* — You have written the truth and dressed it as a secret. We of Xebech kept it the other way: in plain sight, where no warm eye lingers long enough to read.
 
+And the usurpers had names, and faces, and reigns. The oldest catalogues of the deep past — the
+ones the scholar you meet in these very margins spent his life compiling — reckon **seven great
+Adept-god-kings**, Topramesk the Yellow among them, and set the rest in a numbered order. The
+**Fifth was Ört, called the Shadowed**, who ruled the southern marches of the empire and, when his
+part was done, **"ascended into the sky"** — which the pious take for apotheosis and which was
+nothing so clean: he took a throne among the false sky-gods and a name that had never been his, and
+let the south pray up at him for an age. **Svelos** the catalogues name beside him, the Adept who
+stood with Topramesk in the Demon War. So when a warm priest of the southern rite blesses a god of
+the sky, remember there may be an Ört behind the mask — listening, and answering. These are the
+faces the Lie is made of, and some of them are still wearing them.
+
+> ✒ **the Adept-hunter** · *3501* — You call it the Great Lie. My catalogue calls it "the Ascensions" — the same event under a kinder word, because the men who file it still have to sleep at night.
+
 ### 2 · The Worlds, and the Making of the Peoples
 
 The empire was not a metaphor. Count the worlds:
@@ -230,6 +243,19 @@ I do not tie ends. I point at them. Pull whichever suits your purpose.
 - **Tofango's axe, Oblivion.** A demon of real rank is imbued and trapped in the blade; its will
   ate the axeman's mind, and he died a hermit on a nameless peak. The body was found. The axe
   was not. It is somewhere on a mountain, patient, waiting for hands.
+- **Sith, and the demon that would be Sovereign.** Long before the Letian Empire, before the Tide,
+  a Sovereign Demon named **Ea** — no free lord, but the vassal of a greater — coveted Ymir. His
+  master was **Sith**, one of the great Sovereigns of the old roster; and Ea meant to drain the
+  world's power, rise to Sovereign rank in his own name, and dethrone him. Sith read the whole plot,
+  feigned to be fooled, lent Ea legions, and abandoned him at the crucial hour. Ea was thrown down,
+  his spirit sealed in a stone and buried deep beneath a **warning stele**. Ages later the spirit's
+  call was answered by a mage-antiquarian, **Cresius**, who unearthed the stone — whereupon Ea wore
+  his body and locked Cresius's soul inside the stone in his place. That stolen life is what the
+  drowned **Blue Oyster** cult of the southern seas raised toward godhood, until it was unmade for
+  good in 1570. But Sith is a Sovereign, and no Sovereign the priests file as dead was ever proved
+  unmade; his clerics still keep his drowned churches, and his is the name the cult's true priests
+  answer to. Decide where Sith is now — perished in the breaking, biding in the resealed cell, or
+  nearer than either — before your players think to ask a Blue Oyster priest whom he truly serves.
 - **Ulan-Tang keeps Kramer's legacy** — a lich's workings around a gate that has already admitted
   a god's attention once.
 - **Something is under the White Mountains.** The deep dwarves sealed themselves in during the
@@ -298,4 +324,11 @@ Observer), **COS-23** (humans/Tanoth-kin native and un-made), **COS-24** (Ech = 
 **RAC-1 = A** (engineered peoples, true-kernel myths), **BAT-1 = A** (unsealing the Runes =
 breaking the isolation), **BAT-2** (Xanadu ≠ Ragash), **BAT-3** (four Runes, six seals),
 **MAG-12** (six loyal Dragon-Gods + Ouroboros above the split), **HIS-1** (present ≈ 3518 d.M., the
-Equilibrium as the eye of the storm), **HIS-5 = B** (the Tide-openers kept mythic and unnamed). Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.
+Equilibrium as the eye of the storm), **HIS-5 = B** (the Tide-openers kept mythic and unnamed).
+Fragments-derived additions (§1: the named **Adept-god-kings** behind the masks — **Ört the Fifth,
+"the Shadowed"**, who "ascended into the sky" as a false southern sky-god, and **Svelos** — deepening
+COS-4/COS-2 (**D2**); the Adept-hunter's "Ascensions" postil; §7: the loose thread on **Sith** as a
+great Sovereign Demon and Ea's overlord (**D1**), **Ea's** possession of the mage **Cresius**, and
+the drowned **Blue Oyster** cult) drawn from `sources/raw/Fragments.pdf` (the four in-world
+"Fragment" documents); the individual Adept-names, the Sith/Ea/Cresius narrative, and Sith's
+placement in the Sovereign roster are **[INVENTED]** elaborations reconciled to canon. Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

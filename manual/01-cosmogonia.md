@@ -64,7 +64,11 @@ say a demon is a Spirit gone wrong. They simply do not know how *early* the wron
 > its kind worship, and call the **Outer Gods** — until a people of tool-and-star, the **Adepts**,
 > found them sleeping, **sealed them beyond the elemental walls**, drank their power, and set
 > themselves up in the empty thrones wearing the old names. Much of what the warm faiths adore is
-> the Adepts in a mask. The Ancient Gods are not dead. They are locked out. And in this present age
+> the Adepts in a mask — and the mask has faces the deep-past catalogues can name. They reckon
+> **seven great Adept-god-kings**, Topramesk among them; the **Fifth was Ört, called the Shadowed**,
+> who ruled the southern marches and "ascended into the sky" — a pious way of saying he took a throne
+> among the false sky-gods, and a name that was never his — and **Svelos** is set great beside him.
+> The Ancient Gods are not dead. They are locked out. And in this present age
 > the lock is failing — which is why, when the Tide broke, a red eye opened in the night sky and
 > kept its watch there for two hundred years before withdrawing. But of that, the priest
 > will speak only sideways, and only because its people never forgot whom they truly serve.*
@@ -102,6 +106,7 @@ it. You perhaps should fear it a little.
 
 > ✒ **Morannagul** · *the nine-hundred-and-sixty-second year of my reign* — "Something was done." Something was *stolen*, and I am among the few left who remember being robbed. The child of Xebech flatters the thieves because it studied under them.
 > ✒ **a hand in yellow** · *(no date; the ink shows through from the far side of the leaf)* — The city under the storm is not drowned. It is only asleep, and I keep its gate, and the post is always open. Turn the page over, little reckoner. I have written you a door.
+> ✒ **the Adept-hunter** · *3496* — The priest names no Adept but Topramesk. I have named forty and catalogued thirteen. The Fifth was Ört di Xand, who ruled the southern marches and "ascended into the sky" — which is the pious way of saying he took a throne up there, and a name that was not his.
 
 That is the making of the world. Sleep now, warm reader. You are very new, and the night is long.
 
@@ -111,7 +116,11 @@ That is the making of the world. Sleep now, warm reader. You are very new, and t
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The "something done" was the Adepts' own ritual — the theft that sealed the Ancient Gods, drank
 > their fire, and tore the Essence so badly that a second, curdled Essence bled out and became the
-> demons; the backlash drowned their shining capital and left the Maelstrom over its grave. Priest,
+> demons; the backlash drowned their shining capital and left the Maelstrom over its grave. Those
+> demons made a war of it before the end — the **Demon War** the same catalogues remember, when the
+> Adept-god-kings turned their stolen fire against the armies pouring from the Void, and set down the
+> names of the horrors they broke; chief among these is **Gol Sauthaur**, whom **Topramesk** and
+> **Svelos** are said to have repelled together. Priest,
 > historian, and doom-preacher each saw one face of the single act and named it a different
 > catastrophe. It was one catastrophe. The Xebechani "waiting" is not serenity — it is the patience
 > of a jailer's servant who has always known the prisoner would get out. See `secret-the-great-lie.md`.*
@@ -123,4 +132,11 @@ Drawn from `canon/cosmology.md` and `canon/pantheon.md` (the public cosmogony: E
 unnatural wound) and, in the margins, `canon/secret-the-great-lie.md` (the Adepts, the sealed
 Ancient/Outer Gods, Ech = the Essence, the one-event Catastrophe, the waking / the red moon). Xebechani
 divine-names and the Outer Gods per `pantheon.md`. Decisions applied: COS-1 (hybrid), COS-2, COS-4,
-COS-9, COS-24, COS-21.
+COS-9, COS-24, COS-21. Fragments-derived additions (in the GM margins: the **named Adept-god-kings**
+— **Ört the Fifth, "the Shadowed"**, who ruled the southern marches and "ascended into the sky," and
+**Svelos**, Topramesk kept; and the **Demon War** with the demon **Gol Sauthaur** repelled by
+Topramesk and Svelos; and the Adept-hunter's postil) drawn from `sources/raw/Fragments.pdf` (the
+four in-world "Fragment" documents), per its approved merge plan (D2, D5); the individual
+Adept-names and the Demon-War framing are **[INVENTED]** elaborations of canon. Postils: the marginal
+hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not
+canon unless independently attested.

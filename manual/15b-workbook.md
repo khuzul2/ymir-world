@@ -145,6 +145,18 @@ they contain them — and their patience ends at that mark. *Complication:* putt
 means diving the drowned shrine of the first slain Sovereign, where the congregation still keeps
 its service — and lately, something answers.
 
+**The warning stele.** *Situation:* a coastal quake has heaved up a slab of black stone on the Twin
+Coasts, cut over every face with a script the Blue Oyster's own priests fall silent at — a **warning
+stele**, and the warning is old and plain: that a thing was bound in a stone in the deep beneath it,
+and must never be woken. The stele stood over a grave. The grave is now an open pit. *Faces:* the
+fisher-village that turned it up and wants it gone at any price; a Blue Oyster "chaplain" arrived
+overnight to buy the site and the silence; a Cartosan antiquary who can read three glyphs in ten and
+is certain of all three. *Stakes:* what is put under a warning is worth the warning — the buried
+prison held the **first-slain Sovereign**, Ea of the Abysses, and a seal the sea has worked at for a
+thousand years does not fail politely. *Complication:* the cult did not come to keep the seal. They
+came because the reading they most fear is the reading they most want — and someone has already dug
+once.
+
 **The golden garrison.** *Situation:* an expedition bankrolled by house Gibraleon is recruiting
 for the jungle, and they know exactly what the gold of Taremorn costs. They are not buying gold;
 they are buying the garrison. *Faces:* the Gibraleon patron; a Black Dawn quartermaster entered in

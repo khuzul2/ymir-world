@@ -249,13 +249,35 @@ remade the world.
 ballads already have it, six holy treasures. They are **six seals upon four Magic Runes**: four
 engines of the Adepts, housed from time immemorial in the Xebechani fortress-city of **Xanadu**,
 and keyed — I record the correspondence with a scholar's shiver — one to each realm of magic, the
-Arcane included. Four Runes; six locks. The Adepts did not build half-measures. When the Relics
+Arcane included. Four Runes; six locks. The Adepts did not build half-measures. Older regalia-lore
+holds — and I give it as lore, not doctrine — that before ever the four Runes came to Xanadu they
+were set together in one piece of ancient regalia, a **Crown of the Four Kings**, a face to each of
+four sovereigns of the deep past whose names the old songs keep. I cannot verify it and will not
+build on it; I set it down because a scholar who suppresses the lore she cannot use is no better
+than the balladeer who prints it as fact. If the tale is sound, the whole science of seals I have
+spent my life upon began as a crown. When the Relics
 were gathered and the Runes unsealed at the dawn of this era, that single act was what shattered
 the Maelstrom's isolation — the unsealing and the breaking of the bell are **one event**,
 whatever the pamphleteers print. I have handled exactly one of the six: Meletskar, for the better
 part of an afternoon, with its bearer's leave and both my hands shaking. It is the finest made
 thing I have ever touched, and I include my own Essence-meters in the comparison, which costs me
 something to write.
+
+Two workings more the age half-remembers, and I file them under legend because it is the most
+honest shelf I have. The first is **the Gem of Ört**, which the deep-past catalogues — chief among
+them **Tarogald of Mileus**, in his *De Daemonomachia* — name the greatest of the lost Adept-works.
+The ballad-sellers hunt it as a jewel; the sober authorities are agreed it is nothing of the kind.
+It is a **ritual** — a working that gathers the Essence to summon and command the **Seven Stars of
+the Sky of Destiny**, the seven powers the old texts style Enchantment, Gift, Life, Death, the
+Divine World, Mind, and Dominion — and the ritual was cut upon a single round tablet, which its
+maker is said to have broken into **four fragments** and hidden apart, that no one hand might ever
+wield the whole. Every generation a king or a mage sails south after it; the sea keeps most of
+them. I have never handled a fragment and do not expect to. The second is **the Iron Tome** of
+**Svelos** — the grimoire of that same great Adept the deep-past songs pair with Topramesk against
+the demon Gol Sauthaur — a book that, if it was ever more than a name, no library I have written to
+will confess to holding.
+
+> ✒ **the Adept-hunter** · *3498* — The Gem of Ört is not a gem. It is a ritual; the ritual is a tablet; the tablet is four fragments. I spent nineteen years learning that much, and one more learning to stop hunting the fifth fragment there is not.
 
 Of **the Door of Despair** — with its Forgotten Scrolls and its
 terrible Key — I say only that it is a separate dread, no kin to the Runes, and that I decline to
@@ -313,4 +335,10 @@ anti-demon weapons, the bell as their seal). Decisions applied: **MAG-3 = B** (t
 the Arcane as union), **MAG-4** (six Elements + Storm/Nether/Spectral/Umbra derivations), **MAG-6**
 (Topramesk's domain = the Void), **MAG-7** (fixed gates exempt from the Outflow), **MAG-8**
 (corruption as taint-axis, not a realm), **BAT-1 = A** (unsealing the Runes = breaking the
-isolation), **BAT-3** (four Runes, six seals, keyed to the four realms). Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.
+isolation), **BAT-3** (four Runes, six seals, keyed to the four realms). Fragments-derived additions (§VIII: **the
+Gem of Ört / the Seven Stars of the Sky of Destiny** as a lost Adept-*ritual* whose tablet was broken
+into four fragments — the source `sources/raw/Fragments.pdf` takes its name from those four in-world
+"Fragment" documents and from the four-part tablet; **the Iron Tome** of Svelos; and the soft tie of
+the four Runes to an ancient **Crown of the Four Kings**, per **D4**) drawn from
+`sources/raw/Fragments.pdf`; the Seven Stars' individual names, the *De Daemonomachia* attribution,
+Drusilde's framing, and the Crown-of-Four-Kings tie are **[INVENTED]** scholarly colour. Postils: the marginal hands are [INVENTED] reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless independently attested.

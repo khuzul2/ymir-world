@@ -223,6 +223,35 @@ you meet one, your book is done. Give this one to someone who lived.
 > centuries, and demons that cannot hide what they are have not been seen. Consider what that says
 > about where they are standing.*
 
+**Three old names, since you will meet them in songs and not in the flesh — the Hunter be thanked.**
+**Ea.** Ea of the Abysses, whom I set down above as unmade long ago; the older singers say he was
+killed once in the deep past and would not keep dead, and had to be put down a second time, in the
+year 1570, when he came crawling back up through the drowned cults of the southern coast. A beast a
+man must kill twice is a beast I would sooner leave to the priests. **Sith.** A name the drowned-cult
+folk of those same coasts whisper and will not explain; the old sailors lay every sunk shrine and
+every hand lost overboard at the door of a demon-lord they call Sith, and touch cold iron when they
+say it. I set no store by sailors' devils — save that I have noticed the sea agrees with them
+oftener than I care for. **Gol Sauthaur.** Out of the oldest songs of all: a horror of the Demon War
+the priests say the god-kings of the deep past fought before the world was grown, and by every
+account the name earned its fright. None of the three is a hunting entry. Two are legend and one is
+drowned, and I write them only so you know the shape of the thing when a temple-man goes grey at a
+word.
+
+> ⟡ **IN THE MARGIN (GM)** ⟡
+> *The huntsman keeps the old songs better than he knows. **Ea** was a Sovereign Demon, but never a
+> free one: he was the vassal of a greater — **Sith**, one of the great Sovereigns of the old roster,
+> a lord to whom Ea was only a servant. Ea coveted Ymir, meaning to drain it dry, rise to Sovereign
+> rank in his own name, and pull his master down; Sith read the whole plot, played the dupe, lent Ea
+> legions, and abandoned him at the hour of need. So Ea was thrown down, his spirit sealed in a stone
+> and buried deep beneath a warning cut in the rock — that was the "long ago." The "again in 1570" is
+> subtler and worse: the sealed spirit called across the years until a mage-antiquarian named
+> **Cresius** dug up the stone, and Ea took his body and shut Cresius's soul inside it in his place.
+> It was that stolen life the southern cults raised toward godhood until it was unmade for good. Sith
+> the sailors get right by instinct and wrong in scale — he is no bogey but a Sovereign — and, like
+> every Sovereign the priests file as dead, no one ever audited whether his essence was truly
+> unmade. His drowned churches keep his name warm against the day someone learns the answer.
+> See `secret-the-great-lie.md`.*
+
 ### DRAGONS LAST
 
 **Drakes, wyverns, and the lesser serpents.** Dragonkind, but mortal about it. Huntable. Barely.
@@ -277,6 +306,11 @@ dragon-custodians; the demon prison; the Maelstrom as the Chaos-bleed). Dragon r
 Sovereigns Beyond the Circles over the six Circles), MAG-12/MAG-13 (Ouroboros above the
 loyal/rogue split; "Leviathan" his type, not a twenty-first dragon), MAG-17 (the Magres' "Chaos" =
 the Maelstrom's mutation), MAG-18 (the prison-crack as a mass involuntary manifestation — the
-stated exception to "none cross unsummoned"). *Postils:* the marginal hands are [INVENTED]
+stated exception to “none cross unsummoned”). Fragments-derived additions (the field-book asides on
+**Ea** — slain long ago and again in the year 1570 — **Sith** the demon-lord of the drowned cults,
+and **Gol Sauthaur**, a horror of the Demon War; and the GM margin giving Sith's rank as a great
+Sovereign and Ea's overlord (**D1**), and Ea's possession of the mage **Cresius**) drawn from
+`sources/raw/Fragments.pdf`; Ea's deep-past prequel, Sith's placement among the Sovereign roster,
+and Weck's sailor's-legend framing are **[INVENTED]** elaborations of canon. *Postils:* the marginal hands are [INVENTED]
 reader-voices per `HANDS-REGISTER.md`; their claims are in-character and not canon unless
 independently attested.
