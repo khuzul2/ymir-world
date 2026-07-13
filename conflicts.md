@@ -874,20 +874,24 @@ all ★ defaults. The seven decisions are logged here **as RESOLVED** so the rec
 FRAG-1…FRAG-7 map 1:1 to the plan's D1…D7. All merges keep the existing **Great Lie** framing (the
 Adepti are the alien usurper-gods; the sealed Old/Outer Gods are the true elder powers).
 
-- **FRAG-1 (= D1) — Where does *Sith* sit? → RESOLVED: ★(a).** **Sith = a great (ruling) Sovereign
-  Demon**, one of the ruling ones, of whom **Ea was a vassal**; patron of the Blue-Oyster clerics.
-  His exact slot in the Player-Guide roster is left open (possible by-name of a great living
-  Sovereign, or an unrecorded ruling one) — the firm point is rank + lordship over Ea. **The name
-  "Sith" is kept** (the setting borrows freely; the Star-Wars echo is intentional-by-permission).
-  → `bestiary.md`, `pantheon.md`, `factions.md`, `history.md`.
-- **FRAG-2 (= D2) — Named Adepti vs. the seven-Adept ritual → RESOLVED: ★(a).** The catalogue's
-  **named Adepti ARE the seven god-kings of the Great Lie** — the usurpers who took the sealed Old
-  Gods' thrones/names; **Ört di Xand is the Fifth**, **Topramesk** is among the seven, **Svelos** a
-  great Adept, **Valamor & Taros** their pupils. **"Ascended into the sky" = took godhood.**
-  *Reconciliation (left as an in-world uncertainty):* the seven who worked the **final** Ragash
-  ritual **died**; others "**ascended**" earlier — the exact overlap is **not forced**; the frame
-  is that the named Adepti are the god-kings behind the masks. → `secret-the-great-lie.md`,
-  `cosmology.md`, `characters.md`.
+- **FRAG-1 (= D1) — Where does *Sith* sit? → RESOLVED: ★(a) + author follow-up.** **Sith = one of
+  the strongest (ruling) Sovereign Demons**, of whom **Ea was a vassal**; patron of the Blue-Oyster
+  clerics. **Author ruling (follow-up):** **after the fall of the Blue Oyster (1570 d.M.) no trace
+  of Sith remains** — perished with Ea, withdrew, or still schemes unseen: **no record says**, and
+  his whereabouts are a **standing mystery/hook**. He is not among the three post-Tide Sovereigns
+  (Asmodeus/Xardas/Masak) nor counted with the slain — simply *gone from the accounts*. **The name
+  "Sith" is kept** (Star-Wars echo intentional-by-permission). → `bestiary.md`, `pantheon.md`,
+  `factions.md`, `history.md`.
+- **FRAG-2 (= D2) — Named Adepti vs. the seven-Adept ritual → RESOLVED: ★(a) + author follow-up.**
+  The catalogue's **named Adepti are the god-kings behind the masks**. **Author ruling (follow-up):**
+  the Adepti were **an order far larger than seven** (the catalogue "names forty, catalogues
+  thirteen"), and **all of them eventually "ascended" in one way or another** (took godhood / were
+  consumed into thrones / left the world). **The Seven are their *leaders* — the ones who *stole the
+  power from the Outer Gods*** — and are **the same seven who worked the Ragash theft: Topramesk and
+  his six companions**; **Ört di Xand is the Fifth of the Seven**, **Svelos** a great Adept, **Valamor
+  & Taros** their pupils. This **dissolves** the old died-vs-ascended puzzle: the Seven **ascended
+  *through* the theft-ritual** (enthronement and death were one act); the lesser Adepti ascended by
+  their own roads. → `secret-the-great-lie.md`, `cosmology.md`, `characters.md`.
 - **FRAG-3 (= D3) — The "Sun of the Golden Dragon" calendar → RESOLVED: ★(a).** Adopted as the
   **archaic pre-Maelstrom / Adepti-era reckoning** for deep-past dates (e.g. "624 of the Sun of the
   Golden Dragon"); its link to the Dragon-Gods left **deliberately vague**. → `calendar.md`,
@@ -910,8 +914,10 @@ Adepti are the alien usurper-gods; the sealed Old/Outer Gods are the true elder 
   Life/Vampiric Embrace, etc. — META-4/META-7) — flavour kept. → `geography.md`, `factions.md`,
   `bestiary.md`, `items.md`.
 
-**Residual open threads (logged, not blocking):** which named Adepti *died in* the final ritual vs.
-*ascended* before it (FRAG-2, intentionally open); Sith's precise roster identity (FRAG-1); whether
+**Residual open threads (logged, not blocking):** ~~which named Adepti *died in* the final ritual vs.
+*ascended* before it (FRAG-2)~~ **[resolved by author: all ascended; the Seven are the leaders/
+power-thieves]**; ~~Sith's precise roster identity (FRAG-1)~~ **[resolved by author: a strongest
+Sovereign, vanished without trace after the Blue Oyster]**; whether
 "Taros the great charmer" (`items.md`) is Svelos's pupil Taros or a namesake; the true location of
 Valentia/Mileus and of the Gem's four fragments; and whether the Crown of the Four Kings itself
 still survives (only its Runes are attested downstream).

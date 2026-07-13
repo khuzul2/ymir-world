@@ -64,10 +64,12 @@ say a demon is a Spirit gone wrong. They simply do not know how *early* the wron
 > its kind worship, and call the **Outer Gods** — until a people of tool-and-star, the **Adepts**,
 > found them sleeping, **sealed them beyond the elemental walls**, drank their power, and set
 > themselves up in the empty thrones wearing the old names. Much of what the warm faiths adore is
-> the Adepts in a mask — and the mask has faces the deep-past catalogues can name. They reckon
-> **seven great Adept-god-kings**, Topramesk among them; the **Fifth was Ört, called the Shadowed**,
-> who ruled the southern marches and "ascended into the sky" — a pious way of saying he took a throne
-> among the false sky-gods, and a name that was never his — and **Svelos** is set great beside him.
+> the Adepts in a mask — and the mask has faces the deep-past catalogues can name, far more of them
+> than seven: the catalogues run to scores, and every Adept, in the end, ascended in one way or
+> another — took a throne, or was swallowed by one. But **seven stood above the rest — the ones who
+> broke the sealed gods and drank their fire**, Topramesk among them; the **Fifth was Ört, called the Shadowed**,
+> who ruled the southern marches and "ascended into the sky" — a pious way of saying he stepped into
+> a stolen throne, and a name that was never his — with **Svelos** set great beside him.
 > The Ancient Gods are not dead. They are locked out. And in this present age
 > the lock is failing — which is why, when the Tide broke, a red eye opened in the night sky and
 > kept its watch there for two hundred years before withdrawing. But of that, the priest

@@ -75,10 +75,13 @@ usurpers were worshipped beside their victims for fifty thousand years.*
 > ✒ **Xochiyayotl** · *undated* — You have written the truth and dressed it as a secret. We of Xebech kept it the other way: in plain sight, where no warm eye lingers long enough to read.
 
 And the usurpers had names, and faces, and reigns. The oldest catalogues of the deep past — the
-ones the scholar you meet in these very margins spent his life compiling — reckon **seven great
-Adept-god-kings**, Topramesk the Yellow among them, and set the rest in a numbered order. The
-**Fifth was Ört, called the Shadowed**, who ruled the southern marches of the empire and, when his
-part was done, **"ascended into the sky"** — which the pious take for apotheosis and which was
+ones the scholar you meet in these very margins spent his life compiling — run to **scores** of
+Adepts, and record that **every one of them, in the end, "ascended" in one way or another**: took a
+throne, or was swallowed by one. But **seven stood above the order — the ones who broke the sealed
+gods and drank their power**, Topramesk the Yellow among them, and the catalogues set these Seven in
+a numbered rank. The **Fifth was Ört, called the Shadowed**, who ruled the southern marches of the
+empire and, when his part was done, **"ascended into the sky"** — which the pious take for apotheosis
+and which was
 nothing so clean: he took a throne among the false sky-gods and a name that had never been his, and
 let the south pray up at him for an age. **Svelos** the catalogues name beside him, the Adept who
 stood with Topramesk in the Demon War. So when a warm priest of the southern rite blesses a god of
@@ -126,8 +129,10 @@ empire that had chained gods found itself losing a war to its own infection, and
 Ragash itself.
 
 Then the act. At the Academy in the heart of the fallen capital, **Topramesk, called the Yellow
-and the Mad, and his six companions — seven Adepts, the last of the great ones — worked the
-ritual.** Call it a banishment; the Church does. Call it a botched evocation of the Outer powers;
+and the Mad, and his six companions — the Seven, the leaders of the order and the very ones who had
+broken the sealed gods to begin with — worked the ritual.** *(These are the same Seven the southern
+catalogues rank as god-kings: the theft that made them gods and the ritual that ended the war were,
+in the end, one long reaching for the same power.)* Call it a banishment; the Church does. Call it a botched evocation of the Outer powers;
 the Xebechani do, and they were closer. Call it the final theft, the deepest draw yet upon the
 sealed sleepers' fire; that is what it was underneath. One act. It succeeded and it failed,
 enormously, at once.
@@ -252,10 +257,12 @@ I do not tie ends. I point at them. Pull whichever suits your purpose.
   call was answered by a mage-antiquarian, **Cresius**, who unearthed the stone — whereupon Ea wore
   his body and locked Cresius's soul inside the stone in his place. That stolen life is what the
   drowned **Blue Oyster** cult of the southern seas raised toward godhood, until it was unmade for
-  good in 1570. But Sith is a Sovereign, and no Sovereign the priests file as dead was ever proved
-  unmade; his clerics still keep his drowned churches, and his is the name the cult's true priests
-  answer to. Decide where Sith is now — perished in the breaking, biding in the resealed cell, or
-  nearer than either — before your players think to ask a Blue Oyster priest whom he truly serves.
+  good in 1570. Sith himself was **one of the strongest of the old Sovereigns** — and here is the
+  useful mystery: **when the Blue Oyster fell, he vanished from the accounts entirely.** He is not
+  among the three Sovereigns loose since the Tide, nor is he written among the slain; he simply is
+  not there. Decide where Sith went — perished with his cat's-paw, withdrawn the moment the plot
+  failed, or biding somewhere unseen with his drowned churches still keeping his name warm — before
+  your players think to ask a Blue Oyster priest whom he truly serves.
 - **Ulan-Tang keeps Kramer's legacy** — a lich's workings around a gate that has already admitted
   a god's attention once.
 - **Something is under the White Mountains.** The deep dwarves sealed themselves in during the

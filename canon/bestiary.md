@@ -50,10 +50,13 @@ Puppeteer), and **Masak** (Illusions) survive to reach Ymir. → `history.md`, `
   crucial hour, so that the forces of good could destroy and seal him (→ `history.md` 1570 prequel).
   Sith is the true **patron of the clerics of the Blue Oyster** — the cult's inner "priests of Sith"
   answer to him, not to the fallen Ea (→ `factions.md`). Cold, treacherous, jealous of his own
-  rank: he devours vassals who reach for it. `[INFERRED]` His exact slot in the canonical Sovereign
-  roster is **left open** — he may be an unrecorded by-name of one of the great living Sovereigns
-  (e.g. Asmodeus/Xardas), or a ruling Sovereign the Player-Guide roster simply does not name; the
-  firm point is his **rank (great/ruling Sovereign) and his lordship over Ea**. `[NOTE — author]`
+  rank: he devours vassals who reach for it. `[CANON — decision FRAG-1/D1]` Sith was **one of the
+  strongest of the Sovereign Demons** — but **after the fall of the Blue Oyster cult (1570 d.M.) no
+  trace of him remains.** Whether his essence perished with Ea's, whether he withdrew when his
+  cat's-paw failed, or whether he still schemes somewhere unseen, **no record on Ymir says**: his
+  whereabouts are an open mystery, and a standing hook. (He is **not** among the three Sovereigns
+  who reach Ymir after the Tide — Asmodeus, Xardas, Masak — nor is he counted with the slain; he is
+  simply *gone from the accounts*.) `[NOTE — author]`
   The name **"Sith"** reads as a *Star Wars* echo; it is **kept deliberately** (the setting borrows
   freely). → `pantheon.md`, `factions.md`, `history.md`
 - **Ea †** `[CANON — Fragment B; expands the roster line above]` — **Lord of the Abysses**, symbol

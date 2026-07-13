@@ -315,8 +315,10 @@ who is found to have developed an interest in its door.
 
 > ⟡ **IN THE MARGIN (GM)** ⟡
 > *The frater files arch-blasphemers and does not see that two of them are worshipped on his own
-> Church's altars. **Ört di Xand** and **Svelos** are among the seven god-kings of the **Great Lie**
-> (→ `secret-the-great-lie.md`): the Adepts who broke the world, then seated themselves inside its
+> Church's altars. **Ört di Xand** and **Svelos** are of the **Seven** — the leaders of the Adepts,
+> the ones who broke the sealed gods and stole their power — behind the **Great Lie**
+> (→ `secret-the-great-lie.md`); and the Adepts were far more than seven, an order all of whom
+> "ascended" in the end. These are the god-kings who broke the world, then seated themselves inside its
 > liturgy and are venerated in it yet, under names the friar's own colleagues bless on feast-days —
 > Topramesk of entry I being a third of that seven, already in the roll. "Ascended into the sky" is
 > exact; Ört took a stolen throne up there, as his peers did. **Taros**, Svelos's pupil, is of the
@@ -972,7 +974,8 @@ Cartosan legend; and the scholars **Tarogald of Mileus** (*De Daemonomachia*) an
 drawn from `sources/raw/Fragments.pdf` (Fragments A and C). They are entered as a supplement, out of
 floruit-order, so that the existing numbering I–XX and five centuries of cross-references stay
 undisturbed; the Adepts receive the Office's harshest verdicts, and the Veiled Hand's new margin
-carries the Great-Lie truth (Ört and Svelos among the seven god-kings; Topramesk a third;
+carries the Great-Lie truth (Ört and Svelos among the Seven who led the Adepts and stole the Outer
+Gods' power — the order being far larger, and all of it "ascended"; Topramesk a third of the Seven;
 "ascension" = a stolen throne in the sky) per `secret-the-great-lie.md`. **King Teran X** is staged
 as a Cartosan tall-tale, expressly not of the Carrillo line (entry VII), per the same source's
 disputed-legend decision. The **Adept-hunter** is a Band-V Fragment-scholar postil-hand per

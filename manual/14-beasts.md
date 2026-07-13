@@ -247,10 +247,12 @@ word.
 > subtler and worse: the sealed spirit called across the years until a mage-antiquarian named
 > **Cresius** dug up the stone, and Ea took his body and shut Cresius's soul inside it in his place.
 > It was that stolen life the southern cults raised toward godhood until it was unmade for good. Sith
-> the sailors get right by instinct and wrong in scale — he is no bogey but a Sovereign — and, like
-> every Sovereign the priests file as dead, no one ever audited whether his essence was truly
-> unmade. His drowned churches keep his name warm against the day someone learns the answer.
-> See `secret-the-great-lie.md`.*
+> the sailors get right by instinct and wrong in scale — he is no bogey but **one of the strongest of
+> the old Sovereigns** — and here is the part the priests do not print: **after the Blue Oyster cult
+> fell in 1570, no trace of him remains.** Not among the three Sovereigns loose since the Tide, not
+> among the counted dead — simply *gone from every account.* Perished with his cat's-paw, withdrawn
+> when the plot failed, or waiting somewhere unseen: no one knows, and that not-knowing is the hook.
+> His drowned churches keep his name warm against the day he answers. See `secret-the-great-lie.md`.*
 
 ### DRAGONS LAST
 

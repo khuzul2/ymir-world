@@ -126,24 +126,32 @@ handling of Outer-God power) is precisely what **tore the seal and let the demon
 The **Corrupted Essence** and the **Piano del Caos** are likewise one thing under two names
 (the Plane of Chaos = the realm of Corrupted Essence — see COS-3).
 
-## The named Adepti — the seven god-kings behind the masks `[CANON — decision FRAG-2/D2; source: sources/raw/Fragments.pdf, Fragment A]`
+## The named Adepti — the god-kings, and the Seven who led them `[CANON — decision FRAG-2/D2; source: sources/raw/Fragments.pdf, Fragment A]`
 The four in-world leaves called the **"Fragments"** (`sources/raw/Fragments.pdf`) are a mortal
 scholar's numbered **catalogue of the Adepti as named individuals** — the first source to give the
 usurper-"gods" faces, tempers, dynasties, and personal histories. Read against this file, they
 resolve the Adepti from a faceless cabal into persons.
 
-- **The frame `[CANON — decision FRAG-2/D2]`:** the named Adepti of the catalogue **are the seven
-  god-kings of the Great Lie** — the Adepti-usurpers who took the **sealed Old / Ancient Gods'**
-  thrones and names and had themselves worshipped as sky-gods. **Topramesk il Giallo** (who worked
-  the final Catastrophe ritual, above) is **among the seven**; the catalogue *numbers* them, and
-  **Ört di Xand is the Fifth**.
+- **The Adepti were an order, not a handful `[CANON — decision FRAG-2/D2]`.** They were a whole
+  **empire of archmages**, far **more than seven** — the catalogue runs on for scores of entries
+  (the scholar who compiled it claims to have *named forty and catalogued thirteen*, and to have
+  stopped counting). **Every one of them, in the end, "ascended" in one way or another** — took
+  godhood, or was consumed into a throne, or simply left the world; the catalogue's pious word for
+  all of it is *ascension*.
+- **The Seven are their leaders — the ones who stole the power `[CANON — decision FRAG-2/D2]`.**
+  Above the order stood **seven**: the god-kings of the Great Lie, who **broke the sealed Old /
+  Ancient Gods and drank their power**, took the highest thrones and the oldest names, and had
+  themselves worshipped as the sky-gods. These Seven are **the same seven who worked the theft at
+  Ragash — Topramesk il Giallo and his six companions** (the ritual "of the seven Adepts," above);
+  the catalogue *numbers* them, and **Ört di Xand is the Fifth of the Seven**.
 - **"Ascended into the sky" = took godhood `[INFERRED — FRAG-2/D2]`.** Where the pious catalogue
   says an Adept "**ascended into the sky**," the secret reading is that he **became one of the false
-  sky-gods** — stepped into a sealed elder power's throne. Reconciling this with the Catastrophe:
-  the **seven who worked the *final* ritual at Ragash died** there; **others "ascended" — took
-  godhood — earlier.** `[CONFLICT — left open]` Exactly which named Adepti died in the ritual and
-  which ascended before it is **not forced** here; the overlap is an in-world uncertainty. What is
-  firm is the *frame*: **the named Adepti are the god-kings wearing the masks.**
+  sky-gods** — stepped into a sealed elder power's throne. This dissolves the old puzzle of who
+  "died" in the final ritual: the Seven did not die at Ragash so much as **ascend through it**, the
+  theft and their enthronement being one act; the lesser Adepti ascended by their own lesser roads,
+  earlier or later. All of them are up there, or out there, in some form. What is firm is the
+  *frame*: **the named Adepti are the god-kings wearing the masks, and the Seven are the thieves who
+  made the masks.**
 - **Ört di Xand, "the Shadowed" (l'Adombrato) — the Fifth Adept `[CANON — Fragment A]`.** Touchy of
   temper; **ruled the south-east of Mandolia** (the archaic name of the southern landmass — the
   **Sadhir** and **Ophiur**; → `geography.md`, decision FRAG-7). His **signature working is the
